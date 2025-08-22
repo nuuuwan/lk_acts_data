@@ -1,0 +1,530 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      310,
+      50,
+      27,
+      18
+    ],
+    "text": "3)",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      279,
+      83,
+      86,
+      23
+    ],
+    "text": "Cigars",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78,
+      187,
+      436,
+      25
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      190,
+      225,
+      268,
+      19
+    ],
+    "text": "SOCIALIST REPUBLIC OF",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      265,
+      258,
+      119,
+      18
+    ],
+    "text": "SRI LANKA",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      152,
+      370,
+      337,
+      20
+    ],
+    "text": "LOCAL GOVERNMENT SERVICE",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      246,
+      400,
+      156,
+      23
+    ],
+    "text": "(AMENDMENT)",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      215,
+      438,
+      214,
+      20
+    ],
+    "text": "ACT, No. 16 OF 1987",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      220,
+      539,
+      225,
+      16
+    ],
+    "text": "{Certified om 16th April, 1987)",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      196,
+      590,
+      250,
+      16
+    ],
+    "text": "Printed on the Orders of Government",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      124,
+      642,
+      4,
+      9
+    ],
+    "text": ",",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      84,
+      704,
+      474,
+      18
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the Democratic",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      148,
+      721,
+      348,
+      23
+    ],
+    "text": "Sociatist Republic of Sri Lanka of April 16, 1987",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      137,
+      778,
+      368,
+      10
+    ],
+    "text": "enemy AT THE D2PAXTMEENT OF GOVESHMIENT POINTING, SEX LANES",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      120,
+      795,
+      437,
+      21
+    ],
+    "text": "TO Ay FORGEARE AP TRE GOVKIGAGINT FURLICATION WUWRAG, COUOREO",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      84,
+      824,
+      475,
+      16
+    ],
+    "text": "Price : 30 cents Postage : 75 cents",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      127,
+      21,
+      269,
+      13
+    ],
+    "text": "Local Government Service (Amendment)",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      200,
+      37,
+      124,
+      13
+    ],
+    "text": "Act, No. 26 of 1987",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      165,
+      68,
+      268,
+      14
+    ],
+    "text": "(Certified on 16th April, 1987) .",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      97,
+      135,
+      12
+    ],
+    "text": "L, D0, 14/86 (iv).",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      122,
+      377,
+      14
+    ],
+    "text": "Ax Act 0 anexo THE Locat Govemmnaur Seavice Law,",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      217,
+      140,
+      96,
+      11
+    ],
+    "text": "No. 16 op 1974",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      168,
+      379,
+      18
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic Socialist",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      188,
+      241,
+      14
+    ],
+    "text": "Republic of Sti Lanka as follows :",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88,
+      216,
+      436,
+      21
+    ],
+    "text": "4. This Act may be cited as the Local Government Short ule",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      233,
+      461,
+      17
+    ],
+    "text": "Service (Amendment) Act, No. 16 of 1987, and shall come {foperation,",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      249,
+      381,
+      17
+    ],
+    "text": "into operetion on such date as the Minister may appoint by",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      268,
+      204,
+      14
+    ],
+    "text": "Order published in the Gazette.",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      292,
+      449,
+      28
+    ],
+    "text": "2 Section 2 of the Local Government Service. Law, Amendment",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      314,
+      442,
+      16
+    ],
+    "text": "No. 16 of 1974, as amended hy Act No. 10 of 1085 (herein- Zuftow",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      327,
+      441,
+      20
+    ],
+    "text": "after referred to as the principal enactment), is hereby No J6ot",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      346,
+      382,
+      15
+    ],
+    "text": "further amended in subsection (2) of that section, by the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      362,
+      381,
+      15
+    ],
+    "text": "substitution for the words Municipal Councils, Urban",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      378,
+      381,
+      17
+    ],
+    "text": "Councils and Development Councils , of the words Muni-",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      394,
+      381,
+      17
+    ],
+    "text": "cipal Councils, Urban Cuuneils, Development Couneils and",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      413,
+      134,
+      14
+    ],
+    "text": "Pradeshiya Sabhas.",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      443,
+      451,
+      20
+    ],
+    "text": "3. Section 25 of the principal enactment, as amended by Amendment",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      456,
+      448,
+      19
+    ],
+    "text": "Act No, 10 of 1985, is hereby further amended by the 3sefthe",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      474,
+      453,
+      20
+    ],
+    "text": "substitution for the definition of loval authority *, of the principal |",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      488,
+      449,
+      20
+    ],
+    "text": "following deflnition :- enactment",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      517,
+      368,
+      15
+    ],
+    "text": "*Jocal authority means any Municipal Council, Urban",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      130,
+      534,
+      329,
+      14
+    ],
+    "text": "Couneli, Development Council or Pradeshiya",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      130,
+      551,
+      46,
+      11
+    ],
+    "text": "Sabha.",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      837,
+      449,
+      28
+    ],
+    "text": "e ovcenaem cet",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      81,
+      779,
+      474,
+      13
+    ],
+    "text": "Annual subscription of Billy and Laws of the Parllament Rx 10 (Local),",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      81,
+      794,
+      474,
+      14
+    ],
+    "text": "Ra, 200 (Foreign), payable to the Sureuramers, Govmunuimrr PUNICATIONS",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      81,
+      807,
+      474,
+      14
+    ],
+    "text": "Burzav, Cotoneso 1, before 15th December aach year in respect of the year",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      287,
+      823,
+      57,
+      13
+    ],
+    "text": "following.",
+    "mean_p_confidence": 0.18
+  }
+]

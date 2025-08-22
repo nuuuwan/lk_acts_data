@@ -1,0 +1,409 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      266,
+      76,
+      81,
+      22
+    ],
+    "text": "Lire",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      263,
+      84,
+      89,
+      39
+    ],
+    "text": "Ce",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115,
+      200,
+      378,
+      19
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      176,
+      231,
+      262,
+      18
+    ],
+    "text": "SOCIALIST REPUBLIC OF",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      246,
+      264,
+      118,
+      18
+    ],
+    "text": "SRI LANKA",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      165,
+      364,
+      283,
+      19
+    ],
+    "text": "NATIONAL SAVINGS BANK",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      230,
+      393,
+      155,
+      24
+    ],
+    "text": "(AMENDMENT)",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      199,
+      426,
+      214,
+      20
+    ],
+    "text": "ACT, No, 33 OF 1987",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      214,
+      533,
+      203,
+      16
+    ],
+    "text": "{Certified on 25th June, 1987]",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      96,
+      591,
+      349,
+      16
+    ],
+    "text": ". Printed on the Orders of Government",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68,
+      692,
+      472,
+      18
+    ],
+    "text": "Published as a Supplement to Part IT of the Gazette of the Democratic",
+    "mean_p_confidence": 0.88
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      131,
+      712,
+      346,
+      17
+    ],
+    "text": "Socialist Republie of Sri Lanka of June 26, 1987",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      123,
+      768,
+      364,
+      10
+    ],
+    "text": "PEDIEED AF TE DEPANEMIENY OF QOVOOOENNT FREEING, SME 24004",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      104,
+      784,
+      432,
+      19
+    ],
+    "text": "ae FREE AF Fs SERGEY FORTRON URIS, ORS",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69,
+      809,
+      472,
+      32
+    ],
+    "text": "Price : 30 cents Postage : 78 cents",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      129,
+      42,
+      233,
+      14
+    ],
+    "text": "National Savings Bonk (Amendment)",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      182,
+      58,
+      131,
+      14
+    ],
+    "text": "ACT, No, 33 of 1987",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      152,
+      82,
+      192,
+      14
+    ],
+    "text": "{Certified on 25th June, 1887]",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      107,
+      100,
+      13
+    ],
+    "text": "L, D0, 38/86.",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      130,
+      377,
+      13
+    ],
+    "text": "Am Act To amano THe National, Savanes BANK Act, No, 30",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      225,
+      147,
+      46,
+      11
+    ],
+    "text": "or 1971",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      174,
+      376,
+      15
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic Soctaliat",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      191,
+      232,
+      14
+    ],
+    "text": "Republic of Sri Lanka ss follows >",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      214,
+      436,
+      15
+    ],
+    "text": "1 This Act may be cited an the National Savings Bank short title.",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      232,
+      220,
+      14
+    ],
+    "text": "(Amendment) Act, No, 33 of 1987.",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      262,
+      446,
+      21
+    ],
+    "text": "2, Section 87 of the National Savings Bank Act, No. 30 of Amendment",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      279,
+      462,
+      16
+    ],
+    "text": "4971, 1s hereby amended by the insertion, immediately after fcr No. 20",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      295,
+      432,
+      16
+    ],
+    "text": "the definition of director \" of the following definition : ot 1871.",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      321,
+      366,
+      14
+    ],
+    "text": "guardian in relation to a minor means, the father or",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      113,
+      337,
+      327,
+      13
+    ],
+    "text": "mother of the miner and where the father and",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      113,
+      354,
+      328,
+      15
+    ],
+    "text": "mother are not living, the grandfather or grand-",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      114,
+      371,
+      326,
+      14
+    ],
+    "text": "mother of the minor or any person in whose care",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      114,
+      387,
+      327,
+      15
+    ],
+    "text": "and legal custody the minor is for the time being ;.",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      81,
+      792,
+      470,
+      14
+    ],
+    "text": "Annual subseription of Bills und Acts of the Perliament He, 150 (Local).",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      82,
+      808,
+      469,
+      13
+    ],
+    "text": "fa. 20 (Foreign), payable to the Sovemememenr, Goveumanrs Posiscatuts",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      81,
+      821,
+      470,
+      13
+    ],
+    "text": "Bummsv, Coram 's, before 18th December each year in reepect of the year",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      288,
+      837,
+      51,
+      11
+    ],
+    "text": "allowing",
+    "mean_p_confidence": 0.05
+  }
+]

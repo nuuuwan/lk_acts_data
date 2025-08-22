@@ -1,0 +1,7427 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      272,
+      92,
+      90,
+      41
+    ],
+    "text": "(ex)",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      123,
+      209,
+      389,
+      27
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      186,
+      246,
+      264,
+      18
+    ],
+    "text": "SOCIALIST REPUBLIC OF",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      255,
+      274,
+      117,
+      18
+    ],
+    "text": "SRE LANKA",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      189,
+      398,
+      248,
+      28
+    ],
+    "text": "PROVINCIAL COUNCILS",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      209,
+      432,
+      259,
+      27
+    ],
+    "text": "ACT, No, 42 OF 1987",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      119,
+      552,
+      311,
+      17
+    ],
+    "text": ". {Certified on 14th November, 1987}",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      186,
+      605,
+      248,
+      16
+    ],
+    "text": "Printed on the Orders af Government",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      75,
+      702,
+      470,
+      16
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the Democratic",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      126,
+      721,
+      367,
+      16
+    ],
+    "text": "Socialist Republic of Sri Lanka of November 20, 1987",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      122,
+      774,
+      376,
+      11
+    ],
+    "text": "morc. TOE PLETAL OF OONRELEWY PEND, UE",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78,
+      790,
+      456,
+      29
+    ],
+    "text": "Tie i roca or oom rooms Foe, Gnomes",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      75,
+      820,
+      468,
+      23
+    ],
+    "text": "Brice : Re, 1.50 Postage : Re, 1.18",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157,
+      30,
+      316,
+      14
+    ],
+    "text": "Provineiat Councils Act, Noy 42 of 1987",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      97,
+      59,
+      360,
+      17
+    ],
+    "text": "ny + [Certified on 14th November, 1987], .- +",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88,
+      83,
+      382,
+      13
+    ],
+    "text": "Ls DO, 62/87, Pin Tay ey",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88,
+      105,
+      384,
+      17
+    ],
+    "text": "Axe Acr 70 PROVIDE FOR THE PROCEDURE TO BE.-FOLLOWED 3K;",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      100,
+      127,
+      364,
+      13
+    ],
+    "text": "Provinctal Councits; FOR MATIEAS RELATING 10 THE",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      100,
+      143,
+      363,
+      13
+    ],
+    "text": "Provinctab Posiic Sxevick ; AND POR MAYTERS CONMPCIED",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      101,
+      162,
+      345,
+      12
+    ],
+    "text": "THEREWITH OR INCIDEATALTHERETO: [2b ast (~",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      100,
+      183,
+      360,
+      15
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic So-",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      200,
+      364,
+      13
+    ],
+    "text": "etalist Republic of Sri Lanka ag follows?es' 2-9",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98,
+      231,
+      440,
+      20
+    ],
+    "text": "1, This Act may be cited as, the Provincial Counells Act,, Shorttitte,",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      247,
+      443,
+      17
+    ],
+    "text": "No, 42 of 1987, and shall come into operation in respect operation.",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      264,
+      373,
+      14
+    ],
+    "text": "of all or any of its provisions, on euch date or dates as the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      280,
+      372,
+      15
+    ],
+    "text": "President may appoint; by Order published in-the Gazette,",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      297,
+      373,
+      14
+    ],
+    "text": "not being a date or dates prior to the coming into operation",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      312,
+      374,
+      13
+    ],
+    "text": "of the Thirteenth Amendment to-the Constitutions 1. t 1",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      109,
+      341,
+      339,
+      30
+    ],
+    "text": ": PARTI boot",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      243,
+      373,
+      219,
+      19
+    ],
+    "text": "oF a syn",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98,
+      394,
+      448,
+      32
+    ],
+    "text": "2 Where a Provincial Counefl is established for a Rp",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      418,
+      398,
+      15
+    ],
+    "text": "Province by virtue of Article 154a of the Constitution, the of",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      425,
+      462,
+      32
+    ],
+    "text": "President shall, by Order published in the Gazette, assign rove\"",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      452,
+      456,
+      15
+    ],
+    "text": "name to such Council and specify the number of memberg SU",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      468,
+      457,
+      16
+    ],
+    "text": "such Provincial Council shall consist of, In specifying such se",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      485,
+      450,
+      16
+    ],
+    "text": "sumber, the President shall have regard to the. area and.",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      501,
+      372,
+      13
+    ],
+    "text": "population of the Province for which, that Provincial",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      517,
+      356,
+      18
+    ],
+    "text": "Council ts constituted. Plas oa",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      95,
+      550,
+      446,
+      20
+    ],
+    "text": "2% No person shall be qualified to be elected es. a member Quslitestion",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      566,
+      455,
+      17
+    ],
+    "text": "of-a.Provinelal Councll or to sit.and vote as @ member of: fpemberanip",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      583,
+      463,
+      20
+    ],
+    "text": "such Comme. oi, ar) anette oY tet",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98,
+      603,
+      444,
+      16
+    ],
+    "text": "(a) it euch person ts subject to-any of the disqualifications. Gouncih.",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      620,
+      458,
+      14
+    ],
+    "text": "sc specified in paragraphs. (a); (ch, (d) -(), (f)-and sanedat",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      134,
+      636,
+      322,
+      14
+    ],
+    "text": "wero (9) of Article 91(1). of the- Constitutions, :2!.5 4,",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      656,
+      373,
+      15
+    ],
+    "text": "(0) ff such person is under any law, disqualified from",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      133,
+      673,
+      323,
+      14
+    ],
+    "text": "Voting at an.lection <of mambers to 2 local",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      690,
+      358,
+      17
+    ],
+    "text": "tiers, MUthOrIAY Ss eee Fnaciana, AEP",
+    "mean_p_confidence": 0.07
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96,
+      709,
+      363,
+      15
+    ],
+    "text": "{c) af he is a Member of Parlamont iy: oh. oc +",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      729,
+      372,
+      15
+    ],
+    "text": "2-4@) if he is a member of any other Provincial Counell or",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      132,
+      747,
+      323,
+      12
+    ],
+    "text": "stands nominated as a candidate-for-election for",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      763,
+      319,
+      16
+    ],
+    "text": "Goveret mere than-one Provinelal Counell,. a... 143",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      782,
+      372,
+      13
+    ],
+    "text": "e(e) if he stands. nontinsted asa candidate for election to",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      800,
+      366,
+      14
+    ],
+    "text": "+013 -a-Provinelal Council, by more than one recognized",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      131,
+      816,
+      240,
+      15
+    ],
+    "text": "political party or independent growpas",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      841,
+      132,
+      11
+    ],
+    "text": "3-9 os0830a0.018 tH)",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      157,
+      29,
+      320,
+      17
+    ],
+    "text": "3 Provincial Councils Act,'No, 42 of 1987",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      61,
+      57,
+      473,
+      24
+    ],
+    "text": "Osteen No ember of & Provincial Couneit shall sit or vote",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      58,
+      71,
+      475,
+      31
+    ],
+    "text": "ty 48 auch member until he has taken or subscribed the-oath,",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      59,
+      88,
+      475,
+      28
+    ],
+    "text": "members, or made or subseribed the affirmation, set out in tbe",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      158,
+      111,
+      383,
+      20
+    ],
+    "text": "Fourth Sthedule to the Constitution, 2 tse eA TA",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      62,
+      130,
+      465,
+      36
+    ],
+    "text": "Yate (Yee a member of any Provinelal Couneil yoy",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161,
+      160,
+      373,
+      16
+    ],
+    "text": "* @) becomes subject to any disqualification mentioned",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      174,
+      179,
+      352,
+      16
+    ],
+    "text": "fein section 35 Or... sim, betvine att",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      173,
+      197,
+      361,
+      16
+    ],
+    "text": "() resigng his seat by writing under his hand sddresed.",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      112,
+      215,
+      202,
+      23
+    ],
+    "text": "1 to the Chairman;",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      94,
+      228,
+      273,
+      11
+    ],
+    "text": "Piha ees oe",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      89,
+      230,
+      446,
+      31
+    ],
+    "text": "eae be seat inthe Provinctal Council shall thereupon. becorie",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      96,
+      252,
+      411,
+      22
+    ],
+    "text": ". vacant, OM dey eae ~ .",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      91,
+      279,
+      447,
+      15
+    ],
+    "text": "a 42) If for a petiodof-ninety days a member of the Pro-:",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      158,
+      295,
+      376,
+      16
+    ],
+    "text": "vineial Council is without permission of the Council absent",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83,
+      310,
+      451,
+      17
+    ],
+    "text": ". from all meetings thereof, the Couneil may declate his",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      158,
+      331,
+      77,
+      10
+    ],
+    "text": "seat vacant :",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      171,
+      353,
+      362,
+      15
+    ],
+    "text": "Provided that in computing the said period of winety",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      158,
+      368,
+      375,
+      16
+    ],
+    "text": "days, no account shall be taken of any period during which",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93,
+      385,
+      441,
+      19
+    ],
+    "text": "_ the Council 14 prorogued for more then four consecutive",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      78,
+      399,
+      447,
+      19
+    ],
+    "text": "agg day bo a au toe ty Pee?",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      61,
+      421,
+      471,
+      20
+    ],
+    "text": "Fensiip.be,..f 8, If a person sits or votes az a member of a Provincial",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      60,
+      438,
+      474,
+      22
+    ],
+    "text": "waing 20d.\" Council before he has complied with the requirements of",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      56,
+      456,
+      478,
+      28
+    ],
+    "text": "pared section 4, or when he knows that he is not qualified, or that,",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      61,
+      473,
+      474,
+      18
+    ],
+    "text": "hon he is disqualified, for membership thereof, he shall: be",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      57,
+      487,
+      481,
+      25
+    ],
+    "text": "disqualified. linble.in respect of each day on which he so sits or votes:",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      160,
+      508,
+      374,
+      15
+    ],
+    "text": "to a penalty of one hundred rupees to be recovered as 6",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      160,
+      526,
+      136,
+      11
+    ],
+    "text": "debt due to the State.",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      78,
+      549,
+      445,
+      18
+    ],
+    "text": "soon craters si6 tet end PART Dee 6 6 apc sett",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      81,
+      569,
+      454,
+      19
+    ],
+    "text": "4t1 teow Mievoics ane Conpucr'or Bummuss Gr Puovincial, CouNctia",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      62,
+      586,
+      474,
+      20
+    ],
+    "text": "Chakmen:.yy 7% () Every Provincial Council shall, ag soon as may",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      62,
+      601,
+      473,
+      22
+    ],
+    "text": "Peony f! Be, choose two wembers of the Council to be respectively",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      58,
+      616,
+      478,
+      24
+    ],
+    "text": "Chairmen, Chairman and Deputy Chafrman thereof and, so often af",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161,
+      638,
+      374,
+      17
+    ],
+    "text": "the office of Chairman or Deputy Chairman becomes vacant,",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161,
+      656,
+      374,
+      13
+    ],
+    "text": "the Council shall choose ancther member to be Chairmen",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      162,
+      672,
+      313,
+      17
+    ],
+    "text": "dr Deputy Chairman, #3 the case may. be. +:",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      177,
+      696,
+      358,
+      16
+    ],
+    "text": "(@) A member bolding office as Chairman or Deputy",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      159,
+      713,
+      363,
+      12
+    ],
+    "text": "Chairman of a Provincial Couneil vie) 4 1?",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      167,
+      730,
+      369,
+      16
+    ],
+    "text": "*\"Ya)\"'thall vicete hii office if he ceases'to bea member of",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      190,
+      750,
+      295,
+      14
+    ],
+    "text": "so hes the Counell 7 uur 26 dowsucan swe",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      177,
+      767,
+      358,
+      18
+    ],
+    "text": "@) may at any time by writing under hia hand addressed,",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      164,
+      786,
+      371,
+      15
+    ],
+    "text": "ete 4 gach meimber fg the Chairman, to the: Deputy",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      197,
+      800,
+      338,
+      21
+    ],
+    "text": "- Chairman, and if sich member is the Deputy Chait",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      211,
+      821,
+      268,
+      14
+    ],
+    "text": "man tothe Chairman, resign his office 7\"",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115,
+      27,
+      320,
+      24
+    ],
+    "text": "Provincial, Councils, Act, No. 42 of 1867 om",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71,
+      59,
+      355,
+      20
+    ],
+    "text": "-4),taay.be removed from his office by a resolution of the",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72,
+      76,
+      355,
+      20
+    ],
+    "text": "ig - Counall passed by a majority of the whole number",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      78,
+      93,
+      348,
+      19
+    ],
+    "text": "vicy sof-members of the Council (ineluding these not",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      106,
+      104,
+      260,
+      30
+    ],
+    "text": "present} = vot",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73,
+      129,
+      352,
+      17
+    ],
+    "text": "Provided that whenever th Council is dissolved, the",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      60,
+      148,
+      365,
+      14
+    ],
+    "text": "Chairman shall not vacate his office. until. immediately",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      61,
+      165,
+      369,
+      16
+    ],
+    "text": "before the first meeting of the Council after the dissolution. .",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      81,
+      187,
+      349,
+      18
+    ],
+    "text": "@) While the office of Chairman fs vacant, the duties af",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      68,
+      206,
+      362,
+      16
+    ],
+    "text": "the office shall be performed by the Deputy Chairman or,",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      68,
+      222,
+      362,
+      16
+    ],
+    "text": "if the office of Deputy Chairman ix also vacant, by such",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67,
+      237,
+      363,
+      16
+    ],
+    "text": "member of the Council as may be determined by the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      58,
+      256,
+      361,
+      14
+    ],
+    "text": "Pales of procedure of the Council, . .",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      81,
+      280,
+      348,
+      15
+    ],
+    "text": "(4) During the absence of the Chairman from any.",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66,
+      295,
+      363,
+      16
+    ],
+    "text": "sttting of the Counell, the Deputy Chairman, or, if he is also",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66,
+      311,
+      363,
+      16
+    ],
+    "text": "brent, such pervon az may be determined by the rules",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      65,
+      327,
+      364,
+      16
+    ],
+    "text": "of procedure of the Councll, or, if no such person is",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66,
+      343,
+      363,
+      17
+    ],
+    "text": "Present, such other person as may be determined by the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      63,
+      361,
+      286,
+      18
+    ],
+    "text": "Couneil shell act ax Chairman, =",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      79,
+      385,
+      349,
+      16
+    ],
+    "text": "(8) There shall be paid to the Chairman and the Deputy",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      63,
+      401,
+      366,
+      14
+    ],
+    "text": "Chairman of the Provincial Council such salaries and.",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      57,
+      412,
+      372,
+      26
+    ],
+    "text": "aliowanves ag may be fixed by the. Provincial Council, by",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      53,
+      432,
+      375,
+      17
+    ],
+    "text": "1 statue and, until provision in that behalf is s0.made, such",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      63,
+      448,
+      364,
+      14
+    ],
+    "text": "miaries and allowances ax the Governor may, with the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      63,
+      466,
+      290,
+      15
+    ],
+    "text": "approval of the President, by order, determine.",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73,
+      488,
+      424,
+      21
+    ],
+    "text": "& (1) At any sitting of the Provincial Council, while, Cosimmas",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      61,
+      507,
+      435,
+      14
+    ],
+    "text": "any resolution for the removal of the Chairman from his Gyalrman",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      60,
+      519,
+      421,
+      22
+    ],
+    "text": "office ia under consideration, the Chairman, or while..any 30%",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      60,
+      539,
+      412,
+      20
+    ],
+    "text": "seaolution for the removal of the Deputy Chairmanfrom bis, Mille",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      59,
+      550,
+      436,
+      21
+    ],
+    "text": "office is under consideration, the Deputy Chatrman,. shell Femi",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      60,
+      571,
+      426,
+      20
+    ],
+    "text": "not, though he is present, preside, and the provisions of Teoval",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      59,
+      584,
+      440,
+      19
+    ],
+    "text": "subsection (4) of section 7 shall apply in relation to every Yaaissien,",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      59,
+      604,
+      368,
+      16
+    ],
+    "text": "such sitting as they apply in relation to a sitting from which",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      58,
+      621,
+      446,
+      14
+    ],
+    "text": "tha Chairman or, as the case may be, the Deputy Chairman: .",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      56,
+      637,
+      321,
+      19
+    ],
+    "text": "ie absent esos Wn erie a",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73,
+      654,
+      353,
+      22
+    ],
+    "text": "(2) The Chairman shall have the right to speale in, and",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      57,
+      680,
+      369,
+      19
+    ],
+    "text": "otherwise to take part in the proceedings of, the Provineial.",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      58,
+      700,
+      368,
+      16
+    ],
+    "text": "Coumeil-while any resolution for his removal, from office is",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      57,
+      720,
+      368,
+      14
+    ],
+    "text": "under -consideration in the Council and shall, notwithstand-",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      51,
+      736,
+      377,
+      26
+    ],
+    "text": "ing anything in section 10, be entitled to vate only in the first:",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      55,
+      760,
+      370,
+      14
+    ],
+    "text": "instance on such resolution or on any ether matter during",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      56,
+      779,
+      368,
+      17
+    ],
+    "text": "such proceedings but notin the caseof an. equality of",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      52,
+      795,
+      450,
+      27
+    ],
+    "text": "of votes, -",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      198,
+      18,
+      199,
+      11
+    ],
+    "text": "r ~",
+    "mean_p_confidence": -0.0
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      99,
+      31,
+      409,
+      14
+    ],
+    "text": ". 4 Provincial Cowncile Act, No. 42 of 1987",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      94,
+      55,
+      474,
+      30
+    ],
+    "text": "Powers % (1) Sabject to the provisions of this Act and: to the",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      97,
+      76,
+      469,
+      21
+    ],
+    "text": "Pbsece | Tiles aba standing orders regulating the procedure of @",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      95,
+      89,
+      471,
+      29
+    ],
+    "text": "cd Provineial Council, there hall be freedom of speech in every",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      97,
+      107,
+      212,
+      20
+    ],
+    "text": "yom Provincial Council,",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      205,
+      147,
+      360,
+      14
+    ],
+    "text": "@) No member of th Provincial Councti shall be Huble",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      186,
+      164,
+      380,
+      15
+    ],
+    "text": "to any proceedings in Court im respect of anything sald or",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      186,
+      180,
+      379,
+      15
+    ],
+    "text": "any vote given by him in the Council or any Committee",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      186,
+      195,
+      378,
+      17
+    ],
+    "text": "thereof, and no petsan shall be Liable in respect of the pub-",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      186,
+      211,
+      386,
+      17
+    ],
+    "text": "Yeation by, or under, the authority of such Council, of ,",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      188,
+      232,
+      250,
+      13
+    ],
+    "text": "any report, paper, votes or proceedings.",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      202,
+      257,
+      359,
+      16
+    ],
+    "text": "{@) The provisions of subsections (1) and (2) shall",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      187,
+      274,
+      374,
+      16
+    ],
+    "text": "apply in relation to persons who by virtue of ony written",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      186,
+      290,
+      375,
+      16
+    ],
+    "text": "Jaw have the right to speak in, and otherwise te take part",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      186,
+      307,
+      375,
+      15
+    ],
+    "text": "in, the proceedings of, Provincial Council or any committer",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      169,
+      322,
+      391,
+      17
+    ],
+    "text": "thereof as they apply in relation to members of that Couneit.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      94,
+      344,
+      467,
+      30
+    ],
+    "text": "Voting 16. (1) Save as otherwise provided in this Act, all ques-",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      89,
+      361,
+      470,
+      28
+    ],
+    "text": "Benet. tona at any sitting of the Provineial Council shall be de-",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      186,
+      385,
+      374,
+      16
+    ],
+    "text": "termined by a majority of votes of the members present",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      185,
+      400,
+      376,
+      17
+    ],
+    "text": "and voting other than the Chairman or person acting as such.",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      199,
+      424,
+      363,
+      17
+    ],
+    "text": "(2) The Chairman or person acting as such shall not vote",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      185,
+      440,
+      378,
+      15
+    ],
+    "text": "4n, the first instance but shall have and exercise a casting",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      185,
+      459,
+      374,
+      16
+    ],
+    "text": "vote in the case of'an equality of votes. .",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      120,
+      481,
+      442,
+      16
+    ],
+    "text": ". @) A Provincia? Council shall have the power to act",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      121,
+      497,
+      441,
+      17
+    ],
+    "text": "notwithstanding any vacancy in the membership thereof,",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      121,
+      514,
+      440,
+      16
+    ],
+    "text": "and any proceedings in any such Council shali be valid, not~",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      135,
+      532,
+      427,
+      14
+    ],
+    "text": "+-./\" withstanding that it is discovered subsequently that some",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      121,
+      546,
+      440,
+      17
+    ],
+    "text": "77\". (person who was not entitled to do so, sat or voted or other-",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      130,
+      565,
+      271,
+      18
+    ],
+    "text": ": wise took part in the proceedings.",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      123,
+      587,
+      438,
+      17
+    ],
+    "text": ". \\... 2 @) The quorum to constitute a meeting of a Provincia!",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      186,
+      604,
+      376,
+      15
+    ],
+    "text": "Couneil shall be one-third of the total umber of members",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      186,
+      621,
+      376,
+      14
+    ],
+    "text": "of the Council. Where one-third of the number of members",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      185,
+      637,
+      377,
+      17
+    ],
+    "text": "is an integer and fraction, the integer immediately higher",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      185,
+      655,
+      376,
+      14
+    ],
+    "text": "to that integer and fraction shall he deemed to be the one",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      186,
+      670,
+      375,
+      17
+    ],
+    "text": "third of the number of members for the purpose of bis",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      200,
+      711,
+      361,
+      18
+    ],
+    "text": "(8) If at any time during a- meeting of a Provincial",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      185,
+      728,
+      376,
+      17
+    ],
+    "text": "Couneil there is no quorum, tt shall be the duty of the",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      185,
+      745,
+      375,
+      17
+    ],
+    "text": "Chairman, or person acting as such, either to adjourn the",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      185,
+      762,
+      373,
+      18
+    ],
+    "text": "Council or to suspend the meeting until there ia a quorum.",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86,
+      780,
+      472,
+      27
+    ],
+    "text": "Rolesot 4. A-Provinetal Council may make rules for regulating.",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90,
+      801,
+      467,
+      24
+    ],
+    "text": "Procedare, _gubject to the provisions of this Act, its procedure aod: fbt",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      185,
+      825,
+      149,
+      13
+    ],
+    "text": "conduct of its business :",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      117,
+      31,
+      323,
+      27
+    ],
+    "text": ". Provincial Councils Act, No, & of 1987 5",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      78,
+      65,
+      361,
+      16
+    ],
+    "text": "Provided that the Provineial Council shall, after consul",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      54,
+      82,
+      386,
+      15
+    ],
+    "text": "tation with the Chalrmen of such Council and with the",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      63,
+      100,
+      254,
+      14
+    ],
+    "text": "approval af the President. make rules",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      80,
+      118,
+      358,
+      17
+    ],
+    "text": "{@) for securing the timely completion of financial",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      117,
+      137,
+      271,
+      16
+    ],
+    "text": "business; .",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65,
+      157,
+      373,
+      18
+    ],
+    "text": "* @) tor regulating the procedure of, and the conduct of",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      114,
+      175,
+      324,
+      15
+    ],
+    "text": "business in, the Provincial Councif in relation to",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      114,
+      192,
+      324,
+      15
+    ],
+    "text": ".., any financial matter or to any statute for the appro-",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      80,
+      207,
+      359,
+      16
+    ],
+    "text": "*\"\" priation of moneys out of the Provincial Fund of",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      116,
+      227,
+      403,
+      14
+    ],
+    "text": "the Province; *' aes",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      78,
+      244,
+      360,
+      16
+    ],
+    "text": "(c) for prohibiting the discussion of, or the asking of",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115,
+      261,
+      323,
+      15
+    ],
+    "text": "questions on, any matter which affects the discharge",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115,
+      276,
+      323,
+      13
+    ],
+    "text": "of functions of the Governor in so far as be is re-",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      116,
+      293,
+      322,
+      14
+    ],
+    "text": "quired by the Constitution or this Act, to act in his",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      114,
+      310,
+      280,
+      17
+    ],
+    "text": "discretion, .",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      77,
+      339,
+      428,
+      21
+    ],
+    "text": "1% (1) The validity of any proceedings in a Provincial Court aot",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      64,
+      356,
+      442,
+      21
+    ],
+    "text": "Councit shall not be called in question on the ground of joiaure",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      63,
+      377,
+      454,
+      20
+    ],
+    "text": "alleged irregularity of procedure, = Pyccoadings",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      80,
+      398,
+      429,
+      20
+    ],
+    "text": "(2) No officer or member of a Provincial Counell in Ptoriasial",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65,
+      418,
+      373,
+      15
+    ],
+    "text": "whom powers are vested, by or under this Act, for regulating",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      62,
+      434,
+      376,
+      15
+    ],
+    "text": "the procedure, or the conduct of business, or for maintaining",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      64,
+      451,
+      373,
+      14
+    ],
+    "text": "order, in such Council shalt be subject to the jurisdiction of",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      63,
+      467,
+      374,
+      15
+    ],
+    "text": "any Court in respect of the exercise by him of those powers,",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      75,
+      499,
+      437,
+      15
+    ],
+    "text": "13. The property of the State shall, save in 90 far as Exemption",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      57,
+      509,
+      424,
+      38
+    ],
+    "text": "Parlement may by law otherwise.provide, be exempt from Siig",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      62,
+      534,
+      374,
+      14
+    ],
+    "text": "alt taxes imposed by or under any statute made by a Pro-",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      58,
+      532,
+      442,
+      41
+    ],
+    "text": "vinci] Counc ee",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      73,
+      574,
+      423,
+      27
+    ],
+    "text": "14. (1) A statute pending in a Provincial Council shell Lposlag",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      55,
+      589,
+      442,
+      31
+    ],
+    "text": "Rot lapse by reason of the prorogation of such Council, Statatoe,",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      75,
+      622,
+      361,
+      14
+    ],
+    "text": "(2) A statute pending in a Provincial Council shall Japse",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      60,
+      635,
+      439,
+      23
+    ],
+    "text": "n a dissolution of the Council. .",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      73,
+      671,
+      423,
+      22
+    ],
+    "text": "45, (1) Tho Govemor shall make rules for the allocation Condint",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      57,
+      691,
+      441,
+      15
+    ],
+    "text": "of business among the Ministers in.eo far as it is not busl- business,",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      60,
+      712,
+      372,
+      15
+    ],
+    "text": "nesi with rxpect to which the Governor is by, or under,",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      57,
+      724,
+      442,
+      31
+    ],
+    "text": "the Constitution required to act in his discretion, :",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      53,
+      760,
+      380,
+      15
+    ],
+    "text": "(2) Save ag otherwise provided in this Act, all executive",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      59,
+      780,
+      373,
+      15
+    ],
+    "text": "action_of the Governor, whether taken on the advice of his",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      60,
+      800,
+      371,
+      15
+    ],
+    "text": "Ministers ot otherwise, shall be expressed to be taken in the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      60,
+      821,
+      141,
+      12
+    ],
+    "text": "name of the President,",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      163,
+      33,
+      315,
+      15
+    ],
+    "text": "7 WON ee ta ee",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      198,
+      46,
+      320,
+      13
+    ],
+    "text": "Provincial Cowncil' Act, Wo, 42-of 1987",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      192,
+      66,
+      168,
+      10
+    ],
+    "text": "sheng + ase i -",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      191,
+      77,
+      385,
+      15
+    ],
+    "text": "40, (@), Ordery and uther instruments made arid executed",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      198,
+      94,
+      377,
+      14
+    ],
+    "text": "in the name of the President, shall be authenticated - in",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      194,
+      110,
+      381,
+      17
+    ],
+    "text": "much zoanner ax may be specified in rules to be madeby the",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      126,
+      127,
+      449,
+      15
+    ],
+    "text": ". . Governor, and the validity of an order or instrument which",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      188,
+      144,
+      387,
+      16
+    ],
+    "text": ", 4s so authenticated shall not be called in question on the",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      199,
+      161,
+      376,
+      13
+    ],
+    "text": "ground that it is not an order or instrument, made of",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      198,
+      177,
+      310,
+      13
+    ],
+    "text": "executed by the President, .:.. ._ i on",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      104,
+      200,
+      471,
+      21
+    ],
+    "text": "Contrarts 5 16,\".(1). Al contracts entered into in the exercise of the",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      104,
+      216,
+      469,
+      29
+    ],
+    "text": "ey executive power of the Governor of the Province, shall he",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      186,
+      241,
+      387,
+      14
+    ],
+    "text": "entered into, and performed, in the name of the Provincial",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      197,
+      257,
+      376,
+      14
+    ],
+    "text": "Council constituted for that Province, as if such Provinelal",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      185,
+      275,
+      317,
+      17
+    ],
+    "text": "-Couneil were a body corporate, -",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      192,
+      294,
+      380,
+      21
+    ],
+    "text": "* (a) All actions in relation to the exercise of such execu",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      197,
+      318,
+      375,
+      15
+    ],
+    "text": "tive power shall be brought by, or against such Provincial",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      125,
+      335,
+      447,
+      16
+    ],
+    "text": "+ Council, as # such Provincial Council were a body com",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      147,
+      353,
+      355,
+      12
+    ],
+    "text": "2 porate. : i",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      102,
+      375,
+      470,
+      21
+    ],
+    "text": "Seeretarist 17, (1) A Provincial Counefl shall have its own secre-",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      99,
+      400,
+      361,
+      16
+    ],
+    "text": "ee. are an",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      212,
+      424,
+      359,
+      14
+    ],
+    "text": "(2) A Provincial Council may, by statute, regulate the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      181,
+      441,
+      391,
+      14
+    ],
+    "text": "* Tecruitment, and conditions of service, of persons sppoint-",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      182,
+      456,
+      172,
+      12
+    ],
+    "text": "\"ed to its secretarial staff",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      101,
+      478,
+      469,
+      34
+    ],
+    "text": "Retrletion 18 Subject to paragraph (4) of Article 154 of the",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      97,
+      502,
+      472,
+      23
+    ],
+    "text": "discussion Constitution, no discussion shall take place in a Provincial",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      101,
+      516,
+      468,
+      29
+    ],
+    "text": "Provincial Council with respect to the conduct of the President or the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      97,
+      537,
+      473,
+      22
+    ],
+    "text": "Council. Governor or & Judicial Officer or a Member of Parliament.",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      159,
+      568,
+      254,
+      17
+    ],
+    "text": ": . PART Ul",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      145,
+      588,
+      263,
+      17
+    ],
+    "text": ": wy Frvaxce",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      97,
+      610,
+      474,
+      21
+    ],
+    "text": "Provinclat 19, (1) There shall be a Provincial Fund for each Pro-",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      96,
+      620,
+      435,
+      30
+    ],
+    "text": "pundot wince into which shall be pald\" = :",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      211,
+      652,
+      359,
+      15
+    ],
+    "text": "(@) the proceeds of all taxes imposed by the Provincial",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      128,
+      661,
+      379,
+      28
+    ],
+    "text": "ses Counell of that Province; en",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      114,
+      693,
+      456,
+      18
+    ],
+    "text": "series\" () the proceeds of all grants made to such Provincial",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      244,
+      718,
+      329,
+      15
+    ],
+    "text": "Council in respect of the Province, by the Govern-,",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      239,
+      739,
+      194,
+      13
+    ],
+    "text": "+ ment of Sti Lanka; .",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      191,
+      760,
+      377,
+      20
+    ],
+    "text": "(@) the proceeds of all joans advanced to the Provincial",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      176,
+      784,
+      391,
+      20
+    ],
+    "text": "* Counell from the Consolidated Fund of Sri Lanka:",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      207,
+      830,
+      306,
+      19
+    ],
+    "text": "(d) all other receipts of the Provincial Council",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      146,
+      31,
+      322,
+      17
+    ],
+    "text": "\\Provinclal Councils Act, No. 42 of 1957 7",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      87,
+      64,
+      381,
+      17
+    ],
+    "text": "int.) No moneys out of the Provincial Fund of a Province",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      77,
+      80,
+      391,
+      17
+    ],
+    "text": "., abail be appropriated except in accordance with, end for",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      92,
+      98,
+      363,
+      15
+    ],
+    "text": "the purposes, and in the manner, provided in this Acc ;;",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      91,
+      116,
+      376,
+      17
+    ],
+    "text": "48) No:purn shal) be withdrawn. from the Provincia}",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      95,
+      133,
+      372,
+      16
+    ],
+    "text": "Fund of a Province except under a, warrant under the bend",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      87,
+      152,
+      370,
+      12
+    ],
+    "text": "~of the Chief Minister of the Province, 0 0070-1 i aesetse",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      110,
+      169,
+      358,
+      16
+    ],
+    "text": "(4) No auch warrant shall be issued unless the dum, hus",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      95,
+      187,
+      373,
+      15
+    ],
+    "text": "by statute of the Provincial Council, been granted for ser-",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      86,
+      203,
+      382,
+      18
+    ],
+    "text": "* vices for the financial year during whiich the withdrawal i=",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      95,
+      219,
+      373,
+      16
+    ],
+    "text": "to take place or is otherwise Inwfulty charged on the Pro-",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      87,
+      238,
+      333,
+      15
+    ],
+    "text": "vincial Fund of the Province. nae",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      87,
+      254,
+      381,
+      19
+    ],
+    "text": ";._ @) The custody of the Provincial Fund of a Province,",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      95,
+      272,
+      374,
+      15
+    ],
+    "text": "the payment of moneys into such Fund, and all other",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      95,
+      287,
+      374,
+      16
+    ],
+    "text": "matters connected with, or ancillary to, those ' inatid:.",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      84,
+      306,
+      470,
+      20
+    ],
+    "text": "_, Shall be regulated by rules made by the Governor, hoses",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      85,
+      333,
+      469,
+      18
+    ],
+    "text": "1 98, (0) There shall be established a Emergency 'Fund in Emeremice,",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      96,
+      348,
+      458,
+      20
+    ],
+    "text": "the nature of an imprest to be entitied mergency'Fund \"tbe",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      97,
+      370,
+      456,
+      18
+    ],
+    "text": "of the Province into which shall be paid from and out of Provincs, |",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      96,
+      387,
+      374,
+      15
+    ],
+    "text": "the Provinefal Fund of the Province sueh sums 'as may, =",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      94,
+      403,
+      377,
+      14
+    ],
+    "text": "from time to time, be determined by statute made by the",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      93,
+      419,
+      378,
+      15
+    ],
+    "text": "Provincial Council, and guch, Fund shall be held by: the",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      86,
+      436,
+      385,
+      14
+    ],
+    "text": ": Governor to enakle advances to. be made by him cut -of",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      96,
+      454,
+      361,
+      11
+    ],
+    "text": "Such Fund, . toa, mage",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      112,
+      473,
+      459,
+      13
+    ],
+    "text": "(2) No advances shall be made out of the Emergency",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      96,
+      490,
+      375,
+      13
+    ],
+    "text": "Fund of the Province except for the purposes of meeting",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      84,
+      505,
+      387,
+      15
+    ],
+    "text": "* wnforeseen expenditure pending authorization of such ex-",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      96,
+      523,
+      375,
+      14
+    ],
+    "text": "penditure by the Provincfel Couneil under appropriations",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      96,
+      540,
+      355,
+      17
+    ],
+    "text": "made by statute-under sections 26 and 27. i . .",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      89,
+      555,
+      382,
+      18
+    ],
+    "text": "\"\\\\ 3) The Governor may make rules regulating all matters",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      96,
+      576,
+      375,
+      16
+    ],
+    "text": "connected with, or ancillary ta, the custody of, the payment",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      81,
+      590,
+      390,
+      16
+    ],
+    "text": ". of moneys into, and the withdrawal of moneys from, the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      89,
+      609,
+      328,
+      19
+    ],
+    "text": "_ Emergency Fund of the Provines. '",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108,
+      641,
+      450,
+      14
+    ],
+    "text": "21, (1) The Minister in charge of th subject of Pinsnce Government",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      85,
+      655,
+      457,
+      21
+    ],
+    "text": "+ may.give guarantees ia respect of loans raised by a: Pro. {OU",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83,
+      676,
+      436,
+      23
+    ],
+    "text": "7 vineiaCounedl: cos too Toons.",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      112,
+      714,
+      372,
+      14
+    ],
+    "text": "(2) Immediately after a guarantee fs given under sub-",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83,
+      733,
+      389,
+      15
+    ],
+    "text": "+ section {1), the Minister in charge of the subject of Finance",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      97,
+      750,
+      374,
+      18
+    ],
+    "text": "shall, lay a statement of such guarantee before Parliament.",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      84,
+      773,
+      387,
+      22
+    ],
+    "text": "+ @) Any sum required for the fulfilment of a gvarintee",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      96,
+      798,
+      375,
+      14
+    ],
+    "text": "given imded sibsection (1) shall be peid out of the Con-",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      84,
+      814,
+      428,
+      20
+    ],
+    "text": "goltdated Fund ofSri Lanko, * .",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      161,
+      31,
+      348,
+      16
+    ],
+    "text": "4 Provincial Councils Act; No. 42 of 1987 |",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      184,
+      65,
+      361,
+      15
+    ],
+    "text": "Any sum pad out of the Consolidated Fund of | Sri",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      165,
+      82,
+      379,
+      14
+    ],
+    "text": "Lanka in fulfilment of a guarantee given under subsection",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      171,
+      98,
+      373,
+      14
+    ],
+    "text": "@ shall be repaid, together with interest thereon, at such",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      161,
+      114,
+      384,
+      15
+    ],
+    "text": "wateas may be determined by the Minister in charge of",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      160,
+      131,
+      385,
+      14
+    ],
+    "text": "+whe.mubject of Finance, by the Provincial Council, in ;such",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      168,
+      147,
+      377,
+      14
+    ],
+    "text": "manner and over such period, as the Minister in charge of",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      168,
+      164,
+      351,
+      17
+    ],
+    "text": "the subject of Finance may determine. . a",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      162,
+      188,
+      383,
+      23
+    ],
+    "text": "|. @)\"A Provincial Couneil may not, without the consent",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      167,
+      212,
+      377,
+      15
+    ],
+    "text": "ofthe Minister in charge of the subject of Finance, raise",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      166,
+      229,
+      377,
+      15
+    ],
+    "text": "any loan if there is still outstanding any part of a loan",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      167,
+      245,
+      377,
+      14
+    ],
+    "text": "which bas been made in respect of a Provineisl Couvcil out",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      167,
+      262,
+      377,
+      13
+    ],
+    "text": "Of the Consolidated Fund of Sri Lanka or in respect of",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      164,
+      277,
+      366,
+      19
+    ],
+    "text": "which a guarantee has been given under subsection (1).",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      68,
+      305,
+      476,
+      34
+    ],
+    "text": "Fovsien 22, Forelgn aid negotiated by the Government for a",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      71,
+      330,
+      472,
+      17
+    ],
+    "text": "Siatinoiay ss: Pegject or scheme in a Province, shall be allocated by the",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      71,
+      348,
+      347,
+      19
+    ],
+    "text": "projects, 4) Government to such project or scheme.",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      71,
+      372,
+      472,
+      25
+    ],
+    "text": "aut \"93. (4) article 154 of the Constitution shall apply to the",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      154,
+      397,
+      376,
+      12
+    ],
+    "text": ", audit and accounts of the Provincia! Fund of a Province.",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      155,
+      421,
+      388,
+      14
+    ],
+    "text": "\"(A copy of the Auditor-Generals report relating to",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      166,
+      436,
+      376,
+      13
+    ],
+    "text": "the accounts of the Provineial Fund of a Province shell",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      166,
+      453,
+      375,
+      13
+    ],
+    "text": "be submitted to the Governor who shall cause it ta be Iaid",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      166,
+      471,
+      219,
+      12
+    ],
+    "text": "before the Provincial Council, .",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      70,
+      492,
+      473,
+      21
+    ],
+    "text": "specat 26. (1) A statute in relation to any subject with respect",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      66,
+      508,
+      477,
+      28
+    ],
+    "text": "propedare to which the Provincial Council has power to make statutes,",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      66,
+      522,
+      477,
+      31
+    ],
+    "text": "Diatates shall not be introduced.into, or moved im, a Provinctal",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      66,
+      540,
+      477,
+      28
+    ],
+    "text": "polating Council except on the recommendation of the Governor, if",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      65,
+      561,
+      478,
+      29
+    ],
+    "text": "Soepetat * wich statute makes provision for any of the following",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      69,
+      578,
+      378,
+      24
+    ],
+    "text": "matiees, mmatters, mamelys .",
+    "mean_p_confidence": -0.0
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      179,
+      614,
+      363,
+      19
+    ],
+    "text": "(2) the fanposition, abolition, remission, alteration ar re-",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      152,
+      636,
+      362,
+      16
+    ],
+    "text": "coor vgs Salation ofany tary. er et",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      175,
+      660,
+      367,
+      14
+    ],
+    "text": "(0) the amendment of the-law with respect to any",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      217,
+      675,
+      324,
+      15
+    ],
+    "text": "financial obligations undertaken, or to beunder-",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      217,
+      691,
+      324,
+      16
+    ],
+    "text": "taken, in respect of the administration of the",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      207,
+      710,
+      173,
+      17
+    ],
+    "text": "pee HOVE i a",
+    "mean_p_confidence": 0.09
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      181,
+      732,
+      360,
+      17
+    ],
+    "text": "{e) the appropriation of moneys out of the . Provincial",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      151,
+      751,
+      320,
+      16
+    ],
+    "text": "yp .- *s Bund of the Provinoes - .",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      151,
+      775,
+      389,
+      16
+    ],
+    "text": "oat (a) the declating of- any. expenditure to be expenditure",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      170,
+      792,
+      370,
+      20
+    ],
+    "text": "> ag Stated on the Provincial Fund of the Province oF",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      171,
+      810,
+      368,
+      17
+    ],
+    "text": "~ \"the increasing of the amount of any such ex-",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      217,
+      829,
+      67,
+      13
+    ],
+    "text": "penditure ;",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      111,
+      19,
+      342,
+      19
+    ],
+    "text": "\" Provingiat Councils Act, No. 42 of 1987 ay",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      85,
+      55,
+      369,
+      14
+    ],
+    "text": ". () the receipt of money on account of the Provincial",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      69,
+      71,
+      386,
+      15
+    ],
+    "text": "nuit /Pund.of-the Provinee or the custody .or.. issue of",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      71,
+      112,
+      385,
+      14
+    ],
+    "text": "5%) A statute aball not he deomed to make provision for",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      77,
+      129,
+      379,
+      14
+    ],
+    "text": "any of the.matters aforesaid by reason omly that ft provides",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      78,
+      145,
+      379,
+      15
+    ],
+    "text": "for the imposition of-fnes or other pecuniary penalties, or",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      79,
+      162,
+      378,
+      14
+    ],
+    "text": "for the demand or payment of fees for licences or fees for,",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      78,
+      179,
+      379,
+      14
+    ],
+    "text": "services rendered, or by reason that it provides for the im-",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      78,
+      195,
+      451,
+      14
+    ],
+    "text": "position, abolition, remission, alteration or regulation of )",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      78,
+      212,
+      366,
+      15
+    ],
+    "text": "any tax by any local authority or body, te local purposes.",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      93,
+      232,
+      415,
+      23
+    ],
+    "text": "(3) A statute which, if enacted and brought into ope- oe",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      78,
+      252,
+      380,
+      15
+    ],
+    "text": "ration would involve expenditure from the Provincial: Fund",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      78,
+      269,
+      380,
+      15
+    ],
+    "text": "of a Province shall not be passed by the Provinelal Council",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      78,
+      286,
+      381,
+      13
+    ],
+    "text": "of the Province, unless the Governor has recommended 0",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      79,
+      303,
+      289,
+      12
+    ],
+    "text": "that Councfl the consideration of the statute.",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      71,
+      323,
+      443,
+      17
+    ],
+    "text": "-. 28, (1) The Governor of a Province shall in respect of Anmuat",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      75,
+      336,
+      455,
+      22
+    ],
+    "text": "every financial yeor, at least five months before the expira- S22Sremy,",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      78,
+      360,
+      380,
+      14
+    ],
+    "text": "tion of auch financlal year, cause to be laid before the Pro-",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      78,
+      376,
+      380,
+      14
+    ],
+    "text": "vincial Council of that Province, a statement of the est!",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      78,
+      394,
+      380,
+      14
+    ],
+    "text": "mated receipts andexpenditure of the Province for that",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      78,
+      410,
+      379,
+      14
+    ],
+    "text": "year, fn this Part referred to as the annual financtal",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      76,
+      428,
+      411,
+      17
+    ],
+    "text": "Statement com a ee ene",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      66,
+      446,
+      438,
+      19
+    ],
+    "text": "iv (2) The estimates of expenditure embodied in. the .",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      75,
+      467,
+      368,
+      15
+    ],
+    "text": "annual financial statement shall show seperately ,",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      70,
+      491,
+      388,
+      16
+    ],
+    "text": "+, (@) the sums required to meet expenditure desoribed by",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      130,
+      508,
+      326,
+      14
+    ],
+    "text": "this Act as expenditure charged upon the Provin-",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      130,
+      524,
+      199,
+      15
+    ],
+    "text": "cial Fund of the Province ; and",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      64,
+      544,
+      392,
+      20
+    ],
+    "text": "\" () the gums required to meet other expenditure pro",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      69,
+      565,
+      386,
+      16
+    ],
+    "text": "+ +\" posed to be'made from the Provincial Fund of the",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      76,
+      607,
+      378,
+      16
+    ],
+    "text": "and shall distinguish expenditure on revenue.account from",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      77,
+      624,
+      288,
+      16
+    ],
+    "text": "other expenditure, .",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      60,
+      644,
+      395,
+      20
+    ],
+    "text": "1 (3) The following expenditire shali be expenditure",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      63,
+      666,
+      374,
+      17
+    ],
+    "text": "' charged on the Provinclal Fund of the Provinee:",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      61,
+      690,
+      393,
+      15
+    ],
+    "text": "71+ (@).the emoluments and allowances: of the Governor ;",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      77,
+      712,
+      377,
+      18
+    ],
+    "text": "qb) the charges payable in respect of loans ailvanced",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      89,
+      731,
+      365,
+      18
+    ],
+    "text": "7) Mm respect of the Provines from the Consolidated",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      69,
+      748,
+      384,
+      14
+    ],
+    "text": ". Fund of Sri Lanka including interest, amortization",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      62,
+      764,
+      391,
+      17
+    ],
+    "text": "+, ise paymenta,-and other expenditize' connected there-",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      60,
+      784,
+      338,
+      15
+    ],
+    "text": "sei to ERMtRG rel wre way",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      63,
+      806,
+      389,
+      16
+    ],
+    "text": "1 '() Phe: dalaries and allowances of the Chairman and",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      62,
+      822,
+      372,
+      18
+    ],
+    "text": ": the Deputy Chairman of the Provincial Council ;",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      168,
+      30,
+      328,
+      18
+    ],
+    "text": "49 iProviticial: Councils Act, No. 42 of 1987",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      168,
+      62,
+      383,
+      19
+    ],
+    "text": "it (@ any-sums-required to-satisfy any judgment, decree",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      225,
+      83,
+      328,
+      14
+    ],
+    "text": "or award of-any court or arbitral tribunal, entered",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      227,
+      100,
+      270,
+      13
+    ],
+    "text": "ageinat the Provineial Couneil 5; + +",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      168,
+      120,
+      383,
+      14
+    ],
+    "text": "1. (@) any other expenditure declared by.the Constitution",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      168,
+      136,
+      384,
+      14
+    ],
+    "text": "tot... or by law made by Parliament, or by atatute made",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      168,
+      152,
+      340,
+      14
+    ],
+    "text": "12. + ./by the Provincial Council, to be so charged,",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      83,
+      173,
+      470,
+      23
+    ],
+    "text": "Broceaure \"ag, (1) So much of the estimates as relates to expendi-",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      79,
+      193,
+      473,
+      22
+    ],
+    "text": "Provincia) ture charged upon the Provincial Fund of the Province",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      79,
+      212,
+      473,
+      21
+    ],
+    "text": "with shall not be submitted to the vote of the Provincial Coun-",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      79,
+      226,
+      472,
+      22
+    ],
+    "text": "Fempect ty cil, but nothing in this subsection shall be construed as",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      83,
+      241,
+      467,
+      19
+    ],
+    "text": "cormeles. | preventing the discussion in the Provincial Couneil of ang",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      176,
+      263,
+      318,
+      18
+    ],
+    "text": "of these estimates. ue ~ moe ~",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      174,
+      282,
+      377,
+      17
+    ],
+    "text": ". (2) Bo.much of the said estimates as relates to other ex\"",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      176,
+      303,
+      375,
+      13
+    ],
+    "text": "Penditure shall be submitted in the form of demands for",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      176,
+      320,
+      375,
+      14
+    ],
+    "text": "grants to the Provincial Council, and the Provincial Coun-",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      164,
+      336,
+      386,
+      14
+    ],
+    "text": "~ cll shall have power to assent, or to refuse to assent, to any",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      176,
+      353,
+      373,
+      15
+    ],
+    "text": "demand; or to assent to any demand, subject to reduction",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      176,
+      370,
+      344,
+      18
+    ],
+    "text": "of the amount specified therein; an",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      175,
+      389,
+      376,
+      19
+    ],
+    "text": "(@) No demand for a grant shall be made except on the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      177,
+      411,
+      252,
+      15
+    ],
+    "text": "recommendation of the Governor. |",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      83,
+      435,
+      477,
+      21
+    ],
+    "text": "Aepremistion 27, (1) As soon as may be after the grants under.",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      170,
+      457,
+      383,
+      17
+    ],
+    "text": "~ section 26 have been assented to by the Provincial Council",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      176,
+      479,
+      377,
+      15
+    ],
+    "text": "there shall be introduced a statute to provide for the appro-",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      177,
+      498,
+      375,
+      14
+    ],
+    "text": "priation out of the Provincial Fund of the Province, of all",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      178,
+      520,
+      243,
+      17
+    ],
+    "text": "moneys required to meet :",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      83,
+      542,
+      470,
+      21
+    ],
+    "text": ": (a) the grants so made by the Provinelat Counsfl ; and",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      164,
+      567,
+      389,
+      15
+    ],
+    "text": "+ (B). the expenditure charged on the Provineial Fund of",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      229,
+      584,
+      324,
+      16
+    ],
+    "text": "the Province hut not exceeding in eny: case the",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      172,
+      600,
+      381,
+      16
+    ],
+    "text": "+. , amount shown in the statement previously Jaid",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      116,
+      618,
+      383,
+      19
+    ],
+    "text": "., before the Council. .,",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      194,
+      642,
+      360,
+      15
+    ],
+    "text": "(@) No amenciment shall be proposed to any such statute",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      178,
+      658,
+      377,
+      14
+    ],
+    "text": "im the Provincial Couneil which will have the effect of",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      178,
+      675,
+      376,
+      16
+    ],
+    "text": "varying the amount or altering the destination of any grant",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      177,
+      692,
+      377,
+      15
+    ],
+    "text": "a0 made or-of varying the amount of any expenditure",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      177,
+      708,
+      378,
+      15
+    ],
+    "text": "charged on the Provincial Fund of the Province and the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      179,
+      725,
+      376,
+      16
+    ],
+    "text": "declsion of the person presiding as to whether an amend-",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      165,
+      741,
+      389,
+      16
+    ],
+    "text": "- Inent is inadmissible under this subsection, shall be finsL",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      163,
+      767,
+      392,
+      14
+    ],
+    "text": "+ () Subject to the other provisions af this Act, nn money",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      177,
+      785,
+      378,
+      14
+    ],
+    "text": "shall be withdrawn from the Provincia! Fund of the",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      164,
+      806,
+      388,
+      16
+    ],
+    "text": "+ Province except under anpropriation made in accordance",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      178,
+      827,
+      305,
+      13
+    ],
+    "text": "with the provisions of this section, <0.",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      165,
+      31,
+      320,
+      16
+    ],
+    "text": "Provincia Counctte-Act; No: 42 of 1987 n",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      105,
+      62,
+      348,
+      16
+    ],
+    "text": "* 38.5 (2) The Governor shall--- Boe wae",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      107,
+      93,
+      435,
+      14
+    ],
+    "text": ". .(@) if the amount authorized by any statute made Jn Supple-",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      114,
+      106,
+      431,
+      21
+    ],
+    "text": "-, , gevordance: with the provisions of section 27 to be amie",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      105,
+      126,
+      379,
+      13
+    ],
+    "text": "iv. .a expended for a particular wervics for the current",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      109,
+      142,
+      374,
+      14
+    ],
+    "text": ": financial year is found to be insufficient for the pur-",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      105,
+      159,
+      396,
+      14
+    ],
+    "text": ". Roses'of that year or when e need has arisen during *",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      165,
+      175,
+      320,
+      14
+    ],
+    "text": "the eurrent financtal year for supplementary or",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      150,
+      191,
+      385,
+      17
+    ],
+    "text": ". additional expenditure upon some new service not,",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      103,
+      206,
+      446,
+      16
+    ],
+    "text": ". ; contemplated im the annual financial statement for \"",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      113,
+      221,
+      317,
+      21
+    ],
+    "text": "co) Pthat yeurpor ve OE",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108,
+      249,
+      432,
+      22
+    ],
+    "text": "J QQ) if any money has been spent on any service during 2 :",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      128,
+      275,
+      414,
+      17
+    ],
+    "text": "cis ne, Stencial year in excess of the amount granted for .",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      166,
+      295,
+      231,
+      13
+    ],
+    "text": "that service and for that year, i",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      115,
+      322,
+      370,
+      13
+    ],
+    "text": "cause to be laid before the Provincial Council, another",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      113,
+      342,
+      373,
+      14
+    ],
+    "text": "stalement showing the estimated amount of that expendi-",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      114,
+      362,
+      440,
+      15
+    ],
+    "text": "ture or canse to be presented to the Provincial Council with .",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      103,
+      381,
+      441,
+      15
+    ],
+    "text": "_ Such previous approval, a demand for such excess, as the roe",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      114,
+      402,
+      342,
+      13
+    ],
+    "text": "cave may be. :",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      126,
+      434,
+      416,
+      17
+    ],
+    "text": "(2) The provisions of sections 25, 26 and 27 shall have effect a",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      114,
+      454,
+      372,
+      13
+    ],
+    "text": "in relation to any such statement and expenditure or demand",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      99,
+      470,
+      387,
+      14
+    ],
+    "text": "+ -and also to any statute to be made authorizing the appro-",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      112,
+      486,
+      376,
+      14
+    ],
+    "text": "Priation of moneys out of the Provincial Fund of the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      112,
+      502,
+      376,
+      14
+    ],
+    "text": "Province to meet such expenditure or ths grant in respect",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      113,
+      518,
+      375,
+      14
+    ],
+    "text": "of such demand as they have effect: in relation to the",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      99,
+      533,
+      389,
+      14
+    ],
+    "text": "-annunl dnancia! statement and the expenditure mentloned",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      112,
+      550,
+      376,
+      13
+    ],
+    "text": "therein or to a demand for a grant and the statute to be",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      112,
+      566,
+      376,
+      13
+    ],
+    "text": "made for the authorization of appropriation of moneys out",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      99,
+      581,
+      389,
+      15
+    ],
+    "text": "* of the Provincial Fund of the Province to mevt such",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      112,
+      598,
+      134,
+      13
+    ],
+    "text": "expenditure or grant.",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      97,
+      637,
+      451,
+      14
+    ],
+    "text": "+ 28, (1) Notwithstending anything in the foregoing pro- yoteson",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      112,
+      653,
+      435,
+      14
+    ],
+    "text": "visions of this Purt, the Provincial Councii shall have power account,",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      111,
+      669,
+      376,
+      14
+    ],
+    "text": "to make any grant in advance in respect of the estimated",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      113,
+      686,
+      391,
+      14
+    ],
+    "text": "expenditure for a pert of any flnancial year pending the -",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      111,
+      702,
+      376,
+      14
+    ],
+    "text": "completion within a period of four months of the making",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      111,
+      719,
+      375,
+      14
+    ],
+    "text": "of the grant of the procedure prescribed in section 26 for the",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      97,
+      736,
+      388,
+      14
+    ],
+    "text": ".. Voting af such grant and the passing of the stature ia acc",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      94,
+      752,
+      391,
+      14
+    ],
+    "text": "s. OFdance with the provisions of section 27 in relation to that",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      110,
+      768,
+      376,
+      14
+    ],
+    "text": "expenditure and the Provincial Council shall have power",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      95,
+      785,
+      389,
+      14
+    ],
+    "text": ". te autharize by statute, the withdrawal of money fromthe",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      94,
+      801,
+      390,
+      15
+    ],
+    "text": "tv Provinciat Fund of the Province for the purposes for",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      112,
+      819,
+      187,
+      13
+    ],
+    "text": "which the said grant is made,",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      145,
+      26,
+      320,
+      22
+    ],
+    "text": "BR Provincial Councils Act, No. 42 of 1987",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      159,
+      62,
+      363,
+      13
+    ],
+    "text": "(2) The provisions af sections 26 and 37 shall have effect",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      146,
+      78,
+      373,
+      15
+    ],
+    "text": "in relation to the making of any grant under subsection (1)",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      146,
+      95,
+      376,
+      13
+    ],
+    "text": "or to any statute to be made under that subsection as they",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      144,
+      111,
+      378,
+      14
+    ],
+    "text": "have-effect in velation to the making of a grant with regard",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      144,
+      127,
+      379,
+      13
+    ],
+    "text": "a any expenditure mentioned in the annual financial",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      146,
+      144,
+      376,
+      11
+    ],
+    "text": "Statement und the statute to be made for the authoriza-",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      117,
+      160,
+      405,
+      14
+    ],
+    "text": "~ tion of appropriation of moneys out of the Provincial Pund",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      146,
+      177,
+      259,
+      13
+    ],
+    "text": "of the Province to meat such expenditure.",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      52,
+      199,
+      472,
+      21
+    ],
+    "text": "Apfhorization $0, Notwithstanding anything in the foregoing provisions",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      53,
+      217,
+      471,
+      15
+    ],
+    "text": "SXpenditere of this Part, the Governor may authorize such expenditure",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      50,
+      228,
+      474,
+      28
+    ],
+    "text": "sending from the Provincial Fund of the Province as he deems",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      53,
+      243,
+      471,
+      23
+    ],
+    "text": "Fike _ihecessary for a perlod of not more than six months beginntig",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      57,
+      250,
+      467,
+      39
+    ],
+    "text": "Blowing with the date of the constitution of the Provinelal Fund of",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      98,
+      282,
+      426,
+      15
+    ],
+    "text": "7 the Province, pending the sanction of such expenditure by",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      145,
+      298,
+      145,
+      12
+    ],
+    "text": "the Provincist Councli.",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      261,
+      326,
+      103,
+      13
+    ],
+    "text": ": PART IV",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      210,
+      347,
+      271,
+      12
+    ],
+    "text": "Provincia Pysrac Seavice Comsnssiow ~",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      54,
+      362,
+      471,
+      33
+    ],
+    "text": "et, Sa, The President shell appoiat the Chief Secretary of",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      84,
+      380,
+      440,
+      28
+    ],
+    "text": "any each Province, with the concurrence of the Chief Minister",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      146,
+      404,
+      107,
+      11
+    ],
+    "text": "of that Province.",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      51,
+      419,
+      474,
+      31
+    ],
+    "text": "Provincial 3% (1) Subject to the provisions of any other law the",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      53,
+      441,
+      470,
+      26
+    ],
+    "text": "wervice, appointment, transfer, dismissal and disciplinary control",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      147,
+      469,
+      378,
+      15
+    ],
+    "text": "of officers of the provincial public service of each Province",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      146,
+      489,
+      327,
+      14
+    ],
+    "text": "4a hereby vested in the Governor of that Province.",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      163,
+      511,
+      361,
+      21
+    ],
+    "text": "2) The Governor of Province may, from me to time,",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      147,
+      537,
+      378,
+      16
+    ],
+    "text": "delegate his powers of appointment, transfer, dismissal and",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      133,
+      558,
+      392,
+      16
+    ],
+    "text": "|, disciplinary control of officers of the provincial public service",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      133,
+      578,
+      392,
+      17
+    ],
+    "text": ",..t0 the Provincial. Public Services Commission of that",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      76,
+      592,
+      325,
+      27
+    ],
+    "text": ". Province. +",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      163,
+      623,
+      362,
+      16
+    ],
+    "text": "() The Governor shell provide for and determine ll",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      80,
+      640,
+      445,
+      15
+    ],
+    "text": "+; = matters relating to officers of the provincial public service,",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      111,
+      656,
+      413,
+      15
+    ],
+    "text": "+. sineluding the formulation of schemes of recruitment and",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      149,
+      673,
+      377,
+      16
+    ],
+    "text": "codes of conduct for such officers, the - principles. to- be",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      137,
+      689,
+      389,
+      15
+    ],
+    "text": "followed in making promotions and transfers, and the",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      148,
+      707,
+      378,
+      14
+    ],
+    "text": "procedure for the exercise and the delegation of the powers",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      151,
+      722,
+      374,
+      16
+    ],
+    "text": "of appointment, transfer, dismissal and disciplinary control",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      138,
+      740,
+      388,
+      14
+    ],
+    "text": ". of guch officers, In formulating such schemes of recruitment",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      150,
+      757,
+      376,
+      14
+    ],
+    "text": "and codes of .conduct the Governer hall, ax iar 8s",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      150,
+      771,
+      376,
+      16
+    ],
+    "text": "practicable, follow the schenes of recruitment prescribed",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      150,
+      788,
+      376,
+      16
+    ],
+    "text": "for corresponding offices in the public service and the codes",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      150,
+      806,
+      376,
+      16
+    ],
+    "text": "of conduct prescribed for officers holding corresponding",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      151,
+      824,
+      232,
+      13
+    ],
+    "text": "offices in the public service. ..-c. 60 07> mre",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      146,
+      30,
+      320,
+      16
+    ],
+    "text": "Provinelat Counells Act, Noi 42 of 1987 w",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      91,
+      59,
+      446,
+      20
+    ],
+    "text": "+38. (1) There shall be a Provincial Public Service Com- Fublit",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      87,
+      79,
+      428,
+      14
+    ],
+    "text": "mission for each Province which shall consist of not less Public",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      87,
+      92,
+      460,
+      20
+    ],
+    "text": "then three persons appointed by the Govemor of that Sete",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      87,
+      112,
+      378,
+      13
+    ],
+    "text": "Province, The Governor shall-nominate one of the members",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      87,
+      129,
+      340,
+      12
+    ],
+    "text": "of the Commission to be the Chairman, . .",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      66,
+      156,
+      398,
+      15
+    ],
+    "text": "- (2) No person shall be appointed or cantinue as a member",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      86,
+      173,
+      377,
+      12
+    ],
+    "text": "of a Provincial Public Service Commission if he ip Member",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      88,
+      190,
+      374,
+      14
+    ],
+    "text": "of Parliament, a member of a Provincial Council, a public",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      86,
+      206,
+      377,
+      14
+    ],
+    "text": "affcer, a judictel officer or officer of a provincial public",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      86,
+      223,
+      66,
+      18
+    ],
+    "text": "service,",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      102,
+      250,
+      361,
+      14
+    ],
+    "text": "(8) Every member of a Provincial Public Service Com-",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      86,
+      267,
+      376,
+      14
+    ],
+    "text": "mission shall hold office for a period of five years from the",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      88,
+      283,
+      373,
+      14
+    ],
+    "text": "date of hia appointment, unless he earlier resigns his office",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      87,
+      299,
+      376,
+      15
+    ],
+    "text": "by @ writing under his hand addressed to, the Governor of",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      82,
+      307,
+      458,
+      31
+    ],
+    "text": "the Province or is removed from office by such Governor",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      88,
+      333,
+      373,
+      14
+    ],
+    "text": "for cause assigned, but shal! be eligible for re-appointment.",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      102,
+      360,
+      381,
+      15
+    ],
+    "text": "(4) The Governor may grant leave from his duties to any ~",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      86,
+      377,
+      376,
+      13
+    ],
+    "text": "member of a Provincial Public Service Commission and may",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      86,
+      393,
+      376,
+      15
+    ],
+    "text": "appoint 2 person qualified to be a member of such Commis",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      86,
+      410,
+      376,
+      15
+    ],
+    "text": "sion to be a temporary member for the period of such leave.",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      101,
+      436,
+      445,
+      20
+    ],
+    "text": "(8) A member of a Provincial Public Service Commission .",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      85,
+      458,
+      376,
+      15
+    ],
+    "text": "may he paid such salory as may be determined by the",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      85,
+      475,
+      376,
+      13
+    ],
+    "text": "Provincial Council for that Provinee. The salary payable",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      85,
+      491,
+      376,
+      15
+    ],
+    "text": "to any such member shell be charged oni the Provincial",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      85,
+      508,
+      376,
+      13
+    ],
+    "text": "Fund of the Province and shall not be diminished during",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      85,
+      525,
+      353,
+      18
+    ],
+    "text": "his term of office. ;",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      100,
+      557,
+      361,
+      14
+    ],
+    "text": "(6) A Provineial Public Service Commission shall have",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      85,
+      573,
+      376,
+      15
+    ],
+    "text": "power to act notwithstanding any vacancy in its membership",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      85,
+      590,
+      376,
+      15
+    ],
+    "text": "and no act or proceeding of such Commision shall be, or",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      85,
+      606,
+      376,
+      14
+    ],
+    "text": "deemed to be, invalid by reason only of any such vacancy",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      85,
+      623,
+      324,
+      14
+    ],
+    "text": "or any defect in the appointment af a member. -",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      100,
+      660,
+      361,
+      14
+    ],
+    "text": "(1) For the purposes of Chapter IX of the Penal Code,",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      86,
+      680,
+      374,
+      12
+    ],
+    "text": "a member of 2 Provincial Public Service Conimission shail",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      84,
+      701,
+      378,
+      14
+    ],
+    "text": "be deemed to be a public servant. a",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      94,
+      733,
+      366,
+      18
+    ],
+    "text": "\" (8) the Governor 6f a Province shall have the power tu",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      84,
+      758,
+      376,
+      14
+    ],
+    "text": "alter, vry or tescind any appointment, order of transfer",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      83,
+      779,
+      377,
+      17
+    ],
+    "text": "oF dismissal'or any other order relating to & disciplinary",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      77,
+      799,
+      382,
+      15
+    ],
+    "text": "+ matter made. by the Provincial Public Service Commission",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      83,
+      820,
+      104,
+      11
+    ],
+    "text": "of that Province.\"",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      141,
+      29,
+      357,
+      14
+    ],
+    "text": "uw Provincial: Councils. Act, No: 42.of 1987).",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      48,
+      60,
+      470,
+      20
+    ],
+    "text": "interterenct--' 4, -ivery person who, otherwise than: in the course of",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      49,
+      78,
+      478,
+      14
+    ],
+    "text": "Provineial:\";~- duty, directly or indirectly, by. himself -or- by. any .other..",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      48,
+      92,
+      479,
+      20
+    ],
+    "text": "Pupils\" person, in any manner whatsoever, influences.or attempts :",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      49,
+      110,
+      478,
+      14
+    ],
+    "text": "Soaminien. ' to influence, any decision of a. Provincial. Publie Service;",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      140,
+      127,
+      410,
+      13
+    ],
+    "text": "Commission or any member thereof-shalt be guilty-of an.",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      141,
+      143,
+      379,
+      14
+    ],
+    "text": "offence and shall on eanviction by the High Court after trial",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      140,
+      159,
+      408,
+      13
+    ],
+    "text": "without a jury be liable ta a fine nat exceeding one thousend =.",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      43,
+      174,
+      476,
+      15
+    ],
+    "text": ". tupees or to'imprisonment for a term not exceeding one year",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      140,
+      192,
+      351,
+      13
+    ],
+    "text": "or to both stich fine anid inprisomment: = 2 ~~.",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      153,
+      220,
+      366,
+      14
+    ],
+    "text": "Provided that nothing fm this section shall probibit any.",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      140,
+      235,
+      379,
+      15
+    ],
+    "text": "person from giving a testimonial or certificate to any appli-",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      140,
+      252,
+      379,
+      15
+    ],
+    "text": "cunt or candidate for any offtce in the Provincial Public",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      43,
+      299,
+      477,
+      26
+    ],
+    "text": "Oath or, 35. A person appointed to any office in the Provincial",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      49,
+      319,
+      471,
+      17
+    ],
+    "text": "alfiraation _ pyblie Service shall not eriter upon the dutied of his office",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      140,
+      338,
+      379,
+      14
+    ],
+    "text": "until he takes and subseribea the oath, or makes end subs-",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      126,
+      354,
+      393,
+      15
+    ],
+    "text": "+ aribes the affirmation, set out in the Fourth Schedule to the",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      136,
+      363,
+      233,
+      31
+    ],
+    "text": "Constitution, .",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      44,
+      396,
+      475,
+      31
+    ],
+    "text": "Power of 9%. If any difficulty arises in giving effect to the provisions",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      48,
+      418,
+      471,
+      20
+    ],
+    "text": "President te of this Act, and, in particular, in relation to the constitution",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      47,
+      437,
+      472,
+      13
+    ],
+    "text": "Siicaltiss, of a Provincial Council fora Province, the President may,",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      140,
+      448,
+      379,
+      23
+    ],
+    "text": "by Order, take such action, not inconsistent with the provi-",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      140,
+      471,
+      379,
+      14
+    ],
+    "text": "sions of this Act, as appears to him to be necessary, or",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      140,
+      487,
+      377,
+      15
+    ],
+    "text": "expedient for the purpose of removing such difficulty.",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      43,
+      516,
+      476,
+      31
+    ],
+    "text": "Ietarien 37. (1) (@) The President may by Proclamation declare",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      43,
+      535,
+      476,
+      27
+    ],
+    "text": "provision, that the provisions of this subsection shell apply to any two",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      140,
+      555,
+      379,
+      16
+    ],
+    "text": "or three adjoining Provinces specified in such Proclamation",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      142,
+      571,
+      377,
+      17
+    ],
+    "text": "(hereinafter refered to.as the specified Provinces\"), and",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      77,
+      589,
+      443,
+      15
+    ],
+    "text": ": thereupon such Provinces shall form one administrative",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      141,
+      605,
+      378,
+      15
+    ],
+    "text": "unit, having one elected Provincial Council, one Governer,",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      140,
+      620,
+      379,
+      15
+    ],
+    "text": "one Chief Minister and one Board of Ministers, for the.",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      141,
+      637,
+      378,
+      17
+    ],
+    "text": "period commencing from the date of the first election to",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      140,
+      653,
+      379,
+      17
+    ],
+    "text": "auch Provincial Council and ending on the date of the pall",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      141,
+      670,
+      378,
+      17
+    ],
+    "text": "referred to in subsection (2) of thie section, or if there is",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      140,
+      686,
+      384,
+      21
+    ],
+    "text": "more than one dete fixed for such poll, the last of such",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      137,
+      704,
+      386,
+      22
+    ],
+    "text": "dates, wert Was oe a",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      157,
+      732,
+      362,
+      17
+    ],
+    "text": "{b) The. President shall..not make a, Proclamation",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      142,
+      752,
+      376,
+      18
+    ],
+    "text": "declaring that the provisions of subsection (1) (a) shall",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      143,
+      773,
+      375,
+      16
+    ],
+    "text": "apply. to the Narthern and Baste Proyinces unless he is.",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      143,
+      793,
+      375,
+      18
+    ],
+    "text": "satlefied that arms, ammunition, weapons, explosives and",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      143,
+      816,
+      381,
+      15
+    ],
+    "text": "other military equipment, which on 2th July, 1987, were,",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      116,
+      25,
+      323,
+      16
+    ],
+    "text": "Provincial Counelie Act, No: 42 of 1987 15",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      58,
+      59,
+      381,
+      13
+    ],
+    "text": "held or under the control of terrorist militant ar other groups",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      59,
+      76,
+      389,
+      15
+    ],
+    "text": "having as;thelr objective the establishment of a. separate .",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      59,
+      92,
+      389,
+      15
+    ],
+    "text": "State; have been surrendered: to the: Government of Sri.",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      58,
+      108,
+      389,
+      15
+    ],
+    "text": "Lanka or to-suthoritles designated by it, and that there has,",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      59,
+      125,
+      388,
+      13
+    ],
+    "text": "beon-a cessation of hostilities and other acta of violence by >",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      60,
+      143,
+      387,
+      14
+    ],
+    "text": "Such groups in the sald Provinees...0.1, 0. a brenkl Lys +r",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      78,
+      161,
+      362,
+      10
+    ],
+    "text": "Sedees in yn atk wegen Tudeh BS an totes ont",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      73,
+      173,
+      373,
+      15
+    ],
+    "text": "(2)--(a). Where a Proclamation is made under the provi- -",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      60,
+      190,
+      377,
+      14
+    ],
+    "text": "sions of subsection (1) (a),.the President shall by Order",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      61,
+      206,
+      386,
+      15
+    ],
+    "text": "published in the Gazette, require a poll, to he held in each ,",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      59,
+      223,
+      388,
+      15
+    ],
+    "text": "of the specified Provinces, and fix a date or dates, not later,",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      59,
+      240,
+      379,
+      14
+    ],
+    "text": "than Bist'day of December, 1988, for such poll, to, enable",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      59,
+      256,
+      378,
+      15
+    ],
+    "text": "to the electors of each such specified Province to deciie.",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      59,
+      274,
+      341,
+      15
+    ],
+    "text": "Webel ae en ate EL hn",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      75,
+      301,
+      363,
+      14
+    ],
+    "text": "@ such Province should remain linked with the other",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      83,
+      318,
+      355,
+      13
+    ],
+    "text": "+: specified Provinoe or Provinces a one.administra-",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      79,
+      334,
+      366,
+      15
+    ],
+    "text": "1 1 tive tnt, and continue to be administered together",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      85,
+      352,
+      354,
+      13
+    ],
+    "text": "dvi. with such Provinee or Provinces ; or <",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      72,
+      372,
+      372,
+      21
+    ],
+    "text": "(i) such Province should constitute a separate adminis.",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      102,
+      395,
+      342,
+      15
+    ],
+    "text": "_frative unit; having , {ts own distinet .Provineial .",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      112,
+      412,
+      331,
+      15
+    ],
+    "text": "Council, with a separate Governor, Chief Minister.",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      101,
+      430,
+      322,
+      22
+    ],
+    "text": "Bed Board of Ministers a se",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      78,
+      460,
+      393,
+      20
+    ],
+    "text": "(bY The President may, from time to time, at his discres =~",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      61,
+      478,
+      383,
+      17
+    ],
+    "text": "ort, by sixbsequent Orders: published-in the Gazette;post-*",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      60,
+      492,
+      384,
+      17
+    ],
+    "text": "pone the date or dates of such poll 1 F 9 anite +",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      93,
+      515,
+      309,
+      10
+    ],
+    "text": "Matte bk tw . :",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      75,
+      527,
+      364,
+      15
+    ],
+    "text": "(8). Where at the poll held in each of such specified Pro-",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      60,
+      543,
+      379,
+      14
+    ],
+    "text": "vinces, the decision of the electors in each such Provinee ix",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      60,
+      560,
+      378,
+      13
+    ],
+    "text": "that stich Provines should.remain linked with the other",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      60,
+      575,
+      379,
+      16
+    ],
+    "text": "specified Province or Provinces, such specified Provinces shall",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      60,
+      592,
+      377,
+      15
+    ],
+    "text": "continue to form one administrative unit, having one elected",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      60,
+      609,
+      378,
+      15
+    ],
+    "text": "Provinciat Counell, ofe Governor, one Chief Minister and",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      60,
+      627,
+      378,
+      14
+    ],
+    "text": "one Board of Ministers, and the provision of any written",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      60,
+      642,
+      378,
+      17
+    ],
+    "text": "law relating to Provinetal Councils shall be construed as if",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      60,
+      660,
+      282,
+      15
+    ],
+    "text": "the specified Provinces were one Province :",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      72,
+      696,
+      365,
+      16
+    ],
+    "text": "Provided that if at such 2 poll in the Eastern Province,",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      59,
+      716,
+      378,
+      14
+    ],
+    "text": "the dectaton of the electors of such Province ts that such",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      59,
+      737,
+      377,
+      14
+    ],
+    "text": "Province should remain Linked with the Northam Province,",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      62,
+      758,
+      374,
+      15
+    ],
+    "text": "4 poll shall not be required in the Northern Province, and",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      59,
+      778,
+      377,
+      16
+    ],
+    "text": "accordingly such Provinces ehall form one administrative",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      60,
+      799,
+      377,
+      15
+    ],
+    "text": "nit, havirig one elected Provineial Council, one Governor,",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      60,
+      820,
+      306,
+      13
+    ],
+    "text": "one Chief Minister and one Board of Mintstera.",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      160,
+      24,
+      334,
+      25
+    ],
+    "text": "1@* Provincial Council Act; No: 42 of 1987 %",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      179,
+      64,
+      372,
+      13
+    ],
+    "text": "{@) (0) Where two or more Provinces ar Specified in:",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      164,
+      80,
+      376,
+      13
+    ],
+    "text": "such Proclamation; and the decision of the electors of one",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      164,
+      96,
+      387,
+      12
+    ],
+    "text": "such Province is that such Province should constitute 2 ~",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      164,
+      113,
+      385,
+      14
+    ],
+    "text": "separate: administrative unit, having its ows distinct:",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      164,
+      129,
+      387,
+      14
+    ],
+    "text": "Provincial Council, with a separate Governor, Clict Viinis-~",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      165,
+      145,
+      377,
+      14
+    ],
+    "text": "ter and Board of Ministers, the Provinces specified in the",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      164,
+      161,
+      377,
+      11
+    ],
+    "text": "Proclamation shall forthwith ceuse to form one administra-",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      166,
+      178,
+      374,
+      13
+    ],
+    "text": "tive unit and separate Provincial Counctis, with a separate",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      165,
+      193,
+      376,
+      14
+    ],
+    "text": "Governor, Chief Minister and Boord of Ministera shall be",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      164,
+      209,
+      375,
+      13
+    ],
+    "text": "deemed to have been established and constituted for each",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      164,
+      226,
+      375,
+      13
+    ],
+    "text": "buch Province with effect from the date on which the result",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      164,
+      243,
+      376,
+      14
+    ],
+    "text": "of such poll ts declared ; and the President shall thereupon",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      165,
+      259,
+      375,
+      14
+    ],
+    "text": "by Order published in the Gazette cancel the poll tn the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      164,
+      276,
+      376,
+      14
+    ],
+    "text": "other specified Province or Provinces, if such poll has not",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      164,
+      293,
+      359,
+      19
+    ],
+    "text": "already bee bel ss _",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      181,
+      316,
+      360,
+      15
+    ],
+    "text": "() The President may, by Order published in the",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      165,
+      334,
+      377,
+      14
+    ],
+    "text": "Gazette, make mich provision as may be necessary for the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      165,
+      350,
+      375,
+      15
+    ],
+    "text": "istribution of the property of such specified Provinelal",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      165,
+      367,
+      375,
+      14
+    ],
+    "text": "Councils, and with respect to the officers ard servants of,",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      165,
+      384,
+      376,
+      14
+    ],
+    "text": "contracts entered into by, and setions instituted by, and",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      165,
+      400,
+      376,
+      15
+    ],
+    "text": "against, such Councils during the period when the such",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      165,
+      417,
+      271,
+      12
+    ],
+    "text": "Provinces farmed one administrative unit.",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      181,
+      442,
+      361,
+      14
+    ],
+    "text": "() Such pol shail be conducted by the Commissioner",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      166,
+      458,
+      378,
+      15
+    ],
+    "text": "ot Elections, and the Presirfent may make regulations under",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      166,
+      474,
+      377,
+      15
+    ],
+    "text": "Bhis subsection providing for all matters relating to the",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      165,
+      491,
+      375,
+      15
+    ],
+    "text": "conduct of such poll oo yea",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      182,
+      515,
+      361,
+      13
+    ],
+    "text": "(6) The electors of a Province shall be deemed to have",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      166,
+      532,
+      378,
+      14
+    ],
+    "text": "decided in favour-of a proposal submitted to such electors",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      166,
+      548,
+      380,
+      14
+    ],
+    "text": "at such poll if such propota) bas been approved by am",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      166,
+      564,
+      376,
+      14
+    ],
+    "text": "absolute majority of the valid votes east ot such poll.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      181,
+      588,
+      362,
+      15
+    ],
+    "text": "(1) Every such poll will be monitored by a Committec",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      166,
+      604,
+      376,
+      16
+    ],
+    "text": "of three persons, consisting of the Chief Justice, who shell:",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      166,
+      620,
+      377,
+      16
+    ],
+    "text": "bbe the Chairman thereof, and two other persons appointed",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      166,
+      639,
+      368,
+      16
+    ],
+    "text": "bby the President, who shall report to the President. , . .,",
+    "mean_p_confidence": 0.63
+  }
+]

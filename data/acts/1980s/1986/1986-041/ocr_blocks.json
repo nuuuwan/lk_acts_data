@@ -1,0 +1,585 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      269,
+      78,
+      83,
+      36
+    ],
+    "text": "CG!",
+    "mean_p_confidence": 0.02
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      274,
+      108,
+      75,
+      20
+    ],
+    "text": "Ray",
+    "mean_p_confidence": 0.08
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      279,
+      127,
+      80,
+      14
+    ],
+    "text": "ee",
+    "mean_p_confidence": 0.07
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      119,
+      191,
+      378,
+      20
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      179,
+      224,
+      261,
+      18
+    ],
+    "text": "SOCIALIST REPUBLIC OF",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      252,
+      255,
+      117,
+      18
+    ],
+    "text": "SRI LANKA",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      79,
+      347,
+      449,
+      20
+    ],
+    "text": "NATIONAL DANGEROUS DRUGS GONTROL",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      190,
+      380,
+      236,
+      23
+    ],
+    "text": "BOARD (AMENDMENT)",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      203,
+      415,
+      210,
+      20
+    ],
+    "text": "ACT, No. 41 OF 1986",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      189,
+      512,
+      233,
+      16
+    ],
+    "text": "[Certified on 25th November, 1986]",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      172,
+      567,
+      249,
+      16
+    ],
+    "text": "Printed on the Orders of Government",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69,
+      678,
+      475,
+      18
+    ],
+    "text": "Published as a Supplement to Part I] of the Gazette of the Democratic",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      124,
+      698,
+      364,
+      17
+    ],
+    "text": "Socialist Republic of Sri Lanka of November 28, 1986",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      124,
+      759,
+      371,
+      40
+    ],
+    "text": "moves am nieces OF COVORNEREE EDEN mt LANKA",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72,
+      799,
+      472,
+      22
+    ],
+    "text": "Fo bn FORA AF HEE COERADEENT FURLICATIONS BUEEAY, COLOMBO",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69,
+      827,
+      480,
+      19
+    ],
+    "text": "Price + 30 cents Postage : 75 cents",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      42,
+      355,
+      16
+    ],
+    "text": "National Dangerous Drugs Control Board: (Amendment)",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      210,
+      64,
+      119,
+      14
+    ],
+    "text": "Act, No, 41 of 1886",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157,
+      88,
+      225,
+      15
+    ],
+    "text": "[Certified on 25th November, 1966)",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      118,
+      102,
+      13
+    ],
+    "text": "L. DO, 56/85.",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      140,
+      370,
+      13
+    ],
+    "text": "AN Act 10 aMenn THE National Dawamous Daves Contnon",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      188,
+      158,
+      168,
+      13
+    ],
+    "text": "Boarp Act, No. 11 oF 1904",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      189,
+      373,
+      15
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic Socialist",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      207,
+      232,
+      14
+    ],
+    "text": "Republic of Sri Lenka as follows :",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99,
+      234,
+      434,
+      15
+    ],
+    "text": "L. This Act may be cited es the National Dangerous Short title.",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      250,
+      355,
+      15
+    ],
+    "text": "Drugs Control Board (Amendment) Act, No. 41 of 1986.",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      276,
+      467,
+      29
+    ],
+    "text": ". % Section 3 of the National Dangerous Drugs Control Amendment",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      294,
+      458,
+      19
+    ],
+    "text": "Board Act, No. 11 of 1984, ia hereby amended by the repeal GfAgtNe- il",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      314,
+      430,
+      16
+    ],
+    "text": "of subsection (1) of that section, and the substitution of #04.",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      332,
+      251,
+      14
+    ],
+    "text": "therefor of the following subsection :",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      100,
+      355,
+      363,
+      15
+    ],
+    "text": "() The Board shall consist of the following",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88,
+      363,
+      473,
+      31
+    ],
+    "text": "members : .",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      143,
+      395,
+      321,
+      15
+    ],
+    "text": "(@) one member who shall be the Chatman and",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      179,
+      412,
+      286,
+      14
+    ],
+    "text": "three other members to be appointed by the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      180,
+      428,
+      285,
+      14
+    ],
+    "text": "Minister (hereinafter referred to as ap-",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      180,
+      446,
+      137,
+      13
+    ],
+    "text": "pointed members) ;",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      144,
+      469,
+      322,
+      15
+    ],
+    "text": "(b) the Secretary to the Ministry of the Minister",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      181,
+      485,
+      286,
+      15
+    ],
+    "text": "in charge of the subject of Education or his",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      181,
+      504,
+      60,
+      12
+    ],
+    "text": "nominee ;",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      144,
+      525,
+      323,
+      16
+    ],
+    "text": "{e} the Inspector-General of Police or his nominee ;",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      145,
+      549,
+      323,
+      16
+    ],
+    "text": "(@) the Director-General of Health Services or his",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      182,
+      568,
+      59,
+      13
+    ],
+    "text": "nominee ;",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      145,
+      589,
+      324,
+      17
+    ],
+    "text": "{e) the Principal Collector of Customs or his",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      182,
+      610,
+      59,
+      12
+    ],
+    "text": "nominee ;",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      146,
+      630,
+      317,
+      18
+    ],
+    "text": "() the Government Ansiyst or his nominee ; and",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      146,
+      653,
+      377,
+      20
+    ],
+    "text": "(g) the Commissioner for Ayurveda or his .",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      182,
+      674,
+      69,
+      12
+    ],
+    "text": "nowninee. .",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      106,
+      856,
+      113,
+      12
+    ],
+    "text": "16 on3800 0,100 8/0)",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      78,
+      770,
+      465,
+      9
+    ],
+    "text": "ee",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      75,
+      778,
+      467,
+      15
+    ],
+    "text": "Annual subscription of Bills and Laws of the Parliament Ra 160 (aoecel),",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      75,
+      791,
+      467,
+      15
+    ],
+    "text": "Ra 200 (Porslgm), payable to the Surmmrmmer, Govmonan Pusseariont",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70,
+      796,
+      473,
+      34
+    ],
+    "text": "Buesan, Coxoamo 1, before Wh December each year in respect of the seat",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      299,
+      821,
+      38,
+      10
+    ],
+    "text": "Nowine",
+    "mean_p_confidence": 0.07
+  }
+]

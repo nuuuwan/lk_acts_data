@@ -1,0 +1,4501 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      114,
+      191,
+      387,
+      18
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      171,
+      219,
+      267,
+      17
+    ],
+    "text": "SOCIALIST REPUBLIC OF",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      249,
+      247,
+      119,
+      17
+    ],
+    "text": "SRI LANKA",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      73,
+      353,
+      462,
+      23
+    ],
+    "text": "LOCAL AUTHORITIES (SPECIAL PROVISIONS)",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      134,
+      390,
+      278,
+      25
+    ],
+    "text": ". ACT, No. 43 OF 1987.",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      173,
+      500,
+      267,
+      26
+    ],
+    "text": "[Certified on 24th November, 1987]",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      181,
+      558,
+      245,
+      16
+    ],
+    "text": "Printed on the Orders of Government",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69,
+      669,
+      465,
+      19
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the Democratic",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      114,
+      689,
+      376,
+      19
+    ],
+    "text": "Socialist Republic of Sri Lauka of November 27, 1987)",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      117,
+      772,
+      416,
+      15
+    ],
+    "text": "PRINTED At Ta AERAREMAT OF COVERMENT FARTING, @R1 LAWEA ~",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      110,
+      790,
+      382,
+      20
+    ],
+    "text": "TO pe FURCRARSS A $EN OOFEDUGENE FURLIGATION OTLEAT, CUADERO",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68,
+      819,
+      464,
+      24
+    ],
+    "text": "Price : Re. 1.05 : Postage : 75 ceuty",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      147,
+      17,
+      241,
+      13
+    ],
+    "text": "Lecat Authorities (Speciat Provisions)",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      28,
+      378,
+      26
+    ],
+    "text": ": Act, No, 43 of 1987 ao",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92,
+      57,
+      355,
+      14
+    ],
+    "text": ": [Certified on 24th November, 1987). :",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      76,
+      232,
+      18
+    ],
+    "text": "LDO, 55/87 |",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      110,
+      380,
+      10
+    ],
+    "text": "AN ACT TO FROVIDE FOR THE EXTENSION OF THE TEHM OF OFFICK",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93,
+      128,
+      365,
+      11
+    ],
+    "text": "OF MENEHERE OF .CERTATH LOCAL AUTHORTIIES ; AND Fob",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92,
+      132,
+      425,
+      30
+    ],
+    "text": "MATTERS CONNECTED THEREWTES OR INCIDENTAL RQETO, * .",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      166,
+      379,
+      14
+    ],
+    "text": "WHEREAS nominations were submitted for the purpose of,",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      181,
+      388,
+      12
+    ],
+    "text": "elections to certain local authorities: .",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93,
+      206,
+      363,
+      14
+    ],
+    "text": "WHEREAS it became necessary to postpone the poll for",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      214,
+      384,
+      30
+    ],
+    "text": "such elections, due to reasons of public order: vol",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      94,
+      252,
+      375,
+      16
+    ],
+    "text": "AND WHEREAS it is necessary to oxtend the tenn of",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      271,
+      377,
+      13
+    ],
+    "text": "office of members af these local authorities, and to. make",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      288,
+      376,
+      13
+    ],
+    "text": "further provision for the continuation of locel government",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      304,
+      274,
+      14
+    ],
+    "text": "funetions in these local government areas :",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      94,
+      332,
+      365,
+      14
+    ],
+    "text": "NOW THEREFORE, be it enacted by the Parliament ob",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      348,
+      375,
+      15
+    ],
+    "text": "the Democratic Soctalist Republie of Sri Lanka ss follows :~",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96,
+      381,
+      435,
+      14
+    ],
+    "text": "1 (1) This Act may be cited as the Local Authorities monwne,",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      397,
+      453,
+      14
+    ],
+    "text": "(Special Provisions) Act, No, 49 of 1987... nd date af",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      454,
+      408,
+      74,
+      16
+    ],
+    "text": "- \"Operation.",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      97,
+      425,
+      361,
+      14
+    ],
+    "text": "{2) The provisions of this Act, other than the provisions",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      441,
+      441,
+      23
+    ],
+    "text": "of section thereof, shall come into operation on the date \"",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      465,
+      233,
+      17
+    ],
+    "text": "of commencement of this Act .",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98,
+      494,
+      427,
+      18
+    ],
+    "text": "(3) The provisions of section $ of this Act, shall come into _",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      514,
+      377,
+      14
+    ],
+    "text": "operation on such date as may be appointed by the Minister,",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      528,
+      382,
+      27
+    ],
+    "text": "by Order published in the Gazette, - .",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      95,
+      563,
+      447,
+      18
+    ],
+    "text": "2. The term of office of the elected members of every Extensionat",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      580,
+      432,
+      20
+    ],
+    "text": "Development Council specified in Schedule I to thia Act, Smmos",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      600,
+      457,
+      14
+    ],
+    "text": "holding office on the day preceding the date of commence- membere of",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      613,
+      452,
+      21
+    ],
+    "text": "ment of this Act, is hereby extended from the data af com Developine",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      632,
+      376,
+      14
+    ],
+    "text": "mencement of this Act until the first day of January, 1989,",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      648,
+      375,
+      15
+    ],
+    "text": "or such earlier date as the Minister may appoint, by Order",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      658,
+      315,
+      30
+    ],
+    "text": "Published in the Gazette. :",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      697,
+      457,
+      24
+    ],
+    "text": "_ 3. CD) Notwithstinding anything tn section 10 of the mxtension",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      714,
+      432,
+      20
+    ],
+    "text": "Municipal Councils Oxdinanee or in tie Order made unidet Titecat",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      734,
+      453,
+      21
+    ],
+    "text": "that -section and published tn Gazette: Extreondinary Mmembersat",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      756,
+      453,
+      23
+    ],
+    "text": "No, 458/4 of May. 12, 1987, the term of office of members of Municipal -",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      779,
+      447,
+      17
+    ],
+    "text": "each of the Municipal Councils specified in Schedule TI to and Urbin",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      801,
+      375,
+      15
+    ],
+    "text": "this Act, holding office on the day preceding the first day",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93,
+      828,
+      138,
+      11
+    ],
+    "text": "2-2 100306 8,416 (87/11)",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      145,
+      14,
+      326,
+      15
+    ],
+    "text": "2 Legal, Authorities (Special Provisions)...",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      133,
+      30,
+      272,
+      13
+    ],
+    "text": "foot Acty No, 48 0f.2982..",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      145,
+      58,
+      378,
+      19
+    ],
+    "text": "of January, 1084,\"% hetebiy extended from th frst day of",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144,
+      79,
+      389,
+      13
+    ],
+    "text": "January, 1968, until the first day of January, 1989, or such.",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144,
+      95,
+      378,
+      14
+    ],
+    "text": "earlier date as the Minister may appoint, by Order published",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144,
+      111,
+      379,
+      14
+    ],
+    "text": "in the Gasette j and euch first day of January or the date so",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      121,
+      127,
+      401,
+      14
+    ],
+    "text": "* qppointed shall; for the purposes of paragraph (b) of sub-",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143,
+      144,
+      379,
+      13
+    ],
+    "text": "section: (1) of section 10 of the Municipal Couneils Ordt-",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      94,
+      160,
+      439,
+      16
+    ],
+    "text": "- niagge, be the date of commencement of the term of office",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143,
+      174,
+      367,
+      17
+    ],
+    "text": "of the new merbers elected to each such Council. a",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      157,
+      205,
+      365,
+      14
+    ],
+    "text": "@) Notwithstanding anything in section 10 of the Urban",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      125,
+      221,
+      397,
+      11
+    ],
+    "text": "+\" Councils Ordinance, ar in the Order made under that section",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143,
+      237,
+      378,
+      14
+    ],
+    "text": "and published in Gazette Extraordinary No. 43/4 of May 12,",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      142,
+      253,
+      380,
+      13
+    ],
+    "text": "1887, the term of office of the members of each of the Urban",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      142,
+      270,
+      380,
+      13
+    ],
+    "text": "Councils specified in Schedule II] to this Act, holding office",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      141,
+      286,
+      393,
+      14
+    ],
+    "text": "on the day preceding the first day of January, 1988, is hereby -",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      141,
+      303,
+      380,
+      13
+    ],
+    "text": "extended from the first day of January, 1988, until the first",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      141,
+      319,
+      381,
+      13
+    ],
+    "text": "day of January, 1989, or stich earlier date as the Minister may",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      141,
+      335,
+      380,
+      14
+    ],
+    "text": "appoint by Order published in the Gazette ; and such first",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      140,
+      352,
+      381,
+      14
+    ],
+    "text": "day of January or the date so appointed shall, for the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      67,
+      368,
+      454,
+      15
+    ],
+    "text": ". purposes of paragraph (b) of subsection (1) of section 10",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      102,
+      385,
+      419,
+      13
+    ],
+    "text": ".-.+ of the Urban Councils Ordinance, be the date of commence:",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      126,
+      401,
+      395,
+      18
+    ],
+    "text": "*_ ment of the term of offies of the new members elected to",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      140,
+      419,
+      121,
+      11
+    ],
+    "text": "ach such Council.",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      49,
+      439,
+      472,
+      30
+    ],
+    "text": "Special 4 (i) Notwithstanding anything in the Order made",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      48,
+      458,
+      472,
+      20
+    ],
+    "text": "SEEE, _under section 6 of the Pradeshiya Subha Act, No. 15 of 1987",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      43,
+      475,
+      478,
+      28
+    ],
+    "text": "Bamlaister and published in Gazette Extraordinary No. 453/4 of May 12,",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      44,
+      489,
+      476,
+      30
+    ],
+    "text": "fertain 1987, the term of office of every Pradeshiya Sabha specified,",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      47,
+      511,
+      474,
+      13
+    ],
+    "text": "Eradeshiya in Schedule IV and Schedule V to this Act shail commence",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      44,
+      518,
+      477,
+      32
+    ],
+    "text": "Sethe. on the first day of January, 1989 or on such eazlier date ax",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      141,
+      544,
+      380,
+      15
+    ],
+    "text": "the Minister may appoint, by Order published in the",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      74,
+      561,
+      446,
+      16
+    ],
+    "text": ". Gazette ; and such first day of January or the date so",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      142,
+      578,
+      378,
+      14
+    ],
+    "text": "appointed shall for the purposes of that Act, be deemed to",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      142,
+      593,
+      389,
+      14
+    ],
+    "text": "tbe the date of commencement of the term of office of each. .",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      85,
+      610,
+      436,
+      15
+    ],
+    "text": ". such Council and not the first day of January, 1988, 28",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115,
+      628,
+      177,
+      14
+    ],
+    "text": "+ specified in thet Order.",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      159,
+      648,
+      370,
+      22
+    ],
+    "text": "(2) Tue Minister may, by Order published in the Gazette,",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143,
+      676,
+      377,
+      15
+    ],
+    "text": "appoint a Special Commissioner to administer the affairs of",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143,
+      696,
+      377,
+      15
+    ],
+    "text": "any Fradeshiya Sabha specified in Schedule IV or Schedule",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143,
+      717,
+      377,
+      15
+    ],
+    "text": "to this Act, during the period commencing on the, first",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144,
+      738,
+      376,
+      14
+    ],
+    "text": "day of January, 1988 and ending on the date of commence-",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      145,
+      759,
+      375,
+      14
+    ],
+    "text": "ment of the term of office of such Council (as provided in",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      145,
+      779,
+      389,
+      15
+    ],
+    "text": "subsection (1) ) ; and for that purpose, and subject to such =",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      142,
+      798,
+      377,
+      18
+    ],
+    "text": "conditions as may be specified in that Order, to exercise the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      46,
+      15,
+      444,
+      23
+    ],
+    "text": "! Local Authorities (Special: Provisions) <= 8",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      180,
+      36,
+      158,
+      14
+    ],
+    "text": "Act, No, 49 0f 2987 +",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      49,
+      64,
+      427,
+      19
+    ],
+    "text": "powers and perform the duties, of a Pradeshiya Sabha or \"7",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      49,
+      82,
+      417,
+      17
+    ],
+    "text": "the Chairman of a Pradeshiya Sabha under the Fradeshiya < -",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      49,
+      101,
+      427,
+      12
+    ],
+    "text": "Sabhas Act, No. 15 af 1987. : s",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      46,
+      118,
+      383,
+      24
+    ],
+    "text": "' {8} Upon the commencement of the term of office of a",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      49,
+      143,
+      392,
+      15
+    ],
+    "text": "Pradeshiye Sabha specified in Schedule IV or Schedule V |",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      49,
+      160,
+      424,
+      14
+    ],
+    "text": "to this Act, such Pradeshiya Sabha sheli be the successor. ~:~",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      49,
+      176,
+      430,
+      15
+    ],
+    "text": "to any Speciel Commissioner appointed, under subsection <",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      52,
+      192,
+      419,
+      14
+    ],
+    "text": "(Q), to administer the affairs of such Pradeshiya Sabha. .",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      62,
+      240,
+      421,
+      14
+    ],
+    "text": "5. (1) Notwithstanding anything in section 25 of the Special",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      49,
+      251,
+      451,
+      22
+    ],
+    "text": "Local Authorities Elections Ordinance (Chapter 262) -or in. einngto",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      50,
+      274,
+      460,
+      20
+    ],
+    "text": "any notice published under that section, the Commissfoner Pomnations",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      49,
+      296,
+      445,
+      20
+    ],
+    "text": "of Elections shall; within two weeks of the date of the coming tocertain",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      49,
+      316,
+      455,
+      13
+    ],
+    "text": "into operation of this rection, publish a notice fn theGazette, suthortties,",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      49,
+      334,
+      378,
+      15
+    ],
+    "text": "specifying @ period during which nomination papers will",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      49,
+      350,
+      426,
+      17
+    ],
+    "text": "be recelved by the respective returning officers, for each of 4",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      49,
+      370,
+      412,
+      13
+    ],
+    "text": "the electoral areas specified in Schedule V to this Act, baing ~",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      48,
+      386,
+      426,
+      14
+    ],
+    "text": "an electoral area in reapect of which, no nomination papers -\" : :",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      49,
+      403,
+      377,
+      13
+    ],
+    "text": "wero received or, all the nomination papers recelved were",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      48,
+      419,
+      379,
+      14
+    ],
+    "text": "TeJected, in previous nomination periods specified under tha",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      48,
+      435,
+      379,
+      13
+    ],
+    "text": "Leal Authorities Blections Ordinance, with respect to that",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      47,
+      451,
+      379,
+      12
+    ],
+    "text": "electoral area. :",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      64,
+      483,
+      361,
+      14
+    ],
+    "text": "{2 Where any nomination papers are submitted to the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      48,
+      500,
+      377,
+      13
+    ],
+    "text": "returning officer in respect of any such electoral areas",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      48,
+      516,
+      377,
+      14
+    ],
+    "text": "during the perfod specified under subsection (1), the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      48,
+      532,
+      394,
+      14
+    ],
+    "text": "provisions of the Local Authorities Elections Ordinance -",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      48,
+      549,
+      376,
+      14
+    ],
+    "text": "shall thereupon apply. Where on the other hand no",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      48,
+      565,
+      424,
+      14
+    ],
+    "text": "nomination papers sre received within that period in respect .",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      48,
+      581,
+      376,
+      15
+    ],
+    "text": "of any electoral area, or all the nomination papers recelved,",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      47,
+      599,
+      377,
+      14
+    ],
+    "text": "within that period in respect of any electoral area are",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      47,
+      615,
+      377,
+      14
+    ],
+    "text": "rejected, the provisioris of subsections (2) and (3) af section",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      47,
+      630,
+      381,
+      17
+    ],
+    "text": "38 of that Ordinance shall apply. . 7,",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      126,
+      664,
+      341,
+      15
+    ],
+    "text": "on SCHEDULE (Sectlon 3)",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      77,
+      686,
+      319,
+      11
+    ],
+    "text": "Dwvexopneent Coowens Twe Tums Or Orricx Or Waoae",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      137,
+      700,
+      160,
+      10
+    ],
+    "text": "7 Menorss Ts Exreroeo",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      61,
+      726,
+      220,
+      12
+    ],
+    "text": "1. The Colombo Development Council,",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      60,
+      744,
+      360,
+      11
+    ],
+    "text": "2. The Gampaha Development Council. :",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      60,
+      761,
+      228,
+      12
+    ],
+    "text": "4, fhe Kalutera Development Couell",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      60,
+      779,
+      205,
+      12
+    ],
+    "text": "4. The Kandy Development Council,",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      61,
+      797,
+      211,
+      12
+    ],
+    "text": "5. The Matale Development Councll",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      58,
+      815,
+      186,
+      12
+    ],
+    "text": "2 rasta r :",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      137,
+      14,
+      378,
+      16
+    ],
+    "text": "Lacal Authorities (Special Provisions) t",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      127,
+      31,
+      373,
+      15
+    ],
+    "text": ": Act, No. 43 of 2987 :",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      135,
+      62,
+      268,
+      14
+    ],
+    "text": "_ & The Nuwara-Bliya Development Council,",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      149,
+      76,
+      199,
+      13
+    ],
+    "text": "{h The Galle Development Council",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      149,
+      89,
+      357,
+      13
+    ],
+    "text": "4. The Matera Developmest Counell. .",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      148,
+      101,
+      368,
+      15
+    ],
+    "text": "The Hambentota Development Council. i",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143,
+      116,
+      374,
+      13
+    ],
+    "text": "16. The Ampara Development Council :",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      122,
+      132,
+      393,
+      13
+    ],
+    "text": "+\" 22. The Kumunegala Development Counell, my",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144,
+      148,
+      229,
+      13
+    ],
+    "text": "12, The Puttalnm Development Council.",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143,
+      162,
+      259,
+      13
+    ],
+    "text": "18. The Anuradhapura Development Council,",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      142,
+      176,
+      248,
+      12
+    ],
+    "text": "34. The Polonnaruwa Development Council,",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143,
+      189,
+      218,
+      12
+    ],
+    "text": "18, The Badalle Development Council,",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143,
+      202,
+      389,
+      13
+    ],
+    "text": "6 The Moneragala Development Council. a",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143,
+      216,
+      238,
+      12
+    ],
+    "text": "17, The Retnapura Development Couneil,",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      142,
+      230,
+      216,
+      12
+    ],
+    "text": "18 Tae Kegalle Development Council.",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      213,
+      267,
+      299,
+      18
+    ],
+    "text": "SCHEDULE IL (Bection 3)",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      175,
+      296,
+      299,
+      12
+    ],
+    "text": "Moira: Counens rie Tet or Orece oF Weoat",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      261,
+      310,
+      126,
+      10
+    ],
+    "text": "Menania ts EXTENDED",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      147,
+      331,
+      202,
+      12
+    ],
+    "text": "1 The Colombo Municipal Councll,",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      146,
+      351,
+      346,
+      12
+    ],
+    "text": "2. The Debiwala-Mount Lavinia Municipal Council .",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      147,
+      372,
+      202,
+      12
+    ],
+    "text": "&. The Nogombo Munleips! Council,",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      145,
+      392,
+      189,
+      13
+    ],
+    "text": "4, The Kandy Municipal Couneil.",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      147,
+      413,
+      181,
+      12
+    ],
+    "text": "6. The Galle Munkeipal Council.",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      147,
+      433,
+      218,
+      12
+    ],
+    "text": "6, The Kurunegala Municipal Cownsi].",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      147,
+      453,
+      196,
+      12
+    ],
+    "text": "1. The Badulla Munictpal Counc!)",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      147,
+      473,
+      274,
+      14
+    ],
+    "text": "The Rainapura Munielpal Counell. .",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      216,
+      514,
+      296,
+      11
+    ],
+    "text": "= SCHEDULE UE (Section 3)",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      136,
+      536,
+      378,
+      12
+    ],
+    "text": "Ursa Counens sax Teak or Oretce of Wuoee Miscsres 15",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      294,
+      550,
+      53,
+      10
+    ],
+    "text": "Sermo",
+    "mean_p_confidence": 0.05
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      149,
+      579,
+      218,
+      13
+    ],
+    "text": "1, Thr Sitawoks pura Urban Counesl,",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      148,
+      596,
+      195,
+      11
+    ],
+    "text": "3 The Kolonnawa Urban Council.",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      148,
+      612,
+      297,
+      11
+    ],
+    "text": "3-The Sri Jeyawardeneputa Kotte Urban Couneil",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      149,
+      628,
+      190,
+      10
+    ],
+    "text": "4 The Moratuwa Urban Council,",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      149,
+      644,
+      183,
+      11
+    ],
+    "text": "5, The Gampeba Urban Council,",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      149,
+      659,
+      169,
+      11
+    ],
+    "text": "The Ja-Bla Ushan Council",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      149,
+      676,
+      259,
+      10
+    ],
+    "text": "4, The Katunayake-Seeduwa Urban Counell,",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      149,
+      691,
+      285,
+      12
+    ],
+    "text": "4 The Minuwangoia Urban Council :",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      120,
+      707,
+      320,
+      11
+    ],
+    "text": "+, The Poliyagodn Urban Council, .",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144,
+      723,
+      348,
+      11
+    ],
+    "text": "10, The Beruwala Ursan Coane, :",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144,
+      739,
+      178,
+      11
+    ],
+    "text": "A. The Horana Urban Council,",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144,
+      755,
+      189,
+      11
+    ],
+    "text": "12 The Kelutara Urban Council.",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144,
+      767,
+      337,
+      15
+    ],
+    "text": "19, The Penadure Urban Comite, .",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143,
+      786,
+      241,
+      12
+    ],
+    "text": "44, The Garapela Urban Counell",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143,
+      802,
+      228,
+      12
+    ],
+    "text": "16, The Kadugannawa Urhan Council.",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157,
+      23,
+      321,
+      17
+    ],
+    "text": "Locat Authorities (Special Provisions) 3",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      225,
+      34,
+      176,
+      30
+    ],
+    "text": "Act, No, 43 of 1987 :",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      104,
+      77,
+      331,
+      14
+    ],
+    "text": "3 The Newalopitiya Usben Council, :",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      104,
+      85,
+      257,
+      30
+    ],
+    "text": "37. The Wattegama Urban Councdl, :",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      104,
+      109,
+      232,
+      13
+    ],
+    "text": "1 The Hattoa-Dickoye Urban Counell,",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      104,
+      125,
+      291,
+      12
+    ],
+    "text": "19, The Talawakelle-Lindula Urban Coumcil, -",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      99,
+      133,
+      336,
+      29
+    ],
+    "text": "28, The Ambslougods Urban Counell, to",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      104,
+      148,
+      371,
+      30
+    ],
+    "text": "21, The Matera Urban Council : be",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      99,
+      164,
+      331,
+      29
+    ],
+    "text": "22. The Hambantota Urben Council, ars",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      99,
+      181,
+      397,
+      28
+    ],
+    "text": "2%. The Tangalle Urban Council, ne) .",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      99,
+      199,
+      380,
+      25
+    ],
+    "text": "24 The Ampara Urban Council, . an",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      103,
+      220,
+      223,
+      11
+    ],
+    "text": "25, Th Chilaw Urban Council +",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      103,
+      236,
+      237,
+      10
+    ],
+    "text": "2% The Puttalam Urban Counc",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      103,
+      252,
+      225,
+      13
+    ],
+    "text": "3%, The Anuredhapura Urban Counsil,",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      103,
+      261,
+      335,
+      27
+    ],
+    "text": "A, The Bandsrawela Urban Council, Dee",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      103,
+      284,
+      192,
+      12
+    ],
+    "text": "28, The Haputale Urban Council,",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      103,
+      300,
+      227,
+      14
+    ],
+    "text": "20, The Kegalle Urbon Counc",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      203,
+      327,
+      269,
+      28
+    ],
+    "text": "SCHEDULE IV | Beetion 4)",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      96,
+      360,
+      378,
+      12
+    ],
+    "text": "Pranratrys: Sansas Commerncenaien or see Tran oF OFFICE oF",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      198,
+      375,
+      174,
+      10
+    ],
+    "text": "Wsase Mennees 13 Posrrosten",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108,
+      390,
+      355,
+      30
+    ],
+    "text": "1. Tho Homagams Pradeshiya Sabha, - oo",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      107,
+      418,
+      208,
+      11
+    ],
+    "text": "The Koduwele Pradeshiya Sabha,",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      107,
+      435,
+      204,
+      12
+    ],
+    "text": "3. The Keshews Pradesbiya Subba,",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      107,
+      451,
+      339,
+      13
+    ],
+    "text": "4. The Kotlkawatte-Mulleriyawa Pradeshiya, Sabha, ~",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      107,
+      469,
+      223,
+      13
+    ],
+    "text": "5 The Maharagama Pradeshiya Sabha,",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      106,
+      486,
+      205,
+      12
+    ],
+    "text": "& Tha Sitawaka Pradeshiya Sabha,",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      106,
+      504,
+      218,
+      12
+    ],
+    "text": "7, The Attanngalle Pradeshiye Sabha;",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      106,
+      521,
+      222,
+      13
+    ],
+    "text": "8, The Divulapitiya Pradeshiya Sabi.",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      106,
+      539,
+      192,
+      12
+    ],
+    "text": "8, The Dompe Predeshiya Sabha",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      100,
+      557,
+      210,
+      12
+    ],
+    "text": "40, \"The Campana Pradeshiya Sabba,",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      100,
+      574,
+      194,
+      12
+    ],
+    "text": "121, The Jo-Hia Pradeshiya Sebbe.",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      100,
+      592,
+      202,
+      11
+    ],
+    "text": "412, The Ketana Pradeshiya Sabla,",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      100,
+      609,
+      205,
+      13
+    ],
+    "text": "18, The Kelaniya Pradoshiya Sabhe,",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      100,
+      627,
+      201,
+      12
+    ],
+    "text": "14. The Mahara Pradethiya Sabha,",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      99,
+      644,
+      235,
+      13
+    ],
+    "text": "15, The Minuwangoda Prodechiya Sabhe,",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      99,
+      662,
+      252,
+      12
+    ],
+    "text": "18. The Mirigama Pradeshlys Sabha, ~",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      99,
+      679,
+      225,
+      12
+    ],
+    "text": "11, \"The Agalawatia Pradeshiya Sabha,",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      99,
+      698,
+      234,
+      12
+    ],
+    "text": "18, The Benderagema Pradeshiya Sabha,",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      98,
+      715,
+      215,
+      12
+    ],
+    "text": "18,The Berrwela Pradechiva Sabha,",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      98,
+      733,
+      235,
+      12
+    ],
+    "text": "2, The Bulathsinbate Pradeshiya Sabbs,",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      98,
+      751,
+      225,
+      11
+    ],
+    "text": "21 The Dodanyoda Pradeshiya Sabha,",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      97,
+      768,
+      203,
+      12
+    ],
+    "text": "22, The Hormna Pradeshiya Sabhe,",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      94,
+      775,
+      263,
+      30
+    ],
+    "text": "23, The Kelutera Pradeshiya, Sathe, .",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      97,
+      803,
+      220,
+      12
+    ],
+    "text": "4. The Matnguma Podeshiya Sabha,",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      94,
+      811,
+      288,
+      29
+    ],
+    "text": "2%, The Panadura Pradeshiys Subba, :",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      139,
+      31,
+      312,
+      16
+    ],
+    "text": "6 Local Authorities (Special Provisions)",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      274,
+      48,
+      116,
+      14
+    ],
+    "text": "Act, No, 43 of 1987",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      154,
+      80,
+      341,
+      12
+    ],
+    "text": "28, The Walollawita Pradeshiya Sobhe, 6.",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      154,
+      97,
+      301,
+      11
+    ],
+    "text": "21, The Akurabe Pradeshiya: Sabha. . .",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      154,
+      113,
+      266,
+      13
+    ],
+    "text": "28, The Ganga Thain Korale Pradeshiya Saba,",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      153,
+      131,
+      304,
+      12
+    ],
+    "text": "28, The Harispattuwa Pradeshiya Sabha, .",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      135,
+      147,
+      385,
+      13
+    ],
+    "text": "+ 80 The Kandy Four Gravets and Gange-Wate Korele Pradeskiya",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      188,
+      151,
+      246,
+      30
+    ],
+    "text": "Sabha, ut",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      152,
+      178,
+      351,
+      11
+    ],
+    "text": "3M. The Kundasale Pradeshiyn Sabha, ans",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      152,
+      195,
+      351,
+      12
+    ],
+    "text": "32. The Minipe Pradethiya Sabha. :",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      152,
+      212,
+      199,
+      11
+    ],
+    "text": "33, The Panwile Pradeshiya Sabhe,",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      151,
+      229,
+      259,
+      12
+    ],
+    "text": "3A The Pasbage Korale Pradeshiya Sabha. *",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      151,
+      246,
+      240,
+      11
+    ],
+    "text": "35 The Pathedumbara Pradeshiya Saba",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      151,
+      263,
+      247,
+      12
+    ],
+    "text": "38 The Pathehewaneta Pradeshiye Sabha,",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      151,
+      280,
+      214,
+      12
+    ],
+    "text": "34, The Pufapitiva Pradeshiya Sabha,",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      151,
+      297,
+      320,
+      11
+    ],
+    "text": "3% The Uda Dombera Praidesbiya Sabbe, :",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      151,
+      314,
+      217,
+      12
+    ],
+    "text": "38. The Udepalatha Pradeahlya Sabha,",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      140,
+      331,
+      285,
+      15
+    ],
+    "text": ", 4, The Yatinuwara Pradeshiya Sabhe, .",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      151,
+      348,
+      212,
+      11
+    ],
+    "text": "41 the Dambulla Pradeshiya Sethe.",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      151,
+      365,
+      216,
+      11
+    ],
+    "text": "42 The Galewela Pradesbiya Sabon.",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      151,
+      382,
+      192,
+      11
+    ],
+    "text": "4G, The Neuln Predeshiye Sabha,",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      151,
+      399,
+      211,
+      12
+    ],
+    "text": "44 The Pallepola Pradeshiya Sabha.",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      151,
+      416,
+      197,
+      12
+    ],
+    "text": "45, The Rattota Prodeshiya Sabha.",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      151,
+      433,
+      214,
+      12
+    ],
+    "text": "48. The Yatewatta Pradeshiya Sabha,",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      151,
+      450,
+      239,
+      12
+    ],
+    "text": "4%, The Hangurankets Praderhiya Sabha,",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      151,
+      468,
+      341,
+      11
+    ],
+    "text": "48. The Rotmale Pradashlya Sabha, :",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      151,
+      485,
+      352,
+      11
+    ],
+    "text": "4%, The Walapane Pradeshiya Sabba, :",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      151,
+      502,
+      367,
+      15
+    ],
+    "text": "50, The Akmeemena Pradeshiya Sabha. .",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      151,
+      519,
+      231,
+      12
+    ],
+    "text": "31, The Ambalangoda Pradeshiya Sabha,",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      151,
+      536,
+      220,
+      12
+    ],
+    "text": "32, The Baddegama Pradeshiya Sabha,",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      151,
+      553,
+      213,
+      12
+    ],
+    "text": "82. The Belapitiya Pradeshiya Sabha,",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      151,
+      570,
+      284,
+      15
+    ],
+    "text": "St The Bentota Pradechiya Sabha, .",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      151,
+      587,
+      201,
+      13
+    ],
+    "text": "35, The Elpitiya Pradeshiya, Sabha,",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      151,
+      604,
+      223,
+      13
+    ],
+    "text": "$4, The Haboraduwa Pradeshiya Sabhe.",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      151,
+      621,
+      223,
+      13
+    ],
+    "text": "97, The Hikkaduwa Pradeshiye Sabha,",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      151,
+      639,
+      353,
+      12
+    ],
+    "text": "5. The Karandeniyn Prideshiya Sabha, .",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      151,
+      656,
+      214,
+      12
+    ],
+    "text": "38, The Labuduwa Prateshiya Sabha,",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      151,
+      673,
+      305,
+      12
+    ],
+    "text": "6%, The Nagods Predeshiva Subba, :",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      151,
+      690,
+      294,
+      15
+    ],
+    "text": "#1, The Nelawa Pradeshiye Sabha, .",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      152,
+      707,
+      212,
+      13
+    ],
+    "text": "62, The Niyagoma Predeahiya Sabha,",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      153,
+      724,
+      318,
+      16
+    ],
+    "text": "8, The Tawalama Pradeshiva Sabhe. .",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      145,
+      740,
+      239,
+      18
+    ],
+    "text": "4 The Yakkalnnulla Pradeshiya Sabha,",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      152,
+      758,
+      210,
+      14
+    ],
+    "text": "6%. The Akuressa Pradechiya Sabhe.",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      152,
+      775,
+      249,
+      15
+    ],
+    "text": "6% The Deviouwara Pradeshiya Sabha...",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      152,
+      791,
+      264,
+      16
+    ],
+    "text": "67. Tue Dicewells Pradeshiya Sabha, |",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      152,
+      810,
+      326,
+      14
+    ],
+    "text": "GG, The Hskinena Pradeshiya Satha, 2. 1+",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      170,
+      30,
+      348,
+      16
+    ],
+    "text": "\"+ Local Authorities (Special Provisions} a",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      269,
+      49,
+      117,
+      14
+    ],
+    "text": "Act, No, 43 0f 1987",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      145,
+      79,
+      355,
+      14
+    ],
+    "text": "8. The Kamburupitiya Pradeshiya Sabha. noe",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      145,
+      97,
+      357,
+      13
+    ],
+    "text": "70. The Kotapola Pradeshiya Sabha. a",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      145,
+      115,
+      364,
+      11
+    ],
+    "text": "11. \"The Malimboda Pradeshiya Sabhe. .",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      145,
+      132,
+      311,
+      13
+    ],
+    "text": "72 The Pasgoda Pradeshiya Sabo, * :",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      141,
+      140,
+      230,
+      30
+    ],
+    "text": "478 The Tidhagoga Pradeshiya Sabha, veut",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      145,
+      166,
+      261,
+      13
+    ],
+    "text": "24, The Wollgnma Pradechiva Sabha,",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      145,
+      185,
+      248,
+      14
+    ],
+    "text": "4% The Ambalentota Prideshiya Sabha, *",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      146,
+      209,
+      207,
+      11
+    ],
+    "text": "46. The Beliotta Predeshiya Sabha,",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      145,
+      229,
+      226,
+      12
+    ],
+    "text": "7%. The Hambantota Pradeshiva Sabbe,",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      146,
+      250,
+      256,
+      13
+    ],
+    "text": "78, The Lusugamwehera Predechiya Bubba.",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      146,
+      269,
+      284,
+      14
+    ],
+    "text": "7H The Tiesamsheramaya Pradeshiya Gabba.",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      146,
+      290,
+      233,
+      13
+    ],
+    "text": "90. The Weeruketlya Pradeshlya Sabha.",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      146,
+      309,
+      336,
+      16
+    ],
+    "text": "48. The Vavaniya South (Sinbale) Pradeshiyn Sobha",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      146,
+      331,
+      230,
+      13
+    ],
+    "text": "32 Tue Kattonkudy- Pradeshiva Sabha.",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      146,
+      350,
+      290,
+      12
+    ],
+    "text": "#8, The Addalachchenai Pradestiya Sabha,",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      147,
+      370,
+      254,
+      12
+    ],
+    "text": "4 The Daroana Pradeshiya Sabha, :",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      147,
+      390,
+      239,
+      12
+    ],
+    "text": "05, The Kolmunai Pradeshiya Sabha. /",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      146,
+      410,
+      276,
+      13
+    ],
+    "text": "88, The Karuskoditivu Predeshiya Sethe,",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      146,
+      429,
+      246,
+      13
+    ],
+    "text": "8%, The Nintavur Pathe Pradesbiya Sabha,",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      147,
+      450,
+      207,
+      12
+    ],
+    "text": "8, The Pottuvll Pradeshiya Sabha,",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      148,
+      469,
+      235,
+      16
+    ],
+    "text": "8, The Sammanturai Pradeshiya Sebha",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      147,
+      490,
+      200,
+      12
+    ],
+    "text": "WO. The Kantalo Pradeshiys Sabha,",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      147,
+      509,
+      206,
+      13
+    ],
+    "text": "91. The Kioniya Prodesbiya Sshha,",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      147,
+      527,
+      193,
+      12
+    ],
+    "text": "82, The Muttur Pradeshiya Sabbs,",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      147,
+      544,
+      206,
+      12
+    ],
+    "text": "89, The Alewwa Pradeshiye Sabha,",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      147,
+      561,
+      210,
+      14
+    ],
+    "text": "$4, The Bingiriya Pradeshiya Sabha.",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      148,
+      578,
+      228,
+      16
+    ],
+    "text": "05. The Gelgtnuwa Pradedslya Sabbe,",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      148,
+      596,
+      209,
+      13
+    ],
+    "text": "$6. The Giribawa Pradeshiya Sabha.",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      148,
+      613,
+      231,
+      13
+    ],
+    "text": "97 The Tbbagamuwe Pradeshiya Sabha,",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      148,
+      632,
+      276,
+      11
+    ],
+    "text": "98, The Kobelgane raccaniya anos, -",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      148,
+      648,
+      223,
+      13
+    ],
+    "text": "99. The Kurunegela Pradechlys Saba,",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      142,
+      665,
+      211,
+      13
+    ],
+    "text": "400. The Mabawa Pradechiya Sabha.",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      142,
+      682,
+      239,
+      13
+    ],
+    "text": "101, The Nikeweratiya Pradechiya Saba,",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      143,
+      700,
+      267,
+      13
+    ],
+    "text": "102, The Polgohewela Pradechiys Sabha, ~~",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      142,
+      718,
+      216,
+      12
+    ],
+    "text": "308, The Ridigame Pradeshiya Sabha,",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      143,
+      734,
+      261,
+      13
+    ],
+    "text": "104. The Arochehikattuwa Pradeahiya Sabha,",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      144,
+      752,
+      202,
+      12
+    ],
+    "text": "85, The Chiaw Predeshiva Sabha,",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      142,
+      769,
+      219,
+      13
+    ],
+    "text": "108, The Kelpitiya Prodeskiya Sabha,",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      142,
+      786,
+      267,
+      14
+    ],
+    "text": "107, The Newagattegama Pradeshiju Ssbha. -",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      142,
+      803,
+      264,
+      14
+    ],
+    "text": "108, The Wanathawilluwa Pradechiya Sobba:",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      142,
+      821,
+      278,
+      15
+    ],
+    "text": "108, The Galenbinduouwews Pradashiya Sabha:",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      85,
+      32,
+      321,
+      16
+    ],
+    "text": "8 Local Authorities (Specist Provisions)",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      219,
+      49,
+      116,
+      14
+    ],
+    "text": "Act, No, 48 of 1987",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      93,
+      81,
+      236,
+      14
+    ],
+    "text": "110, The Borowpotana Predeshiza Saba",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      94,
+      97,
+      267,
+      15
+    ],
+    "text": "11 The Kabotugasdiglliya Prodashiva Sxthe.",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      94,
+      115,
+      238,
+      14
+    ],
+    "text": "118, The Kabitigollewa Pradeahiya Sabha,",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      94,
+      132,
+      250,
+      13
+    ],
+    "text": "AUB. The Medewachchiya Pradeshiya Satis,",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      94,
+      150,
+      212,
+      12
+    ],
+    "text": "114 The Mibintale Pradeshiya Sabha.",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      95,
+      166,
+      253,
+      13
+    ],
+    "text": "115. The Nochchiyngama Pradestiya Sibha,",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      95,
+      182,
+      335,
+      15
+    ],
+    "text": "118, The Nuwaragam Pelathe (Central) Pradedhiys Salhs,",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      95,
+      200,
+      322,
+      14
+    ],
+    "text": "107, The Nuwaragam Pelatha (Est) Predeshiya Sabb.",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      96,
+      219,
+      218,
+      12
+    ],
+    "text": "14R. The Rambewa Pradeshiys Sabha,",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      96,
+      233,
+      229,
+      15
+    ],
+    "text": "119. The Thirappane Pradeshiya Sabb.",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      96,
+      253,
+      236,
+      12
+    ],
+    "text": "128, The Dimbulagala Pradeshiya Sabbe,",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      97,
+      270,
+      245,
+      13
+    ],
+    "text": "121, The Hingurakeods Prodeshiva Sabha,",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      97,
+      287,
+      221,
+      13
+    ],
+    "text": "122, The Linkapora Pradeshiya Sabba,",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      97,
+      304,
+      253,
+      12
+    ],
+    "text": "122, Tha Thamankaduwa Prodedhlya Sebhe,",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      97,
+      321,
+      236,
+      12
+    ],
+    "text": "124 The Bandaruwela Pradeshiya Subbo.",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      97,
+      340,
+      185,
+      13
+    ],
+    "text": "12% The Eile Prodeshiya Sabhs.",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      97,
+      356,
+      216,
+      12
+    ],
+    "text": "428. The Hali-Eln Pradedhiya Sahha,",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      98,
+      373,
+      272,
+      13
+    ],
+    "text": "191, The Mabiyangsoa Pradeshiya Sebhe.",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      98,
+      387,
+      218,
+      16
+    ],
+    "text": "3%, The Pussara Pradeshiya Sahn",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      94,
+      398,
+      304,
+      31
+    ],
+    "text": "WA, The Ridimaliyadda Predeslya Sabha, :",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      98,
+      425,
+      222,
+      12
+    ],
+    "text": "199, The Soranstota Pradeahiya Sabha.",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      98,
+      442,
+      260,
+      12
+    ],
+    "text": "19%. The UvePermagama Pradesibya Sebina",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      98,
+      457,
+      256,
+      14
+    ],
+    "text": "132 The Welimada Pradeshiya Subhe,",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      99,
+      477,
+      266,
+      11
+    ],
+    "text": "188, The Badalkumbure Pradeshiys Sabba, +",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      86,
+      495,
+      216,
+      11
+    ],
+    "text": "+ HL The Bustala Pradeshiya Sabbe,",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      99,
+      512,
+      227,
+      11
+    ],
+    "text": "SR The Moneragala Pradeshiya Saba,",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      100,
+      528,
+      257,
+      13
+    ],
+    "text": "196. The Sivansbalanduvwa Pradeshiya Sethe,",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      99,
+      546,
+      237,
+      12
+    ],
+    "text": "394,.Th Thenamalwila Pradeshiya Sabha,",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      94,
+      564,
+      218,
+      16
+    ],
+    "text": "18% The Ayagams Pradeshiya Sabha.",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      99,
+      581,
+      227,
+      12
+    ],
+    "text": "4188, Thy Eheliyagoda Predeshiya Sabha,",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      100,
+      598,
+      214,
+      12
+    ],
+    "text": "40, Th Kalawans Predechiya Seba,",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      96,
+      605,
+      315,
+      31
+    ],
+    "text": "HL. The Kuruwita Pradeshiye Sibi. :",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      97,
+      623,
+      358,
+      31
+    ],
+    "text": "M2, The Peinadutla Predeshiya Sabha. -",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      101,
+      650,
+      219,
+      12
+    ],
+    "text": "443, The Ratnapura Pradesbiye Sabha,",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      101,
+      668,
+      259,
+      12
+    ],
+    "text": "144 The Aranayaka Prudeshiye Sabha, |",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      102,
+      685,
+      218,
+      12
+    ],
+    "text": "145, The Dehiowite Predesbiye Sabha.",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      102,
+      703,
+      283,
+      12
+    ],
+    "text": "146. The Deraniyagela Predeshiyn Sobba.",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      102,
+      720,
+      233,
+      11
+    ],
+    "text": "M7, The Galigomuwa Pradeshiya Sabha.",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      77,
+      738,
+      230,
+      11
+    ],
+    "text": "+ M5, The Regalla Pradeshiya Sabha.",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      103,
+      755,
+      222,
+      11
+    ],
+    "text": "148, The Mawanella Predeshiya Sabha.",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      103,
+      772,
+      272,
+      15
+    ],
+    "text": "186. The Rarabuikane Predesbiya Sabha, |<",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      103,
+      790,
+      230,
+      11
+    ],
+    "text": "151. The Rawanwella Pradeshiya abba,",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      103,
+      807,
+      232,
+      12
+    ],
+    "text": "452, The Warskapola Pradeshiye Saba.",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      104,
+      823,
+      228,
+      14
+    ],
+    "text": "153. The Yatiyenteta Pradediya Sabha.",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      189,
+      13,
+      321,
+      14
+    ],
+    "text": "Local Authorities (Special Provisions) 6",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      262,
+      30,
+      207,
+      14
+    ],
+    "text": "Act, No, 43 of 1987 .",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      243,
+      66,
+      264,
+      11
+    ],
+    "text": "SORDULE V (Beetion 6)",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      122,
+      84,
+      364,
+      13
+    ],
+    "text": "\"Lage ge Counous im Risvror or Wines wo Nosmumons,",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      282,
+      101,
+      205,
+      9
+    ],
+    "text": "ARE HECEEVED :",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      143,
+      125,
+      369,
+      14
+    ],
+    "text": "1. Tho Jaffan Municipal Council + ,",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      141,
+      141,
+      221,
+      13
+    ],
+    "text": "2 The Batiiealoa Munleipal Councll",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      142,
+      159,
+      210,
+      10
+    ],
+    "text": "%, Tho Velvettithura! Urban Counc",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      141,
+      176,
+      340,
+      13
+    ],
+    "text": "4.The Point-Pedro Urban Council 1",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      141,
+      193,
+      221,
+      10
+    ],
+    "text": "4. The Chavakaehcheri Urban Council",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      141,
+      210,
+      369,
+      15
+    ],
+    "text": "@ The Vavuniya Urban Council a ey",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      141,
+      227,
+      370,
+      13
+    ],
+    "text": "The Chavakachchert Pradeshiya Sabha",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      141,
+      244,
+      368,
+      13
+    ],
+    "text": "4. The Deltt Pradeahiya Soba !",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      140,
+      261,
+      370,
+      14
+    ],
+    "text": "The Kayts Prodeshiya Sabha y",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      136,
+      279,
+      374,
+      12
+    ],
+    "text": "10. The Neliar Pradeshiya Sabha :",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      136,
+      296,
+      373,
+      14
+    ],
+    "text": "11, The Point-Pedro Pradeshiye Sabha :",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      136,
+      312,
+      334,
+      12
+    ],
+    "text": "12, The Vadamarachch! (South-Wert) Pradeshiya Sabha -",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      137,
+      330,
+      373,
+      13
+    ],
+    "text": "38, The Valikamam (est) Pradeshiya Sabha .",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      137,
+      347,
+      372,
+      14
+    ],
+    "text": "14, The Valixemam (North) Pradeshiya Sabha",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      136,
+      363,
+      376,
+      13
+    ],
+    "text": "15, The Valiksimam (South) Prodeshiya Sabha",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      136,
+      381,
+      373,
+      13
+    ],
+    "text": "14. The Vaitkamam (South-West) Predeshiya Subba .",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      136,
+      399,
+      262,
+      11
+    ],
+    "text": "11. The Valikamem (West) Pradeshiya Sabha",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      136,
+      416,
+      199,
+      11
+    ],
+    "text": "48 The Valanal Pradeshiya Sabha",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      137,
+      430,
+      211,
+      14
+    ],
+    "text": "19, The Rarechchi Pradeshiya Subbu",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      136,
+      450,
+      234,
+      12
+    ],
+    "text": "2, The Pochchilaipelli Pradeshiys Sabha",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      139,
+      467,
+      210,
+      12
+    ],
+    "text": "4. The Poonskory-Pradeshiya Sebbs.",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      135,
+      481,
+      199,
+      15
+    ],
+    "text": "2% The Mannar Pradesbiya Sable",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      136,
+      502,
+      244,
+      12
+    ],
+    "text": "23, The Manthat (West) Predeshlya Sabha",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      136,
+      519,
+      372,
+      14
+    ],
+    "text": "24, The Musali Pradeshlys Sabha . ;",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      126,
+      537,
+      334,
+      12
+    ],
+    "text": "35. The Nenaddan Pradeshiya Sabha :",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      136,
+      553,
+      258,
+      12
+    ],
+    "text": "28, The Vavuniya (North) Pradeshlya Sabba",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      136,
+      570,
+      299,
+      13
+    ],
+    "text": "%%, The Vevuniya (South-Tamil).Pradeshiya Seba",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      136,
+      584,
+      284,
+      15
+    ],
+    "text": "38, The Venkalacheddileulam Pradeshlya Sabha",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      136,
+      605,
+      327,
+      11
+    ],
+    "text": "25, The Manthei (Best) Pradeshiya Sabha .",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      136,
+      622,
+      241,
+      12
+    ],
+    "text": "30, The Moritine Pattu Prodeshiys, Sabha",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      128,
+      640,
+      293,
+      16
+    ],
+    "text": "31, The Puthikudiyiruppu Pradesbiya Sabha =~",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      137,
+      657,
+      270,
+      12
+    ],
+    "text": "32 The Taunukkai Prodeshiya Sobha, :",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      136,
+      675,
+      228,
+      13
+    ],
+    "text": "38, The Bravur Patty Piadeshiya Sabine",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      134,
+      692,
+      245,
+      11
+    ],
+    "text": "3%, The Koralal (North) Pradeshiya. Sabha",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      137,
+      709,
+      298,
+      11
+    ],
+    "text": "$5. The Menmunai (South-West) Pradeshiya Sabha",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      136,
+      722,
+      359,
+      12
+    ],
+    "text": "96. The Manmunai (South andEruvll Pattu) Pradesbiya Sabha,",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      136,
+      736,
+      252,
+      12
+    ],
+    "text": "$7. The Manmanat (West) Pradeshiya Sabha",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      136,
+      750,
+      210,
+      11
+    ],
+    "text": "38 The Manmuaal Prodeshiya Sebha",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      137,
+      763,
+      243,
+      11
+    ],
+    "text": "38: The Porativu Pattu Pradeshiya Sabha,",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      136,
+      777,
+      254,
+      13
+    ],
+    "text": "40. The Alayediwembu Pradeshiye Sabha.",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      135,
+      790,
+      215,
+      11
+    ],
+    "text": "41, The Tirukkovil Predeshiva Sebha",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      135,
+      804,
+      377,
+      11
+    ],
+    "text": "42, The Kuchcheveli Pradeshiya Sabha :",
+    "mean_p_confidence": 0.57
+  }
+]

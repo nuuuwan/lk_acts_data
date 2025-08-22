@@ -1,0 +1,5469 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      252,
+      104,
+      90,
+      31
+    ],
+    "text": "a",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144,
+      160,
+      189,
+      23
+    ],
+    "text": ". . Ose",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      100,
+      200,
+      393,
+      18
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIG",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161,
+      229,
+      271,
+      18
+    ],
+    "text": "SOCIALIST REPUBLIC OE",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      233,
+      258,
+      119,
+      17
+    ],
+    "text": "SRI LANKA",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      133,
+      373,
+      326,
+      19
+    ],
+    "text": "SRI LANKA NURSES COUNCIL",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      190,
+      405,
+      284,
+      28
+    ],
+    "text": "ACT, No. 19 OF 1988",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      196,
+      518,
+      205,
+      17
+    ],
+    "text": "[Certified on 22nd Sune, 1988}",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      173,
+      582,
+      352,
+      16
+    ],
+    "text": "Printed on the Orders of Government .",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      67,
+      696,
+      463,
+      20
+    ],
+    "text": "Published as a Supplement to part IZ of the Gazette of the Democratic",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      132,
+      717,
+      330,
+      19
+    ],
+    "text": "Socialist Republic of Sri Lauka of June 24, 1988",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      97,
+      796,
+      409,
+      28
+    ],
+    "text": "70 tm roncEagm AT Tm GOVEDVMENT FURLICATIONS SUREAY, COLOBEDO I,",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71,
+      827,
+      465,
+      21
+    ],
+    "text": "Price: Re, 1.20 Postage : 75 conte",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119,
+      34,
+      304,
+      16
+    ],
+    "text": "Sri Lanka. Nurses Couneit Act, No. 19 of 1988",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      133,
+      68,
+      374,
+      18
+    ],
+    "text": ". [Certified on 22nd June, 1988] .",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      99,
+      271,
+      16
+    ],
+    "text": "LD--0. 66/84 .",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      121,
+      384,
+      14
+    ],
+    "text": "Ax Ac? ro PROVIDE FOU THE ZSTABLISHMENT OF A Nurses Coun-",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92,
+      139,
+      370,
+      17
+    ],
+    "text": "GL To ADVICE THE GOVERMENT WITH REGARD 70 TIE LAYING",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      157,
+      379,
+      11
+    ],
+    "text": "* DOWN OF STANDARDS FOR RECRUITMENT, EDUCATION AND PRO-",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      173,
+      371,
+      11
+    ],
+    "text": "[FESSIONAL PRACTICE OF NURSES ; 10 PROVIDE FOR THE REAISTUA-",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      190,
+      371,
+      12
+    ],
+    "text": "TION OF RURSES ; AND FOR MATTERS CONNECTED THEREWITH OR",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92,
+      207,
+      277,
+      9
+    ],
+    "text": "INCIDENTAL, SERETO,",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      227,
+      383,
+      21
+    ],
+    "text": "BE it enacted by the Parliament of the Demooratic Socia-",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      249,
+      266,
+      15
+    ],
+    "text": "Ust Republic of Sri Lanka as follows :",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      280,
+      447,
+      17
+    ],
+    "text": "L. This Act may be cited as the Sri Lanka Nurses Council - suogt title",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      296,
+      465,
+      16
+    ],
+    "text": "Act, No. 19 of 1988, and shall coma into operation on and dateat",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      307,
+      456,
+      22
+    ],
+    "text": "such date (hereinafter referred to as the appointed date) Peration.",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      330,
+      383,
+      16
+    ],
+    "text": "as the Minister may appoint by Order published in the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      344,
+      302,
+      23
+    ],
+    "text": "Gazette, wus",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      104,
+      378,
+      300,
+      26
+    ],
+    "text": ". PARTI ca .",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      104,
+      409,
+      330,
+      13
+    ],
+    "text": "Esrascasiparnr or sue Sar Lanes Nunses Counent",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      436,
+      464,
+      21
+    ],
+    "text": "2. (1) There shall be established a Council called the Sri Establishment",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      453,
+      433,
+      16
+    ],
+    "text": "Lanka Nurses Council (hereafter referred to os the fines",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      465,
+      464,
+      28
+    ],
+    "text": "Council), : Niue,",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92,
+      499,
+      367,
+      15
+    ],
+    "text": "2) The Council shall, by the name assigned to it by",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      515,
+      382,
+      16
+    ],
+    "text": "subsection (1), be a body corporate and shall have perpetual",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      532,
+      383,
+      15
+    ],
+    "text": "succession and a common geal and may ste and be sued",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      549,
+      383,
+      16
+    ],
+    "text": "in such name and may hold, acquire and dispose of any",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      567,
+      218,
+      14
+    ],
+    "text": "Property, movable or immovable.",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92,
+      592,
+      365,
+      16
+    ],
+    "text": "(3) The seal of the Council shall not be affixed to any",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      610,
+      381,
+      15
+    ],
+    "text": "Instrument without the authority given in writing by the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      626,
+      381,
+      16
+    ],
+    "text": "Secretary of the Council or some other person authorized",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      642,
+      380,
+      16
+    ],
+    "text": "by the Council, either generally or specially, for that",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      662,
+      319,
+      11
+    ],
+    "text": "Purpose, .",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      695,
+      438,
+      21
+    ],
+    "text": "3. The Counetl shall cousist of the following members > Constitu.",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      104,
+      717,
+      413,
+      19
+    ],
+    "text": "G) The President of the Counell ; . Council,",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      101,
+      749,
+      284,
+      16
+    ],
+    "text": "Gi) a registered practising nurse .",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      773,
+      380,
+      16
+    ],
+    "text": ". (@) who has experience in the practice of",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      152,
+      793,
+      316,
+      17
+    ],
+    "text": "Bursing for a period of not lesa than twelve +",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      179,
+      814,
+      276,
+      15
+    ],
+    "text": "years, of which five years shall be in",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      179,
+      836,
+      184,
+      14
+    ],
+    "text": "nursing administration ; and",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      41,
+      856,
+      159,
+      21
+    ],
+    "text": "889 KaLE Gop",
+    "mean_p_confidence": 0.08
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      158,
+      35,
+      343,
+      16
+    ],
+    "text": "2 Sri Lanka Nurses Council Act, No. 19 of 1988",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      228,
+      66,
+      314,
+      16
+    ],
+    "text": "(b) who has obtained a preseribed post-graduate",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      265,
+      83,
+      256,
+      15
+    ],
+    "text": "qualification in nursing administration,",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      226,
+      110,
+      317,
+      15
+    ],
+    "text": "elected by the Speclal Grade and Grade I nursing",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      226,
+      130,
+      318,
+      14
+    ],
+    "text": "* _ offteets in the medical service of the Ministry of",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      170,
+      150,
+      372,
+      16
+    ],
+    "text": "+ Health and the Ministry of Teaching Hospitals;",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      139,
+      181,
+      374,
+      18
+    ],
+    "text": "(fi) a registered practising nurse .",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      230,
+      207,
+      315,
+      15
+    ],
+    "text": "(@) who has experience in teaching in, or",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      268,
+      223,
+      278,
+      14
+    ],
+    "text": "administration of, a school of nursing for",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      179,
+      240,
+      367,
+      15
+    ],
+    "text": ": a period of not less than twelve years;",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      268,
+      258,
+      23,
+      11
+    ],
+    "text": "and",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      232,
+      284,
+      314,
+      15
+    ],
+    "text": "(0) who has obtained a prescribed post-graduate",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      166,
+      302,
+      185,
+      14
+    ],
+    "text": "\" qualification,",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      231,
+      325,
+      316,
+      15
+    ],
+    "text": "elected by the Special Grade'and Grade I nursing",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      231,
+      341,
+      316,
+      15
+    ],
+    "text": "officers in nursing education of the Ministry of",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      231,
+      359,
+      50,
+      13
+    ],
+    "text": "Health ;",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      189,
+      391,
+      233,
+      14
+    ],
+    "text": "Gv) & registered practising murse",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      234,
+      414,
+      314,
+      15
+    ],
+    "text": "(a) who has experience in the fleld of public",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      137,
+      431,
+      411,
+      17
+    ],
+    "text": ": health nureing for a period af not less than",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      139,
+      448,
+      254,
+      18
+    ],
+    "text": "eo twelve years; and",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      131,
+      475,
+      419,
+      15
+    ],
+    "text": "a (b) who has obtained a prescribed post-graduate",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      234,
+      493,
+      141,
+      14
+    ],
+    "text": "+ qualification,",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      179,
+      516,
+      372,
+      15
+    ],
+    "text": "tr.. elected by the Special Grade and Grade I nursing",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      166,
+      532,
+      385,
+      15
+    ],
+    "text": "us officers in the public health service of the",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      169,
+      550,
+      194,
+      13
+    ],
+    "text": "jn. Mintstey of Health ;",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      195,
+      573,
+      244,
+      23
+    ],
+    "text": "(v) a registered practising nurse",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      207,
+      598,
+      345,
+      14
+    ],
+    "text": "1+ (a) who'is employed in the Local Government",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      195,
+      615,
+      267,
+      13
+    ],
+    "text": ". Service; and .",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      170,
+      636,
+      396,
+      21
+    ],
+    "text": "jid3 .- (6) who thus experience in the practice of -",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      275,
+      659,
+      278,
+      15
+    ],
+    "text": "nursing for a period af not Jess than twelve",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      276,
+      677,
+      72,
+      13
+    ],
+    "text": "years ; and",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      182,
+      703,
+      371,
+      16
+    ],
+    "text": "* +\" () who has obtained a prescribed post-graduat>",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144,
+      712,
+      373,
+      30
+    ],
+    "text": "4 qualification, . :",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      237,
+      747,
+      316,
+      17
+    ],
+    "text": "elected by the nursing officers in ,the Local",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      167,
+      767,
+      310,
+      22
+    ],
+    "text": "vy ym GovERAMENE Service; _",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      187,
+      797,
+      366,
+      18
+    ],
+    "text": "(vi) the person who for the time being discharges the.",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      204,
+      816,
+      348,
+      17
+    ],
+    "text": "\"duties of the Director General of Health",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      234,
+      834,
+      321,
+      30
+    ],
+    "text": "Services ; .",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      112,
+      26,
+      341,
+      15
+    ],
+    "text": "Sri Lanka Nurses Council Act, No, 19 of 1988 3",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90,
+      54,
+      364,
+      18
+    ],
+    "text": "wif) three registered practising nurses nominated by the",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72,
+      71,
+      383,
+      15
+    ],
+    "text": "~ Minister fromamong staff nurses in the Depart-",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      119,
+      87,
+      336,
+      15
+    ],
+    "text": "> ment of Health having at least five years",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      138,
+      104,
+      245,
+      14
+    ],
+    "text": "experience in the practice of nursing ;",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      87,
+      136,
+      368,
+      16
+    ],
+    "text": "(viii) a person nominated by the Minister on the xecom-",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139,
+      153,
+      316,
+      13
+    ],
+    "text": "mendation of the Minister in charge of the subject",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139,
+      170,
+      76,
+      12
+    ],
+    "text": "of Finance;",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      94,
+      201,
+      360,
+      15
+    ],
+    "text": "(Gx) a person nominated by the Minfster on the",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      140,
+      217,
+      314,
+      14
+    ],
+    "text": "recommendation of the Minister in charge of the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      140,
+      234,
+      192,
+      14
+    ],
+    "text": "subject of Higher Eduction ;",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      99,
+      265,
+      356,
+      15
+    ],
+    "text": "(x) nursing officer nominated by the Minister on the",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      140,
+      282,
+      315,
+      13
+    ],
+    "text": "recommendation of the Minister in charge of the",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      141,
+      294,
+      381,
+      18
+    ],
+    "text": "subject of Teaching Hospitals; .",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      97,
+      330,
+      359,
+      14
+    ],
+    "text": "(xd) two persons nominated by the Minister from",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      142,
+      346,
+      314,
+      15
+    ],
+    "text": "among persons: interested in the welfare of",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      142,
+      362,
+      314,
+      15
+    ],
+    "text": "nursing who ere not public officers or in receipt",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      142,
+      380,
+      232,
+      13
+    ],
+    "text": "of a pension froma the Government ;",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      94,
+      410,
+      363,
+      15
+    ],
+    "text": "(xii) the person who for the time being discharges the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      117,
+      427,
+      338,
+      14
+    ],
+    "text": "+ duties of the Director Nursing (Medics) Services)",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      143,
+      444,
+      176,
+      14
+    ],
+    "text": "in the Ministry of Health;",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      92,
+      475,
+      365,
+      15
+    ],
+    "text": "(dil) the person who for the time being discharges the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      143,
+      491,
+      315,
+      15
+    ],
+    "text": "duties of the Director Nursing (Public Health",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      143,
+      508,
+      247,
+      15
+    ],
+    "text": "Services) in the Ministry of Health ;",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      91,
+      536,
+      366,
+      15
+    ],
+    "text": "{xiv) the person who for the time being discharges the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      79,
+      552,
+      379,
+      18
+    ],
+    "text": ". duties of the Director Nursing (Education) in the",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      142,
+      570,
+      322,
+      14
+    ],
+    "text": "Ministry of Health ;",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      95,
+      597,
+      362,
+      15
+    ],
+    "text": "(xv) the person who for the time being discharges the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      143,
+      613,
+      375,
+      15
+    ],
+    "text": "duties of the Director Nursing in the Ministry of .",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      143,
+      630,
+      314,
+      14
+    ],
+    "text": "the Mintster in charge af the sabject of Tesching",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      143,
+      647,
+      301,
+      14
+    ],
+    "text": "Hospitals ; :",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      92,
+      682,
+      364,
+      16
+    ],
+    "text": "(xvi) a registered practising nurse elected by the",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      143,
+      699,
+      313,
+      16
+    ],
+    "text": "nursing officers in the Dapartment of Ayurveda ;",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89,
+      727,
+      367,
+      17
+    ],
+    "text": "(xvil) a registered practising nurse elected by the",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      143,
+      745,
+      300,
+      15
+    ],
+    "text": "nursing officers in the private sector. =)",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      91,
+      783,
+      435,
+      20
+    ],
+    "text": "4 (1) Every member of the Council, other than an Tennre af",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      78,
+      797,
+      442,
+      20
+    ],
+    "text": "z officio member, shell, unless he vacates office earlier, embers,",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      78,
+      817,
+      379,
+      17
+    ],
+    "text": "hold office for a period of five years and he eligible for",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      79,
+      836,
+      181,
+      12
+    ],
+    "text": "re-election or renomination.",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      64,
+      25,
+      491,
+      17
+    ],
+    "text": ". 4 Sri Lanka Nurses Council Act, No. 19 of 1988 .",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      189,
+      55,
+      365,
+      13
+    ],
+    "text": "(2) Where an elected member or a nominated member",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      173,
+      72,
+      392,
+      14
+    ],
+    "text": "vacates his office prior to the expiration of his term of office,",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      171,
+      87,
+      384,
+      14
+    ],
+    "text": "nother member shall be elected or nominated in the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      172,
+      104,
+      382,
+      13
+    ],
+    "text": "same manner as the member vacating office has been elected",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      173,
+      120,
+      311,
+      13
+    ],
+    "text": "or nominated under the provisions of section 3.",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      187,
+      147,
+      366,
+      15
+    ],
+    "text": "(3) A member elected or nominated fa plece of a menaber",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      171,
+      164,
+      382,
+      15
+    ],
+    "text": "who vacates office, shall, unless he earlier vacates office, hold",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      171,
+      180,
+      381,
+      14
+    ],
+    "text": "office for the unexpired period of the term of office of the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      171,
+      196,
+      181,
+      12
+    ],
+    "text": "member whom he succeeds.",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      186,
+      225,
+      367,
+      14
+    ],
+    "text": "(#) Every ex officio member af the Council shall hold",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      169,
+      242,
+      384,
+      14
+    ],
+    "text": "office as long as he holds the post by virtue of which he has",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      170,
+      258,
+      374,
+      14
+    ],
+    "text": "been appointed as a member of the Couneil, :",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      74,
+      277,
+      477,
+      32
+    ],
+    "text": "Vacation B. A member of the Council other than an ex officio",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      74,
+      303,
+      360,
+      13
+    ],
+    "text": "of office member vacates office it such member",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      73,
+      317,
+      70,
+      12
+    ],
+    "text": "by members.",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      182,
+      328,
+      59,
+      14
+    ],
+    "text": "((@) dies;",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      186,
+      348,
+      364,
+      15
+    ],
+    "text": "(b) resigns his office by letter addressed to the President",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      222,
+      365,
+      181,
+      13
+    ],
+    "text": "or Registrar-of the Council ;",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      185,
+      385,
+      367,
+      15
+    ],
+    "text": "() 4s absent, without excuse, sufficient in the opinion of",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      221,
+      402,
+      328,
+      14
+    ],
+    "text": "the Council, from three consecutive meetings of the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      156,
+      418,
+      120,
+      13
+    ],
+    "text": ". Council ;",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      183,
+      438,
+      367,
+      15
+    ],
+    "text": "@ being a registered nurse ceases to be 2 registered nurse",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      220,
+      456,
+      330,
+      13
+    ],
+    "text": "a8 a comsequetice of the removal of his or her name",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      220,
+      472,
+      119,
+      14
+    ],
+    "text": "from the register ;",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      182,
+      492,
+      368,
+      15
+    ],
+    "text": "(@) fs declared an insolvent or bankrupt by @ competent",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      182,
+      509,
+      103,
+      13
+    ],
+    "text": "* eourt 5+",
+    "mean_p_confidence": 0.06
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      183,
+      529,
+      366,
+      14
+    ],
+    "text": "(P) 3s absent from Sri Lanka for a period of one year; or",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      182,
+      549,
+      367,
+      15
+    ],
+    "text": "4g) being a nominated member, is removed from office",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      160,
+      566,
+      162,
+      20
+    ],
+    "text": ". under section 6.",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      69,
+      595,
+      479,
+      14
+    ],
+    "text": "Removal ot (1) The Minister may, if he considers it expedient to",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      67,
+      605,
+      480,
+      29
+    ],
+    "text": "member do so, remove from office any nominated member of the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      68,
+      621,
+      411,
+      24
+    ],
+    "text": "Som flee. Council. without assigning any resson therefor :",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      116,
+      653,
+      431,
+      13
+    ],
+    "text": ". Provided, howeveve, that a member nominated on the",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      164,
+      670,
+      384,
+      13
+    ],
+    "text": "recommendation of another Minister shall be removed only",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      164,
+      686,
+      369,
+      12
+    ],
+    "text": "with the concurrence of that other Minister, ,",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      179,
+      719,
+      367,
+      14
+    ],
+    "text": "(2) The Council may reconunend to the Minister that",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      162,
+      734,
+      382,
+      16
+    ],
+    "text": "any nominated member of the Council shall be removed",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161,
+      752,
+      383,
+      14
+    ],
+    "text": "from office if such member has 20 abused his position 25a",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      160,
+      768,
+      383,
+      13
+    ],
+    "text": "member of the Counefl as to render his continuance i",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      91,
+      784,
+      452,
+      15
+    ],
+    "text": ": office detrimental to the interest of the Council. The Minis-",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      160,
+      800,
+      383,
+      17
+    ],
+    "text": "ter may on such recommendations and subject to: the",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      157,
+      818,
+      385,
+      17
+    ],
+    "text": "procedure hereinafter provided remove such member from",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      105,
+      17,
+      342,
+      16
+    ],
+    "text": "Sri Lanke Nurses Council Act, No, 19 of 1988 5",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      82,
+      50,
+      366,
+      18
+    ],
+    "text": "{8) Where the Council makes a recommendation to the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65,
+      67,
+      383,
+      14
+    ],
+    "text": "Minister under the preceding subsection, a written notice",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65,
+      83,
+      383,
+      15
+    ],
+    "text": "shall, at the same time, be served on the member against",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65,
+      99,
+      383,
+      14
+    ],
+    "text": "whom such recommendation is made informing him that a",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65,
+      115,
+      383,
+      13
+    ],
+    "text": "recommendation for his removal has been made to the",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65,
+      133,
+      57,
+      11
+    ],
+    "text": "Minister.",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      81,
+      169,
+      366,
+      13
+    ],
+    "text": "(2) A member of the Council against whom 8 recommen-",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65,
+      185,
+      382,
+      13
+    ],
+    "text": "dation has been made under subsection (2) may, within",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65,
+      201,
+      382,
+      13
+    ],
+    "text": "fourteen days of the date on which the notice under subsec-",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65,
+      217,
+      382,
+      14
+    ],
+    "text": "tion (3) is served on him, make representation against the",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65,
+      234,
+      382,
+      13
+    ],
+    "text": "recommendation to the Minister, who shall afford such mem-",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65,
+      249,
+      441,
+      16
+    ],
+    "text": "ber an opportunity of being heard before deciding whether .",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65,
+      266,
+      337,
+      14
+    ],
+    "text": "or not to exercise his powers under subsection (2).",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      78,
+      294,
+      448,
+      15
+    ],
+    "text": "4. (1) Ali members of the Couneil shell have the right Voting and",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66,
+      307,
+      457,
+      14
+    ],
+    "text": "to vote. flection of",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      323,
+      318,
+      209,
+      9
+    ],
+    "text": ". - Presidantaa",
+    "mean_p_confidence": 0.09
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      81,
+      335,
+      366,
+      13
+    ],
+    "text": "(2) The Council shall elect 2 President and 2 Vice-Prest-",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65,
+      351,
+      382,
+      14
+    ],
+    "text": "dent from among the elected members of the Council and",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66,
+      367,
+      381,
+      15
+    ],
+    "text": "the President shall preside at every meeting of the Council",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66,
+      384,
+      151,
+      14
+    ],
+    "text": "at which he is present,",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      81,
+      408,
+      366,
+      14
+    ],
+    "text": "(@) In the absence of the President, the Vice-President",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65,
+      425,
+      384,
+      15
+    ],
+    "text": "aball preside over # meeting of the Couneil and if both the",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65,
+      441,
+      382,
+      14
+    ],
+    "text": "President and the Vice-President are absent, the members",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65,
+      457,
+      382,
+      15
+    ],
+    "text": "of the Council attending such meeting shall elect from",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65,
+      474,
+      382,
+      15
+    ],
+    "text": "among the elected members present, a President for the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65,
+      491,
+      269,
+      14
+    ],
+    "text": "purpose of presiding aver such meeting.",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      79,
+      519,
+      432,
+      14
+    ],
+    "text": "& The quorum of a meeting shall be thirteen. Quorum,",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      79,
+      551,
+      451,
+      16
+    ],
+    "text": "9. Every question which arises for consideration by the Proceedings",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66,
+      566,
+      442,
+      21
+    ],
+    "text": "Council shall he decided by a majority of the members of the,",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66,
+      584,
+      382,
+      15
+    ],
+    "text": "Present at such meeting and voting and the President of",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66,
+      601,
+      381,
+      15
+    ],
+    "text": "that meeting shall have a casting vote in addition to his",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      80,
+      646,
+      444,
+      15
+    ],
+    "text": "10. The minutes of the proceedings af every meeting of yxjoutes ot",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68,
+      662,
+      463,
+      15
+    ],
+    "text": "the Council shall be entered in a book to be kept for the proceedings",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68,
+      679,
+      380,
+      16
+    ],
+    "text": "Purpose and shall be signed by, the person presiding at such",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68,
+      688,
+      109,
+      29
+    ],
+    "text": "meeting. (",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      231,
+      725,
+      58,
+      11
+    ],
+    "text": "PART IT",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      134,
+      745,
+      252,
+      12
+    ],
+    "text": "Powers axp Foncrions oF sae Counc,",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      83,
+      768,
+      447,
+      15
+    ],
+    "text": "HL. (1) The Council shalt have the power to do all such Powers and",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70,
+      781,
+      461,
+      21
+    ],
+    "text": "things ag are necessary for or conducive or incidental to, fusctions of",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70,
+      800,
+      379,
+      26
+    ],
+    "text": "the management and adminfstration of the affairs of the",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      182,
+      30,
+      340,
+      13
+    ],
+    "text": "6. Sri Lanka Nurses Council Act, No. 19 of 1988",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      197,
+      62,
+      363,
+      14
+    ],
+    "text": "(2) Without prejudice to the generality of the powers",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      182,
+      78,
+      379,
+      14
+    ],
+    "text": "conferred by subsection (1) the Council may exercise and",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      181,
+      94,
+      321,
+      14
+    ],
+    "text": "discharge the following powers and functions :",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      167,
+      117,
+      393,
+      15
+    ],
+    "text": "* (@) to register a person, who has obtained a certificate",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      233,
+      134,
+      327,
+      14
+    ],
+    "text": "of general nureing issued by the Director-General",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      232,
+      151,
+      329,
+      13
+    ],
+    "text": "of Health Services or, a certificate of general nursing",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      231,
+      167,
+      329,
+      14
+    ],
+    "text": "fegued by a recognized teaching institution in or",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      178,
+      183,
+      381,
+      16
+    ],
+    "text": ". outside Sri Lanka and approved by the Director",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      231,
+      199,
+      330,
+      13
+    ],
+    "text": "General of Heath Services having regard to the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      211,
+      214,
+      349,
+      15
+    ],
+    "text": "\"curriculum and standard of training at such instifu-",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      231,
+      234,
+      108,
+      13
+    ],
+    "text": "tion, as a mrse 5",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      194,
+      257,
+      366,
+      15
+    ],
+    "text": "{) to charge trom qualified nurses such fees as may be",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      231,
+      273,
+      329,
+      15
+    ],
+    "text": "preserfbed for the registration of their names in",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      133,
+      290,
+      368,
+      16
+    ],
+    "text": ". the register maintained by the Council ;",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      194,
+      314,
+      366,
+      15
+    ],
+    "text": "() 10 suspend or remove from ar restore to the register",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      231,
+      330,
+      329,
+      14
+    ],
+    "text": "the name of a registered nurse or to take such other",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      231,
+      347,
+      328,
+      14
+    ],
+    "text": "disciplinary action as may be necessary in nccor-",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      231,
+      363,
+      316,
+      14
+    ],
+    "text": "dance with the regulations made in that behalt ;",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      194,
+      388,
+      366,
+      14
+    ],
+    "text": "(@) to recommend to the Government, the conditions for",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      230,
+      404,
+      329,
+      12
+    ],
+    "text": "selection and recruitment of candidates to all",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      230,
+      421,
+      193,
+      13
+    ],
+    "text": "courses of studies for nurses ;",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      193,
+      445,
+      368,
+      14
+    ],
+    "text": "(@) to recommend io the Government, the currfeular for",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      230,
+      462,
+      218,
+      13
+    ],
+    "text": "all courses of studies for nurses ;",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      193,
+      482,
+      367,
+      14
+    ],
+    "text": "@) to recommend to the Government the text books to",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      230,
+      499,
+      329,
+      13
+    ],
+    "text": "be used in courses of studies for nurses and to pre-",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      174,
+      515,
+      366,
+      14
+    ],
+    "text": ". pare and publish such text books if necessary ;",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      155,
+      535,
+      405,
+      14
+    ],
+    "text": "@) to'ensure provision of such welfare facilities for",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      181,
+      552,
+      366,
+      18
+    ],
+    "text": ". nurses as may be decided upon by the Council;",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      194,
+      572,
+      367,
+      14
+    ],
+    "text": "@) to recommend to the Government, such measures as",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      231,
+      589,
+      330,
+      14
+    ],
+    "text": "are necessary to ensure the maintenance of proper",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      156,
+      605,
+      217,
+      14
+    ],
+    "text": ": standards of nursing ;",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      193,
+      625,
+      368,
+      14
+    ],
+    "text": "@ to make arrangements with the Director-General of",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      230,
+      641,
+      330,
+      15
+    ],
+    "text": "Health Services for the inspection of educational",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      230,
+      659,
+      331,
+      14
+    ],
+    "text": "institutions which provide courses of study on ur",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      208,
+      676,
+      259,
+      14
+    ],
+    "text": "sing: .",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      188,
+      696,
+      372,
+      15
+    ],
+    "text": "W) to presertbe @ code of ethics regulating the profes",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      230,
+      713,
+      165,
+      14
+    ],
+    "text": "sional conduct of nurses ;",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      193,
+      733,
+      366,
+      15
+    ],
+    "text": "() subject to the provisions of this Act, to appoint,",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      123,
+      753,
+      437,
+      16
+    ],
+    "text": ". employ and remunerate officers and servants of the",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      230,
+      774,
+      329,
+      15
+    ],
+    "text": "Council and to make rules regarding the appoint",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      229,
+      795,
+      329,
+      14
+    ],
+    "text": "ment, promotion, remunerstion and disciplinary",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      166,
+      816,
+      391,
+      16
+    ],
+    "text": ". control of its employees and the grant of leave and",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      123,
+      837,
+      255,
+      18
+    ],
+    "text": ". other benefits to them.",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      112,
+      20,
+      343,
+      15
+    ],
+    "text": "Sri Lanka. Nurses Councit Act, No. 39 of 1988 7",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      58,
+      53,
+      470,
+      15
+    ],
+    "text": "1: 42 The Council may, from time to time, delegate any of Delestym",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      59,
+      66,
+      470,
+      22
+    ],
+    "text": "dts powers, funetions ar duties to a Committee consisting af ?C PEW=ty",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72,
+      86,
+      458,
+      14
+    ],
+    "text": "not less than five members of the Couneil end such Com- snd duties",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72,
+      99,
+      434,
+      20
+    ],
+    "text": "mnittee shall exercise, discharge and perform such powers, of the.",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      57,
+      118,
+      399,
+      15
+    ],
+    "text": "{, functions and duties subject to such conditions as may be",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72,
+      136,
+      162,
+      14
+    ],
+    "text": "deposed by the Council",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      87,
+      164,
+      448,
+      13
+    ],
+    "text": "18, Members of the Council may be paid such remunera Remunera-",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72,
+      178,
+      444,
+      20
+    ],
+    "text": "tion for attendance at meetings of the Council as may be ton for",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      73,
+      192,
+      464,
+      19
+    ],
+    "text": "determined by the Minixter with the concurrence of the it sicetinge",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72,
+      211,
+      433,
+      16
+    ],
+    "text": "Minister in charge of the subject of Finance. of the",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      472,
+      222,
+      44,
+      10
+    ],
+    "text": "Sonne,",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      87,
+      246,
+      460,
+      14
+    ],
+    "text": "14 The Council shell appoint a Registrar who shall also Rezistrar and",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      73,
+      257,
+      474,
+      19
+    ],
+    "text": "act as secretary and treasurer of the Council, ofmer officers",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      87,
+      295,
+      461,
+      17
+    ],
+    "text": "15. (1) Any person aggrieved by an order or decision of Appeal to the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      73,
+      310,
+      446,
+      17
+    ],
+    "text": "the Counoll or an order or decision of a committee towhich Minister.",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      74,
+      336,
+      381,
+      14
+    ],
+    "text": "any power, duty or function of the Council has been dele-",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      75,
+      356,
+      464,
+      14
+    ],
+    "text": "gated under section 12 may appeal against such otder or .",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      73,
+      376,
+      358,
+      12
+    ],
+    "text": "decision to the Minister and his decision shall be final",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      91,
+      404,
+      366,
+      15
+    ],
+    "text": "(@) The Council and the Registrar shall give all such",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      73,
+      425,
+      385,
+      15
+    ],
+    "text": "information as may be required by the Minister for the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      73,
+      446,
+      207,
+      14
+    ],
+    "text": "Purpose of deciding and appeal.",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      89,
+      482,
+      444,
+      15
+    ],
+    "text": "16, (1) The Registrar shall, in accordance with the pro- Register to",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      75,
+      494,
+      459,
+      23
+    ],
+    "text": "visions of this Act ond regulations made thereunder, keep PoAseur",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      75,
+      523,
+      384,
+      16
+    ],
+    "text": "4 register of persons qualified to practise as nurses in Sri",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      75,
+      543,
+      382,
+      15
+    ],
+    "text": "Lanka, and whom the Council has decided to register under",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      75,
+      565,
+      57,
+      11
+    ],
+    "text": "this Act.",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      92,
+      596,
+      366,
+      16
+    ],
+    "text": "@) No person under the age of twenty-one years shall",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      75,
+      617,
+      254,
+      15
+    ],
+    "text": "be registered, ag a nurse,",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      92,
+      644,
+      364,
+      17
+    ],
+    "text": "(8) No alien shell be registered except with the approval",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      76,
+      664,
+      381,
+      17
+    ],
+    "text": "ot the President of the Republic on the recornmendation of",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      76,
+      688,
+      84,
+      13
+    ],
+    "text": "the Minister.",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      93,
+      713,
+      363,
+      18
+    ],
+    "text": "(&) The Registrar shell enter in the register the name of",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      77,
+      733,
+      379,
+      18
+    ],
+    "text": "every person who proved his claln to be registered, and",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      77,
+      753,
+      378,
+      18
+    ],
+    "text": "shall report the name of every such person to the Counell",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      77,
+      777,
+      337,
+      15
+    ],
+    "text": "at its next meeting. .",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      63,
+      802,
+      391,
+      18
+    ],
+    "text": "+. () No person shell be registered under this Act except",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      77,
+      827,
+      216,
+      12
+    ],
+    "text": "on payment of the prescribed fee.",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      166,
+      25,
+      335,
+      14
+    ],
+    "text": "8 Sri Lonke Nuraes Council Act, No. 19 of 1988",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72,
+      57,
+      474,
+      14
+    ],
+    "text": "Nursea regis. + 17, Nurses registered under the Medical Ordinance on",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      71,
+      71,
+      475,
+      22
+    ],
+    "text": "fgredander the day immediately preceding the appointed date shall he",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      71,
+      96,
+      476,
+      23
+    ],
+    "text": "Qratnapce deemed to be registered under this Act with effect trom",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      71,
+      115,
+      475,
+      16
+    ],
+    "text": "to be regis- | that date and the Registrar shall transfer the names of all",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      70,
+      132,
+      416,
+      20
+    ],
+    "text": "feredander such persons to the register kept under this Act,",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      69,
+      161,
+      476,
+      20
+    ],
+    "text": "Change of 18. _Any person registered under this Act who obtains any",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      69,
+      174,
+      475,
+      17
+    ],
+    "text": "degree or qualification other than the degree or qualifica-",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      74,
+      193,
+      471,
+      16
+    ],
+    "text": ". . tion on the faith of which he is registered may apply to.",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      140,
+      210,
+      405,
+      14
+    ],
+    "text": "_ have such other degree or qualification inserted in the regis",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      164,
+      226,
+      380,
+      14
+    ],
+    "text": "ter, in addition to the degree or qualification slveady entered",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      163,
+      242,
+      98,
+      13
+    ],
+    "text": "in the register,",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      67,
+      264,
+      481,
+      21
+    ],
+    "text": "Registrar to 18, (1) The Registrar shall keep the register correct and",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      67,
+      280,
+      479,
+      23
+    ],
+    "text": "EEE,EEE upto date and shell cancel in the register the name of any",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      163,
+      304,
+      136,
+      13
+    ],
+    "text": "person who has died.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      179,
+      324,
+      367,
+      14
+    ],
+    "text": "(2) The Registrar shall, by and in accordance with the",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      163,
+      340,
+      382,
+      14
+    ],
+    "text": "orders of the Counell, erase any entry from, or correct any",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      163,
+      356,
+      383,
+      14
+    ],
+    "text": "entry in, a register when such entry is proved to the natis~",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      162,
+      373,
+      383,
+      14
+    ],
+    "text": "faction of the Council to have been fraudulently or ineo-",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      162,
+      389,
+      384,
+      14
+    ],
+    "text": "rectly made, and shall enter in the register the reason for",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      162,
+      405,
+      205,
+      13
+    ],
+    "text": "any such erasure or correction.",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      61,
+      417,
+      486,
+      31
+    ],
+    "text": "Tramare of 20, (1) The Council shall have the power to order the-",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      65,
+      439,
+      479,
+      21
+    ],
+    "text": "pomes from Registrar to erase the name of any person from the regis-",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      132,
+      457,
+      156,
+      15
+    ],
+    "text": "7 ter if that person",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      130,
+      479,
+      415,
+      17
+    ],
+    "text": ", . (@) 4s deprived af any diploma, degree or certificate on",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      213,
+      496,
+      334,
+      14
+    ],
+    "text": "the faith of which he or she was registered as a",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      90,
+      512,
+      163,
+      13
+    ],
+    "text": ". . nurse 3",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      177,
+      532,
+      367,
+      15
+    ],
+    "text": "() fs convicted of an offence which is punishable with",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      196,
+      549,
+      349,
+      15
+    ],
+    "text": "+ imprisonment and which shows the person to be",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      214,
+      565,
+      186,
+      14
+    ],
+    "text": "unfit to practise as a nurse;",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      178,
+      586,
+      368,
+      14
+    ],
+    "text": "() is of a character, or has been guilty af conduet, un-",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      215,
+      602,
+      228,
+      15
+    ],
+    "text": "befitting the profession of a nurse ;",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      177,
+      623,
+      370,
+      15
+    ],
+    "text": "{d) by resson of negligence or incapacity as a nurse,",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      215,
+      640,
+      330,
+      14
+    ],
+    "text": "cannot be safely allowed to continue to practise",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      215,
+      656,
+      293,
+      14
+    ],
+    "text": "aspuch, *",
+    "mean_p_confidence": -0.0
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      178,
+      677,
+      368,
+      14
+    ],
+    "text": "(2) Before the Council makes an order to erase the name",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      161,
+      694,
+      385,
+      14
+    ],
+    "text": "of any person from the register under subsection (2) of",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      161,
+      711,
+      385,
+      12
+    ],
+    "text": "section 19 or under this section a written notice shall be",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      161,
+      727,
+      384,
+      15
+    ],
+    "text": "served on such person requiring him to show cause within",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      161,
+      744,
+      384,
+      14
+    ],
+    "text": "a specified period, which ehall in no case be less than four-",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      160,
+      761,
+      385,
+      14
+    ],
+    "text": "teen days from the date on which the notice is served on",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      160,
+      777,
+      384,
+      15
+    ],
+    "text": "him, why such an order should not be made, and the Council",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      161,
+      794,
+      384,
+      15
+    ],
+    "text": "shall consider the objections, tt any, of such person betore",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      161,
+      811,
+      383,
+      14
+    ],
+    "text": "making ite arder and shall convey its order to the person",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      157,
+      818,
+      300,
+      31
+    ],
+    "text": "concerned in writing. aon",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      101,
+      19,
+      343,
+      15
+    ],
+    "text": "Sri Lanka-Nurses Councit Act, No. 19 of 1988 9",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      75,
+      51,
+      431,
+      25
+    ],
+    "text": "71. GQ) Tn.all proceedings, whether civil or eriminal Prontog",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      461,
+      68,
+      19,
+      7
+    ],
+    "text": "om",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      77,
+      76,
+      416,
+      16
+    ],
+    "text": "(a) any extract from or copy of a register certified by the of the",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      113,
+      89,
+      393,
+      19
+    ],
+    "text": "Registrar to be true shall be admitted in evidence winter.",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      115,
+      110,
+      330,
+      14
+    ],
+    "text": "without proof, and shall be sufficient prima facie",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      115,
+      127,
+      377,
+      14
+    ],
+    "text": "evidence of the Contents of the register ; -",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      77,
+      151,
+      368,
+      14
+    ],
+    "text": "() a certificate by the Registrar that the name of any",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      115,
+      168,
+      330,
+      13
+    ],
+    "text": "person is or is not registered in the register or was",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      115,
+      185,
+      331,
+      13
+    ],
+    "text": "or was not so registered at the date or during a",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90,
+      201,
+      355,
+      13
+    ],
+    "text": "\"period certified in the certificate shall be admissible",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      114,
+      218,
+      330,
+      13
+    ],
+    "text": "in evidence, and shall be sufficient prima facie",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      115,
+      234,
+      232,
+      11
+    ],
+    "text": "evidence of the facts stated therein.",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      77,
+      262,
+      366,
+      14
+    ],
+    "text": "(2) For the purpose of this section, no proof need he",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      61,
+      279,
+      383,
+      13
+    ],
+    "text": "given, unless the Court otherwise requires, af the signature",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      61,
+      295,
+      383,
+      14
+    ],
+    "text": "of the Registrar ta any such copy, extract, or certificate, or",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      61,
+      311,
+      233,
+      15
+    ],
+    "text": "of his appointtnent as Registrar. -",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      141,
+      335,
+      145,
+      17
+    ],
+    "text": ": PART If",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      184,
+      362,
+      145,
+      11
+    ],
+    "text": "France anp Accous",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      74,
+      382,
+      465,
+      29
+    ],
+    "text": "22. (1) The Council shall establish and matntain a Fund fo a",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      62,
+      402,
+      247,
+      13
+    ],
+    "text": "called theSri Lanka Nurses Fund ,",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      78,
+      425,
+      369,
+      17
+    ],
+    "text": "(2) There shall be paid into the Fund ~ .",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      79,
+      452,
+      367,
+      14
+    ],
+    "text": "(a) any money received as registration fees under this",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      116,
+      470,
+      31,
+      13
+    ],
+    "text": "Act;",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      79,
+      494,
+      367,
+      14
+    ],
+    "text": "() any donations of money and the proceeds of ale of",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      117,
+      511,
+      266,
+      13
+    ],
+    "text": "any gifts made to the Council; and",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      80,
+      535,
+      363,
+      14
+    ],
+    "text": "(e) ariy income from investments or other receipts, | ~*",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      80,
+      564,
+      367,
+      15
+    ],
+    "text": "(8) There shall b paid out of the-Fund all sums of money",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      64,
+      581,
+      382,
+      14
+    ],
+    "text": "required to defray any expenditure incurted in the Couneil",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      64,
+      597,
+      382,
+      15
+    ],
+    "text": "in the exercise, performance and discharge of its powers,",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      64,
+      613,
+      209,
+      22
+    ],
+    "text": "duties and functions. . 4",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      81,
+      644,
+      367,
+      14
+    ],
+    "text": "(4) The Council shall be responsible for the administra-",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      65,
+      660,
+      349,
+      19
+    ],
+    "text": "tion of the Fund. a os .",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      79,
+      685,
+      433,
+      27
+    ],
+    "text": "23. (1) The Counell shall esuse proper books of accounts Apgounts",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      66,
+      710,
+      440,
+      14
+    ],
+    "text": "to be Kept of the income and expenditure, assets and lia Council,",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      66,
+      726,
+      296,
+      14
+    ],
+    "text": "bilities and all the transactions of the Council,",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      83,
+      755,
+      363,
+      13
+    ],
+    "text": "(2) The Counelf shall cause its accounts to be audited by",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      67,
+      774,
+      326,
+      12
+    ],
+    "text": "a epproved auditor. .",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      82,
+      803,
+      364,
+      17
+    ],
+    "text": "(3) The financial year of the Council shall be the year",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      67,
+      822,
+      418,
+      15
+    ],
+    "text": "commencing on the first day of January. - .",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      179,
+      28,
+      339,
+      13
+    ],
+    "text": "10 (Sri Lanka Nurses Council Act, No, 19 of 1988",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      83,
+      60,
+      475,
+      13
+    ],
+    "text": "Anomi ;. 24. (1) After the end of each financial year and before",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      82,
+      72,
+      476,
+      18
+    ],
+    "text": "report \"the thirty-first of March in each succeeding year, the Coun-",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      178,
+      92,
+      380,
+      14
+    ],
+    "text": "ofl shall prepare a zeport giving a true and accurate account",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      177,
+      108,
+      381,
+      15
+    ],
+    "text": "of ite activities, and of its income and expenditure during",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      177,
+      124,
+      123,
+      14
+    ],
+    "text": "that financial year.",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      76,
+      153,
+      290,
+      30
+    ],
+    "text": "Penaltiag, 28. (1) Any person who",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      192,
+      186,
+      364,
+      14
+    ],
+    "text": "(a) not being a person duly registered under this Act,",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      228,
+      203,
+      329,
+      13
+    ],
+    "text": "uses the title Registered Nurse or its equivalant",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      228,
+      219,
+      329,
+      14
+    ],
+    "text": "in any other language, either clone, or in combi-",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      226,
+      236,
+      331,
+      14
+    ],
+    "text": "nation with any other word or letter or uses any",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      227,
+      252,
+      331,
+      15
+    ],
+    "text": "name, title, addition, description, uniform or badge",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      206,
+      269,
+      351,
+      14
+    ],
+    "text": "- implying that he or she is registered under this Act",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      226,
+      285,
+      332,
+      14
+    ],
+    "text": "or is recognized by law as a tegistered nurse or",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      178,
+      302,
+      380,
+      13
+    ],
+    "text": ". Uses any title, uniform or badge prescribed for use.",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      226,
+      315,
+      253,
+      16
+    ],
+    "text": "of nurses registered under this Act ; #",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      188,
+      344,
+      368,
+      16
+    ],
+    "text": "(0) with intent to decelve, make use of any certificate of",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      225,
+      362,
+      331,
+      15
+    ],
+    "text": "registration as a nurse issued under this Act to him",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      225,
+      379,
+      232,
+      14
+    ],
+    "text": "or her or to any other person,",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      142,
+      403,
+      413,
+      15
+    ],
+    "text": "+ hal] be guilty of an offence and shall be Hable on convic-",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      172,
+      420,
+      383,
+      14
+    ],
+    "text": "tion after summary trial before a Magistrate to a fine, not",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      172,
+      437,
+      384,
+      14
+    ],
+    "text": "exceeding, in the'case of a fitst offence, one thoussnd",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      172,
+      453,
+      383,
+      15
+    ],
+    "text": "rupess, and in the case of a. second or any subsequent",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      172,
+      471,
+      192,
+      13
+    ],
+    "text": "offence, five thousand rupees.",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      188,
+      499,
+      367,
+      14
+    ],
+    "text": "(2) Any person. who wilfully mskes or causes to be made",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      171,
+      516,
+      384,
+      14
+    ],
+    "text": "any felsification in any matter relating to the register shall",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      171,
+      533,
+      384,
+      14
+    ],
+    "text": "be guilty of an offence and shall be Hable on conviction after",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      172,
+      550,
+      383,
+      14
+    ],
+    "text": "summary trial before a Magistrate'to a fine not exceeding",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      171,
+      566,
+      384,
+      15
+    ],
+    "text": "five thousand rupees or to imprisonment for a term not",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      171,
+      584,
+      383,
+      14
+    ],
+    "text": "exceeding six months or to both such fine and imprisonment.",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      186,
+      613,
+      368,
+      14
+    ],
+    "text": "(8) Any person who employs another person as mune",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      170,
+      630,
+      383,
+      13
+    ],
+    "text": "to work in a medica? institution shall, if that other person",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      170,
+      646,
+      383,
+      14
+    ],
+    "text": "in not registered, under the Act, be guilty of an offence and",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      170,
+      663,
+      383,
+      14
+    ],
+    "text": "shall be Hable on conviction after a summary trial before a",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      169,
+      680,
+      384,
+      14
+    ],
+    "text": "Magistrate to a fine not exceeding five thousand rupees or",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      102,
+      697,
+      450,
+      14
+    ],
+    "text": ". to imprisonment for a term not exceeding six months or to",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      169,
+      713,
+      358,
+      14
+    ],
+    "text": "both such fine and imprisonment. :",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      185,
+      743,
+      367,
+      14
+    ],
+    "text": "@) Any person who, not being a registered nume,",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      168,
+      759,
+      384,
+      16
+    ],
+    "text": "practises nursing for gain shall be guilty of an offence and",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      168,
+      776,
+      383,
+      15
+    ],
+    "text": "shell be liable on conviction after a summary trial before #",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      168,
+      793,
+      383,
+      15
+    ],
+    "text": "Magistrate to a fine not exceeding five thousand rupees or",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      102,
+      810,
+      449,
+      17
+    ],
+    "text": ". to imprisonment for a term not exceeding six months or to",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      167,
+      827,
+      221,
+      13
+    ],
+    "text": "both such fine and- imprisonment,",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      101,
+      32,
+      344,
+      15
+    ],
+    "text": "Srt Lanka Nurses Council Act, No, 19 of 1988 11",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      62,
+      59,
+      383,
+      22
+    ],
+    "text": "\" (@) Nothing in subsections (8) or (4) shall apply for",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      59,
+      82,
+      341,
+      15
+    ],
+    "text": "a period of five years from the appointed date, to",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      60,
+      106,
+      385,
+      14
+    ],
+    "text": "*: (@) Any person who employs a person who is not a",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      113,
+      122,
+      332,
+      14
+    ],
+    "text": "registered nurse, az a nurse to work in a nursing",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      113,
+      138,
+      332,
+      15
+    ],
+    "text": "home registered under the Nursing Homes (Regu-",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      113,
+      155,
+      293,
+      17
+    ],
+    "text": "lation) Act; or bk",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      75,
+      179,
+      369,
+      14
+    ],
+    "text": "() Any: person, who not being a registered nurse,",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      113,
+      195,
+      331,
+      15
+    ],
+    "text": "practises nursing for gain in a wursing home",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      113,
+      211,
+      329,
+      15
+    ],
+    "text": "registered under the Nursing Homes (Regulation)",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      110,
+      217,
+      426,
+      31
+    ],
+    "text": "Act, .",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      73,
+      262,
+      453,
+      17
+    ],
+    "text": "%. (1) The Minister may make regulations in respect of Rewuiations",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      60,
+      284,
+      384,
+      16
+    ],
+    "text": "matters required by this Act to be prescribed or in respect",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      60,
+      304,
+      384,
+      16
+    ],
+    "text": "of which regulations are authorized to be made and in par-",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      61,
+      324,
+      383,
+      16
+    ],
+    "text": "Heular in respect of all or any of the following matters:",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      77,
+      349,
+      367,
+      16
+    ],
+    "text": "(@) the form and method of keeping the register of",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      115,
+      367,
+      329,
+      14
+    ],
+    "text": "persons qualified to practise as nurses in Sri",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      113,
+      383,
+      49,
+      13
+    ],
+    "text": "Lanka ;",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      77,
+      407,
+      368,
+      16
+    ],
+    "text": "() the form of the application to register ag a nurse;",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      77,
+      432,
+      368,
+      16
+    ],
+    "text": "(@) the unttorm, badge and other distinguishing devices",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      115,
+      453,
+      330,
+      16
+    ],
+    "text": "which may be worn by persons registered under",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      102,
+      474,
+      138,
+      15
+    ],
+    "text": "this Acts",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      78,
+      498,
+      366,
+      16
+    ],
+    "text": "(a) the fees payable in respect of registration and atter-",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      115,
+      520,
+      143,
+      14
+    ],
+    "text": "ration of the register ;",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      78,
+      541,
+      237,
+      18
+    ],
+    "text": "(e) the disciplinary procedure",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      76,
+      573,
+      369,
+      15
+    ],
+    "text": "(2). Every regulation made by the Minister shall be pub-",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      61,
+      593,
+      383,
+      16
+    ],
+    "text": "Uished in the Gazette and shall come into operation on the",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      60,
+      613,
+      384,
+      16
+    ],
+    "text": "date of such publication or on such later date as may be",
+    "mean_p_confidence": 0.88
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      62,
+      635,
+      247,
+      18
+    ],
+    "text": "specified therein. = gag weae?",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      65,
+      659,
+      379,
+      21
+    ],
+    "text": "* (8) Every regulation made by the Minister shall, as soon",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      63,
+      684,
+      380,
+      15
+    ],
+    "text": "as convenfent after its publication in the Gazette, be brought",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      62,
+      703,
+      382,
+      18
+    ],
+    "text": "before Parliament for approval. Every regulation which is,",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      58,
+      717,
+      444,
+      31
+    ],
+    "text": "Bot so approved shall be deemed to be rescinded as from .",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      63,
+      744,
+      380,
+      17
+    ],
+    "text": "the date of disapproval but without prejudice to the vali-",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      62,
+      764,
+      293,
+      18
+    ],
+    "text": "dity of anything previously done thereunder.",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      68,
+      792,
+      373,
+      17
+    ],
+    "text": "! @ Notification of the ate on which every regulation",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      63,
+      813,
+      378,
+      17
+    ],
+    "text": "shall be deemed to we revtinded shall be published in the",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      59,
+      825,
+      484,
+      31
+    ],
+    "text": "Gazette, -",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      185,
+      40,
+      339,
+      14
+    ],
+    "text": "12 Sti Lanka Nuvses Councit Act, No. 19 of 1988",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      90,
+      64,
+      473,
+      31
+    ],
+    "text": "Repesk 27.-() Part IX of the Medica Ordinance, (Chapter 105)",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      184,
+      90,
+      299,
+      14
+    ],
+    "text": "is hereby repealed. \"=p: as: : :",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      199,
+      114,
+      365,
+      18
+    ],
+    "text": "(2) Notwithstanding the repeal of the aforesaid Part alt",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      183,
+      134,
+      381,
+      16
+    ],
+    "text": "the fegulations made by the Minister under that Part and",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      183,
+      150,
+      381,
+      14
+    ],
+    "text": "in foree on the appointed dete shall he deeined to be regu-",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      183,
+      167,
+      380,
+      13
+    ],
+    "text": "lations made under this Act and may accordingly be",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      183,
+      183,
+      383,
+      14
+    ],
+    "text": "amended, added to, or rescinded by regulations made under",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      183,
+      200,
+      305,
+      14
+    ],
+    "text": "this Act, ard. cas oe oot Oe",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      86,
+      223,
+      479,
+      23
+    ],
+    "text": "comentc 2% The Counoll sholl be deemed to be #. Scheduled",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      86,
+      247,
+      478,
+      24
+    ],
+    "text": "Bitedated _ institution within the meaning of the Bribery Act and the",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      85,
+      267,
+      441,
+      22
+    ],
+    "text": "institution ! ovisions of that Act shall be construed accordingly.",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      81,
+      286,
+      471,
+      22
+    ],
+    "text": "Bribery Act. . fen + :",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      85,
+      311,
+      479,
+      16
+    ],
+    "text": "Inferptey .- 29. In this Act unless the context otherwise requires",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      81,
+      319,
+      459,
+      29
+    ],
+    "text": "ation, approved auditor means ao",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      236,
+      352,
+      327,
+      13
+    ],
+    "text": "vo.+(@) an individual who, being a member of the",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      177,
+      369,
+      387,
+      16
+    ],
+    "text": "lee Institute of Chartered Accountants of Stl",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      271,
+      385,
+      292,
+      14
+    ],
+    "text": "Lanka, or of eny other Institute established",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      272,
+      402,
+      291,
+      14
+    ],
+    "text": "by law, possesses a certificate to practize as",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      271,
+      419,
+      292,
+      13
+    ],
+    "text": "an, agcountant issued by the Counefl of such",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      189,
+      435,
+      261,
+      16
+    ],
+    "text": ". 2 Insitute; or +",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      191,
+      460,
+      371,
+      13
+    ],
+    "text": "1 @) a fiem of actountants exch of the resident part-",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      271,
+      477,
+      291,
+      13
+    ],
+    "text": "ners of which, being 2 member of the Insti-",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      270,
+      494,
+      293,
+      10
+    ],
+    "text": "tute of Chartered Accountants of Sri Lanka",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      236,
+      510,
+      326,
+      14
+    ],
+    "text": "+ or of any other Institute established by law,",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      271,
+      527,
+      301,
+      14
+    ],
+    "text": "postesses a certificate to practise as an.",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      270,
+      544,
+      293,
+      14
+    ],
+    "text": "accountant issued. by the Couneil of such",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      178,
+      560,
+      154,
+      14
+    ],
+    "text": ". Institute ;",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      192,
+      584,
+      370,
+      15
+    ],
+    "text": "Ceylon Medical Councll means the Ceylon Mdteal",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      231,
+      601,
+      331,
+      12
+    ],
+    "text": "Council constituted under the Medical Ordinanee",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      145,
+      618,
+      392,
+      16
+    ],
+    "text": ". (Chapter 106) ; : :",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      191,
+      647,
+      371,
+      15
+    ],
+    "text": "ex officio member means any person who is a member",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      228,
+      664,
+      333,
+      15
+    ],
+    "text": "of the Council under the provisions of paragraphs",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      198,
+      680,
+      350,
+      15
+    ],
+    "text": ". (xii), (ail), Giv), (xv) and (xvi) of section 3;",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      191,
+      709,
+      371,
+      15
+    ],
+    "text": "* prescribed means preseribed by regulation made under",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      187,
+      725,
+      287,
+      16
+    ],
+    "text": "this Act,",
+    "mean_p_confidence": 0.28
+  }
+]

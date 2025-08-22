@@ -1,0 +1,926 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      91,
+      209,
+      401,
+      20
+    ],
+    "text": "* PARLIAMENT OF THE DEMOCRATIC",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      174,
+      235,
+      263,
+      19
+    ],
+    "text": "SOCIALIST REPUBLIC OF",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      156,
+      262,
+      308,
+      18
+    ],
+    "text": ": SRE LANKA .",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      237,
+      358,
+      207,
+      32
+    ],
+    "text": "CITIZENSHIP",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      224,
+      398,
+      161,
+      22
+    ],
+    "text": "(AMENDMENT) .",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      190,
+      429,
+      328,
+      26
+    ],
+    "text": "ACT, No. .45 OF 1987 .",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      170,
+      521,
+      242,
+      27
+    ],
+    "text": ", [Certified on 25th November, 1987]",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      181,
+      590,
+      291,
+      17
+    ],
+    "text": "Printed on the Orders of Government",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72,
+      673,
+      461,
+      26
+    ],
+    "text": "Published a5 a Supplement to Part Il of the Gazette of the Democratic",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      101,
+      701,
+      400,
+      17
+    ],
+    "text": "Socialist Republic of Sri Lanka of November 27, 1987",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115,
+      744,
+      366,
+      28
+    ],
+    "text": ": PRIWEED AT FA ORPARTMOENT OF COVERWAMCENT PROSTING, MAI Lawich",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      75,
+      778,
+      415,
+      23
+    ],
+    "text": "|, *0 Ri oGham AP oy GOVERN FORLICATIOPS BUREAU, COLOR",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76,
+      803,
+      455,
+      21
+    ],
+    "text": "Price : 45 cents : Postage : 75 cents",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      107,
+      17,
+      370,
+      21
+    ],
+    "text": "Citizenship (Amendment) Act, No. 45 of 1987 .",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140,
+      47,
+      224,
+      14
+    ],
+    "text": "[Certified on 25th November, 1987]",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      67,
+      250,
+      18
+    ],
+    "text": "4, DO, 98/87, . :",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      123,
+      94,
+      344,
+      17
+    ],
+    "text": "Ax Acr 70 anenp THe Crramente Act -",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      126,
+      411,
+      14
+    ],
+    "text": "BE {t enacted by tho Parliament of the Democratic",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      142,
+      286,
+      14
+    ],
+    "text": "Socialist Republic of Sri Lanka as fellows :",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      175,
+      437,
+      16
+    ],
+    "text": "1 This Act may be cited as the Citizenship (Amend~ Shorttitie",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64,
+      194,
+      372,
+      15
+    ],
+    "text": "ment) Act, No. 45 of 1987. .",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      228,
+      445,
+      19
+    ],
+    "text": "2 Section 19 of the Citizenship Act is bereby amended Amendment",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      240,
+      462,
+      19
+    ],
+    "text": "as follows: Toot chapter",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      455,
+      259,
+      20,
+      9
+    ],
+    "text": "a",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      269,
+      360,
+      14
+    ],
+    "text": "() by the renumbering of that section as subsection (1)",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119,
+      286,
+      98,
+      12
+    ],
+    "text": "of that section ;",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      313,
+      361,
+      15
+    ],
+    "text": "(2) by the addition immed{ately after the renumbered",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      117,
+      330,
+      326,
+      14
+    ],
+    "text": "subsection (1), of the following new subsections :",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      131,
+      357,
+      312,
+      16
+    ],
+    "text": "\\ (2) Any person who ceases, under subsection",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      120,
+      372,
+      355,
+      16
+    ],
+    "text": "(1) of this section or section 20 or section 21, to be .",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118,
+      389,
+      359,
+      15
+    ],
+    "text": "a citizen of Sri Lanka may at any time thereafter .",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      117,
+      406,
+      326,
+      15
+    ],
+    "text": "make application to the Minister for a declaration",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118,
+      422,
+      326,
+      15
+    ],
+    "text": "that such person has resumed the status of a",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118,
+      438,
+      326,
+      14
+    ],
+    "text": "citizen of St Lanka, notwithstanding the fact that",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118,
+      454,
+      326,
+      14
+    ],
+    "text": "he is, and continues to be; @ citizen of any other",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119,
+      470,
+      325,
+      15
+    ],
+    "text": "country ; and the Minister may make the declara-",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118,
+      486,
+      325,
+      15
+    ],
+    "text": "tion for which the epplication is made if he is",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119,
+      502,
+      324,
+      15
+    ],
+    "text": "satisfled that the making of such declaration would,",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118,
+      518,
+      379,
+      15
+    ],
+    "text": "in all the clreumstances of the cage, b of benefit .",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      536,
+      247,
+      16
+    ],
+    "text": "_ to Sti Lanka. .",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      563,
+      369,
+      18
+    ],
+    "text": ". (2) Any citizen of Sri Lanka may, at any time",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119,
+      582,
+      324,
+      17
+    ],
+    "text": "ptior to his ceasing, under subsection (1) of this",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119,
+      603,
+      324,
+      13
+    ],
+    "text": "section or section 20 or section 21, to be a citizen",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118,
+      623,
+      376,
+      17
+    ],
+    "text": "af Sri Lanke, make spplication to the Minister for .",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119,
+      643,
+      323,
+      15
+    ],
+    "text": "a declaration that such person retains the status",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      56,
+      663,
+      414,
+      14
+    ],
+    "text": ". of a citizen of Sri Lanka from and after a date to",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118,
+      682,
+      408,
+      16
+    ],
+    "text": "be specified im euch declaration, notwithstanding .",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118,
+      702,
+      325,
+      16
+    ],
+    "text": "the fact that he is, and continues to be, from and",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119,
+      723,
+      404,
+      14
+    ],
+    "text": "after that dete a citizen of any other country; and :",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118,
+      743,
+      322,
+      15
+    ],
+    "text": "the Minister may rialte the declaration for whick",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118,
+      763,
+      324,
+      15
+    ],
+    "text": "application 4s made, it he ia satisfied that the",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      117,
+      783,
+      325,
+      15
+    ],
+    "text": "making of such dectaration, would, in all the",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118,
+      803,
+      323,
+      15
+    ],
+    "text": "clreumstances of the case, be of benefit. to Sri",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      107,
+      825,
+      53,
+      11
+    ],
+    "text": "+ Lanka,",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      850,
+      131,
+      11
+    ],
+    "text": "2 onots2a.300 cots",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      168,
+      28,
+      331,
+      16
+    ],
+    "text": "2 | Gitizenshtp (Amendment) Act, No, 45 of 1987",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      234,
+      60,
+      308,
+      15
+    ],
+    "text": "(4) Where a declaration in made in relation to",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      218,
+      76,
+      325,
+      15
+    ],
+    "text": "any person under subsection (2) or subsection (38),",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      218,
+      92,
+      325,
+      15
+    ],
+    "text": "that person shall, with effect from such date os",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      218,
+      108,
+      325,
+      15
+    ],
+    "text": "may be specified in the declaration again have or",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      218,
+      124,
+      324,
+      14
+    ],
+    "text": "continue to have, as the case may be, the status ot",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      218,
+      140,
+      324,
+      14
+    ],
+    "text": "a citizen of Sti Lanka, notwithstanding the fact",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      218,
+      157,
+      300,
+      13
+    ],
+    "text": "that he is a citizen also of any other country.",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      234,
+      184,
+      309,
+      15
+    ],
+    "text": "(8) So long as a declaration under subsection",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      221,
+      200,
+      322,
+      14
+    ],
+    "text": "(2) or subsection (8), 1s in force in relation to any.",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      193,
+      216,
+      350,
+      16
+    ],
+    "text": "_ Person, the provisions of this Act shall not be read",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      219,
+      233,
+      324,
+      13
+    ],
+    "text": "and donstrved as requiring that person to renounce",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      218,
+      248,
+      325,
+      15
+    ],
+    "text": "the citizenship of any other country of whicb be",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      219,
+      265,
+      121,
+      13
+    ],
+    "text": "fs a citizen, :",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      234,
+      291,
+      308,
+      15
+    ],
+    "text": "(6) The provisions of section 23 and section 24",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      178,
+      307,
+      365,
+      15
+    ],
+    "text": "2+ ahall not apply to any person in relation to whom",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      218,
+      324,
+      324,
+      13
+    ],
+    "text": "a declaration under subsection (2) or subsection",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      221,
+      341,
+      144,
+      12
+    ],
+    "text": "(2) bas been made.",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      234,
+      368,
+      308,
+      14
+    ],
+    "text": "() The Minister may, at any time, revoke 6",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      219,
+      383,
+      323,
+      14
+    ],
+    "text": "declaration made under subsection (2) or sub-",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      219,
+      400,
+      324,
+      13
+    ],
+    "text": "aection (3) if he is satisfied thet the person in",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      219,
+      415,
+      324,
+      13
+    ],
+    "text": "relation to whom such declaration was made has",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      219,
+      432,
+      324,
+      12
+    ],
+    "text": "so conducted himself that his continuance as @",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      219,
+      447,
+      323,
+      13
+    ],
+    "text": "citizen of Sri Lanka will not be of benefit to St!",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      157,
+      464,
+      120,
+      13
+    ],
+    "text": ": Lanka,\" ;",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      183,
+      492,
+      359,
+      14
+    ],
+    "text": "18)\"by the substitution for the marginal note to that",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      220,
+      509,
+      293,
+      13
+    ],
+    "text": "section of the following new marginal note :",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      239,
+      532,
+      235,
+      12
+    ],
+    "text": "Renunciation of citizenship and specisl",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      212,
+      548,
+      328,
+      14
+    ],
+    "text": "Provistons relating to duat citizenship. \". .",
+    "mean_p_confidence": 0.57
+  }
+]

@@ -1,0 +1,519 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      288,
+      46,
+      24,
+      11
+    ],
+    "text": "a",
+    "mean_p_confidence": 0.05
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      274,
+      53,
+      59,
+      27
+    ],
+    "text": "aoa",
+    "mean_p_confidence": 0.06
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      104,
+      203,
+      389,
+      18
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      165,
+      235,
+      271,
+      18
+    ],
+    "text": "SOCIALIST REPUBLIC OF",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      234,
+      268,
+      173,
+      20
+    ],
+    "text": "SRI LANKA .",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      130,
+      371,
+      339,
+      22
+    ],
+    "text": "LOCAL AUTHORITIES (SPECIAL",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      148,
+      403,
+      303,
+      24
+    ],
+    "text": "PROVISIONS) (AMENDMENT)",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      190,
+      437,
+      217,
+      21
+    ],
+    "text": "ACT, No. 17 OF 1987",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      188,
+      545,
+      222,
+      16
+    ],
+    "text": "[Certified on 16th April, 1987}",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      169,
+      603,
+      256,
+      16
+    ],
+    "text": "Printed on the Orders of Government",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      60,
+      704,
+      477,
+      18
+    ],
+    "text": "Published az a Supplement to Part IT ofthe Gazette of the Democratic",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      130,
+      724,
+      334,
+      18
+    ],
+    "text": "Socialist Republle of Sri Lanka of April 16, 1987",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      117,
+      787,
+      366,
+      9
+    ],
+    "text": "FED AT TRE DERARTDENMT OF GOVERAMINGT PAINTON\", MEE TANEA",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      106,
+      812,
+      390,
+      10
+    ],
+    "text": "10 BS FURGEARED A7 TE GOVERNMANT POSLICATIONE HOREAD, COLOMO",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      63,
+      825,
+      476,
+      18
+    ],
+    "text": "Price : 30 cents Postage : 75 ceuts",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88,
+      45,
+      348,
+      14
+    ],
+    "text": "Local Authorities (Spectal Provistons) (Amendment)",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      203,
+      62,
+      123,
+      13
+    ],
+    "text": "Act, No, 17 of 1987",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      169,
+      91,
+      191,
+      13
+    ],
+    "text": "[Certified on 18th April, 1987}",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      115,
+      125,
+      13
+    ],
+    "text": "1. D.O 14/26 (vil)",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      146,
+      381,
+      13
+    ],
+    "text": "Aw Act vo amp tut Loca Aumommm (Srzctat",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      167,
+      290,
+      17
+    ],
+    "text": ". Pxoviatons) Act, No, 3 or 1979",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      198,
+      380,
+      16
+    ],
+    "text": "BE tt enacted by the Parliament of the Democratic Soctaltst",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      220,
+      244,
+      14
+    ],
+    "text": "Republic of Sci Lanka as follows:",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      242,
+      445,
+      28
+    ],
+    "text": "1. Thin Act may be cited as the Local Authorities Sort title",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      267,
+      446,
+      16
+    ],
+    "text": "(Bpeciat Provisions) (Amendment) Act, No. 17 of 1987, operation",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      287,
+      381,
+      16
+    ],
+    "text": "and shall come into operation on such date as the Minister",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      308,
+      316,
+      15
+    ],
+    "text": "may appoint by Order published in the Gazette.",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      339,
+      467,
+      23
+    ],
+    "text": "* & Section 7 of the Local Authorities (Special Provisions) Amendment",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      353,
+      461,
+      22
+    ],
+    "text": "Act, No. 8 of 1679, as amended ty Act No, ll of 1888, tact Nas",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      374,
+      435,
+      22
+    ],
+    "text": "(hereinafter referred to as the principal enactment) is 1",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      402,
+      381,
+      14
+    ],
+    "text": "hereby further amended by the substitution for the words",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      422,
+      381,
+      15
+    ],
+    "text": "and figures the Town Couneils Ordinance, the Village",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      442,
+      381,
+      15
+    ],
+    "text": "Councils Ordinance and the Development Councils Act,",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      463,
+      381,
+      15
+    ],
+    "text": "No, 35 of 1880.\", ot the words and figures the Development",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      483,
+      380,
+      14
+    ],
+    "text": "Councils Act, No. 39 of 1980 and the Pradeshlya Sabha",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      504,
+      34,
+      12
+    ],
+    "text": "Act",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      535,
+      452,
+      19
+    ],
+    "text": "% Bection 9 of the principal enactment, as amended by Amendment",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      553,
+      427,
+      18
+    ],
+    "text": "Act No, 11 of 1985, is hereby further amended in the defl- of the",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      567,
+      454,
+      21
+    ],
+    "text": "nition of local atithorlty by the substitution for the SUmeval,",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      589,
+      381,
+      15
+    ],
+    "text": "words Urban Couneil or Development Council, of the",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      606,
+      380,
+      15
+    ],
+    "text": "words Urban Counel?, Development Couneil or Pradechiya",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      614,
+      386,
+      31
+    ],
+    "text": "Sabha. .",
+    "mean_p_confidence": -0.0
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      863,
+      83,
+      14
+    ],
+    "text": "ef toanenn 200",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      74,
+      799,
+      471,
+      11
+    ],
+    "text": "Anmal subscription of Bills and Laws of the Purllament Ra 150 (Local).",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      73,
+      813,
+      472,
+      13
+    ],
+    "text": "Rs, 200 (Forvien), payable to the Sormmrmmurr, Govenwmme Posicatrox",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      74,
+      826,
+      472,
+      14
+    ],
+    "text": "Bomay, Coiomro 1, before 15th December each year In respect of the 7ear",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      63,
+      833,
+      444,
+      28
+    ],
+    "text": ". following. .",
+    "mean_p_confidence": 0.35
+  }
+]

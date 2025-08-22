@@ -1,0 +1,772 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      128,
+      203,
+      385,
+      23
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      182,
+      233,
+      279,
+      22
+    ],
+    "text": "SOCIALIST REPUBLIC OF -",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      202,
+      260,
+      242,
+      21
+    ],
+    "text": ". SRI LANKA .",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      126,
+      351,
+      380,
+      21
+    ],
+    "text": "URBAN DEVELOPMENT AUTHORITY",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      243,
+      375,
+      240,
+      36
+    ],
+    "text": "(AMENDMENT) :",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      211,
+      415,
+      329,
+      24
+    ],
+    "text": "ACT, No, 49 OF 1987",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      214,
+      522,
+      262,
+      21
+    ],
+    "text": "[Certifted ot 24th December, 1987] .",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      188,
+      573,
+      353,
+      20
+    ],
+    "text": "Pritted on the Orders of Government :",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      96,
+      680,
+      427,
+      16
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      79,
+      695,
+      459,
+      17
+    ],
+    "text": "Democratic Socialist Republic of Sri Lanka of Dectmber 24, 1987",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      124,
+      747,
+      412,
+      24
+    ],
+    "text": "PRINTED AT THE DEPARTRCRNT OF GOVERNMENT PRINTING, 59K LANES :",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66,
+      774,
+      430,
+      28
+    ],
+    "text": "ZO BE FORGLAMED AF SEE QOVEINMEMT FUMISGARGMS BUREAU, COLORING",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76,
+      798,
+      457,
+      30
+    ],
+    "text": "Price : 45 cents Postage 275 cents",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      100,
+      34,
+      332,
+      15
+    ],
+    "text": ". Urbun Davelopment Authority (Amendment)",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      230,
+      50,
+      115,
+      14
+    ],
+    "text": "Act, No. 49 of 1987",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      100,
+      75,
+      298,
+      17
+    ],
+    "text": "+ coup +, [Certified on 24th December, 1987]",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      101,
+      305,
+      19
+    ],
+    "text": "+ Epos 2 RE ae",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98,
+      135,
+      378,
+      11
+    ],
+    "text": "(Ax Act To amenp ec Unsin Devecopment Auriorrry",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115,
+      153,
+      267,
+      19
+    ],
+    "text": "orgs Baw, No. 41 ov 197872 |",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98,
+      183,
+      376,
+      20
+    ],
+    "text": "UB it enacted by the Parliament of the Dempcratie Sosialist",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98,
+      207,
+      277,
+      14
+    ],
+    "text": "Republic of Sei Lanka as follown:-; 1",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      111,
+      230,
+      437,
+      21
+    ],
+    "text": "1. This Act may be cited as the Urban Development short title.",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96,
+      250,
+      288,
+      19
+    ],
+    "text": "Authority (Amendment) Act, No, 49 of 1987.",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      110,
+      279,
+      446,
+      20
+    ],
+    "text": "2. The following new section is hereby inserted imme- Insartion of",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96,
+      293,
+      456,
+      38
+    ],
+    "text": "diately after section 8x of the Urban Development Autho- ghee",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98,
+      318,
+      464,
+      22
+    ],
+    "text": "rity Lew, No.:-41 of 1978 (hereinafter referred to sa the iyt! oF",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96,
+      341,
+      445,
+      18
+    ],
+    "text": "prineipal enackment), as amended by Act No 4 of 1962,",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      95,
+      363,
+      376,
+      14
+    ],
+    "text": "and shall have effect aa section ax of the principal",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      382,
+      382,
+      22
+    ],
+    "text": "enactment : . .",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      413,
+      380,
+      29
+    ],
+    "text": "oFgisnion t. (1) Where any building is constructed",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      165,
+      432,
+      305,
+      15
+    ],
+    "text": ". + dn any development area under, and in ac-",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      189,
+      448,
+      280,
+      14
+    ],
+    "text": "cordance with, a permit issued under section",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      190,
+      464,
+      279,
+      14
+    ],
+    "text": "8x, then, notwithstanding anything in the",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      188,
+      481,
+      280,
+      14
+    ],
+    "text": "Municipal Councils Ordinance and the Urban",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      188,
+      498,
+      137,
+      11
+    ],
+    "text": "Councils Ordinance",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      203,
+      521,
+      265,
+      14
+    ],
+    "text": "{a) a remission of eighty per centum of",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      240,
+      535,
+      309,
+      19
+    ],
+    "text": "the rates aasessed on such building, .",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211,
+      560,
+      256,
+      16
+    ],
+    "text": ", = Under any such Ordinance shail be",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      239,
+      581,
+      228,
+      15
+    ],
+    "text": "allowed by the Municipal Couneil or",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      239,
+      601,
+      228,
+      14
+    ],
+    "text": "the Urban Council, as the case may",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      239,
+      621,
+      227,
+      15
+    ],
+    "text": "be, for a perlod of five years cal-",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      239,
+      641,
+      227,
+      13
+    ],
+    "text": "culated from the date of the certifi-",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      239,
+      660,
+      255,
+      14
+    ],
+    "text": "cate issued under section s in",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      238,
+      682,
+      215,
+      15
+    ],
+    "text": "respect of such construction; and",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      203,
+      706,
+      262,
+      16
+    ],
+    "text": "() 2 remission of fifty per centum of such",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      239,
+      727,
+      226,
+      14
+    ],
+    "text": "rates shall be allowed by the Muni-",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      746,
+      378,
+      16
+    ],
+    "text": ": ~~ eipat Counell or the Urban Council,",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      767,
+      378,
+      14
+    ],
+    "text": ": as the case may be, for a further",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      785,
+      377,
+      18
+    ],
+    "text": "x - period of five years calculated from",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      147,
+      808,
+      317,
+      15
+    ],
+    "text": ". the expiration of the period referred",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      125,
+      828,
+      342,
+      18
+    ],
+    "text": ". - to in paragraph (4). ,",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      855,
+      158,
+      16
+    ],
+    "text": "FS totems ory",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      142,
+      38,
+      378,
+      15
+    ],
+    "text": "2 Urban Development. Authority (Amendment) .",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      272,
+      54,
+      136,
+      13
+    ],
+    "text": "Act, No. 49 0f 1987 |",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      221,
+      82,
+      299,
+      17
+    ],
+    "text": "E#' 9) Whiere any building is redeveloped in",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      236,
+      101,
+      284,
+      15
+    ],
+    "text": "any development area under, and in accor-",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      236,
+      118,
+      284,
+      13
+    ],
+    "text": "dance with, a permit issued under section 83,",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      223,
+      134,
+      297,
+      16
+    ],
+    "text": "vo then, notwithstanding anything in. the Muni-",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      236,
+      149,
+      284,
+      15
+    ],
+    "text": "eipel Councils Ordinance and the Urban",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      237,
+      166,
+      283,
+      13
+    ],
+    "text": "Councils Ordinance, a remission of fifty per",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      233,
+      182,
+      287,
+      16
+    ],
+    "text": "_ceatuyn of the rates assessed on such redeve-",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      217,
+      196,
+      303,
+      16
+    ],
+    "text": "*Yoped building under any such Ordinance",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      236,
+      214,
+      284,
+      14
+    ],
+    "text": "shall be allowed: by the Municipal Council",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      236,
+      230,
+      284,
+      13
+    ],
+    "text": "or the Urban Couneil, as the case may be, for",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      215,
+      243,
+      305,
+      17
+    ],
+    "text": "\"| & period of five years calculated from the",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      235,
+      261,
+      284,
+      13
+    ],
+    "text": "date of the-certificate istued under section",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      98,
+      279,
+      372,
+      21
+    ],
+    "text": "seea) vayeain yo wi BE 2 Fespeet of such redevelopment,\"",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      68,
+      307,
+      452,
+      18
+    ],
+    "text": "irospeetiig: 3. The amendment made to the principal enactment by",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      50,
+      326,
+      469,
+      20
+    ],
+    "text": "jftect of |. section:4.of this Act shall ke deemed for all purposes to",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143,
+      343,
+      366,
+      17
+    ],
+    "text": "have cqme into-operation on November 12,1979. 1...",
+    "mean_p_confidence": 0.63
+  }
+]

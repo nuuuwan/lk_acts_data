@@ -1,0 +1,3258 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      268,
+      45,
+      84,
+      65
+    ],
+    "text": "fe",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      267,
+      85,
+      89,
+      21
+    ],
+    "text": "eran",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      267,
+      75,
+      88,
+      65
+    ],
+    "text": "Gi 2",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      271,
+      124,
+      80,
+      38
+    ],
+    "text": "oa",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115,
+      190,
+      378,
+      20
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      158,
+      218,
+      289,
+      21
+    ],
+    "text": ". SOCIALIST REPUBLIC OF",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      120,
+      248,
+      259,
+      18
+    ],
+    "text": ". SRI LANKA",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      197,
+      355,
+      319,
+      18
+    ],
+    "text": "LICENSING OF CLUBS .",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      239,
+      389,
+      154,
+      23
+    ],
+    "text": "(AMENDMENT)",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      208,
+      426,
+      213,
+      20
+    ],
+    "text": "ACT, No. 38 OF 1987",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      190,
+      529,
+      238,
+      18
+    ],
+    "text": "[Certified on 30th September, 1987]",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      187,
+      578,
+      250,
+      17
+    ],
+    "text": "Printed on the Orders of Governunent",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76,
+      684,
+      473,
+      18
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the Democratic",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      131,
+      706,
+      356,
+      16
+    ],
+    "text": "Socialist Republic of Sri Lanka of October 02, 1987",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      114,
+      763,
+      429,
+      28
+    ],
+    "text": "eRe AY THE DERARTMEENT GY GOVERRNEEN PROFIING, ORE LATA .",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      113,
+      790,
+      421,
+      23
+    ],
+    "text": "20 HE FURCHAEED AT THU GOVERNADGE? VUFEICATIONS PUKEAU, COLOMBO .",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      73,
+      819,
+      476,
+      17
+    ],
+    "text": "Price : 90 cents . . Postage : 75 cents",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      137,
+      28,
+      212,
+      21
+    ],
+    "text": "Licensing of Clubs (Amendment)",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      181,
+      51,
+      128,
+      14
+    ],
+    "text": "Act, No. 38 of 1987",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      132,
+      83,
+      224,
+      14
+    ],
+    "text": "[Certified on 30th September, 1987]",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      56,
+      106,
+      334,
+      17
+    ],
+    "text": "EL. DO. 17/88 .",
+    "mean_p_confidence": 0.06
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      56,
+      127,
+      322,
+      14
+    ],
+    "text": ", Ax Act 70 amen rae Licensme of Cres",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      183,
+      144,
+      184,
+      13
+    ],
+    "text": "Law, No. 17 or 1975 \"",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58,
+      166,
+      376,
+      15
+    ],
+    "text": "BE it onacted by the Parliament of the Democratic Socialist",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57,
+      182,
+      350,
+      14
+    ],
+    "text": "Repubile of Sri Lanka as follows : *",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      203,
+      409,
+      16
+    ],
+    "text": "L This Act may be cited. as the Licensing of Cluts Short",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      52,
+      215,
+      446,
+      18
+    ],
+    "text": "-MAmendment) Act, No, 38 of 1097, we",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      246,
+      445,
+      16
+    ],
+    "text": "2, Section 2 of the Licensing of Clubs Law, No, 17 of 1975 Amendment",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      258,
+      444,
+      21
+    ],
+    "text": "(hereinafter reicrred to as the principal enactment\") is of rom",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      278,
+      442,
+      23
+    ],
+    "text": "hereby amended as follows : : foie",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      299,
+      362,
+      15
+    ],
+    "text": "() by the substitution, in subsection (2) of that section,",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      110,
+      316,
+      327,
+      15
+    ],
+    "text": "dor paragraphs (c), (6) and (c), of the following",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      110,
+      335,
+      93,
+      12
+    ],
+    "text": "paragraphs",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      112,
+      353,
+      327,
+      15
+    ],
+    "text": "* (@) sent in triplicate to the Chairman of the local",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157,
+      371,
+      281,
+      14
+    ],
+    "text": "authority through the Assistant Government",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157,
+      387,
+      281,
+      14
+    ],
+    "text": "Agent of the division within which the pre-",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157,
+      403,
+      274,
+      13
+    ],
+    "text": "mises of the club to be licensed are located j",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      124,
+      423,
+      314,
+      19
+    ],
+    "text": "{) substantially tn the Form specified in the",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      158,
+      442,
+      135,
+      13
+    ],
+    "text": "Schedule to this Act ;",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      125,
+      461,
+      314,
+      15
+    ],
+    "text": "( accompanied by a copy of the rules of the",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      121,
+      477,
+      319,
+      19
+    ],
+    "text": "___ club, duly certified by the secretary, presi-",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      125,
+      494,
+      324,
+      15
+    ],
+    "text": "= dent or manager to be a true copy thereof ,",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      158,
+      512,
+      282,
+      14
+    ],
+    "text": "ard the appropriate licence fea except where",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      124,
+      528,
+      316,
+      17
+    ],
+    "text": "ag anexerption fs claimed under section and",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115,
+      545,
+      335,
+      21
+    ],
+    "text": "gc. application feo of fifty rupees; and; :",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      561,
+      382,
+      17
+    ],
+    "text": "wi, and . 5 i",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      582,
+      364,
+      15
+    ],
+    "text": "(2) by'the insertion, immediately after subsection (2) of",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      600,
+      363,
+      18
+    ],
+    "text": "that section, of the following new subsections :",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      116,
+      620,
+      325,
+      14
+    ],
+    "text": "# (2x) No licence shalt be issued under this Law",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      109,
+      637,
+      332,
+      16
+    ],
+    "text": "dn respect ofa club formed on or after the date a7",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      107,
+      654,
+      334,
+      15
+    ],
+    "text": "which this subsection comes into operation, if the",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115,
+      671,
+      326,
+      14
+    ],
+    "text": "premises at which the club intends to carry on its",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      116,
+      688,
+      326,
+      13
+    ],
+    "text": "activities are situated within two hundred and fifty",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      116,
+      704,
+      326,
+      15
+    ],
+    "text": "metres from any place of religious worship, school",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      111,
+      722,
+      332,
+      17
+    ],
+    "text": "sor hospitehens S262 ht Fe, ted",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      106,
+      741,
+      336,
+      19
+    ],
+    "text": "4) From ind after the date on which this sub-",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      117,
+      763,
+      325,
+      14
+    ],
+    "text": "section comes into operation, no licence shalt be",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      117,
+      779,
+      325,
+      18
+    ],
+    "text": "Jesued or- renewed under this.Law in respect of a",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      114,
+      796,
+      327,
+      16
+    ],
+    "text": "glub, whether formed before, on or altet much date,",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115,
+      813,
+      327,
+      16
+    ],
+    "text": "unless it is registered under the Socleties Ordinance",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      117,
+      830,
+      270,
+      16
+    ],
+    "text": "or incorporated by an Act of Parliament:",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      857,
+      130,
+      13
+    ],
+    "text": "bc costo 8.35 TOD,",
+    "mean_p_confidence": 0.04
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      60,
+      27,
+      424,
+      16
+    ],
+    "text": ". a Licensing of Clube (Amendmens) . -",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      272,
+      42,
+      213,
+      19
+    ],
+    "text": "Act, No. 38 of 1987 , .",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      222,
+      76,
+      315,
+      14
+    ],
+    "text": "Provided that a local authority may allow an",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      207,
+      92,
+      339,
+      16
+    ],
+    "text": "application for the first renewal, after the date on _",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      208,
+      106,
+      335,
+      17
+    ],
+    "text": "which this subsection comes into operation, of a",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      207,
+      125,
+      330,
+      15
+    ],
+    "text": "Ticence issued under this Law in respect af a club,",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      208,
+      142,
+      329,
+      14
+    ],
+    "text": "notwithstanding the fact that such club fs not so",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      207,
+      159,
+      337,
+      16
+    ],
+    "text": "registered or incorporated, subject to the condition,",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      207,
+      176,
+      330,
+      13
+    ],
+    "text": "that it registers itself under the Societies Ordinance",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      207,
+      193,
+      329,
+      14
+    ],
+    "text": "or incorporates itself by an Act of Parliament",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      206,
+      208,
+      333,
+      18
+    ],
+    "text": "within a period of one year from the date of such,",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      207,
+      222,
+      277,
+      15
+    ],
+    "text": "first renewal. ~ :",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      222,
+      250,
+      315,
+      15
+    ],
+    "text": "(22) Where an application hex been made for @",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      196,
+      267,
+      340,
+      16
+    ],
+    "text": "_ Heence under this Law, the opplicant shail cause to",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      206,
+      283,
+      330,
+      15
+    ],
+    "text": "be erected at the premises at which the chub'is",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      206,
+      300,
+      329,
+      15
+    ],
+    "text": "earrying on or intends to carry on its activities, a",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      206,
+      315,
+      330,
+      16
+    ],
+    "text": "hoarding stating such fact and suck-hearding =hall.",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      206,
+      331,
+      329,
+      16
+    ],
+    "text": "not be .emaved unti @ final decision is made, and",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      206,
+      349,
+      329,
+      15
+    ],
+    "text": "conveyed to the applicant, in respect of that oppll-",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      189,
+      365,
+      346,
+      16
+    ],
+    "text": "- cation, and where the applicant fails to caure to be",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      206,
+      383,
+      328,
+      15
+    ],
+    "text": "erected such @ hoarding as required in this subs0c-",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      205,
+      400,
+      297,
+      12
+    ],
+    "text": "tion he commits an offence under this Law..",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      59,
+      426,
+      475,
+      21
+    ],
+    "text": "AAmendioent 8. Section 4 of the principal enactment is heveby aniend-",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      59,
+      444,
+      476,
+      21
+    ],
+    "text": "ftgpation ad by the substitution, for the provizo to that section, of the",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      63,
+      455,
+      472,
+      31
+    ],
+    "text": "ripe i 50 t= . :",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      59,
+      467,
+      238,
+      21
+    ],
+    "text": "Brncipal | following proviso :",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      180,
+      493,
+      353,
+      16
+    ],
+    "text": "Provided, however, that the fees so prescribed shall",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      166,
+      511,
+      310,
+      16
+    ],
+    "text": "not exceed the following limits:s",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      153,
+      531,
+      359,
+      19
+    ],
+    "text": "ree. : Loe Re",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      170,
+      555,
+      351,
+      15
+    ],
+    "text": "(@) tn the case-ot any Municipal Council \"... 5000",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      169,
+      574,
+      377,
+      21
+    ],
+    "text": "(b) in the case of any Urban Connell Te, BOO",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      170,
+      594,
+      355,
+      18
+    ],
+    "text": "(c) In the case of any Development Council, |...",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      207,
+      612,
+      327,
+      22
+    ],
+    "text": "or Pradeshiya Sabha a. +, 500%",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      61,
+      636,
+      473,
+      22
+    ],
+    "text": "Amendment 4 Section 8\" of the. principal enactment - is. hereby",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      61,
+      656,
+      471,
+      20
+    ],
+    "text": "gegen amended by the insertion immediately. aiter paragrapt: (a).",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      58,
+      670,
+      478,
+      32
+    ],
+    "text": "suincipal | of that section of the following paragraph:.--. +i",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      58,
+      684,
+      464,
+      28
+    ],
+    "text": "enact tows hosed. 9",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      169,
+      699,
+      323,
+      20
+    ],
+    "text": "* (a) forwerd-a copy of the applicatlon=s Fn",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      196,
+      721,
+      339,
+      18
+    ],
+    "text": "~ G) selating to a club formed for social or reere",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      246,
+      742,
+      288,
+      16
+    ],
+    "text": "tional purposes, to the Director of Social Ser~",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      194,
+      758,
+      342,
+      20
+    ],
+    "text": "Se views oe i a",
+    "mean_p_confidence": 0.09
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      197,
+      781,
+      338,
+      22
+    ],
+    "text": "* >. relating to a club for cultural-ar-religious par",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      201,
+      804,
+      334,
+      28
+    ],
+    "text": "28 1, Posey tothe Director ofthe Cultura Altace",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      151,
+      27,
+      318,
+      18
+    ],
+    "text": "Licensing of Clubs (Amendment) 3",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      95,
+      46,
+      334,
+      16
+    ],
+    "text": ": Act, No. $8 of 1987 .",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73,
+      77,
+      395,
+      16
+    ],
+    "text": "2011\" ii) relating to a club formed for the purpose of any",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71,
+      95,
+      396,
+      18
+    ],
+    "text": "uot 7) sporting activity, to the Director of Sports,",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72,
+      119,
+      395,
+      15
+    ],
+    "text": "+. Who shall make # report to the Chairman, within four weelks",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      94,
+      136,
+      373,
+      16
+    ],
+    "text": "of the date of the receipt of such copy; as fo the bona fides",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73,
+      153,
+      90,
+      11
+    ],
+    "text": "+ of the club 5\",",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      106,
+      184,
+      443,
+      15
+    ],
+    "text": "& Section 10 of the principal enactment is hereby Amendment",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93,
+      196,
+      443,
+      20
+    ],
+    "text": "amended by the substitution for the words the Excise $5 or the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      75,
+      217,
+      456,
+      14
+    ],
+    "text": "% Commissioner, or, of the words the Excise Commis- principal",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      92,
+      229,
+      447,
+      17
+    ],
+    "text": "sloner, the Director of Social Services, the Director cf ecient",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73,
+      248,
+      467,
+      15
+    ],
+    "text": "++ Cultural Affairs, the Director of Sports, or\", - os,",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      105,
+      281,
+      444,
+      15
+    ],
+    "text": "6, Section 12 of the principal enactment is Kereby amend- Amendmer+",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      92,
+      293,
+      444,
+      20
+    ],
+    "text": "ed by the substitution for the words Every such appect 9 \"0\"",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      76,
+      314,
+      455,
+      14
+    ],
+    "text": "other than an appeal by the Superintendent of Police or the principai",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90,
+      326,
+      451,
+      18
+    ],
+    "text": "Excise Commissioner, of the words Every such appeal D2rtment.",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      76,
+      347,
+      389,
+      17
+    ],
+    "text": "\\ other than an azpeal by the Superintendent of Polfca, the",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      76,
+      363,
+      388,
+      16
+    ],
+    "text": "* Excise Commissioner, the Director of Social Services, the",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      76,
+      379,
+      362,
+      17
+    ],
+    "text": "Director of Cultural Affaire or the Director of Sports,",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      81,
+      402,
+      468,
+      28
+    ],
+    "text": "+ % Section 16 of the principat ensctmut is hereby Amendmen.",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      77,
+      420,
+      460,
+      18
+    ],
+    "text": "+ amended ax follows - Tet tbe",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      104,
+      436,
+      425,
+      27
+    ],
+    "text": "a) by a a principal",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      137,
+      448,
+      402,
+      16
+    ],
+    "text": "y the substitution, in subsection (1) of that section, nactnent,",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      140,
+      465,
+      323,
+      15
+    ],
+    "text": "for the words, The following provisions shatl apply",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93,
+      482,
+      371,
+      15
+    ],
+    "text": "s> 7 to any prentises in respect of whieh a Heence hss",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      141,
+      498,
+      321,
+      14
+    ],
+    "text": "been issued under this Law:, of the words Na",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      74,
+      515,
+      389,
+      16
+    ],
+    "text": "application for the isme or renewal of # Heence",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86,
+      531,
+      377,
+      18
+    ],
+    "text": "wce, Wader this Law shell be allowed on or after the",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      137,
+      549,
+      326,
+      13
+    ],
+    "text": "date on which this subsection comes into operation",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      138,
+      565,
+      326,
+      15
+    ],
+    "text": "unless the premises on which the club carries on of,",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89,
+      581,
+      374,
+      17
+    ],
+    "text": ", | intends to carry on its activities conform ty the",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      136,
+      600,
+      99,
+      13
+    ],
+    "text": "following :\" ;",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      100,
+      625,
+      417,
+      16
+    ],
+    "text": "(2) by the substitution for paragraph () of subsection .",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      79,
+      642,
+      373,
+      16
+    ],
+    "text": ": (1) of that section, of the following paragraph :",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      137,
+      666,
+      325,
+      16
+    ],
+    "text": "\" (i) adequate parking facilities for vehicles of",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      80,
+      683,
+      383,
+      15
+    ],
+    "text": "-\" + xegistered members and of guests secompany-",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83,
+      692,
+      378,
+      31
+    ],
+    "text": "cs ing them shell be provided within the pre-",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      133,
+      716,
+      241,
+      14
+    ],
+    "text": "+ mises of the club\"; and",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      99,
+      739,
+      361,
+      23
+    ],
+    "text": "(8) by the substitution for subsection (2) of that section",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      82,
+      763,
+      266,
+      15
+    ],
+    "text": "sa; Of the following subsection : -",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      85,
+      785,
+      375,
+      16
+    ],
+    "text": "sold = + (9) Where st appears to the Chairman at any",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      81,
+      801,
+      378,
+      17
+    ],
+    "text": "++ < . time that the premises of any club in respect of",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      135,
+      818,
+      324,
+      15
+    ],
+    "text": "which Heence has been issued under this Law d@",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      172,
+      23,
+      297,
+      13
+    ],
+    "text": "Licenzing of Clubs (Ameridment)",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      142,
+      33,
+      411,
+      24
+    ],
+    "text": "id Act, No. 38 of 1987 3",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      225,
+      72,
+      324,
+      13
+    ],
+    "text": "not conform to the provisions of subsection (1) the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      148,
+      88,
+      402,
+      14
+    ],
+    "text": "vo. Chairman may, by written notice to the president,",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      149,
+      104,
+      401,
+      14
+    ],
+    "text": ": secretary or manager of such club, request such",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      159,
+      120,
+      391,
+      16
+    ],
+    "text": "+ += president, seeretary, or manager to take all necess-",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      149,
+      137,
+      402,
+      15
+    ],
+    "text": "2. ary steps to comply with such notice before a date",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      101,
+      154,
+      451,
+      13
+    ],
+    "text": ": to be specified in such notice. The Chairman may, at",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      224,
+      169,
+      326,
+      14
+    ],
+    "text": "his discretion, extend the period of time specified",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      88,
+      186,
+      285,
+      14
+    ],
+    "text": "ves) wg fn such notice.\"",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      79,
+      213,
+      471,
+      14
+    ],
+    "text": "Amendment ~ Section 17 of the principal enactment fs hereby",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      78,
+      227,
+      319,
+      19
+    ],
+    "text": "ff zitios amended as follows: -",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      73,
+      239,
+      477,
+      33
+    ],
+    "text": "principal () by the substitution, in subsection (1) of that section",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90,
+      255,
+      460,
+      32
+    ],
+    "text": "aston for the words \"The rules of a club licensod wnder",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      89,
+      283,
+      466,
+      11
+    ],
+    "text": "toe this Law\", of the words The rules of a club in",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      208,
+      300,
+      342,
+      13
+    ],
+    "text": "+ respect of Which an application for the Issue oF",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      117,
+      314,
+      432,
+      13
+    ],
+    "text": "s renewal of @ licence under this Law has been",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      133,
+      331,
+      140,
+      14
+    ],
+    "text": "pte ee made;",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      186,
+      355,
+      364,
+      15
+    ],
+    "text": "(2) by the Substitution, for paragraphs (f) and (9) of",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      157,
+      371,
+      392,
+      18
+    ],
+    "text": "+.* \"(subsection (1) of that section, of the following",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      223,
+      390,
+      90,
+      13
+    ],
+    "text": "paragraphs >",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      101,
+      409,
+      448,
+      14
+    ],
+    "text": "+ koe U) the days on which, and the hours at which,",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93,
+      425,
+      456,
+      19
+    ],
+    "text": "reds the premises of the club are open and",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      100,
+      444,
+      207,
+      13
+    ],
+    "text": "ee . closed ;",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      226,
+      463,
+      323,
+      15
+    ],
+    "text": "(9) registration, in the guests register to be",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      263,
+      479,
+      287,
+      15
+    ],
+    "text": "maintained, of the guests accompanying the",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      167,
+      497,
+      336,
+      15
+    ],
+    "text": ": tegistered members to the lub; and",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      162,
+      518,
+      322,
+      14
+    ],
+    "text": "2. + Qi) the mode of altering the rules;",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      162,
+      537,
+      387,
+      15
+    ],
+    "text": "+\" @) by the substitution, in subsection (2) of that section,",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      197,
+      554,
+      352,
+      14
+    ],
+    "text": "+ for the words Where a club has, at the time the",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      222,
+      570,
+      326,
+      15
+    ],
+    "text": "Hoence is granted, of the words, Where a club",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      223,
+      588,
+      326,
+      14
+    ],
+    "text": "in respect of which an apptication for the Issue or",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      223,
+      603,
+      326,
+      13
+    ],
+    "text": "renewal of a liconce under this Law has beer made",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      223,
+      621,
+      73,
+      14
+    ],
+    "text": "has\" ;? and",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      131,
+      645,
+      418,
+      14
+    ],
+    "text": ". (4) by the substitution for subsection (3) of that veetion",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      167,
+      663,
+      255,
+      14
+    ],
+    "text": ". .of the following subsections :",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      191,
+      682,
+      359,
+      16
+    ],
+    "text": ". * (3) Where.a club in respect of which ar appli-",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      224,
+      698,
+      326,
+      14
+    ],
+    "text": "cation for the issue or renewal of @ Licence under",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      224,
+      715,
+      326,
+      15
+    ],
+    "text": "this Law has been made has rules whieh cvatain",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      172,
+      732,
+      379,
+      16
+    ],
+    "text": ". Provisions relating to only some of the matters",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      170,
+      749,
+      380,
+      14
+    ],
+    "text": ". specified in subsection (1), the Chairman may, on",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      223,
+      765,
+      326,
+      15
+    ],
+    "text": "application, grant time at his discretion to amend",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      187,
+      782,
+      362,
+      18
+    ],
+    "text": ", tie existing rules in such manner that such rules,",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      172,
+      798,
+      377,
+      17
+    ],
+    "text": "' as amended, will contain provisions relating to #21",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      172,
+      815,
+      367,
+      19
+    ],
+    "text": "* | such matters, 5 .",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      101,
+      18,
+      413,
+      19
+    ],
+    "text": "t Licensing of Clubs-(Amendment) -",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      101,
+      36,
+      254,
+      18
+    ],
+    "text": "Lee sate Act, No. 98 of 1987",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      101,
+      67,
+      379,
+      16
+    ],
+    "text": "os (4) The president, secretary or manager of the",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      153,
+      84,
+      326,
+      15
+    ],
+    "text": "club shall, within the time granted under sub-",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      116,
+      101,
+      363,
+      15
+    ],
+    "text": "- section (3), amend the ries as requived by sub",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      153,
+      118,
+      325,
+      14
+    ],
+    "text": "section (3) and send a copy of the rules #0",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      153,
+      135,
+      333,
+      14
+    ],
+    "text": "amended to the Chairman, .",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      100,
+      158,
+      378,
+      14
+    ],
+    "text": ". () Where the president, secretary or manager",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      129,
+      173,
+      349,
+      13
+    ],
+    "text": "of the club fails to amend the rules and send them",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      102,
+      191,
+      375,
+      14
+    ],
+    "text": "+. sr, to the Chafeman es required by subsrction (3), the",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      123,
+      207,
+      354,
+      15
+    ],
+    "text": ". 2 application for the issue or renewal of the licence",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      104,
+      224,
+      374,
+      15
+    ],
+    "text": "ove AN peapect of such club shall be disallowed. *",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      113,
+      256,
+      449,
+      15
+    ],
+    "text": "% Section 2t of the principal enactment is repealed and Amendment",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      98,
+      268,
+      451,
+      20
+    ],
+    "text": "the following section substituted therefor : . sotiee",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      98,
+      289,
+      456,
+      21
+    ],
+    "text": "Application 21, A Ticones under this Law shrit not he prnsipat |",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      97,
+      305,
+      379,
+      22
+    ],
+    "text": "of Eacise deemed in any way to authorize or permit the",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      94,
+      322,
+      382,
+      26
+    ],
+    "text": "ae keeping, sale, supply or consumption within",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      191,
+      344,
+      285,
+      16
+    ],
+    "text": "the premises of any club of any intoxicating",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      167,
+      360,
+      309,
+      14
+    ],
+    "text": "liquor fn contravention of, or otherwise than",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      193,
+      377,
+      283,
+      14
+    ],
+    "text": "in secordence with, the provisions of the",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      121,
+      394,
+      355,
+      16
+    ],
+    "text": ". Excise Ordinsnes or any other written law",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      192,
+      410,
+      284,
+      14
+    ],
+    "text": "applicable in that behalf and no intoxicating",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      192,
+      427,
+      284,
+      14
+    ],
+    "text": "Hquor shall be served in any club licensed",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      191,
+      443,
+      284,
+      14
+    ],
+    "text": "under this Law to any person other than a",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      191,
+      459,
+      282,
+      15
+    ],
+    "text": "person registered as a member of that club:",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      128,
+      480,
+      349,
+      13
+    ],
+    "text": "- Provided, however, that where any register",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      191,
+      496,
+      284,
+      14
+    ],
+    "text": "ed member of the club brings any guest with",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      189,
+      512,
+      286,
+      15
+    ],
+    "text": "hhim to the elub, such guest may be served in-",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      190,
+      529,
+      285,
+      14
+    ],
+    "text": "toxleating liquor upon his name being duly",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      190,
+      545,
+      285,
+      14
+    ],
+    "text": "registered in the guests register maintained",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      190,
+      562,
+      277,
+      12
+    ],
+    "text": "fn eecordance with the rules of the club..",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108,
+      586,
+      432,
+      14
+    ],
+    "text": "10. The following now section is hereby Lucrted Inaction",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      95,
+      598,
+      457,
+      20
+    ],
+    "text": "Immediately after section 28, and shall have effect as Sty ay",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      91,
+      610,
+      448,
+      31
+    ],
+    "text": "section 284, of the principal enactment : Boe |",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      122,
+      633,
+      425,
+      21
+    ],
+    "text": "234, The president, secretary or manager af a club gueclment",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108,
+      656,
+      420,
+      15
+    ],
+    "text": "Heensed under this Law who knowingly permits any :",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      107,
+      673,
+      427,
+      14
+    ],
+    "text": "indecent, violent, quarrelsome or riotows conduct within .",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      107,
+      689,
+      366,
+      15
+    ],
+    "text": "the Iteensed premises of such club shall be guilty of an",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      107,
+      706,
+      374,
+      12
+    ],
+    "text": "offence under this Law. .",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      107,
+      731,
+      447,
+      15
+    ],
+    "text": "21 Seotion 28 of the principel enactment fs hercby Amendment",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93,
+      747,
+      452,
+      15
+    ],
+    "text": "amended by the substitution for the definition local of Section",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      94,
+      759,
+      443,
+      23
+    ],
+    "text": "cuthority in that section, of the following dofintsion n 35,91 288",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      106,
+      783,
+      441,
+      17
+    ],
+    "text": "loral authority means eny Municipsl Council. Urben *actmeat,",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      126,
+      801,
+      360,
+      16
+    ],
+    "text": "+ -Couneil,\" Development Counc or Pradeshiya ,",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      146,
+      810,
+      326,
+      31
+    ],
+    "text": "Sobba;. - eee oy",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      139,
+      19,
+      303,
+      23
+    ],
+    "text": "s <Lvenstsig of Clubs Lainerigiidnty",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      180,
+      41,
+      345,
+      15
+    ],
+    "text": ". Aoi, Nor88-of 2987 an",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      140,
+      68,
+      385,
+      24
+    ],
+    "text": "poe ene SCHEDULES TAT AP",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      142,
+      93,
+      383,
+      25
+    ],
+    "text": "Jeebeslacdge ese, Muntelpal/Urban/ Development: :Couneily",
+    "mean_p_confidence": 0.02
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143,
+      115,
+      329,
+      21
+    ],
+    "text": "cee aca ty Pandeshiya Sabha 0. 2:3:",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      199,
+      137,
+      274,
+      21
+    ],
+    "text": "License oF Cubs Law, No, 17 oF 1978\"",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143,
+      168,
+      355,
+      12
+    ],
+    "text": "| APPLICATION POR OBTAINING A LICENCE 70 RON A CLUB",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      144,
+      185,
+      264,
+      7
+    ],
+    "text": "Y 2",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      157,
+      192,
+      368,
+      14
+    ],
+    "text": "(tm be forwarded in triplicate to the Mayot iri the case of",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      141,
+      209,
+      384,
+      14
+    ],
+    "text": "Municipal Council or the Chairmen in the case of a Urban",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      142,
+      226,
+      383,
+      14
+    ],
+    "text": "Council, Development Council or Pradeshiya Sabha through",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      142,
+      243,
+      383,
+      13
+    ],
+    "text": "the Assistant Government Agent of the Division withia",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      123,
+      260,
+      407,
+      17
+    ],
+    "text": "2 Which the premises 0! the Club fa locatad) /",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      155,
+      279,
+      365,
+      26
+    ],
+    "text": "1. Name of Applicant :---. pol o",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      121,
+      308,
+      404,
+      19
+    ],
+    "text": "*- & Residential Address of Applicant :-. gine.",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      154,
+      331,
+      377,
+      20
+    ],
+    "text": "& Whether the Application is made in the eapacily of",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      149,
+      354,
+      317,
+      14
+    ],
+    "text": ". President, Secretary or Manager :-<.",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      154,
+      378,
+      241,
+      12
+    ],
+    "text": "4, Name of Club :- 1",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      154,
+      400,
+      273,
+      20
+    ],
+    "text": "8, Situation of Club:",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      155,
+      428,
+      283,
+      13
+    ],
+    "text": "6. Activities of Club os",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      155,
+      451,
+      343,
+      15
+    ],
+    "text": "7. Place where the activities are performed :-",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      155,
+      469,
+      365,
+      19
+    ],
+    "text": "8! Names and residential addresses of the following *",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      155,
+      497,
+      220,
+      19
+    ],
+    "text": "ov Presidente",
+    "mean_p_confidence": 0.06
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      156,
+      518,
+      178,
+      14
+    ],
+    "text": "Ts Seeretary: =",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      164,
+      536,
+      364,
+      16
+    ],
+    "text": "f Manager: a. -",
+    "mean_p_confidence": 0.05
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      155,
+      558,
+      245,
+      19
+    ],
+    "text": "9. Membership:-~) 0 .",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      186,
+      582,
+      338,
+      19
+    ],
+    "text": "_ Whether General/Associate/Honorary :- 1",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      119,
+      603,
+      404,
+      19
+    ],
+    "text": "= | 16, Whether, the premfses'of the Club conforma to the pr0-",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      126,
+      620,
+      412,
+      18
+    ],
+    "text": "= . Visioas of subsection (1) of section 16 of the Law: 2",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      137,
+      645,
+      386,
+      20
+    ],
+    "text": "2 EL Whether the rules of the Chib contains provisions re-",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      161,
+      666,
+      360,
+      18
+    ],
+    "text": "\"ating to all the matters spectfied in subsection (1)",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      184,
+      681,
+      344,
+      22
+    ],
+    "text": "__of section 17 of the Law, (Pease annex @ certified.",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      196,
+      702,
+      331,
+      16
+    ],
+    "text": "copy of the ruls of the Club),!> a",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      153,
+      728,
+      375,
+      18
+    ],
+    "text": "32, Whether requirements under section 2. (24) have been:",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      125,
+      748,
+      419,
+      15
+    ],
+    "text": "To WMA mm >",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      153,
+      770,
+      390,
+      21
+    ],
+    "text": "18 Whether there is a Yquot bar or whether quor fs,",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      138,
+      789,
+      386,
+      19
+    ],
+    "text": "2+ gsrved in the'club uremises. If so has a Hcence/",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      153,
+      803,
+      375,
+      24
+    ],
+    "text": "Permit been obtained from the Excise-Authorities",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      167,
+      824,
+      358,
+      20
+    ],
+    "text": "_ for the purpore;- an",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      100,
+      18,
+      382,
+      16
+    ],
+    "text": ": Licensing of Clubs (Amendment) \"7",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      227,
+      36,
+      256,
+      17
+    ],
+    "text": "Act, No. 38 of 1987 .",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      107,
+      67,
+      375,
+      15
+    ],
+    "text": "44 Whether exemptions from the licence fee 1s claimed",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      153,
+      85,
+      329,
+      13
+    ],
+    "text": "under section 5 of the Law. (Indicate under which",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      152,
+      101,
+      330,
+      15
+    ],
+    "text": "paragraph of section euch exemption is sought and",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      154,
+      118,
+      328,
+      14
+    ],
+    "text": "annex the relevant supporting documents) :,",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      113,
+      147,
+      369,
+      14
+    ],
+    "text": "Thereby certify that the ahove particulars are true and",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      96,
+      161,
+      387,
+      22
+    ],
+    "text": "correct. .",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      322,
+      213,
+      161,
+      14
+    ],
+    "text": "Signature of Applicant. -",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      101,
+      233,
+      382,
+      11
+    ],
+    "text": "Date: . vor",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      100,
+      247,
+      383,
+      15
+    ],
+    "text": "Place: , .",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      101,
+      279,
+      383,
+      15
+    ],
+    "text": "Before me.",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      184,
+      300,
+      57,
+      8
+    ],
+    "text": "_",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      203,
+      312,
+      29,
+      11
+    ],
+    "text": "J.P,",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      116,
+      339,
+      366,
+      15
+    ],
+    "text": "Report of the A.G.A (the A.G.A. is requested to make a",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      102,
+      356,
+      380,
+      15
+    ],
+    "text": "report, after proper investigation, in regurd to tho activities",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      102,
+      372,
+      381,
+      16
+    ],
+    "text": "of the Club, facilities provided, membership cfe., and make",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      102,
+      390,
+      383,
+      13
+    ],
+    "text": "his recommendation). . .",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      105,
+      414,
+      379,
+      15
+    ],
+    "text": "(Strike off whichever is inapplicable.) :",
+    "mean_p_confidence": 0.65
+  }
+]

@@ -1,0 +1,376 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      286,
+      78,
+      79,
+      23
+    ],
+    "text": "ES,",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      284,
+      153,
+      159,
+      23
+    ],
+    "text": "Cle .",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      132,
+      208,
+      381,
+      20
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      191,
+      236,
+      264,
+      18
+    ],
+    "text": "SOCIALIST REPUBLIC OF",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      89,
+      263,
+      294,
+      17
+    ],
+    "text": ". SRI LANKA",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      96,
+      363,
+      441,
+      27
+    ],
+    "text": "SIRE ANURADHAPURA BASTIAN PILGRIMS",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      101,
+      411,
+      430,
+      25
+    ],
+    "text": "REST. MANAGEMENT SOCIETY (REPEAL)",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      211,
+      452,
+      215,
+      20
+    ],
+    "text": "ACT, No. 40 OF 1986",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      200,
+      561,
+      241,
+      15
+    ],
+    "text": "{Certified on 18th November, 1986]",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      191,
+      617,
+      249,
+      16
+    ],
+    "text": "Printed on the Orders of Government",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115,
+      713,
+      401,
+      19
+    ],
+    "text": "Published as a Supplement to Part Il of the Gazette of the",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      94,
+      732,
+      446,
+      20
+    ],
+    "text": "Democratic Socialist Republic of Sri Lanka of November 21, 1986",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      135,
+      783,
+      361,
+      12
+    ],
+    "text": "ROErED AY tH DABARTECE OY QOVERCOSENT PATONG, BRK LANTEA",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      120,
+      799,
+      418,
+      22
+    ],
+    "text": "To BE FURGGAGID AP TOE GOVRUNMERT FORLIGATIONS BUREAU, SOLOING",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      84,
+      831,
+      462,
+      18
+    ],
+    "text": "Price: 30 conts Postage: 75 conts",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      37,
+      347,
+      17
+    ],
+    "text": "Siri Anuradhepura Bastian Pilgrims Rest Monagement",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      152,
+      55,
+      225,
+      16
+    ],
+    "text": "Society (Repeal) Act, No. 40.0} 1986",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      155,
+      83,
+      220,
+      17
+    ],
+    "text": "[Certified on 18th November, 19861",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      113,
+      98,
+      15
+    ],
+    "text": "L.DO, 15/84.",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      135,
+      373,
+      16
+    ],
+    "text": "An ACT 70 BEFEAL THE Sunt ARURADEAPURA BaSTiAN Pr.caime",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      111,
+      151,
+      310,
+      16
+    ],
+    "text": "Rest Manacretent Socrery Law, No. 15 oF 1975",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      179,
+      374,
+      19
+    ],
+    "text": "BE {t enacted by the Parliament of the Democratic Soeiallst",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      199,
+      341,
+      16
+    ],
+    "text": "Republic of Sri Lanka as follows : 7",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      94,
+      227,
+      406,
+      19
+    ],
+    "text": "1, This Act may be cited as the Sirf Anuradhapwra Short",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      239,
+      414,
+      24
+    ],
+    "text": "Bastian Plgtime Rest Management Soctety (Repeat) Act,",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      266,
+      87,
+      12
+    ],
+    "text": "No. 40 of 1988.",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      95,
+      288,
+      452,
+      20
+    ],
+    "text": "2 The Siri Anuradhapura Bastien Pilgrims Rest Repeal .",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      299,
+      447,
+      26
+    ],
+    "text": "Management Society Law, No. 15 of 1875, is hereby te ot",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      318,
+      421,
+      31
+    ],
+    "text": "repeated, 1986.",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93,
+      851,
+      125,
+      11
+    ],
+    "text": "* S oprToss.a80 6/07",
+    "mean_p_confidence": 0.02
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      65,
+      801,
+      474,
+      14
+    ],
+    "text": "anpual subscription of Bills and Laws of the Patlinment Ba, 180 (Lootl),",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      64,
+      816,
+      475,
+      13
+    ],
+    "text": "Ra 200 (Foreign), payoble to the Surcmerenmers, Govinnamrt PURLICATIOS",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      64,
+      829,
+      475,
+      15
+    ],
+    "text": "Buumav, Conoazo 1, before 18th December etch year in respect of the yet!",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      272,
+      845,
+      56,
+      11
+    ],
+    "text": "following.",
+    "mean_p_confidence": 0.43
+  }
+]

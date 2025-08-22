@@ -1,0 +1,607 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      125,
+      206,
+      385,
+      19
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      187,
+      237,
+      265,
+      19
+    ],
+    "text": "SOCIALIST REPUBLIC OF",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      188,
+      273,
+      199,
+      18
+    ],
+    "text": ": SRI LANKA",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      94,
+      368,
+      458,
+      19
+    ],
+    "text": "NATIONAL HEALTH DEVELOPMENT FUND",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      245,
+      402,
+      155,
+      24
+    ],
+    "text": "(AMENDMENT)",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      218,
+      439,
+      216,
+      20
+    ],
+    "text": "ACT, No. 26 OF 1987",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      243,
+      547,
+      201,
+      15
+    ],
+    "text": "[Certified om 2ist May, 1987]",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      189,
+      601,
+      251,
+      16
+    ],
+    "text": "Printed on the Orders of Government",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88,
+      689,
+      475,
+      18
+    ],
+    "text": "Published as a Supplement to part II of the Gazette of the Democratic.",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      151,
+      710,
+      348,
+      17
+    ],
+    "text": "Socialist Republic of Sri Lanka of May, 2: 1987",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      82,
+      771,
+      433,
+      12
+    ],
+    "text": ". mp AT ie DEPARTACENT OF QOVEENT PRIMENG, ART Lane",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      131,
+      794,
+      392,
+      10
+    ],
+    "text": "0 i FORCEARED AP TE CORNTAGIE FEMACATIONS BUMERT, COLOMBO",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88,
+      812,
+      479,
+      18
+    ],
+    "text": "Price : 30 cents . Postage #75 cents",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      24,
+      321,
+      15
+    ],
+    "text": "National Health Development Fund (Amendment)",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      192,
+      42,
+      119,
+      13
+    ],
+    "text": "Act, No. 26 of 1987",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157,
+      70,
+      188,
+      13
+    ],
+    "text": "[Certified on 21st May, 1987]",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      101,
+      93,
+      13
+    ],
+    "text": "L.DO. 41/86",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      128,
+      377,
+      12
+    ],
+    "text": "An Act 70 AMEND THE Natiowat Heatma Devatormcnt",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      149,
+      163,
+      13
+    ],
+    "text": "Pun Act, No. 18 oF 1991.",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      176,
+      378,
+      19
+    ],
+    "text": "BE it enacted by the Parliament of the Democratle",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      200,
+      289,
+      14
+    ],
+    "text": "Socialist Republic of Sri Lanka as follows :",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      228,
+      439,
+      15
+    ],
+    "text": "1 This Act may be cited as the National Health Short titls.",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64,
+      248,
+      352,
+      14
+    ],
+    "text": "Development Fund (Amendment) Act, No. 28 of 1987.",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      280,
+      434,
+      28
+    ],
+    "text": "2% The following new section is hereby inserted Insertion",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      302,
+      447,
+      27
+    ],
+    "text": "immediately after section 7 and shall have effect as section Pamact,",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64,
+      319,
+      419,
+      18
+    ],
+    "text": "4 of Act No. 12 of 1981: 18h",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      348,
+      378,
+      29
+    ],
+    "text": "mrestablish- Va. (1) There shall be established under",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64,
+      374,
+      380,
+      19
+    ],
+    "text": "quxilitry the Fund such number of auxiliary funds",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      159,
+      394,
+      285,
+      15
+    ],
+    "text": "for specific purposes as may be determined",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      159,
+      415,
+      103,
+      13
+    ],
+    "text": "by the Minlster.",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      175,
+      445,
+      270,
+      15
+    ],
+    "text": "(2) All moneys received by the Fund by",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      159,
+      462,
+      286,
+      14
+    ],
+    "text": "way of gift or donation from private indivi-",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      159,
+      477,
+      285,
+      15
+    ],
+    "text": "duals, firms or institutions in Sri Lanka and",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      159,
+      494,
+      286,
+      14
+    ],
+    "text": "abroad for promoting or furthering any",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      159,
+      510,
+      286,
+      14
+    ],
+    "text": "specific project or purpose shell be credited",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      159,
+      526,
+      287,
+      14
+    ],
+    "text": "into the auxiliary fund established for such",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      159,
+      543,
+      286,
+      14
+    ],
+    "text": "purpose under subsection (1) and shall be",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      159,
+      559,
+      287,
+      15
+    ],
+    "text": "applied by the Board, subject to the direc-",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      160,
+      576,
+      248,
+      13
+    ],
+    "text": "Hons of the Minister, for that purpose.",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      175,
+      607,
+      270,
+      14
+    ],
+    "text": "(3) In respect of every auxiliary fund",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      160,
+      623,
+      286,
+      13
+    ],
+    "text": "established under subsection (1), the",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      159,
+      640,
+      287,
+      13
+    ],
+    "text": "Minister shell appoint an advisory body",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      159,
+      656,
+      286,
+      14
+    ],
+    "text": "consisting of such number of members as he",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      159,
+      672,
+      287,
+      15
+    ],
+    "text": "may deem necessary to advise the Board as",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      159,
+      689,
+      286,
+      13
+    ],
+    "text": "to the application of the moneys in such",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      159,
+      705,
+      95,
+      14
+    ],
+    "text": "auxiliary fund,",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      175,
+      736,
+      270,
+      15
+    ],
+    "text": "(4) The provisions of this Act relating to",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      107,
+      756,
+      363,
+      15
+    ],
+    "text": "cave. Sppointed members of the Board shall,",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      120,
+      777,
+      323,
+      14
+    ],
+    "text": "1\" = amtitatis mutandis, appty to and in relation:",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      796,
+      375,
+      17
+    ],
+    "text": "1). te every member of am advisory body,",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      94,
+      818,
+      289,
+      14
+    ],
+    "text": ". appotated under subsection (8)..",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      92,
+      775,
+      472,
+      13
+    ],
+    "text": "Annual subscription of Bills and Acts of the Parliament Hs 100 (Local) Hs, 200",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      95,
+      790,
+      472,
+      15
+    ],
+    "text": "oreige) payable to the Surtunrmurr, Goviawnar Pouurcarton Bunt",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      94,
+      804,
+      474,
+      13
+    ],
+    "text": "Coconmo 2, before 16th December each yeur in respect of the year following.",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      267,
+      809,
+      287,
+      29
+    ],
+    "text": "foe ants anne 4",
+    "mean_p_confidence": 0.26
+  }
+]
