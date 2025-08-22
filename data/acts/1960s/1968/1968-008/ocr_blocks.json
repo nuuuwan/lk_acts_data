@@ -1,0 +1,519 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      387,
+      43,
+      66,
+      19
+    ],
+    "text": "Aaa",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      125,
+      54,
+      329,
+      46
+    ],
+    "text": "PARLIAMENT Of CEYLON",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      213,
+      89,
+      283,
+      76
+    ],
+    "text": "3rd Session 1 quent 7",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      360,
+      131,
+      12,
+      11
+    ],
+    "text": "%",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      289,
+      149,
+      192,
+      41
+    ],
+    "text": "&y Sin of",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      300,
+      190,
+      32,
+      18
+    ],
+    "text": "nahn",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      265,
+      196,
+      83,
+      28
+    ],
+    "text": "freee",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      263,
+      207,
+      91,
+      32
+    ],
+    "text": "Ais)",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      128,
+      329,
+      332,
+      38
+    ],
+    "text": "Business Registration",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      91,
+      372,
+      429,
+      39
+    ],
+    "text": "(Exemption from Surcharge)",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      169,
+      419,
+      269,
+      33
+    ],
+    "text": "Act, No. & of 1968",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      193,
+      545,
+      220,
+      14
+    ],
+    "text": "Date of Assent: February 28, 1963",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      176,
+      655,
+      252,
+      14
+    ],
+    "text": "Printed on the Orders of Government",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      116,
+      764,
+      371,
+      24
+    ],
+    "text": "Purdhieed tthe Gontunisae Bomscnne Botees, CoLonne",
+    "mean_p_confidence": 0.03
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      112,
+      789,
+      375,
+      32
+    ],
+    "text": "Spal, Subscription (including Pity, Rs. 30 Coe. Rs. 40",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      116,
+      815,
+      370,
+      33
+    ],
+    "text": "SEB aE oa ip el ch ca Sitar a",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      116,
+      836,
+      369,
+      24
+    ],
+    "text": "Mtoe Se dat papcaat wil net be feted.",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      126,
+      48,
+      289,
+      20
+    ],
+    "text": "Businass Registration (Exemption from",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      156,
+      65,
+      228,
+      19
+    ],
+    "text": "Surcharge) Act, No. 8, of 1968",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      92,
+      102,
+      14
+    ],
+    "text": "L. D0, 29/87.",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      112,
+      383,
+      17
+    ],
+    "text": "AN AcT 10 MAKE PROVISION POR THE RETROSPECTIVE",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108,
+      132,
+      353,
+      14
+    ],
+    "text": "EXEMPTION OF CERTAIN BUSINESSES FROM THE LEVY",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108,
+      148,
+      352,
+      13
+    ],
+    "text": "AND PAYMENT OF THE SURCHARGE IMPOSED BY THE",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      109,
+      161,
+      351,
+      19
+    ],
+    "text": "Busuvass Recisrration (Suncmance) Act, No. 16",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108,
+      178,
+      351,
+      16
+    ],
+    "text": "oy 1961, AND FOR THE REFUND OF ANY AMOUNTS",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108,
+      196,
+      351,
+      14
+    ],
+    "text": "PAID BY WAY OF SUCH SURCHARGE BY SUCH",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108,
+      212,
+      83,
+      10
+    ],
+    "text": "BUSINESSES.",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      132,
+      241,
+      269,
+      21
+    ],
+    "text": "[Date of Assent: February 28, 1968]",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      273,
+      381,
+      21
+    ],
+    "text": "BE it enacted by the Queens Most Excellent Majesty,",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      289,
+      382,
+      17
+    ],
+    "text": "by and with the advice and consent of the Senate and",
+    "mean_p_confidence": 0.88
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      302,
+      383,
+      23
+    ],
+    "text": "the House of Representatives of Ceylon in this pre-",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      321,
+      384,
+      20
+    ],
+    "text": "sent Parliament assembled, and by the authority of",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      336,
+      167,
+      16
+    ],
+    "text": "the same, as follows:",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      364,
+      436,
+      17
+    ],
+    "text": "1. This Act may be cited as the Business ston ttle",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      380,
+      381,
+      20
+    ],
+    "text": "Registration (Exemption from Surcharge} Act,",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      396,
+      102,
+      14
+    ],
+    "text": "No. 8 of 1968.",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88,
+      424,
+      453,
+      19
+    ],
+    "text": "2. A person who carried on any business which Essmptien of",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      443,
+      477,
+      20
+    ],
+    "text": "was not _a covered employment within the meaning 783.0 tom",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      459,
+      480,
+      26
+    ],
+    "text": "of the Employees Provident Fund Act, No. 15 of ie strings",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      475,
+      469,
+      20
+    ],
+    "text": "1958, shall be deemed at ali times not to have been NovStay fet\"",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      495,
+      481,
+      21
+    ],
+    "text": "or to he liable to pay the surcharge imposed by the >4t,sa",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      512,
+      481,
+      27
+    ],
+    "text": "Business Registration (Surcharge) Act, No. 16 of 1061, il say of",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      530,
+      479,
+      19
+    ],
+    "text": "and accordingly, any amount paid by way of such ni ttndwes.",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      538,
+      383,
+      43
+    ],
+    "text": "surcharge by such person to the Registrar of Com-",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      551,
+      383,
+      28
+    ],
+    "text": "panies or the Registrar of Business Nemes call be",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      572,
+      383,
+      41
+    ],
+    "text": "refunded to such person by such Registrar upon",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      593,
+      326,
+      18
+    ],
+    "text": "demand made by such person in that behalf.",
+    "mean_p_confidence": 0.76
+  }
+]

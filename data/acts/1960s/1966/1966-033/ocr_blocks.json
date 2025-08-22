@@ -1,0 +1,420 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      123,
+      30,
+      370,
+      26
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      211,
+      75,
+      280,
+      72
+    ],
+    "text": "2nd Session fo",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      373,
+      110,
+      127,
+      21
+    ],
+    "text": "e oN",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      288,
+      133,
+      216,
+      25
+    ],
+    "text": "Oy fe esl",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      274,
+      134,
+      231,
+      64
+    ],
+    "text": "id weer Z i",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      265,
+      162,
+      204,
+      49
+    ],
+    "text": "gS gave RS Lie",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      263,
+      185,
+      197,
+      54
+    ],
+    "text": "Ga Ne Bee",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      248,
+      227,
+      115,
+      43
+    ],
+    "text": "Seas",
+    "mean_p_confidence": 0.06
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      112,
+      310,
+      391,
+      40
+    ],
+    "text": "Tea Subsidy (Amendment)",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      162,
+      358,
+      285,
+      32
+    ],
+    "text": "Act, No. 33 of 1966",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      199,
+      480,
+      208,
+      14
+    ],
+    "text": "Date of Assent: October 14, 1966",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      181,
+      582,
+      242,
+      14
+    ],
+    "text": "Printed on the Orders of Government",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      130,
+      711,
+      345,
+      23
+    ],
+    "text": "Burtbetod atthe Uamtuctents Poaulestoee Siti, Cosmas",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      130,
+      740,
+      344,
+      22
+    ],
+    "text": "fasting 2 9 os",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      130,
+      757,
+      344,
+      16
+    ],
+    "text": "Pumscaniows Boseav, P. O. Box 500, Cozonpe 1, before 201",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      130,
+      772,
+      343,
+      21
+    ],
+    "text": "Dace gr ieee of ree ce",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      142,
+      782,
+      319,
+      24
+    ],
+    "text": "tinued before the Sais cf payin wil aa ie sspphio",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      123,
+      811,
+      354,
+      22
+    ],
+    "text": "Price: 15 cents Poatage : 10 cents",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108,
+      34,
+      333,
+      17
+    ],
+    "text": "Tea Subsidy (Amendment) Act, No. $3 of 1966",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      66,
+      103,
+      14
+    ],
+    "text": "G. DO. 54/64.",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92,
+      90,
+      366,
+      15
+    ],
+    "text": "AN Act to amenn Ta Tea Sussipy Act, No. 12",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      243,
+      106,
+      60,
+      12
+    ],
+    "text": "oF 1958.",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      147,
+      129,
+      256,
+      17
+    ],
+    "text": "[Date of Assent: October 14, 1966]",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      152,
+      377,
+      17
+    ],
+    "text": "BE it enacted by the Queens Most Excellent Majesty,",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      163,
+      382,
+      21
+    ],
+    "text": "by and with the advice and consent of the Senate and",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      184,
+      382,
+      16
+    ],
+    "text": "the House of Representatives of Ceylon in this present",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      199,
+      382,
+      17
+    ],
+    "text": "Parliament assembled, and by the authority of the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      216,
+      143,
+      15
+    ],
+    "text": "seme, as follows:",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      101,
+      246,
+      434,
+      28
+    ],
+    "text": "1. This Act may be cited os the Tea Subsidy eos um",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      261,
+      243,
+      16
+    ],
+    "text": "(Amendment) Act, No. 33 of 1986.",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      100,
+      293,
+      451,
+      16
+    ],
+    "text": "2. Section 3 of the Tea Subsidy Act, No. 12 of Ameniiet ot",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      308,
+      465,
+      19
+    ],
+    "text": "1968, as amended by Act No. 68 of 196i, is hereby len 8,0",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      324,
+      434,
+      16
+    ],
+    "text": "further amended in sub-section (2) of that section by tom.",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      340,
+      379,
+      16
+    ],
+    "text": "the substitution, in paragraph (/) of that sub-section,",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      356,
+      379,
+      16
+    ],
+    "text": "for the words ' payment of gratuities, of the words",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      371,
+      377,
+      29
+    ],
+    "text": "obnytent,of gratnities or such sums tthe Consoi-",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      387,
+      277,
+      16
+    ],
+    "text": "dated Fund for the payment of pension .",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      103,
+      835,
+      453,
+      31
+    ],
+    "text": "a iveessats ayn) _",
+    "mean_p_confidence": 0.14
+  }
+]

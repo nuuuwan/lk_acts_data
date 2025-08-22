@@ -1,0 +1,838 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      66,
+      12,
+      422,
+      40
+    ],
+    "text": ". PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      200,
+      51,
+      192,
+      20
+    ],
+    "text": "5th Session 1964-65",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      56,
+      126,
+      514,
+      18
+    ],
+    "text": "Finn, oN |",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      249,
+      159,
+      303,
+      37
+    ],
+    "text": "1s ( yan): me",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      254,
+      178,
+      294,
+      49
+    ],
+    "text": "Oe. hana",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      244,
+      211,
+      285,
+      19
+    ],
+    "text": "Rms 7",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      238,
+      206,
+      300,
+      55
+    ],
+    "text": "ay? * Shi",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      47,
+      241,
+      474,
+      29
+    ],
+    "text": ". NES",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      58,
+      291,
+      487,
+      50
+    ],
+    "text": "Motor Traffic (Amendment) Act,",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      191,
+      342,
+      222,
+      31
+    ],
+    "text": "No. 40 of 1964",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      179,
+      444,
+      361,
+      18
+    ],
+    "text": "Date of Assent: November 12, 196",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      73,
+      599,
+      420,
+      36
+    ],
+    "text": "; Printed om the Orders of Goverwment :",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      112,
+      760,
+      468,
+      49
+    ],
+    "text": "Pa too RE ttn RE, Sy",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      113,
+      795,
+      372,
+      13
+    ],
+    "text": "Annual Subscription {including Bills) Rs. 30 (Local), Rs. 40",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      41,
+      807,
+      445,
+      25
+    ],
+    "text": "' een), PU, A ERS 1 een ae",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      89,
+      825,
+      397,
+      29
+    ],
+    "text": "~ Basenbae cto Pa tape ot es taae felony sont",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      151,
+      852,
+      299,
+      12
+    ],
+    "text": "before the date of payment will not be supplied.",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      114,
+      867,
+      373,
+      10
+    ],
+    "text": "a Defare the mt will not be supplied.",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      20,
+      501,
+      28
+    ],
+    "text": "Motor Traffic (Amendment) Act, No. 40 of 1964 :",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58,
+      60,
+      521,
+      16
+    ],
+    "text": "L. D0, 8/68. \\",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      79,
+      499,
+      14
+    ],
+    "text": "An Aor To AMEND THR Moron TRAFFIC Act. Shute 208 :",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      452,
+      92,
+      127,
+      19
+    ],
+    "text": "we",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      111,
+      102,
+      468,
+      28
+    ],
+    "text": "[Date of Assent: November 12, 1984] Per :",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58,
+      142,
+      380,
+      17
+    ],
+    "text": "BE it enacted by the Queens Most Excellent",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      48,
+      158,
+      390,
+      19
+    ],
+    "text": "Majesty, by and with the advice and consent of the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58,
+      172,
+      521,
+      19
+    ],
+    "text": "Senate and the House of Representatives of Ceylon in '",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58,
+      189,
+      382,
+      20
+    ],
+    "text": "this present Parliament assembled, and by the",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58,
+      207,
+      521,
+      25
+    ],
+    "text": "authority of the same, as follows: H",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      237,
+      505,
+      21
+    ],
+    "text": "4. This Act may be cited as the Motor Traffic Stier, ste i",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      240,
+      458,
+      35
+    ],
+    "text": "(Amendment) Act, No, 40 of 1964, and shall come idue #",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      270,
+      383,
+      18
+    ],
+    "text": "into operation on such date as the Minister may",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      287,
+      458,
+      18
+    ],
+    "text": "appoint by Order published in the Gazette. .",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      318,
+      458,
+      15
+    ],
+    "text": "2. Section 5 of the Motor Traffic Act, horeinafter Amsstme of",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      329,
+      464,
+      22
+    ],
+    "text": "referred to ss the principal Act, is hereby SEa,\"s,",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      350,
+      383,
+      17
+    ],
+    "text": "amended, in sub-section (3) of that section, by the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      367,
+      383,
+      16
+    ],
+    "text": "substitution, for the words a lorry \"\", of the words",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      383,
+      204,
+      17
+    ],
+    "text": "a lorry, motor tricycle van.",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      415,
+      456,
+      29
+    ],
+    "text": "a. Section 26 ofthe principal Act. is hereby Amines ot",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      419,
+      476,
+      32
+    ],
+    "text": "amended, in sub-section (a) of that section, by the TE a",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      447,
+      420,
+      16
+    ],
+    "text": "substitution, for the words a lorry Licence, of the Aa",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      463,
+      362,
+      16
+    ],
+    "text": "words a lorry licence, a motor tricycle van Hoence \"\".",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      488,
+      457,
+      23
+    ],
+    "text": "% Section 122 of the principal Act is hereby ammdmest ot",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      47,
+      495,
+      489,
+      44
+    ],
+    "text": "amended by the substitution, for paragraph (9) of a ice 108",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      523,
+      473,
+      20
+    ],
+    "text": "section, of the following new paragraphs : aoe ee",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93,
+      550,
+      465,
+      23
+    ],
+    "text": "(g) private cars, oo ee",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      103,
+      571,
+      463,
+      20
+    ],
+    "text": "(3) motor tricycle vans, a re",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      104,
+      594,
+      336,
+      17
+    ],
+    "text": "( land vebicles, and :",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      104,
+      614,
+      329,
+      17
+    ],
+    "text": "() motor vehicles not hereinbefore specified..",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      646,
+      358,
+      16
+    ],
+    "text": "8. Section 128 of the principal Act is hereby",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      650,
+      470,
+      33
+    ],
+    "text": "amended, in sub-section @)'of that sectign, by the ser,",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      672,
+      478,
+      22
+    ],
+    "text": "substitution, for the words motor cycles ?, wherever fig\" 7",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      693,
+      381,
+      16
+    ],
+    "text": "those words occur collectively in that sub-section, of",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      709,
+      322,
+      16
+    ],
+    "text": "the words motor cycles, motor tricycle vans\".",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      577,
+      728,
+      2,
+      9
+    ],
+    "text": "f",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      744,
+      451,
+      17
+    ],
+    "text": "&. Section 240 of the principal Act is hereby Amnimet of",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      757,
+      519,
+      23
+    ],
+    "text": "amended as follows: PS et",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93,
+      779,
+      382,
+      26
+    ],
+    "text": "(1) in the definition of \" lorry \"*, by the substitu- na",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      43,
+      799,
+      396,
+      16
+    ],
+    "text": "o tion, for the words a land vehicle,",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      141,
+      812,
+      299,
+      18
+    ],
+    "text": "of the words a land vehicle or motor",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      142,
+      832,
+      437,
+      17
+    ],
+    "text": "tricycle van;",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      853,
+      86,
+      9
+    ],
+    "text": "2B oeaoes 8)",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      160,
+      29,
+      367,
+      17
+    ],
+    "text": "2 Motor Traffic (Amendment) Aot, No. 40 of 1964",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      194,
+      57,
+      356,
+      18
+    ],
+    "text": "(2) in the definition of motor cycle, by the",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      243,
+      73,
+      307,
+      16
+    ],
+    "text": "substitution, for the words motor",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      243,
+      89,
+      306,
+      16
+    ],
+    "text": "vehicle, of the words motor vehicle,",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      244,
+      106,
+      284,
+      16
+    ],
+    "text": "other than a motor tricycle van,; and",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      196,
+      130,
+      354,
+      29
+    ],
+    "text": "(8 by the insertion, immediately after the defini.",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      243,
+      146,
+      307,
+      17
+    ],
+    "text": "tion of Motor Traffic Advisory Council,",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      244,
+      162,
+      252,
+      18
+    ],
+    "text": "of the following new definition :",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      246,
+      187,
+      304,
+      17
+    ],
+    "text": "motor tricycle van means a motor",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      289,
+      199,
+      262,
+      37
+    ],
+    "text": "vehicle designed to travel on three",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      293,
+      215,
+      258,
+      37
+    ],
+    "text": "wheels, anc having @ tare which",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      293,
+      234,
+      258,
+      17
+    ],
+    "text": "dogs not exceed five hundredweight,",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      294,
+      251,
+      257,
+      16
+    ],
+    "text": "and which is constructed or adapted",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      293,
+      267,
+      258,
+      17
+    ],
+    "text": "wholly or mainly for the carriage of",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      294,
+      284,
+      61,
+      17
+    ],
+    "text": "goods; .",
+    "mean_p_confidence": 0.4
+  }
+]

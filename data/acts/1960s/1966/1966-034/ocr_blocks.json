@@ -1,0 +1,596 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      137,
+      36,
+      367,
+      24
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      221,
+      76,
+      192,
+      18
+    ],
+    "text": "2nd Session 1966-67",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      276,
+      147,
+      224,
+      52
+    ],
+    "text": "for can",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      273,
+      178,
+      236,
+      53
+    ],
+    "text": "(Cp)",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      264,
+      230,
+      238,
+      48
+    ],
+    "text": "ag ashy f",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      118,
+      294,
+      401,
+      37
+    ],
+    "text": "Customs (Amendment) Act,",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      211,
+      349,
+      212,
+      27
+    ],
+    "text": "No. 34 of 1966",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      213,
+      501,
+      206,
+      14
+    ],
+    "text": "Date of Assent : October 14, 1966",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      197,
+      603,
+      312,
+      13
+    ],
+    "text": "Printed on the Orders of Government .",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143,
+      711,
+      347,
+      11
+    ],
+    "text": "Finds she, Gomnnnmer Pai, Canton, o_o",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143,
+      721,
+      346,
+      11
+    ],
+    "text": "i",
+    "mean_p_confidence": 0.07
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143,
+      738,
+      346,
+      20
+    ],
+    "text": "Se ae ee",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143,
+      749,
+      345,
+      22
+    ],
+    "text": "Pomicinind Boretu, 2. O Bor S00 Coronas 1, betore 20eR",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143,
+      765,
+      345,
+      23
+    ],
+    "text": "Decanter each your in repeat of the near jalowine date",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143,
+      779,
+      345,
+      21
+    ],
+    "text": "goer es re ad",
+    "mean_p_confidence": 0.09
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143,
+      811,
+      344,
+      13
+    ],
+    "text": "Price: 15 cents Postage : 10 cents",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      543,
+      9,
+      4,
+      13
+    ],
+    "text": "\\",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119,
+      35,
+      301,
+      17
+    ],
+    "text": "Customs (Amendment) Act, No. 34 of 1966",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      66,
+      98,
+      14
+    ],
+    "text": "L. DO. 87/62.",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118,
+      88,
+      410,
+      21
+    ],
+    "text": "AN Acr To AMEND THe Customs ORDINANCE. epoie ts",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      146,
+      108,
+      377,
+      20
+    ],
+    "text": "[Date of Assent: October 14, 1966] Pe 2.\"",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      52,
+      135,
+      406,
+      19
+    ],
+    "text": "* BE it ensoted by the Queen's Most Excellent",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      151,
+      376,
+      16
+    ],
+    "text": "Majesty, by and with the advice and consent of the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      166,
+      376,
+      18
+    ],
+    "text": "Senate and the House of Representatives of Ceylon in",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      182,
+      375,
+      16
+    ],
+    "text": "this present Parliament assembled, and by the",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      198,
+      257,
+      15
+    ],
+    "text": "authority of the same, as followa:",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      97,
+      229,
+      428,
+      15
+    ],
+    "text": "1. This Act may be ited as the Customs Start ste,",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      244,
+      244,
+      16
+    ],
+    "text": "(Amendment) Act, No, 34 of 1968.",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      276,
+      477,
+      15
+    ],
+    "text": "1 & Section 167 of the Customs Ordinance ig hereby Ameadwens af",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      290,
+      458,
+      20
+    ],
+    "text": "amended by the substitution, for the definition of tho 4m 20\",,,",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      306,
+      461,
+      17
+    ],
+    "text": "term * true wholesale market value, of the following \"",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      322,
+      122,
+      13
+    ],
+    "text": "new definition :",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98,
+      345,
+      357,
+      16
+    ],
+    "text": "* * true wholesale market valve ', in relation to any",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      143,
+      361,
+      213,
+      16
+    ],
+    "text": "goods imported into Ceylon,",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      144,
+      384,
+      310,
+      28
+    ],
+    "text": "(a) megns, whether ot not such goods were $0",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      190,
+      399,
+      264,
+      29
+    ],
+    "text": "imported as Colombo, the winlesale",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      190,
+      416,
+      264,
+      17
+    ],
+    "text": "cash price, less trade discount, for",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      190,
+      431,
+      264,
+      18
+    ],
+    "text": "wehich suck goods or goods of the like",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      447,
+      392,
+      18
+    ],
+    "text": "kind and quality are sold, or",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      190,
+      457,
+      264,
+      21
+    ],
+    "text": "capable of being sold, at Colombo at",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      190,
+      477,
+      263,
+      16
+    ],
+    "text": "the time of importation without any",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      190,
+      493,
+      263,
+      13
+    ],
+    "text": "abatement or deduction whatsoever",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      189,
+      509,
+      264,
+      16
+    ],
+    "text": "except of the amount of the import",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      189,
+      524,
+      222,
+      16
+    ],
+    "text": "duties payable on auch goods; or",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      143,
+      547,
+      309,
+      17
+    ],
+    "text": "() means, if the wholesale cash price",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      190,
+      563,
+      263,
+      19
+    ],
+    "text": "referred to in paragraph (a) is not",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      189,
+      578,
+      263,
+      15
+    ],
+    "text": "ascertainable, the cost at which such",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      189,
+      594,
+      262,
+      16
+    ],
+    "text": "goods or goods of the like kind and",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      189,
+      609,
+      262,
+      17
+    ],
+    "text": "quality are capable of being delivered",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      189,
+      625,
+      262,
+      16
+    ],
+    "text": "at th place of importation without",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      189,
+      640,
+      262,
+      16
+    ],
+    "text": "any abatement or deduotion",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      189,
+      655,
+      262,
+      16
+    ],
+    "text": "whateoever except of the amount of the",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      189,
+      671,
+      260,
+      16
+    ],
+    "text": "import duties payable on such goods; .",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98,
+      838,
+      95,
+      9
+    ],
+    "text": "a sniesare ith",
+    "mean_p_confidence": 0.24
+  }
+]

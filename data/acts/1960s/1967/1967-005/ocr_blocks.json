@@ -1,0 +1,508 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      129,
+      43,
+      376,
+      24
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      215,
+      88,
+      195,
+      18
+    ],
+    "text": "2nd Session 1966-67",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      300,
+      117,
+      232,
+      24
+    ],
+    "text": "; MEE,",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      274,
+      161,
+      284,
+      27
+    ],
+    "text": "ili he 3",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      255,
+      152,
+      264,
+      64
+    ],
+    "text": "Ais fi wens",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      258,
+      201,
+      155,
+      42
+    ],
+    "text": "Bing oo",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      243,
+      235,
+      217,
+      41
+    ],
+    "text": "a Me",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70,
+      313,
+      483,
+      28
+    ],
+    "text": "Public Service Mutual Provident",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69,
+      353,
+      483,
+      38
+    ],
+    "text": "Association Rules (Retrospective",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71,
+      401,
+      481,
+      38
+    ],
+    "text": "Operation) Act, No. 5 of 1967",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      206,
+      513,
+      207,
+      13
+    ],
+    "text": "Date of Assent: March 28, 1967",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      184,
+      634,
+      250,
+      15
+    ],
+    "text": "Printed on the Orders of Government",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      127,
+      746,
+      363,
+      25
+    ],
+    "text": "Darchasea ht he Gomannann? Ponca SONY, CRonets",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      127,
+      777,
+      361,
+      11
+    ],
+    "text": "Annual Subscription (including Bills) Rs. 30 (Local), Rs. 40",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      127,
+      784,
+      361,
+      39
+    ],
+    "text": "Poncietidned Bones, P, \"box Sst, Couaeg a betere 20th",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      127,
+      810,
+      360,
+      32
+    ],
+    "text": "seein ete ape 2, oon me",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      61,
+      854,
+      426,
+      14
+    ],
+    "text": ". Price: 15 cents Postage: 10 cents",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      41,
+      338,
+      13
+    ],
+    "text": "Public Service Mutual Provident Association",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      109,
+      57,
+      273,
+      29
+    ],
+    "text": "Rules (Retreepecting Operation) Act,",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      210,
+      74,
+      86,
+      16
+    ],
+    "text": "a, & of 1967",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      53,
+      106,
+      105,
+      13
+    ],
+    "text": "L. DO. 21/66.",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      54,
+      135,
+      388,
+      13
+    ],
+    "text": "AN ACT 10 PROVIDE THAT A CERTAIN RULE MADE UNDER",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      150,
+      372,
+      14
+    ],
+    "text": "que Pusiic Service Murvat Provivent Assocta-",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      167,
+      372,
+      13
+    ],
+    "text": "TION ORDINANCE RELATING T0 PAYMENTS OUT OF THE",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      182,
+      372,
+      14
+    ],
+    "text": "DEATH DONATION FUND ESTABLISHED UNDER SECTION 16",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      199,
+      371,
+      14
+    ],
+    "text": "OF THE AFORESAID ORDINANCE SHALL HAVE RETROSPEC-",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      219,
+      113,
+      9
+    ],
+    "text": "TIVE OPERATION.",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      124,
+      247,
+      251,
+      18
+    ],
+    "text": "(Date of Assent: March 28, 1967]",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57,
+      279,
+      386,
+      17
+    ],
+    "text": "BE it enacted by the Queens Most Excellent Majesty,",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57,
+      295,
+      387,
+      31
+    ],
+    "text": "by and with the advice and consent of the Senate and",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      311,
+      373,
+      18
+    ],
+    "text": "1 House of Representatives of Ceylon in this present",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57,
+      327,
+      388,
+      17
+    ],
+    "text": "Parliament assembled, and by the authority of the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57,
+      345,
+      141,
+      16
+    ],
+    "text": "same, as follows :",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      375,
+      446,
+      18
+    ],
+    "text": "1, This Act may be cited as the Public Service short tits",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58,
+      391,
+      388,
+      17
+    ],
+    "text": "Mutual Provident Association Rules (Retrospective",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58,
+      409,
+      224,
+      18
+    ],
+    "text": "Operation) Act, No. of 1967.",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      440,
+      454,
+      16
+    ],
+    "text": "2. Notwithstanding anything in section 16 of the Ratropasire",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      443,
+      486,
+      31
+    ],
+    "text": "Public Semice Mutual Providert. Association Ordine seer ot",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      472,
+      486,
+      18
+    ],
+    "text": "ance, the rules made under the aforesaid section amd tectioa 46 of tbe",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      487,
+      476,
+      21
+    ],
+    "text": "published in Gazette No. 5,147 of June 17, 1802, as Erbe Service",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      504,
+      452,
+      32
+    ],
+    "text": "amended by any sabeequent ule, shall have effect, and Prorient",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      516,
+      481,
+      38
+    ],
+    "text": "be deemed for all purposes to have had effect, as Shough Segenten a",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      537,
+      466,
+      17
+    ],
+    "text": "the amendment made in those rules by the rule made publnted in",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      552,
+      473,
+      19
+    ],
+    "text": "under the aforesaid section and published in Gazette Gent,",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      569,
+      476,
+      19
+    ],
+    "text": "No. 14,508 of September 17, 1965, was 20 made on the Sepember if,",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      584,
+      430,
+      20
+    ],
+    "text": "first day of January, 1948. 1086.",
+    "mean_p_confidence": 0.73
+  }
+]

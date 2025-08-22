@@ -1,0 +1,2576 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      115,
+      20,
+      371,
+      25
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      203,
+      65,
+      195,
+      19
+    ],
+    "text": "2nd Session 1966-67",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      291,
+      95,
+      238,
+      38
+    ],
+    "text": "ng",
+    "mean_p_confidence": 0.05
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      281,
+      117,
+      261,
+      21
+    ],
+    "text": "ey (oo a",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      267,
+      117,
+      193,
+      47
+    ],
+    "text": "CSM, (o7 a",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      255,
+      152,
+      288,
+      33
+    ],
+    "text": "Migs fo 2, :",
+    "mean_p_confidence": 0.08
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      257,
+      173,
+      292,
+      16
+    ],
+    "text": "ef! 2 tg BY firrvon",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      253,
+      167,
+      293,
+      36
+    ],
+    "text": "Bie (Foe |",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      255,
+      189,
+      291,
+      32
+    ],
+    "text": "XD ay, \\. \\ ,",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      242,
+      214,
+      300,
+      35
+    ],
+    "text": "Aue XS",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      139,
+      302,
+      329,
+      37
+    ],
+    "text": "Rice Subsidy Tax Act,",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      197,
+      352,
+      212,
+      28
+    ],
+    "text": "No. 13 of 1967",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      204,
+      481,
+      198,
+      14
+    ],
+    "text": "Date of Assent; June 13, 1967",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      182,
+      592,
+      244,
+      15
+    ],
+    "text": "Printed on the Orders of Government",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      95,
+      731,
+      388,
+      13
+    ],
+    "text": "- Printed at the Govennenz Purss, Crvton. To be",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      128,
+      743,
+      355,
+      13
+    ],
+    "text": "i Rr re",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      128,
+      760,
+      355,
+      15
+    ],
+    "text": "peas) subsenpon (clang a 90 Clas, Te",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      130,
+      772,
+      353,
+      14
+    ],
+    "text": "(Foreign), payable to the Suvermrenpent, Government",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      128,
+      777,
+      354,
+      29
+    ],
+    "text": "penne brat Stet Pcie ick Ge",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      128,
+      796,
+      354,
+      30
+    ],
+    "text": "Eee aces oe US ees",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      145,
+      813,
+      320,
+      14
+    ],
+    "text": "Teh Dar oe Sat ST ctptta al et BS a",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      129,
+      837,
+      352,
+      16
+    ],
+    "text": "Price: 30 conts Postage: 10 cents",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      107,
+      16,
+      293,
+      17
+    ],
+    "text": "Rice Subsidy Taw Act, No. 19 of 1967",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      50,
+      101,
+      14
+    ],
+    "text": "b. D.O. 64/68.",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      69,
+      388,
+      13
+    ],
+    "text": "AN ACT TO LEVY AND RECOVER A TAX FROM PERSONS",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      87,
+      373,
+      11
+    ],
+    "text": "WHOSE ASSESSABLE INCOME FOR A YEAR OF ASSESE-",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      100,
+      373,
+      14
+    ],
+    "text": "MENT WITHIN THE MEANING OF THE INLAND REVENUE",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      118,
+      373,
+      15
+    ],
+    "text": "Acr, No, 4 oF 1963, 18 TWELVE THOUSAND RUPEES",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      52,
+      136,
+      397,
+      11
+    ],
+    "text": "> AND OVER IN RESPECT OF RICE TO BE SUPPLIED TO BUCH",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      153,
+      374,
+      10
+    ],
+    "text": "PERSONS AND THE MEMBERS OF THEIR FAMILIES UNDER",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      166,
+      374,
+      13
+    ],
+    "text": "tae REGULATIONS MADE UNDER THE Foop ConTROL",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      183,
+      373,
+      13
+    ],
+    "text": "ACT FOR THE RELEVANT PERIOD CORRESFONDING TO",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      201,
+      372,
+      13
+    ],
+    "text": "THAT YEAR OF ASSESSMENT, AND FOR MATTERG",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      219,
+      165,
+      9
+    ],
+    "text": "CONNECTED THEREWITH.",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      137,
+      248,
+      234,
+      17
+    ],
+    "text": "[Date of Assent: June 13, 1967]",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      272,
+      388,
+      17
+    ],
+    "text": "BE it enacted by the Queen's Most Excellent Majesty,",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      288,
+      389,
+      29
+    ],
+    "text": "by and with the advieo and consent of the Senate and",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      305,
+      389,
+      16
+    ],
+    "text": "the House of Representatives of Ceylon in this present",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      321,
+      389,
+      16
+    ],
+    "text": "Parliament assembled, and by the authority of the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      338,
+      229,
+      15
+    ],
+    "text": "same, as follows: :",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      365,
+      446,
+      29
+    ],
+    "text": "4. | This Act ray be cited as the Rice Subsidy Tax ston site,",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      382,
+      446,
+      14
+    ],
+    "text": "Act, No. 13 of 1967. :",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      410,
+      444,
+      17
+    ],
+    "text": "2. This Act shall apply to every individual whose Applicition",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      425,
+      460,
+      18
+    ],
+    "text": "assessable income as determined for the purposes of * tb Ae.",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      431,
+      388,
+      28
+    ],
+    "text": "ihe Tnland Revenue Act, No. 4 of 1963, for the year",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      458,
+      389,
+      19
+    ],
+    "text": "of assessment which corresponds to the rlevant period",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      475,
+      388,
+      18
+    ],
+    "text": "is twelve thousand ropees and over. Every such",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      491,
+      388,
+      14
+    ],
+    "text": "individual shall hereafter in this Act be referred to",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      507,
+      223,
+      17
+    ],
+    "text": "as a person liable to the tax .",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      534,
+      457,
+      36
+    ],
+    "text": "3. (1) Subject as hereinafter Provided there shall hasge af the",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      552,
+      470,
+      19
+    ],
+    "text": "be charged from every person liable to the tax foreach Bis Sear",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      570,
+      388,
+      17
+    ],
+    "text": "relevant period @ tax called the Rice Subsidy Tax (in",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      585,
+      388,
+      18
+    ],
+    "text": "this Act referred to as ' the tax ) calculated at such",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      602,
+      388,
+      18
+    ],
+    "text": "rate as the Minister may, by notification published in",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      618,
+      388,
+      19
+    ],
+    "text": "the Gazette, determine in respect of the cost of the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      635,
+      388,
+      17
+    ],
+    "text": "rice to which such person and other individuals, who",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      650,
+      388,
+      18
+    ],
+    "text": "for the purposes of the Inland Revenue Act, No. 4 of",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      656,
+      387,
+      28
+    ],
+    "text": "1963, are deemed to be members of the family of",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      680,
+      389,
+      37
+    ],
+    "text": "which such person is deemed to be the head, is or are",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      700,
+      388,
+      17
+    ],
+    "text": "entitled to be supplied under the Regulations made",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      701,
+      211,
+      39
+    ],
+    "text": "under the Food Control Act;",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      740,
+      371,
+      14
+    ],
+    "text": "Provided that where the Assessor is satisfied that",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      756,
+      387,
+      18
+    ],
+    "text": "such person of any individual who is deemed to be a",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      772,
+      386,
+      18
+    ],
+    "text": "member of his family for the purposes of the Inland",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      789,
+      228,
+      16
+    ],
+    "text": "Revenue Act, No, 4 of 1963,",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      807,
+      368,
+      19
+    ],
+    "text": "(@) ha not been issued a ration book under the",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      124,
+      823,
+      320,
+      20
+    ],
+    "text": "aforesaid Regulations for the supply of rice",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      124,
+      840,
+      188,
+      18
+    ],
+    "text": "for the relevant period, or",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      862,
+      88,
+      10
+    ],
+    "text": "Te ereaors cae",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      189,
+      7,
+      344,
+      17
+    ],
+    "text": "2 Rice Subsidy Tam-Act, No. 13. of 1967",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      207,
+      39,
+      375,
+      17
+    ],
+    "text": "() has surrendered to the Food Controller or other",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      254,
+      56,
+      329,
+      17
+    ],
+    "text": "officer authorized by the Food Controller the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      254,
+      72,
+      338,
+      17
+    ],
+    "text": "ration book issued for the relevant period, -",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      191,
+      99,
+      392,
+      17
+    ],
+    "text": "then, the person liable to the tax shall not be required",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      190,
+      116,
+      405,
+      17
+    ],
+    "text": "to pay the tax in respect of the rice to be supplied on",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      191,
+      132,
+      120,
+      13
+    ],
+    "text": "that ration book.",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      208,
+      159,
+      376,
+      17
+    ],
+    "text": "(2) A certificate issued by the Food Controller or",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      190,
+      176,
+      394,
+      17
+    ],
+    "text": "other officer authorized by the Food Controller shall",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      191,
+      192,
+      392,
+      17
+    ],
+    "text": "be conclusive proof of the matters specified in",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      191,
+      209,
+      393,
+      17
+    ],
+    "text": "paragraph (a) or paragraph (8) of the proviso to",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      190,
+      225,
+      106,
+      17
+    ],
+    "text": "sub-section (1).",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93,
+      257,
+      490,
+      26
+    ],
+    "text": "Commissioner 4, The Commissioner shall be the authority respon-",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      97,
+      276,
+      488,
+      20
+    ],
+    "text": "recone gible for the collection and recovery of the tax for each",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      96,
+      295,
+      210,
+      17
+    ],
+    "text": "Silesion xa relevant period.",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      97,
+      310,
+      53,
+      10
+    ],
+    "text": "seovery of",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      97,
+      320,
+      40,
+      9
+    ],
+    "text": "te ae",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      97,
+      335,
+      489,
+      18
+    ],
+    "text": "Aassior 0 5. The Assessor shall give notice in writing of the",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      98,
+      351,
+      488,
+      19
+    ],
+    "text": "give notice of assessment of the tax payable for the relevant period",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      99,
+      367,
+      487,
+      18
+    ],
+    "text": "preniase to @ person liable to the tax and such person shall",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      97,
+      369,
+      504,
+      38
+    ],
+    "text": "0 the tax, pay he amount of the tax specified in such notice. |",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      99,
+      391,
+      503,
+      51
+    ],
+    "text": "awe my ' 8. Notwithstanding anything in section 5, the |",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      99,
+      440,
+      488,
+      21
+    ],
+    "text": "pave, Assessor may by notice im writing require a person by",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      99,
+      457,
+      487,
+      19
+    ],
+    "text": "with tbe fox Whom the tax is payable for any relevant period to pay",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      99,
+      468,
+      503,
+      38
+    ],
+    "text": "Ritts\" the tax together with the tax payable by such person .",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      99,
+      488,
+      490,
+      18
+    ],
+    "text": "Fever act, under the Inland Revenue Act, No. 4 of 1983, for the",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      100,
+      505,
+      488,
+      19
+    ],
+    "text": "Xe. 4ef 1868. year of assessment corresponding to such relevant",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      121,
+      521,
+      467,
+      19
+    ],
+    "text": ", period or any other year of assessment as may be",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      118,
+      539,
+      242,
+      16
+    ],
+    "text": "! directed in the notice",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      101,
+      572,
+      488,
+      20
+    ],
+    "text": "Redustion of 7. Where any person liable to the tax furnishes",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      101,
+      588,
+      487,
+      21
+    ],
+    "text": "the ax 30 the proof to the Assessor at any time after he has received",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      102,
+      605,
+      487,
+      31
+    ],
+    "text": "worrender ofthe the notice of assessment of the tax payable by him for",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      102,
+      621,
+      487,
+      21
+    ],
+    "text": "souens of tbe any relevant. period that he or any individnal, who for",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      102,
+      638,
+      487,
+      20
+    ],
+    "text": "pan of we the purposes of the Inland Revenue Act, No. 4 of 1963,",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      103,
+      654,
+      486,
+      20
+    ],
+    "text": "relevant eetled is deemed to be a member of his family, has surrender-",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      103,
+      670,
+      487,
+      29
+    ],
+    "text": "Sty smovon ed to the Food Controller or other officer authorized by",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      104,
+      687,
+      477,
+      19
+    ],
+    "text": "pelt ss 5 3 che Food Controller the coupons of the ration boo!",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      104,
+      703,
+      486,
+      19
+    ],
+    "text": "swoonnt properly relating to a part of that period, then, the tax payable",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      100,
+      710,
+      489,
+      28
+    ],
+    "text": "cchurgeable, under section 3 for that period shall be reduced by",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      201,
+      735,
+      389,
+      20
+    ],
+    "text": "such amount as will be equivalent to the cost of the",
+    "mean_p_confidence": 0.88
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      202,
+      752,
+      387,
+      21
+    ],
+    "text": "rice which will not be aupplied on that ration book",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      203,
+      768,
+      386,
+      20
+    ],
+    "text": "for that part of that period, and accordingly the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      202,
+      785,
+      388,
+      19
+    ],
+    "text": "person liable to the tax who has paid as tax an ammount",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      203,
+      801,
+      387,
+      19
+    ],
+    "text": "In excess of the amount, with which he was properly",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      202,
+      818,
+      388,
+      19
+    ],
+    "text": "chargeable for that period shall be entitled to have",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      203,
+      835,
+      279,
+      18
+    ],
+    "text": "refunded the amount so paid in excess,",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115,
+      13,
+      342,
+      16
+    ],
+    "text": "Rice Subsidy Tax Act, No, 18 of i967 3",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83,
+      45,
+      437,
+      18
+    ],
+    "text": "8 (1) The provisions of sub-sections (1), (6) and Provision",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      68,
+      58,
+      478,
+      23
+    ],
+    "text": "(8) of section 106 of the Inland Revenue Act, No. 4 EAI,",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67,
+      70,
+      426,
+      42
+    ],
+    "text": "of 1983, shail apply as if such provisions were fsx.",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67,
+      95,
+      253,
+      18
+    ],
+    "text": "provisions of this Act and as if",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      51,
+      124,
+      310,
+      17
+    ],
+    "text": "+ (@) in cub-section (1) of thet section",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      131,
+      146,
+      326,
+      19
+    ],
+    "text": "(i) there were substituted, for the words",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      180,
+      165,
+      277,
+      16
+    ],
+    "text": "the income tax, wealth tax or gifts",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      179,
+      181,
+      255,
+      16
+    ],
+    "text": "tax, the words the tax ?; and",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      126,
+      205,
+      331,
+      17
+    ],
+    "text": "Gi) there were omitted the words ' or, where",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      180,
+      222,
+      277,
+      17
+    ],
+    "text": "such tax or instalment thereof is pay-",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      179,
+      222,
+      278,
+      39
+    ],
+    "text": "able by more than one person or is a",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      179,
+      247,
+      277,
+      41
+    ],
+    "text": "partnership, then each of such persons",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      178,
+      271,
+      278,
+      17
+    ],
+    "text": "or each partner in the partnership, *;",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      179,
+      289,
+      27,
+      12
+    ],
+    "text": "and",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83,
+      316,
+      373,
+      16
+    ],
+    "text": "() for sub-section (6) of that section, there",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      131,
+      333,
+      253,
+      16
+    ],
+    "text": "were substituted the following:",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      165,
+      356,
+      292,
+      18
+    ],
+    "text": "(@) Where any tax in default is",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      147,
+      373,
+      309,
+      18
+    ],
+    "text": "reduced under the provisions of section 7",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      147,
+      390,
+      309,
+      17
+    ],
+    "text": "of this Act the sum for the purposes of",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      147,
+      406,
+      309,
+      17
+    ],
+    "text": "sub-section (6) shall be calculated on the",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      147,
+      423,
+      149,
+      14
+    ],
+    "text": "tax as 60 reduced.",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      84,
+      451,
+      372,
+      18
+    ],
+    "text": "(2} The provisions of section 107 of the Inland",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      68,
+      467,
+      388,
+      18
+    ],
+    "text": "Revenue Act, No. 4 of 1963, shall apply as if such",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67,
+      484,
+      389,
+      23
+    ],
+    "text": "provisions were provisions of this Act and as if, for",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67,
+      500,
+      390,
+      18
+    ],
+    "text": "the expression \" income tax or wealth tax or income",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67,
+      517,
+      390,
+      19
+    ],
+    "text": "tax and wealth tax , wherever that expression occurs",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67,
+      534,
+      388,
+      17
+    ],
+    "text": "in that section, there were substituted the expression",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      68,
+      550,
+      65,
+      14
+    ],
+    "text": "the tax,",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      82,
+      589,
+      436,
+      18
+    ],
+    "text": "The provisions of Chapter XIV of the Inland Provision",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      68,
+      604,
+      459,
+      22
+    ],
+    "text": "Revenas Act, No. 4 of 1963, shall apply as if they refine,",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67,
+      611,
+      445,
+      45
+    ],
+    "text": "were Provisions of this Act, subject to the following Tene",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      68,
+      639,
+      119,
+      14
+    ],
+    "text": "modifications :-",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      84,
+      663,
+      371,
+      18
+    ],
+    "text": "(1) in section 108, for the words income tax,",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      131,
+      679,
+      324,
+      16
+    ],
+    "text": "wealth tax or gifts tax , there were substi-",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      132,
+      685,
+      212,
+      26
+    ],
+    "text": "thted the words * the tax;",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      84,
+      727,
+      147,
+      17
+    ],
+    "text": "(2) in section 109,",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      132,
+      749,
+      322,
+      21
+    ],
+    "text": "(@) in sub-section (1), in paragraph {iii) of",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      181,
+      769,
+      128,
+      13
+    ],
+    "text": "that sub-section",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      182,
+      789,
+      271,
+      21
+    ],
+    "text": "(@ for the words on year of",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      233,
+      807,
+      217,
+      15
+    ],
+    "text": "assessment, there were",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      229,
+      821,
+      223,
+      17
+    ],
+    "text": "substituted the worda one",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      230,
+      838,
+      159,
+      19
+    ],
+    "text": "relevant period , and",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144,
+      12,
+      345,
+      18
+    ],
+    "text": "4 Rie Subsidy Tax Act, No. 18 of 1967",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      257,
+      45,
+      281,
+      17
+    ],
+    "text": "(ii) for the words for one year",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      309,
+      61,
+      229,
+      17
+    ],
+    "text": "only,', there were substituted",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      310,
+      78,
+      229,
+      14
+    ],
+    "text": "the words for one relevant",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      309,
+      95,
+      137,
+      17
+    ],
+    "text": "period only,, and",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      211,
+      119,
+      343,
+      17
+    ],
+    "text": "@) in sub-section (2), for the words one ,",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      259,
+      135,
+      281,
+      18
+    ],
+    "text": "complete year of assessment , there",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      260,
+      152,
+      279,
+      14
+    ],
+    "text": "were substituted the words one",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      260,
+      169,
+      133,
+      17
+    ],
+    "text": "relevant period ;",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      163,
+      195,
+      377,
+      16
+    ],
+    "text": "{3) in section 118, for the words income tax,",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      211,
+      211,
+      329,
+      16
+    ],
+    "text": "wealth tax or gifts tax, there were substi-",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      212,
+      213,
+      210,
+      39
+    ],
+    "text": "tuted the words * the tax;",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      164,
+      254,
+      376,
+      18
+    ],
+    "text": "(4) in section 115, for the words any income tax,",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      212,
+      270,
+      329,
+      18
+    ],
+    "text": "wealth tax or gifts tax ', there were substi-",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      213,
+      288,
+      240,
+      15
+    ],
+    "text": "tuted the words the tax ; and",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      165,
+      313,
+      359,
+      18
+    ],
+    "text": "(6) the provisions of section 116 were omitted.",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      50,
+      354,
+      493,
+      23
+    ],
+    "text": "Romer at 40. (1) An Assessor may, by notice in writing to",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      51,
+      374,
+      492,
+      18
+    ],
+    "text": "aatie'teme any person liable to the tax, require such persn to",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      50,
+      386,
+      493,
+      27
+    ],
+    "text": "fetiepaiee fornish within such time as may be specified in the",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      51,
+      411,
+      492,
+      16
+    ],
+    "text": "of this Act, notice such returns or other information as may be",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      150,
+      431,
+      285,
+      16
+    ],
+    "text": "necessary for the purposes of this Act.",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      167,
+      457,
+      376,
+      19
+    ],
+    "text": "(2) Where any person fails to comply with the",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151,
+      477,
+      393,
+      18
+    ],
+    "text": "requirements of a notice under sub-section (1), or",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151,
+      495,
+      394,
+      18
+    ],
+    "text": "furnishes any return or information which to the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      152,
+      514,
+      392,
+      18
+    ],
+    "text": "knowledge of such person is untrue or incorrect, such",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      153,
+      534,
+      392,
+      18
+    ],
+    "text": "person shall be guilty of an offence and ahall on con-",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      153,
+      552,
+      392,
+      18
+    ],
+    "text": "viction after summary trial before a Magistrate be",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      154,
+      571,
+      392,
+      17
+    ],
+    "text": "liable to pay a fine not exceeding one thousand rupees",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      153,
+      589,
+      392,
+      17
+    ],
+    "text": "or to imprisonment of either description for a term",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      154,
+      606,
+      392,
+      19
+    ],
+    "text": "not exceeding six months, or to both such fine and",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      155,
+      627,
+      101,
+      16
+    ],
+    "text": "imprisonment.",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      50,
+      661,
+      496,
+      30
+    ],
+    "text": "Interpratstion, 44. (1) In this Act, unless the context otherwise",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      156,
+      686,
+      74,
+      16
+    ],
+    "text": "requires",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      174,
+      710,
+      372,
+      17
+    ],
+    "text": "' Assessor shall have the same meaning as in",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      221,
+      727,
+      291,
+      16
+    ],
+    "text": "the Inland Revenue Act, No. 4 of 1963;",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      174,
+      753,
+      373,
+      19
+    ],
+    "text": "Commissioner * means the Commissioner of In-",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      222,
+      770,
+      325,
+      16
+    ],
+    "text": "land Revenue and includes a Deputy Commis-",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      222,
+      786,
+      326,
+      15
+    ],
+    "text": "sioner of Inland Revenue and an Assistant",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      223,
+      801,
+      325,
+      19
+    ],
+    "text": "Commissioner of Inland Revenue specially",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      223,
+      818,
+      325,
+      19
+    ],
+    "text": "authorized by the Commissioner to act on his",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      223,
+      837,
+      49,
+      14
+    ],
+    "text": "behalf;",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      103,
+      11,
+      344,
+      18
+    ],
+    "text": "Rice Subsidy Tax Act, No. 18 of 1967 5",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      73,
+      44,
+      375,
+      15
+    ],
+    "text": "ration book means a ration book issued under",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      120,
+      61,
+      328,
+      18
+    ],
+    "text": "the Food Control Regulations made under",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      120,
+      78,
+      328,
+      18
+    ],
+    "text": "the Food Control Act for the purpose of",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      120,
+      96,
+      111,
+      17
+    ],
+    "text": "procaring rice ;",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      73,
+      106,
+      376,
+      44
+    ],
+    "text": "relevant period means the period commencing",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      46,
+      133,
+      401,
+      17
+    ],
+    "text": ". on December 19, 1966, and ending on Septem-",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      120,
+      150,
+      329,
+      17
+    ],
+    "text": "ber 30, 1967, and any subsequent period of",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      120,
+      166,
+      329,
+      18
+    ],
+    "text": "twelve months commencing on the first day of",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      120,
+      183,
+      60,
+      16
+    ],
+    "text": "October;",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      73,
+      208,
+      375,
+      17
+    ],
+    "text": "the year of assessment corresponding to the",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      120,
+      225,
+      193,
+      17
+    ],
+    "text": "televant period ? means",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      121,
+      245,
+      327,
+      17
+    ],
+    "text": "(i) in respect of the first-mentioned relevant",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      170,
+      263,
+      278,
+      16
+    ],
+    "text": "period, the year of assessment com-",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      170,
+      279,
+      222,
+      17
+    ],
+    "text": "mencing on April 1, 1966, and",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      117,
+      299,
+      330,
+      17
+    ],
+    "text": "Gi} in respect of a subsequent relevant period,",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      170,
+      316,
+      278,
+      17
+    ],
+    "text": "the subsequent period of twelve months",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      170,
+      333,
+      276,
+      17
+    ],
+    "text": "commencing on the first day of April.",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      73,
+      361,
+      375,
+      17
+    ],
+    "text": "(2) Where in any family of a person liable to the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      57,
+      370,
+      391,
+      41
+    ],
+    "text": "tax there is included an individual who is in receipt of",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      55,
+      394,
+      392,
+      17
+    ],
+    "text": "occupational income within the meaning of the Inland",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      56,
+      410,
+      391,
+      17
+    ],
+    "text": "Revenne Act, No. 4 of 1963, as amended by Act No. 18",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      56,
+      425,
+      390,
+      17
+    ],
+    "text": "of 1985, no account shall be taken of such individual",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      57,
+      443,
+      390,
+      18
+    ],
+    "text": "for the purpose of determining the tax payable by",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      56,
+      460,
+      89,
+      16
+    ],
+    "text": "such person.",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69,
+      489,
+      378,
+      29
+    ],
+    "text": "The power of the Assessor under section 5 to",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      56,
+      506,
+      391,
+      16
+    ],
+    "text": "make an assessment of the tax includes the power to",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      56,
+      522,
+      270,
+      14
+    ],
+    "text": "make a revised assessment of the tax.",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72,
+      550,
+      374,
+      18
+    ],
+    "text": "(4) Where under the provisions of the Food Control",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      56,
+      566,
+      391,
+      19
+    ],
+    "text": "Regulations made under the Food Control Act paddy",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      56,
+      584,
+      390,
+      16
+    ],
+    "text": "instead of rice is issued on a ration book to a person",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      56,
+      599,
+      389,
+      17
+    ],
+    "text": "liable to the tax or other member of his family, then",
+    "mean_p_confidence": 0.88
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      57,
+      616,
+      389,
+      23
+    ],
+    "text": "for the purposes of this Act the expression * cost",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      55,
+      632,
+      390,
+      30
+    ],
+    "text": "of ihe tice * shall be deemed to mean cost of the",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      56,
+      653,
+      42,
+      13
+    ],
+    "text": "paddy *'.",
+    "mean_p_confidence": 0.35
+  }
+]

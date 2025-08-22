@@ -1,0 +1,1366 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      133,
+      42,
+      375,
+      25
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      225,
+      94,
+      188,
+      18
+    ],
+    "text": "5th Session 1964-65",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      313,
+      126,
+      226,
+      28
+    ],
+    "text": "Leu Gin =",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      56,
+      121,
+      499,
+      58
+    ],
+    "text": "- ey (EEN",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      280,
+      147,
+      244,
+      60
+    ],
+    "text": "AMID an",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      270,
+      221,
+      284,
+      19
+    ],
+    "text": "ERS Tary3) a a",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      274,
+      218,
+      261,
+      34
+    ],
+    "text": "Nees wa",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      255,
+      248,
+      264,
+      37
+    ],
+    "text": "a ue ome,",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      95,
+      315,
+      439,
+      40
+    ],
+    "text": "Air Navigation (Amendment)",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      175,
+      364,
+      291,
+      33
+    ],
+    "text": "Act, No. 42 of 1964",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      196,
+      491,
+      233,
+      14
+    ],
+    "text": "Date of Assent: November 12, 1954",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      186,
+      614,
+      252,
+      16
+    ],
+    "text": "Printed on the Orders of Government",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      125,
+      728,
+      372,
+      24
+    ],
+    "text": "Pett ay te SONNET gaarns BONA, Coons",
+    "mean_p_confidence": 0.06
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      125,
+      757,
+      370,
+      14
+    ],
+    "text": "Annual Subscription (including Bills) Rs 30 (Lacal). Re. 40",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      47,
+      794,
+      446,
+      32
+    ],
+    "text": "<> BRB ul ciel one hl eg",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      91,
+      831,
+      490,
+      19
+    ],
+    "text": "i Prico: 20 cents Postage: 10 cents .",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      335,
+      4,
+      241,
+      15
+    ],
+    "text": "rt - '",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      110,
+      31,
+      299,
+      17
+    ],
+    "text": "Air Navigation (Amendment) Act, No. 48",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      222,
+      48,
+      52,
+      15
+    ],
+    "text": "of 1964",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      75,
+      506,
+      17
+    ],
+    "text": "L. DO. 19/65, \\",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      94,
+      103,
+      328,
+      13
+    ],
+    "text": "Aw Aor 70 amzNp THE Am Navicarion Act.",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      124,
+      131,
+      437,
+      17
+    ],
+    "text": "[Date of Assent: November 12, 1964] :",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      158,
+      378,
+      17
+    ],
+    "text": "BE it enacted by the Queen's Most Excellent Majesty,",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      174,
+      379,
+      14
+    ],
+    "text": "by and with the advice and consent of the Senate and",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      179,
+      380,
+      28
+    ],
+    "text": "the House of Representatives of Ceylon in this precent",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      206,
+      380,
+      16
+    ],
+    "text": "Pariiament assembled, and by the authority of the",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      223,
+      141,
+      15
+    ],
+    "text": "same, as follows:",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      254,
+      434,
+      17
+    ],
+    "text": "4. This Act may be cited as the Air Navigation bor te",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      272,
+      254,
+      16
+    ],
+    "text": "(Amendment) Act, No. 42 of 1964.",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      303,
+      441,
+      17
+    ],
+    "text": "2. The following new section is hereby inserted Inwnin ot",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      317,
+      477,
+      21
+    ],
+    "text": "immediately after section 13 of the Air Navigation 2csrsiyde*",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      338,
+      381,
+      15
+    ],
+    "text": "Act, and shall have effect as section 18a of that Act:",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      362,
+      382,
+      17
+    ],
+    "text": "Bower to 18s, (1) The Minister may, by Order",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      379,
+      372,
+      18
+    ],
+    "text": "rants published in the Gazette, declare any",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      397,
+      372,
+      19
+    ],
+    "text": "orr.hod area of land which is adjacent or con-",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      415,
+      372,
+      16
+    ],
+    "text": "twee - tiguous to an aerodrome, whether such",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      429,
+      373,
+      20
+    ],
+    "text": "strain, aerodrome is maintained for the purposes",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      163,
+      449,
+      288,
+      13
+    ],
+    "text": "of civil aviation or is maintained on 2",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      164,
+      466,
+      287,
+      17
+    ],
+    "text": "joint user basis, to be an area to which",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      164,
+      484,
+      286,
+      16
+    ],
+    "text": "regulations made under sub-section (8)",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      50,
+      501,
+      526,
+      19
+    ],
+    "text": ". shall be applicable. .",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      181,
+      525,
+      270,
+      16
+    ],
+    "text": "(2) An Order made under sub-section",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      164,
+      542,
+      287,
+      17
+    ],
+    "text": "(1) may define the area of land by setting",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      163,
+      560,
+      287,
+      15
+    ],
+    "text": "out the extent, the assessment number or",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      163,
+      577,
+      287,
+      14
+    ],
+    "text": "the metes and bounds of the land or each",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      163,
+      594,
+      248,
+      17
+    ],
+    "text": "of the lands comprised in the ares.",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      180,
+      618,
+      270,
+      17
+    ],
+    "text": "(8) Regulations may be made under",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      163,
+      636,
+      286,
+      17
+    ],
+    "text": "this Act for securing the safe and",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      163,
+      653,
+      395,
+      17
+    ],
+    "text": "efficient use for aviation purposes of any",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      163,
+      670,
+      285,
+      31
+    ],
+    "text": "avea of land in respect of which an Order",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      162,
+      688,
+      286,
+      16
+    ],
+    "text": "has been made by the Minister under sub-",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      163,
+      704,
+      285,
+      17
+    ],
+    "text": "section (1). Such regulations may provide",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      163,
+      713,
+      198,
+      33
+    ],
+    "text": "for :",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      179,
+      745,
+      267,
+      18
+    ],
+    "text": "{a) the regulation or prohibition of the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      226,
+      762,
+      220,
+      15
+    ],
+    "text": "construction, erection or instal-",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      226,
+      779,
+      220,
+      17
+    ],
+    "text": "lation of any buildings, struc",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      50,
+      795,
+      396,
+      17
+    ],
+    "text": ". : tures, masts, poles or objects of",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      225,
+      811,
+      220,
+      19
+    ],
+    "text": "natural growth upon any such",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      221,
+      821,
+      355,
+      33
+    ],
+    "text": "area; ,",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      45,
+      869,
+      530,
+      8
+    ],
+    "text": "wn",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      136,
+      33,
+      385,
+      17
+    ],
+    "text": "wo] @ \"Air Navigation (Amendment) Act, No. 42",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      105,
+      50,
+      278,
+      16
+    ],
+    "text": "of 1984",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      86,
+      78,
+      475,
+      17
+    ],
+    "text": ": @) the total or partial demolition of",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      339,
+      95,
+      222,
+      17
+    ],
+    "text": "any buildings or structures",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      339,
+      113,
+      155,
+      16
+    ],
+    "text": "within any such area;",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      291,
+      141,
+      271,
+      16
+    ],
+    "text": "() the restriction of the height of trees",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      339,
+      158,
+      226,
+      16
+    ],
+    "text": "upon any land within such area.",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      338,
+      174,
+      223,
+      17
+    ],
+    "text": "or the cutting down or reduction",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      340,
+      191,
+      222,
+      17
+    ],
+    "text": "in height of any trees within",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      340,
+      208,
+      103,
+      17
+    ],
+    "text": "any such area;",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      293,
+      235,
+      270,
+      18
+    ],
+    "text": "(@ the extinction of any private right",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      340,
+      252,
+      222,
+      18
+    ],
+    "text": "of way over land within such",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      41,
+      274,
+      336,
+      11
+    ],
+    "text": ": area;",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      293,
+      298,
+      271,
+      18
+    ],
+    "text": "(@ the restriction of the installation of",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      341,
+      315,
+      223,
+      18
+    ],
+    "text": "cables, mains, pipes or other",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      341,
+      332,
+      223,
+      18
+    ],
+    "text": "apparatus upon, across, under",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      293,
+      349,
+      271,
+      17
+    ],
+    "text": ": or over any land within such",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      299,
+      371,
+      78,
+      14
+    ],
+    "text": "| area;",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      294,
+      396,
+      271,
+      17
+    ],
+    "text": "(A the authorization of entry upon",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      178,
+      399,
+      387,
+      30
+    ],
+    "text": "net private lands for the purpose of",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      342,
+      427,
+      223,
+      18
+    ],
+    "text": "giving effect to the provisions",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      342,
+      436,
+      223,
+      41
+    ],
+    "text": "of any regulation made under",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      168,
+      458,
+      397,
+      19
+    ],
+    "text": ": . the preceding paragraphs of",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      342,
+      476,
+      114,
+      15
+    ],
+    "text": "this sub-section;",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      295,
+      505,
+      270,
+      18
+    ],
+    "text": "(g) the giving of notice in the Gazetts",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      343,
+      522,
+      232,
+      15
+    ],
+    "text": "and in one or more newspapers",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      342,
+      536,
+      224,
+      18
+    ],
+    "text": "by the Director of Civil Avia-",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      342,
+      553,
+      224,
+      18
+    ],
+    "text": "tion of regulations which are",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      342,
+      568,
+      224,
+      20
+    ],
+    "text": "proposed to be made under the",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      342,
+      584,
+      224,
+      20
+    ],
+    "text": "preceding paragraphs of this",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      342,
+      591,
+      224,
+      34
+    ],
+    "text": "sub-section and which will",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      342,
+      617,
+      223,
+      20
+    ],
+    "text": "adversely affect any lands,",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      330,
+      634,
+      236,
+      19
+    ],
+    "text": "buildings or structures and call-",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      343,
+      652,
+      223,
+      18
+    ],
+    "text": "ing for objections by the owners",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      342,
+      667,
+      223,
+      20
+    ],
+    "text": "of, or persons interested in,",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      342,
+      685,
+      224,
+      18
+    ],
+    "text": "auch lands, buildings or struc",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      342,
+      698,
+      225,
+      20
+    ],
+    "text": "tures against the making of",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      251,
+      719,
+      213,
+      17
+    ],
+    "text": ". auch regulations;",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      294,
+      744,
+      272,
+      20
+    ],
+    "text": "{h) the inquiry into objections, made",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      154,
+      763,
+      412,
+      17
+    ],
+    "text": ". by owners or other persons, in",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      342,
+      777,
+      224,
+      20
+    ],
+    "text": "pursuance of any regulation",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      342,
+      792,
+      224,
+      20
+    ],
+    "text": "under paragraph (a) of thia",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      342,
+      808,
+      225,
+      19
+    ],
+    "text": "aub-section, by the Director of",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      343,
+      825,
+      224,
+      18
+    ],
+    "text": "Civil Aviation or any officer",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      255,
+      844,
+      222,
+      18
+    ],
+    "text": ". appointed by him;",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      111,
+      36,
+      391,
+      19
+    ],
+    "text": "Air Navigation (Amendment) Act, No. 42 3 | *~",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      226,
+      54,
+      53,
+      16
+    ],
+    "text": "of 1964",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      186,
+      81,
+      270,
+      18
+    ],
+    "text": "{ the preferring of appeals to the",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      234,
+      99,
+      222,
+      17
+    ],
+    "text": "Permanent Secretary to the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      233,
+      116,
+      223,
+      17
+    ],
+    "text": "Ministry entrusted with the",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      233,
+      133,
+      223,
+      16
+    ],
+    "text": "subject or function of air",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      232,
+      146,
+      223,
+      37
+    ],
+    "text": "navigation from decisions made",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      232,
+      167,
+      224,
+      29
+    ],
+    "text": "op objections inquired into by",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      233,
+      182,
+      223,
+      14
+    ],
+    "text": "the Director of Civil Aviation",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      232,
+      199,
+      224,
+      17
+    ],
+    "text": "or other offcar appointed by",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      232,
+      214,
+      33,
+      16
+    ],
+    "text": "him;",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      185,
+      242,
+      270,
+      18
+    ],
+    "text": "(the payment of compensation for",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      233,
+      259,
+      223,
+      17
+    ],
+    "text": "any loss or damage satiered by",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      232,
+      275,
+      224,
+      17
+    ],
+    "text": "any person having any interest",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      232,
+      291,
+      223,
+      17
+    ],
+    "text": "in any building or structure",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      232,
+      299,
+      223,
+      41
+    ],
+    "text": "which is partially or totally",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      232,
+      323,
+      215,
+      14
+    ],
+    "text": "demolished in consequence of",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      231,
+      328,
+      223,
+      28
+    ],
+    "text": "any regulation made under",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      232,
+      356,
+      222,
+      21
+    ],
+    "text": "paragraph (3) of this sub-",
+    "mean_p_confidence": 0.59
+  }
+]

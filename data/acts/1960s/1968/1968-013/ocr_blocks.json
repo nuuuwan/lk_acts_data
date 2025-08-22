@@ -1,0 +1,992 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      37,
+      27,
+      2,
+      10
+    ],
+    "text": "t",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      37,
+      41,
+      450,
+      27
+    ],
+    "text": "i PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      37,
+      73,
+      454,
+      23
+    ],
+    "text": "| oly",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      39,
+      91,
+      479,
+      33
+    ],
+    "text": "7 3rd Session 1967-68.",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      37,
+      138,
+      486,
+      36
+    ],
+    "text": ". ey act? .",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      39,
+      170,
+      481,
+      24
+    ],
+    "text": ": haan a 7",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      37,
+      245,
+      318,
+      40
+    ],
+    "text": "* Ce",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      37,
+      327,
+      149,
+      12
+    ],
+    "text": "t . .",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      37,
+      331,
+      450,
+      29
+    ],
+    "text": "' Criminal Procedure Code",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      160,
+      372,
+      273,
+      38
+    ],
+    "text": "(Amendment) Act,",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      188,
+      420,
+      214,
+      28
+    ],
+    "text": "No. 13 of 1968",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      37,
+      539,
+      356,
+      13
+    ],
+    "text": ". Date of Assent; April 17, 1968",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      37,
+      624,
+      384,
+      25
+    ],
+    "text": "| Printed on the Orders of Government",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      105,
+      746,
+      378,
+      11
+    ],
+    "text": "Printed at the Govmunsing Passe, Ceram, Tobe",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      105,
+      756,
+      433,
+      13
+    ],
+    "text": "Peake at Oe GUN Og BTN, hans",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      101,
+      771,
+      383,
+      33
+    ],
+    "text": "Foie ease Gactuding Pile, Rs. 30 aoe. Re. 40",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      39,
+      786,
+      444,
+      34
+    ],
+    "text": "ESS SL Sram Cae tote",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      106,
+      854,
+      478,
+      18
+    ],
+    "text": "Price: 20 cents Postage: 10 cents {",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118,
+      31,
+      322,
+      17
+    ],
+    "text": "Criminal Procedure Code (Amendment) Act,",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      226,
+      52,
+      108,
+      16
+    ],
+    "text": "No. 18 of 1968",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      84,
+      97,
+      14
+    ],
+    "text": "Le. DO. 9/65.",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      109,
+      460,
+      21
+    ],
+    "text": "Aw Acr 10 AMEND Tae Catmtnan Procepurs Cops. Sherler 2.",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      158,
+      131,
+      377,
+      22
+    ],
+    "text": "[Date of Assent: April 17, 1968] Page 6c.",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      163,
+      384,
+      17
+    ],
+    "text": "BE it enacted by the Queen's Most Excellent Majesty,",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      182,
+      385,
+      16
+    ],
+    "text": "by and with the advice and consent of the Senate and",
+    "mean_p_confidence": 0.88
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      200,
+      384,
+      17
+    ],
+    "text": "the House of Representatives of Ceylon in this",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      219,
+      386,
+      16
+    ],
+    "text": "present Parliament assembled, and by the authority",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      238,
+      191,
+      14
+    ],
+    "text": "of the same, as follows:",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      103,
+      272,
+      440,
+      16
+    ],
+    "text": "4. This Act may be cited as the Criminal abot ais",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      290,
+      374,
+      17
+    ],
+    "text": "Procedure Code (Amendment) Act, No. 1 of 1988.",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      102,
+      325,
+      462,
+      21
+    ],
+    "text": "2, Section 2 of the Criminal Procedure Code, Amendimss of",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      340,
+      459,
+      20
+    ],
+    "text": "hereinafter referred to as the principal enactment, Ghapier 90.",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      362,
+      385,
+      17
+    ],
+    "text": "ts hereby amended by the insertion, immediately after",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      380,
+      385,
+      17
+    ],
+    "text": "the definition of Government Analyst, of the",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      399,
+      202,
+      17
+    ],
+    "text": "following new definition:",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      134,
+      425,
+      335,
+      16
+    ],
+    "text": "Government Examiner of Questioned Docu-",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      163,
+      444,
+      307,
+      17
+    ],
+    "text": "ments includes any pereon appointed to",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      163,
+      462,
+      307,
+      14
+    ],
+    "text": "be or to act as Government Examiner of",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      163,
+      481,
+      307,
+      16
+    ],
+    "text": "Questioned Documents or Assistant Govern-",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      160,
+      499,
+      308,
+      16
+    ],
+    "text": "ment Examiner of Questioned Documents;.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      101,
+      536,
+      458,
+      16
+    ],
+    "text": "8 Section 408 of the principal enactment, Ampoimeot of",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      552,
+      464,
+      20
+    ],
+    "text": "as amended by Act No. 25 of 1061, is hereby further sion 4",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      563,
+      479,
+      20
+    ],
+    "text": "amended as follows: Seca",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118,
+      600,
+      275,
+      16
+    ],
+    "text": "(1) in sub-section (8) of that section",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      166,
+      628,
+      304,
+      16
+    ],
+    "text": "(@ by the substitution, for the words",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      215,
+      648,
+      256,
+      17
+    ],
+    "text": "by such Government medical",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      213,
+      668,
+      258,
+      17
+    ],
+    "text": "officer, may be used , of the words",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      215,
+      688,
+      256,
+      17
+    ],
+    "text": "by such Government medical",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      213,
+      708,
+      258,
+      18
+    ],
+    "text": "officer, or any document purporting",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      214,
+      729,
+      256,
+      16
+    ],
+    "text": "to be a report under the hand of",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      214,
+      748,
+      256,
+      17
+    ],
+    "text": "the Government Examiner of Ques-",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      215,
+      768,
+      255,
+      18
+    ],
+    "text": "tioned Documents upon any doct-",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      213,
+      789,
+      257,
+      17
+    ],
+    "text": "ment examined by such Government",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      213,
+      808,
+      256,
+      17
+    ],
+    "text": "Examiner of Questioned Documents,",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      214,
+      828,
+      147,
+      17
+    ],
+    "text": "may be used; and",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      94,
+      851,
+      87,
+      10
+    ],
+    "text": "etn .eme cn",
+    "mean_p_confidence": 0.09
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      160,
+      22,
+      365,
+      17
+    ],
+    "text": "2 Criminal Procedure Code (Amendment) Act,",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      305,
+      43,
+      111,
+      15
+    ],
+    "text": "No. 18 of 1968",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      246,
+      75,
+      311,
+      17
+    ],
+    "text": "(8) by the substitution, in the proviso to",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      296,
+      92,
+      261,
+      16
+    ],
+    "text": "that sub-section, for the words ao",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      295,
+      109,
+      261,
+      16
+    ],
+    "text": "needed., of the words so needed,",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      297,
+      126,
+      261,
+      17
+    ],
+    "text": "or of proving the identity of the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      296,
+      143,
+      261,
+      17
+    ],
+    "text": "document examined by such Govern-",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      296,
+      161,
+      262,
+      16
+    ],
+    "text": "meat Examiner of Questioned Docu-",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      296,
+      178,
+      262,
+      16
+    ],
+    "text": "ments with the document in respect",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      296,
+      195,
+      262,
+      17
+    ],
+    "text": "of which his report is so needed. ;",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      198,
+      232,
+      283,
+      18
+    ],
+    "text": "(2) in sub-section (4) of that section",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      248,
+      260,
+      311,
+      18
+    ],
+    "text": "(a) by the substitution, for the words",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      299,
+      278,
+      261,
+      16
+    ],
+    "text": "\"the Government Analyst or a",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      299,
+      296,
+      260,
+      17
+    ],
+    "text": "Government Radiologist, of the",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      297,
+      314,
+      263,
+      16
+    ],
+    "text": "words \"the Government Analyst",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      297,
+      332,
+      263,
+      15
+    ],
+    "text": "or the Government Examiner of",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      298,
+      350,
+      262,
+      18
+    ],
+    "text": "Questioned Documents or a Govern-",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      298,
+      370,
+      184,
+      16
+    ],
+    "text": "ment Radiologist\"; and",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      249,
+      397,
+      312,
+      19
+    ],
+    "text": "() by the substitution, for the words",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      300,
+      415,
+      262,
+      17
+    ],
+    "text": "or Government Analyst , of the",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      298,
+      434,
+      264,
+      16
+    ],
+    "text": "words or Government Analyst or",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      299,
+      452,
+      263,
+      16
+    ],
+    "text": "Government Examiner of Ques",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      299,
+      471,
+      153,
+      15
+    ],
+    "text": "tioned Documents;",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      168,
+      502,
+      395,
+      21
+    ],
+    "text": "- (8) in sub-section (6) of that section, by the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      249,
+      521,
+      314,
+      18
+    ],
+    "text": "substitution, for the words or Govern-",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      249,
+      539,
+      314,
+      19
+    ],
+    "text": "ment Analyst , of the words or Govern-",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      249,
+      557,
+      315,
+      20
+    ],
+    "text": "ment Analyst or Government Examiner of",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      250,
+      577,
+      225,
+      19
+    ],
+    "text": "Questioned Documents ; and",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      202,
+      608,
+      364,
+      22
+    ],
+    "text": "(4) in the marginal note to that seotion, by the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      250,
+      627,
+      316,
+      19
+    ],
+    "text": "substitution, for the words Government",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      250,
+      644,
+      316,
+      19
+    ],
+    "text": "medical officer receivable, of the words",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      253,
+      663,
+      313,
+      18
+    ],
+    "text": "Government medical officer or Govern-",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      251,
+      682,
+      316,
+      17
+    ],
+    "text": "ment Examiner of Questioned Documents",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      252,
+      704,
+      93,
+      15
+    ],
+    "text": "receivable *.",
+    "mean_p_confidence": 0.36
+  }
+]
