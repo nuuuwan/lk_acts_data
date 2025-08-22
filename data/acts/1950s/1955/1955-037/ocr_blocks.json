@@ -1,0 +1,640 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      102,
+      13,
+      405,
+      24
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      134,
+      53,
+      399,
+      32
+    ],
+    "text": ": 4th Session 1955 \"a,",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      294,
+      100,
+      254,
+      34
+    ],
+    "text": "<> ve yas! wid",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      290,
+      122,
+      256,
+      40
+    ],
+    "text": "mine & QS",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      274,
+      150,
+      268,
+      22
+    ],
+    "text": "SN, NP ccecttaa",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      267,
+      165,
+      265,
+      21
+    ],
+    "text": "(7 (2) Sergent",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      113,
+      288,
+      386,
+      32
+    ],
+    "text": "Bank of Ceylon (Amendment)",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      177,
+      325,
+      260,
+      27
+    ],
+    "text": "Act, No. 37 of 1955",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      190,
+      455,
+      260,
+      14
+    ],
+    "text": "Date of Assent : November 12, 1955 .",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      183,
+      598,
+      233,
+      14
+    ],
+    "text": "Printed on the Orders of Government",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      120,
+      759,
+      352,
+      28
+    ],
+    "text": "Foal ola A PT, alt",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      120,
+      785,
+      351,
+      22
+    ],
+    "text": "Alans etke Sarwan, Gonntier Pperons",
+    "mean_p_confidence": 0.02
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      120,
+      803,
+      350,
+      16
+    ],
+    "text": "Boursv, Post Orercy Box 800, Secretariat, Colombo =",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      119,
+      822,
+      354,
+      14
+    ],
+    "text": "Price: 15 cents, Postage: 18 cents,",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      18,
+      359,
+      18
+    ],
+    "text": "Bank of Ceylon (Amendment) Act, No. 37 of 1955",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      48,
+      101,
+      14
+    ],
+    "text": "L. D0. 85/58.",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      74,
+      373,
+      16
+    ],
+    "text": "AN ACT To AMEND THE Bank or CEYLON ORDINANCE,",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      203,
+      92,
+      113,
+      13
+    ],
+    "text": "No. 53 oF 1838.",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      55,
+      122,
+      339,
+      19
+    ],
+    "text": ", [Date of Assent: November 12, 1955)",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      154,
+      361,
+      31
+    ],
+    "text": "BE it enacted by the Queens Most Excellent",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      166,
+      377,
+      25
+    ],
+    "text": "Majesty, by and with the advice and consent of the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      178,
+      377,
+      27
+    ],
+    "text": "Senate and the House of Representatives of Ceylon",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      204,
+      377,
+      19
+    ],
+    "text": "in this present Parliament assembled, and by the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      222,
+      262,
+      18
+    ],
+    "text": "authority of the same, as follows:",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      253,
+      430,
+      18
+    ],
+    "text": "4, This Act may be cited as the Bank of Ceylon tot tite",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      270,
+      241,
+      18
+    ],
+    "text": "(Amendment) Act, No. 87 of 1856.",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      301,
+      448,
+      21
+    ],
+    "text": "2, The First Schedule to the Bank of Ceylon Apenimeat of",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      315,
+      481,
+      22
+    ],
+    "text": "Ordinance is hereby amended a8 follows: Be",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108,
+      335,
+      434,
+      26
+    ],
+    "text": "(1) in seotion 1 of that Schedule, by the substitu Sosa ms,",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      155,
+      359,
+      297,
+      18
+    ],
+    "text": "tion, in paragraph (/) of that section, for",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      155,
+      376,
+      297,
+      17
+    ],
+    "text": "all the words from * or by other Govern-",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      154,
+      392,
+      298,
+      18
+    ],
+    "text": "ments to the end of that paragraph, of",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      155,
+      411,
+      119,
+      16
+    ],
+    "text": "the following :",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      173,
+      433,
+      279,
+      30
+    ],
+    "text": "or by the government of any other",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      449,
+      391,
+      18
+    ],
+    "text": "- country which is a member of the",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      172,
+      467,
+      280,
+      18
+    ],
+    "text": "Commonwealth, or by any company or",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      171,
+      482,
+      282,
+      18
+    ],
+    "text": "corporation registered or having its",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      171,
+      499,
+      263,
+      17
+    ],
+    "text": "principal place of business in Ceylon:",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      187,
+      523,
+      266,
+      15
+    ],
+    "text": "Provided, however, that the bank",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      171,
+      539,
+      283,
+      16
+    ],
+    "text": "shall not enter into eny transaction",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      172,
+      555,
+      281,
+      17
+    ],
+    "text": "affecting the stocks, shares, debentures,",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      171,
+      571,
+      283,
+      17
+    ],
+    "text": "mortgages, bonds of securities issued or",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      171,
+      587,
+      283,
+      17
+    ],
+    "text": "guaranteed by any such company or",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      171,
+      603,
+      283,
+      17
+    ],
+    "text": "corporation except on the recommenda-",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      171,
+      620,
+      283,
+      13
+    ],
+    "text": "tion of the General Manger of the bank",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      172,
+      624,
+      283,
+      29
+    ],
+    "text": "and with the approval of the directors",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      171,
+      652,
+      283,
+      17
+    ],
+    "text": "of the bank given by a resolution passed",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      172,
+      657,
+      282,
+      30
+    ],
+    "text": "by not less than three-fifths of such",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      172,
+      684,
+      282,
+      17
+    ],
+    "text": "directors at a meeting of them at which",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      172,
+      700,
+      282,
+      17
+    ],
+    "text": "any one of them who, or whose wife, is",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      173,
+      716,
+      281,
+      14
+    ],
+    "text": "a director or shareholder of that com-",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      173,
+      733,
+      282,
+      16
+    ],
+    "text": "pany or corporation shall not be present",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      173,
+      749,
+      281,
+      18
+    ],
+    "text": "during the consideration of the resolu-",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      56,
+      766,
+      398,
+      13
+    ],
+    "text": "n tion and shall not vote on the resolu-",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      173,
+      782,
+      82,
+      15
+    ],
+    "text": "tion. and",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      110,
+      810,
+      345,
+      17
+    ],
+    "text": "(2) im eoction 3 of that Schedule, by the omission",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157,
+      827,
+      230,
+      17
+    ],
+    "text": "of paragraph () of that section.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96,
+      842,
+      392,
+      21
+    ],
+    "text": "eH 2008-9800 (11/58), ~",
+    "mean_p_confidence": 0.29
+  }
+]

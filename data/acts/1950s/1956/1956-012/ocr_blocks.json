@@ -1,0 +1,574 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      94,
+      26,
+      404,
+      29
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      197,
+      67,
+      316,
+      43
+    ],
+    "text": "4th Session 1955-56 EER:",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      414,
+      97,
+      111,
+      13
+    ],
+    "text": "eae me,",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      403,
+      107,
+      134,
+      27
+    ],
+    "text": "is OS",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      45,
+      135,
+      513,
+      31
+    ],
+    "text": ". ey iz gress",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      260,
+      166,
+      288,
+      30
+    ],
+    "text": "[EF & dy",
+    "mean_p_confidence": 0.08
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      255,
+      184,
+      283,
+      51
+    ],
+    "text": "(ie) Nao",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      67,
+      318,
+      460,
+      42
+    ],
+    "text": "Village Communities (Amendment)",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      156,
+      370,
+      274,
+      31
+    ],
+    "text": "Act, No. 12 of 1956",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      189,
+      517,
+      220,
+      16
+    ],
+    "text": "Date of Assent: February 3, 1956",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      174,
+      639,
+      401,
+      25
+    ],
+    "text": "Printed on the Orders of Government",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      121,
+      783,
+      465,
+      14
+    ],
+    "text": "Printed at the Govrmnener Paces, Cevuin, To be i",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      121,
+      796,
+      363,
+      13
+    ],
+    "text": "purchased at the Government Pustications Burrad, COLOMBO",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      122,
+      810,
+      463,
+      13
+    ],
+    "text": "Apaual Subscription (including Bills) Rs, 25, payable in :",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      122,
+      822,
+      363,
+      12
+    ],
+    "text": "Apr, Gubngrnton lading, le Reo paleo",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      123,
+      832,
+      361,
+      14
+    ],
+    "text": "Burgaw, Post Grrier Box 500, Secretariat, Colombo 1",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      127,
+      26,
+      324,
+      17
+    ],
+    "text": "Village Communities (Amendment) 3",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      182,
+      43,
+      144,
+      16
+    ],
+    "text": "Act, No. 18 of 1936",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      71,
+      282,
+      14
+    ],
+    "text": "BL. B.O. 68/56.",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      35,
+      92,
+      399,
+      12
+    ],
+    "text": ". AN AcT To AMEND THE VILLAGE ComMUNITIES",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      213,
+      108,
+      81,
+      13
+    ],
+    "text": "Orpinance.",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      34,
+      136,
+      352,
+      17
+    ],
+    "text": "i [Date of Avsent: February 3, 1956]",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      45,
+      158,
+      406,
+      23
+    ],
+    "text": "BE it enacted by the Queen's Most Excellent",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      165,
+      390,
+      33
+    ],
+    "text": "Majesty, by and with the advice and consent of the",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57,
+      182,
+      393,
+      36
+    ],
+    "text": "Senate find the House of Representatives of Ceylon",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      213,
+      390,
+      18
+    ],
+    "text": "in this present Parliament assembled, and by the",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      230,
+      268,
+      17
+    ],
+    "text": "authority of the same, as follows:",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      254,
+      445,
+      18
+    ],
+    "text": "4, This Act may be cited as the Village Communi: stoet ste.",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      270,
+      287,
+      17
+    ],
+    "text": "ties (Amendment) Act, No. 12 of 1956.",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      295,
+      469,
+      43
+    ],
+    "text": "2 Section 61 of the Village Communities Angin ef",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      320,
+      472,
+      17
+    ],
+    "text": "Ordinance is hereby amended as follows : Seager ton",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93,
+      348,
+      357,
+      18
+    ],
+    "text": "(1) in paragraph (co) of that section by the sub-",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      141,
+      354,
+      309,
+      27
+    ],
+    "text": "Etitution, for the words -Rxeoutive",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      142,
+      381,
+      307,
+      16
+    ],
+    "text": "Committee, of the word * Minister \";",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      141,
+      398,
+      26,
+      13
+    ],
+    "text": "and",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93,
+      417,
+      356,
+      18
+    ],
+    "text": "@) in paragraph (2) of that section by the sub-",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      141,
+      423,
+      309,
+      41
+    ],
+    "text": "stitution, for sub-paragraph (&) of that",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140,
+      451,
+      309,
+      18
+    ],
+    "text": "paragraph, of the following new sub-",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      47,
+      467,
+      196,
+      17
+    ],
+    "text": ". paragraph :",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      142,
+      491,
+      308,
+      18
+    ],
+    "text": "(ii) dissolve the Village Committee and",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      190,
+      508,
+      259,
+      15
+    ],
+    "text": "either direct that a general election",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      190,
+      513,
+      259,
+      29
+    ],
+    "text": "in accordance with the provisions of",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92,
+      541,
+      358,
+      18
+    ],
+    "text": ": written law for the time being",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      190,
+      557,
+      259,
+      29
+    ],
+    "text": "applicable in thot behalf shall be",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      190,
+      573,
+      260,
+      19
+    ],
+    "text": "held for the purpose of electing a",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      190,
+      590,
+      260,
+      17
+    ],
+    "text": "fresh Village Committe: for the",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      190,
+      606,
+      259,
+      19
+    ],
+    "text": "village area for which the dissolved",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      190,
+      623,
+      397,
+      20
+    ],
+    "text": "Village Committee was constituted .",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      189,
+      640,
+      260,
+      18
+    ],
+    "text": "or direct any public officer to",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      190,
+      656,
+      259,
+      15
+    ],
+    "text": "administer the affairs of that village",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      190,
+      662,
+      259,
+      29
+    ],
+    "text": "area for such period as may Be",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      190,
+      688,
+      178,
+      18
+    ],
+    "text": "specified in the order..",
+    "mean_p_confidence": 0.59
+  }
+]

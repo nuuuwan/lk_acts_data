@@ -1,0 +1,508 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      103,
+      29,
+      406,
+      25
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76,
+      80,
+      399,
+      18
+    ],
+    "text": ": 4th Session 1955-56 .",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      283,
+      136,
+      40,
+      25
+    ],
+    "text": "Siig",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      273,
+      163,
+      61,
+      16
+    ],
+    "text": "SSD",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      256,
+      211,
+      92,
+      27
+    ],
+    "text": "Berns",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      245,
+      246,
+      83,
+      27
+    ],
+    "text": "SEE",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      132,
+      310,
+      350,
+      31
+    ],
+    "text": "Rabies (Amendment) Act, -",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      201,
+      355,
+      190,
+      23
+    ],
+    "text": "No. 23 of 1956",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      187,
+      503,
+      225,
+      13
+    ],
+    "text": "Date of Assent: February 17, 1956",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      58,
+      623,
+      362,
+      13
+    ],
+    "text": "+ Printed on the Orders of Government",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      55,
+      759,
+      410,
+      32
+    ],
+    "text": ": Blrchsed at the GO\" Pieco BOLO odtaeS",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      127,
+      787,
+      337,
+      23
+    ],
+    "text": "far hog, Gout 2, om",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      126,
+      808,
+      338,
+      14
+    ],
+    "text": "Sinate, Past Onicr Box Wo Soccer, Cae",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      54,
+      826,
+      409,
+      24
+    ],
+    "text": "a Trice: 15 cents, Postage: 10 cents.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      48,
+      870,
+      525,
+      7
+    ],
+    "text": "no",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98,
+      19,
+      347,
+      19
+    ],
+    "text": "Rabies (Amendment) Act, No. 23 of 1956 3",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      50,
+      101,
+      14
+    ],
+    "text": "1, D.O. 68/58.",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92,
+      72,
+      434,
+      21
+    ],
+    "text": "An Acr 70 amEnp Tax Rapes ORDINANCE. avin",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      463,
+      90,
+      46,
+      16
+    ],
+    "text": "poge 788.",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115,
+      111,
+      273,
+      20
+    ],
+    "text": "[Date of Assent: February 17, 1956.]",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      143,
+      369,
+      19
+    ],
+    "text": "BE it enacted by the Queans Most Excellent",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      159,
+      386,
+      20
+    ],
+    "text": "Majesty, by and with the advice and consent of the",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      175,
+      386,
+      18
+    ],
+    "text": "Senate and the House of Representatives of Ceylon in",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      191,
+      385,
+      21
+    ],
+    "text": "this present Parliament assembled, and by the autho-",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      209,
+      226,
+      17
+    ],
+    "text": "rity of the some, as follows :",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      239,
+      440,
+      23
+    ],
+    "text": "4. This Act may be cited as the Rabies (Amend- shat sine,",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      262,
+      199,
+      16
+    ],
+    "text": "ment) Act, No. 28 of 1958.",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      294,
+      458,
+      20
+    ],
+    "text": "2. Section 13 of the Rabies Ordinance ig hereby Azesimest ot",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      310,
+      478,
+      20
+    ],
+    "text": "amended by the addition at the end thereof of the <fGhepir asa",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      329,
+      205,
+      17
+    ],
+    "text": "following new paregraph:",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      357,
+      237,
+      19
+    ],
+    "text": "tleter, (6) If a person",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      374,
+      376,
+      29
+    ],
+    "text": "SS ete. (a) removes a dog from the custody",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      237,
+      394,
+      208,
+      18
+    ],
+    "text": "of any other person who has",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      237,
+      412,
+      144,
+      16
+    ],
+    "text": "lawfully seized it, or",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      191,
+      431,
+      254,
+      18
+    ],
+    "text": "@ in any way moleste, obstructs",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      55,
+      447,
+      391,
+      18
+    ],
+    "text": "or prevents any other person",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      238,
+      463,
+      200,
+      16
+    ],
+    "text": "in or from lawfully seizing,",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      238,
+      479,
+      208,
+      17
+    ],
+    "text": "detaining or destroying a",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      240,
+      496,
+      29,
+      17
+    ],
+    "text": "dog,",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      161,
+      515,
+      284,
+      16
+    ],
+    "text": "he shall, on conviction, be liable to a",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      159,
+      531,
+      286,
+      17
+    ],
+    "text": "fine not exceeding one hundred rupees,",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      160,
+      547,
+      286,
+      18
+    ],
+    "text": "or to simple or rigorous imprisonment",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      160,
+      563,
+      285,
+      18
+    ],
+    "text": "for a period not exceeding three months,",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      160,
+      579,
+      285,
+      17
+    ],
+    "text": "of to both such fine and imprisonment.",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      577,
+      794,
+      3,
+      14
+    ],
+    "text": "4",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      848,
+      499,
+      25
+    ],
+    "text": "JB. B6117-0.060 (1/68)",
+    "mean_p_confidence": 0.31
+  }
+]

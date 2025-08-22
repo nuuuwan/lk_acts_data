@@ -1,0 +1,519 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      130,
+      23,
+      449,
+      26
+    ],
+    "text": "PARLIAMENT OF CEYLON :",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      226,
+      69,
+      242,
+      18
+    ],
+    "text": "1st Session 1956 .",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      409,
+      100,
+      131,
+      29
+    ],
+    "text": "gh s,",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      296,
+      130,
+      249,
+      20
+    ],
+    "text": "te OI sone TN",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      198,
+      129,
+      348,
+      41
+    ],
+    "text": "& Davelans 25",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      275,
+      166,
+      268,
+      25
+    ],
+    "text": "SiliDy Lan Fs",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      264,
+      181,
+      269,
+      32
+    ],
+    "text": "Mies Sy",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      260,
+      203,
+      265,
+      35
+    ],
+    "text": "Le SrntAy NLT",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68,
+      312,
+      473,
+      31
+    ],
+    "text": "Criminal Procedure Code (Amendment)",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      173,
+      356,
+      252,
+      27
+    ],
+    "text": "Act, No. 34 of 1956",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      205,
+      490,
+      196,
+      14
+    ],
+    "text": "Date of Assent: August 2, 1956",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83,
+      625,
+      443,
+      19
+    ],
+    "text": ". Printed on the Orders of Government .",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      123,
+      754,
+      355,
+      25
+    ],
+    "text": "Ente ee Cer Burien Bones \"Sueese",
+    "mean_p_confidence": 0.09
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      123,
+      780,
+      355,
+      13
+    ],
+    "text": "Annual Subscription (including Bills) Rs 25, payable in",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      123,
+      792,
+      354,
+      12
+    ],
+    "text": "Rae ee a Ne, Belt poaleitons",
+    "mean_p_confidence": 0.03
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      123,
+      803,
+      354,
+      12
+    ],
+    "text": "Bureau, Post Ornice Box 00, Secretariat, Colombo I",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      124,
+      822,
+      355,
+      14
+    ],
+    "text": "Price: 10 cents. Postage: 10 cents.",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      126,
+      25,
+      288,
+      16
+    ],
+    "text": "Criminal Procedure Code (Amendment)",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      194,
+      41,
+      149,
+      16
+    ],
+    "text": "Act, No. 84 of 1956.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      68,
+      97,
+      14
+    ],
+    "text": "L. D.0. 4/64.",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      88,
+      453,
+      21
+    ],
+    "text": "AN Act To AMEND Tae CRIMINAL ProcepuRE Cong. Chapter 16",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      479,
+      110,
+      52,
+      11
+    ],
+    "text": "pegs 2.",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      142,
+      120,
+      254,
+      17
+    ],
+    "text": "[Date of Assent: August 2, 1956]",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      94,
+      144,
+      368,
+      41
+    ],
+    "text": "BE it enacted by the Green's Most Excellent",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      157,
+      385,
+      29
+    ],
+    "text": "Majesty, by and with the advice and consent of the",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      183,
+      385,
+      17
+    ],
+    "text": "Senate and the House of Representatives of Ceylon in",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      198,
+      385,
+      17
+    ],
+    "text": "this present Parliament assembled, and by the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      214,
+      252,
+      16
+    ],
+    "text": "authority of the same, aa follows:",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93,
+      246,
+      441,
+      13
+    ],
+    "text": "1, This Act may be cited as the Criminal Pro- sts site,",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      246,
+      409,
+      38
+    ],
+    "text": "cedure Code (Amendment) Act, No. 84 of 1956, .",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93,
+      292,
+      461,
+      20
+    ],
+    "text": "2. Section 158 of the Criminal Procedure Code Somtnnt of",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      307,
+      456,
+      18
+    ],
+    "text": "(hereinafter referred to as the principal enact- Chapter 18",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      324,
+      383,
+      16
+    ],
+    "text": "went ) is hereby amended, in sub-section (2) of that",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      331,
+      386,
+      40
+    ],
+    "text": "section, by the substitution, for all the words from",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      354,
+      380,
+      16
+    ],
+    "text": "material: to the end of that sub-section, of the",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      370,
+      233,
+      13
+    ],
+    "text": "word material.. .",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92,
+      401,
+      460,
+      19
+    ],
+    "text": "8. Section 185r of the principal enactment is here- Amsoimme of",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      416,
+      475,
+      30
+    ],
+    "text": "by amended a the insertion, immediately after sub- {32,20 of",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      432,
+      452,
+      19
+    ],
+    "text": "section (1) that section, of the following sub- cmcmeat.",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      440,
+      288,
+      30
+    ],
+    "text": "sseotion: .",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      125,
+      464,
+      331,
+      41
+    ],
+    "text": "(la) The Attorney-General may, subject to",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      103,
+      479,
+      353,
+      36
+    ],
+    "text": "the provisions of this Code relating to the joinder",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      107,
+      503,
+      333,
+      18
+    ],
+    "text": "of charges, include in the indictment any char,",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      107,
+      509,
+      349,
+      37
+    ],
+    "text": "in respect of any offence which is disclosed by he",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      107,
+      526,
+      348,
+      43
+    ],
+    "text": "gridonce taken y the Magistrate, notwithstand-",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      103,
+      540,
+      345,
+      31
+    ],
+    "text": "ing arge may not have been read to th",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      107,
+      557,
+      348,
+      25
+    ],
+    "text": "accused by the Magistrate.",
+    "mean_p_confidence": 0.64
+  }
+]

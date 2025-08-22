@@ -1,0 +1,552 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      112,
+      32,
+      410,
+      25
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      232,
+      83,
+      157,
+      18
+    ],
+    "text": "Ist Session 1956",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      297,
+      152,
+      185,
+      32
+    ],
+    "text": "Sea? .",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      280,
+      179,
+      65,
+      21
+    ],
+    "text": "ESD",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115,
+      318,
+      382,
+      38
+    ],
+    "text": "Official Language Act, No. 33",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      254,
+      370,
+      110,
+      24
+    ],
+    "text": "of 1956 .",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      103,
+      494,
+      354,
+      21
+    ],
+    "text": "7. 7 Date of Assent : July 7, 1956 so",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      179,
+      625,
+      343,
+      15
+    ],
+    "text": "Printed on the Orders of Government +",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      108,
+      678,
+      254,
+      16
+    ],
+    "text": "i .",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      91,
+      697,
+      16,
+      13
+    ],
+    "text": "f",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      89,
+      772,
+      392,
+      40
+    ],
+    "text": "Beeps oe see",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      294,
+      801,
+      110,
+      14
+    ],
+    "text": "Hing Bills) Ra. 26,",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      124,
+      805,
+      355,
+      31
+    ],
+    "text": "HER Soa GR, Cannes Peat",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      124,
+      831,
+      402,
+      27
+    ],
+    "text": "Price: 10 cents. Postage: 18 cents.",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      121,
+      29,
+      289,
+      17
+    ],
+    "text": "Official Language Act, No. 99 of 1956.",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      56,
+      431,
+      14
+    ],
+    "text": "L, D.0, 14/58. .",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      80,
+      385,
+      14
+    ],
+    "text": "AN Acr To PRESCRIBE THE SixmaLA LANGUAGE AS THE",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      105,
+      96,
+      353,
+      14
+    ],
+    "text": "Owe OFFictal LANGUAGE OF CEYLON AND TO ENABLE",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      105,
+      115,
+      450,
+      20
+    ],
+    "text": "CONTAIN TRANSITORY PROVISIONS TO BE MADE. .",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      140,
+      430,
+      26
+    ],
+    "text": "[Date of Assent; July 7, 19583 :",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      167,
+      367,
+      17
+    ],
+    "text": "BE it enacted by the Queen's Most Excellent",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      182,
+      385,
+      30
+    ],
+    "text": "Majesty. by and with the advice and consent of the",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      198,
+      428,
+      20
+    ],
+    "text": "Senate and the House of Representatives of Ceylon -",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      214,
+      384,
+      20
+    ],
+    "text": "in this present Parliament assembled, and by the",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      230,
+      261,
+      17
+    ],
+    "text": "authority of the same, as follows:",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88,
+      260,
+      444,
+      22
+    ],
+    "text": "4. This Act mav be cited as the Official Language ier tie,",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      276,
+      149,
+      14
+    ],
+    "text": "Act, No, 83 of 1958.",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88,
+      306,
+      419,
+      17
+    ],
+    "text": "2, The Sinhala language shall be the one official sian",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      321,
+      441,
+      21
+    ],
+    "text": "language of Ceylon: : bop",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      473,
+      343,
+      30,
+      9
+    ],
+    "text": "ie oe",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      345,
+      412,
+      27
+    ],
+    "text": "Provided that where the Minister considers it sfc!",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      364,
+      440,
+      31
+    ],
+    "text": "impracticable to commence the use of only the Sinhala Fst",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      380,
+      381,
+      31
+    ],
+    "text": "language.for any official purpose immedistely on the",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      388,
+      382,
+      28
+    ],
+    "text": "conting into force of this Act, the-tsmguage or",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      411,
+      396,
+      20
+    ],
+    "text": "languages hitherto used for that purpose may be con- ~",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      415,
+      438,
+      49
+    ],
+    "text": "tinued to be so used until the necessary change is .",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      443,
+      443,
+      32
+    ],
+    "text": "effected as early as possible before the expiry of the",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      458,
+      463,
+      20
+    ],
+    "text": "thirty-first day of December, 1960, aid, if such: .",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      474,
+      432,
+      29
+    ],
+    "text": "change cannot be effected by administrative order, :",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      491,
+      380,
+      17
+    ],
+    "text": "regulations may be made under this Act to effect such",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      505,
+      450,
+      18
+    ],
+    "text": "change. :",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      535,
+      438,
+      22
+    ],
+    "text": "@ (1) The Minister may make dations in Regalxioas,",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64,
+      541,
+      385,
+      45
+    ],
+    "text": "respect of ail matters for which regulations are",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      570,
+      381,
+      21
+    ],
+    "text": "authorised by this Act to be made and generally for",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      585,
+      381,
+      22
+    ],
+    "text": "the purpose of giving effect to the principles and pro-",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      601,
+      139,
+      14
+    ],
+    "text": "visions of this Act.",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      629,
+      364,
+      21
+    ],
+    "text": "(2) No regulation made under sub-section (1) shall",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      644,
+      381,
+      21
+    ],
+    "text": "have effect until it is approved by the Senate and the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      660,
+      431,
+      19
+    ],
+    "text": "House of Representatives and notification of such :",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      677,
+      489,
+      17
+    ],
+    "text": "approval is published in the Gazette, :",
+    "mean_p_confidence": 0.62
+  }
+]

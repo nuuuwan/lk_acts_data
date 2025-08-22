@@ -1,0 +1,2565 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      99,
+      18,
+      383,
+      33
+    ],
+    "text": "PARLIAMENT, OF_ CEYLON",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      204,
+      76,
+      173,
+      18
+    ],
+    "text": "Ind. Session 1957",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      437,
+      107,
+      110,
+      19
+    ],
+    "text": "SY cm",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      428,
+      129,
+      128,
+      24
+    ],
+    "text": "8 [Nene ON",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      421,
+      134,
+      132,
+      40
+    ],
+    "text": "fa :",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      277,
+      153,
+      282,
+      34
+    ],
+    "text": "ip lal 11 SEP 957) 5)",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      248,
+      198,
+      288,
+      50
+    ],
+    "text": "1S Cal \\goranto A",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      251,
+      209,
+      268,
+      65
+    ],
+    "text": "Gg =",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      60,
+      336,
+      466,
+      35
+    ],
+    "text": "Servicemen (Collection and Disposal",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      114,
+      373,
+      352,
+      33
+    ],
+    "text": "of Specified Property) Act,",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      188,
+      411,
+      203,
+      24
+    ],
+    "text": "No. 41 of 1957",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      56,
+      449,
+      18,
+      15
+    ],
+    "text": "x",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      180,
+      541,
+      228,
+      14
+    ],
+    "text": "Date of Assent: September 6, 1957",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      172,
+      653,
+      245,
+      14
+    ],
+    "text": "Printed on the Orders of Government",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115,
+      764,
+      417,
+      28
+    ],
+    "text": "Pie Ao NTT ee OE, Rit",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      112,
+      789,
+      362,
+      32
+    ],
+    "text": "Apnval Subseriptfon, Gacteing Bills) Ra 28, payable in",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      114,
+      815,
+      357,
+      14
+    ],
+    "text": "Busrav, Posr Orvice Box 800, Secretariat, Colombo 3",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      116,
+      834,
+      356,
+      17
+    ],
+    "text": "Price; 20 cents, Postage: 10 cents,",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      564,
+      863,
+      4,
+      8
+    ],
+    "text": "'",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      8,
+      382,
+      34
+    ],
+    "text": "| Servicomen (Collection and Disposal of 8",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      38,
+      336,
+      18
+    ],
+    "text": ": Specified Property) Aot, No. 41 of 196%",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      66,
+      115,
+      14
+    ],
+    "text": "iL. DO, 42/84,",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      88,
+      381,
+      12
+    ],
+    "text": "| AN Acr 70 PROVIDE FOR THE COLLECTION AND DISPOSAL",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      105,
+      361,
+      11
+    ],
+    "text": "OF CERTAIN PROPERTY BELONGING TO DECEASED",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      120,
+      360,
+      12
+    ],
+    "text": "SERVICEMEN AND FOR THE APPLICATION, SUBJECT 10",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      133,
+      360,
+      16
+    ],
+    "text": "MODIFICATIONS, OF THE PROVISIONS OF THIS AcT",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      152,
+      378,
+      17
+    ],
+    "text": "|. RELATING 70 SUCH SERVICEMEN 10 SERVICEMEN WAO",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      162,
+      381,
+      25
+    ],
+    "text": "[ HAVE DESKErED, ADSENTED THEMSELVES On BECOME",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      185,
+      146,
+      17
+    ],
+    "text": "| OF UNSoUND MIND.",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      204,
+      325,
+      18
+    ],
+    "text": "i [Date of Assent: September 6, 1957]",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      228,
+      373,
+      17
+    ],
+    "text": "BE it, enacted by the Queen's Most Excellent Majesty,",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      244,
+      374,
+      16
+    ],
+    "text": "by and with the advice and consent of the Senate and",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      259,
+      374,
+      17
+    ],
+    "text": "the House of Representatives of Ceylon in this present",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      275,
+      374,
+      17
+    ],
+    "text": "Parliament assembled, and by the authority of tue",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      291,
+      136,
+      15
+    ],
+    "text": "same, as follows:",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      309,
+      450,
+      45
+    ],
+    "text": "\\, 4, This Act may bo cited as the Serroomen (et- t wtm",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      334,
+      368,
+      16
+    ],
+    "text": "lection anc isposal of fie ropert} t,",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      334,
+      326,
+      35
+    ],
+    "text": "No. 41 of 1957. eal pany)",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      377,
+      435,
+      19
+    ],
+    "text": "2. On the death of a serviceman a committee (here. Cyamites wo",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      390,
+      447,
+      18
+    ],
+    "text": "inafter referred to aa the committee \"?) consisting of ct'nonal",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      408,
+      442,
+      19
+    ],
+    "text": "the prescribed namber of persons appointed by the pyeir",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      422,
+      466,
+      19
+    ],
+    "text": "ipresoribed authority shall, as coon as may be and in fcvoces aod",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      434,
+      450,
+      35
+    ],
+    "text": "| Meordance with regulations made under this Act, py",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      455,
+      471,
+      39
+    ],
+    "text": "| @) take charge and make an inventory of movable be. *",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      478,
+      376,
+      18
+    ],
+    "text": ": property belonging to serviceman",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      145,
+      481,
+      293,
+      29
+    ],
+    "text": "whith i in the cate, control or guatedy of",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      499,
+      376,
+      29
+    ],
+    "text": "| the naval, military or air force anthorities",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      146,
+      523,
+      291,
+      14
+    ],
+    "text": "at the time of his death or which came into",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      538,
+      375,
+      16
+    ],
+    "text": ": such care, control or onatody after his",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      554,
+      126,
+      21
+    ],
+    "text": ": death;",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      100,
+      577,
+      337,
+      16
+    ],
+    "text": "@) collect any money due to such serviceman as",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      146,
+      592,
+      255,
+      16
+    ],
+    "text": "salary, batts or other allowance; and",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      100,
+      611,
+      336,
+      15
+    ],
+    "text": "(@) ascertain the amount of, and, subject to the",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      145,
+      626,
+      292,
+      28
+    ],
+    "text": "provisions of sections 6 and 7, provide for",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      145,
+      641,
+      279,
+      16
+    ],
+    "text": "the payment of, the preferential charges.",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      667,
+      443,
+      30
+    ],
+    "text": "| nating Thepexpenace ant debts ified hereunder shall reteretial",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      672,
+      419,
+      27
+    ],
+    "text": "be the preferential charges on the property and money \"",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      698,
+      373,
+      30
+    ],
+    "text": "(et the deceased serviceman which are referred to in",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      713,
+      404,
+      16
+    ],
+    "text": "section 2, and shall, except 20 far as other provision",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      728,
+      372,
+      26
+    ],
+    "text": "\\Mpay be made for, the payment of those charges, be",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      743,
+      372,
+      16
+    ],
+    "text": "! payable out of such property and money in. preference",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      747,
+      372,
+      26
+    ],
+    "text": "NoVall other debte \"and liebilities, and, ae among",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      772,
+      263,
+      23
+    ],
+    "text": "themselves, in the following order :",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      794,
+      371,
+      22
+    ],
+    "text": "| Expenses of the last illness and funeral of",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      810,
+      354,
+      22
+    ],
+    "text": "! auch serviceman. .",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      829,
+      120,
+      11
+    ],
+    "text": "1 scm mseum-sam cn",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      841,
+      2,
+      8
+    ],
+    "text": "i",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      184,
+      21,
+      337,
+      17
+    ],
+    "text": "4 Servicemen (Collection dnd Disposal of",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      231,
+      37,
+      291,
+      17
+    ],
+    "text": "Specified Property) Act, No. 41 of 1957",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      218,
+      65,
+      344,
+      18
+    ],
+    "text": "() Sums due by such serviceman in reapect of",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      266,
+      85,
+      86,
+      17
+    ],
+    "text": "(i) quarters,",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      261,
+      107,
+      308,
+      16
+    ],
+    "text": "(ii) mess, band and other debts due to",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      313,
+      123,
+      256,
+      16
+    ],
+    "text": "military, naval or air foree institu-",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      313,
+      139,
+      70,
+      15
+    ],
+    "text": "tions, and",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      256,
+      159,
+      323,
+      18
+    ],
+    "text": "(iii) military, naval or air foree clothing;",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      314,
+      176,
+      217,
+      17
+    ],
+    "text": "appointments and equipments.",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90,
+      198,
+      478,
+      17
+    ],
+    "text": "Seon, enate 4. The Ceylon estate of a deceased serviceman, for",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      89,
+      209,
+      480,
+      34
+    ],
+    "text": "Same the purpose of the calculation of estate duty payable",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      100,
+      230,
+      469,
+      18
+    ],
+    "text": "ops. under the Estate Duty Ordinance, shall be his Ceylon",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      186,
+      246,
+      383,
+      17
+    ],
+    "text": "estate within the meaning of that Ordinance less any",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      186,
+      262,
+      367,
+      18
+    ],
+    "text": "amount paid as preferential charges under this Act.",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90,
+      291,
+      478,
+      17
+    ],
+    "text": "Dedaion of 8, Where in the case of any deceased serviceman",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90,
+      303,
+      478,
+      33
+    ],
+    "text": "ule ty, the committee is unable to determine the question as",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90,
+      322,
+      478,
+      18
+    ],
+    "text": "civgw sd to whet are the preferential charges or the amount",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      84,
+      330,
+      484,
+      29
+    ],
+    "text": "et ayable in respect of auch charges, the Permanent",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      186,
+      338,
+      381,
+      40
+    ],
+    "text": "Redretary to the Ministry of Dofozoe and External",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      186,
+      369,
+      381,
+      19
+    ],
+    "text": "Affaire or such officer as may be authorised by him in",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      186,
+      384,
+      381,
+      20
+    ],
+    "text": "that behalf in writing shall decide that question and",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      186,
+      400,
+      191,
+      15
+    ],
+    "text": "such decision shail be final.",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      91,
+      428,
+      476,
+      18
+    ],
+    "text": "Payment, of 6. (i) Any person may, within one month after the",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      91,
+      429,
+      476,
+      38
+    ],
+    "text": "Sees death of a solvmeman, or within such further time nit",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      91,
+      460,
+      475,
+      18
+    ],
+    "text": "tine pertons, exceeding the prescribed time as the committee may",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      187,
+      475,
+      378,
+      29
+    ],
+    "text": "allow, pay the referential charges on euch property",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      187,
+      491,
+      378,
+      18
+    ],
+    "text": "and money of that serviceman az are referred to in",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      187,
+      507,
+      379,
+      19
+    ],
+    "text": "section 2, or secure the payment of those charges to",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      186,
+      522,
+      235,
+      15
+    ],
+    "text": "the satisfaction of the committes.",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      193,
+      545,
+      372,
+      29
+    ],
+    "text": "a If the payment of the preferential charges on",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      186,
+      563,
+      379,
+      17
+    ],
+    "text": "such property and money as are referred to in sub-",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      183,
+      570,
+      382,
+      40
+    ],
+    "text": "section (ie made or secured as provided ia that sub-",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      186,
+      591,
+      379,
+      37
+    ],
+    "text": "section, the committee shall deliver that roperty and",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      186,
+      600,
+      379,
+      28
+    ],
+    "text": "money to the prescribed person {hereinafter referred",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      187,
+      625,
+      177,
+      17
+    ],
+    "text": "to as the paymaster *),",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      88,
+      643,
+      477,
+      34
+    ],
+    "text": "Boren 0a 7, (1) If within one month after the death of a",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      91,
+      665,
+      474,
+      22
+    ],
+    "text": "Game serviceman or auch further time not exceeding the",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      91,
+      684,
+      473,
+      27
+    ],
+    "text": "Eas Presoribed time as the committee may allow, the pre-",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      91,
+      696,
+      474,
+      23
+    ],
+    "text": "eee ferential charges on such property and money of &",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      92,
+      707,
+      472,
+      29
+    ],
+    "text": "sete deceased serviceman ag are feferred to in aeotion 2 are",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      91,
+      730,
+      473,
+      19
+    ],
+    "text": "cone not paid or secured to the satisfaction of the com-",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      186,
+      747,
+      379,
+      19
+    ],
+    "text": "mittee, the committee shall proceed to pay those",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      186,
+      750,
+      377,
+      36
+    ],
+    "text": "charges out of that property and maney, an ay sell",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      186,
+      765,
+      378,
+      44
+    ],
+    "text": "and gonvert into money such part of that Property, os",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      186,
+      793,
+      378,
+      20
+    ],
+    "text": "does not consist of money for the purpose of paying",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      185,
+      809,
+      379,
+      29
+    ],
+    "text": "tote charges and any expenses incurred by the com",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      185,
+      827,
+      294,
+      16
+    ],
+    "text": "mittee in effecting the sale and conversion.",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      118,
+      11,
+      343,
+      19
+    ],
+    "text": "Serviceman (Collection and Disposal of",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      117,
+      28,
+      296,
+      19
+    ],
+    "text": "Specified Property) Act, No. 4% of 1957",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      88,
+      55,
+      372,
+      20
+    ],
+    "text": "(2) For the purpose of the exercise of its powers and",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71,
+      72,
+      389,
+      20
+    ],
+    "text": "the performance of its duties under this Act, the com-",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70,
+      88,
+      390,
+      18
+    ],
+    "text": "mittee shall, to the exclusion of all other authorities",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71,
+      105,
+      389,
+      19
+    ],
+    "text": "and persons, have the same powers and duties as an",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71,
+      120,
+      389,
+      16
+    ],
+    "text": "executor or administrator of the estate of a deoensed",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71,
+      136,
+      389,
+      18
+    ],
+    "text": "serviceman would have; and any receipt given by the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      57,
+      153,
+      403,
+      15
+    ],
+    "text": "committee shall have the same effect as if it had been",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71,
+      170,
+      289,
+      17
+    ],
+    "text": "given by such executor or administrator.",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89,
+      197,
+      370,
+      18
+    ],
+    "text": "(8) The committee shall deliver to the paymaster",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72,
+      201,
+      387,
+      31
+    ],
+    "text": "such part of the property and money of 5 docensed",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72,
+      229,
+      387,
+      17
+    ],
+    "text": "serviceman as remains in its hands after payment of",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      61,
+      245,
+      397,
+      19
+    ],
+    "text": "_ the charges and expenses referred to in sub-section (1),",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72,
+      261,
+      387,
+      30
+    ],
+    "text": "together with such inventory, aecounts, vouchers and",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73,
+      278,
+      244,
+      17
+    ],
+    "text": "information as may be prescribed.",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      88,
+      309,
+      446,
+      18
+    ],
+    "text": "8 Subject to the prescribed provisions and Pape! of",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72,
+      321,
+      485,
+      22
+    ],
+    "text": "exceptions, the paymaster shall ee a ateerad",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      476,
+      342,
+      69,
+      11
+    ],
+    "text": "{0 poymanter,",
+    "mean_p_confidence": 0.05
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      106,
+      353,
+      352,
+      18
+    ],
+    "text": "(a) where any property and money of a deceased",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      153,
+      369,
+      305,
+      14
+    ],
+    "text": "serviceman of not less than two thousand",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      153,
+      385,
+      305,
+      16
+    ],
+    "text": "five hundred rupees in valoe is recsived by",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      153,
+      390,
+      304,
+      29
+    ],
+    "text": "the paymester fom the commuitiee, deliver",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      153,
+      417,
+      304,
+      17
+    ],
+    "text": "that property and money to the execator or",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      50,
+      425,
+      407,
+      34
+    ],
+    "text": "de administrator of the estate of that service-",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      76,
+      449,
+      432,
+      15
+    ],
+    "text": "- man tobe included in that estate, and .",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      69,
+      476,
+      388,
+      18
+    ],
+    "text": "* (B) where any property and money of a dvoeased",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      154,
+      481,
+      303,
+      25
+    ],
+    "text": "serviceman of Tage than two thousand five",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      154,
+      508,
+      303,
+      30
+    ],
+    "text": "handed rapees in value ig received by the",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      154,
+      524,
+      303,
+      18
+    ],
+    "text": "paymaster from the committee, deliver that",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      154,
+      536,
+      302,
+      36
+    ],
+    "text": "property and money to the person, in the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      154,
+      555,
+      303,
+      18
+    ],
+    "text": "opinion of the paymeater to be entitled by",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      154,
+      573,
+      83,
+      12
+    ],
+    "text": "law thereto.",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90,
+      602,
+      440,
+      19
+    ],
+    "text": "8. Medals and decorations shall not be considered Digan! ol,",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      74,
+      619,
+      454,
+      28
+    ],
+    "text": "to be comprised in the movable property referred to in deemtin",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      74,
+      634,
+      382,
+      20
+    ],
+    "text": "section 2 and shall be taken charge of, and held and",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      74,
+      642,
+      382,
+      38
+    ],
+    "text": "disposed of, by the committee according to regulations",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      74,
+      668,
+      153,
+      12
+    ],
+    "text": "made under this Act.",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90,
+      698,
+      430,
+      14
+    ],
+    "text": "40, Notwithstanding anything to the contrary sues",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      75,
+      694,
+      459,
+      43
+    ],
+    "text": "contained in Chapter peaaaiid of the Civil Pro. Sette",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      75,
+      726,
+      458,
+      33
+    ],
+    "text": "cedure Code, any property of & deceased serviveman / Sinting",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      54,
+      741,
+      489,
+      23
+    ],
+    "text": "+ which is in the custody of the committee or the pay- pau &",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      75,
+      754,
+      457,
+      39
+    ],
+    "text": "master under this Act shall be deemed not to be part Heian,",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      75,
+      770,
+      438,
+      39
+    ],
+    "text": "of the estate of that servicsman for the purpose the 7\"",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      75,
+      792,
+      380,
+      29
+    ],
+    "text": "application for, or grant of, probate af the will, or",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      75,
+      808,
+      380,
+      19
+    ],
+    "text": "letters of administration of the estate, of that",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      75,
+      829,
+      79,
+      9
+    ],
+    "text": "serviceman,",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      45,
+      2,
+      7,
+      7
+    ],
+    "text": "v",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      152,
+      13,
+      343,
+      17
+    ],
+    "text": "6 Servicomen (Collection and Disposal of",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      200,
+      29,
+      297,
+      17
+    ],
+    "text": "Specified Property) Act, No. 41 of 1957",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      54,
+      55,
+      490,
+      20
+    ],
+    "text": "Azeleation st 44, Section 547 of the Civil Procedure Code shall",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      55,
+      73,
+      489,
+      29
+    ],
+    "text": "fe Cie not apply in relation to any property received under",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      56,
+      87,
+      488,
+      19
+    ],
+    "text": "Preedare Outs. this Act by the committes or the paymaster or delivered",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      67,
+      105,
+      425,
+      18
+    ],
+    "text": "Onp. 68. under this Act by the paymaster to any person.",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      58,
+      143,
+      501,
+      32
+    ],
+    "text": "alte ot 42, Every payment, application, ealo or othar dis. ,",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      58,
+      157,
+      487,
+      22
+    ],
+    "text": "ile, ae, position of property made by the committee or the pay-",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      59,
+      175,
+      486,
+      20
+    ],
+    "text": "ander thi! Act. Taster, when acting in execution or supposed execa-",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      156,
+      194,
+      389,
+      18
+    ],
+    "text": "tion of this Act, shall be valid as against all persons",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      156,
+      199,
+      389,
+      28
+    ],
+    "text": "whomsoover; end every member of the committee and",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      157,
+      225,
+      388,
+      18
+    ],
+    "text": "the paymastar ehall be discharged from all liability in",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      157,
+      242,
+      387,
+      28
+    ],
+    "text": "respect of sny money paid, or any property applied,",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      157,
+      257,
+      255,
+      17
+    ],
+    "text": "sold or disposed of, ander this Act.",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      61,
+      289,
+      484,
+      33
+    ],
+    "text": "seta 48. After the committee has delivered to the pay-",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      62,
+      315,
+      483,
+      19
+    ],
+    "text": "sieiar ow master any property or money of a deocased service-",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      62,
+      327,
+      483,
+      18
+    ],
+    "text": "aimed. nan, the executor or administrator of the estate of",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      159,
+      346,
+      386,
+      18
+    ],
+    "text": "that serviceman shall, in respect of any property or",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      159,
+      361,
+      386,
+      18
+    ],
+    "text": "money referred to in section 2 which has not been",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      160,
+      378,
+      385,
+      17
+    ],
+    "text": "taken charge of or oollected by the committee, have the",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      160,
+      383,
+      385,
+      27
+    ],
+    "text": "same rigbis and duties a6 if this Act had not been",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      160,
+      410,
+      50,
+      16
+    ],
+    "text": "passed.",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65,
+      447,
+      494,
+      20
+    ],
+    "text": "depletion cf 4, Where a serviceman deserts or is absent with-~",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65,
+      466,
+      489,
+      18
+    ],
+    "text": "Seenes, to, out leave for twenty-one days; the provisions of this .",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      162,
+      471,
+      382,
+      27
+    ],
+    "text": "Act shall apply es if such aorvichman were. dead,",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      162,
+      482,
+      383,
+      39
+    ],
+    "text": "subject to the modification that the committee shall",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      163,
+      513,
+      382,
+      19
+    ],
+    "text": "dispose of any property and money of that serviceman",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      163,
+      530,
+      382,
+      18
+    ],
+    "text": "remaining in its hands after the payment of the pre-",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      163,
+      547,
+      382,
+      17
+    ],
+    "text": "ferential chatges and expenses referred to in section 7",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      164,
+      564,
+      381,
+      18
+    ],
+    "text": "(1) in the prescribed manner, and that property and",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      163,
+      580,
+      382,
+      18
+    ],
+    "text": "money when 80 disposed of shall be free from all claim",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      163,
+      597,
+      383,
+      19
+    ],
+    "text": "on the part of that serviceman or any person claiming",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      164,
+      614,
+      92,
+      16
+    ],
+    "text": "through him.",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      69,
+      655,
+      477,
+      21
+    ],
+    "text": "apelin 45, Where a serviceman is ascertained in the",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      69,
+      673,
+      477,
+      17
+    ],
+    "text": "at aol prescribed manner to be of unsound mind, the provi-",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70,
+      680,
+      477,
+      32
+    ],
+    "text": "mind. sions of this Act shall apply as if he had died at the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      166,
+      706,
+      381,
+      16
+    ],
+    "text": "time he was ascertained to be of unsound mind, subject",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151,
+      724,
+      396,
+      17
+    ],
+    "text": "to the prescribed exceptions and the modification that",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      166,
+      741,
+      381,
+      17
+    ],
+    "text": "the contmittee shall dispose of any property and money",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      166,
+      757,
+      381,
+      18
+    ],
+    "text": "of that serviceman remaining in its hands after the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      166,
+      775,
+      381,
+      17
+    ],
+    "text": "payment of the preferential charges and expenses",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      167,
+      792,
+      380,
+      17
+    ],
+    "text": "referred to in section 7 (1) in the prescribed manner",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      166,
+      807,
+      381,
+      19
+    ],
+    "text": "with view to their being applied to the benefit of",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      166,
+      826,
+      116,
+      13
+    ],
+    "text": "that serviceman.",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      120,
+      7,
+      344,
+      25
+    ],
+    "text": "Servicemen (Collection and Disposal of 7",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      118,
+      31,
+      298,
+      18
+    ],
+    "text": "Specified Property) Act, No. 41 of 1957",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      88,
+      59,
+      453,
+      18
+    ],
+    "text": "46, (1) Ths Minister may make regulations _Ragoltons",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      104,
+      88,
+      358,
+      16
+    ],
+    "text": "{@) in respect of all matters stated in this Act to",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      152,
+      105,
+      100,
+      16
+    ],
+    "text": "be prescribed;",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      104,
+      133,
+      440,
+      18
+    ],
+    "text": "() for all matters in respect of which regulation :",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      57,
+      151,
+      403,
+      17
+    ],
+    "text": ". are required or authorised by this Act to",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      151,
+      167,
+      96,
+      15
+    ],
+    "text": "be mado; and",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      103,
+      194,
+      356,
+      19
+    ],
+    "text": "() for the purpose of carrying out the provisions",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      150,
+      199,
+      308,
+      31
+    ],
+    "text": "or giving effect to the principles of this",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      150,
+      229,
+      30,
+      13
+    ],
+    "text": "Act,",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      87,
+      256,
+      370,
+      19
+    ],
+    "text": "@) No regulation shall have effect until that vegula-",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70,
+      272,
+      387,
+      19
+    ],
+    "text": "tion has been approved by the Senate aud the House of",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      56,
+      289,
+      401,
+      19
+    ],
+    "text": "+ Representatives and notification of such approval is",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70,
+      307,
+      186,
+      16
+    ],
+    "text": "published in the Gazette.",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86,
+      339,
+      457,
+      18
+    ],
+    "text": "47, In this Act, serviceman means Ietereiata,",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      103,
+      367,
+      352,
+      30
+    ],
+    "text": "() any person who, undor the Army Act, No. 17",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      149,
+      385,
+      282,
+      17
+    ],
+    "text": "of 1949, is subject to military law, or",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      102,
+      411,
+      352,
+      17
+    ],
+    "text": ") any person who, ander the Navy Act, No. 84",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      52,
+      416,
+      356,
+      35
+    ],
+    "text": ". of 1950, is subject to naval law, or",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      52,
+      448,
+      400,
+      25
+    ],
+    "text": "\"(any person subject to the Air Fores Act,",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      149,
+      461,
+      106,
+      24
+    ],
+    "text": "NO. 41 of 1949,",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      85,
+      503,
+      448,
+      29
+    ],
+    "text": "48, The provisions of this Act shall have eect sunt",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69,
+      519,
+      462,
+      30
+    ],
+    "text": "notwithstanding anything conisined im any other SBT aa",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69,
+      524,
+      463,
+      30
+    ],
+    "text": "written law, and in case off any oonilict or inoonvistency eect",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69,
+      550,
+      420,
+      18
+    ],
+    "text": "between the provisions of this Act and such other law, **-",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69,
+      566,
+      277,
+      18
+    ],
+    "text": "the provisions of this Act shall prevail.",
+    "mean_p_confidence": 0.77
+  }
+]

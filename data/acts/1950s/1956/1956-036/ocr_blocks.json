@@ -1,0 +1,398 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      90,
+      23,
+      424,
+      48
+    ],
+    "text": "PARLIAMENT OF CEYLON, :",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      127,
+      54,
+      415,
+      23
+    ],
+    "text": ". . So sey",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      220,
+      65,
+      346,
+      31
+    ],
+    "text": "Ist Session 1956 Ye.",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      437,
+      94,
+      123,
+      15
+    ],
+    "text": "Pate",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      425,
+      108,
+      145,
+      24
+    ],
+    "text": "22 Usp 58",
+    "mean_p_confidence": 0.06
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      275,
+      130,
+      280,
+      41
+    ],
+    "text": "a : Ra A",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      265,
+      155,
+      288,
+      17
+    ],
+    "text": "FUN as a _",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88,
+      311,
+      407,
+      33
+    ],
+    "text": "Ceylon University (Amendment)",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      159,
+      362,
+      266,
+      26
+    ],
+    "text": "Act, No. 36 of 1956",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      53,
+      454,
+      349,
+      16
+    ],
+    "text": "ae Date of Assent : September 1, 1956",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      121,
+      531,
+      283,
+      26
+    ],
+    "text": ", Printed on the Orders of Government",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      119,
+      751,
+      452,
+      26
+    ],
+    "text": "Parebatel ut\"the Gorn Fomticiviont Sonny Covenans :",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      119,
+      777,
+      333,
+      22
+    ],
+    "text": "ierat tein domino",
+    "mean_p_confidence": 0.06
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      119,
+      798,
+      332,
+      12
+    ],
+    "text": "Bureau, Posr Orrice Box Sd0, Secretariat, Colombo 1",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      117,
+      825,
+      452,
+      14
+    ],
+    "text": "Price: 10 cents, Postage: 10 cents. 7",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      133,
+      27,
+      279,
+      18
+    ],
+    "text": "Ceylon University (Amendment) Act,",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      224,
+      45,
+      107,
+      15
+    ],
+    "text": "No, 86 of 1956",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      97,
+      73,
+      103,
+      14
+    ],
+    "text": "L. D0, 64/55.",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      95,
+      386,
+      15
+    ],
+    "text": "Aw Acr To Auten Tie CEYLON University ORDINANCE,",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58,
+      113,
+      277,
+      13
+    ],
+    "text": ": No. 20 oF 1942.",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      134,
+      135,
+      286,
+      19
+    ],
+    "text": "[Date of Assent: September 1, 1956.]",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      52,
+      159,
+      418,
+      19
+    ],
+    "text": "+ BE it enacted by the Queen's Most Excellent Majesty,",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      175,
+      386,
+      18
+    ],
+    "text": "by and with the advice and consent of the Senate and",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      192,
+      386,
+      18
+    ],
+    "text": "the House of Representatives of Ceylon in this present",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      207,
+      386,
+      17
+    ],
+    "text": "Parliament assembled, and by the authority of the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      226,
+      139,
+      14
+    ],
+    "text": "same, as follows:",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      101,
+      255,
+      451,
+      19
+    ],
+    "text": "4. This Act may be cited as the Ceylon University Ste site.",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      272,
+      448,
+      17
+    ],
+    "text": "(Amendment) Act, No. 36 of 1956, and shall come Spenico.",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      289,
+      330,
+      17
+    ],
+    "text": "into operation on the first day of October, 1956.",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      101,
+      319,
+      459,
+      19
+    ],
+    "text": "2. Section 69 of the Ceylon University Ordinance, Avsndngst of",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      336,
+      451,
+      17
+    ],
+    "text": "No. 20 of 1942, ia hereby amended in sub-section (1) Brdiasser",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      351,
+      481,
+      18
+    ],
+    "text": "of that section by the substitution, for the words No # of 101.",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      369,
+      383,
+      17
+    ],
+    "text": "fifteen per centum , of the words twenty-two per",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      386,
+      71,
+      12
+    ],
+    "text": "centum 7.",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      48,
+      462,
+      14,
+      16
+    ],
+    "text": "2",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      113,
+      861,
+      106,
+      9
+    ],
+    "text": "Js TUS RO",
+    "mean_p_confidence": 0.12
+  }
+]

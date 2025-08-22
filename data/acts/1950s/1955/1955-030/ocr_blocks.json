@@ -1,0 +1,9264 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      105,
+      17,
+      421,
+      30
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      130,
+      64,
+      364,
+      28
+    ],
+    "text": ". 4th Session 195575\" |",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      406,
+      93,
+      132,
+      26
+    ],
+    "text": "Bye yet 7",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      275,
+      121,
+      266,
+      15
+    ],
+    "text": ". 2 a te",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      296,
+      135,
+      163,
+      24
+    ],
+    "text": "Sy oan",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      276,
+      157,
+      218,
+      30
+    ],
+    "text": "Silidy, etre",
+    "mean_p_confidence": -0.0
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      270,
+      183,
+      91,
+      24
+    ],
+    "text": "'s (Gees",
+    "mean_p_confidence": -0.0
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      263,
+      235,
+      112,
+      19
+    ],
+    "text": "ENIMOED",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      75,
+      313,
+      478,
+      35
+    ],
+    "text": "National Housing (Amendment) Act,",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      207,
+      353,
+      204,
+      25
+    ],
+    "text": "No. 30 of 1955",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      207,
+      502,
+      210,
+      16
+    ],
+    "text": "Date of Assent: August 25, 1955",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      414,
+      586,
+      4,
+      7
+    ],
+    "text": ",",
+    "mean_p_confidence": 0.09
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      191,
+      628,
+      239,
+      14
+    ],
+    "text": "Printed on the Orders of Government",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      134,
+      759,
+      352,
+      14
+    ],
+    "text": "Prined at the Gormounse Prt, Ganon. Tobe",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      135,
+      770,
+      353,
+      15
+    ],
+    "text": "Pent tt Eng Sonn, CoLomae",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      134,
+      785,
+      352,
+      14
+    ],
+    "text": "Annual Subscription (including Bils) Re 25, payable in",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      128,
+      796,
+      359,
+      13
+    ],
+    "text": "_Apnoal Subeeirlon Cacedlng BL, Re pee",
+    "mean_p_confidence": 0.08
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      134,
+      804,
+      351,
+      17
+    ],
+    "text": "Bousau, Post Orrick Box 500, Secretariat, Colombo",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      131,
+      825,
+      358,
+      35
+    ],
+    "text": "Ergot 0 cents. Postage: 20 cents.",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      123,
+      5,
+      335,
+      19
+    ],
+    "text": "National Housing (Amendment) Act, 8",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      204,
+      24,
+      117,
+      15
+    ],
+    "text": "No. 30 of 1955.",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      51,
+      109,
+      14
+    ],
+    "text": "L. D.0.-28/55.",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      78,
+      390,
+      15
+    ],
+    "text": "Aw acr TO AMEND 7HE Nationat Housine Act, No. 37",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      95,
+      372,
+      17
+    ],
+    "text": "oF 1954, AND TO REPEAL THE Housine Loans Act,",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      114,
+      247,
+      13
+    ],
+    "text": "No. 28 or 1949. :",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      131,
+      141,
+      262,
+      18
+    ],
+    "text": "[Date of Assent: August 25, 1855]",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      169,
+      375,
+      19
+    ],
+    "text": "BE it enacted by the Queens Most Excellent",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      186,
+      390,
+      19
+    ],
+    "text": "Majesty, by and with tho advice and consent of the",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      203,
+      484,
+      19
+    ],
+    "text": "Senate and the House of Representatives of Ceyion in .",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      220,
+      486,
+      19
+    ],
+    "text": "this present Parliament assembled, and by the :",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      239,
+      273,
+      17
+    ],
+    "text": "authority of the same, as follows:",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      266,
+      442,
+      18
+    ],
+    "text": "1. This Act may be cited as the National Housing Stor tle",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      284,
+      255,
+      17
+    ],
+    "text": "(Amendment) Act, No. 80 of 1955.",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      307,
+      467,
+      21
+    ],
+    "text": "2. Section 6 of the National Housing Act, that's",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      328,
+      480,
+      20
+    ],
+    "text": "No. 37 of 1954 (hereinafter referred to as the Ag Ne 3 of",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      344,
+      429,
+      19
+    ],
+    "text": "principal enactment ) is hereby amended, by the *\"",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      362,
+      388,
+      17
+    ],
+    "text": "addition, at the end of that section, of the following",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      381,
+      471,
+      19
+    ],
+    "text": "mew sub-section : Loy",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      100,
+      400,
+      450,
+      22
+    ],
+    "text": "* (8) No stamp duty shall be payable in respect :",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      421,
+      387,
+      17
+    ],
+    "text": "of any debenture issued for the purpose of any loan",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      437,
+      370,
+      18
+    ],
+    "text": "raised by the Minister under sub-section (1) or in",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      454,
+      447,
+      18
+    ],
+    "text": "respect of any instrument of transfer of any such .",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      472,
+      90,
+      14
+    ],
+    "text": "debenture.",
+    "mean_p_confidence": 0.04
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      497,
+      447,
+      20
+    ],
+    "text": "&.- Section 9 of the principal enactment is hereby 4pminent",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      518,
+      497,
+      22
+    ],
+    "text": "amended as follows: - ie",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      540,
+      436,
+      21
+    ],
+    "text": "(1) by the repeal of sub-section (1) of that section, teat.",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      130,
+      558,
+      320,
+      16
+    ],
+    "text": "and the substitution therefor of the following",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      577,
+      186,
+      13
+    ],
+    "text": ": new sub-section:",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      601,
+      273,
+      20
+    ],
+    "text": "__- (2) There shall be appointed",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115,
+      624,
+      332,
+      29
+    ],
+    "text": "\"-(@) ough mutzbor of persons, by name or by",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      172,
+      640,
+      274,
+      18
+    ],
+    "text": "office, to be or to act as Deputy Com-",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      657,
+      366,
+      20
+    ],
+    "text": ". missioners for National Housing as",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      673,
+      418,
+      21
+    ],
+    "text": "ao. may be deemed necessary for the",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      691,
+      323,
+      19
+    ],
+    "text": ": purposes of this Act; .",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      710,
+      362,
+      21
+    ],
+    "text": ". Q) sach number of persons, by name or by",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      728,
+      379,
+      18
+    ],
+    "text": ", office, to be or to act as Assistant Com-",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      172,
+      745,
+      273,
+      16
+    ],
+    "text": "missioners for National Housing as",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      762,
+      364,
+      18
+    ],
+    "text": ". may. be deemed so necessary; and",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      782,
+      379,
+      20
+    ],
+    "text": ": () soch- number of other officers and",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      800,
+      379,
+      17
+    ],
+    "text": "a servants as may be deemed 80",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      818,
+      278,
+      16
+    ],
+    "text": ". necessary.73 rots",
+    "mean_p_confidence": 0.04
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      842,
+      133,
+      9
+    ],
+    "text": "1m GY",
+    "mean_p_confidence": 0.08
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      175,
+      4,
+      331,
+      18
+    ],
+    "text": "4 National Housing (Amendment) Act,",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      313,
+      22,
+      115,
+      16
+    ],
+    "text": "No. 30 of 1955.",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      193,
+      48,
+      367,
+      30
+    ],
+    "text": "(2) in sub-section of that section, by the substi-",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      241,
+      65,
+      319,
+      15
+    ],
+    "text": "tution, for the words an Assistant Com-",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      241,
+      81,
+      319,
+      18
+    ],
+    "text": "missioner, of the words a Deputy",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      242,
+      98,
+      318,
+      13
+    ],
+    "text": "Commissioner or an Assistant Commis-",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      242,
+      114,
+      97,
+      15
+    ],
+    "text": "sioner; and",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      193,
+      133,
+      367,
+      20
+    ],
+    "text": "(3) in the marginal note to that, section, by the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      240,
+      150,
+      345,
+      15
+    ],
+    "text": "substitution, for the words Assistant Com- ~",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      240,
+      166,
+      319,
+      17
+    ],
+    "text": "missioners, of the words Deputy Com-",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      229,
+      182,
+      303,
+      16
+    ],
+    "text": "_ missioners and Assistant Commissioners.",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79,
+      209,
+      481,
+      18
+    ],
+    "text": "Anesimeat o Section 11. of the principal enactment is hereby",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79,
+      211,
+      481,
+      35
+    ],
+    "text": "Ee miadpt attended by the substitution, For all the words from",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      80,
+      231,
+      480,
+      31
+    ],
+    "text": "soictene An appeal to the end of that section, of the",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      177,
+      257,
+      98,
+      17
+    ],
+    "text": "following :.",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      226,
+      277,
+      334,
+      15
+    ],
+    "text": "The decision of the Commissioner on an",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      209,
+      294,
+      351,
+      19
+    ],
+    "text": "application for the Commissioners approval of",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      208,
+      295,
+      352,
+      48
+    ],
+    "text": "an instrament of association of a huang society",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      208,
+      326,
+      351,
+      17
+    ],
+    "text": "shall, if an address is specified in the application,",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      208,
+      342,
+      352,
+      18
+    ],
+    "text": "be notified in writing to the applicant at that",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      91,
+      358,
+      233,
+      17
+    ],
+    "text": ". | address. 7.",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      74,
+      386,
+      486,
+      16
+    ],
+    "text": "~Ameniment of 8, Section 16 of the principal enactment is hereby",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      80,
+      392,
+      479,
+      43
+    ],
+    "text": "see amended, in\" sub-section (8) OF that, seution, by, the",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      80,
+      418,
+      480,
+      18
+    ],
+    "text": "sucnent. substitution, for all the words from An appeal to",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      176,
+      434,
+      400,
+      20
+    ],
+    "text": "the end of that sub-section, of the following:",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      225,
+      458,
+      334,
+      15
+    ],
+    "text": "The decision of the Commissioner on an",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      208,
+      474,
+      352,
+      20
+    ],
+    "text": "application for the Commissioners approval of",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      208,
+      490,
+      351,
+      19
+    ],
+    "text": "the alteration of the provisions of the instrument",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      208,
+      506,
+      351,
+      18
+    ],
+    "text": "of association of a building society shall, if an",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      208,
+      523,
+      351,
+      17
+    ],
+    "text": "address is specified in the application, be",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      208,
+      539,
+      351,
+      18
+    ],
+    "text": "notified in writing to the applicant at that",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      196,
+      555,
+      68,
+      13
+    ],
+    "text": "+ address. *,",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      78,
+      580,
+      480,
+      21
+    ],
+    "text": "Azgamet gf G. Section 17 of the principal enactment is hereby",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      78,
+      593,
+      480,
+      32
+    ],
+    "text": "the peaspal amended by the substitution, for the words may",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77,
+      614,
+      481,
+      20
+    ],
+    "text": "smciment. appeal , of the words may, within thirty days after",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      175,
+      629,
+      383,
+      22
+    ],
+    "text": "the date on which notice of such refusal is giver to",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      174,
+      645,
+      363,
+      21
+    ],
+    "text": "the applicant for such approval, appeal in writing .",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      73,
+      666,
+      489,
+      42
+    ],
+    "text": "Berlaiemany 7. Section 26 of the principal enactment is hereby",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77,
+      680,
+      347,
+      13
+    ],
+    "text": "Parent) prineipal e1",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77,
+      690,
+      471,
+      16
+    ],
+    "text": "of the peiocipal ealed and the following new section substitute",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77,
+      693,
+      300,
+      26
+    ],
+    "text": "SSE thtnefor: J",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      175,
+      725,
+      382,
+      20
+    ],
+    "text": "on Meletion 28. The Minister may by Order",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      173,
+      726,
+      383,
+      33
+    ],
+    "text": "a published fp the Gazette declare that all",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      173,
+      758,
+      404,
+      22
+    ],
+    "text": "garg or any of the provisions of Part VIIA <",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      169,
+      771,
+      387,
+      38
+    ],
+    "text": "ebetios, of this Act shall apply to loans ie granted",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      268,
+      790,
+      288,
+      20
+    ],
+    "text": "by any building society specified in the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      214,
+      797,
+      342,
+      29
+    ],
+    "text": ": Order or to lone granted by all building",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      268,
+      824,
+      79,
+      12
+    ],
+    "text": "societies.,",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      113,
+      24,
+      331,
+      18
+    ],
+    "text": "National Housing (Amendment) Act, 5",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      193,
+      42,
+      113,
+      15
+    ],
+    "text": "No. 80 of 1988.",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      55,
+      65,
+      479,
+      22
+    ],
+    "text": "_ 8. The title of Part V of the principal enactment Aneinen of",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      53,
+      83,
+      488,
+      18
+    ],
+    "text": "is hereby amended by the substitution, for the word Gr ii proces!",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      54,
+      98,
+      459,
+      19
+    ],
+    "text": "BY of the following: cousins,",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      124,
+      128,
+      251,
+      15
+    ],
+    "text": "BY THE COMMISSIONER,.",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71,
+      155,
+      470,
+      19
+    ],
+    "text": "9. Section 81 of the principal enactment is hereby Reglennsot, ot",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      54,
+      167,
+      471,
+      22
+    ],
+    "text": "repealed and the following new section substituted {print",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      54,
+      179,
+      459,
+      32
+    ],
+    "text": "therefor : : cuckaeate",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      54,
+      214,
+      390,
+      21
+    ],
+    "text": "Hagooe to 81. (1) This Part shall apply to",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      55,
+      214,
+      389,
+      38
+    ],
+    "text": "Fawappis, every house provided by the Chimie.",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      55,
+      246,
+      388,
+      23
+    ],
+    "text": "wed aut, sioner or by @ building company, build-",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      55,
+      262,
+      388,
+      30
+    ],
+    "text": "Beg img society or housing | body for",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      55,
+      277,
+      388,
+      22
+    ],
+    "text": "fede oocapation by any person, whether such",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      56,
+      294,
+      387,
+      19
+    ],
+    "text": "Bheuper. occapation is upon the payment of any",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83,
+      313,
+      446,
+      13
+    ],
+    "text": ". veut or not. .",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      53,
+      329,
+      389,
+      18
+    ],
+    "text": ": (2) Where a house is provided by the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      155,
+      346,
+      287,
+      17
+    ],
+    "text": "Commissioner for occupation by any",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      154,
+      361,
+      288,
+      31
+    ],
+    "text": "pereon, then, with reference to that",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      163,
+      377,
+      385,
+      18
+    ],
+    "text": "ouse, the expreasion landlord in",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      155,
+      393,
+      388,
+      15
+    ],
+    "text": "this Part means the Commissioner, and :",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      155,
+      409,
+      286,
+      18
+    ],
+    "text": "the expression ' ocoupier in this Pact",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      154,
+      427,
+      136,
+      16
+    ],
+    "text": "means that person.",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      49,
+      441,
+      392,
+      19
+    ],
+    "text": ": (8) Where & house is provided by a",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      154,
+      457,
+      371,
+      19
+    ],
+    "text": "building company, building society or -",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      155,
+      473,
+      285,
+      18
+    ],
+    "text": "housing body for occupation by any",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      155,
+      488,
+      285,
+      31
+    ],
+    "text": "person, thea, with reference to that",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      164,
+      504,
+      275,
+      18
+    ],
+    "text": "use, the expression landlord in",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      155,
+      520,
+      284,
+      21
+    ],
+    "text": "this Part means such company, society",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      155,
+      536,
+      283,
+      22
+    ],
+    "text": "ot body, and the expression \"* oceupier",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      155,
+      553,
+      148,
+      17
+    ],
+    "text": "means that person.\"\".",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      74,
+      575,
+      464,
+      20
+    ],
+    "text": "10. Section 48 of the principal enactment ig Rluamet ot",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      55,
+      589,
+      466,
+      33
+    ],
+    "text": "hereby ropealed and the following Section substituted if\" stacaat",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      56,
+      609,
+      454,
+      13
+    ],
+    "text": "therefor : cuca",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      57,
+      631,
+      383,
+      17
+    ],
+    "text": "popeiation ot = 48, The Minister may by Order",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      56,
+      634,
+      383,
+      32
+    ],
+    "text": "ek published in the Gazette declare that all",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      57,
+      663,
+      383,
+      23
+    ],
+    "text": "fens seated or any of the provisions of Part VITA",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      56,
+      679,
+      491,
+      17
+    ],
+    "text": "Gnaiaine. of this Act shall apply to any such loan",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      156,
+      694,
+      391,
+      20
+    ],
+    "text": "granted by the Commissioner as is ot",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157,
+      711,
+      283,
+      18
+    ],
+    "text": "Specified in the Order or to all loans",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      156,
+      727,
+      223,
+      19
+    ],
+    "text": "granted by the Commissioner.",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      54,
+      751,
+      479,
+      29
+    ],
+    "text": "v4. Sootion 50 of the principal enactment is hereby sessing",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      57,
+      763,
+      466,
+      22
+    ],
+    "text": "amended by the addition, at the end of that section, E29",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      57,
+      784,
+      453,
+      17
+    ],
+    "text": "of the following new sub-sections: easdineat",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      109,
+      803,
+      332,
+      18
+    ],
+    "text": "(7) No stamp duty shatt be payable in respect",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      91,
+      819,
+      350,
+      18
+    ],
+    "text": "of any instrument of disposition of Crown laad",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      91,
+      836,
+      133,
+      13
+    ],
+    "text": "under this section.",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      77,
+      22,
+      437,
+      18
+    ],
+    "text": ". 6 National Housing (Amendment) Act,",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      321,
+      40,
+      115,
+      15
+    ],
+    "text": "No. 80 of 1955.",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      142,
+      66,
+      426,
+      19
+    ],
+    "text": "(8) Whire a disposition of Crown land is to be",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      158,
+      82,
+      410,
+      16
+    ],
+    "text": ": made under this ection, the Commissioner may,",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      218,
+      98,
+      351,
+      31
+    ],
+    "text": "if there ig no plan, of that Iand made by the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      218,
+      113,
+      363,
+      37
+    ],
+    "text": "Sasveyor- Gen s Department, cause a survey '",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      218,
+      130,
+      352,
+      32
+    ],
+    "text": "sod plan of that land to be made by @ surveyor",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      218,
+      146,
+      351,
+      19
+    ],
+    "text": "of the Department of National Housing or by",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      219,
+      162,
+      350,
+      19
+    ],
+    "text": "any licensed surveyor approved by the Sarveyor-",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      219,
+      181,
+      70,
+      20
+    ],
+    "text": "General.",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      91,
+      200,
+      479,
+      20
+    ],
+    "text": "Toren of 12, \"The following new Part is hereby inserted",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      87,
+      206,
+      484,
+      47
+    ],
+    "text": "ee pineal immedistely after Part VIII, and ahall \"have effect",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      88,
+      234,
+      439,
+      25
+    ],
+    "text": "eauetment, as Part VIIla, of the principal enactment:",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      320,
+      259,
+      122,
+      13
+    ],
+    "text": "PART VIIa.",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      204,
+      284,
+      352,
+      13
+    ],
+    "text": "PROVISIONS WHICH MAY BE MADE APPLICARLE TO",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      352,
+      290,
+      192,
+      32
+    ],
+    "text": "Loans. .",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      94,
+      316,
+      479,
+      32
+    ],
+    "text": "Apriiaton 624. (1) Any provision of this Part shall apply to",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      82,
+      321,
+      491,
+      38
+    ],
+    "text": "P22\" a loan granted by a building society if by an braer",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93,
+      353,
+      480,
+      25
+    ],
+    "text": "pretation of made under section 26 the Minister declares that",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93,
+      370,
+      378,
+      27
+    ],
+    "text": "\"Eire such provision ebell apply to such loan.",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72,
+      384,
+      501,
+      40
+    ],
+    "text": "a, ser Q) Any provision of this Part shall apply to # loan",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      189,
+      404,
+      384,
+      20
+    ],
+    "text": "granted by the Commissioner if by an Order made",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      189,
+      415,
+      388,
+      27
+    ],
+    "text": "under section 48 the Minister declares that such",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      189,
+      439,
+      392,
+      17
+    ],
+    "text": "provision shall apply to sach loan. :",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      206,
+      461,
+      367,
+      22
+    ],
+    "text": "(3) In this Part the expression appropriate",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      189,
+      480,
+      156,
+      16
+    ],
+    "text": "authority \"",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      222,
+      500,
+      352,
+      20
+    ],
+    "text": "(a) with reference to a loan granted by # building",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      270,
+      518,
+      230,
+      18
+    ],
+    "text": "society, means that society, and",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      223,
+      534,
+      350,
+      31
+    ],
+    "text": "(0) with reference to a loan granted by the",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      271,
+      552,
+      288,
+      17
+    ],
+    "text": "Commissioner, means the Commissioner.",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90,
+      565,
+      484,
+      33
+    ],
+    "text": "Power of 62%. The appropriate authority may call upon any",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      95,
+      570,
+      479,
+      39
+    ],
+    "text": "inte = person to whom a ban bas been or 38 anted by that",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90,
+      599,
+      483,
+      31
+    ],
+    "text": "fo joven authority to satisfy that authority that the loan has",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93,
+      613,
+      480,
+      32
+    ],
+    "text": "Sion to been or is being applied to the purpose for which it",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      94,
+      635,
+      479,
+      15
+    ],
+    "text": "rie has been or is granted, and the person so oalled upon",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      94,
+      638,
+      464,
+      20
+    ],
+    "text": "tan is granted, and the person 0 Pt",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      94,
+      650,
+      479,
+      21
+    ],
+    "text": "po may adduce evidence before the appropriate euthority.",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      190,
+      665,
+      384,
+      22
+    ],
+    "text": "or any officer authorised by that authority to tale suck",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      191,
+      682,
+      383,
+      21
+    ],
+    "text": "evidence, to prove thet the loan has been or is being",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      95,
+      700,
+      279,
+      27
+    ],
+    "text": "ve a applied for such purpose.",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      96,
+      720,
+      477,
+      18
+    ],
+    "text": "Power sf 68c. (1) The appropriate authority may ot any",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      96,
+      724,
+      478,
+      34
+    ],
+    "text": "ey time, in the discretion af that authority and without",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      96,
+      750,
+      480,
+      30
+    ],
+    "text": "Gita. assigning any reason therefor, by written order direct,",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      96,
+      765,
+      478,
+      31
+    ],
+    "text": "Hope thet, within the time specified im that behalf in the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      147,
+      787,
+      422,
+      11
+    ],
+    "text": "order, :",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      224,
+      805,
+      349,
+      19
+    ],
+    "text": "{a) additional security for a loan granted by that",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      272,
+      819,
+      300,
+      21
+    ],
+    "text": "authority be provided to the satisfaction of",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      272,
+      839,
+      136,
+      17
+    ],
+    "text": "that authority, and",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      136,
+      15,
+      332,
+      19
+    ],
+    "text": "National Housing (Amendment) Act, 7",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      216,
+      32,
+      115,
+      17
+    ],
+    "text": "No. 38 of 1965.",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      112,
+      58,
+      354,
+      20
+    ],
+    "text": "() @ Ioan granted by that authority be repaid",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      160,
+      75,
+      178,
+      18
+    ],
+    "text": "either in full or in part.",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      95,
+      94,
+      371,
+      19
+    ],
+    "text": "(@) Where an order issued under sub-section (1) in",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      62,
+      111,
+      404,
+      17
+    ],
+    "text": "< respect of a loan is not complied with within the time",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      78,
+      125,
+      463,
+      21
+    ],
+    "text": "allowed therefor by the order, default shail be deemed = 7.",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      78,
+      141,
+      463,
+      20
+    ],
+    "text": "to be made in respect of the whole of the unpaid ot",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      77,
+      158,
+      388,
+      18
+    ],
+    "text": "Portion of that loan and the interest due thereon up",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      78,
+      173,
+      461,
+      19
+    ],
+    "text": "to date, and, whare that loan was granted on the pa",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      77,
+      190,
+      388,
+      18
+    ],
+    "text": "mortgage of any land, the provisions of sections 621",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      77,
+      206,
+      386,
+      17
+    ],
+    "text": "to 62cc shall apply to and in relation to that loan. .",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      94,
+      225,
+      437,
+      18
+    ],
+    "text": "62n. The appropriate authority may, in Hien of cia ot",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      77,
+      228,
+      444,
+      36
+    ],
+    "text": "the whole or ay bart of any soourity which that \"",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      77,
+      256,
+      386,
+      20
+    ],
+    "text": "anthority has already accepted for any loan, accept",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      76,
+      274,
+      386,
+      17
+    ],
+    "text": "new security if the new security, either alone or",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      76,
+      288,
+      464,
+      28
+    ],
+    "text": "together with any portion of the original seourity be",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      76,
+      304,
+      453,
+      21
+    ],
+    "text": "which is to remain, is sufficient for a new loan of an ar",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      76,
+      322,
+      455,
+      29
+    ],
+    "text": "amount equal to the total of the principal and interest *",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      76,
+      336,
+      352,
+      20
+    ],
+    "text": "still outstanding on account of the original loan.",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93,
+      361,
+      427,
+      18
+    ],
+    "text": "62z.. Every loan shail be repaid Mads at",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      110,
+      378,
+      416,
+      21
+    ],
+    "text": "(@) by instalments specified by the appropriate Sas\"",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      120,
+      398,
+      421,
+      18
+    ],
+    "text": ".. authority and paid at intervals so speci-",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93,
+      414,
+      116,
+      17
+    ],
+    "text": ". fied, or",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      109,
+      433,
+      259,
+      18
+    ],
+    "text": "() im any other manner so specified,",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      92,
+      456,
+      446,
+      25
+    ],
+    "text": "62r. Every person agit:",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      109,
+      473,
+      432,
+      22
+    ],
+    "text": "(@) tw whom a loan is granted by the appropriate Tavs \"as",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157,
+      494,
+      91,
+      17
+    ],
+    "text": "authority, or",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      109,
+      514,
+      348,
+      17
+    ],
+    "text": "(8) who obtains probate of the will or letters of",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157,
+      529,
+      300,
+      34
+    ],
+    "text": "administration to the estate of, person to",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      147,
+      546,
+      310,
+      18
+    ],
+    "text": "+ whom a loan has been granted by the appro.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157,
+      562,
+      360,
+      21
+    ],
+    "text": "priate authority, or oe",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      112,
+      582,
+      429,
+      16
+    ],
+    "text": "(o) who, under section 629, is appointed to gach",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108,
+      582,
+      404,
+      39
+    ],
+    "text": "Teprosent the estate of deveneed borrower, bet",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      101,
+      618,
+      435,
+      10
+    ],
+    "text": ": or",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108,
+      634,
+      349,
+      18
+    ],
+    "text": "@) to whom any right, title or interest in any",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      156,
+      650,
+      309,
+      18
+    ],
+    "text": "land mortgaged to the appropriate -",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      156,
+      659,
+      302,
+      41
+    ],
+    "text": "authority as security for a loan ganted",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      156,
+      682,
+      299,
+      18
+    ],
+    "text": "by that authority, or in any other descrip-",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      156,
+      699,
+      299,
+      28
+    ],
+    "text": "tion of security Yor sach e loan, passes",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      155,
+      714,
+      300,
+      18
+    ],
+    "text": "whether by voluntary conveyances. or by.",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      154,
+      731,
+      284,
+      19
+    ],
+    "text": "operation of law, . .",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      52,
+      741,
+      447,
+      39
+    ],
+    "text": "2. shall notify in writing to the appropriate authority e",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      52,
+      762,
+      381,
+      18
+    ],
+    "text": "* an address to which all notices to him may be sent.",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      89,
+      782,
+      434,
+      30
+    ],
+    "text": "62c. Any notice which is required by or under sass",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      73,
+      783,
+      461,
+      36
+    ],
+    "text": "this Act to be served on any person to whom section Rec,o -",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72,
+      813,
+      416,
+      19
+    ],
+    "text": "2e applies shall be deemed to be daly served on that",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72,
+      830,
+      383,
+      18
+    ],
+    "text": "person if it is sent by post in a registered letter",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      171,
+      13,
+      330,
+      17
+    ],
+    "text": "8 National Housing (Amendment) Act,",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      308,
+      30,
+      115,
+      15
+    ],
+    "text": "No. 80 of 1955.",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      171,
+      56,
+      385,
+      18
+    ],
+    "text": "directed to that person at the address notified by him",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      172,
+      73,
+      384,
+      15
+    ],
+    "text": "under that section, and the service shall be deemed to",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      172,
+      89,
+      384,
+      13
+    ],
+    "text": "be effected at the time at which the letter would be",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      172,
+      105,
+      293,
+      17
+    ],
+    "text": "delivered in the ordinary course of post.",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      73,
+      128,
+      483,
+      17
+    ],
+    "text": "Brio of 62x. Where a loan is granted by the appropriate",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      73,
+      133,
+      484,
+      29
+    ],
+    "text": "ue authority on the morigageof any land, thet land shall",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72,
+      160,
+      484,
+      20
+    ],
+    "text": "wn muds ty on and after the date of the registration of such miort-",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      74,
+      169,
+      483,
+      30
+    ],
+    "text": "slhorny. gage be charged with the payment of the Joan with",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      174,
+      194,
+      383,
+      18
+    ],
+    "text": "interest in priority to every other debt, mortgage or",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      173,
+      209,
+      384,
+      30
+    ],
+    "text": "change alfecting it, excapt a debt which is secared by",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      123,
+      226,
+      425,
+      29
+    ],
+    "text": ": & mortgage duly iegistored prion to gush dato an",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      174,
+      241,
+      383,
+      18
+    ],
+    "text": "which is due to a creditor who in good faith advanced",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      174,
+      258,
+      383,
+      17
+    ],
+    "text": "the money before the loan was granted by the appro-",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      174,
+      274,
+      120,
+      17
+    ],
+    "text": "priate authority.",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      75,
+      294,
+      482,
+      20
+    ],
+    "text": "erp 62. (1) Every mortgage of land executed in favour",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      70,
+      296,
+      487,
+      51
+    ],
+    "text": "Pana of the appropriete sutonty aa security for any loan",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      172,
+      329,
+      330,
+      18
+    ],
+    "text": "shail be substantially in the prescribed form.",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      191,
+      348,
+      366,
+      20
+    ],
+    "text": "(2) Any auch mortgage as is referred to in sub-",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      142,
+      354,
+      415,
+      28
+    ],
+    "text": "et pection. at may include a covenant that a higher rate",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      119,
+      381,
+      438,
+      17
+    ],
+    "text": "\"of interest than that on which the loan was granted",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      86,
+      397,
+      471,
+      19
+    ],
+    "text": ": shall be paid if the borzower fails or neglecta to make",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      174,
+      407,
+      383,
+      40
+    ],
+    "text": "any payment due on account of interest, Prncipal or",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      173,
+      429,
+      384,
+      29
+    ],
+    "text": "otherwise under the mortgage, in full and on the doe",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      77,
+      462,
+      480,
+      22
+    ],
+    "text": "Detail et\" gx. Where dafeult is made in the payment of",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90,
+      477,
+      467,
+      38
+    ],
+    "text": "ue any sum due on any loan granted on the mortgage of",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      175,
+      496,
+      382,
+      19
+    ],
+    "text": "land, whether that sum is due on account of principal",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      175,
+      513,
+      382,
+      18
+    ],
+    "text": "or interest or of hoth, default shall be deemed to be",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      175,
+      529,
+      382,
+      18
+    ],
+    "text": "made in, respect of the whole of the unpaid portion",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      94,
+      545,
+      377,
+      20
+    ],
+    "text": "; of that loan and the interest due thereon.",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      73,
+      555,
+      484,
+      33
+    ],
+    "text": "atin by 621. Where under the provisions of this Act",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      74,
+      571,
+      483,
+      32
+    ],
+    "text": "sey default ia made or is deemed to be made in respect of",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      77,
+      595,
+      480,
+      20
+    ],
+    "text": "TES, g _the whole of the unpaid portion of any loan and the",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      77,
+      608,
+      478,
+      25
+    ],
+    "text": "onde, interest due thereon, the appropriate authority may,",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      175,
+      628,
+      381,
+      18
+    ],
+    "text": "in the discretion of that authority, take action as",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      145,
+      644,
+      412,
+      18
+    ],
+    "text": "Specified either in section 62a or in section 62; and",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      176,
+      660,
+      380,
+      19
+    ],
+    "text": "where in any case the appropriate authority takes",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      100,
+      676,
+      456,
+      19
+    ],
+    "text": ": action or commences-to take action in accordance with",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      175,
+      693,
+      381,
+      18
+    ],
+    "text": "section 62M, thet authority may at any time there-",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      175,
+      699,
+      382,
+      28
+    ],
+    "text": "alter take attion in that case under seotion 62 if that",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      176,
+      724,
+      270,
+      19
+    ],
+    "text": "authority deems it necessary to do so.",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      76,
+      746,
+      480,
+      22
+    ],
+    "text": "Pateege 82m. Subject to the provisions of section 624, the",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      78,
+      764,
+      478,
+      21
+    ],
+    "text": "to tale, appropriate authority may by order in writing",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      76,
+      778,
+      480,
+      30
+    ],
+    "text": "BiBeigs tuborize any person specified in the order to entet",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      76,
+      797,
+      480,
+      17
+    ],
+    "text": "ted; upon - any land mortgaged to the appropriate",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      174,
+      811,
+      381,
+      29
+    ],
+    "text": "authority an secority for any loan in respect of which",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      174,
+      827,
+      382,
+      20
+    ],
+    "text": "default has been made, to take possession of and to",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      118,
+      17,
+      329,
+      19
+    ],
+    "text": "National Housing (Amendment) Act, 9",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      197,
+      34,
+      113,
+      16
+    ],
+    "text": "No, 80 of 1955.",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      59,
+      61,
+      387,
+      17
+    ],
+    "text": "manage and maintain such land, and to exercise the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      58,
+      78,
+      388,
+      17
+    ],
+    "text": "same powers in the control and management of such",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      60,
+      92,
+      386,
+      20
+    ],
+    "text": "land as might have been exercised by the mortgagor",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      59,
+      108,
+      198,
+      15
+    ],
+    "text": "if he had not made default.",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      75,
+      129,
+      430,
+      30
+    ],
+    "text": "62x. (1) Any person authorised by order of the Preceiue",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      58,
+      145,
+      455,
+      27
+    ],
+    "text": "appropriate authority under section 62a in respect Sr",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      58,
+      161,
+      449,
+      18
+    ],
+    "text": "of any land shall be entitled generally to take action spltint",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      59,
+      176,
+      302,
+      18
+    ],
+    "text": "in terms of the order and in particular",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      93,
+      196,
+      262,
+      18
+    ],
+    "text": "(@) to sell the produce of such land;",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      93,
+      216,
+      415,
+      19
+    ],
+    "text": "(8) to receive the rents, profits or other income .",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      141,
+      233,
+      118,
+      16
+    ],
+    "text": "from such land;",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      92,
+      252,
+      351,
+      18
+    ],
+    "text": "() to pay the expenses incurred in the onntrol",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      141,
+      270,
+      302,
+      16
+    ],
+    "text": "and management of such land out of the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      140,
+      285,
+      244,
+      16
+    ],
+    "text": "income from such land; .",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      91,
+      300,
+      351,
+      18
+    ],
+    "text": "{@) to appropriate to himself out of such income",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      140,
+      317,
+      301,
+      18
+    ],
+    "text": "such sum, if any, as the appropriate",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      137,
+      333,
+      304,
+      17
+    ],
+    "text": "authority may deem tit to fix as remunera-",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      140,
+      349,
+      354,
+      16
+    ],
+    "text": "tion for bis services; and .",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      91,
+      364,
+      349,
+      18
+    ],
+    "text": "(e) to remain in possession of such land until all",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139,
+      373,
+      369,
+      42
+    ],
+    "text": "moneys due to the approprints authority +e",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139,
+      397,
+      367,
+      19
+    ],
+    "text": "under the mortgage of such land have been :",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      140,
+      410,
+      299,
+      37
+    ],
+    "text": "fully paid or until he is ilirected by that",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139,
+      413,
+      299,
+      37
+    ],
+    "text": "authority to yield possession of such land",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      138,
+      434,
+      153,
+      28
+    ],
+    "text": "under sub-section &",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      53,
+      463,
+      384,
+      32
+    ],
+    "text": "+ (2) Any person authorised by order of the appre.",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      51,
+      471,
+      387,
+      41
+    ],
+    "text": "pests authority under section 62u in respect of any",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      79,
+      496,
+      66,
+      13
+    ],
+    "text": "id shali",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      89,
+      516,
+      346,
+      18
+    ],
+    "text": "{@) pay monthly, out of the income of such land,",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      137,
+      533,
+      299,
+      17
+    ],
+    "text": "such sum, if any, as the appropriate",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      137,
+      549,
+      299,
+      16
+    ],
+    "text": "authority in the discretion of that autho-",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      137,
+      565,
+      299,
+      17
+    ],
+    "text": "rity may fix, to the mortgagor for his",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      137,
+      581,
+      93,
+      15
+    ],
+    "text": "maintenance;",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      88,
+      599,
+      348,
+      19
+    ],
+    "text": "() pay quarterly or as otherwise directed by the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      137,
+      617,
+      299,
+      17
+    ],
+    "text": "appropriate authority to such person or",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      137,
+      633,
+      299,
+      15
+    ],
+    "text": "persons and in such manner as that",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      137,
+      648,
+      299,
+      29
+    ],
+    "text": "authority may direct the balance ct the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      136,
+      664,
+      299,
+      20
+    ],
+    "text": "income from such land remaining after the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      132,
+      676,
+      303,
+      37
+    ],
+    "text": "payments hereinbefore authorised have",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      158,
+      697,
+      58,
+      14
+    ],
+    "text": "a made;",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      87,
+      715,
+      348,
+      19
+    ],
+    "text": "{) keep and render to the appropriate authority",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      136,
+      732,
+      299,
+      18
+    ],
+    "text": "at such intervals as that authority may",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      136,
+      748,
+      298,
+      15
+    ],
+    "text": "determine, clear and accurate records of all.",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      135,
+      765,
+      299,
+      17
+    ],
+    "text": "sums received or paid out by him in res-",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      136,
+      780,
+      157,
+      16
+    ],
+    "text": "pect of such land; and",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      86,
+      796,
+      348,
+      20
+    ],
+    "text": "(@ yield possession of such land to the mortgagor",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      135,
+      814,
+      374,
+      18
+    ],
+    "text": "or some other person as directed by the :",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      135,
+      830,
+      299,
+      18
+    ],
+    "text": "appropriate authority and pay to that",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      186,
+      19,
+      330,
+      17
+    ],
+    "text": "10 National Housing (Amendment) Act,",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      326,
+      35,
+      115,
+      17
+    ],
+    "text": "No. 30 of 1955.",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      271,
+      63,
+      296,
+      17
+    ],
+    "text": "authority any balance of the income from",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      270,
+      79,
+      298,
+      14
+    ],
+    "text": "such land remaining in his hands after the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      270,
+      80,
+      298,
+      48
+    ],
+    "text": "payments hhereinbevore authorised have",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      279,
+      112,
+      301,
+      12
+    ],
+    "text": "een made.",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      204,
+      131,
+      365,
+      18
+    ],
+    "text": "(8) The appropriate authority shall, when all sums",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      187,
+      147,
+      381,
+      18
+    ],
+    "text": "due to that authority under the mortgage have been",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      187,
+      163,
+      381,
+      18
+    ],
+    "text": "fully paid, surrender possession of the mortgaged land",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      187,
+      180,
+      382,
+      18
+    ],
+    "text": "to the mortgagor end return to him any belence",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      188,
+      197,
+      299,
+      17
+    ],
+    "text": "remaining of the income from such land.",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      87,
+      218,
+      482,
+      20
+    ],
+    "text": "Aptwiaven _62r. Subject to the provisions of section 629, the",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      87,
+      228,
+      482,
+      30
+    ],
+    "text": "mortgaged appropriate authority may by order in writing",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      83,
+      240,
+      486,
+      32
+    ],
+    "text": "tina authorise any person specified in the order to sell by",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      188,
+      262,
+      381,
+      40
+    ],
+    "text": "public suction any land mortgaged to that authority",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      188,
+      286,
+      382,
+      18
+    ],
+    "text": "as security for any loan in respect of which defanlt",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      189,
+      302,
+      381,
+      15
+    ],
+    "text": "has been made in order to recover the whole of the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      188,
+      319,
+      383,
+      17
+    ],
+    "text": "unpaid portion of such loan and the interest dae",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      187,
+      336,
+      384,
+      18
+    ],
+    "text": "thereon up to the date of the sale, together with the",
+    "mean_p_confidence": 0.88
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      188,
+      354,
+      350,
+      15
+    ],
+    "text": "moneys and costs recoverable under section @2W.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      85,
+      366,
+      486,
+      30
+    ],
+    "text": "Wee 629. (1} Save as otherwise provided in sub-section",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      89,
+      391,
+      482,
+      17
+    ],
+    "text": "fo deed, 2), the provision of sections 62a and 62r shall apply",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      189,
+      408,
+      382,
+      18
+    ],
+    "text": "in the case of any default notwithstanding that the",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      185,
+      414,
+      386,
+      41
+    ],
+    "text": "borrower rony have died or that any right title or",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      189,
+      430,
+      392,
+      30
+    ],
+    "text": "interest in the land mortgaged by the Gonrower 29",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      189,
+      458,
+      382,
+      19
+    ],
+    "text": "security for the loan may have passed by voluntary",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      189,
+      476,
+      381,
+      18
+    ],
+    "text": "conveyance or by operation of law to any other person.",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      207,
+      496,
+      365,
+      18
+    ],
+    "text": "(2) Where the borrower is dead and probate of his",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      190,
+      513,
+      382,
+      15
+    ],
+    "text": "will or letters of administration to his estate have not",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      190,
+      529,
+      104,
+      16
+    ],
+    "text": "been issued,",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      223,
+      554,
+      349,
+      16
+    ],
+    "text": "(a) the District Court of Colombo or the District",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      273,
+      569,
+      298,
+      20
+    ],
+    "text": "Court of the district in which the land",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      271,
+      586,
+      301,
+      19
+    ],
+    "text": "mortgaged by the borrower as security for",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      272,
+      599,
+      300,
+      38
+    ],
+    "text": "the loan is situate may, upon application",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      272,
+      609,
+      300,
+      28
+    ],
+    "text": "made in that behalf by ie appropriate",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      272,
+      635,
+      300,
+      21
+    ],
+    "text": "authority and after service of notice of the",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      272,
+      651,
+      300,
+      19
+    ],
+    "text": "application on such persons, if any, as the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      273,
+      668,
+      299,
+      18
+    ],
+    "text": "Court may order, and if satisfied that the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      272,
+      684,
+      300,
+      18
+    ],
+    "text": "grant of probate or the issue of letters of",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      273,
+      700,
+      299,
+      20
+    ],
+    "text": "administration is likely to be unduly",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      273,
+      717,
+      299,
+      19
+    ],
+    "text": "delayed, appoint a person to represent the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      272,
+      733,
+      300,
+      19
+    ],
+    "text": "estate of the borrower for the purpose of",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      273,
+      750,
+      304,
+      20
+    ],
+    "text": "this sub-section, and. *",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      225,
+      769,
+      346,
+      18
+    ],
+    "text": "() the provisions of sections 62m and 62P shail",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      272,
+      786,
+      299,
+      18
+    ],
+    "text": "not apply in the case of any defoult made",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      272,
+      789,
+      298,
+      36
+    ],
+    "text": "by the borrower anless and until a repre-",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      272,
+      819,
+      298,
+      18
+    ],
+    "text": "sentative of his estate ia appointed under",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      273,
+      834,
+      113,
+      15
+    ],
+    "text": "thie sub-section.",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      137,
+      19,
+      333,
+      18
+    ],
+    "text": "National Housing (Amendment) Act, 11",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      218,
+      37,
+      115,
+      16
+    ],
+    "text": "No. 80 of 1988.",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      95,
+      60,
+      438,
+      21
+    ],
+    "text": "82. Notice of every order under section 62e Note pf",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      78,
+      79,
+      460,
+      19
+    ],
+    "text": "authorising the sale of any land ehall be published in Cpprepste",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      47,
+      93,
+      498,
+      23
+    ],
+    "text": "_ the Gazetie and in a daily newspaper printed in ul",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      45,
+      111,
+      423,
+      19
+    ],
+    "text": "+ English, and copies of such notice shall be served on",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      78,
+      127,
+      390,
+      29
+    ],
+    "text": "the borrower, if he is alive, and on every person who",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      77,
+      143,
+      391,
+      21
+    ],
+    "text": "has, in respect of that land, notified his address under",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      78,
+      162,
+      87,
+      12
+    ],
+    "text": "section 627.",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      95,
+      176,
+      434,
+      30
+    ],
+    "text": "525, Notice of the date, time and place of every sale Nae",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      78,
+      191,
+      426,
+      18
+    ],
+    "text": "shail, not less than fourteen days before the date fixed \"",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      79,
+      199,
+      388,
+      27
+    ],
+    "text": "for the sale, be published in the Gazetts, and copies",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      77,
+      216,
+      189,
+      24
+    ],
+    "text": "of such notice sal be",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      113,
+      245,
+      353,
+      19
+    ],
+    "text": "(@) served on the borrower, if he is alive, and on",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      162,
+      260,
+      304,
+      22
+    ],
+    "text": "every person on whom notice of the order",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      58,
+      276,
+      407,
+      32
+    ],
+    "text": ". authorising the sale ig required to be",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      162,
+      295,
+      186,
+      13
+    ],
+    "text": "served under section 62n;",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      114,
+      313,
+      350,
+      20
+    ],
+    "text": "() posted on or near the land which is to be sold;",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      158,
+      323,
+      398,
+      32
+    ],
+    "text": "and :",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      114,
+      350,
+      349,
+      19
+    ],
+    "text": "(0) affixed to the walls of the Kachcheri and the",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      163,
+      366,
+      299,
+      17
+    ],
+    "text": "several District Courts and Magistrates",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      163,
+      382,
+      299,
+      19
+    ],
+    "text": "Courts within the jurisdiction of which the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      162,
+      401,
+      113,
+      13
+    ],
+    "text": "land is situate,",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      46,
+      421,
+      473,
+      20
+    ],
+    "text": ". _ 62r, (1) If the amount of the whole of the unpaid ym",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      44,
+      426,
+      489,
+      48
+    ],
+    "text": "+ portion ay tbe loan eestor with all interest due a",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      78,
+      449,
+      382,
+      38
+    ],
+    "text": "thereon according to the terms of the mortgage), and",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      77,
+      470,
+      383,
+      20
+    ],
+    "text": "of the moneys and costs, if any, recoverable by the",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      78,
+      486,
+      381,
+      20
+    ],
+    "text": "appropriate authority under section 62w is tendered",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      78,
+      502,
+      381,
+      19
+    ],
+    "text": "to that authority at any time before the date fixed",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      78,
+      510,
+      381,
+      36
+    ],
+    "text": "for the sale of the land mortgaged to that authority",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      78,
+      534,
+      371,
+      20
+    ],
+    "text": "as security for the loan, that land shall not be ol",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      78,
+      550,
+      380,
+      20
+    ],
+    "text": "and no further steps shall be taken in pursuance of",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      78,
+      566,
+      378,
+      16
+    ],
+    "text": "the order under section 627 for the sale of that land.",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      96,
+      588,
+      361,
+      19
+    ],
+    "text": "(2) If the amount of the instalment or other pay-",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      77,
+      604,
+      378,
+      32
+    ],
+    "text": "ment, in respect of which default has been made,",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      77,
+      620,
+      379,
+      19
+    ],
+    "text": "together with any interest due thereon according to",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      78,
+      635,
+      411,
+      32
+    ],
+    "text": "the terms of the mortgage, and of the moneys and *",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      77,
+      652,
+      379,
+      30
+    ],
+    "text": "costs, if any, recoverable by the appropriate authority",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      77,
+      664,
+      410,
+      37
+    ],
+    "text": "under section 62w is tendered to that thority at any",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      64,
+      684,
+      392,
+      16
+    ],
+    "text": "4 time before the date fixed for the sele of the land",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      49,
+      700,
+      405,
+      20
+    ],
+    "text": "+ mortgaged to that authority as security for the loan,",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      64,
+      716,
+      392,
+      20
+    ],
+    "text": "that authority may, in the discretion of that",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      78,
+      733,
+      378,
+      19
+    ],
+    "text": "authority, direct that euch land shall not be sold and",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      47,
+      749,
+      409,
+      18
+    ],
+    "text": "+ that no further steps shall be taken in pursuance of",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      77,
+      765,
+      378,
+      15
+    ],
+    "text": "the order under section @2p for the sale of sueh land.",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      95,
+      782,
+      437,
+      39
+    ],
+    "text": "@2u. The appropriate authority may fix an upset st Fis",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      77,
+      804,
+      380,
+      17
+    ],
+    "text": "price below which the land mortgaged to that authority",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      77,
+      820,
+      380,
+      18
+    ],
+    "text": "a8 security for the loan shall not be sold to any person",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      77,
+      836,
+      188,
+      17
+    ],
+    "text": "other than that authority.",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      175,
+      18,
+      330,
+      19
+    ],
+    "text": "32 National Housing (Amendment) Act,",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      313,
+      35,
+      116,
+      17
+    ],
+    "text": "No. 80.0f 1966.",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      74,
+      61,
+      482,
+      18
+    ],
+    "text": "Defeat in @2v. In gny case where two loans have been",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      68,
+      69,
+      488,
+      29
+    ],
+    "text": "ana granted by the appropriate authority on the security",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      73,
+      93,
+      483,
+      37
+    ],
+    "text": "{ome on the Of the same land and default is made in the payment",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72,
+      105,
+      508,
+      23
+    ],
+    "text": "ome im. of any sum due upon any one of such loans, the fore.",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      173,
+      117,
+      382,
+      45
+    ],
+    "text": "going provisions of this Part shall apply notwith-",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      173,
+      141,
+      383,
+      21
+    ],
+    "text": "standing that default may not have been made in",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      170,
+      157,
+      386,
+      37
+    ],
+    "text": "vespect of the other loan; and the appropriate authority",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      172,
+      174,
+      383,
+      19
+    ],
+    "text": "may, in any euch case, by order under section 6?",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      172,
+      178,
+      383,
+      31
+    ],
+    "text": "authorise the sale of tha lend for the recovery of the",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      172,
+      206,
+      383,
+      20
+    ],
+    "text": "total amount due to that authority in respect of both",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      171,
+      221,
+      384,
+      21
+    ],
+    "text": "such loang; and the provisions of this Part shall apply",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      171,
+      238,
+      87,
+      17
+    ],
+    "text": "accordingly,",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      73,
+      258,
+      480,
+      21
+    ],
+    "text": "Recovery af 62w. In addition to the amount due on any loan,",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      71,
+      271,
+      483,
+      23
+    ],
+    "text": "ie imewea the appropriate authority may recover from the",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      74,
+      289,
+      496,
+      22
+    ],
+    "text": "bye borrower or any person acting on his behalf .",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      68,
+      299,
+      486,
+      45
+    ],
+    "text": "phe @ all moneys expended by that euthority, in",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      254,
+      329,
+      300,
+      14
+    ],
+    "text": "accordance with the covenants contained",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      252,
+      343,
+      301,
+      22
+    ],
+    "text": "in the mortgage bond exeouted by the",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      252,
+      360,
+      301,
+      17
+    ],
+    "text": "Person to whom the loan was made, in the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      252,
+      376,
+      301,
+      20
+    ],
+    "text": "Payment of preminms and other charges",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      252,
+      391,
+      301,
+      18
+    ],
+    "text": "under any policy of insurance effected in",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      252,
+      408,
+      301,
+      18
+    ],
+    "text": "Tespect of the land mortgaged to that",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      102,
+      423,
+      450,
+      19
+    ],
+    "text": "o authority, and in the payment of all other",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      251,
+      440,
+      329,
+      18
+    ],
+    "text": "costs and charges authorised hy the afore-",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      251,
+      454,
+      300,
+      20
+    ],
+    "text": "said covenants to be incurred by that",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      251,
+      470,
+      106,
+      17
+    ],
+    "text": "authority; and",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      203,
+      488,
+      347,
+      21
+    ],
+    "text": "() the costs of advertising the sale of, and of",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      250,
+      506,
+      205,
+      19
+    ],
+    "text": "selling, the mortgaged land:",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      185,
+      523,
+      365,
+      19
+    ],
+    "text": "Provided that the amount recovered as costs under",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      168,
+      540,
+      381,
+      18
+    ],
+    "text": "Paragraph (6) of this section shall not excsed such",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      168,
+      557,
+      322,
+      20
+    ],
+    "text": "Peresatage of tha loan as may be prescribed.",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      71,
+      576,
+      478,
+      33
+    ],
+    "text": "Expt ot @2x. Where the Morigaged land is sold, the",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      70,
+      589,
+      479,
+      26
+    ],
+    "text": "eg appropriate authority shall, after deducting from the",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      69,
+      608,
+      479,
+      24
+    ],
+    "text": "Sethe! Proceeds of the sale the amount due on the mortgage",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      65,
+      617,
+      483,
+      28
+    ],
+    "text": "sehastion of ald the moneys and costs recoverable under section",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      69,
+      639,
+      479,
+      23
+    ],
+    "text": "Be sunomiets 62W, pay the balance remaining, if any, either to the",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      68,
+      641,
+      480,
+      37
+    ],
+    "text": "uberis, borrower or to any person legally entitled to accept",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      166,
+      670,
+      381,
+      24
+    ],
+    "text": "the payments due to the borrower, or, if the appro-",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      167,
+      688,
+      380,
+      21
+    ],
+    "text": "Priate authority is in doubt as.to whom the money",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      166,
+      701,
+      381,
+      21
+    ],
+    "text": "should be paid, into the District Court of the district",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      166,
+      718,
+      381,
+      23
+    ],
+    "text": "in which such lend is situate to be drawn by the",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      166,
+      736,
+      168,
+      15
+    ],
+    "text": "Person entitled thereto.",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      63,
+      745,
+      506,
+      31
+    ],
+    "text": "Cartieato 62x. (1) Where the mortgaged land is sold, the if",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      66,
+      763,
+      480,
+      40
+    ],
+    "text": "of sale. appropriate authority shall fee a certificate of sale",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      166,
+      786,
+      379,
+      33
+    ],
+    "text": "and thereupon all the right, title and interest of the",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      165,
+      801,
+      380,
+      25
+    ],
+    "text": "borrower to and in the land shall vest in the por",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      165,
+      817,
+      380,
+      24
+    ],
+    "text": "cheser; and thereafter it shall not be competent for",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      165,
+      836,
+      380,
+      22
+    ],
+    "text": "any person claiming through or under any disposition",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      116,
+      16,
+      333,
+      18
+    ],
+    "text": "National Housing (Amendment) Act, 18",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      175,
+      34,
+      138,
+      18
+    ],
+    "text": "_ No, 80 of 1985.",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      56,
+      58,
+      391,
+      36
+    ],
+    "text": "whatsoever of the right, title or interest of the",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      57,
+      75,
+      390,
+      17
+    ],
+    "text": "borrower to and in the land, made or registered after",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      57,
+      86,
+      394,
+      38
+    ],
+    "text": "the date of the mortgage of the land to the appro.",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      56,
+      107,
+      390,
+      20
+    ],
+    "text": "priate authority, in any court to move to invalidate",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      56,
+      123,
+      390,
+      21
+    ],
+    "text": "the sale for any cause whatsoever or to maintain any",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      56,
+      138,
+      390,
+      20
+    ],
+    "text": "right, title or interest to or in the land as against the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      55,
+      158,
+      77,
+      16
+    ],
+    "text": "purchaser.",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      74,
+      172,
+      372,
+      20
+    ],
+    "text": "(2) A certificate signed by the appropriate authority",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      56,
+      177,
+      389,
+      31
+    ],
+    "text": "uniier sob section (I) shall be coneluatre proof, with",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      55,
+      200,
+      390,
+      37
+    ],
+    "text": "xespect to the sale of any land, that all the provisions",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      55,
+      220,
+      389,
+      20
+    ],
+    "text": "of this Part relating to the sale of the land have been",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      55,
+      240,
+      112,
+      16
+    ],
+    "text": "complied with.",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      73,
+      256,
+      370,
+      20
+    ],
+    "text": "(8) Regulations may be made under this Act",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      54,
+      264,
+      336,
+      28
+    ],
+    "text": "Prescribing the form of the certificate of sale.",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      73,
+      292,
+      369,
+      36
+    ],
+    "text": "() Every certificate of sale issued under this section",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      54,
+      308,
+      388,
+      20
+    ],
+    "text": "shall be liable to stamp duty and charges as if it were",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      54,
+      318,
+      387,
+      40
+    ],
+    "text": "& conveyance of immovable property and to any regis-",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      55,
+      339,
+      386,
+      22
+    ],
+    "text": "tration and other charges authorised by law, all of",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      54,
+      347,
+      292,
+      29
+    ],
+    "text": "which shall be payable by the purchaser.",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72,
+      369,
+      440,
+      37
+    ],
+    "text": "622. The purchaser of any land sold in pur Que Otay",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      54,
+      389,
+      453,
+      21
+    ],
+    "text": "suance of the preceding provisions of this Part shall, pascson",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      53,
+      397,
+      385,
+      40
+    ],
+    "text": "upon application made to the District Court. of",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      66,
+      422,
+      372,
+      17
+    ],
+    "text": "oloimbe or the Distriet. Court having jurisdiction over",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      38,
+      437,
+      399,
+      22
+    ],
+    "text": ";, the place where that land is situate and upon produe-",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      37,
+      453,
+      400,
+      19
+    ],
+    "text": "tion of the certificate of sale issued in respect of that",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      52,
+      469,
+      384,
+      18
+    ],
+    "text": "land under section 62v, be entitled to obtain an order",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      52,
+      486,
+      283,
+      19
+    ],
+    "text": "for delivery of possession of that land.",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      71,
+      500,
+      364,
+      43
+    ],
+    "text": "@) Every application under sub-section (1) shall he",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      51,
+      523,
+      384,
+      19
+    ],
+    "text": "made, and shall be disposed of, by way of summary",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      51,
+      532,
+      384,
+      41
+    ],
+    "text": "procedure in sccordance with the provisions of",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      64,
+      554,
+      429,
+      20
+    ],
+    "text": "chapter XXIV of the Civit Procedure Code; and on cep 6",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      52,
+      569,
+      383,
+      22
+    ],
+    "text": "all documents filed for the purpose of each such appli-",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      51,
+      587,
+      383,
+      20
+    ],
+    "text": "eation and on all proceedings held thereupon, stamp",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      51,
+      593,
+      384,
+      42
+    ],
+    "text": "duties and other charges shall be payable at the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      51,
+      609,
+      384,
+      28
+    ],
+    "text": "respective rabes at which auch duties and charges ate",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      50,
+      634,
+      384,
+      30
+    ],
+    "text": "payable under any writzen law for the time being in",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      58,
+      649,
+      375,
+      23
+    ],
+    "text": "force on applications for, and proceedings connected:",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      50,
+      665,
+      383,
+      21
+    ],
+    "text": "with or incidental to, the execution of a decres of #",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      50,
+      673,
+      383,
+      41
+    ],
+    "text": "District. Court for the delivery of possession of any",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      49,
+      697,
+      383,
+      20
+    ],
+    "text": "immovable property of the same value 2s the land to",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      49,
+      715,
+      225,
+      18
+    ],
+    "text": "which such application relates.",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      68,
+      734,
+      428,
+      32
+    ],
+    "text": "{@) [Where any land sold in pormanoe of the pre- :",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      75,
+      745,
+      355,
+      42
+    ],
+    "text": "ing provisions of this Part is in the occupancy of",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      45,
+      766,
+      384,
+      20
+    ],
+    "text": "the debtor or of some person on bis behalf or of some",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      48,
+      782,
+      381,
+      21
+    ],
+    "text": "person claiming under title created by the debtor",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      48,
+      793,
+      383,
+      38
+    ],
+    "text": "Subsequently to the mortgage of the land to the sppro-",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      47,
+      814,
+      382,
+      20
+    ],
+    "text": "priate authority, the District Court shall order deli-",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      48,
+      830,
+      468,
+      20
+    ],
+    "text": "Very of possession of that land to be made to the .",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      178,
+      15,
+      332,
+      17
+    ],
+    "text": "14 National Housing (Amsndment) Act,",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      319,
+      33,
+      141,
+      19
+    ],
+    "text": "No. 30 of 1955.",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      177,
+      60,
+      383,
+      20
+    ],
+    "text": "purchaser by putting the purchaser, or any person",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      177,
+      75,
+      383,
+      19
+    ],
+    "text": "whom he may appoint to receive possession on his",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      177,
+      94,
+      254,
+      17
+    ],
+    "text": "bebalf, in possession of that land.",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      195,
+      113,
+      376,
+      18
+    ],
+    "text": "(4) Where any land gold in pursuance of the preced- -",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      178,
+      130,
+      383,
+      17
+    ],
+    "text": "ing provisions of this Part is in the occupancy of a",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      178,
+      146,
+      383,
+      18
+    ],
+    "text": "tenant or other person entitled to occupy it, the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      179,
+      163,
+      382,
+      20
+    ],
+    "text": "District Court shall order delivery of possession of",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      179,
+      181,
+      383,
+      29
+    ],
+    "text": "that land to be made to the purchaser by affixing @",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      179,
+      196,
+      382,
+      19
+    ],
+    "text": "notice of the sale having taken place, in the English,",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      179,
+      214,
+      383,
+      18
+    ],
+    "text": "Sinhalese and Tamil languages, in some conspicuous",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      179,
+      231,
+      384,
+      18
+    ],
+    "text": "place on that land, and proclaiming to the oceupant",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      179,
+      246,
+      384,
+      18
+    ],
+    "text": "by beat of tom-tom, or in such other mode as may be",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      86,
+      264,
+      477,
+      18
+    ],
+    "text": ". + customary, at some convenient place, that the interest",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      180,
+      280,
+      382,
+      17
+    ],
+    "text": "of the debtor has been transferred to the purchaser.",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      181,
+      296,
+      382,
+      19
+    ],
+    "text": "The cost of such proclamation shall be fixed by the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      181,
+      313,
+      383,
+      19
+    ],
+    "text": "court and shall in every case be prepaid by the",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      181,
+      330,
+      75,
+      17
+    ],
+    "text": "purchaser.",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      200,
+      350,
+      365,
+      17
+    ],
+    "text": "(6) Every order under sub-section (8) or sub-section",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      183,
+      347,
+      382,
+      48
+    ],
+    "text": "hall be deemed, 25 the case may & to be an order",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      190,
+      383,
+      375,
+      29
+    ],
+    "text": "for delivery of posession made under section 287 oF",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      84,
+      399,
+      481,
+      16
+    ],
+    "text": "ap. 8: section 288 of the Civil Procedure Code, and may",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      183,
+      414,
+      382,
+      16
+    ],
+    "text": "be enforced in like manner as an order so made, the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      184,
+      430,
+      381,
+      20
+    ],
+    "text": "debtor and the purchaser being deemed, for the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      184,
+      447,
+      395,
+      28
+    ],
+    "text": "Purpose of the application of any provision of that",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      185,
+      463,
+      379,
+      19
+    ],
+    "text": "Code, to be the .judgment-debtor and judgment-",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      184,
+      479,
+      151,
+      19
+    ],
+    "text": "creditor respectively.",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      83,
+      490,
+      485,
+      46
+    ],
+    "text": "Spacalaion 62aA, Where the land sold is purchased by the",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      185,
+      519,
+      380,
+      15
+    ],
+    "text": "appropriate authority, that authority may, at any time",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      185,
+      516,
+      380,
+      41
+    ],
+    "text": "belore that authorigy re-eells that Iona, cancel the",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      186,
+      548,
+      379,
+      16
+    ],
+    "text": "sale by an endorsement to that effect on a certified",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      186,
+      565,
+      379,
+      19
+    ],
+    "text": "copy of the certificate of sale, upon the debtor of any",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      186,
+      581,
+      379,
+      19
+    ],
+    "text": "person on his behalf paying the amount dne in respect",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      99,
+      596,
+      466,
+      20
+    ],
+    "text": ". of the loan for which the land was sold {including the",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      186,
+      610,
+      382,
+      36
+    ],
+    "text": "costs of seizure and sale) and interest on the ageregate",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      187,
+      628,
+      378,
+      23
+    ],
+    "text": "sum at a rate not exceeding the prescribed rate. Such",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      187,
+      645,
+      379,
+      20
+    ],
+    "text": "an endorsement shall, upon registration in the office",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      187,
+      658,
+      379,
+      37
+    ],
+    "text": "of the Registrar of Lands, re-vest the land in the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      187,
+      677,
+      378,
+      19
+    ],
+    "text": "debtor as though the sale under this Part had not been",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      85,
+      710,
+      481,
+      33
+    ],
+    "text": "Bosale ty $2en. (1) Where the land sold is purchased by the",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      88,
+      727,
+      478,
+      29
+    ],
+    "text": "ERZE\" appropriate authority and the sale io nob cancelled",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      188,
+      753,
+      379,
+      20
+    ],
+    "text": "under section 6244, that authority may at any time",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      188,
+      769,
+      384,
+      20
+    ],
+    "text": "re-sell the land and transfer to the purchaser by",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      187,
+      787,
+      379,
+      19
+    ],
+    "text": "endorsement on such copy of the certificate of sale as",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      89,
+      802,
+      476,
+      21
+    ],
+    "text": ": is certified by that authority to be a true copy, all",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      188,
+      819,
+      377,
+      18
+    ],
+    "text": "the right, title and -interest to or in that lend",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      187,
+      838,
+      199,
+      18
+    ],
+    "text": "acquired by thet authority.",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      112,
+      13,
+      334,
+      23
+    ],
+    "text": "National Housing (Amendment) Act, 15",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      194,
+      36,
+      115,
+      15
+    ],
+    "text": "No. $0 of 1955.",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      72,
+      63,
+      445,
+      29
+    ],
+    "text": "() Tho provisions of sub-section (4) of section $27 .",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      53,
+      78,
+      391,
+      20
+    ],
+    "text": "shall apply to an endorsement made under sub-section",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      54,
+      95,
+      391,
+      19
+    ],
+    "text": "(1) of this section in like manner as they apply to",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      44,
+      112,
+      143,
+      17
+    ],
+    "text": "_ certificate of sale.",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      71,
+      125,
+      480,
+      32
+    ],
+    "text": "@ An endorsement made under sub-section (1) .",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      53,
+      143,
+      485,
+      20
+    ],
+    "text": "shall, when it is registered in the office of the :",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      53,
+      151,
+      442,
+      42
+    ],
+    "text": "Registrar of Lands, vest in the pucobaser specified in",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      53,
+      175,
+      391,
+      18
+    ],
+    "text": "that endorsement such right, title and interest as are",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      53,
+      193,
+      475,
+      16
+    ],
+    "text": "80 specified. :",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      69,
+      211,
+      400,
+      18
+    ],
+    "text": "62cc. Nothing in sections 62. to 6205 shall be 4",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      53,
+      208,
+      471,
+      53
+    ],
+    "text": "deamed to preclude the appropriate anthority from. aa ot",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      53,
+      243,
+      462,
+      20
+    ],
+    "text": "recovering the amount due on any mortgage bond in Eun athe,",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      53,
+      249,
+      489,
+      39
+    ],
+    "text": "aecordance with the provisions of any other written athe ot",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      58,
+      277,
+      37,
+      12
+    ],
+    "text": "aw.",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      70,
+      295,
+      461,
+      18
+    ],
+    "text": "48. (1) Section 68 of the principal enactment is Amep2asot ot",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      52,
+      305,
+      469,
+      25
+    ],
+    "text": "hereby amended as follows: ; Pad",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      62,
+      327,
+      447,
+      22
+    ],
+    "text": "* @) in sub-section (1) of that section, by the omis- 7**",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      121,
+      348,
+      339,
+      17
+    ],
+    "text": "sion of the words by way of rent.;- :",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      54,
+      367,
+      385,
+      19
+    ],
+    "text": "- (8) by the repeal of eub-sections (2) and (8) of that",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      117,
+      364,
+      322,
+      43
+    ],
+    "text": "section and the substitation fade of the",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      62,
+      401,
+      277,
+      17
+    ],
+    "text": ": following new sub-cections:",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      121,
+      421,
+      410,
+      16
+    ],
+    "text": "(2) In this section sha",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      122,
+      425,
+      455,
+      30
+    ],
+    "text": "(@) the expression now honse, means a wteich 4 cust",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      43,
+      446,
+      531,
+      41
+    ],
+    "text": "y housogn respect. of whickve certificate or He",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      170,
+      469,
+      391,
+      26
+    ],
+    "text": "is insted by the Commidsioner, upon i Lt",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      170,
+      484,
+      410,
+      27
+    ],
+    "text": "application made in that behalf by the Hom eb a",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      169,
+      497,
+      406,
+      22
+    ],
+    "text": "owner or any owner of that honse, to nan /en a ay",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      170,
+      516,
+      336,
+      16
+    ],
+    "text": "the effect that the construction of that A",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      169,
+      532,
+      266,
+      16
+    ],
+    "text": "house commenced on or after the",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      53,
+      550,
+      467,
+      18
+    ],
+    "text": "- appointed date; and",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      53,
+      567,
+      498,
+      22
+    ],
+    "text": ": (0) the expression ineame accruing to any wd pst",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      169,
+      585,
+      374,
+      19
+    ],
+    "text": "person from any new house , means _",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      170,
+      604,
+      264,
+      19
+    ],
+    "text": "(i) if the hovse is let, the income",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      53,
+      621,
+      381,
+      18
+    ],
+    "text": ". accruing to that person by way",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      216,
+      639,
+      75,
+      14
+    ],
+    "text": "of rent; or",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      114,
+      646,
+      319,
+      42
+    ],
+    "text": ". (i) if the ows is aot let bot, ia",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      216,
+      673,
+      216,
+      12
+    ],
+    "text": "oocapie at , the",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      216,
+      674,
+      216,
+      30
+    ],
+    "text": "Spoobe which would aor",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      216,
+      702,
+      216,
+      19
+    ],
+    "text": "that person by way of rent if",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      52,
+      720,
+      371,
+      20
+    ],
+    "text": ". . it were let. .",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      121,
+      739,
+      311,
+      19
+    ],
+    "text": "(8) The decision of the Commissioner on any",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      50,
+      755,
+      382,
+      31
+    ],
+    "text": ">, pplication for a certificate-under sub-section",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      61,
+      771,
+      371,
+      19
+    ],
+    "text": "* (8) in respect of a house shall be final and",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      102,
+      789,
+      124,
+      15
+    ],
+    "text": "conelusive.; and",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      52,
+      807,
+      380,
+      20
+    ],
+    "text": "~ in the marginal note to that section, by the sub-",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      120,
+      823,
+      311,
+      17
+    ],
+    "text": "stitution, for the word rent of the word",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      188,
+      18,
+      330,
+      16
+    ],
+    "text": "16 National Housing (Amendment) Act,",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      329,
+      34,
+      115,
+      16
+    ],
+    "text": "No, 80 of 1955.",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      205,
+      61,
+      362,
+      17
+    ],
+    "text": "@) The amendments made in section 68 of the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      188,
+      78,
+      380,
+      17
+    ],
+    "text": "principal enactment by sub-section (1) of this section",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      188,
+      94,
+      380,
+      13
+    ],
+    "text": "shall be deemed to have come into force on the date on",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      188,
+      110,
+      388,
+      17
+    ],
+    "text": "which that enactment came into operation. 2",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      86,
+      134,
+      482,
+      19
+    ],
+    "text": "Iusetion stew 14. The following new section is hereby inserted",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      87,
+      151,
+      482,
+      23
+    ],
+    "text": "Sepia, immediately after section 63, and shall have effect as",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      88,
+      169,
+      417,
+      17
+    ],
+    "text": "tevdamt' section 634, of the principal enactment:",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      100,
+      180,
+      469,
+      38
+    ],
+    "text": "- rover of 3a, For, the purpose of deciding",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      187,
+      204,
+      382,
+      18
+    ],
+    "text": "fe yet Whether to issue or refuse to issue 4 cet",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      188,
+      218,
+      381,
+      23
+    ],
+    "text": "Pee et tificate under sub-section (2) of section 63",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      133,
+      235,
+      436,
+      19
+    ],
+    "text": ": dew Mugs. in respect of any house, the Commis-",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      285,
+      247,
+      288,
+      40
+    ],
+    "text": "sioner shall have neces, without, fes. or",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      135,
+      271,
+      413,
+      14
+    ],
+    "text": ". ange, to any , specifications",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      289,
+      269,
+      282,
+      40
+    ],
+    "text": "other Socaments relating to that house",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      288,
+      301,
+      283,
+      16
+    ],
+    "text": "which are in the session of the proper",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      289,
+      307,
+      282,
+      29
+    ],
+    "text": "authority, and the officers of every such",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      289,
+      332,
+      283,
+      20
+    ],
+    "text": "authority shall, upon application, permit",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      249,
+      347,
+      322,
+      36
+    ],
+    "text": ". the Commissioner or ony other officer",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      290,
+      364,
+      282,
+      19
+    ],
+    "text": "authorised in that behalf by the Com-",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      289,
+      379,
+      284,
+      21
+    ],
+    "text": "missioner to ingpect and take copies of",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      290,
+      396,
+      283,
+      20
+    ],
+    "text": "such plans, specifications or other",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      290,
+      416,
+      89,
+      13
+    ],
+    "text": "docaments,\"",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      93,
+      435,
+      481,
+      22
+    ],
+    "text": "Inertia of 45, The following new section is hereby inserted",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      93,
+      450,
+      480,
+      38
+    ],
+    "text": "By cen immediately after section 67, and shall bave effect",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      93,
+      472,
+      457,
+      22
+    ],
+    "text": "Eee as section 674, of the principal enactment: >",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      193,
+      490,
+      380,
+      17
+    ],
+    "text": "oe clration 67a. (1) Every officer or servant of the",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      193,
+      491,
+      379,
+      52
+    ],
+    "text": "ot meer. apart of National Housing shall,",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      290,
+      523,
+      283,
+      20
+    ],
+    "text": "before entering upon his duties under",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      290,
+      540,
+      283,
+      19
+    ],
+    "text": "this Act, sign a declaration pledging",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      290,
+      556,
+      283,
+      19
+    ],
+    "text": "himself to observe strict secrecy respect",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      291,
+      571,
+      283,
+      36
+    ],
+    "text": "ing al transactions of the Commissioner",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      39,
+      589,
+      534,
+      18
+    ],
+    "text": "' and all matters relating to such transac-",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      291,
+      605,
+      282,
+      18
+    ],
+    "text": "tions, and shall by such declaration",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      291,
+      615,
+      283,
+      41
+    ],
+    "text": "pledge himself not to reveal any matter",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      291,
+      635,
+      283,
+      20
+    ],
+    "text": "which may come to his knowledge in the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      292,
+      655,
+      230,
+      17
+    ],
+    "text": "discharge of his duties except",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      245,
+      679,
+      276,
+      17
+    ],
+    "text": ". {@) when required so to do",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      39,
+      699,
+      513,
+      20
+    ],
+    "text": "(i) by the Commissioner; or",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      352,
+      716,
+      171,
+      18
+    ],
+    "text": "(i) by a court of law; or",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      346,
+      727,
+      228,
+      21
+    ],
+    "text": "Gii) by the person to whom such",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      404,
+      748,
+      168,
+      14
+    ],
+    "text": "matter relates; or",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      309,
+      764,
+      266,
+      20
+    ],
+    "text": "() im the performance of his duties;",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      356,
+      775,
+      111,
+      31
+    ],
+    "text": "or .",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      309,
+      802,
+      264,
+      17
+    ],
+    "text": ") in order to comply with the pro-",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      353,
+      808,
+      220,
+      44
+    ],
+    "text": "visions of his Ant or any offer",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      362,
+      839,
+      24,
+      9
+    ],
+    "text": "law.",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      123,
+      13,
+      334,
+      18
+    ],
+    "text": "National Housing (Amendment) Act, 17",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      157,
+      31,
+      162,
+      16
+    ],
+    "text": ". No. 86 of 1058.",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      44,
+      57,
+      410,
+      17
+    ],
+    "text": "oe (2) Every officer or servant of the",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      71,
+      73,
+      382,
+      30
+    ],
+    "text": "ws Department of National Housing shall",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      65,
+      89,
+      388,
+      29
+    ],
+    "text": "es ino to answer any question conoara-",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      74,
+      105,
+      371,
+      19
+    ],
+    "text": "se ing the business of that Department i",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      43,
+      109,
+      409,
+      28
+    ],
+    "text": "Cee he cannot answer the question without",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      71,
+      137,
+      380,
+      22
+    ],
+    "text": "aE infringing his pledge of secrecy under",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      64,
+      152,
+      211,
+      17
+    ],
+    "text": "en sub-section (1).",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      64,
+      177,
+      476,
+      16
+    ],
+    "text": "* 46. Section 68 of the principal enactment is hereby Amndanss ot",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      59,
+      182,
+      476,
+      29
+    ],
+    "text": "amended as follows: pares",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      94,
+      212,
+      423,
+      22
+    ],
+    "text": "(1) by the repeal of sub-section (1) of that section \"\"*",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      143,
+      232,
+      305,
+      14
+    ],
+    "text": "end the substitution therefor of the",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      143,
+      249,
+      211,
+      17
+    ],
+    "text": "following new sub-section :-",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      160,
+      274,
+      286,
+      28
+    ],
+    "text": "(If any bailing society contravenes",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      141,
+      289,
+      304,
+      17
+    ],
+    "text": "or fails to comply with any provision of",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      141,
+      305,
+      304,
+      17
+    ],
+    "text": "this Act or of any regulations made there-",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      141,
+      321,
+      302,
+      14
+    ],
+    "text": "under or of its instrament of association,",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      141,
+      337,
+      303,
+      17
+    ],
+    "text": "or if any officer of the proper authority",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      142,
+      352,
+      301,
+      17
+    ],
+    "text": "contravenes or fails to comply with the",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      140,
+      369,
+      302,
+      28
+    ],
+    "text": "Provisions of seotion 684, thal eooiety or",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      140,
+      384,
+      301,
+      17
+    ],
+    "text": "that officer, as the case mey be, shall be",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      140,
+      400,
+      301,
+      17
+    ],
+    "text": "guilty of an offence and shall, on convic",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      139,
+      416,
+      301,
+      17
+    ],
+    "text": "tion after summary trial before a Magis-",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      45,
+      432,
+      394,
+      18
+    ],
+    "text": ". trate, be liable ta a fine not exceeding one",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      43,
+      448,
+      396,
+      17
+    ],
+    "text": "wo. hundred rupees, and, in the case of a con-",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      73,
+      463,
+      365,
+      20
+    ],
+    "text": "+ tinuing offence, to an additional fine not",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      64,
+      476,
+      374,
+      36
+    ],
+    "text": "- sxceeding fifty rapees for day",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      138,
+      483,
+      299,
+      29
+    ],
+    "text": "during which the offence is continued after",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      138,
+      511,
+      198,
+      15
+    ],
+    "text": "a conviction thereof.\"; and",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      89,
+      537,
+      346,
+      28
+    ],
+    "text": "(2) im the marginal note to that ssctfon, by. the",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      137,
+      553,
+      298,
+      16
+    ],
+    "text": "omission of the words by building",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      137,
+      570,
+      57,
+      13
+    ],
+    "text": "societies .",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      70,
+      604,
+      456,
+      17
+    ],
+    "text": "417, Section 71 of the principal enactment is hereby Amsninest ot",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      51,
+      605,
+      467,
+      36
+    ],
+    "text": "amended, in subsection (1) of that section, af ed",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      51,
+      627,
+      454,
+      33
+    ],
+    "text": "follows: enactneot",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      87,
+      660,
+      347,
+      17
+    ],
+    "text": "(@) in the definition of * Commissioner , by the",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      135,
+      676,
+      299,
+      15
+    ],
+    "text": "sabstitution, for the words an Assistant",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      136,
+      692,
+      298,
+      14
+    ],
+    "text": "Commissioner, of the words the",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      70,
+      708,
+      363,
+      18
+    ],
+    "text": ": +. Deputy Commissioner or an Assistant",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      114,
+      724,
+      137,
+      15
+    ],
+    "text": "~ \"Commissioner ;",
+    "mean_p_confidence": 0.05
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      43,
+      743,
+      389,
+      21
+    ],
+    "text": "oo) in the definition of instrament of disposi",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      43,
+      759,
+      389,
+      17
+    ],
+    "text": "Po tion , by the substitution, for the words",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      90,
+      775,
+      319,
+      19
+    ],
+    "text": "lands and, of the word land; \";",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      86,
+      795,
+      345,
+      17
+    ],
+    "text": "() in the definition of person, by the substi-",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      63,
+      792,
+      369,
+      43
+    ],
+    "text": ": tution, for the word ered , of the",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      133,
+      827,
+      174,
+      17
+    ],
+    "text": "words persons; and\";",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      71,
+      846,
+      5,
+      8
+    ],
+    "text": "s",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      182,
+      3,
+      332,
+      22
+    ],
+    "text": "18 National Housing (Amendment) det,",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      127,
+      22,
+      311,
+      18
+    ],
+    "text": ". No. 80 of 1958.",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      215,
+      47,
+      349,
+      27
+    ],
+    "text": "@) by the addition, at the end of that sub-section,",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      264,
+      66,
+      252,
+      18
+    ],
+    "text": "of the following new definition:",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      265,
+      85,
+      300,
+      21
+    ],
+    "text": "** proper authority means any Munici-",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      324,
+      103,
+      259,
+      19
+    ],
+    "text": "al Council, Urban Council, Town ,",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      314,
+      107,
+      252,
+      30
+    ],
+    "text": "Bouncil or Village Committea, or",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      314,
+      136,
+      251,
+      18
+    ],
+    "text": "any Board of Improvement Com-",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      313,
+      152,
+      252,
+      18
+    ],
+    "text": "missioners appointed under the",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      313,
+      169,
+      251,
+      19
+    ],
+    "text": "Housing and Town Improvement",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      181,
+      183,
+      221,
+      17
+    ],
+    "text": "Cap. 198, Ordinanes.*",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      80,
+      212,
+      484,
+      19
+    ],
+    "text": "Repeat of 48. The Housing Loans Act, No. 26 of 1949, is",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      80,
+      224,
+      218,
+      22
+    ],
+    "text": "Haveicg Iowa hereby repealed.",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      77,
+      261,
+      486,
+      32
+    ],
+    "text": "Commssnooee 19. (1) With effect from the date of the repeal of",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      81,
+      285,
+      413,
+      25
+    ],
+    "text": "tween ot the Housing Loans Act, No. 26 of 1048,",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      80,
+      305,
+      482,
+      28
+    ],
+    "text": "Thane Boot, (a) all debts, liabilities and obligations incurred,",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      261,
+      330,
+      301,
+      18
+    ],
+    "text": "all contracts entered into, all deeds, bonds,",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      260,
+      349,
+      301,
+      15
+    ],
+    "text": "agreements and other instruments executed,",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      261,
+      363,
+      301,
+      19
+    ],
+    "text": "and all matters and things engaged to be",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      261,
+      379,
+      301,
+      21
+    ],
+    "text": "done by, with or for the Housing Louns",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      148,
+      395,
+      414,
+      19
+    ],
+    "text": ". Board and subsisting or in force at the said.",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      92,
+      409,
+      469,
+      20
+    ],
+    "text": ". date shall be deemed to have bean incurred,",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      261,
+      429,
+      323,
+      23
+    ],
+    "text": "entered into, executed or engaged to be",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      260,
+      445,
+      302,
+      16
+    ],
+    "text": "done by, with or for the Commissioner for",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      259,
+      460,
+      291,
+      22
+    ],
+    "text": "National Housing; .",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      210,
+      484,
+      350,
+      21
+    ],
+    "text": "{) all loans granted by such Board prior to the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      259,
+      502,
+      301,
+      15
+    ],
+    "text": "said date shall be deemed to have been",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      258,
+      515,
+      302,
+      37
+    ],
+    "text": "Ranted by such Commissioner under the",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      271,
+      535,
+      289,
+      18
+    ],
+    "text": "lational Housing Act, No. 87 of 1954, and.",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      259,
+      552,
+      300,
+      17
+    ],
+    "text": "accordingly the provisions of that Act shall",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      258,
+      567,
+      279,
+      17
+    ],
+    "text": "apply to and in relation to such loans;",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      209,
+      590,
+      350,
+      19
+    ],
+    "text": "() ail sums of money due to such Board at the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      258,
+      608,
+      300,
+      16
+    ],
+    "text": "said date shall be deemed to be due to such",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      215,
+      624,
+      148,
+      18
+    ],
+    "text": "- Commissioner;",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      208,
+      648,
+      349,
+      21
+    ],
+    "text": "{@) all suits or other legal proceedings instituted,",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      257,
+      648,
+      301,
+      43
+    ],
+    "text": "or which meat tere been instituted, by or",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      257,
+      683,
+      299,
+      18
+    ],
+    "text": "against such Board at the said date may,",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      257,
+      700,
+      299,
+      21
+    ],
+    "text": "subject to the provisions of any other law,",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      256,
+      716,
+      301,
+      20
+    ],
+    "text": "be continued or instituted by or against",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      226,
+      733,
+      283,
+      18
+    ],
+    "text": ".. such Commissioner: :",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      207,
+      756,
+      368,
+      21
+    ],
+    "text": "() all decrees or orders made by any competent +",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      208,
+      764,
+      347,
+      29
+    ],
+    "text": "- \"court in favour of, or ast, each Board",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      255,
+      781,
+      300,
+      37
+    ],
+    "text": "prior to the said date shall be deemed. 40",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      272,
+      806,
+      282,
+      20
+    ],
+    "text": "We been made in favour of, or against,",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      202,
+      821,
+      287,
+      19
+    ],
+    "text": "* 7 such Commissioner; _..\", .",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      125,
+      7,
+      334,
+      17
+    ],
+    "text": "National Housing (Amendment) Act, 19",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      207,
+      24,
+      116,
+      15
+    ],
+    "text": "No, 30 of 1956.",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      100,
+      50,
+      358,
+      19
+    ],
+    "text": "(f) the balance standing to the credit of the",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      150,
+      66,
+      307,
+      19
+    ],
+    "text": "Housing Loans Fund at the said date shall",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      149,
+      83,
+      308,
+      16
+    ],
+    "text": "be transferred to the National Housing",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      150,
+      101,
+      78,
+      15
+    ],
+    "text": "Fund; and",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      100,
+      109,
+      357,
+      44
+    ],
+    "text": "{g) all movable or immovable proporiy of such",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      149,
+      134,
+      307,
+      37
+    ],
+    "text": "Board shall be the Property of Crown,",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      150,
+      144,
+      306,
+      42
+    ],
+    "text": "al! movable or immovable Broperty vested",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      149,
+      169,
+      307,
+      16
+    ],
+    "text": "in such Board shall vest in such Commis-",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      149,
+      185,
+      307,
+      18
+    ],
+    "text": "sioner, and all movable or immovable pro-",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      149,
+      200,
+      306,
+      20
+    ],
+    "text": "perty in the possession or under the control",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      94,
+      217,
+      361,
+      17
+    ],
+    "text": "of such Board shall be in the possession or",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      149,
+      233,
+      305,
+      15
+    ],
+    "text": "under the controf of such Commissioner,",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      149,
+      249,
+      305,
+      18
+    ],
+    "text": "subject, to any charges, liabilities, reserva-",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      149,
+      265,
+      306,
+      17
+    ],
+    "text": "tions, servitudes or other encumberances",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      150,
+      280,
+      304,
+      19
+    ],
+    "text": "and any terms and conditions appertain-",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      149,
+      296,
+      305,
+      20
+    ],
+    "text": "ing, attaching or applicable thereto on the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      149,
+      313,
+      295,
+      18
+    ],
+    "text": "day immediately preceding the said date.",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      64,
+      333,
+      389,
+      19
+    ],
+    "text": "and accordingly such Commissioner shall be deemed to",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      63,
+      349,
+      389,
+      17
+    ],
+    "text": "be the successor of such Board for and in respect of",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      64,
+      365,
+      388,
+      19
+    ],
+    "text": "all matters and things referred to in the preceding",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      63,
+      382,
+      388,
+      20
+    ],
+    "text": "provisions of this sub-section, other than any property",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      63,
+      396,
+      387,
+      20
+    ],
+    "text": "which by virtue of paragraph (g) of this sub-section",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      63,
+      399,
+      257,
+      38
+    ],
+    "text": "becomes the property of the Crown.",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      52,
+      437,
+      398,
+      21
+    ],
+    "text": "+ _ (2) All sums of money paid to, or recovered by, the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      64,
+      451,
+      385,
+      36
+    ],
+    "text": "Commissioner for National Housing by virtue of his",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      63,
+      469,
+      386,
+      19
+    ],
+    "text": "being the successor of the Housing Loans Board shall",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      64,
+      485,
+      384,
+      18
+    ],
+    "text": "be credited to the National Housing Fund, and all",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      63,
+      501,
+      385,
+      19
+    ],
+    "text": "sums of money due from the Commissioner by virtue",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      63,
+      517,
+      385,
+      19
+    ],
+    "text": "of his being such successor shall be paid out of that",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      64,
+      534,
+      44,
+      14
+    ],
+    "text": "Fund.",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      82,
+      563,
+      149,
+      16
+    ],
+    "text": "(8) In this section",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      100,
+      586,
+      345,
+      19
+    ],
+    "text": "(@ Commissioner for National Housing",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      148,
+      602,
+      298,
+      31
+    ],
+    "text": "means the Commissioner, for Natiotal",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      162,
+      622,
+      258,
+      14
+    ],
+    "text": "lousing appointed for the purposes",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      148,
+      634,
+      296,
+      18
+    ],
+    "text": "the National Housing Act, No. 87 of 1954,",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      99,
+      651,
+      380,
+      37
+    ],
+    "text": "@ Housing Loans Board means the Housing",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      148,
+      669,
+      297,
+      17
+    ],
+    "text": "Loans Board established ander the Housing",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      148,
+      687,
+      190,
+      14
+    ],
+    "text": "Loans Act No, 26 of 1949,",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      99,
+      703,
+      345,
+      38
+    ],
+    "text": "@\" Housing Loans Fund means the Housing",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      147,
+      719,
+      290,
+      37
+    ],
+    "text": "Loans Fund established for {he purposes a",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      148,
+      739,
+      295,
+      18
+    ],
+    "text": "the Housing Loans Act, No. 28 of 1949,",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      51,
+      757,
+      122,
+      13
+    ],
+    "text": "& and",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      99,
+      775,
+      345,
+      29
+    ],
+    "text": "(@) Netfonad, Housing. Fund? means the",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      147,
+      791,
+      297,
+      17
+    ],
+    "text": "National Housing Fund established for the",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      147,
+      804,
+      295,
+      37
+    ],
+    "text": "purposes of the National Housing Act,",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      159,
+      824,
+      94,
+      13
+    ],
+    "text": "lo. 37 of 1954.",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      174,
+      8,
+      411,
+      27
+    ],
+    "text": "20 National Housing (Amendment) Act, j",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      316,
+      27,
+      248,
+      17
+    ],
+    "text": "No. $0 of 1965:",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      78,
+      46,
+      482,
+      26
+    ],
+    "text": "Yalidein ot 20 All payments made, prior to the date of the",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      78,
+      60,
+      482,
+      37
+    ],
+    "text": "See ante Tepeal of the Housing Loans Act, No. 26 of 1849, oat",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      79,
+      83,
+      481,
+      20
+    ],
+    "text": "fram tbe the Housing Loans Fund established under such",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      78,
+      98,
+      503,
+      24
+    ],
+    "text": "Fait \"Act by way of galaries, allowances or other remanera-",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      105,
+      116,
+      454,
+      20
+    ],
+    "text": "7 tion to the staff of the Housing Loans Board estab-",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      174,
+      133,
+      385,
+      22
+    ],
+    "text": "lished under such Act shall be deemed to have been",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      174,
+      149,
+      386,
+      18
+    ],
+    "text": "valid, notwithstanding that such Act did not authorise",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      174,
+      165,
+      324,
+      17
+    ],
+    "text": "sach payments to be made out of such Fund,",
+    "mean_p_confidence": 0.81
+  }
+]

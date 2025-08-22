@@ -1,0 +1,607 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      113,
+      46,
+      365,
+      26
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      207,
+      94,
+      363,
+      26
+    ],
+    "text": "Ist Session 1956-57 et",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      458,
+      119,
+      90,
+      24
+    ],
+    "text": "gig, sauce SS",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      282,
+      168,
+      299,
+      26
+    ],
+    "text": "Sy Hy a",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      256,
+      193,
+      316,
+      60
+    ],
+    "text": "(iy eS gy",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      307,
+      268,
+      51,
+      10
+    ],
+    "text": "WN",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      243,
+      265,
+      301,
+      33
+    ],
+    "text": "Qe\" :",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      147,
+      336,
+      289,
+      39
+    ],
+    "text": "Foreign Loans Act,",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      175,
+      384,
+      231,
+      30
+    ],
+    "text": "No. 29 of 1957",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      199,
+      524,
+      329,
+      15
+    ],
+    "text": "Date of Assent : Aprit 13, 1957 . .",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      173,
+      636,
+      239,
+      16
+    ],
+    "text": "Printed on the Orders of Government",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      114,
+      755,
+      438,
+      29
+    ],
+    "text": "Printed a Fo Government Puess, ad To be",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      114,
+      780,
+      351,
+      20
+    ],
+    "text": "Annoal Sul tion (including Bills) Rs, 25, payable in",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      117,
+      785,
+      401,
+      32
+    ],
+    "text": "See Be een, Cuan vee",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      117,
+      831,
+      412,
+      22
+    ],
+    "text": "Price: 10 cents. Postage: 10 cents, .",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      134,
+      18,
+      326,
+      18
+    ],
+    "text": "Foreign Loans Act, No. 29 of 1957 3",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      46,
+      105,
+      15
+    ],
+    "text": "L. DO. 10/87.",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      49,
+      70,
+      410,
+      20
+    ],
+    "text": "\"AN Act 10 MAKE PROVISION REGARDING FOREIGN LOANS",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      147,
+      92,
+      401,
+      14
+    ],
+    "text": "70 THE GOVERNMENT OF CEYLON. .",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      52,
+      128,
+      339,
+      18
+    ],
+    "text": "[Date of Assent: April 18, 1957]",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      164,
+      370,
+      17
+    ],
+    "text": "BE it enacted by the Queens Most Excellent",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      170,
+      386,
+      27
+    ],
+    "text": "Majesty, by and with the advice and consent of the",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      182,
+      385,
+      36
+    ],
+    "text": "Senate ind. the House of Representatives of Ceylon",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      212,
+      386,
+      20
+    ],
+    "text": "in this present Parliament assembled, and by the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      228,
+      269,
+      17
+    ],
+    "text": "authority of the same, as follows:",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      273,
+      440,
+      30
+    ],
+    "text": "1. This, Agt may be cited. as the Foreign Loans Shut th",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      288,
+      425,
+      16
+    ],
+    "text": "Act, No, 29 of 1957, :",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      328,
+      416,
+      25
+    ],
+    "text": "2. The Govetnor-General or any pergon specially Fere",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      336,
+      460,
+      36
+    ],
+    "text": "authorized by him in that behalf may, in the name ipo iean",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      365,
+      453,
+      23
+    ],
+    "text": "and on behalf of the Government of Ceylon, sign sertech,",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      101,
+      391,
+      419,
+      22
+    ],
+    "text": "(@) a loan agreement relating to a foreign loan 7",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      113,
+      394,
+      406,
+      42
+    ],
+    "text": "fo the Cvomnment at Ceylon, and ge other",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57,
+      431,
+      475,
+      19
+    ],
+    "text": "++ (@) any bond, promissory note or other document itting to",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      126,
+      439,
+      417,
+      29
+    ],
+    "text": "required by soch loan. agreement, to be Eek",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      125,
+      466,
+      393,
+      19
+    ],
+    "text": "executed by the-Government of Ceylon. of Cepton.",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      511,
+      453,
+      19
+    ],
+    "text": "3. All sums payable hy the Government of Ceylon Some persbia",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      513,
+      471,
+      48
+    ],
+    "text": "under a loan agreement relating to & foreign loan to Be. Moot ot",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      542,
+      476,
+      26
+    ],
+    "text": "the Government of Ceylon and all sums payable under Seven der",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      559,
+      451,
+      35
+    ],
+    "text": "any bond or promissory note executed poreuent tosuch toate saa",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      574,
+      451,
+      25
+    ],
+    "text": "Joan agreement are horeby charged on the Consolidated pemiwney",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      590,
+      468,
+      20
+    ],
+    "text": "Fand of Ceylon. Pg caus",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      464,
+      604,
+      80,
+      28
+    ],
+    "text": "hat",
+    "mean_p_confidence": 0.04
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      55,
+      630,
+      445,
+      14
+    ],
+    "text": ". inl",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      650,
+      432,
+      19
+    ],
+    "text": "4. (1) The Minister of Finanos may, by Order pub- Brew of",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      648,
+      462,
+      41
+    ],
+    "text": "Hished the Gazette, make such Barret as may be finite ot",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64,
+      682,
+      459,
+      29
+    ],
+    "text": "necessary to gis effect to a loan agreement relating aoke provi.",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      698,
+      474,
+      31
+    ],
+    "text": "to a foreign loan to the Government of Ceylon. pena",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      717,
+      458,
+      23
+    ],
+    "text": "@) Every Order made and published under eub- fe Gseutis to",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      48,
+      733,
+      435,
+      17
+    ],
+    "text": "tection (1) shall have the fores of law. fe",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      462,
+      753,
+      52,
+      11
+    ],
+    "text": "agree.",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      777,
+      451,
+      19
+    ],
+    "text": "3. In this Act, the expression ' foreign loan Interpretation,",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      793,
+      381,
+      20
+    ],
+    "text": "mesns a loan in any currency granted by a foreign",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      795,
+      380,
+      38
+    ],
+    "text": "Government or the oy of a foreign Government",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      814,
+      259,
+      29
+    ],
+    "text": "or by any international organisation.",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      843,
+      115,
+      12
+    ],
+    "text": "eerie eerstrines",
+    "mean_p_confidence": 0.04
+  }
+]

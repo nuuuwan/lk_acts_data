@@ -1,0 +1,1641 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      115,
+      21,
+      382,
+      25
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      210,
+      75,
+      308,
+      28
+    ],
+    "text": "Ist Session 1956-57 ae",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76,
+      178,
+      262,
+      14
+    ],
+    "text": ". San;",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      231,
+      236,
+      154,
+      24
+    ],
+    "text": "i gm, -",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      150,
+      269,
+      5,
+      8
+    ],
+    "text": ":",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      89,
+      330,
+      424,
+      34
+    ],
+    "text": "Industrial Disputes (Amendment)",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      173,
+      372,
+      284,
+      28
+    ],
+    "text": "Act, No. 14 of 1957,",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      202,
+      510,
+      248,
+      16
+    ],
+    "text": "Date of Asseng: March 28, 1957 .",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      243,
+      550,
+      11,
+      15
+    ],
+    "text": ":",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      214,
+      593,
+      143,
+      29
+    ],
+    "text": "a a,",
+    "mean_p_confidence": -0.0
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      179,
+      622,
+      239,
+      28
+    ],
+    "text": "Printed on the Orders of Government",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      120,
+      758,
+      415,
+      21
+    ],
+    "text": "Printed ats the Govranseer Paens, Corom, Tobe :",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70,
+      774,
+      464,
+      25
+    ],
+    "text": ". > purchased at the GovenNmenr Posticazsons Buneav, COLOMBO .",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66,
+      793,
+      469,
+      21
+    ],
+    "text": "a eae Galas See",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      120,
+      814,
+      415,
+      12
+    ],
+    "text": "Backs, Bom Grass \"Eesha Recta, Calanboh",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      112,
+      829,
+      423,
+      27
+    ],
+    "text": "Pelee: 15 conts. Postage: 10 cents, .",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119,
+      44,
+      338,
+      18
+    ],
+    "text": "Industrial Disputes (Amendment) Act, 8",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      204,
+      62,
+      113,
+      16
+    ],
+    "text": "No. 14 of 1057",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      91,
+      102,
+      13
+    ],
+    "text": "LL. D.O. 24/56.",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      107,
+      372,
+      14
+    ],
+    "text": "An Act To amenp rae InpustaraL Diseurms Act,",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      199,
+      124,
+      117,
+      13
+    ],
+    "text": "No. 48 oF 1950,",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      131,
+      143,
+      256,
+      18
+    ],
+    "text": "[Date of Assent: March 28, 1957]",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64,
+      163,
+      387,
+      18
+    ],
+    "text": "BE it enacted by the Queens Most, Excellent Majesty,",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64,
+      179,
+      388,
+      30
+    ],
+    "text": "by and with the advice and consent of the Senate and",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64,
+      195,
+      388,
+      20
+    ],
+    "text": "the House of Representatives of Ceylon in this present",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64,
+      211,
+      387,
+      17
+    ],
+    "text": "Parliament assembled, and by the authority of the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64,
+      229,
+      141,
+      15
+    ],
+    "text": "same, as follows :",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      263,
+      443,
+      19
+    ],
+    "text": "4, This Act may be cited as the Industrial Disputes 8 tie.",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64,
+      281,
+      245,
+      16
+    ],
+    "text": "(Amendinent) Act, No. 14 of 1957:",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      314,
+      462,
+      20
+    ],
+    "text": "2 Section 10 of the Industrial Dispates Act, Amerimee ot",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      333,
+      472,
+      22
+    ],
+    "text": "No. 48 of 1950, is hereby amended as follows: hee",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      97,
+      353,
+      436,
+      22
+    ],
+    "text": "(1) by the repeal of snb-sections (1) and (2) of",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      144,
+      372,
+      303,
+      15
+    ],
+    "text": "that section and the substitution therefor",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      143,
+      389,
+      226,
+      17
+    ],
+    "text": "of the following sub-section :",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      161,
+      412,
+      421,
+      18
+    ],
+    "text": "* (1) Where the parties to a collective '",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      143,
+      429,
+      303,
+      17
+    ],
+    "text": "agreement that is in force are-one or more",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      443,
+      387,
+      18
+    ],
+    "text": "an trade unions consisting of employers in any",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      143,
+      460,
+      302,
+      18
+    ],
+    "text": "industry and one or more trade unions",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      469,
+      381,
+      41
+    ],
+    "text": "an consisting of workmen in auch industry,",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      143,
+      492,
+      302,
+      16
+    ],
+    "text": "then, if Miniater considers that those",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      142,
+      508,
+      281,
+      18
+    ],
+    "text": "parties are sufficiently representative",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      175,
+      531,
+      268,
+      18
+    ],
+    "text": "(a) of the employers and the workmen,",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      221,
+      553,
+      15,
+      8
+    ],
+    "text": "or",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      174,
+      563,
+      270,
+      18
+    ],
+    "text": "(0) of @ class of employersand a class",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      221,
+      580,
+      109,
+      14
+    ],
+    "text": "of workmen, or",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      174,
+      595,
+      269,
+      18
+    ],
+    "text": "() of the employers and 9 class of",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      221,
+      612,
+      88,
+      15
+    ],
+    "text": "workmen, or",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      174,
+      627,
+      268,
+      18
+    ],
+    "text": "@ of a class of employers and the",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      220,
+      644,
+      67,
+      14
+    ],
+    "text": "workmen,",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      105,
+      666,
+      336,
+      18
+    ],
+    "text": "* in anch industry in such district, or in such",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      141,
+      682,
+      300,
+      20
+    ],
+    "text": "industry in Ceylon, he may meke an Order",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140,
+      698,
+      300,
+      17
+    ],
+    "text": "under sub-section (@) in Tespect of every",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      120,
+      706,
+      319,
+      41
+    ],
+    "text": ". employer, or of every employer of such class",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140,
+      729,
+      299,
+      19
+    ],
+    "text": "of employers, in such industry ia euch dis",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      745,
+      380,
+      19
+    ],
+    "text": ": | trict or in auch industry i Ceylon, on",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140,
+      761,
+      442,
+      18
+    ],
+    "text": "whom. such agreement ia not binding as j",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140,
+      778,
+      151,
+      18
+    ],
+    "text": "provided in section 8.",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      156,
+      795,
+      282,
+      20
+    ],
+    "text": "(2) In accordance with the provisions of",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140,
+      812,
+      298,
+      28
+    ],
+    "text": "su-section (1), the Minister may, in respect",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140,
+      828,
+      298,
+      19
+    ],
+    "text": "of any industry to which any such collec-",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119,
+      843,
+      319,
+      21
+    ],
+    "text": "+ tive agreement as is referred to in sub-",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      37,
+      860,
+      402,
+      17
+    ],
+    "text": "gation (1) relates. make an Order that",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      176,
+      44,
+      329,
+      17
+    ],
+    "text": "4 Industrial Disputes (Amendment) Act,",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      313,
+      61,
+      110,
+      15
+    ],
+    "text": "No. 14 of 1967",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      257,
+      87,
+      304,
+      18
+    ],
+    "text": "every employer, or every employer of any",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      257,
+      92,
+      304,
+      41
+    ],
+    "text": "ay sta i ara",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      257,
+      120,
+      304,
+      17
+    ],
+    "text": "in Ceylon, on whom that agreement is not",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      249,
+      134,
+      325,
+      21
+    ],
+    "text": "binding ae provided in section 8, shall |",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      257,
+      152,
+      305,
+      13
+    ],
+    "text": "observe either the terms and conditions set",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      257,
+      167,
+      304,
+      18
+    ],
+    "text": "out in that agreement (hereinafter referred",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      258,
+      183,
+      303,
+      17
+    ],
+    "text": "to as the recognised terms and condi-",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      258,
+      199,
+      304,
+      19
+    ],
+    "text": "tions ) or terms and conditions which are",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      258,
+      214,
+      304,
+      18
+    ],
+    "text": "not less favourable than the recognised",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      258,
+      232,
+      229,
+      14
+    ],
+    "text": "termes and conditions. ; .",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      112,
+      259,
+      450,
+      17
+    ],
+    "text": ". _ (2) by the renumbering of sub-section (8) of that",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      259,
+      275,
+      183,
+      17
+    ],
+    "text": "section as sub-section (9);",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      212,
+      302,
+      349,
+      16
+    ],
+    "text": "(8) by the insertion, immediately after sub-section",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      260,
+      304,
+      301,
+      46
+    ],
+    "text": "@) of that section, of the following new",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      259,
+      335,
+      108,
+      12
+    ],
+    "text": "aub-sections:",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      206,
+      362,
+      355,
+      16
+    ],
+    "text": "(8) Every Order under sub-section (2)",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      260,
+      377,
+      301,
+      17
+    ],
+    "text": "shall be published in the Gazede and in one",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      260,
+      384,
+      301,
+      38
+    ],
+    "text": "Sinhala ewepaper, one Tamil newspaper",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      183,
+      406,
+      377,
+      36
+    ],
+    "text": "on aud one Englis Rewspaper, and shall,",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      205,
+      425,
+      356,
+      16
+    ],
+    "text": "7 wpon such publication, have the fores of,",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      260,
+      440,
+      315,
+      13
+    ],
+    "text": "Jaw, ~~",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      200,
+      464,
+      360,
+      17
+    ],
+    "text": ". (4) Before an Order under sub-section (2)",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      261,
+      480,
+      69,
+      13
+    ],
+    "text": "is made",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      293,
+      504,
+      269,
+      15
+    ],
+    "text": "(a) the Commissioner shall conse a",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      204,
+      520,
+      357,
+      16
+    ],
+    "text": ". notica of the intention of the",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      310,
+      536,
+      251,
+      14
+    ],
+    "text": "| Minister to make such Order to",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      340,
+      551,
+      220,
+      16
+    ],
+    "text": "be published in the Gazette and",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      341,
+      567,
+      220,
+      17
+    ],
+    "text": "in one Sinhala newspaper, ove",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      341,
+      572,
+      219,
+      29
+    ],
+    "text": "Tamil newspaper an one Eng-",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      340,
+      598,
+      221,
+      19
+    ],
+    "text": "lish newepaper, and such notice",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      206,
+      614,
+      354,
+      17
+    ],
+    "text": ". | shall specify a date on or before",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      206,
+      621,
+      354,
+      41
+    ],
+    "text": ": which ahjeations to the pro-",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      341,
+      646,
+      219,
+      16
+    ],
+    "text": "posed Order may be made in",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      234,
+      661,
+      325,
+      16
+    ],
+    "text": "- . writing to the Commissioner,",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      270,
+      677,
+      178,
+      18
+    ],
+    "text": "oy amd",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      212,
+      701,
+      347,
+      16
+    ],
+    "text": "a (B) the objections received by the Com-",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      196,
+      706,
+      364,
+      28
+    ],
+    "text": "a . miasioner eball be submitted by",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      195,
+      732,
+      378,
+      19
+    ],
+    "text": "cea ... him with his observations there",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      217,
+      748,
+      342,
+      16
+    ],
+    "text": "vis +) on to the Minister for con-",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      339,
+      764,
+      148,
+      17
+    ],
+    "text": "sideration. ..",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      220,
+      787,
+      338,
+      37
+    ],
+    "text": ". ol) The Miniter shall, gonsider all",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      152,
+      809,
+      406,
+      15
+    ],
+    "text": ". objections to the propose r and may",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      256,
+      807,
+      301,
+      38
+    ],
+    "text": "citer not, make The Order, or make the",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      260,
+      838,
+      297,
+      17
+    ],
+    "text": "Order with or without any limitation as to",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      259,
+      853,
+      116,
+      17
+    ],
+    "text": "its applicability.",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      125,
+      27,
+      337,
+      18
+    ],
+    "text": "Industrial Disputes (Amendment) Act, 5",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      210,
+      44,
+      113,
+      16
+    ],
+    "text": "No. 14 of 1957",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      171,
+      72,
+      289,
+      17
+    ],
+    "text": "(6) A party to.any such collective agree-",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      154,
+      76,
+      305,
+      34
+    ],
+    "text": "ment as is referred to in sub-section (imay",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      103,
+      100,
+      356,
+      37
+    ],
+    "text": ". make an application in writing te the Com-",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      154,
+      120,
+      304,
+      17
+    ],
+    "text": "missioner for the making of an Order under",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      154,
+      136,
+      303,
+      19
+    ],
+    "text": "sub-section (2) in respeot of that agreement.",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      171,
+      164,
+      286,
+      17
+    ],
+    "text": "(7) An Order made under sub-section (2)",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      153,
+      180,
+      304,
+      17
+    ],
+    "text": "may be rescinded if the Minister considers",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      154,
+      197,
+      87,
+      16
+    ],
+    "text": "it necessary.",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      169,
+      225,
+      287,
+      29
+    ],
+    "text": "(@) An Order made ander sub-scotion (2)",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      154,
+      241,
+      302,
+      13
+    ],
+    "text": "shadi cease to be in force when the collec-",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      154,
+      257,
+      302,
+      19
+    ],
+    "text": "tive agreement to which it relates ceases",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      154,
+      273,
+      294,
+      17
+    ],
+    "text": "to be in force as provided in section 7.\"\";",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      105,
+      304,
+      358,
+      20
+    ],
+    "text": "(4) in renumbered sub-section (9) of that section_",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      152,
+      329,
+      303,
+      16
+    ],
+    "text": "@ by the substitution, for the words in",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      202,
+      344,
+      253,
+      17
+    ],
+    "text": "any district, of the words in",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      201,
+      361,
+      231,
+      16
+    ],
+    "text": "any district or in Ceylon; and",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      148,
+      384,
+      306,
+      17
+    ],
+    "text": "(ii) by the substitution, for all the words",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      201,
+      395,
+      252,
+      20
+    ],
+    "text": "from * shall be finai, to the end of",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      201,
+      416,
+      265,
+      15
+    ],
+    "text": "that sub-section, of the words *",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      61,
+      433,
+      267,
+      20
+    ],
+    "text": ". * shall be final. ;",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      104,
+      459,
+      349,
+      17
+    ],
+    "text": "(5) by the addition, at the end of that section, of",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      152,
+      476,
+      236,
+      17
+    ],
+    "text": "the following new sub-section :",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      169,
+      499,
+      283,
+      17
+    ],
+    "text": "* (10) An extract from the Gazette oon-",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      103,
+      515,
+      350,
+      17
+    ],
+    "text": ". taining an Order made under sub-section",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      152,
+      531,
+      301,
+      29
+    ],
+    "text": "{2) or 8 notion of the intention to make an",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      154,
+      547,
+      299,
+      18
+    ],
+    "text": "Order under that sub-section and purport-",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      152,
+      562,
+      300,
+      18
+    ],
+    "text": "ing to have been printed by the Govern-",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      152,
+      578,
+      300,
+      18
+    ],
+    "text": "ment Printer, or a copy of such Order or",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      152,
+      594,
+      300,
+      18
+    ],
+    "text": "notice purporting to have been certified to",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      152,
+      609,
+      300,
+      18
+    ],
+    "text": "be a true copy by the Commissioner may be",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      78,
+      625,
+      374,
+      30
+    ],
+    "text": ". prodaoed in any, ove in proof of such",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      164,
+      642,
+      155,
+      15
+    ],
+    "text": "rder or notice.\"?; and",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      105,
+      673,
+      347,
+      17
+    ],
+    "text": "(8) by the substitution, for the marginal note to",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      152,
+      688,
+      300,
+      17
+    ],
+    "text": "that section, of the following marginal",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      152,
+      708,
+      54,
+      10
+    ],
+    "text": "note:",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      154,
+      727,
+      299,
+      18
+    ],
+    "text": "* Orders in respect of employers on whom.",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      58,
+      738,
+      395,
+      30
+    ],
+    "text": "cS certain collective agreements are not",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      168,
+      760,
+      248,
+      17
+    ],
+    "text": "binding as provided in section 8..",
+    "mean_p_confidence": 0.79
+  }
+]

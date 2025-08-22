@@ -1,0 +1,10034 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      42,
+      13,
+      2,
+      8
+    ],
+    "text": "i",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      90,
+      18,
+      420,
+      34
+    ],
+    "text": "PARLIAMENT OF CEYLON_",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      434,
+      48,
+      108,
+      23
+    ],
+    "text": "AEE BS",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      225,
+      70,
+      323,
+      25
+    ],
+    "text": "lst Session 1956 | \"\" Sie",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      415,
+      93,
+      131,
+      20
+    ],
+    "text": "oY 0 aa",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      419,
+      112,
+      132,
+      19
+    ],
+    "text": "s. USEP 1968",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      284,
+      134,
+      245,
+      39
+    ],
+    "text": "dp OE",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      271,
+      154,
+      276,
+      19
+    ],
+    "text": "SLE, edie",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      258,
+      164,
+      284,
+      38
+    ],
+    "text": "cer) NER",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      114,
+      341,
+      385,
+      34
+    ],
+    "text": "Mawatagama Land Acquisition",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      172,
+      391,
+      269,
+      29
+    ],
+    "text": "Act, No. 38 of 1956",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      46,
+      454,
+      18,
+      16
+    ],
+    "text": "te",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      176,
+      487,
+      399,
+      28
+    ],
+    "text": "Date of Assent : September 7, 1956 *",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      187,
+      594,
+      239,
+      14
+    ],
+    "text": "Printed on the Orders of Government",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      129,
+      767,
+      359,
+      26
+    ],
+    "text": "Prioted sath the Gosasunitat Buauiians Bontes, Catone",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      130,
+      792,
+      358,
+      24
+    ],
+    "text": "fone eee ecg Pete",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      118,
+      806,
+      369,
+      21
+    ],
+    "text": ". BREE Bost Srrcx Box abo, Secretariat, Colombo 2",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144,
+      836,
+      435,
+      20
+    ],
+    "text": "Price: 45 cents Postage: 20 conts .",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      120,
+      18,
+      327,
+      17
+    ],
+    "text": "Mawatagama Land Acquisition Act, 3",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      199,
+      35,
+      111,
+      15
+    ],
+    "text": "No. 38 of 1956",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      63,
+      98,
+      14
+    ],
+    "text": "L. D.0. 29/58.",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      86,
+      382,
+      15
+    ],
+    "text": "An AcT TO ACQUIRE COMPULSORILY FoR Hen Masesty",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      102,
+      368,
+      14
+    ],
+    "text": "AN EXTENT OF LAND IN MAWATAGAMA IN THE KuRv-",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      120,
+      368,
+      15
+    ],
+    "text": "RBCALA DISTRICT, TO PROVIDE FOR THE PAYMENT OF",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      138,
+      367,
+      12
+    ],
+    "text": "COMPENGATION FOK SUCH ACQUISITION, AND TO MAKE",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      53,
+      153,
+      393,
+      14
+    ],
+    "text": "4 PROVISION FOR MATTERS INCIDENTAL TO OR CONNECTED",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      172,
+      216,
+      10
+    ],
+    "text": "WITH THE PURPOSES AFORESAID,",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      42,
+      196,
+      347,
+      28
+    ],
+    "text": "| {Date of Assent: September 1, 1956.]",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64,
+      224,
+      381,
+      18
+    ],
+    "text": "WHEREAS, for the construction of an aerodrome",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      237,
+      381,
+      36
+    ],
+    "text": "for war Dorposes, possession of 248 parcels of land in",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      252,
+      382,
+      37
+    ],
+    "text": "Mawategama in the Kuranegala District was taken",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      271,
+      381,
+      19
+    ],
+    "text": "in 1945 by the competent authority under Regulation",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      287,
+      339,
+      17
+    ],
+    "text": "84 of the Defence (Miscellaneous) Regulations:",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      311,
+      365,
+      17
+    ],
+    "text": "And whereas 185 of such parcels of land have been",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      326,
+      381,
+      15
+    ],
+    "text": "#0 defaced that their boundaries cannot be defined for",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64,
+      343,
+      272,
+      17
+    ],
+    "text": "the purpose of de-requisitioning them:",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      366,
+      364,
+      18
+    ],
+    "text": "And wherens it hag been decided to soquire com-",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      382,
+      381,
+      19
+    ],
+    "text": "pulsorily for Her Majesty the area consisting of the",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64,
+      398,
+      211,
+      17
+    ],
+    "text": "aforesaid 185 parcels of land:",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      418,
+      439,
+      36
+    ],
+    "text": "And whereas the aequisition of such area cannot be -",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      437,
+      380,
+      17
+    ],
+    "text": "made under the Land Acquisition Act, No. 9 of 1950,",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      48,
+      452,
+      396,
+      16
+    ],
+    "text": "iby reason of the fact that the metes and bounds of the",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      468,
+      380,
+      17
+    ],
+    "text": "aforesaid 185 parcels of land cannot be defined and",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      485,
+      380,
+      17
+    ],
+    "text": "therefore disputes in respect of them that should be",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      502,
+      275,
+      14
+    ],
+    "text": "referred to court cannot be so referred:",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      525,
+      364,
+      17
+    ],
+    "text": "Be it enacted by the Queen's Most Excellent",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      541,
+      381,
+      18
+    ],
+    "text": "Majesty, by and with the advice and consent of the",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      558,
+      381,
+      19
+    ],
+    "text": "Senate and the House of Representatives of Ceylon in",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      575,
+      381,
+      17
+    ],
+    "text": "this present Parliament assembled, and by the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      591,
+      268,
+      20
+    ],
+    "text": "authority of the same, a follows:",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      627,
+      437,
+      17
+    ],
+    "text": "1. This Act may be cited as the Mawatagama Land gut ati.",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      643,
+      236,
+      16
+    ],
+    "text": "Acquisition Act, No. 38 of 1956.",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      671,
+      437,
+      18
+    ],
+    "text": "2. The land described in the First Schedule to this vesting of",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      687,
+      483,
+      20
+    ],
+    "text": "Act is hereby vested absolutely iz Her Majesty free wmitambed -",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      704,
+      455,
+      13
+    ],
+    "text": "from all encumbrances. Schedule fs",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      54,
+      719,
+      472,
+      16
+    ],
+    "text": "a Wor Stxjoty.",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      739,
+      449,
+      20
+    ],
+    "text": "8. {1} Each person specified in column TIE of the caupesesion.",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      756,
+      381,
+      20
+    ],
+    "text": "Second Schedule to this Act, heing a person who, on",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      772,
+      518,
+      20
+    ],
+    "text": "the day immediately preceding that on which this Act .",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      790,
+      382,
+      19
+    ],
+    "text": "comes inte operation, had a right or title to, or an",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      807,
+      519,
+      19
+    ],
+    "text": "interest in, the land described in the First Schedule 1",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      822,
+      380,
+      19
+    ],
+    "text": "to thie Act, shall be paid the sum specified in the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      842,
+      128,
+      9
+    ],
+    "text": "22. x meme-go00 0)",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      175,
+      27,
+      324,
+      18
+    ],
+    "text": "4 Mawatagama Land Acquisition Act,",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      311,
+      44,
+      159,
+      16
+    ],
+    "text": "No. 88 of 1966 .",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      175,
+      71,
+      379,
+      17
+    ],
+    "text": "corresponding entry in column IV of the said Second",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      176,
+      86,
+      378,
+      21
+    ],
+    "text": "Schedule as compensation for compulsorily acquiring",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      176,
+      102,
+      323,
+      19
+    ],
+    "text": "such right, title or interest for Her Majesty:",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      191,
+      126,
+      189,
+      16
+    ],
+    "text": "Provided, however, that",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      209,
+      146,
+      346,
+      17
+    ],
+    "text": "(@) where such person is a minor or is of unsound",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      255,
+      162,
+      306,
+      18
+    ],
+    "text": "mind, such sum shall be paid for his benefit.",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      255,
+      178,
+      300,
+      14
+    ],
+    "text": "to the District Court or the Court .of",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      255,
+      194,
+      300,
+      18
+    ],
+    "text": "Requests of Kuranegala according as such",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      254,
+      210,
+      301,
+      14
+    ],
+    "text": "sum. exceeds or does not exceed three",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      255,
+      225,
+      146,
+      17
+    ],
+    "text": "hundred rupees, and",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      152,
+      239,
+      402,
+      19
+    ],
+    "text": ". (8) where such person is dead or cannot be found,",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      255,
+      257,
+      300,
+      17
+    ],
+    "text": "such sum shalt be paid to such Court to be",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      255,
+      273,
+      300,
+      17
+    ],
+    "text": "drawn by the person or persons lawfully",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      255,
+      289,
+      113,
+      12
+    ],
+    "text": "entitled thereto.",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      126,
+      308,
+      429,
+      17
+    ],
+    "text": ": (2) Where the sum payable to any person under sub-",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      172,
+      304,
+      383,
+      47
+    ],
+    "text": "seation x) has been paid to him before the date on",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      176,
+      338,
+      379,
+      18
+    ],
+    "text": "which this Act comes into operation, such payment",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      175,
+      354,
+      380,
+      17
+    ],
+    "text": "shall be deemed to be a payment under this Act and",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      176,
+      370,
+      379,
+      18
+    ],
+    "text": "shall be a valid discharge of the liability to pay such",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      176,
+      386,
+      86,
+      12
+    ],
+    "text": "sum to him.",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      80,
+      413,
+      475,
+      29
+    ],
+    "text": "Rights of a % Nothing contained in this Act shall affect",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      81,
+      426,
+      475,
+      27
+    ],
+    "text": "ay the right of a person who is lawfully entitled to any",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      81,
+      444,
+      475,
+      20
+    ],
+    "text": "entitled compensation that is paid under this Act to any",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      81,
+      457,
+      480,
+      21
+    ],
+    "text": "sanpenation, other pergon to recover such compensation from sucl",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      176,
+      476,
+      91,
+      16
+    ],
+    "text": "other person.",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      193,
+      497,
+      105,
+      16
+    ],
+    "text": "2) A person",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      209,
+      516,
+      347,
+      18
+    ],
+    "text": "{a) who is not awarded any compensation by this",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      256,
+      532,
+      300,
+      19
+    ],
+    "text": "Act and who claime that, un the day",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      109,
+      547,
+      447,
+      18
+    ],
+    "text": ": immediately preceding that on which this",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      256,
+      564,
+      300,
+      18
+    ],
+    "text": "Act comes into operation, he had any",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      216,
+      579,
+      340,
+      19
+    ],
+    "text": ". right, title or interest to or in the land",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      100,
+      595,
+      455,
+      14
+    ],
+    "text": "+ described in the First Schedule te this Act,",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      256,
+      614,
+      14,
+      9
+    ],
+    "text": "or",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      211,
+      626,
+      345,
+      16
+    ],
+    "text": "(@) who is dissatisied with the amount of the",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      256,
+      643,
+      299,
+      16
+    ],
+    "text": "compensation awarded to him by this Act,",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      178,
+      661,
+      378,
+      17
+    ],
+    "text": "may claim compensation from the Crown by action in",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      178,
+      676,
+      378,
+      18
+    ],
+    "text": "the District Court or the Court of Requests of Kuru-",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      178,
+      692,
+      379,
+      18
+    ],
+    "text": "negala according as the amount claimed by him as",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      112,
+      708,
+      445,
+      16
+    ],
+    "text": "A compensation exceeds or does not exceed three hundred",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      118,
+      717,
+      442,
+      29
+    ],
+    "text": "rapes. 4",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      302,
+      757,
+      124,
+      11
+    ],
+    "text": "PIRST SCHEDULE",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      202,
+      776,
+      336,
+      16
+    ],
+    "text": "Lots 1, 2, 8, 4, 6, 9, 8, 9, 10, 12, 19, 18, 184 and 14-28.",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      290,
+      791,
+      149,
+      13
+    ],
+    "text": "ia. B. A008, NW. P.",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      191,
+      806,
+      365,
+      16
+    ],
+    "text": "An allotment of land called Kekunawatts, Timbitigabomubi-",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      178,
+      820,
+      377,
+      15
+    ],
+    "text": "watta, Thalagahomulawatia, Bulugshamulowatla, Katmwe-",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      178,
+      832,
+      376,
+      15
+    ],
+    "text": "kkanath, Attikayahamulawatta, Alutwewewatts, Ambnlamewatl,",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      133,
+      10,
+      327,
+      20
+    ],
+    "text": "Mawatugama Land Acquisition Act, 8",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      212,
+      29,
+      346,
+      15
+    ],
+    "text": "No. 38 of 1966 : :",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      76,
+      54,
+      382,
+      16
+    ],
+    "text": "Wertchonawatin, Godagalowstin, Dalupothawatta, Tmbulgube-",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      76,
+      50,
+      381,
+      38
+    ],
+    "text": "molawatta, Galshitiyawapansslowatta, Tatarorahumbore,",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      76,
+      80,
+      381,
+      17
+    ],
+    "text": "Medapillewewatta, Kanaassekumbure Pillewa, - Kotikapolage-",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      76,
+      94,
+      381,
+      16
+    ],
+    "text": "kumbora, Kapugekwmbura, Jannyekumbura, Wagurekumbura,",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      76,
+      106,
+      381,
+      18
+    ],
+    "text": "Maspothekumbura, Finkumbure, Attikngabakembura, Makulla-",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      75,
+      119,
+      383,
+      18
+    ],
+    "text": "gobakumbum, Meegaharoulakunbura, Mangiliankumbura, Daa-",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89,
+      133,
+      368,
+      16
+    ],
+    "text": "hamulakumbura, Ualahitiyowawewakumbara, Warsheoawatta,",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      49,
+      140,
+      409,
+      23
+    ],
+    "text": "s, Teneyerumburapiliowa, Boikapuwakumbura, Kotikapolae-",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      54,
+      160,
+      403,
+      15
+    ],
+    "text": "\"Lumbar, Lindakumbure, Barawewatta, Wewakurabura, Irawell-",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      76,
+      174,
+      381,
+      15
+    ],
+    "text": "fiona, Maragahamutewatta, Booruwagewstta {also known as",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      76,
+      187,
+      380,
+      15
+    ],
+    "text": "Ambagabamulnwatta), Wagobamulowatta, Bleegabamnulawatia,",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      75,
+      200,
+      381,
+      15
+    ],
+    "text": "Paronagedamnwntia, Kongahnmulawatta, Hitinngedarawatta,",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      74,
+      214,
+      382,
+      14
+    ],
+    "text": "Gedarogiwakombura, Kongahamuleku:nbure, | Lindagawalewn-",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      74,
+      227,
+      381,
+      14
+    ],
+    "text": "dura, Kendngohomulakumburs, Demubakotuwakumbura, Siyem-",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      75,
+      240,
+      421,
+      15
+    ],
+    "text": "balagahamulakumbura, Badabelayakuobure, Damiuakotuwa,",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      75,
+      254,
+      380,
+      14
+    ],
+    "text": "Kendagshamulawatin, Hitinagedaro, Kabameogahamulawotta,",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      75,
+      267,
+      380,
+      14
+    ],
+    "text": "Siyembalagabomulowetto, Dewelnwatts, Gambirigahemulawatts,",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      75,
+      280,
+      379,
+      25
+    ],
+    "text": "Paranogaderawata (alo knowns Hitinagedaravata), Dewale",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      75,
+      293,
+      379,
+      16
+    ],
+    "text": "malta, Kajugshamviakotuwo, Holmillagahamulawatta, Esweda-",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      75,
+      306,
+      379,
+      14
+    ],
+    "text": "gedernwatta, Thanaheno, Alutwatts, _Karathsgedarawatta,",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      75,
+      319,
+      379,
+      15
+    ],
+    "text": "Kehatagabarmulawatta, Poranagollewatla, Bogahamulawatte.",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      75,
+      333,
+      418,
+      14
+    ],
+    "text": "Serugobarmulavwatta, ' Kotikapolayagekumbuawatte, Damina- |",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      74,
+      346,
+      379,
+      14
+    ],
+    "text": "kotowawatte,-Kongahakumbura, Atbalsmpitisakumbura, Avabe-",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      74,
+      359,
+      379,
+      14
+    ],
+    "text": "lampitiyawatta, Galabewatta, Pabslndorakodakumbura, Pikim-",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      74,
+      372,
+      379,
+      14
+    ],
+    "text": "biyskumbure, Gurunnebelagelcambire, Marelepillewa, Thimbiri-",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72,
+      385,
+      381,
+      15
+    ],
+    "text": "gabakoustia, Acwedduweluumbura, Mospothapillewa, Dehigoda-",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73,
+      399,
+      379,
+      23
+    ],
+    "text": "Pilewe, Kapvgekumwapiliewg, Kohunguhamolakumburepilew,",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      84,
+      412,
+      369,
+      14
+    ],
+    "text": "ebigodakumbura, Kehangahakumbura, Kosgahakumbues, Maba-",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73,
+      425,
+      380,
+      13
+    ],
+    "text": "kxumbura, Moralckumbure, Wordhena and Gedsrawela and",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      50,
+      438,
+      402,
+      14
+    ],
+    "text": ", Ghomnel, situated in Tolabengods, Dalupota, Potubowa, Ella.",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      48,
+      451,
+      404,
+      24
+    ],
+    "text": "Ly goma, Arompoie, Sindunoa std Matolanda Viliages in Gandahe",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90,
+      465,
+      362,
+      13
+    ],
+    "text": "rale of Wendawili Hatpnttu in the Kurunsgals District of the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73,
+      477,
+      378,
+      24
+    ],
+    "text": "North Western Provines, containing ia extent (excuse of El",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72,
+      491,
+      380,
+      13
+    ],
+    "text": "fot Lin P.P. A 705 ond block mocked * A\") 148 acres nnd 14",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72,
+      505,
+      140,
+      13
+    ],
+    "text": "perches, and bounded",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      85,
+      528,
+      367,
+      14
+    ],
+    "text": "on the North: by aa Blo, Pattiyagewele Els ond Badelgewntta",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      124,
+      542,
+      202,
+      13
+    ],
+    "text": "olnimed by A. MI, Paling Menika,",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      82,
+      560,
+      369,
+      14
+    ],
+    "text": "on the East: by Thimbirigohnmulswatto, Thalagahamulawatte",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      125,
+      575,
+      326,
+      12
+    ],
+    "text": "claimed by B. ML. Haohamni ond others, Bulugabamnula-",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      125,
+      578,
+      326,
+      23
+    ],
+    "text": "watin olnined by RM, Ranhemni, a path, Bulogaba-",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      124,
+      601,
+      327,
+      14
+    ],
+    "text": "aulawotta clnimed by N. H. Pusomba Henaya, Alv-",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      125,
+      614,
+      326,
+      13
+    ],
+    "text": "wowewatts claimed by B. AL. Dingiri Amma and others,",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      125,
+      628,
+      326,
+      13
+    ],
+    "text": "Ambalamewatta claimed by W. ML Dingiti Appu and",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      125,
+      631,
+      325,
+      22
+    ],
+    "text": "tmother, W. Bf, Puchi Masika nad W. Ac. Hotham,",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      110,
+      654,
+      340,
+      13
+    ],
+    "text": "*. Wewebenowatta olaimed by R. MT. Dingi Amma and",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83,
+      667,
+      368,
+      13
+    ],
+    "text": "+ others, Godagalewatta olaimed by W. ME. Jayamana",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      84,
+      680,
+      366,
+      13
+    ],
+    "text": ".* and onother and R. M, Ranhnmi, q pai, Dalupothe-",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      84,
+      693,
+      366,
+      13
+    ],
+    "text": "[, wattn elnimed by W. A, Menikcala, Tmbulgaharaula-",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      125,
+      707,
+      325,
+      13
+    ],
+    "text": "waite eleimned by BR, M. Mudiyonse, Galshitivawapan-",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      51,
+      720,
+      399,
+      13
+    ],
+    "text": "snlowotte, claimed by KM. Dhammnvatana There,",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      125,
+      733,
+      325,
+      13
+    ],
+    "text": "Wetowanakumbura olaimed by E. Af, Kiri Bands, Wata-",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      113,
+      746,
+      460,
+      15
+    ],
+    "text": "_ wanapillewa claimed by B.A, Palappu Medu- i",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      125,
+      760,
+      325,
+      15
+    ],
+    "text": "Pillewowaits oud Kepugekumbuwa claimed by",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      85,
+      772,
+      365,
+      13
+    ],
+    "text": "+. BAUR: Sirimal Kiona ond others, n+ Chat",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      125,
+      784,
+      325,
+      16
+    ],
+    "text": "uel, Maspothakumbure claimed by R.|M. Sirimal",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      111,
+      799,
+      338,
+      13
+    ],
+    "text": ", Btana and others, K. 31. Dhammarniane Thoro, R. Ml.",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      125,
+      812,
+      325,
+      13
+    ],
+    "text": "Punchi Medike, 2. Nauru Pitcho, R. M, Ukku Menike",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      125,
+      825,
+      324,
+      15
+    ],
+    "text": "and another and R. 21, Yohapathhami and another,",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      155,
+      12,
+      327,
+      17
+    ],
+    "text": "6 Hawatagama Lund Acyuisition Act,",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      293,
+      29,
+      111,
+      15
+    ],
+    "text": "No. $8 of 1956",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      207,
+      56,
+      331,
+      16
+    ],
+    "text": "Maspothnlaunbura, Attikagahakombura claimed by A.B.",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      207,
+      69,
+      332,
+      17
+    ],
+    "text": "Peruma aties Thenna, Meegaharauinkumburn claimed by-",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      208,
+      83,
+      330,
+      16
+    ],
+    "text": "X, H. Appuwa Heoaya, Mangiliankombura claimed by",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      174,
+      96,
+      364,
+      16
+    ],
+    "text": "MB. Raunsinghe, Meegchamulakumbum olaimed ty",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      208,
+      109,
+      330,
+      16
+    ],
+    "text": "AW. D. Somindu, Beligahagodakomburs elaimed by E.",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      208,
+      123,
+      332,
+      15
+    ],
+    "text": "D. Bitinda, Dungabamulakumbura claimed by Ws M-",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      209,
+      136,
+      329,
+      15
+    ],
+    "text": "Schombirula and another and G. Kiriya, Moapothnkum-",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      209,
+      149,
+      331,
+      15
+    ],
+    "text": "burn Dangehamulakumaburn claimed by R. H. alias N-",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      209,
+      163,
+      329,
+      15
+    ],
+    "text": "H, Reukisi Ridi, Maspothakumbura claimed by R. H.",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      209,
+      176,
+      330,
+      13
+    ],
+    "text": "lies N. H. Rankiri Bidi, H. M. Punchi Amma and fT",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      209,
+      189,
+      330,
+      15
+    ],
+    "text": "AL. Punchi Menikn and others, Kapugekumbura claimed",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      210,
+      202,
+      331,
+      13
+    ],
+    "text": "by H. M, Ubku Banda ond others ond H. AL. Uke",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      209,
+      216,
+      330,
+      14
+    ],
+    "text": "Amma, Wekombura Ambalampitiyakomburn clainved",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      210,
+      229,
+      330,
+      14
+    ],
+    "text": "by D.T.. Balasvriya and others, Ambolampitivawatta",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      209,
+      243,
+      331,
+      13
+    ],
+    "text": "claimed by H. M. Ukku Banda ex-Korala and othrs,",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      210,
+      256,
+      330,
+      13
+    ],
+    "text": "Galahowatia cinimed by HM. Punchi Banda and K. AC.",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      209,
+      269,
+      331,
+      15
+    ],
+    "text": "Dingici Benda and Pohaladorakodakumbura claimed by",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      209,
+      282,
+      178,
+      14
+    ],
+    "text": "H. AL Appuhami and othere,",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      171,
+      299,
+      369,
+      14
+    ],
+    "text": "on the South: by Pahaledorakodakumbura claimed be H. M.",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      209,
+      311,
+      334,
+      16
+    ],
+    "text": "Appubami ond others, a Chonuel, Pihimbiyakermbura,",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      209,
+      326,
+      332,
+      14
+    ],
+    "text": "claimed by G. B.D. D. Dharmasena, Meegshamulsgoda",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      209,
+      339,
+      331,
+      14
+    ],
+    "text": "elaimed by A. BM. Dingiri Memdka and others, Gurunne-",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      206,
+      352,
+      334,
+      14
+    ],
+    "text": "helagekumbura clnimed by B. M. Punobi Banga ond",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      209,
+      365,
+      333,
+      15
+    ],
+    "text": "D. J. Balasuriya and another, Mavalopillewa alaimed by",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      209,
+      379,
+      332,
+      12
+    ],
+    "text": "H. 31. Ukka Banda ex-Korla ad Asweddawekumnburn",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      209,
+      392,
+      332,
+      15
+    ],
+    "text": "Thimbisigabakanatia olaimed by T. W. Maralaoda",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      209,
+      405,
+      201,
+      13
+    ],
+    "text": "Kumarihami and others, and +",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      170,
+      422,
+      372,
+      15
+    ],
+    "text": "on the West: by Aswedduwckumbura Thimbirigohakanntta.",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      210,
+      435,
+      331,
+      15
+    ],
+    "text": "Gedavawela and Thimbitigubiknbatte claimed by T. W.",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      210,
+      450,
+      333,
+      14
+    ],
+    "text": "Marslanda Kumavihamt and others, an Bla, Kosgaha-",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      209,
+      464,
+      333,
+      14
+    ],
+    "text": "kumbura claimed by 31. B. W. Ganegoda, P. B. Elipala",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      210,
+      478,
+      332,
+      13
+    ],
+    "text": "and T, W. Marolonds Ruranvihami and otters, Wara-",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      210,
+      492,
+      332,
+      13
+    ],
+    "text": "henawatta claimed by B. M, Sirinal tana and others",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      210,
+      505,
+      332,
+      15
+    ],
+    "text": "and D. L. Balosuriya, Punnele Ela, Boiknpuwakumbure",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      211,
+      519,
+      331,
+      15
+    ],
+    "text": "claimed by A.D.\" Wattuwa, Kotikapolayekumbors",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      211,
+      533,
+      331,
+      14
+    ],
+    "text": "claimed by W. M. Hetubami, an Hla, Lindakumbora",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      211,
+      547,
+      330,
+      14
+    ],
+    "text": "claimed by D. J. Balasuriya, D, M. Tikiraln and D. L.",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      211,
+      561,
+      332,
+      15
+    ],
+    "text": "Balesuriza, Barawewatto cisimed by D. I.. Balasoriya,",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      211,
+      575,
+      331,
+      15
+    ],
+    "text": "'s road, Bogohomulnwatta claimed by W. Mf, Kisimemka.",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      212,
+      589,
+      329,
+      14
+    ],
+    "text": "and another, Irowelihena claimed by W. 3f. Kirimonikn,",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      211,
+      603,
+      332,
+      14
+    ],
+    "text": "Trawelthena Tenbulgaharulawatia _\" Brabaddewatta",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      212,
+      617,
+      330,
+      14
+    ],
+    "text": "claimed by D. T,. Balnsuriya, Brabaddewatta claimed",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      212,
+      631,
+      331,
+      14
+    ],
+    "text": "by W. MI, Modiyonse, Hitinngedorawatia Dodanwatto",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      211,
+      645,
+      332,
+      14
+    ],
+    "text": "claimed by R. M. Auvadhahami and another, Booruwage-",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      212,
+      659,
+      332,
+      14
+    ],
+    "text": "watta claimed by BR. M. Hetuhami, Keppapalliyakam-",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      212,
+      673,
+      333,
+      16
+    ],
+    "text": "uta claimed by W. Mf. Punchi Apu and others, Hitiua~",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      212,
+      687,
+      330,
+      14
+    ],
+    "text": "gedamwatta and Kongohamulakumbura claimed by W.",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      212,
+      701,
+      332,
+      14
+    ],
+    "text": "M. Hetubami, Kongohamulnkumbura claimed by K, H-",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      212,
+      715,
+      331,
+      14
+    ],
+    "text": "Appuwn and others, Gedaragawakumbura Kongahamula-",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      212,
+      729,
+      330,
+      14
+    ],
+    "text": "komburg claimed by K. H. Monikt Ridi_ond othere,",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      212,
+      743,
+      332,
+      14
+    ],
+    "text": "Lindagewakumbure claimed by BR. M. Polatho and",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      212,
+      757,
+      330,
+      14
+    ],
+    "text": "Others, Kendagahamulnkumbura olsimed by K. M.",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      212,
+      771,
+      331,
+      16
+    ],
+    "text": "Punchi Btena und another and W. M. Palathe, Dumuas-",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      212,
+      784,
+      332,
+      17
+    ],
+    "text": "koturakumbure claimed by B. Mf. Punchi Appubami and",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      213,
+      798,
+      331,
+      14
+    ],
+    "text": "snother, H. M, Ukku Etana and another, B. M, Punchi",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      196,
+      813,
+      349,
+      14
+    ],
+    "text": "+ Appohemi, B. M1, Babshami and B. M. Dingiri Appa",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      213,
+      827,
+      117,
+      13
+    ],
+    "text": "and another an Bia,",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      166,
+      19,
+      381,
+      20
+    ],
+    "text": "Hawatagama Land Acquisition Act, 7",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      246,
+      39,
+      113,
+      15
+    ],
+    "text": "No. 38 of 1856",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108,
+      66,
+      388,
+      14
+    ],
+    "text": "and more particularly desoribed ns lots 1, % 8 4, 6 7, 8 2,",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      109,
+      79,
+      388,
+      14
+    ],
+    "text": "10, 12, 12. 18, 18), 14, 15, 16, 17, 18, 19, 20, 21, $2, 35, 24",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108,
+      92,
+      389,
+      14
+    ],
+    "text": "and 28 in P. PADS, Anted Bird September, 1948, and outheuti-",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108,
+      106,
+      318,
+      14
+    ],
+    "text": "cated by Me, 5.'W, Atukorle, for Surreyor-General,",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      40,
+      156,
+      303,
+      13
+    ],
+    "text": ". second Sehednle",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      110,
+      172,
+      428,
+      12
+    ],
+    "text": "1 H at : Ea",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71,
+      174,
+      477,
+      34
+    ],
+    "text": "Surety Lat No, Miltary Plan 80, ame ond Addrese Ree",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      73,
+      210,
+      476,
+      20
+    ],
+    "text": "(0) Prog af as Lon 960, ws (2) Rafapuhne Mudiyannlgs, Ding &80. 0",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      103,
+      222,
+      388,
+      20
+    ],
+    "text": "ee {ebating a ashen",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      328,
+      234,
+      58,
+      10
+    ],
+    "text": "tegen",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      292,
+      246,
+      257,
+      13
+    ],
+    "text": "2) Rejepncan Muiyasclege Punchi- 750.",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      288,
+      249,
+      249,
+      20
+    ],
+    "text": "Re etofTolabengeda Mewslsgame",
+    "mean_p_confidence": -0.0
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      74,
+      272,
+      474,
+      14
+    ],
+    "text": "(9) Pat oftah 1.987 vs (8) Ramanathe Meivanaelge ane 638 35",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      319,
+      283,
+      172,
+      12
+    ],
+    "text": "ang\" af ralcheceodss Seenstas",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      140,
+      298,
+      207,
+      10
+    ],
+    "text": ". eae",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      289,
+      308,
+      260,
+      13
+    ],
+    "text": "(#) Rojopaive Mudivecaeage, Unkye 882 43",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      320,
+      319,
+      171,
+      11
+    ],
+    "text": "eee Talokongedes Bwats:",
+    "mean_p_confidence": -0.0
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      319,
+      333,
+      28,
+      9
+    ],
+    "text": "mae",
+    "mean_p_confidence": 0.05
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      289,
+      344,
+      259,
+      13
+    ],
+    "text": "(8) Rajopanve, Modiyanslage Hatye 823-04",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      320,
+      355,
+      171,
+      12
+    ],
+    "text": "WeRaa oe Halshenge bwate:",
+    "mean_p_confidence": 0.07
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      244,
+      369,
+      103,
+      9
+    ],
+    "text": ": coe",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      75,
+      380,
+      474,
+      14
+    ],
+    "text": "() Pat of ob Land 450s (0) Tene Panabobke of Hariild Etat, 6500 00",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      102,
+      379,
+      264,
+      34
+    ],
+    "text": "pe Sarpote",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      75,
+      405,
+      474,
+      14
+    ],
+    "text": "G6) Perot]... Patel365 ..(1) Navarttne Henoyslege Pammabe of 100 00",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      320,
+      417,
+      139,
+      11
+    ],
+    "text": "lshongedn, Waseagstae",
+    "mean_p_confidence": 0.02
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      76,
+      431,
+      473,
+      14
+    ],
+    "text": "() Partotiots .. Parsefset and (8) Ramenoyoka Mulivamloge Die 128. 00",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      205,
+      429,
+      286,
+      34
+    ],
+    "text": "yenetiir viotan of Catches, Saweta:",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      48,
+      456,
+      300,
+      15
+    ],
+    "text": "eo. ea",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      290,
+      467,
+      259,
+      12
+    ],
+    "text": "(2) Hemannthe Aadiyaasiogs Palppu 62 0",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      321,
+      479,
+      136,
+      10
+    ],
+    "text": "i Yotcben, alvwstagema",
+    "mean_p_confidence": 0.07
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      285,
+      492,
+      264,
+      13
+    ],
+    "text": "(00) RemonashnStudiyarelagn Kitie e200",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      113,
+      504,
+      379,
+      11
+    ],
+    "text": ". \"Sanaa Botuse ontAgain",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      79,
+      518,
+      470,
+      14
+    ],
+    "text": "(rare ofloe4 .. 180 QT) Wamnagriya Atiynssings Dine 3800 00",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      321,
+      530,
+      171,
+      11
+    ],
+    "text": "etapa et Dnlcpothes Sieweto-",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      319,
+      543,
+      28,
+      8
+    ],
+    "text": "int",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      291,
+      554,
+      259,
+      10
+    ],
+    "text": "1a) Wernoeutiyn Nudiytratege Balas 63900",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      286,
+      556,
+      207,
+      21
+    ],
+    "text": "(2) Wan of Dalupotha, Martagnin",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      287,
+      580,
+      263,
+      12
+    ],
+    "text": "(18) Woreaauriye udiyenasinge Wje- 450. 00",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      322,
+      591,
+      172,
+      11
+    ],
+    "text": "ninynal Dalupoten satapue",
+    "mean_p_confidence": -0.0
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      286,
+      605,
+      265,
+      12
+    ],
+    "text": "(04 Wamaniya afedizmesings Paging 659-00",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      302,
+      607,
+      167,
+      21
+    ],
+    "text": "Ne Salepothn, Naweingome",
+    "mean_p_confidence": -0.0
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      287,
+      631,
+      264,
+      11
+    ],
+    "text": "(18) Waroamriyn Mosigenetage Udi 620 00",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      118,
+      643,
+      376,
+      10
+    ],
+    "text": ". Srama ce Balupathn steerage",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      287,
+      656,
+      264,
+      12
+    ],
+    "text": "(00) Warnurigendivenalege Sint 650 OO",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      323,
+      668,
+      170,
+      11
+    ],
+    "text": "Slo of Dalapotiny Mnwte",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      105,
+      681,
+      246,
+      9
+    ],
+    "text": ". sme",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      85,
+      692,
+      466,
+      12
+    ],
+    "text": "7) Par oftot & -.- Parkof 170. (17) Wamamiya. Muciyaslage Pane 620 60",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      80,
+      694,
+      414,
+      20
+    ],
+    "text": "o (1) Warsireice of Potsbowns lowe:",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      324,
+      718,
+      28,
+      8
+    ],
+    "text": "fe",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      60,
+      729,
+      491,
+      16
+    ],
+    "text": "4g (Paroles oc, Pareof8 .. (18) Warnemarive Muctigensiage Hobo. 600 00",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      324,
+      733,
+      170,
+      19
+    ],
+    "text": "Romy of Botubows, Mawnlagama",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      80,
+      754,
+      501,
+      14
+    ],
+    "text": "{Pare of tos dond 118s (18) Rermomntna. Aludiyrastoge Rane 760 00;",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      111,
+      766,
+      383,
+      12
+    ],
+    "text": "te ay of Potcbore, Soutagas",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      75,
+      779,
+      506,
+      22
+    ],
+    "text": "(00) Pacbat led. 187. 8) Wagnauiga Milgacrogn Next 3.00 OF |",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      88,
+      779,
+      406,
+      34
+    ],
+    "text": "1, in af Bonivoce, Seestagsns",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      76,
+      805,
+      475,
+      14
+    ],
+    "text": "Qj Pars orteta .. 108 << (81) Ramona, Sttiyenango. Met 3,000 0",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      326,
+      803,
+      255,
+      34
+    ],
+    "text": "Joos of Fonibosn, Maegan a",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      76,
+      831,
+      475,
+      14
+    ],
+    "text": "(09) Poet oflot 5 U8lond 224 ., (22) Rev Hiuldore Daemraratna Thro 1,003.06",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      322,
+      829,
+      230,
+      34
+    ],
+    "text": "Si Arompota, ewatngana",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      75,
+      34,
+      368,
+      17
+    ],
+    "text": "8 Mawatagama Land Acquisition Act,",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      257,
+      50,
+      108,
+      16
+    ],
+    "text": "No. 98 of 1956",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      123,
+      77,
+      411,
+      12
+    ],
+    "text": "1 nm. a w",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      86,
+      95,
+      460,
+      13
+    ],
+    "text": "Sie Sat e.My Pan Na. Nant on Aes me",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      85,
+      116,
+      461,
+      13
+    ],
+    "text": "(12) Part of lots 4 and 160 s+ {93) Gommedde Relainge Don Somapela H# 25",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      80,
+      119,
+      377,
+      21
+    ],
+    "text": "an eet ) Serie Roe Deo",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      290,
+      142,
+      256,
+      12
+    ],
+    "text": "eh connate tacgsine Geran 348-26",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      324,
+      154,
+      134,
+      11
+    ],
+    "text": "apenas aig",
+    "mean_p_confidence": 0.05
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      289,
+      167,
+      277,
+      12
+    ],
+    "text": "(25) Gammedde Rolslane Don Seneviretne JM 2b",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      323,
+      179,
+      134,
+      10
+    ],
+    "text": "orien",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      290,
+      192,
+      255,
+      12
+    ],
+    "text": "(0) Genmadta Rtgs Depa Dears std 26",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      323,
+      203,
+      170,
+      11
+    ],
+    "text": "cat eas,",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      82,
+      221,
+      464,
+      13
+    ],
+    "text": "aseofist ie, 161s @NRamamatheMeayunaogs Aude 980 0",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      121,
+      232,
+      366,
+      20
+    ],
+    "text": "aecty Taye aeteee aot",
+    "mean_p_confidence": 0.04
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      86,
+      260,
+      460,
+      11
+    ],
+    "text": "Amott 5. Wh ASepd (20 Ragunatin Magog med 80 0",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      82,
+      262,
+      405,
+      20
+    ],
+    "text": "on Heth CO Repeat ee a",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      263,
+      285,
+      283,
+      11
+    ],
+    "text": "+ qa) Renteaine aetigenage Deg. 500 0",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      136,
+      296,
+      354,
+      11
+    ],
+    "text": ": crap clodamante: Dee",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      290,
+      309,
+      256,
+      20
+    ],
+    "text": "(i napmeainattgemcagrUstrdh G0",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      322,
+      322,
+      133,
+      10
+    ],
+    "text": "spears",
+    "mean_p_confidence": 0.01
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      290,
+      334,
+      256,
+      12
+    ],
+    "text": "Gan neumabettupeontge mada 50. 00",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      82,
+      346,
+      405,
+      13
+    ],
+    "text": ". cayenne tele",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      294,
+      359,
+      252,
+      10
+    ],
+    "text": "22) Raper teens Kenan 600 0",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      290,
+      361,
+      167,
+      20
+    ],
+    "text": "Ca apa Sei",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      81,
+      384,
+      465,
+      13
+    ],
+    "text": ". 23) Rovantign Nodyrongy Appts 200 00",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      290,
+      386,
+      197,
+      20
+    ],
+    "text": "on pera, Meiyamng Ar",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      81,
+      413,
+      464,
+      13
+    ],
+    "text": "QO Pat cfloe aad 108) wh Seno Damien D-1 Os Oren, 388834",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108,
+      425,
+      438,
+      21
+    ],
+    "text": "cee Pe Las aay urate, J. On 388 9",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      109,
+      426,
+      390,
+      38
+    ],
+    "text": "pega | Beta aad +30",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      120,
+      457,
+      444,
+      19
+    ],
+    "text": "rot ,",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      120,
+      462,
+      443,
+      21
+    ],
+    "text": "ob {26} Misa Bold Sleralando, Supecintondent 3,883'84",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      109,
+      477,
+      326,
+      11
+    ],
+    "text": "ri Bosasnesersian) OM Mepsttepinde. Se",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      294,
+      490,
+      252,
+      12
+    ],
+    "text": "fn) sige, \"oamgeia of Marlnde 3,6 88",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      290,
+      492,
+      151,
+      20
+    ],
+    "text": "on sane oer ot",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      294,
+      515,
+      253,
+      20
+    ],
+    "text": "an nape erp eo 18206",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      290,
+      517,
+      151,
+      25
+    ],
+    "text": "oe Walawwa, YOLOgORO",
+    "mean_p_confidence": 0.04
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      291,
+      540,
+      255,
+      12
+    ],
+    "text": "(aH aryrttagarnes ot arsando 1082 #8",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      323,
+      552,
+      118,
+      10
+    ],
+    "text": "vm ees",
+    "mean_p_confidence": 0.06
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      291,
+      564,
+      254,
+      13
+    ],
+    "text": "uo bela eens Marland 1,62 8",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      323,
+      576,
+      117,
+      11
+    ],
+    "text": "eine Gere",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      291,
+      589,
+      255,
+      13
+    ],
+    "text": "(ay mis eer Mando of 2,68 88",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      323,
+      601,
+      173,
+      10
+    ],
+    "text": "is Aenean Males",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      291,
+      614,
+      255,
+      13
+    ],
+    "text": "(en una Reeega si erB. eres 1.62 88",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      282,
+      626,
+      191,
+      10
+    ],
+    "text": "tele Bakers 25, Bake",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      291,
+      639,
+      255,
+      12
+    ],
+    "text": "(4) Nason Bonny Homann, 1,68 88",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      324,
+      651,
+      165,
+      10
+    ],
+    "text": "cog Ree Romer:",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      324,
+      661,
+      163,
+      11
+    ],
+    "text": "oe Buna oa",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      291,
+      674,
+      256,
+      21
+    ],
+    "text": "(ona pec Dung, 800",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      310,
+      689,
+      59,
+      8
+    ],
+    "text": "Rae",
+    "mean_p_confidence": 0.06
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      292,
+      699,
+      255,
+      13
+    ],
+    "text": "(69 steer apy ot Dui, 18 60",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      332,
+      712,
+      45,
+      10
+    ],
+    "text": "ran",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      291,
+      725,
+      268,
+      11
+    ],
+    "text": "(46) Goolewathic Dodanwela of Muru- 1,437 60.)",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      324,
+      737,
+      99,
+      10
+    ],
+    "text": "aes Daler",
+    "mean_p_confidence": 0.07
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      291,
+      750,
+      256,
+      20
+    ],
+    "text": "(tagged owes 14008",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      291,
+      774,
+      257,
+      12
+    ],
+    "text": "(4) Asuna Goes ao Qopele 8?",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      324,
+      776,
+      155,
+      21
+    ],
+    "text": "sommes",
+    "mean_p_confidence": 0.08
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      291,
+      799,
+      256,
+      12
+    ],
+    "text": "(0) Peterie Rumery jo Gs- 7818",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      324,
+      804,
+      166,
+      18
+    ],
+    "text": "sare Ronertony oe oe",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      292,
+      824,
+      254,
+      12
+    ],
+    "text": "(6) etme Gepaiorn fo Gop) 72876",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      324,
+      829,
+      202,
+      22
+    ],
+    "text": "menace",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      162,
+      13,
+      379,
+      19
+    ],
+    "text": "Mawatagama Land Acquisition Act, 9",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      242,
+      31,
+      112,
+      16
+    ],
+    "text": "No. 38 of 1958",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      105,
+      57,
+      424,
+      11
+    ],
+    "text": "! n an 1",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      69,
+      66,
+      471,
+      30
+    ],
+    "text": "Survey Lot Ne. Miltary Plow Now Mane and Adrons Bn",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      277,
+      99,
+      264,
+      13
+    ],
+    "text": "(0) Phylis Boletos, cfo TB. 479 18",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      311,
+      104,
+      172,
+      18
+    ],
+    "text": "Nugewela, Nogewsia, Kadogustats",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      281,
+      124,
+      259,
+      11
+    ],
+    "text": "(im Prema Nugawelo, ofo 7. Ra Nuge- 410 16",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      277,
+      125,
+      206,
+      22
+    ],
+    "text": "(2) Pe Magu aganaia",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      41,
+      150,
+      500,
+      12
+    ],
+    "text": "2 (63) Ataavin Nugawels, ofo T. R. Nags: 470 16",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      45,
+      162,
+      461,
+      11
+    ],
+    "text": "- wola, Nugawela, Ketogantate *",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      277,
+      175,
+      263,
+      13
+    ],
+    "text": "(88) Juyatilake Tule Bandera Meds 70 18",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      311,
+      186,
+      172,
+      12
+    ],
+    "text": "eme, ofo PB. Modagerae, HM.",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      311,
+      198,
+      93,
+      10
+    ],
+    "text": "Etiam, Goloibe",
+    "mean_p_confidence": 0.03
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      281,
+      211,
+      259,
+      12
+    ],
+    "text": "(5) Nandewathie Sedageme, ofo PB. 470 18",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      278,
+      214,
+      204,
+      29
+    ],
+    "text": "O SsiekGae, Hea Gaon, Oa",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      277,
+      251,
+      263,
+      13
+    ],
+    "text": "(96) Nondawanse Soyatilaxe, Bandara 470 18",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      310,
+      263,
+      172,
+      11
+    ],
+    "text": "Stedegomm, c/o . B. Sledagame,",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      310,
+      274,
+      126,
+      10
+    ],
+    "text": "HH Gustona, Colosbo",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      64,
+      288,
+      475,
+      12
+    ],
+    "text": "Qn Yar oftat 4) 204 s+ (8?) Hlankoon Mudiyangelago Uikoamas 1,645 00",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      86,
+      300,
+      360,
+      10
+    ],
+    "text": "Pork of lot 16 of Ararmpots, Aewategarue",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      65,
+      313,
+      474,
+      12
+    ],
+    "text": "18) Pastarlots <. 206 1+ (68) Rev, Kituldora Damauatatna'Thero 100. 00",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      311,
+      325,
+      135,
+      11
+    ],
+    "text": "of Arampolo, Mowalagesne",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      65,
+      343,
+      474,
+      12
+    ],
+    "text": "(19) Paskotiona .. 206 ++ (88) Ramona Mudiyanstagn Punchi- 465-00",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      74,
+      344,
+      409,
+      21
+    ],
+    "text": "Femme egcane aise tapac",
+    "mean_p_confidence": 0.04
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      65,
+      368,
+      474,
+      12
+    ],
+    "text": "(20) Parkof lend... 207 ++ (00) Tennekoon Budiyameloge Kizimw- 30 00",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      310,
+      379,
+      171,
+      11
+    ],
+    "text": "dyases of Ellagonnay Seawate-",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      309,
+      393,
+      29,
+      8
+    ],
+    "text": "=e",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      277,
+      404,
+      262,
+      12
+    ],
+    "text": "(@1) Tennekoon 2udiyaneelage kisi. $0 00",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      310,
+      415,
+      171,
+      11
+    ],
+    "text": "banda of Ellogonne, Maategama",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      64,
+      429,
+      475,
+      12
+    ],
+    "text": "1 Porotlet 4. 208 ++ (62) Ramanatha Modiyansnlage Ukdei- 120 00",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      260,
+      441,
+      220,
+      11
+    ],
+    "text": ": moniko of Elagonne, ewrote-",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      43,
+      454,
+      294,
+      12
+    ],
+    "text": "e nme",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      277,
+      466,
+      262,
+      11
+    ],
+    "text": "(68) Remanatha. Modiyanaslogo Kalu. 60 00",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      310,
+      477,
+      170,
+      11
+    ],
+    "text": "Tham of Etagonna, Suawatagarse",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      277,
+      491,
+      261,
+      11
+    ],
+    "text": "(64) Ramanatne afudiyanselago Yahe- 60 00",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      310,
+      494,
+      170,
+      19
+    ],
+    "text": "puthbamy of Blagaanay Muweter",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      309,
+      515,
+      28,
+      8
+    ],
+    "text": "Bama",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      64,
+      527,
+      474,
+      12
+    ],
+    "text": "(23) Patoflota .. 200 + (G6) Rev. Kolugnla Dovencada of Maley. #2000",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      246,
+      538,
+      198,
+      13
+    ],
+    "text": ". ane Temple, Msoretagasoa",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      64,
+      553,
+      474,
+      11
+    ],
+    "text": "(23) Past of ot 4. 210 {> (0) Romanstha Budiyansolage Yoho. 70 00",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      310,
+      564,
+      170,
+      10
+    ],
+    "text": "atharay of Elagonna, Sawete-",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      309,
+      577,
+      28,
+      8
+    ],
+    "text": "gama",
+    "mean_p_confidence": 0.04
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      280,
+      593,
+      258,
+      11
+    ],
+    "text": "(7) Ramengtho Mudiyergalage Uidureda 70 00",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      276,
+      594,
+      193,
+      21
+    ],
+    "text": "(0 Raila ot Blloponne Nsttagems",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      63,
+      618,
+      474,
+      12
+    ],
+    "text": "20) Partoftos4 os, 2 ++ (08) Akcornuge Poenma of Meatbanvela, - 485 00",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      310,
+      629,
+      124,
+      11
+    ],
+    "text": "Palegama, Mawataganso",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      63,
+      644,
+      474,
+      11
+    ],
+    "text": "28) Pactoflod .. 218 ++ (09) Ramnnotha Sudiyonacloge Ukico- 238-00",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      310,
+      655,
+      172,
+      11
+    ],
+    "text": "nen of egonns, aboratagama.",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      276,
+      669,
+      261,
+      11
+    ],
+    "text": "{70} Ramannths Bludiyonsclage Sirimat 242 50",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      310,
+      680,
+      170,
+      11
+    ],
+    "text": "Bona of Bllagotna, Sawalageras",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      63,
+      694,
+      473,
+      12
+    ],
+    "text": "{26} Pastotlocd .. 213 ++ (M1) Ramanashe Modiyanselage Yopatl> 310 08",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      311,
+      706,
+      169,
+      11
+    ],
+    "text": "Thamny of Ellagonna, Bawategaroe",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      280,
+      720,
+      256,
+      12
+    ],
+    "text": "(8) Ramanathan Mudiyaraelnge Kolu- 165 00",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      48,
+      721,
+      431,
+      22
+    ],
+    "text": "0) ny of Elagonae, ceateguean",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      62,
+      745,
+      473,
+      12
+    ],
+    "text": "42%) Portoflota .. 2M ++ (3) Remnnathe Budiyenselage Yapath. 460 08,",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      311,
+      757,
+      168,
+      11
+    ],
+    "text": "Thamy of EUageana, Xnwetegarae",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      276,
+      770,
+      258,
+      13
+    ],
+    "text": "(4) Roy, 1Siuldora DhammaroiseTaero 239 34",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      311,
+      783,
+      134,
+      11
+    ],
+    "text": "of Arempols, Mavretogama",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      62,
+      795,
+      472,
+      14
+    ],
+    "text": "(28) Rast oflotd 215 ++ (78) Navarainn. Roneyalago Appure of 020 Of",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      135,
+      809,
+      448,
+      13
+    ],
+    "text": ". Arompoto, Marravagume .",
+    "mean_p_confidence": 0.09
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      62,
+      820,
+      471,
+      14
+    ],
+    "text": "G0 Part otto 216 ++ (08) Batieinghe Acocbehilage Hawken- 450 00",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      177,
+      834,
+      406,
+      12
+    ],
+    "text": ". do of Watuyoya, Woods :",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      71,
+      4,
+      510,
+      27
+    ],
+    "text": "10 Mawataguma Land Acquisition Act, |",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      258,
+      31,
+      323,
+      16
+    ],
+    "text": "No. 38 of 1956 i",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      91,
+      59,
+      448,
+      13
+    ],
+    "text": "wt a a",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      76,
+      81,
+      484,
+      12
+    ],
+    "text": "-Suroey Lat No. Miltary Plan No. Naone and aide Bao",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      76,
+      100,
+      473,
+      12
+    ],
+    "text": "(0) Parcoftons 817 + (07) Resnnnathe, Mudivenaslege Unies 136 35",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      327,
+      103,
+      157,
+      19
+    ],
+    "text": "role of Bilogonno, Mawasegnma",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      77,
+      125,
+      473,
+      13
+    ],
+    "text": "F (98) Ravavetin Meadkvaeinge Ding 116 67",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      327,
+      136,
+      169,
+      11
+    ],
+    "text": "ftarea oF Ellsgovnn,Bwetaguson",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      82,
+      154,
+      469,
+      12
+    ],
+    "text": "ON) Pare of tot 1, (19) Ramanatie. Audiynnsolage Girimal 270 85",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      78,
+      154,
+      492,
+      35
+    ],
+    "text": "6 wa Pen 4} 218 0) Bann of Ellgeina, avecage",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      78,
+      184,
+      473,
+      14
+    ],
+    "text": ". (80) Romanntha 2Cudiyentelogs Dingits 270 85",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      328,
+      198,
+      168,
+      10
+    ],
+    "text": "Ta of Elapohinn, etatagene",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      296,
+      211,
+      255,
+      10
+    ],
+    "text": "() Ramonatha Moiyannalage Appa- 270 83",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      292,
+      213,
+      205,
+      21
+    ],
+    "text": "(00 Rely of Ellagocm, acetegnne",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      297,
+      236,
+      255,
+      10
+    ],
+    "text": "62) Ramenalho, Mudiyensloge Uideur 270 88",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      244,
+      238,
+      246,
+      21
+    ],
+    "text": ": (0 Rar at Stlagomias Maweagare",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      73,
+      262,
+      479,
+      11
+    ],
+    "text": ". (8) Remunatho Mudiyoneclage Auda 270 88",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      328,
+      273,
+      169,
+      11
+    ],
+    "text": "Tbemy of Ellagonna, Memecagarnn",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      127,
+      287,
+      425,
+      11
+    ],
+    "text": ". (04) Romanatha Mudlvacaslage Kowrala 20 64",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      329,
+      299,
+      135,
+      10
+    ],
+    "text": "of Bilagonne, Mawaageran",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      81,
+      316,
+      472,
+      20
+    ],
+    "text": "2 Pert or eed. 219 <1 (88) Magpathirage Ramon Ranosinghe $00 00",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      282,
+      328,
+      125,
+      13
+    ],
+    "text": "OO Ne iweanacoe",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      82,
+      345,
+      469,
+      13
+    ],
+    "text": "(9%) Panotlatd . 220 + (95) Woorusinghe Demeysiage Sornindu 1100 60",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      330,
+      357,
+      134,
+      11
+    ],
+    "text": "or Eilngonae, Mewatagore",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      82,
+      374,
+      471,
+      13
+    ],
+    "text": "4) Pac oflot's .. 281 ++ (81) Wigetusga Mudiyantelege Sohoodk: 350 00",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      329,
+      386,
+      156,
+      11
+    ],
+    "text": "rile of Arse, Maatagaron",
+    "mean_p_confidence": 0.05
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      295,
+      399,
+      258,
+      12
+    ],
+    "text": "(a8) Horas 2tudiyarslage Tikribenda of 350 00",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      330,
+      411,
+      117,
+      11
+    ],
+    "text": "Gonagaley Mlowetegama",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      82,
+      428,
+      472,
+      13
+    ],
+    "text": "5; Poctottoba 29 ++ (09) Godagendeniyaloge Kiya of Arom- 400 00",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      330,
+      441,
+      92,
+      10
+    ],
+    "text": "os Meworapinn",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      319,
+      454,
+      252,
+      12
+    ],
+    "text": "Godegandeivalngn Rlevisa of Aram. 115-00 <=",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      107,
+      455,
+      316,
+      22
+    ],
+    "text": ": . (ol Or Niecantae",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      305,
+      479,
+      249,
+      12
+    ],
+    "text": "1) Godogandeniyalage Yogiya of Aram- 118 00",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      295,
+      480,
+      148,
+      22
+    ],
+    "text": "On eee Marclogena",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      295,
+      504,
+      259,
+      12
+    ],
+    "text": "(02) Gedagondeniyatage Emona of Aremn- 118 00",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      330,
+      516,
+      92,
+      11
+    ],
+    "text": "poll Horelapinn",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      103,
+      529,
+      452,
+      12
+    ],
+    "text": ": : (02) dedagandeniyninge Podinana of 87 50",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      211,
+      541,
+      239,
+      11
+    ],
+    "text": ": Arampoin, Maetagoma",
+    "mean_p_confidence": 0.05
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      104,
+      554,
+      451,
+      12
+    ],
+    "text": ". (01) Godagandaciysiage Mohatmays of 87 30",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      103,
+      558,
+      369,
+      19
+    ],
+    "text": ". : Arompola, ewatageme",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      84,
+      583,
+      472,
+      15
+    ],
+    "text": "(8) Fetoflas 223 (95) Nowarsion Honnyatags Renirt 9,850 00",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108,
+      582,
+      468,
+      32
+    ],
+    "text": "Earottes t2 } der Hide Atambopdi, Gsagetora -",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      109,
+      607,
+      114,
+      9
+    ],
+    "text": "Baroni J 396",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      84,
+      615,
+      473,
+      15
+    ],
+    "text": "(a7) Bertofloe 4) 4) Partof 81 (td) Remanaiha afodiyansslage Shims 1,000 09",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      109,
+      628,
+      388,
+      10
+    ],
+    "text": "Fieotles } Bavarais Erona of Elogasne, Sewsingneen",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      297,
+      644,
+      260,
+      13
+    ],
+    "text": "{87) Romanatho Bdiyeranlnge Dini 1,000 00",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      332,
+      657,
+      167,
+      11
+    ],
+    "text": "rma of ilagesnas owatagns",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      91,
+      670,
+      467,
+      12
+    ],
+    "text": ". {0H Ramanan. Mtudiyaneolege Uldeu- 2.000 00",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108,
+      682,
+      378,
+      15
+    ],
+    "text": ": ale of lagna, Mavnaragnnn",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      92,
+      695,
+      466,
+      12
+    ],
+    "text": "ae {00} Ramanatha Bfudiyannatage Aronda- 1,000 00",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      40,
+      708,
+      455,
+      13
+    ],
+    "text": ". hemy of Ellagonna, Bewraingnenn",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      101,
+      720,
+      458,
+      12
+    ],
+    "text": ", (100; Ramaratie Rholiyanatiage Kewrela 1,000 00",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      40,
+      724,
+      533,
+      23
+    ],
+    "text": ": . (10) Rape Name",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      40,
+      750,
+      440,
+      14
+    ],
+    "text": "2 qauy Panotlond .. Partof 62 .",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      40,
+      763,
+      221,
+      11
+    ],
+    "text": ": Pumcflot 4s. Porsor It",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      100,
+      773,
+      123,
+      10
+    ],
+    "text": "*fueatisa 12 sr",
+    "mean_p_confidence": 0.06
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      112,
+      782,
+      446,
+      12
+    ],
+    "text": "Bowoflers <2 Us (101) Don Lanrie Balainrlya.of Mawator 45,000 00",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      111,
+      794,
+      244,
+      11
+    ],
+    "text": "Pasbotlotd <> Bors of 159 ome",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      111,
+      805,
+      423,
+      9
+    ],
+    "text": "Penaland 2. Poreof 00 :",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      111,
+      816,
+      355,
+      20
+    ],
+    "text": "Beale 2 3 :",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108,
+      826,
+      338,
+      33
+    ],
+    "text": "| otloe ty i. Bar .",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      166,
+      12,
+      380,
+      20
+    ],
+    "text": "Mawatayama Land Acquisition Act, uw",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      246,
+      32,
+      113,
+      15
+    ],
+    "text": "No.. 38 of 1966",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      109,
+      52,
+      425,
+      17
+    ],
+    "text": "Z a . HE av",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      71,
+      75,
+      476,
+      15
+    ],
+    "text": "Sarecy Lot No. Military Plan No. Named Adon arn",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      66,
+      93,
+      480,
+      22
+    ],
+    "text": "(90 eto. Paro ON. (108) Una ng, ohanomed Tara of 100 08",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      314,
+      107,
+      69,
+      11
+    ],
+    "text": "Nope Pion",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      66,
+      119,
+      480,
+      14
+    ],
+    "text": "(40) Poet clot 4. Poskof 80 .. (108) Alsnango Poola of Fllogna, 20a- 208-00",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      314,
+      134,
+      53,
+      9
+    ],
+    "text": "nage",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      47,
+      144,
+      499,
+      16
+    ],
+    "text": ". Ht} Portof ict 4 4, Part of 105 ,. (104) Warnasuriya Mudivanselage Hetu- \"700 00",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      50,
+      157,
+      435,
+      11
+    ],
+    "text": ". 4 ana of Bonabors, reagan",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      67,
+      170,
+      478,
+      14
+    ],
+    "text": "1) Fasbortoe 4s .. 01 <. (106) Karfyews. Mohandimmnlage Tiki. 100 00",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      83,
+      173,
+      405,
+      25
+    ],
+    "text": "Dm ae ala of Dombemada, Rambukkaos",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      66,
+      195,
+      479,
+      14
+    ],
+    "text": "6) Pavers. 296 - (100) Dom Lawin Bolaeuriya of Mavrata- 900 00",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      314,
+      211,
+      28,
+      8
+    ],
+    "text": "ome",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      275,
+      221,
+      271,
+      13
+    ],
+    "text": "(00%) Ramonathe Bfudiyantelogn Aumeda- 500 09",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      314,
+      233,
+      173,
+      11
+    ],
+    "text": "Samy of Fembown, Mewalagaoo",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      67,
+      246,
+      479,
+      14
+    ],
+    "text": "(40) Pamol ord. Parka 166. (108) Rarmnatba Mudivanscloge Ghanrs- 250 00",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      315,
+      258,
+      174,
+      10
+    ],
+    "text": "Tathle of Potubows, Stawecagema",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      276,
+      272,
+      269,
+      13
+    ],
+    "text": "{200 Ramonathe Hindiyenolage Wirale. $50 00",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      315,
+      284,
+      172,
+      10
+    ],
+    "text": "Sratnte of Poecbons, Sewotageme",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      68,
+      297,
+      476,
+      13
+    ],
+    "text": "(6) Perkof ots) 150 - (210) Ramenstha Rudiyenaagn Aumada. 050 00",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      88,
+      297,
+      399,
+      32
+    ],
+    "text": "Fark of oe 3 ay of Petuboen, awataguine",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      68,
+      323,
+      476,
+      13
+    ],
+    "text": "G0) Part oflov4 . Part of 151 (111) Remanstia. Bfudiyonecage, Hons 1,650 00",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      190,
+      322,
+      296,
+      33
+    ],
+    "text": "Buttot as amy of Poletopuies Karine.",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      314,
+      346,
+      22,
+      10
+    ],
+    "text": "me",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      68,
+      363,
+      476,
+      13
+    ],
+    "text": "(7 Fant ortnd 6 s+ (112) WamosuriyaMesivansstegs Kiri; 020 00",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      93,
+      365,
+      393,
+      23
+    ],
+    "text": "Ems} (012) Win of Fouabone, srowelagaroa",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      67,
+      389,
+      477,
+      12
+    ],
+    "text": "48) Pons oftot 4 1. 142 and 43. (119) Romoratha Molivanslage Bate- 528 60",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      103,
+      400,
+      383,
+      11
+    ],
+    "text": "and lot tau of Potahowa, Batata",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      275,
+      414,
+      268,
+      12
+    ],
+    "text": "(110) SWijenniya Bodiyamelege Dingir 538 00",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      314,
+      425,
+      171,
+      11
+    ],
+    "text": "TMny Ot Foratorn, Mbwatagannn",
+    "mean_p_confidence": 0.05
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      68,
+      439,
+      475,
+      12
+    ],
+    "text": "49) Part of fot 4and 139% + (115) Warnasuriya Mudzyaneeloge Appu- 606 00",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      50,
+      441,
+      435,
+      25
+    ],
+    "text": "ug Were Megane nme",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      68,
+      465,
+      475,
+      11
+    ],
+    "text": "60) Pare of td... Forbof 138... (116) Wamanusica Diudiyennlago Hem 12,000 00",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      274,
+      466,
+      211,
+      21
+    ],
+    "text": "O18) Wish of Potobovs, Matacagaion",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      69,
+      490,
+      474,
+      12
+    ],
+    "text": "GU, Rat oftar4 .. Port or298 \"., (117) KathieapetaHeoayalngs Meakin 28 00",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      314,
+      501,
+      214,
+      11
+    ],
+    "text": "Bidl SF Anmnpoln, Mawetogeme",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      275,
+      516,
+      268,
+      12
+    ],
+    "text": "(030) Kothikepola Howeyalnge Cheiainn 600",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      314,
+      527,
+      136,
+      11
+    ],
+    "text": "ot aeetapele: osntagnane",
+    "mean_p_confidence": 0.09
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      275,
+      541,
+      268,
+      12
+    ],
+    "text": "(110) Kothieapsta Honoyainge Kin of 26 00",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      314,
+      544,
+      122,
+      20
+    ],
+    "text": "Arompolny Mawalagatsa",
+    "mean_p_confidence": 0.06
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      132,
+      567,
+      412,
+      12
+    ],
+    "text": ": (120) KotikapolaHonoyninge Rona of 26-00",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      315,
+      579,
+      122,
+      10
+    ],
+    "text": "Aronpeln, Alawetngwa",
+    "mean_p_confidence": -0.0
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      66,
+      596,
+      478,
+      12
+    ],
+    "text": "452) Part of ob 4.. Parbof 299 ., (181) Ramannthn Hudivanesings Sirimsl 75 00",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      210,
+      608,
+      276,
+      11
+    ],
+    "text": ": iene of Bllagenne, aetagnnan",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      275,
+      622,
+      269,
+      11
+    ],
+    "text": "(122) Ramonathe Mudiyncasnge Dingici 75-00",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      315,
+      634,
+      173,
+      11
+    ],
+    "text": "Aina of Bingounn, Newetepuan",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      275,
+      648,
+      269,
+      11
+    ],
+    "text": "(129) Ramanatbo tudivonalage Unlels 150 00",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      315,
+      659,
+      137,
+      11
+    ],
+    "text": "ot BungonnaSeseveagomn",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      276,
+      673,
+      267,
+      12
+    ],
+    "text": "(044) Roinanatha odiyanetoge Avenda- 18-00",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      316,
+      684,
+      168,
+      12
+    ],
+    "text": "iinoy of EUagosnn, owntagonne",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      184,
+      698,
+      359,
+      15
+    ],
+    "text": ". (025) Romanatha Kolivanecloge Kawrala 75 00",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      315,
+      708,
+      136,
+      14
+    ],
+    "text": "of Hllagonaay Nawstagemn",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      55,
+      722,
+      488,
+      16
+    ],
+    "text": "gM Past of et & + Parbof 300 .. (126) Kuriyawe Blohandiramulage Punch 240 00",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      316,
+      736,
+      170,
+      11
+    ],
+    "text": "Hisca of Bombcpola, orbs",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      312,
+      733,
+      100,
+      32
+    ],
+    "text": "itane",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      67,
+      762,
+      476,
+      15
+    ],
+    "text": "454) Portoflok 4 =~. Portof30l .. (127) WornnmuriyaMudiyanseloge Palathio $25 00",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      315,
+      776,
+      136,
+      11
+    ],
+    "text": "of Potatoes lawatagemne",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      67,
+      787,
+      476,
+      15
+    ],
+    "text": "G05) Pom of ots -s Pesbot 309 ,, (198) Ralesserie Mtadigeneviege neki 17 60",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      315,
+      801,
+      254,
+      13
+    ],
+    "text": "Appanainy of Botubowa, Mnwece. :",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      277,
+      816,
+      265,
+      19
+    ],
+    "text": "(02m wirsoaiyo fudivasaloge Honda 178 00",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      316,
+      834,
+      167,
+      12
+    ],
+    "text": "amy of Potubows, fawetogacon",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72,
+      8,
+      505,
+      28
+    ],
+    "text": "12 Mawatagama Land Acguisition Act, I",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      255,
+      32,
+      322,
+      21
+    ],
+    "text": "No. 38 of 1956 H",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      119,
+      61,
+      457,
+      12
+    ],
+    "text": ": a ur wot",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      76,
+      82,
+      472,
+      12
+    ],
+    "text": "_Survap Zot Yo. Miltary Flow No. ~ ante and Adrene ee.",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      77,
+      101,
+      472,
+      11
+    ],
+    "text": "(00) Part of ot. Partof 303... (130) Hladapathiai Bludivanssloge Uaku ~ 250 60",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      93,
+      101,
+      400,
+      21
+    ],
+    "text": "Beale of Dlaptha, Sewatapame",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      78,
+      126,
+      471,
+      11
+    ],
+    "text": "(81) Portoftot 4, Bartof SOL. (131) Baleoosiye. Madivanolags Paschi 700 00",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      324,
+      137,
+      170,
+      10
+    ],
+    "text": "Apputsiny of Eihagonon,Alavatay",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      285,
+      150,
+      279,
+      21
+    ],
+    "text": "(130) Uaa-Eea Moharomeda Tomull Eebbe 350-00",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      324,
+      168,
+      80,
+      11
+    ],
+    "text": "ot ope, Blows",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      79,
+      183,
+      470,
+      10
+    ],
+    "text": "(65) Pat of lots. 282 ., (199) Brlesooriya, Muslyansolags Bobn- 800 60",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      95,
+      184,
+      396,
+      20
+    ],
+    "text": "Themy of Ellagonne, Sfewatagern",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      79,
+      208,
+      471,
+      19
+    ],
+    "text": "60) Pact of lot @ 408. (18) euoorge dadiyatoleg Ding 525 00",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      285,
+      219,
+      265,
+      21
+    ],
+    "text": "13 Baltdja Mladigenelogo Utica $25 00",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      324,
+      239,
+      169,
+      11
+    ],
+    "text": "Teouo of Blgonna, tawotogaroe",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      80,
+      253,
+      471,
+      11
+    ],
+    "text": "(60) orb cfd. 165. (138) Wiesooiye, Mudipananiogs Unk 780 00",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      324,
+      265,
+      167,
+      10
+    ],
+    "text": "hay of Ellagonna, Menategenn",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      80,
+      279,
+      470,
+      11
+    ],
+    "text": "(61) Pat oftats 180. {197 Dehelgemunm Afudiyeronioge Mats 187 50",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      325,
+      290,
+      166,
+      18
+    ],
+    "text": "ny of Bingonne, Seategsta",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      87,
+      300,
+      464,
+      11
+    ],
+    "text": ": A38) Debalgomuwa udiyanasiogs Oboree 187 50",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      325,
+      311,
+      166,
+      10
+    ],
+    "text": "Appt of Elogana, awevagnme",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      285,
+      321,
+      266,
+      11
+    ],
+    "text": "180) Dehaigamuva Modiyonselags Ape. 49 75",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      325,
+      332,
+      166,
+      10
+    ],
+    "text": "Thang of Ellagonn, Montage",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      286,
+      342,
+      265,
+      11
+    ],
+    "text": "(040) Deinigenwe Sivdifonstege lion 99.78",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      119,
+      353,
+      370,
+      18
+    ],
+    "text": ": Non of ikon Hersinaping",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      84,
+      363,
+      468,
+      19
+    ],
+    "text": ". (vay Derelgrtayn Bjonasieg Wig 63-35",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      287,
+      376,
+      265,
+      19
+    ],
+    "text": "(142) Dehclgesuwedludiynoasiege senna: 93 75",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      325,
+      395,
+      169,
+      11
+    ],
+    "text": "susie of Hulagonsn, Alewatagaraa",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      80,
+      409,
+      472,
+      20
+    ],
+    "text": "(en Pent ofthd 1991, ha) Renna odiyumeiage Cdn, 7.50 00",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      242,
+      421,
+      253,
+      18
+    ],
+    "text": "18 wathia of Potsbowo, Mewatagoroa",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      216,
+      440,
+      337,
+      11
+    ],
+    "text": ". (144) Remenathe Btodiyansolege Wissla. 1,400 00",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      287,
+      442,
+      282,
+      22
+    ],
+    "text": "Oa) eesti of Botabony Swatognenk se",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      80,
+      469,
+      473,
+      13
+    ],
+    "text": "(On Portable OL .. (145) Rameneths. Madiyanatege Modis 075-00",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      325,
+      473,
+      169,
+      19
+    ],
+    "text": "yonm of Dalupoii, Newatagersa",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      80,
+      494,
+      473,
+      13
+    ],
+    "text": "(Parole 192, (148) Thunkurala, Adipehiings | Fotor $00 00",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      100,
+      506,
+      395,
+      10
+    ],
+    "text": "; ne Singho of Poiobowre, Mamotagnine",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      287,
+      516,
+      265,
+      11
+    ],
+    "text": "(042) Nanoyaearage Wilson Site oF item 400 00",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      81,
+      534,
+      472,
+      12
+    ],
+    "text": "(05) Pat otra. 193... (148) Waraamuriye Miyonsclage Fanchi- 1,000 00",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      324,
+      546,
+      165,
+      10
+    ],
+    "text": "amy of Polubowe, Mawrtegpie",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      81,
+      559,
+      472,
+      13
+    ],
+    "text": "(G8) Pork of eb s 194 .. (445) Kahatopitigannge Ciciihnmy of 920 00",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      326,
+      571,
+      121,
+      11
+    ],
+    "text": "Potabows, Nawatepamna",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      82,
+      584,
+      471,
+      13
+    ],
+    "text": "(Ra eL HO, 160) Rarmazotha itadivenasioge Kviotean 8,700 00",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      326,
+      596,
+      134,
+      11
+    ],
+    "text": "ef Fotspows, Mawotogucon",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      85,
+      609,
+      470,
+      11
+    ],
+    "text": "(8) Pat ot lobd 467 ,. (151) Waranziye Mailiyongslage Konda 2,150 00-",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      82,
+      611,
+      410,
+      20
+    ],
+    "text": "C8 iny af Btahova, Meosuagaine",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      86,
+      634,
+      467,
+      11
+    ],
+    "text": "00) Part of obs. 358 ., (158) WarmauriyaMudiynnaolage Palathio 4.250 00",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      82,
+      635,
+      378,
+      22
+    ],
+    "text": "o Oe Wer eotatorn Moneagiie",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      73,
+      660,
+      481,
+      12
+    ],
+    "text": "/ TV Pact at lob. 385 ..' 1185) Boloswiye. Mesiyamolege, Punchi- 5.730\" 00",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      326,
+      671,
+      167,
+      11
+    ],
+    "text": "posit Ellganns, Mowata-",
+    "mean_p_confidence": 0.07
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      149,
+      684,
+      204,
+      8
+    ],
+    "text": ": - aaron",
+    "mean_p_confidence": 0.04
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      287,
+      695,
+      266,
+      11
+    ],
+    "text": "(124) Dimanayako Mudiyerslagy kisi 2,000 00",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      326,
+      696,
+      163,
+      21
+    ],
+    "text": "ppt of Polar Masstogeron",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      83,
+      720,
+      487,
+      12
+    ],
+    "text": "{iy arkof ot 4 208 .. (180) alanmiye, Mudiymnasiogs Bolas 988 9D:",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      45,
+      732,
+      449,
+      10
+    ],
+    "text": ": fmija ct Potabows, tawotogems",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      110,
+      745,
+      448,
+      12
+    ],
+    "text": ". (186) Keottapele Bonnyalage onikrii of 168 67\"",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      326,
+      746,
+      120,
+      22
+    ],
+    "text": "Pouslnea Stavaasnone",
+    "mean_p_confidence": 0.02
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      84,
+      771,
+      469,
+      11
+    ],
+    "text": "7H) Post oflotA ., +198. (162) Rotihapola Renayaloge Fann of 836 00",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      326,
+      771,
+      121,
+      22
+    ],
+    "text": "Soctbowre, Has tengeie",
+    "mean_p_confidence": -0.0
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      288,
+      796,
+      265,
+      12
+    ],
+    "text": "(068) Kotinapsla Homaynloge Kira of 898 00",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      327,
+      796,
+      120,
+      22
+    ],
+    "text": "Potsbors Suwuagtita",
+    "mean_p_confidence": 0.02
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      288,
+      821,
+      269,
+      11
+    ],
+    "text": "{109} Kotthapola Honnyelage Christing of | 890 OO",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      327,
+      822,
+      121,
+      22
+    ],
+    "text": "Potabows, Maetsgene",
+    "mean_p_confidence": -0.0
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      44,
+      11,
+      502,
+      24
+    ],
+    "text": "; Mawatagama Land Acquisition Act, 13",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      245,
+      32,
+      113,
+      15
+    ],
+    "text": "No, 38 of 1956",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      106,
+      56,
+      427,
+      14
+    ],
+    "text": "Z a a w",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      60,
+      60,
+      485,
+      32
+    ],
+    "text": "| Sureey ato, Miltary Plan He, Noms and Addras Be",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      274,
+      86,
+      270,
+      23
+    ],
+    "text": "as sre omer",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      38,
+      108,
+      507,
+      30
+    ],
+    "text": "3 {1} Kotihapote Leonayelnge Menikiri of 836 00",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      37,
+      126,
+      403,
+      11
+    ],
+    "text": "i aborts, Macatgae",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      38,
+      132,
+      507,
+      31
+    ],
+    "text": "2 GM Perboflobs .. 124 ++ (262) Kotinapols Mepayaloge Ment of 1,200 00",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      38,
+      151,
+      400,
+      13
+    ],
+    "text": "Gf otubows, slawategama",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      38,
+      158,
+      507,
+      31
+    ],
+    "text": "3 (M)Pareollob $s 125 ++ (U82) Koxthapole Hepeynlage Mensch of 139 36",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      331,
+      177,
+      107,
+      8
+    ],
+    "text": "abot 8",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      37,
+      185,
+      507,
+      26
+    ],
+    "text": "H (109 athapola Hoeyaingy Appern of 46 a2",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      273,
+      214,
+      270,
+      22
+    ],
+    "text": "1s saarnne fenglage Jamin of 22 0",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      346,
+      228,
+      173,
+      8
+    ],
+    "text": "owe, Mewanegane :",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      273,
+      239,
+      270,
+      23
+    ],
+    "text": "(se agent gpraags Boab af 3 OL",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      37,
+      265,
+      508,
+      21
+    ],
+    "text": "tum part of tot. a0 (let) Kethapole Hesalge Raskice af 20 08",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      37,
+      269,
+      402,
+      21
+    ],
+    "text": ": Poo, Saatopenn",
+    "mean_p_confidence": 0.07
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      272,
+      290,
+      272,
+      21
+    ],
+    "text": "(805) Warman edipammiage anda 20020",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      272,
+      301,
+      271,
+      40
+    ],
+    "text": "100} alps Hemploe Sappows ef 300-00",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      272,
+      326,
+      272,
+      39
+    ],
+    "text": "(070 Regeaing Seale Appure of 1,890 00",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      65,
+      362,
+      478,
+      29
+    ],
+    "text": "(76) Pert oflob ., 128 - ay Kotihapalo, Honegolage Rana of 350 00",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      332,
+      378,
+      106,
+      11
+    ],
+    "text": "toms, Mamstagene",
+    "mean_p_confidence": -0.0
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      38,
+      388,
+      505,
+      28
+    ],
+    "text": "1 7 Porboflob 4. 120 and 140 .. (172) Wormsgariya, Mudipnneeloge Mudi-. 2,962 50",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      38,
+      405,
+      445,
+      13
+    ],
+    "text": ": jonas of Potabowe, eawstaghma",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      37,
+      418,
+      506,
+      19
+    ],
+    "text": "' (178) Wemonurlyadfudiyanslage Ponchie 569 00",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      314,
+      429,
+      161,
+      10
+    ],
+    "text": "Stl ef Potabows Mawstepurae",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      49,
+      443,
+      494,
+      32
+    ],
+    "text": "as (100) any of cubes Maveinganne Se",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      272,
+      469,
+      271,
+      20
+    ],
+    "text": "255 Women Mivoage Appi ARE 50",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      328,
+      480,
+      157,
+      11
+    ],
+    "text": "Dn of Boman, Meatagnics",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      66,
+      489,
+      477,
+      29
+    ],
+    "text": "(78) Port oflotd 2. 130 oe (ITB) Wamanmriyn, Mudisanesiage Midi. 875 00",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      314,
+      506,
+      169,
+      10
+    ],
+    "text": "Yuna of Foiebown, sixestagams",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      65,
+      520,
+      478,
+      20
+    ],
+    "text": "(1H Pen ottord 1. 4 += 07) WoenizeMiirmelge Sapam 45000",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      38,
+      531,
+      446,
+      11
+    ],
+    "text": ": amy of fotubowe, Dawelagaree",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      273,
+      545,
+      270,
+      12
+    ],
+    "text": "(078) WernoeuriraafudivnnoslegeAustdar 650 0",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      314,
+      556,
+      137,
+      11
+    ],
+    "text": "Samy of Potabowe, Saray",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      273,
+      559,
+      269,
+      28
+    ],
+    "text": "co; ware Stadegs ae 185 a9",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      321,
+      579,
+      163,
+      10
+    ],
+    "text": "ory Of Patubowa,Sawatagaons",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      272,
+      584,
+      270,
+      28
+    ],
+    "text": "1180) aynrning Usnayalege Lenawwn of = 125 00",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      333,
+      601,
+      105,
+      9
+    ],
+    "text": "bow Swale",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      65,
+      614,
+      477,
+      12
+    ],
+    "text": "(0) Pant of ot 4.183 + (401) Warmnsuriya BUidiyoneslaga App 1,009 7",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      315,
+      617,
+      162,
+      19
+    ],
+    "text": "Framy of Bolubows, Sswatogain",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      273,
+      626,
+      269,
+      21
+    ],
+    "text": "(isn wate seaieetanes ase 318 73",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      315,
+      645,
+      169,
+      13
+    ],
+    "text": "horny of Polubows, 3Iamwatagana,",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      273,
+      657,
+      269,
+      11
+    ],
+    "text": "(162) Warmcurive Siueigengolage Stuur 437 50",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      126,
+      668,
+      357,
+      14
+    ],
+    "text": ". Senge af Potuboway Sawstagnins",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      66,
+      682,
+      476,
+      21
+    ],
+    "text": "(et) Porkafu 4 .. 196 ~~ 8) Weonerpedivamnags ch 1.012 #0",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      327,
+      695,
+      157,
+      9
+    ],
+    "text": "pay of fotubona, bine elaparne",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      273,
+      697,
+      269,
+      28
+    ],
+    "text": "(85, Wenmamrje Sedge Rate 92 59",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      322,
+      716,
+      162,
+      8
+    ],
+    "text": "may of Fotaben Mroelogesnn",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      52,
+      714,
+      489,
+      36
+    ],
+    "text": "188) Wernaniya 5 Svcirnglege Aeon m2 90",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      69,
+      737,
+      473,
+      22
+    ],
+    "text": ": (087) Beaten Ntudsranosiege Pencht 312 80",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      315,
+      758,
+      169,
+      12
+    ],
+    "text": "Apputnny af EDogonne, Mawar",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      315,
+      773,
+      28,
+      8
+    ],
+    "text": "ume",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      66,
+      782,
+      475,
+      14
+    ],
+    "text": "(om Part of lone .. 186 + (188) Warpoeosiyaudiverinage Palathia 293 5",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      313,
+      796,
+      136,
+      9
+    ],
+    "text": "of Forabeien, Newntngaren",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      274,
+      797,
+      267,
+      20
+    ],
+    "text": "(080) Warnauriyn Mesipansengs Kota 360 4",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      314,
+      809,
+      171,
+      20
+    ],
+    "text": "hang af Potters, Movatagims",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      274,
+      825,
+      266,
+      14
+    ],
+    "text": "(200) WerndrurtaRtosijaraslageBacchic 389 38",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      349,
+      830,
+      94,
+      9
+    ],
+    "text": "ipa Mivanaaage",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      309,
+      825,
+      275,
+      33
+    ],
+    "text": "nouika af Polubown,Mawatogna .",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      75,
+      20,
+      509,
+      19
+    ],
+    "text": "14 Mawatagama Land Acquisition Act, :",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      263,
+      38,
+      321,
+      25
+    ],
+    "text": "No. 38 of 1956 {",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      124,
+      64,
+      419,
+      14
+    ],
+    "text": "Z a aE w",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      85,
+      69,
+      470,
+      31
+    ],
+    "text": "Sureey Tos Ko. Military Flan No Nagne ad sdrese Bee",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      79,
+      96,
+      476,
+      16
+    ],
+    "text": "48) Part oflov4 187 ++ (91) Waroamrige Bludivansalage Appa 1,850 40",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      330,
+      101,
+      254,
+      22
+    ],
+    "text": "any of Potubors, Mawatageens :",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      80,
+      126,
+      503,
+      14
+    ],
+    "text": "484) Portoftota 2. 138 ++ (102) Whrnamoriya Mudiyanselage Dingizi- 62 60",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      290,
+      129,
+      293,
+      23
+    ],
+    "text": "(0) Wipoe of Poaboons ater :",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      289,
+      154,
+      295,
+      14
+    ],
+    "text": "(303) Warneeuriye Modivonsclago Ren- 62 50K",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      287,
+      155,
+      298,
+      26
+    ],
+    "text": "Nang of Botatore Mesingems, SME",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      80,
+      181,
+      505,
+      13
+    ],
+    "text": "185) Pat ott. 0 ++ (194) Wijeuuriva Modivomelngs Jenweppu 29500",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      97,
+      181,
+      487,
+      26
+    ],
+    "text": "a or Patitow, Saatsgom ee H",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      80,
+      206,
+      474,
+      23
+    ],
+    "text": "480) Partoftot4 Ml + 86) Sipopbalale Susiomelgn Ze. 710 00",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      48,
+      217,
+      535,
+      17
+    ],
+    "text": ": tathunp ef Bolitbown, Sirwats- i",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      104,
+      217,
+      479,
+      31
+    ],
+    "text": "! ane H",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      294,
+      244,
+      260,
+      13
+    ],
+    "text": "198) Gunagat Madiyanseiage Ratoayste 1,130 00",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      289,
+      244,
+      205,
+      22
+    ],
+    "text": "000) OePaMhangursora Bites Sates",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      288,
+      269,
+      266,
+      11
+    ],
+    "text": "(197) Wareasuriyeaivdlyeneolage Auenda- 210 08",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      328,
+      273,
+      169,
+      20
+    ],
+    "text": "hum of Botubate, Bawacageme",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      80,
+      292,
+      474,
+      15
+    ],
+    "text": "407) Patotlots .. 180 ++ (108) Warmtauriga Sludivannslage Punedi 1400 00",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      328,
+      305,
+      170,
+      13
+    ],
+    "text": "Tonka of Potubow, awataguine",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      288,
+      320,
+      266,
+      12
+    ],
+    "text": "(00) Woecaroriva, Mudiyanseioge Kiri 1,400 00",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      298,
+      320,
+      199,
+      23
+    ],
+    "text": "0) ans of Potubotes heotsiogess",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      82,
+      342,
+      471,
+      15
+    ],
+    "text": "G8) Fart ofax-4 .. 17and 195 ., (200) Ramanetha Modiyaneslage Bele. 6,000 00",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      328,
+      356,
+      169,
+      12
+    ],
+    "text": "Dany of Potubowa, Mawatogema",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      81,
+      368,
+      472,
+      13
+    ],
+    "text": "489) Part ofobe 4. 168 ++ (201) Rajopalas Mdivanssioge Ponchi- 986 00",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      98,
+      368,
+      399,
+      25
+    ],
+    "text": "Nara coon Mention",
+    "mean_p_confidence": 0.07
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      106,
+      395,
+      447,
+      11
+    ],
+    "text": ": (207) Rojapataw Blodiyaneolage uci 925 00",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      135,
+      396,
+      364,
+      22
+    ],
+    "text": ": 7 ef Boesbowes \"Slowdiegwas",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      81,
+      418,
+      473,
+      14
+    ],
+    "text": "190) Port oftot& . 189 ++ #208) Warnonmiva Mudiyansslage Appi- 1,080 00",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      309,
+      421,
+      188,
+      23
+    ],
+    "text": "Mom af Bobose, setae",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      86,
+      443,
+      468,
+      14
+    ],
+    "text": "OT) Past of ota. 164 ++ (Ol) Warmnouriye Mudiyontelage Ran- 2.580 09",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      81,
+      444,
+      485,
+      25
+    ],
+    "text": "O00 Wen of Botutonn, Meetagea ica",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      288,
+      471,
+      266,
+      12
+    ],
+    "text": "(205) Warnagnriya Mudiyanselage Appo- 2,650 00",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      327,
+      475,
+      169,
+      19
+    ],
+    "text": "Thamy of Pombowa, Nowalageme",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      105,
+      494,
+      449,
+      15
+    ],
+    "text": "Parotlobs .. 185 ++ 208) Remenctho Mudivanatlage Dingin- 000 00",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      80,
+      494,
+      417,
+      26
+    ],
+    "text": "ienike of Polabowo, Mawatagnina",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      85,
+      519,
+      469,
+      13
+    ],
+    "text": "89) Bart of lot. 168 ++ G07) Warnseuriya Mudiyanaslage Benik- 450 00",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      80,
+      520,
+      404,
+      25
+    ],
+    "text": "aad 7) Winle of Fetabowe, Mawatogeee",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      85,
+      545,
+      469,
+      13
+    ],
+    "text": "Oy Beck of lord. 109 ++ (205) Tamunathe Nudivanaetoge Goonsro- 230 00",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      80,
+      545,
+      416,
+      25
+    ],
+    "text": "8 oe) Tatoo Eataioney weeps",
+    "mean_p_confidence": 0.04
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      287,
+      568,
+      266,
+      12
+    ],
+    "text": "(208) Ramanathn Sudiyancelage Wirmslae 220 00",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      327,
+      579,
+      169,
+      12
+    ],
+    "text": "vnthis of Polubows, Mawotagnno",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      94,
+      589,
+      459,
+      13
+    ],
+    "text": ". : (210) Ramansthn Mudiyanaciage DIegin 1,750 00",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      326,
+      600,
+      171,
+      13
+    ],
+    "text": "mines of Potubowa, Mawatagama",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      80,
+      612,
+      473,
+      15
+    ],
+    "text": "400) Fart of te 4. 170 ++ QU) Ramaratha Sodlyansolage Polnppu 1,250 00",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      307,
+      625,
+      155,
+      13
+    ],
+    "text": "at Fotubows, Bawatagaros",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      81,
+      641,
+      472,
+      15
+    ],
+    "text": "(96) Pieeoftob4 a7 ++ (21D) Warnanuriya Madiyangalags Kum. 900 00",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      327,
+      655,
+      170,
+      12
+    ],
+    "text": "atappuat Potabown,Blewategama",
+    "mean_p_confidence": -0.0
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      44,
+      668,
+      509,
+      17
+    ],
+    "text": "* Gn) Pareorlond 2. 17% ++ (B19) Rajapalese | Muciyamolaga Ron. 408 09",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      80,
+      672,
+      415,
+      25
+    ],
+    "text": "wm Slay af Pataces eeeuagona",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      92,
+      700,
+      461,
+      13
+    ],
+    "text": "8) Pert oflot < .. 1TH ++ (214) Remenathy Mudiyansslage Dingle 818-78",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      80,
+      701,
+      414,
+      25
+    ],
+    "text": "o B imsaa of Pouaoefr itseetagaane",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      44,
+      723,
+      521,
+      13
+    ],
+    "text": ": (215) Remanoche Madiytomlego oie 150.97 4",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      326,
+      735,
+      168,
+      12
+    ],
+    "text": "Blan of Poiabowa, Mawstagarn",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      285,
+      744,
+      267,
+      14
+    ],
+    "text": "(210) Ramanetio. BModiyinesioge Pals 150 27",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      326,
+      756,
+      168,
+      12
+    ],
+    "text": "eppu af Potubows, Newtiagama",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      285,
+      766,
+      267,
+      13
+    ],
+    "text": "{217) Hamanetha Mudiyensolage kins 1,262 60",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      37,
+      777,
+      457,
+      13
+    ],
+    "text": ": Bian of Potabows, Merstogera",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      81,
+      793,
+      471,
+      14
+    ],
+    "text": "(89) Port ot etd\". 306 <# (218) Napa Meciyansolage Bladiyanaa of 1,157 60",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      305,
+      796,
+      162,
+      23
+    ],
+    "text": "wtitasangode Neate",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      284,
+      816,
+      268,
+      14
+    ],
+    "text": "19) atape BTudipenesiage Puscle ppa- 1,0 60",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      325,
+      828,
+      169,
+      12
+    ],
+    "text": "Toray of Tholahengeda, Blaeata:",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      325,
+      841,
+      27,
+      8
+    ],
+    "text": "gona",
+    "mean_p_confidence": 0.05
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      159,
+      2,
+      383,
+      20
+    ],
+    "text": "Mawatagama Land Acquisition Act, b",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      238,
+      21,
+      112,
+      16
+    ],
+    "text": "No. 88 of 1956",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      89,
+      46,
+      438,
+      13
+    ],
+    "text": ": n im",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      50,
+      65,
+      489,
+      15
+    ],
+    "text": "surny take, uy Pes Bencan ate me",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      57,
+      84,
+      483,
+      13
+    ],
+    "text": "fo) Eft 30) s,Q Wary, Muang Le 75 08",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      51,
+      85,
+      429,
+      21
+    ],
+    "text": "wo ie wpa Meee",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      307,
+      111,
+      28,
+      8
+    ],
+    "text": "Fe",
+    "mean_p_confidence": 0.09
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      96,
+      120,
+      443,
+      13
+    ],
+    "text": "* (#21) Baloauriya Mudiynnsclage Dingisi- 428 00",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      307,
+      123,
+      172,
+      21
+    ],
+    "text": "sere ken eis",
+    "mean_p_confidence": 0.09
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      50,
+      146,
+      488,
+      14
+    ],
+    "text": "(Jou Pater at. 20. Ragtime Ph Aes 89000",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      41,
+      155,
+      19,
+      11
+    ],
+    "text": "ait",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      40,
+      158,
+      404,
+      11
+    ],
+    "text": "~ of Arampols, Mnwntegama",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      51,
+      171,
+      486,
+      15
+    ],
+    "text": "(hon Peete 7 282 HB Be Macrmage Pann 8068",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      308,
+      175,
+      171,
+      19
+    ],
+    "text": "lan Meta, ett",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      307,
+      197,
+      28,
+      9
+    ],
+    "text": "Eu",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      266,
+      207,
+      272,
+      13
+    ],
+    "text": "ny mige tages Baines $0 00",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      308,
+      220,
+      148,
+      10
+    ],
+    "text": "wp Malaga ae te",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      266,
+      233,
+      212,
+      13
+    ],
+    "text": "(ct Mi edging Raman 20867",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      307,
+      245,
+      148,
+      11
+    ],
+    "text": "op eae Ee",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      267,
+      258,
+      269,
+      13
+    ],
+    "text": "(26 Hue Nelguringe Uae, 20 67",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      307,
+      270,
+      124,
+      11
+    ],
+    "text": "seater",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      266,
+      283,
+      270,
+      13
+    ],
+    "text": "comix Renan Bingen 40 0",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      307,
+      296,
+      136,
+      11
+    ],
+    "text": "Nae ee",
+    "mean_p_confidence": 0.07
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      52,
+      309,
+      426,
+      14
+    ],
+    "text": "(im raeecins 17 2 H9 th Nine ke 1",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      250,
+      320,
+      228,
+      12
+    ],
+    "text": "- 2 e, ee e",
+    "mean_p_confidence": 0.07
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      266,
+      334,
+      270,
+      20
+    ],
+    "text": "cam tans Negeing Boge 3601",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      307,
+      346,
+      171,
+      11
+    ],
+    "text": "ins ETT Sant",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      270,
+      360,
+      266,
+      10
+    ],
+    "text": "oxy nant Menenag, Peace 16417",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      266,
+      361,
+      177,
+      22
+    ],
+    "text": "com nap Mea",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      267,
+      385,
+      251,
+      12
+    ],
+    "text": "cas Wem Sng Chim 1817",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      288,
+      386,
+      188,
+      31
+    ],
+    "text": "en an",
+    "mean_p_confidence": 0.08
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      267,
+      421,
+      269,
+      12
+    ],
+    "text": "(Han Motgoge itch 01866",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      307,
+      422,
+      136,
+      22
+    ],
+    "text": "steel",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      49,
+      446,
+      485,
+      21
+    ],
+    "text": "7 (2) ue ata Reeiaot 48 04",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      307,
+      459,
+      123,
+      10
+    ],
+    "text": "nat Pe",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      52,
+      471,
+      484,
+      14
+    ],
+    "text": "(104, Burt of lot 17... 288 + (234) Hernt Mudiyonselage Uldcuamma af 1,400 00",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      306,
+      484,
+      123,
+      11
+    ],
+    "text": "create",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      52,
+      497,
+      484,
+      14
+    ],
+    "text": "(usyeucceeey 1 #08 81 Neng ne Deg om Kine 600000",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      98,
+      509,
+      380,
+      11
+    ],
+    "text": "sie ees oy aoa",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      81,
+      520,
+      290,
+      11
+    ],
+    "text": "stilt ) a0 ee",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      52,
+      533,
+      484,
+      14
+    ],
+    "text": "cm Ecterorit ) Bt ean vgnnpe acgemgy Shut 50 0",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      98,
+      538,
+      366,
+      19
+    ],
+    "text": "eid Seen toa",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      82,
+      535,
+      300,
+      34
+    ],
+    "text": "a i",
+    "mean_p_confidence": 0.03
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      268,
+      570,
+      268,
+      13
+    ],
+    "text": "(2 Het tipper ot 800",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      307,
+      583,
+      123,
+      10
+    ],
+    "text": "a ace",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      52,
+      596,
+      485,
+      13
+    ],
+    "text": "(enyretatitt .. 260 8) anna eRe TO",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      306,
+      607,
+      172,
+      20
+    ],
+    "text": "ees, gsr She",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      51,
+      632,
+      486,
+      13
+    ],
+    "text": "(108) Pact of lot 18... 390 ++ {290) Siyambotntiolo Mudiyanselage Dine 37 50",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      313,
+      645,
+      163,
+      10
+    ],
+    "text": "spit Medea",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      172,
+      658,
+      163,
+      10
+    ],
+    "text": ". zene",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      269,
+      665,
+      210,
+      12
+    ],
+    "text": "cs wigs tutes Son 847",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      267,
+      667,
+      199,
+      21
+    ],
+    "text": "ce wh, Meese, a",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      269,
+      686,
+      266,
+      13
+    ],
+    "text": "au eae aeaeu atm oe 9a",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      308,
+      698,
+      123,
+      12
+    ],
+    "text": "eae the",
+    "mean_p_confidence": 0.09
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      268,
+      711,
+      267,
+      22
+    ],
+    "text": "(1 sigienaiatamageioe 187",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      57,
+      725,
+      478,
+      21
+    ],
+    "text": "j (i He me ta",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      308,
+      746,
+      122,
+      19
+    ],
+    "text": "ae tite",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      189,
+      754,
+      346,
+      15
+    ],
+    "text": "ry ee",
+    "mean_p_confidence": 0.06
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      309,
+      747,
+      273,
+      43
+    ],
+    "text": "Shearer ;",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      51,
+      778,
+      484,
+      23
+    ],
+    "text": "(100) Part of tot 17 | 243) Norasinghe Kesara Banilaralng 3,100 08",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      100,
+      782,
+      380,
+      31
+    ],
+    "text": "stg ) eI ca,",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      100,
+      804,
+      331,
+      11
+    ],
+    "text": "Pcie ee etiam",
+    "mean_p_confidence": 0.05
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      51,
+      817,
+      485,
+      14
+    ],
+    "text": "cuuoppeeetalt HE la Nip iinds 709",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      308,
+      826,
+      274,
+      15
+    ],
+    "text": "larat of Avamnpetay Mawatagamna,",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      82,
+      16,
+      501,
+      17
+    ],
+    "text": "16 Mawategama Land Acquisition Act, LG",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      267,
+      33,
+      316,
+      15
+    ],
+    "text": "No. 38 of 1956",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      132,
+      61,
+      418,
+      9
+    ],
+    "text": "t 7 a w",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      82,
+      79,
+      501,
+      12
+    ],
+    "text": "= Barony Lote. Milny Plan No. ewe and Addvne Roe |",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      82,
+      98,
+      480,
+      11
+    ],
+    "text": "G11) Poe of ee AT. 250 1 (kn) Keriyapponman Scdiyonselage Dis- 260 06,",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      336,
+      100,
+      170,
+      19
+    ],
+    "text": "gern? else",
+    "mean_p_confidence": 0.06
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      336,
+      106,
+      181,
+      33
+    ],
+    "text": "foe :",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      83,
+      133,
+      480,
+      12
+    ],
+    "text": "(110) Poet of eT .. Best of 206 .. (248) Mor ATodiyanaciags Appubamy af \"B80 0D",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      112,
+      132,
+      377,
+      35
+    ],
+    "text": "Pan ofl 7] 280, J earpole, Newots",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      112,
+      147,
+      457,
+      23
+    ],
+    "text": "PET BE aay cA HG ate Rate of a0 0g,",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      169,
+      166,
+      290,
+      18
+    ],
+    "text": "3 Seannaleieewtogone,",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      297,
+      176,
+      266,
+      11
+    ],
+    "text": "(260) Heese tdpeeaage Pilon 050.00",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      337,
+      187,
+      121,
+      10
+    ],
+    "text": "Rangole Mawaiagame",
+    "mean_p_confidence": -0.0
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      297,
+      197,
+      265,
+      11
+    ],
+    "text": "(201) Horst adiesloge easocika of 50 0",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      337,
+      208,
+      139,
+      19
+    ],
+    "text": "Arompele anatase",
+    "mean_p_confidence": 0.04
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      297,
+      218,
+      266,
+      12
+    ],
+    "text": "(250 Hart odiancsage Dingsiomoe 85000",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      337,
+      230,
+      135,
+      10
+    ],
+    "text": "SE Arampii, siseatagaae",
+    "mean_p_confidence": 0.09
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      85,
+      247,
+      478,
+      13
+    ],
+    "text": "(11m) Park oflob 11 .. Park of 276. 258) Gemmodda Reloago Dom Somepele 166 76",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      337,
+      259,
+      134,
+      10
+    ],
+    "text": "of Arana, Matotagne",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      297,
+      268,
+      266,
+      12
+    ],
+    "text": "(84) Gorpmedse Halnage Doe Gunaaine 195 7",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      337,
+      280,
+      134,
+      11
+    ],
+    "text": "F Acmopate, atrtagasne",
+    "mean_p_confidence": 0.01
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      298,
+      289,
+      265,
+      12
+    ],
+    "text": "(258) Gatameds Ralelage Dos erwizono 108 7",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      337,
+      301,
+      134,
+      11
+    ],
+    "text": "cf Arampsin awoungam",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      298,
+      310,
+      265,
+      12
+    ],
+    "text": "(256) Gumiaraiat Rollage Due Dharma. 168 16",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      337,
+      321,
+      227,
+      12
+    ],
+    "text": "Smuue Of Acai Mawatagame",
+    "mean_p_confidence": 0.06
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      91,
+      339,
+      471,
+      12
+    ],
+    "text": "184) Pest of ot 17 Don Lanwiaolnsooriye of Bomnta- 839 $8",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      85,
+      341,
+      358,
+      24
+    ],
+    "text": "og Bet ttet Tae (25m Des La iy",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      116,
+      360,
+      446,
+      13
+    ],
+    "text": "yareofloe 17: . 24 (258) DESSclomonBolasooniynotMawate- 803 38",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      116,
+      374,
+      248,
+      11
+    ],
+    "text": "Ben oflot 3 <o bea on",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      116,
+      381,
+      447,
+      21
+    ],
+    "text": "Puvetlot i <) 360 (oxo) Doe Rnabth Mayadunne of 9993",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      337,
+      397,
+      51,
+      8
+    ],
+    "text": "vvalegnae",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      298,
+      406,
+      265,
+      14
+    ],
+    "text": "(250) Mew, Don Joseph Bslicoriya of 2,500 00",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      245,
+      420,
+      158,
+      10
+    ],
+    "text": ". owategsren",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      86,
+      431,
+      477,
+      15
+    ],
+    "text": "(116) Poet of17.. 265, (20) Ratnagae Mudiyenmlage Poncki 275 00",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      147,
+      444,
+      359,
+      20
+    ],
+    "text": "\" Bande of evade, ee",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      91,
+      462,
+      477,
+      18
+    ],
+    "text": "(116) Partoflob 17 .. Part of 204",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      86,
+      471,
+      478,
+      27
+    ],
+    "text": "me Part of $13 {262) Dlokoon MudiyenselngeUkiu Amina 3,280 00",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      210,
+      478,
+      261,
+      38
+    ],
+    "text": "paca staranpals, Maweiagene",
+    "mean_p_confidence": 0.06
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      151,
+      509,
+      412,
+      15
+    ],
+    "text": ": (208) Hora Madiyaomsago Puneki Amon 1,089 98",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      338,
+      523,
+      96,
+      19
+    ],
+    "text": "ot Awol, a",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      299,
+      523,
+      265,
+      30
+    ],
+    "text": "(pa) Bat Stngnuminge Dage Arone 108 38",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      299,
+      544,
+      265,
+      22
+    ],
+    "text": "(205) Chanda Bamtettamiy co Arampola, 1,068 34",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      338,
+      566,
+      65,
+      18
+    ],
+    "text": "Seatageme,",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      299,
+      573,
+      265,
+      15
+    ],
+    "text": "(208) Weprtiagie Dovayologe BSindn 450 00",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      338,
+      587,
+      134,
+      10
+    ],
+    "text": "Wf aratpeia, Nowategaran",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      87,
+      598,
+      477,
+      15
+    ],
+    "text": "1 Paworka yy .. 206 + (087) Remaasthe, Stadiyaestago Tkiel 920 00",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      338,
+      611,
+      169,
+      12
+    ],
+    "text": "Tondo of Arempsin, Metsiagrnn",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      299,
+      620,
+      265,
+      14
+    ],
+    "text": "(288) Kalapslstionaysingaliant Rarer 400 00",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      181,
+      634,
+      277,
+      10
+    ],
+    "text": ". Aranpolesbscalegara",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      104,
+      641,
+      460,
+      14
+    ],
+    "text": "uo (289) BM, Soctin Singho of Arampola, 38) 00",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      338,
+      655,
+      65,
+      11
+    ],
+    "text": "scowatagazon",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      88,
+      666,
+      477,
+      15
+    ],
+    "text": "{048} Port otlot 17. 287 1 (210) Maynetng Hanavalogo Usk Riai 960 00",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      339,
+      674,
+      155,
+      28
+    ],
+    "text": "of Areropolo, Mawotogem, ae",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      300,
+      687,
+      265,
+      15
+    ],
+    "text": "at) Navarntng Hepayetoge ant idl of 3,100 00",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      338,
+      702,
+      120,
+      10
+    ],
+    "text": "Krompola, Stetngarse",
+    "mean_p_confidence": -0.0
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      88,
+      713,
+      478,
+      14
+    ],
+    "text": "180) Pack of oh 17\". 88 21 (29) anton Mudivaoesags Video 187 6D",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      339,
+      726,
+      169,
+      12
+    ],
+    "text": "Ainge of Aromipole Maveatagichn",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      114,
+      731,
+      453,
+      26
+    ],
+    "text": ": 27) Maa thdvonpiog Dag amma 107",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      339,
+      749,
+      145,
+      9
+    ],
+    "text": "of Devotogtoecey Boutonere",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      116,
+      749,
+      449,
+      30
+    ],
+    "text": ". ca may Migs oo Ann 187 69",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      203,
+      770,
+      372,
+      21
+    ],
+    "text": ": tir) Chander Ranantinny of Arempole, 187 50 -",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      339,
+      792,
+      65,
+      8
+    ],
+    "text": "Mewstagame",
+    "mean_p_confidence": 0.06
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      301,
+      790,
+      266,
+      35
+    ],
+    "text": "276) eal Mingaogge Didar Ana 750 00",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      340,
+      813,
+      134,
+      10
+    ],
+    "text": "ok Arampola,Nestageore",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      105,
+      814,
+      462,
+      20
+    ],
+    "text": ": 277) Herat Mutyasacage Buncinale of 760 00",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      338,
+      834,
+      121,
+      11
+    ],
+    "text": "Soeropan, watageme.",
+    "mean_p_confidence": 0.01
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      80,
+      19,
+      466,
+      17
+    ],
+    "text": ". Mawatagama Land Acquisition Act, 17",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      248,
+      36,
+      325,
+      16
+    ],
+    "text": "No. 38 of 1956 .",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      111,
+      64,
+      421,
+      9
+    ],
+    "text": "! aH ur fia",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      74,
+      79,
+      470,
+      11
+    ],
+    "text": "Surmy Zat No. Military Plan No. Nema and Adreon Bee",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      42,
+      92,
+      500,
+      15
+    ],
+    "text": "1 U20) Part of fot 17 .. 269 (278) Mellawn Arochigo Miskin Kingho of 2,500 00",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      64,
+      97,
+      395,
+      23
+    ],
+    "text": "Gee Pet otlos 22 HB) OP) MA Aegan",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      61,
+      123,
+      481,
+      11
+    ],
+    "text": "121) Part of ot 15 1. 328 1. (219) Kandoromsile fodiyanselage Tikisi 400 00",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      64,
+      123,
+      390,
+      22
+    ],
+    "text": "ay 2) Keenan ofateraaagaane",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      64,
+      146,
+      479,
+      12
+    ],
+    "text": "(122) Past af lot 17\"., 290 ++ (880) Naworatne Honayalago Okiu Ridi 25 00",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      41,
+      148,
+      411,
+      29
+    ],
+    "text": "ia (280) Nop gmunpelis Mowalagaroe",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      41,
+      173,
+      501,
+      11
+    ],
+    "text": "PP (139) Port oftot 1. 231 ++ (281) Kutdeapala Honayelege Reni Ridiof 626 00",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      41,
+      183,
+      396,
+      12
+    ],
+    "text": "i Araanpolo, Mematagarss",
+    "mean_p_confidence": 0.08
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      63,
+      198,
+      480,
+      12
+    ],
+    "text": "138 Fart oflob tT. 239 (282) Herat Mudivonsolage Punchirele of 1,800 00",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      93,
+      209,
+      344,
+      11
+    ],
+    "text": "Par aflet i? 1. 281 Arampolo, Mawategeroo.",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      63,
+      223,
+      479,
+      12
+    ],
+    "text": "1128) Powt of ot 171.245 1. (288) Dlankoon udiyanielage Ukkw 600 00",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      315,
+      235,
+      171,
+      11
+    ],
+    "text": "Ania of Arampola, Mswategatoa",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      69,
+      249,
+      473,
+      9
+    ],
+    "text": "196) Perk of lot 17 .. 246 0nd 910... (286) Horne afusive ingiri Arzme 1,75000",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      64,
+      248,
+      399,
+      23
+    ],
+    "text": "wn (88 BE powalogedars, Bouara",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      64,
+      274,
+      478,
+      22
+    ],
+    "text": "oan Barbee as any (280) Perasrane Rolalage Dingiri Benda 460 00",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      93,
+      285,
+      367,
+      11
+    ],
+    "text": "Port of ot 1 1.200, of Seomdunna, lawstagama",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      276,
+      295,
+      266,
+      11
+    ],
+    "text": "(29h) Perrone Belalage Lealamrathie of 480 00",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      315,
+      307,
+      137,
+      9
+    ],
+    "text": "Kobbokadues, tarvtalaire",
+    "mean_p_confidence": 0.0
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      64,
+      316,
+      478,
+      12
+    ],
+    "text": "028) Part of at 17. 249 + (287) Kandunucalle Mudiyanaolage Tikit 880 00",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      315,
+      328,
+      118,
+      10
+    ],
+    "text": "fsnikn of Sawatogasam",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      69,
+      341,
+      473,
+      10
+    ],
+    "text": "(120) Part of lot 17. 281 ++ (288) Fayasioghe Arsobehige Mudiyaom 225 00",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      65,
+      341,
+      398,
+      23
+    ],
+    "text": "8 (8 eye Gouna hentatagaran",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      276,
+      363,
+      266,
+      11
+    ],
+    "text": "(250) Dissonnyoke Atadijanscloge Ukko 56 28",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      315,
+      374,
+      169,
+      10
+    ],
+    "text": "Arama of Seerodunne, Bawnta-",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      280,
+      388,
+      261,
+      16
+    ],
+    "text": "(200) Disemnayake Madlyauel m8 25",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      277,
+      396,
+      213,
+      21
+    ],
+    "text": "Gon Narny ot Sores Medea",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      276,
+      416,
+      265,
+      12
+    ],
+    "text": "(201) Dinmnrayolee -Madiymnaolage ian 08 25",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      316,
+      428,
+      168,
+      9
+    ],
+    "text": "Benda of Seoradunns, Stseeta:",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      315,
+      441,
+      50,
+      8
+    ],
+    "text": "gene",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      280,
+      448,
+      261,
+      12
+    ],
+    "text": "302) Diimnayrke Bfudiyanselage Dingii 56-25",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      45,
+      449,
+      439,
+      20
+    ],
+    "text": "G (0) Ons of Soreaana, Ac:",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      315,
+      473,
+      27,
+      8
+    ],
+    "text": "gor",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      65,
+      483,
+      476,
+      12
+    ],
+    "text": "(130) Pork of lot 17. 253, ++ (289) Thakoon Aaivanssigge UkKe Ame 425 00",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      316,
+      496,
+      133,
+      10
+    ],
+    "text": "of Arampolas Semretageme",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      65,
+      509,
+      476,
+      12
+    ],
+    "text": "031) Part oftoh 1. 354 (284) Kalnoayako Arachehige Podihamy 700 00",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      92,
+      520,
+      357,
+      12
+    ],
+    "text": "Past aflet 17 \"369, of Arazspale, orerategnms",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      64,
+      533,
+      477,
+      13
+    ],
+    "text": "{19% Part of lot 17 ., 265 <+ {885} Don Laven Balesooriye of Mawats. 64 16",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      277,
+      549,
+      263,
+      18
+    ],
+    "text": "($96) Dan Solomon BelaecoriyaofMfawata- Bt 17",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      277,
+      566,
+      263,
+      36
+    ],
+    "text": "(ttn DEER tbat Meyadunnn of | 6417",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      331,
+      590,
+      51,
+      7
+    ],
+    "text": "aiagrmn",
+    "mean_p_confidence": 0.04
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      277,
+      592,
+      264,
+      27
+    ],
+    "text": "(106) tec) Bow Joweh Belescorya of 168 80",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      62,
+      613,
+      479,
+      19
+    ],
+    "text": ". {200} Kelunayato Aractchigo Podibamy $95 00",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      316,
+      631,
+      142,
+      11
+    ],
+    "text": "of Seosadonine, Mewatogeana,",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      64,
+      644,
+      477,
+      13
+    ],
+    "text": "198) Part af lot 17 258 ++ (800) Dimanaysa Mudizaneologs Raa 200 00",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      315,
+      657,
+      169,
+      9
+    ],
+    "text": "Bfenik ot Sseradsan, Sowate-",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      277,
+      670,
+      263,
+      19
+    ],
+    "text": "(001) Dfannyeke Mudkyanectage Ula 250 00",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      316,
+      689,
+      174,
+      10
+    ],
+    "text": "AmmaofBeoradunna, Mawotagaras",
+    "mean_p_confidence": 0.06
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      64,
+      702,
+      475,
+      12
+    ],
+    "text": "(194) Pert of lt 17. BO8 ++ (308) Abdul Rabiman of Weligena =. 3010 00",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      64,
+      716,
+      476,
+      21
+    ],
+    "text": "196) Poet of ot 23) sig < (90)Rafopmiay Woon, Wana Bane $00 09",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      48,
+      728,
+      436,
+      19
+    ],
+    "text": "Los 3a rig Bina Bente Wiskoon",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      59,
+      738,
+      424,
+      14
+    ],
+    "text": "7. Brebot lol 26) so Ganogoda, Maraandte Waluwnre,",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      99,
+      738,
+      281,
+      29
+    ],
+    "text": "Port of ob 25, Mnwategama",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      64,
+      763,
+      475,
+      21
+    ],
+    "text": "(236) Fartof 106 23 <. 815 ++ (0 Wijosindany Wiekrasaanghe Tone B00 0",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      195,
+      775,
+      288,
+      13
+    ],
+    "text": ": : lemnayale Wanate Mudiyanasingo",
+    "mean_p_confidence": 0.09
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      316,
+      786,
+      166,
+      11
+    ],
+    "text": "Pinel Ganda, Etpolo of Tank:",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      312,
+      786,
+      267,
+      30
+    ],
+    "text": "war, Atuimto :",
+    "mean_p_confidence": 0.15
+  }
+]
