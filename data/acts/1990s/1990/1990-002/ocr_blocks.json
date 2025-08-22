@@ -1,0 +1,5942 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      245,
+      69,
+      84,
+      11
+    ],
+    "text": "Le Sas",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59,
+      162,
+      436,
+      36
+    ],
+    "text": ". PARLIAMENT. OF THE, DEMOCRATIC",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59,
+      196,
+      424,
+      33
+    ],
+    "text": ": SOCIALIST REPUBLIC OF, *",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143,
+      229,
+      242,
+      29
+    ],
+    "text": "\"+. SRE LANKA:",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      63,
+      277,
+      274,
+      14
+    ],
+    "text": ". ee",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      67,
+      320,
+      447,
+      38
+    ],
+    "text": "DEBT. RECOVERY (SPECIAL PROVISIONS)",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      129,
+      357,
+      386,
+      28
+    ],
+    "text": "* \"AGT, No: 2 QF 1990 *",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      177,
+      479,
+      215,
+      42
+    ],
+    "text": "Cestiea ont Miarel, 19901",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      164,
+      550,
+      249,
+      25
+    ],
+    "text": "Printed on the,Orders of Government",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      51,
+      650,
+      474,
+      35
+    ],
+    "text": "Published as Supplement to Part II of the Gadet of the Democratic",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      117,
+      682,
+      407,
+      35
+    ],
+    "text": "Socialist Republic of Sri Lanka of 9th March, 1590, .",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      103,
+      751,
+      385,
+      29
+    ],
+    "text": "venta Fee SENATE a GUO MEE LANE",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      85,
+      782,
+      440,
+      24
+    ],
+    "text": "To at PUREED AP SE GOVERN FURLIGATIONS SURGAU, COLOMDO |",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      50,
+      803,
+      474,
+      31
+    ],
+    "text": "Price: Re. L200 Postage : Re, 1.00",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      36,
+      306,
+      16
+    ],
+    "text": "f Debt Recovery (Spectat Provisions)",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      197,
+      58,
+      297,
+      14
+    ],
+    "text": "Act, No. 2 of 1996 - .",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      158,
+      78,
+      254,
+      15
+    ],
+    "text": "[Certified on 6th Margh, 1990] :",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      110,
+      372,
+      16
+    ],
+    "text": "LD.~O, 63/89. ; . woe",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      130,
+      420,
+      13
+    ],
+    "text": "An Act To Provive For tum Reucavion oF THE Proceovme , *",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      148,
+      407,
+      17
+    ],
+    "text": "Retatinc To Dror Recovery sy Lenpina InstrTus1ons ayo.",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      165,
+      390,
+      17
+    ],
+    "text": "yon Mareens ConnzcTep THReEWITH OR INCIDENTAL 'TRERETO.",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      186,
+      440,
+      17
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic Socialist =: -",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      203,
+      411,
+      16
+    ],
+    "text": "Republic of Sri Lanka as follows: wae : .",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      225,
+      442,
+      20
+    ],
+    "text": "1. This Act may be cited as the Debt Recovery (Special Short ttle",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      246,
+      446,
+      16
+    ],
+    "text": "Provisions) Act, No. 2 of 1990. .. . .",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      232,
+      267,
+      268,
+      18
+    ],
+    "text": "PART t y o .",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      185,
+      293,
+      334,
+      17
+    ],
+    "text": "Inscerurion 65 Action . 5",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      320,
+      439,
+      21
+    ],
+    "text": "2. (1) A lending fnstitution (hereinafter referred to as Action by",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      332,
+      458,
+      21
+    ],
+    "text": "the institntion *) may, subject to the provisions of sub- MINE.",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      349,
+      472,
+      29
+    ],
+    "text": "section (2) recover debt due to it by an action instituted in fer recovery .",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      371,
+      379,
+      15
+    ],
+    "text": "terms of the procedure laid down by this Act, in the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      388,
+      419,
+      13
+    ],
+    "text": "District Court within the local limits of whose jurisdiction .",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      413,
+      451,
+      14
+    ],
+    "text": "(@) a party detendant.resides; or 7",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      434,
+      446,
+      13
+    ],
+    "text": "(b) the cause of action arises; or .",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      449,
+      375,
+      16
+    ],
+    "text": "{c) the contract sought to be enforced was made, .",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      302,
+      466,
+      211,
+      12
+    ],
+    "text": ". %",
+    "mean_p_confidence": 0.05
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      480,
+      440,
+      18
+    ],
+    "text": ". @) No action shall be instituted by an institution in",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      499,
+      440,
+      20
+    ],
+    "text": "terms of the procedsite laid down by thie Act, for the , *",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      520,
+      380,
+      18
+    ],
+    "text": "recovery of any loan, Where the principal mount lent or",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      538,
+      380,
+      20
+    ],
+    "text": "advanced wis less than one hundred and.fifty thousand",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      555,
+      208,
+      31
+    ],
+    "text": "rupees. rt",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      103,
+      579,
+      333,
+      20
+    ],
+    "text": "rr : za",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      597,
+      459,
+      17
+    ],
+    "text": "3 An action under this Act shall be instituted by pre~ Institution ~",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      612,
+      446,
+      21
+    ],
+    "text": "senting a plaint i the form specified'in the Civil Procedure ofaetion.",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      636,
+      213,
+      17
+    ],
+    "text": "Code (Chapter 101). .",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      665,
+      444,
+      26
+    ],
+    "text": "4. (1) The institution suing shell on presenting the _ Instrument",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      680,
+      471,
+      37
+    ],
+    "text": "plaint file an affidavit to the effect that the sum claimed a gocteat",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      706,
+      438,
+      20
+    ],
+    "text": "ja justly due to the institution from the defendant and {be",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      724,
+      474,
+      21
+    ],
+    "text": "hall fn addition produce tg the court the instrument, produced, J",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      748,
+      377,
+      15
+    ],
+    "text": "agreement or document sued upon or relied on by the fns-",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      758,
+      427,
+      31
+    ],
+    "text": "titutton. woe :",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      198,
+      784,
+      180,
+      16
+    ],
+    "text": "PPigae ho ge",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      796,
+      365,
+      19
+    ],
+    "text": "@) If any instrument, agreement or document is pra-",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      817,
+      378,
+      15
+    ],
+    "text": "duced to court and the same appears to the court to be pro-",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64,
+      831,
+      381,
+      19
+    ],
+    "text": "perly stamped (where such instrument, agreement or do-",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      848,
+      265,
+      26
+    ],
+    "text": "D-007488--0,0e0 (20/28) .",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      155,
+      27,
+      398,
+      20
+    ],
+    "text": "2 Debt Recovery (Special Provisions) :",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      195,
+      50,
+      309,
+      16
+    ],
+    "text": "Act, No. 2 of 1990 .",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      167,
+      81,
+      381,
+      16
+    ],
+    "text": "cument is required by-law to be stamped) and not to be",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      166,
+      101,
+      382,
+      14
+    ],
+    "text": "open to suspicion by reason of any alteration or erasure",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      167,
+      119,
+      381,
+      16
+    ],
+    "text": "or,other matter on the face gf it, and not to be barred by",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      164,
+      137,
+      385,
+      14
+    ],
+    "text": "Prescription, the court being satisfied of the contents con-",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      164,
+      157,
+      385,
+      16
+    ],
+    "text": "tained in the affidavit referred (o in subsection (4);\\ shall",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      158,
+      178,
+      390,
+      17
+    ],
+    "text": "center a decree nisi in the form set out in the First Schedule",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      164,
+      198,
+      386,
+      15
+    ],
+    "text": "to this Act in a sam not exceeding the sum mentioned in",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      152,
+      218,
+      398,
+      16
+    ],
+    "text": ", the pluint together with interest upto the date of payment",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      163,
+      238,
+      387,
+      16
+    ],
+    "text": "and such costs.as the court may allow at the t{me of making",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      163,
+      258,
+      386,
+      16
+    ],
+    "text": "the decree nisi together with such other relief prayed for",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      164,
+      279,
+      386,
+      14
+    ],
+    "text": "by the institution as to the court may seem meet and the",
+    "mean_p_confidence": 0.88
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      163,
+      299,
+      386,
+      13
+    ],
+    "text": "decree nist shall be served op the defendant in the manner",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      163,
+      319,
+      369,
+      18
+    ],
+    "text": "hereinafter specfied. _ on",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      178,
+      349,
+      371,
+      20
+    ],
+    "text": "(8) The day to be insrted in the decree nisi as the day",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      162,
+      371,
+      389,
+      15
+    ],
+    "text": "for the defendant's appearance and showing cause, if any,",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      162,
+      389,
+      388,
+      15
+    ],
+    "text": "against it shall be as early a day as can conveniently be",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      164,
+      407,
+      385,
+      14
+    ],
+    "text": "named, regard being had to the distance from the deien-",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      151,
+      422,
+      375,
+      12
+    ],
+    "text": "; dants residence to the court, :",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      151,
+      455,
+      399,
+      15
+    ],
+    "text": "+ @) The affidavit to be filed by the institution under sub-",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161,
+      469,
+      389,
+      15
+    ],
+    "text": "section (1) shell be nade by any director or a principal",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      164,
+      486,
+      386,
+      15
+    ],
+    "text": "officer of such institution or by an, attorney-atlaw duly",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      165,
+      501,
+      385,
+      15
+    ],
+    "text": "authorised to bring and conduct the action on behalf of the",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161,
+      515,
+      390,
+      16
+    ],
+    "text": "institution and which affidavit shell be made by such per",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      164,
+      533,
+      386,
+      15
+    ],
+    "text": "son having personal knowledge of the facts of the. cause",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      165,
+      547,
+      385,
+      15
+    ],
+    "text": "cf action and such person:shall in-his affidavit swear or",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      163,
+      561,
+      389,
+      18
+    ],
+    "text": "affirm that he desposes froth His own personal knowledge",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      165,
+      577,
+      386,
+      15
+    ],
+    "text": "to the matters therein containd and shell be liable to be",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      163,
+      593,
+      388,
+      14
+    ],
+    "text": "examined as to the subject matter thereof at the discretion",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      166,
+      612,
+      308,
+      20
+    ],
+    "text": "ofthe judge, ee",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      179,
+      632,
+      355,
+      23
+    ],
+    "text": "(5) The institution shall tender withthe plaint> +",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      147,
+      665,
+      406,
+      16
+    ],
+    "text": "+ (a) the affidavit and instrument, ageeement, or docu-",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      221,
+      682,
+      324,
+      13
+    ],
+    "text": "ment referred to in subsection (1) of this section ;",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      182,
+      707,
+      253,
+      19
+    ],
+    "text": "(b) draft decree nisi; and :",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      181,
+      730,
+      371,
+      20
+    ],
+    "text": "(@) the sequisite stamps for the decree nist and service",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      218,
+      748,
+      257,
+      23
+    ],
+    "text": "thereot. . 7 . +",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      66,
+      783,
+      486,
+      16
+    ],
+    "text": "Procedure for 5. Where a decree nisi is entered -iunder section 4 the",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      65,
+      799,
+      486,
+      20
+    ],
+    "text": "Rerving son DFovisions of section 705A and 7058.of the Civil Procedure",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      64,
+      812,
+      494,
+      19
+    ],
+    "text": "GSES Code (Ctumpter 101) shall, mutatis miitandis, apply to the*",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      64,
+      823,
+      383,
+      30
+    ],
+    "text": "ue serviee of such decree nisi on the defendant,",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      53,
+      850,
+      455,
+      8
+    ],
+    "text": ". .",
+    "mean_p_confidence": 0.08
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      138,
+      30,
+      385,
+      17
+    ],
+    "text": "Debt Recovery (Special Proviswone) a 7",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      172,
+      54,
+      148,
+      15
+    ],
+    "text": "_ Act, No. 2 of 1990",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      85,
+      86,
+      439,
+      13
+    ],
+    "text": "6 (1) In an action instituted under this Act the defen- Defendant",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71,
+      101,
+      477,
+      20
+    ],
+    "text": "Gant shell not appear or show cause against the decree nisi DOE tO",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72,
+      119,
+      458,
+      14
+    ],
+    "text": "unless he chtains leave from the court to appear and show show cause",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72,
+      132,
+      461,
+      22
+    ],
+    "text": "cause, except with",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      336,
+      143,
+      161,
+      15
+    ],
+    "text": ". eave.",
+    "mean_p_confidence": 0.07
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89,
+      163,
+      361,
+      14
+    ],
+    "text": "(2) The court shall upon the application of the defendant",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72,
+      180,
+      388,
+      14
+    ],
+    "text": "give leave to appear and show cause against the decree nim |",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      69,
+      187,
+      462,
+      26
+    ],
+    "text": "either : . .",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89,
+      220,
+      404,
+      14
+    ],
+    "text": "{@) upon the defendant paying into court the sum men- ,",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      121,
+      228,
+      366,
+      26
+    ],
+    "text": "tioned in the decree nisi ; or aad",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89,
+      258,
+      360,
+      17
+    ],
+    "text": "(b) upon the defendant furnishing such security as to",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      126,
+      278,
+      323,
+      13
+    ],
+    "text": "the court may appear reasonable and sufficient for",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      125,
+      294,
+      325,
+      13
+    ],
+    "text": "satislying the sum mentioned in the decree nisi in",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      125,
+      307,
+      434,
+      24
+    ],
+    "text": "the event, of it being \"made absolute; or . .",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      88,
+      335,
+      416,
+      13
+    ],
+    "text": "{c} upon affidavits satisfactory to the-court that there is +",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      85,
+      351,
+      365,
+      14
+    ],
+    "text": "+ am issue or a question in dispute which ought to be",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      125,
+      367,
+      326,
+      15
+    ],
+    "text": "tried. The affidavit of the defendant shall deal",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      127,
+      384,
+      323,
+      14
+    ],
+    "text": "specifically with the plaintiffs claim and state clear",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      127,
+      400,
+      323,
+      14
+    ],
+    "text": "Ty and concisely what the defence 1s and what facts",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      128,
+      415,
+      212,
+      15
+    ],
+    "text": "are relied on as supporting it, -*",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      92,
+      445,
+      437,
+      17
+    ],
+    "text": "(8) In default of the defendant obtaining such leave for .",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      75,
+      465,
+      376,
+      14
+    ],
+    "text": "appearance and showing cause the court shali make the",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      75,
+      481,
+      378,
+      13
+    ],
+    "text": "decree nisi absolute, and the provisions of section 980 of",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      68,
+      498,
+      463,
+      15
+    ],
+    "text": "the Civil Procedere Code (Chapter 101) shall, mutatis _ .",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      75,
+      514,
+      437,
+      15
+    ],
+    "text": "sautandis, apply to such order, For this purpose, the Judge .",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      75,
+      531,
+      378,
+      13
+    ],
+    "text": "shall endorse the-words Decree nisi made ebsolute (or",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      75,
+      548,
+      376,
+      19
+    ],
+    "text": "words to the Iike effect) upon fhe decree nisi and shall date",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      75,
+      563,
+      233,
+      17
+    ],
+    "text": "and sign such endorsement! 3,",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      227,
+      575,
+      260,
+      18
+    ],
+    "text": "ents 4",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      87,
+      600,
+      439,
+      21
+    ],
+    "text": "7. If the defendant appears and leave to appear ond Procedure",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      75,
+      621,
+      440,
+      14
+    ],
+    "text": "show cause is given the provisions of sections 284, 385, 326, Ieava to",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      74,
+      635,
+      459,
+      21
+    ],
+    "text": "387, 968, 390 and 391 of the Civil Procedure Code (Chaper $itend",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      74,
+      657,
+      445,
+      21
+    ],
+    "text": "101) shall, soutatis mutandis, apply to the trial of the action, uzanted.",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      87,
+      698,
+      444,
+      21
+    ],
+    "text": "& In any proceeding under this Act the court may Court may",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      75,
+      716,
+      449,
+      30
+    ],
+    "text": "order the insrument, agreement or other documents which feposlt of",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      74,
+      740,
+      452,
+      15
+    ],
+    "text": "are produced to the court with the plaint or on which the agreement",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73,
+      757,
+      453,
+      18
+    ],
+    "text": "action fa founded to be forthwith deposited with an officer $o.uments",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73,
+      778,
+      379,
+      19
+    ],
+    "text": "of the court, and may further order that all proceedings",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      75,
+      802,
+      378,
+      16
+    ],
+    "text": "shall be stayed until the institution gives security for the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      74,
+      826,
+      192,
+      17
+    ],
+    "text": "costs thereof. .",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      117,
+      35,
+      372,
+      16
+    ],
+    "text": "no, 4 Debt Recovery (Special Provisions)",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      312,
+      58,
+      148,
+      16
+    ],
+    "text": "Ach No. 2 of 1990",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      89,
+      90,
+      470,
+      13
+    ],
+    "text": "Recovering 9 Where the institution Js the holder of a dishonowed",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      89,
+      104,
+      472,
+      23
+    ],
+    "text": "foamed bill of exchange or promissory note tt shail have the same",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      88,
+      125,
+      471,
+      19
+    ],
+    "text": "imnoting. remedies for the recovery of the expenses incurred in",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      182,
+      151,
+      377,
+      13
+    ],
+    "text": "noting the seme for non-acceptunce or non-payment, or",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      184,
+      170,
+      375,
+      15
+    ],
+    "text": "otherwise by reason of auch dishonour as such nstitution",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      91,
+      189,
+      467,
+      19
+    ],
+    "text": "has under this Act for the recovery of the amount of such",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      184,
+      212,
+      142,
+      11
+    ],
+    "text": "bill or note. :",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      87,
+      247,
+      472,
+      15
+    ],
+    "text": "Rol 1 In the court where cases may be instituted under",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      182,
+      264,
+      378,
+      14
+    ],
+    "text": "this Act a Special Inquiry Roll shall be kept of such cases",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      182,
+      281,
+      376,
+      13
+    ],
+    "text": "in which leave to appear and show cause against the decree",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      181,
+      298,
+      377,
+      13
+    ],
+    "text": "nisi has beon granted, and it shall be competent for the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      181,
+      314,
+      380,
+      13
+    ],
+    "text": "Judge of such court to order much cases to be set down for",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      168,
+      330,
+      392,
+      16
+    ],
+    "text": "_ Bearing on such days as mey facilitate their early disposal,",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      181,
+      347,
+      379,
+      13
+    ],
+    "text": "any rule or practice of such court to the contrary notwith-",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      181,
+      363,
+      380,
+      17
+    ],
+    "text": "standing, and after giving the parties, reasonable notice of",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      181,
+      379,
+      123,
+      13
+    ],
+    "text": "the date of inquiry.",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      87,
+      405,
+      473,
+      31
+    ],
+    "text": "Damages i, Hf it appears to the court that the decres nist was",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      85,
+      428,
+      474,
+      20
+    ],
+    "text": "fugit. obtained on insufficient grounds, or if after the entering of",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      98,
+      447,
+      461,
+      11
+    ],
+    "text": ": 8 decree nisi the action is dismissed and the decree mist is",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      180,
+      463,
+      379,
+      15
+    ],
+    "text": "discharged by default or otherwice, and it appears to the",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      180,
+      479,
+      379,
+      15
+    ],
+    "text": "court that there was n reasonable ground for entering the",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      179,
+      496,
+      380,
+      14
+    ],
+    "text": "Gecree nisi, the court may, in the same action on the app-",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      178,
+      512,
+      383,
+      14
+    ],
+    "text": "Leation of the party against whom the decree isi was",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      180,
+      529,
+      382,
+      13
+    ],
+    "text": "entered, award against the institution obtaining the same,",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      179,
+      543,
+      383,
+      16
+    ],
+    "text": "such sum as it deems reasonable compensation for the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      179,
+      561,
+      384,
+      15
+    ],
+    "text": "expense or injury caused to such party by the entering of",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      178,
+      577,
+      382,
+      13
+    ],
+    "text": "the decree nit and aneward under this section shall bar",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      180,
+      593,
+      380,
+      15
+    ],
+    "text": "any action for compensation in respect of the entering af",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      179,
+      611,
+      99,
+      11
+    ],
+    "text": "the decroe nist",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      84,
+      639,
+      477,
+      24
+    ],
+    "text": "Adjustment 12. Where the defendant appears in court in response to",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      84,
+      662,
+      478,
+      14
+    ],
+    "text": "Sf action. the decree ist and does not contest the decree nisi but",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      180,
+      678,
+      380,
+      15
+    ],
+    "text": "admits Hability and prays to lquidate the debt in instal-",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      179,
+      694,
+      381,
+      15
+    ],
+    "text": "ments, the court shall minute this fact on the record and",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      105,
+      710,
+      455,
+      15
+    ],
+    "text": "obtain the defendant's signature thereto, The court shall",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      179,
+      727,
+      382,
+      14
+    ],
+    "text": "thereafter make the decree absolute and shall euter terms",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      137,
+      743,
+      427,
+      15
+    ],
+    "text": "_ of settlement as to instalments for the liquidation of the",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      180,
+      760,
+      383,
+      14
+    ],
+    "text": "debt sued far in term of section 408 of the Civil Procedure",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      180,
+      775,
+      381,
+      16
+    ],
+    "text": "Code (Chapter 101). Such settlement shell operate asa stay",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      180,
+      792,
+      382,
+      14
+    ],
+    "text": "ofexecution proceeding unless the defeandent acts in breach.",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      180,
+      808,
+      385,
+      15
+    ],
+    "text": "of any of the terms of settlement in which event the institu-",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      180,
+      825,
+      281,
+      14
+    ],
+    "text": "tion shail be entitled to-execute the decree.",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      60,
+      24,
+      383,
+      19
+    ],
+    "text": "4 .Debt Recovery (Special Provisions) 5",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      180,
+      47,
+      131,
+      13
+    ],
+    "text": ". Act, No, 2 of 1990",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      225,
+      75,
+      280,
+      16
+    ],
+    "text": "PART I .",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      106,
+      100,
+      292,
+      11
+    ],
+    "text": "Or Srsctau Provistons RuLATING 20 Execution",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      75,
+      121,
+      431,
+      28
+    ],
+    "text": "13. Subject tu orders of court, where n decree nin sen.",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      63,
+      142,
+      472,
+      29
+    ],
+    "text": "entered in an action instituted under this Act is made abso- Seamed to be",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      62,
+      167,
+      381,
+      14
+    ],
+    "text": "jute it shall be deemed to be a Writ of Execution duly",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      63,
+      187,
+      378,
+      14
+    ],
+    "text": "issued to the Fiscal in terms of section 225 (3) of the Civil",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      62,
+      208,
+      382,
+      14
+    ],
+    "text": "Procedure Code (Chapter 101) and it shall be the duty of",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      62,
+      229,
+      381,
+      13
+    ],
+    "text": "the Fiscal to execute the same in the manner preseribed in",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      62,
+      250,
+      393,
+      12
+    ],
+    "text": "the Civil Procedure Code for the execution of Writs,",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      74,
+      283,
+      445,
+      29
+    ],
+    "text": "M4. (2) If the Fiscal be resisted by any person while Rertrtanee",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      62,
+      309,
+      469,
+      17
+    ],
+    "text": "executing a writ referred to in section 18 the Fiscal shall be contempt,",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      61,
+      332,
+      406,
+      14
+    ],
+    "text": "report such resistence to the court and the court shall ~",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      62,
+      352,
+      418,
+      14
+    ],
+    "text": "thereupon issue a notice against the person resisting rquir- 7",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      62,
+      372,
+      409,
+      15
+    ],
+    "text": "tng him to show cause as to why be should not be dealt =.",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      61,
+      393,
+      374,
+      14
+    ],
+    "text": "with for contempt of enurt occasioned by such resistence.",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      77,
+      420,
+      424,
+      20
+    ],
+    "text": "@) Any person resisting the Fiseal while executing a writ .",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      59,
+      446,
+      381,
+      13
+    ],
+    "text": "under this Act shell be deemed to be guilty of contempt of",
+    "mean_p_confidence": 0.88
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      59,
+      465,
+      380,
+      14
+    ],
+    "text": "Court and shall be liable to the penalties prescribed fot",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      59,
+      486,
+      380,
+      14
+    ],
+    "text": "contempt of court by the Judicature Act, No. 2 of 1978 and",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      60,
+      506,
+      473,
+      14
+    ],
+    "text": "the Civil Procedure Code (Chapter 101) unless he proves .",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      60,
+      527,
+      380,
+      15
+    ],
+    "text": "that the property sought to be selzed belonged to a person",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      60,
+      548,
+      242,
+      24
+    ],
+    "text": "other than the judgment debtor, |",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      76,
+      589,
+      361,
+      14
+    ],
+    "text": "(8) If the person resisting the Fiscal appears in court and",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      60,
+      609,
+      380,
+      14
+    ],
+    "text": "claims that the property sought to be selzed by the Fiscal is",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      59,
+      630,
+      381,
+      15
+    ],
+    "text": "being held by him on account of any person other than the",
+    "mean_p_confidence": 0.88
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      58,
+      648,
+      476,
+      16
+    ],
+    "text": "judgment debtor or person holding under such. judgment .",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      60,
+      669,
+      380,
+      16
+    ],
+    "text": "Gebtor such person shall be called upon to furnish security",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      59,
+      689,
+      462,
+      15
+    ],
+    "text": "dor the satisfaction of the decreed sum or such part thereof :",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      60,
+      710,
+      378,
+      13
+    ],
+    "text": "as the court deem ft in all the efreumstances of tho case,",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      60,
+      730,
+      381,
+      14
+    ],
+    "text": "in the event of his claim failing or in the discretion of",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      61,
+      751,
+      379,
+      15
+    ],
+    "text": "court such person may be allowed to give an undertaking",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      61,
+      771,
+      463,
+      16
+    ],
+    "text": "that the property sought to be seized would remain in -",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      61,
+      793,
+      379,
+      14
+    ],
+    "text": "constructive Fiscal custody until the claim inquiry is",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      61,
+      815,
+      66,
+      12
+    ],
+    "text": "concluded,",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      81,
+      8,
+      457,
+      24
+    ],
+    "text": "' 6 Debt Recovery (Special Provisionsy **",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      141,
+      37,
+      316,
+      15
+    ],
+    "text": "Act, No. 2 of 1990 *",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      86,
+      65,
+      490,
+      29
+    ],
+    "text": "Alenation 48, (1} Whenever an action is instituted under this Act",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      88,
+      77,
+      493,
+      40
+    ],
+    "text": "SP etameat the same shell be entered in a special register maintained ,",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      87,
+      110,
+      490,
+      18
+    ],
+    "text": "afer by court substantially in the form set out in the Second",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      86,
+      126,
+      239,
+      21
+    ],
+    "text": "Sritiution Schedule fo this Act,",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      201,
+      163,
+      373,
+      16
+    ],
+    "text": "(2) Where the defendant or his representative in in-",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      183,
+      184,
+      391,
+      17
+    ],
+    "text": "terest alienates any movable or immovable property ot",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      183,
+      204,
+      393,
+      16
+    ],
+    "text": "otherwise disgoses of same in any manner whatsoever",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      183,
+      224,
+      390,
+      15
+    ],
+    "text": "after the decree nisi such alienation shall be nuli and void:",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      183,
+      245,
+      391,
+      16
+    ],
+    "text": "and of no force or effect in law and shall be open to sefaure",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      182,
+      265,
+      292,
+      15
+    ],
+    "text": "in whorvevers hands such property may be:",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      196,
+      292,
+      376,
+      19
+    ],
+    "text": "Provided that such alienation shall be valid if the action",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      183,
+      318,
+      332,
+      15
+    ],
+    "text": "is dismissed or the decree nisi is discharged : and",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      198,
+      351,
+      372,
+      15
+    ],
+    "text": "Provided urther that such alienation shall also be valid,",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      183,
+      369,
+      389,
+      16
+    ],
+    "text": "if the decree absolute is satisfied, but only in respect of",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      181,
+      390,
+      389,
+      13
+    ],
+    "text": "gach of the property alienated as has not been seized end",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      183,
+      408,
+      335,
+      14
+    ],
+    "text": "applied in satisfaction of the decree absolute: and",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      195,
+      436,
+      374,
+      21
+    ],
+    "text": "Provided further that such cllenation shall also be valid",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      182,
+      462,
+      389,
+      14
+    ],
+    "text": "property in the hands ef an alienee who has ccme by such",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      183,
+      478,
+      386,
+      14
+    ],
+    "text": "Property in good falth for consideration ~without having",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      181,
+      492,
+      388,
+      13
+    ],
+    "text": "notice of the decree nisi elther at the time the purchase",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      184,
+      509,
+      384,
+      13
+    ],
+    "text": "money was pald, oc when the conveyance was executed",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      182,
+      523,
+      388,
+      13
+    ],
+    "text": "nor to an slience drom such an alience, the burden of",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      184,
+      540,
+      293,
+      14
+    ],
+    "text": "Proof of which facts shall be on such alienee.",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      194,
+      564,
+      375,
+      19
+    ],
+    "text": "@3) The Registra? of the court shall in addition to the",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      184,
+      587,
+      382,
+      14
+    ],
+    "text": "register to be maintained under this section maintain also",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      184,
+      602,
+      382,
+      14
+    ],
+    "text": "an index of the names of the defendants against whom",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      184,
+      616,
+      381,
+      12
+    ],
+    "text": "actions have been filed under this Act and such index sliall",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      184,
+      631,
+      357,
+      14
+    ],
+    "text": "be in alphabetical order. :",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      200,
+      661,
+      365,
+      15
+    ],
+    "text": "(4) Such register and index shall. be open to public ins-",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      181,
+      679,
+      385,
+      14
+    ],
+    "text": "pection and entrics therein shall constitute prima facie",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      184,
+      700,
+      163,
+      14
+    ],
+    "text": "notice to the public, .",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      184,
+      734,
+      380,
+      15
+    ],
+    "text": "-, @) All claims to property seized: hy whomsoever made",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      183,
+      748,
+      381,
+      14
+    ],
+    "text": "hall be disposed of in the same action and a decision on",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      183,
+      764,
+      380,
+      13
+    ],
+    "text": "such claim shall be a bar to the institution of any other",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      181,
+      778,
+      384,
+      15
+    ],
+    "text": "action for the recovery of any property selzed or to estab-",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      183,
+      795,
+      380,
+      14
+    ],
+    "text": "ish any right to such property or to have the same",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      182,
+      809,
+      381,
+      13
+    ],
+    "text": "declared liable to be sold in execution of the decree in",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      182,
+      825,
+      397,
+      11
+    ],
+    "text": "favour of the institution, . :",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      95,
+      19,
+      368,
+      17
+    ],
+    "text": ". Debt Recovery (Special Provisions) 1",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      212,
+      37,
+      227,
+      20
+    ],
+    "text": "Act, No.2 of 1990 .",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      97,
+      75,
+      365,
+      14
+    ],
+    "text": "(6) Nothing in subsection (2) applies to money or",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      82,
+      92,
+      379,
+      15
+    ],
+    "text": "currency notes in the hands of a bone fide holder to whom",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      82,
+      111,
+      379,
+      14
+    ],
+    "text": "they have passed in circulation, or to negotiahle instru~",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      79,
+      130,
+      382,
+      14
+    ],
+    "text": "ments in the hands of bone fide holder for value or shall he",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      80,
+      150,
+      381,
+      12
+    ],
+    "text": "deemed to effect section 22 and 23 of the Sale of Goods",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      82,
+      170,
+      384,
+      14
+    ],
+    "text": "Ordinance, or the tights of any holder in good faith for,",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      82,
+      186,
+      445,
+      17
+    ],
+    "text": "consideration of any document of title which by law passes + .",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      82,
+      206,
+      439,
+      16
+    ],
+    "text": "the ownership of goads to which it relates by endorsement .",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      82,
+      225,
+      379,
+      15
+    ],
+    "text": "or delivery, or the ability of a person to whom a debt",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      82,
+      244,
+      437,
+      14
+    ],
+    "text": "or charge is transferred, or the right of a person who hold :",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      82,
+      262,
+      379,
+      15
+    ],
+    "text": "property under a title declared indefeasible by statute or",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      80,
+      281,
+      455,
+      11
+    ],
+    "text": "of his successor in title, t .",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      240,
+      320,
+      236,
+      11
+    ],
+    "text": "PART Ul :",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      234,
+      341,
+      73,
+      10
+    ],
+    "text": "Or Averats",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      93,
+      369,
+      452,
+      13
+    ],
+    "text": "16. Subsection (7) of section 756 of the Civil Procedure Amendment",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      82,
+      381,
+      471,
+      21
+    ],
+    "text": "Code is hereby amended by the addition of the following f,teetlon",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      82,
+      401,
+      462,
+      14
+    ],
+    "text": "proviso at the end thereof: Givi Proce",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      476,
+      414,
+      63,
+      9
+    ],
+    "text": "dure Coda.",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108,
+      426,
+      355,
+      14
+    ],
+    "text": "Provided however that in an application for leave to",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      95,
+      441,
+      433,
+      19
+    ],
+    "text": "Appeal in respect of any order made in the course of any .",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      96,
+      464,
+      365,
+      14
+    ],
+    "text": "action instituted under the Debt Recovery (Special",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      92,
+      482,
+      370,
+      14
+    ],
+    "text": "Provisions) Act No. 2 of 1900 proceedings in the originat",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      95,
+      503,
+      431,
+      14
+    ],
+    "text": "court siiall not he stayed when Leave to Appeal is granted .",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      92,
+      515,
+      450,
+      19
+    ],
+    "text": "unless the Court of Appeal otherwise directs and the .",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      93,
+      541,
+      368,
+      14
+    ],
+    "text": "Court of Appes! shall where it deeides to grant Leave to",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      95,
+      562,
+      366,
+      16
+    ],
+    "text": "Appeal call upon the appellant. to give security in cash",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      93,
+      580,
+      416,
+      15
+    ],
+    "text": "or by @ guarantee from a banker for the satisfaction of .",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      94,
+      601,
+      453,
+      14
+    ],
+    "text": "the entire claim of that plaintiff or such part thereof as .",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      92,
+      622,
+      368,
+      12
+    ],
+    "text": "the court deom fit in all the cireumstances of the case, in",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      92,
+      642,
+      364,
+      14
+    ],
+    "text": "the event of the appeal being disoissed, . .",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      92,
+      673,
+      452,
+      14
+    ],
+    "text": "17, Section 763 of the Civil Provdure Code is hereby Amendment",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      81,
+      684,
+      463,
+      22
+    ],
+    "text": "amended by the addition immediately after paragraph (b) fast cit",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      81,
+      705,
+      451,
+      22
+    ],
+    "text": "of subsection (2) of that section, of the following : perature",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108,
+      734,
+      352,
+      14
+    ],
+    "text": "Provided that in the case of decrees entered under",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      94,
+      749,
+      363,
+      16
+    ],
+    "text": "the provisions of the Debt Recovery (Special Provisions)",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      75,
+      763,
+      410,
+      16
+    ],
+    "text": "* Act No, of 1990 the security to he given by the |",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      93,
+      780,
+      369,
+      16
+    ],
+    "text": "judgment debtor shall be the full amount of the",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      92,
+      797,
+      380,
+      19
+    ],
+    "text": "decreed sum or such part thereof as the court deem ft in.",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      92,
+      816,
+      336,
+      14
+    ],
+    "text": "ail the circumstances of the base., .",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      155,
+      21,
+      317,
+      15
+    ],
+    "text": "8 Debt Recovery (Special Provisions)",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      289,
+      40,
+      249,
+      17
+    ],
+    "text": "Act, No. 2 of 1990 .",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      56,
+      69,
+      486,
+      27
+    ],
+    "text": "Amendment 18, Section 23 of the Judicature Act No. 2 of 1978, as",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      56,
+      85,
+      486,
+      28
+    ],
+    "text": "gf Section amended by section 2 of Act No. 37 of 1979 is further",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      60,
+      106,
+      482,
+      14
+    ],
+    "text": "Fudiceture amended by the addition at the end of that section of the",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      56,
+      110,
+      238,
+      31
+    ],
+    "text": "Ask following proviso :",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      136,
+      149,
+      405,
+      14
+    ],
+    "text": "Provided that in the case of decrees entered under",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      171,
+      168,
+      371,
+      15
+    ],
+    "text": "the Debt Recovery (Special Provisions) Act No. 2 of",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      115,
+      188,
+      427,
+      16
+    ],
+    "text": "+, 1990 the amount of the Bond to be entered into shall be",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      169,
+      209,
+      373,
+      13
+    ],
+    "text": "the decreed sum or such part thereof os the court deem",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      99,
+      229,
+      325,
+      12
+    ],
+    "text": ": fit fm all the circumstances of the case, ,",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      317,
+      262,
+      62,
+      11
+    ],
+    "text": "PART IV",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      236,
+      284,
+      186,
+      15
+    ],
+    "text": ": Or Srecrar, Provasidars",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      61,
+      316,
+      479,
+      14
+    ],
+    "text": "Casus. omis- 19. In any matter or question of procedure not provided",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      61,
+      331,
+      479,
+      19
+    ],
+    "text": "= for in this Act the procedure laid down in the Civil Proce-",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      158,
+      355,
+      384,
+      13
+    ],
+    "text": "dure Code (Chapter 301) in a like matter or question shall",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      157,
+      376,
+      385,
+      13
+    ],
+    "text": "be followed by the court if such procedure is not inconsis-",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      114,
+      396,
+      277,
+      24
+    ],
+    "text": "t tent with the provisions of this Act.",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      55,
+      419,
+      485,
+      30
+    ],
+    "text": "Forms. 20. Where no form to be used for the purpose of this",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      98,
+      450,
+      441,
+      15
+    ],
+    "text": ": Act has been preseribed in any particular case or for any",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      89,
+      468,
+      452,
+      17
+    ],
+    "text": ", particuler purpose such form as the court may approve",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      85,
+      489,
+      370,
+      16
+    ],
+    "text": ". may be used in that case or for that purpose,",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      56,
+      507,
+      484,
+      30
+    ],
+    "text": "Ation 21. No action by a lending institution for the recovery",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      58,
+      531,
+      170,
+      21
+    ],
+    "text": "mt of a loan",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      60,
+      553,
+      65,
+      10
+    ],
+    "text": "entertained",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      56,
+      553,
+      484,
+      31
+    ],
+    "text": "Sncertain (@) not exceeding two bundred fifty thousand rupees",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      55,
+      571,
+      485,
+      31
+    ],
+    "text": "Speumpeiances or such other sum as the Minister may, by Order",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      56,
+      588,
+      366,
+      26
+    ],
+    "text": "interest published in the Gazette, fix; or",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      60,
+      608,
+      43,
+      10
+    ],
+    "text": "chimed",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      60,
+      619,
+      481,
+      21
+    ],
+    "text": "erties (B) recoverable aver a period of not fess than five years,",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      59,
+      641,
+      33,
+      12
+    ],
+    "text": "fae",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      136,
+      653,
+      404,
+      15
+    ],
+    "text": "* due to such lending institution, in terms of the procedure",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      156,
+      674,
+      384,
+      16
+    ],
+    "text": "laid down by this Act, shall be entertained by any court if",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      156,
+      696,
+      383,
+      13
+    ],
+    "text": "the amount claimed os interest on such loan exceds the",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      103,
+      716,
+      356,
+      15
+    ],
+    "text": ". sum due as princlpel, oo",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      60,
+      747,
+      479,
+      32
+    ],
+    "text": "No samt 22. No sum of money which constitutes a penalty for",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      60,
+      776,
+      480,
+      21
+    ],
+    "text": "recovered, default m payment, or delay fa payment, of a debt shell be",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      60,
+      788,
+      479,
+      24
+    ],
+    "text": "fecehul recoverable in an action instituted for the recovery of stich",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      157,
+      815,
+      402,
+      18
+    ],
+    "text": "debt, in terms of the procedure laid by this Act.",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      101,
+      11,
+      352,
+      19
+    ],
+    "text": "Debt Recovery (Special Provisions) r)",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      204,
+      34,
+      200,
+      17
+    ],
+    "text": "Act, No. 2 of 1990 .",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      84,
+      69,
+      427,
+      13
+    ],
+    "text": "23. In an action instituted under this Act the court shall, Interest.",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72,
+      90,
+      380,
+      14
+    ],
+    "text": "fn the decree nisi, order interest agreed upon between the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72,
+      111,
+      380,
+      14
+    ],
+    "text": "parties up to the date of decree nisi, and interest at the same",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      71,
+      131,
+      381,
+      15
+    ],
+    "text": "rete on the aggregate sum of the decree nisi from the date",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      71,
+      152,
+      414,
+      14
+    ],
+    "text": "of decree nisi until the date of payment in full, In the",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      74,
+      172,
+      378,
+      15
+    ],
+    "text": "event of the parties not having agreed upon the rate of",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      71,
+      191,
+      381,
+      13
+    ],
+    "text": "interest, the court shall in the decree nist onder interest at",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      74,
+      211,
+      378,
+      14
+    ],
+    "text": "the market rate fram the date of institution of action ap",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72,
+      229,
+      380,
+      14
+    ],
+    "text": "to the date of decree nisi aud thereafter on the aggregate",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72,
+      250,
+      380,
+      11
+    ],
+    "text": "aum of the decree nist from the date of decree nisi until the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      73,
+      270,
+      195,
+      15
+    ],
+    "text": "date of payment in full",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      236,
+      297,
+      306,
+      17
+    ],
+    "text": "PART V",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      216,
+      314,
+      298,
+      31
+    ],
+    "text": "Miscentanzous .",
+    "mean_p_confidence": 0.07
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      84,
+      351,
+      449,
+      15
+    ],
+    "text": "24. Nothing in the Debt Conciliation Ordinance Bxempticna",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      75,
+      368,
+      378,
+      14
+    ],
+    "text": "(Chapter $1) and the Money Lending Ordinance (Chapter",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      73,
+      385,
+      329,
+      15
+    ],
+    "text": "80} shall apply ts, or in relation to, an institution,",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      84,
+      414,
+      428,
+      14
+    ],
+    "text": "25.) Any parson who .",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      70,
+      433,
+      449,
+      20
+    ],
+    "text": "_ @) draws a cheque knowing thal there are mo furds or ofences",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      125,
+      452,
+      328,
+      12
+    ],
+    "text": "not sufficient funds in the bank to honour such",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      126,
+      470,
+      71,
+      13
+    ],
+    "text": "cheque ; or",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90,
+      494,
+      361,
+      14
+    ],
+    "text": "(0) makes an order to 2 banker to pay a sum of money",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      105,
+      511,
+      346,
+      15
+    ],
+    "text": "| Which payment is not made by reason of there",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      127,
+      529,
+      324,
+      15
+    ],
+    "text": "being no cbligation on such banker to make pay-",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      127,
+      547,
+      379,
+      15
+    ],
+    "text": "ment or by reason of the payment having been .",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      126,
+      567,
+      125,
+      14
+    ],
+    "text": "countermanded ; or",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      89,
+      587,
+      362,
+      15
+    ],
+    "text": "(c) gives an authority to an institution to pay a sum of",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      70,
+      606,
+      382,
+      14
+    ],
+    "text": "- money o itself, in payment of a debt or Joan or",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      127,
+      624,
+      325,
+      15
+    ],
+    "text": "any part thereaf owed to such institufon from and",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      70,
+      642,
+      381,
+      13
+    ],
+    "text": ": out of an account maintained or funds deposited,",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      127,
+      660,
+      325,
+      15
+    ],
+    "text": "by such person with such institution and such",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      125,
+      678,
+      374,
+      14
+    ],
+    "text": "institution is unable to make such payment to .",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      127,
+      696,
+      325,
+      16
+    ],
+    "text": "itself by reason of such person not placing adequate",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      69,
+      715,
+      418,
+      13
+    ],
+    "text": ". funds in such account or by resson of the funds",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      124,
+      733,
+      330,
+      15
+    ],
+    "text": "deposited having ben withdrawn by reason of",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      125,
+      754,
+      328,
+      15
+    ],
+    "text": "such person countermanding the authority given or",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      120,
+      765,
+      400,
+      29
+    ],
+    "text": "by rason of any one or more of such reasons ; oF",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      87,
+      795,
+      366,
+      15
+    ],
+    "text": "{d) having accepted on inland bill dishonours it by",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      69,
+      808,
+      366,
+      26
+    ],
+    "text": ". non-payment, bees ,",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      140,
+      12,
+      386,
+      23
+    ],
+    "text": "_ Debt Recovery (Special Provisions)",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      253,
+      38,
+      172,
+      14
+    ],
+    "text": "* Ae, No. 2 of 1990",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      174,
+      71,
+      386,
+      14
+    ],
+    "text": "shsil be guilty of an offence under this Act and shell on",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      175,
+      91,
+      385,
+      14
+    ],
+    "text": "conviction by a Magistrate after summary trial be lishle",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      175,
+      111,
+      385,
+      14
+    ],
+    "text": "to punishment with imprisonment of etther description for",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      176,
+      131,
+      384,
+      14
+    ],
+    "text": "a term which may extend to one year or with fine of ten",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      175,
+      151,
+      385,
+      14
+    ],
+    "text": "thousand rupees or ten per centum of the full value of the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      176,
+      172,
+      384,
+      13
+    ],
+    "text": "cheque, order, authority or inland bill in respect of which",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      175,
+      191,
+      385,
+      14
+    ],
+    "text": "the offence is committed, whichever is higher, or with both",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      175,
+      207,
+      260,
+      18
+    ],
+    "text": "such fine and imprisonment,",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      191,
+      240,
+      369,
+      14
+    ],
+    "text": "@) The expressions - cheque, _dishonoured *,",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      175,
+      257,
+      385,
+      11
+    ],
+    "text": "banker, Iniand Bill and Bill shalt have the res+",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      174,
+      273,
+      386,
+      14
+    ],
+    "text": "Pective meanings assigned to them in the Bills of Exchange",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      175,
+      289,
+      385,
+      14
+    ],
+    "text": "Ordinance (Chapter 82), and the term dishonest shall",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      71,
+      306,
+      489,
+      17
+    ],
+    "text": "an have the same meaning as in section 22 of the Penal Code",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      109,
+      323,
+      451,
+      17
+    ],
+    "text": "- (Chapter 19). : sit",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      75,
+      352,
+      483,
+      28
+    ],
+    "text": "Pending 26. Notwithstanding anything to the contrary in the",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      71,
+      371,
+      488,
+      24
+    ],
+    "text": "ction. Prescription Ordinance where an institution has insituted",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      88,
+      393,
+      471,
+      13
+    ],
+    "text": ". S action for the recovery of any debt due to it and such",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      107,
+      410,
+      451,
+      14
+    ],
+    "text": "action is pending on the date of cormencement of this Act,",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      94,
+      424,
+      464,
+      22
+    ],
+    "text": "ma such institution shall be entitled to institute action under",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      172,
+      442,
+      254,
+      14
+    ],
+    "text": "this Act for the recovery af that debt:",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      75,
+      470,
+      482,
+      13
+    ],
+    "text": "+ Provided thet this section shall not apply to any pending",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      161,
+      486,
+      396,
+      12
+    ],
+    "text": "+ action where the cause of action on the debt was prescribed",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      171,
+      502,
+      386,
+      12
+    ],
+    "text": "as at the date of the institution.cf such first mentioned",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      114,
+      520,
+      444,
+      10
+    ],
+    "text": ". action. * .",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      75,
+      549,
+      481,
+      24
+    ],
+    "text": "Appointment 21. (1) Where any debtor of an institution dies before",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      75,
+      566,
+      482,
+      19
+    ],
+    "text": "SE the institution of an action under this Act in respect off",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      74,
+      586,
+      483,
+      21
+    ],
+    "text": "Seeeased 6. any debt owed to the institution or any debtor of an",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      74,
+      608,
+      483,
+      20
+    ],
+    "text": "deceered institutfon or any person who Js or becomes @ party to an",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      73,
+      621,
+      483,
+      29
+    ],
+    "text": "el der. action instituied under this Act dies after the institution",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      172,
+      650,
+      385,
+      13
+    ],
+    "text": "of the action, and grant of probate of the will or issue of",
+    "mean_p_confidence": 0.88
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      172,
+      670,
+      384,
+      13
+    ],
+    "text": "Jetters of administration to the estate of the deceased has",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      173,
+      690,
+      383,
+      13
+    ],
+    "text": "not been made, the court fn which the action is to be or",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      173,
+      710,
+      383,
+      14
+    ],
+    "text": "hhas been instituted may in its discretion, after the service",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      174,
+      731,
+      382,
+      15
+    ],
+    "text": "of notice on such persons, if any, and after such inquiry",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      174,
+      750,
+      382,
+      16
+    ],
+    "text": "as the court may consider necessary, make order appointing",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      174,
+      772,
+      382,
+      15
+    ],
+    "text": "4 person to represent the estate of the deceased for the pur",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      173,
+      793,
+      382,
+      15
+    ],
+    "text": "poses of the action and such person may be made or added",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      173,
+      814,
+      303,
+      14
+    ],
+    "text": "asa party to the action, =, :",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      71,
+      17,
+      395,
+      18
+    ],
+    "text": "7+ Debit Recovery (Spectal Provisions) a.",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      203,
+      39,
+      184,
+      14
+    ],
+    "text": "Act, No. 2 of 1990 .",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      88,
+      71,
+      364,
+      16
+    ],
+    "text": "@) In making any appointment under subsection (1)",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72,
+      91,
+      382,
+      16
+    ],
+    "text": "the court shall appoint as representative a person who,",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72,
+      112,
+      382,
+      15
+    ],
+    "text": "after summary inquiry, appears to the court. to be the",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72,
+      133,
+      382,
+      14
+    ],
+    "text": "Person to whom prohate of the will or letters of adminis-",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72,
+      152,
+      382,
+      14
+    ],
+    "text": "tration to the estate af the decease would ordinarily be",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      67,
+      162,
+      163,
+      31
+    ],
+    "text": "jssued : .",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      46,
+      199,
+      408,
+      15
+    ],
+    "text": "7 Provided, however, that in the event of a dispute bet-",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72,
+      220,
+      382,
+      14
+    ],
+    "text": "ween persons claiming to be entitled to be so appointed,",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72,
+      238,
+      381,
+      16
+    ],
+    "text": "the court shall make such an appointment (whether of one",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72,
+      259,
+      381,
+      15
+    ],
+    "text": "of those persons or of any other person) 8 appropriate",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72,
+      279,
+      382,
+      15
+    ],
+    "text": "in the opinion of the court, in the interests of tho estate of",
+    "mean_p_confidence": 0.88
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72,
+      298,
+      281,
+      13
+    ],
+    "text": "the deceased, -",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      84,
+      331,
+      433,
+      15
+    ],
+    "text": "2& Where any eppointment is made under section 27 Rffcct of",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72,
+      347,
+      448,
+      17
+    ],
+    "text": "and the person so appointed is a party to the action, every F&pre=>",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      71,
+      364,
+      463,
+      15
+    ],
+    "text": "order, decree nisi, decree absolute and sale or thing done being made",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      71,
+      377,
+      442,
+      18
+    ],
+    "text": "in the action instituted under this Act .fineluding the * Pet",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72,
+      397,
+      437,
+      15
+    ],
+    "text": "seizure and sale in execution of the property of the ~~ -*",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72,
+      412,
+      461,
+      16
+    ],
+    "text": "deceased debtor or of the deceased party) shall have the .",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72,
+      428,
+      451,
+      17
+    ],
+    "text": "like effect as though the executor or administrator of the .",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72,
+      446,
+      234,
+      16
+    ],
+    "text": "deceased were 9 party to the action.",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      84,
+      472,
+      441,
+      22
+    ],
+    "text": "29. Where any debtor of an institution dies or is adjudged Death",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72,
+      493,
+      468,
+      21
+    ],
+    "text": "an ingolvent or @ person of unsourd mind nt any time r unsound.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72,
+      515,
+      457,
+      22
+    ],
+    "text": "after the entry of decvee absolute in am action instituted of debtor",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      71,
+      533,
+      452,
+      28
+    ],
+    "text": "under this Act and before the execution of the decree, no of secre",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      70,
+      548,
+      505,
+      24
+    ],
+    "text": "proceedings for the execution or endorcement of the decree .",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      70,
+      576,
+      382,
+      14
+    ],
+    "text": "sbsolute shall be takbn or if taken shell be of any effect,",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      70,
+      596,
+      382,
+      16
+    ],
+    "text": "unless the daly appointed executor of the will or adminis-",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      70,
+      616,
+      491,
+      17
+    ],
+    "text": "trator of the estate af the deceased or a representative :",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      70,
+      636,
+      382,
+      14
+    ],
+    "text": "appointed under section 27 or as the case may be, the",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      70,
+      657,
+      382,
+      15
+    ],
+    "text": "assijmee or manager of the estate of the insolvent or person",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      69,
+      676,
+      307,
+      18
+    ],
+    "text": "of unsound mind, is made a party to the action.",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      82,
+      703,
+      462,
+      20
+    ],
+    "text": "30, In this Act, unless the context otherwise requires Interpretation.",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      83,
+      733,
+      406,
+      15
+    ],
+    "text": "debt means a sum of money which is ascertained ar *",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      46,
+      751,
+      477,
+      21
+    ],
+    "text": ". capable of being ascertained at the time of the .",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      121,
+      773,
+      404,
+      17
+    ],
+    "text": "institution of the action, and which is in default, *",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      123,
+      794,
+      328,
+      16
+    ],
+    "text": "whether the sume be secured or not, or owed",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      68,
+      815,
+      383,
+      19
+    ],
+    "text": ": Jointly or severally, and alleged by @ lending",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      297,
+      846,
+      140,
+      12
+    ],
+    "text": "\\ .",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      176,
+      10,
+      323,
+      30
+    ],
+    "text": "12 Debt Recovery (Special Provisions)",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      312,
+      43,
+      122,
+      14
+    ],
+    "text": "Act, No, 2 of 1990",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      231,
+      76,
+      337,
+      11
+    ],
+    "text": "institution to have arisen from a transaction in the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      232,
+      97,
+      335,
+      14
+    ],
+    "text": "course of banking, lending, financiel or other allied",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      230,
+      118,
+      337,
+      14
+    ],
+    "text": "business activity of that institution, but does not",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      232,
+      139,
+      335,
+      14
+    ],
+    "text": "include 9 promise or agreement which is not in",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      232,
+      161,
+      102,
+      14
+    ],
+    "text": "weiting;",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      194,
+      194,
+      311,
+      14
+    ],
+    "text": "lending institution means :",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      198,
+      216,
+      375,
+      16
+    ],
+    "text": "(@) a Uconsed Commerctal Bunk within the meaning of",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      235,
+      234,
+      219,
+      26
+    ],
+    "text": "the Banking Act, No. 30 of 1988 5",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      199,
+      265,
+      369,
+      15
+    ],
+    "text": "{) the State Mortgage snd Investment Bank establish-",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      237,
+      285,
+      331,
+      15
+    ],
+    "text": "ed by the State Mortgage and Investment Bank",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      237,
+      306,
+      308,
+      13
+    ],
+    "text": "Act, No, 18 of 1815; .",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      201,
+      333,
+      366,
+      14
+    ],
+    "text": "(c) the National Development Bank established by the",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      206,
+      353,
+      361,
+      14
+    ],
+    "text": ". National Development Bank of Sri Lenka Act,",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      238,
+      373,
+      91,
+      13
+    ],
+    "text": "No, 2 of 1979;",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      200,
+      404,
+      368,
+      15
+    ],
+    "text": "(a) the Notional Savings Bank established by the",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      215,
+      424,
+      353,
+      16
+    ],
+    "text": "& National Savings Bank Act, No. 90 of 1971;",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      198,
+      449,
+      370,
+      21
+    ],
+    "text": "{e) the Development Finance Corporation: of Ceylon",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      234,
+      472,
+      334,
+      15
+    ],
+    "text": "established by the Development Finance Corpora-",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      233,
+      488,
+      261,
+      15
+    ],
+    "text": "tion of Ceylon Act (Chapter 165) ; and",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      196,
+      514,
+      371,
+      23
+    ],
+    "text": "(f) company registered under the Finance Companies",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      231,
+      538,
+      335,
+      16
+    ],
+    "text": "Act, No. 76 of 1088, to carry on finance business",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      190,
+      572,
+      376,
+      14
+    ],
+    "text": "market rate means the rate per centum per annum",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      231,
+      587,
+      336,
+      17
+    ],
+    "text": "determined by the Monetary Board of the Central",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      230,
+      604,
+      335,
+      18
+    ],
+    "text": "Bank by Notifcation published in the Gazette,",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      230,
+      621,
+      329,
+      17
+    ],
+    "text": "having regard to current rates of bank interest ;",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      190,
+      649,
+      395,
+      19
+    ],
+    "text": "principal: offleer im relation to an institution, moans,",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      230,
+      669,
+      354,
+      19
+    ],
+    "text": "a director, secretary or other officer not below the",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      229,
+      689,
+      336,
+      18
+    ],
+    "text": "rank of a manager of such institution and shall",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      228,
+      710,
+      336,
+      18
+    ],
+    "text": "include any other officer af such institution",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      230,
+      731,
+      335,
+      19
+    ],
+    "text": "specially authorized by such director, secretary or",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      230,
+      753,
+      314,
+      15
+    ],
+    "text": "other officer not below the rank of a manager.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      87,
+      783,
+      476,
+      31
+    ],
+    "text": "anata tat SH TH tho event of any Inconsistency between the",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      76,
+      801,
+      509,
+      32
+    ],
+    "text": "te baavalt 7 Sinhala and Tamil texts of this Act, the Sinhala text shall,",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      76,
+      827,
+      509,
+      24
+    ],
+    "text": "BE iSitency. prevail i",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      210,
+      45,
+      303,
+      14
+    ],
+    "text": "Deht Recovery (Special Provisions) 1B",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      240,
+      62,
+      143,
+      14
+    ],
+    "text": ". Act, No. 2 of 1990",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      214,
+      95,
+      299,
+      12
+    ],
+    "text": "ad FIRST SCHEDULE (ection 4(2)]",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      228,
+      121,
+      285,
+      12
+    ],
+    "text": ". Fore of Deore Nil envnennenennenne",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      112,
+      139,
+      236,
+      18
+    ],
+    "text": ". t . {Title}",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      144,
+      170,
+      369,
+      12
+    ],
+    "text": "Tole ection coming on for dispoeal before foams and uffoe of Tadge)",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      133,
+      184,
+      380,
+      12
+    ],
+    "text": "8 BOP wennenene GAY OF sens Wr ABM aftr reading the plaint. and",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      133,
+      197,
+      381,
+      13
+    ],
+    "text": "dooumente and boing atiefnd ofthe avermenta centalzed in the ulidavit",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      133,
+      210,
+      394,
+      14
+    ],
+    "text": "Bled wun, it it ordered and decrued that the defendant do pay to the |",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      134,
+      224,
+      379,
+      13
+    ],
+    "text": "inintff mum of Ra... together with nverent at ~~. por seatansfrom~",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      134,
+      237,
+      379,
+      11
+    ],
+    "text": "{300 ss 00 wove and thotvaftarintoreh ab che tare tate from dete Bere",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      135,
+      250,
+      377,
+      13
+    ],
+    "text": "Of till payment in fall together with aap of action and (where the",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      133,
+      263,
+      380,
+      13
+    ],
+    "text": "Decron ie for delivery of immovuble property, describe the property)",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      134,
+      277,
+      380,
+      13
+    ],
+    "text": "iC relief of something other Shan shonay oF inmmovable ropetiy,",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      133,
+      291,
+      104,
+      11
+    ],
+    "text": "sot ont che ralinf)",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      145,
+      315,
+      368,
+      11
+    ],
+    "text": "These eso shorefore to contend the Fipeal mmm Poovinge to vy",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      134,
+      328,
+      380,
+      14
+    ],
+    "text": "sad maken ofthe hoes lands, goods, dabta 006 oredivwof the abovenamied.",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      134,
+      341,
+      378,
+      14
+    ],
+    "text": "by nofrute aad if necomary by sale thereof, the sum of Ra arann~ whit",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      134,
+      355,
+      380,
+      13
+    ],
+    "text": "the plaintit uae rocovared ageinet the void... by ehin Dottoe of Court",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      134,
+      368,
+      379,
+      13
+    ],
+    "text": "snl have thet money before thie Coure within shitty deye of bhix Deere",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      134,
+      381,
+      379,
+      14
+    ],
+    "text": "nisi being made abolute or within euch extended time as this court shall:",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      134,
+      396,
+      379,
+      11
+    ],
+    "text": "low and infor this conce what aaa oc extn and o what Parton ox prone",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      133,
+      408,
+      380,
+      13
+    ],
+    "text": "the Fitoal of $e e-vnon Brovinee have wold dhe property saspectively",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      134,
+      421,
+      393,
+      13
+    ],
+    "text": "nd thia Deareo Nielsen wade abeoluteahall serve aba Mandate foratch,",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      133,
+      438,
+      45,
+      9
+    ],
+    "text": "Putpoon.",
+    "mean_p_confidence": 0.08
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      145,
+      464,
+      366,
+      16
+    ],
+    "text": "eistorther ordered andthero areto sommond you, the sfotenid nn",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      132,
+      477,
+      379,
+      14
+    ],
+    "text": "-dafendantto appear bafate Chis oourton tha ere ARF Of arin Wants",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      133,
+      490,
+      378,
+      14
+    ],
+    "text": "{ins} won and abo evtae, i any, Why bia Decree Mist shoald nob De",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      133,
+      506,
+      304,
+      15
+    ],
+    "text": "mad sbrolute, +",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      107,
+      529,
+      405,
+      19
+    ],
+    "text": "iene) ceeocuoerne (00m and Ofi8e OF FutES) AE none Bay OF smeanes",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      134,
+      549,
+      256,
+      12
+    ],
+    "text": "Wns 7",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      221,
+      668,
+      10,
+      9
+    ],
+    "text": "a",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      187,
+      700,
+      331,
+      29
+    ],
+    "text": "ad *",
+    "mean_p_confidence": 0.09
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      199,
+      729,
+      5,
+      7
+    ],
+    "text": ".",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      263,
+      735,
+      240,
+      13
+    ],
+    "text": "SECOND SCHEDULE [Beotion 1U)T",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      268,
+      757,
+      252,
+      15
+    ],
+    "text": "(Form af Register) s",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      121,
+      782,
+      385,
+      14
+    ],
+    "text": "+ No.of]Nam | Nase | Cain | Decree nist |Renult| Patoof | Any",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      133,
+      787,
+      394,
+      31
+    ],
+    "text": "cotion| of | ot tedetharmads wae [athe",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      175,
+      801,
+      337,
+      31
+    ],
+    "text": "Praia | Deton sbivlateor tention fantore",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      175,
+      822,
+      315,
+      21
+    ],
+    "text": "bite | dane: discharged) _",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      57,
+      757,
+      47,
+      10
+    ],
+    "text": "tO",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      52,
+      776,
+      484,
+      16
+    ],
+    "text": "Annual subscription of Bills and Acts of the Parliament Re , 177 (Local),",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      51,
+      792,
+      485,
+      15
+    ],
+    "text": "Rs, 226 Foreign), payable to the Sueiemrenpmrs, Govanwwent PyazicaTions",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      52,
+      806,
+      482,
+      15
+    ],
+    "text": "Burzap, Coomeo 1, before 16th December each year in respect of the year",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      77,
+      823,
+      242,
+      19
+    ],
+    "text": "tog Jollowing.",
+    "mean_p_confidence": 0.15
+  }
+]

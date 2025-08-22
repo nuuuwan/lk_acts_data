@@ -1,0 +1,486 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      102,
+      201,
+      399,
+      28
+    ],
+    "text": "_ PARLIAMENT OF THE DEMOCRATIC",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      174,
+      235,
+      279,
+      24
+    ],
+    "text": "SOCIALIST REPUBLIC OF,",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      258,
+      268,
+      120,
+      18
+    ],
+    "text": "SRI LANKA",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      117,
+      374,
+      369,
+      29
+    ],
+    "text": "\" MEDICAL WANTS (AMENDMENT)",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      203,
+      416,
+      361,
+      21
+    ],
+    "text": "ACT, No. 33 OF 1990: .",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      207,
+      567,
+      233,
+      17
+    ],
+    "text": "{Certified on Gih September, 1990]",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      131,
+      623,
+      347,
+      22
+    ],
+    "text": "\"Printed on the Orders of Government",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      79,
+      707,
+      474,
+      22
+    ],
+    "text": "Published es. a Supplement to Part Ii of the Gazette of the Democratic",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      142,
+      728,
+      379,
+      21
+    ],
+    "text": "Socialist Repablic of Sri Lanka of September 07, 1990",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      130,
+      774,
+      446,
+      13
+    ],
+    "text": "ROUTE A Wnt DEPART GP CUNGSENE WADING, SE SANA .",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      113,
+      791,
+      431,
+      27
+    ],
+    "text": "TO BE PURCHASED AT THE GOVEANMEHT PUBLICATIONS BUREAU, COLOMBO ~",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78,
+      824,
+      478,
+      22
+    ],
+    "text": "Prine: 80ceuts. | . Postage : Be. 1.00",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139,
+      52,
+      316,
+      14
+    ],
+    "text": "Medicat Wants (Amendment) Act, No. 33 of 1990",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      185,
+      72,
+      307,
+      22
+    ],
+    "text": "[Certified on 6th September, 1980] :",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      105,
+      108,
+      91,
+      13
+    ],
+    "text": "LD.-0, 29/88",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      129,
+      128,
+      414,
+      23
+    ],
+    "text": "Aw Act TO AMEND THE Mupica, WaNts ORbINANCE 7",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      106,
+      153,
+      378,
+      21
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic Socialist",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      105,
+      181,
+      236,
+      13
+    ],
+    "text": "Republic af Sti Lanka as follows :",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119,
+      213,
+      431,
+      14
+    ],
+    "text": "1. This Act may be cited as the Medical Wants (Amend- Short ttle.",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      104,
+      234,
+      168,
+      12
+    ],
+    "text": "maent) Act, No. 88 of 1980.",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118,
+      287,
+      435,
+      15
+    ],
+    "text": "2 Section 10 of the-Medical Wants Ordinance (herein- Amendaient",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      105,
+      301,
+      437,
+      22
+    ],
+    "text": "after referred to as the principal enactment) is hereby fy oh",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      103,
+      323,
+      429,
+      21
+    ],
+    "text": "amended by the repel of paragraph (b) thereof. mer",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      357,
+      469,
+      19
+    ],
+    "text": "| & Section 14 of the princtpal enactment is hereby Amendment",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      104,
+      373,
+      439,
+      21
+    ],
+    "text": "amended by the repeal of paragraph (b) af that section and $f section",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      104,
+      395,
+      440,
+      21
+    ],
+    "text": "the substitution of the following paragraph therefor: principal |",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      488,
+      409,
+      59,
+      7
+    ],
+    "text": "Enectment-",
+    "mean_p_confidence": 0.01
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115,
+      419,
+      366,
+      14
+    ],
+    "text": "(b) under section 10, in respect of a visit to an estate",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      156,
+      439,
+      324,
+      15
+    ],
+    "text": "for the purpose of attendance an any sick Iabourer",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      156,
+      457,
+      377,
+      17
+    ],
+    "text": "or labourers, . .",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      116,
+      485,
+      441,
+      29
+    ],
+    "text": "4. Section 3 of the principal enactment is hereby Amendment",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      104,
+      511,
+      433,
+      16
+    ],
+    "text": "amended by the repeal of paragraphs (b), () and (d) of 30 of the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      487,
+      523,
+      50,
+      11
+    ],
+    "text": "principal",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      104,
+      534,
+      443,
+      11
+    ],
+    "text": "that section, ~ Eachment,",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      117,
+      562,
+      436,
+      20
+    ],
+    "text": "8. Section 31 of the principal enactment is hereby Amendment",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      102,
+      574,
+      441,
+      33
+    ],
+    "text": "amended in paragraph (6) of that section, by the omlasion $1 oe",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      101,
+      604,
+      447,
+      14
+    ],
+    "text": "of the words or maintenance, enactment,",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      113,
+      632,
+      419,
+      31
+    ],
+    "text": "& In the event of any inconsistency between the sinhale",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      100,
+      652,
+      445,
+      20
+    ],
+    "text": "Sinhala and Tamil texts of this Act, the Sinhala text shall prevail 1.",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99,
+      672,
+      451,
+      23
+    ],
+    "text": "prevail Seasileney,",
+    "mean_p_confidence": 0.06
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      67,
+      784,
+      481,
+      14
+    ],
+    "text": "Annual subscription of Bnglish Bills and Acts of the Pazliement Bs 895 (Local),",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      66,
+      800,
+      483,
+      12
+    ],
+    "text": "Ra. 1180 (Foreign), payable to the Svpmanemrumer, Govanxment PUBLICATIONS",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      66,
+      813,
+      482,
+      14
+    ],
+    "text": "Runenv, Colommo 1, before 1th December each year in respect of the year",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      278,
+      829,
+      57,
+      12
+    ],
+    "text": "tollowing.",
+    "mean_p_confidence": -0.01
+  }
+]
