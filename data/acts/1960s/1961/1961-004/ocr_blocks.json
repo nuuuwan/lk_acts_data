@@ -1,0 +1,475 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      102,
+      46,
+      450,
+      24
+    ],
+    "text": "PARLIAMENT OF CEYLON ;",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      210,
+      94,
+      309,
+      30
+    ],
+    "text": "Ist Sesion 1960-61 eb LT",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      273,
+      125,
+      288,
+      74
+    ],
+    "text": "> ae a",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      67,
+      188,
+      493,
+      53
+    ],
+    "text": ": fy (=) VE Af",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      228,
+      222,
+      115,
+      11
+    ],
+    "text": ". AKAs",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      153,
+      216,
+      395,
+      42
+    ],
+    "text": ": , uag : wy Oe",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      126,
+      325,
+      338,
+      34
+    ],
+    "text": "Bretton Woods Agreements",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      94,
+      371,
+      404,
+      32
+    ],
+    "text": "(Amendment) Act, No. 4 of 1961",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      192,
+      509,
+      316,
+      13
+    ],
+    "text": "Date of Assent: February 1, 1961 .",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      74,
+      629,
+      342,
+      17
+    ],
+    "text": "ee Printed on the Orders of Government",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115,
+      746,
+      359,
+      34
+    ],
+    "text": "Printed atthe Govsnrara Pamas, CEVion. To be",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      119,
+      774,
+      355,
+      13
+    ],
+    "text": "Purchased st the Gommmousrr Punucartn Bonus; Coveee",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      119,
+      790,
+      354,
+      14
+    ],
+    "text": "Amneal Subseription (including Bills) Re. 25, payable in",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      119,
+      804,
+      355,
+      13
+    ],
+    "text": "Atvence tothe Surmsinumntet, Gormcter Poacenows",
+    "mean_p_confidence": 0.08
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      118,
+      817,
+      355,
+      19
+    ],
+    "text": "Bowae, Pott\" Orica Hor 800 Seatarat, Colombo i",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      75,
+      840,
+      444,
+      19
+    ],
+    "text": "Friew: 10 cents. Postage: 10 cents,",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      42,
+      344,
+      28
+    ],
+    "text": "Bretton Woods A Agresmenis (Amendment) Act,",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      217,
+      58,
+      79,
+      15
+    ],
+    "text": "0. 4 of 1961",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      84,
+      103,
+      14
+    ],
+    "text": "L. DO. 31/60,",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      107,
+      376,
+      14
+    ],
+    "text": "Aw Ac? 10 amanp Ta Brarron Woops ARremzwrs",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      179,
+      123,
+      158,
+      14
+    ],
+    "text": "Acz, No. 20 oF 1950.",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      123,
+      153,
+      256,
+      17
+    ],
+    "text": "(Date of Assent: February 1, 1961)",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      184,
+      377,
+      17
+    ],
+    "text": "BE it enacted by the Queens Most Excellent Majesty,",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      55,
+      199,
+      383,
+      27
+    ],
+    "text": "By and with the advice wnd consent of the Senate and",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      215,
+      363,
+      18
+    ],
+    "text": "e House of Representatives of Ceylon in this present",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      230,
+      377,
+      18
+    ],
+    "text": "Parliament assembled, and by the authority of the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      246,
+      141,
+      14
+    ],
+    "text": "same, as follows:",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      277,
+      418,
+      28
+    ],
+    "text": "4. This Act ray be cited ax the Bretton Woods sex ste",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      292,
+      324,
+      17
+    ],
+    "text": "Agreements (Amendment) Act, No. 4 of 1961.",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      323,
+      436,
+      18
+    ],
+    "text": "2, Section 5 of the Bretton Woods Agreements Act, Amanmeot of",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      338,
+      450,
+      20
+    ],
+    "text": "No. 20 of 1950, is hereby amended by the insertion, 3% 525,",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      354,
+      405,
+      18
+    ],
+    "text": "immediately after sub-section (1A) of that section 1m.",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      369,
+      376,
+      19
+    ],
+    "text": "(inserted by Act No. 19 of 1959), of the following new",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      385,
+      107,
+      12
+    ],
+    "text": "sub-section: *",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93,
+      411,
+      343,
+      30
+    ],
+    "text": "~ QB) Where Coyton decides to subscribe,",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      52,
+      429,
+      385,
+      26
+    ],
+    "text": "+ punuant to paragraph (0) of Section 3 of Article",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99,
+      443,
+      363,
+      29
+    ],
+    "text": "it of the Bank Agreement, to shares of the antho- -",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      459,
+      346,
+      16
+    ],
+    "text": "ised capital stock of the International Bank for",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      474,
+      345,
+      18
+    ],
+    "text": "Reooustruction and Development in addition to its",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      490,
+      346,
+      19
+    ],
+    "text": "minimum subscription, there ahall be paid out of",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      505,
+      345,
+      19
+    ],
+    "text": "the Consolidated Fund of Ceylon such sums as",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      521,
+      362,
+      20
+    ],
+    "text": "* may be necessary for subscribing to such shares.\"\".",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      824,
+      162,
+      23
+    ],
+    "text": "Ee numsaten",
+    "mean_p_confidence": 0.03
+  }
+]

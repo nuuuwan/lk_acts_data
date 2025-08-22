@@ -1,0 +1,1454 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      112,
+      34,
+      370,
+      24
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      108,
+      85,
+      274,
+      25
+    ],
+    "text": ": Ist Session 1960-61",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      101,
+      151,
+      214,
+      42
+    ],
+    "text": ". mn",
+    "mean_p_confidence": 0.05
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77,
+      184,
+      257,
+      29
+    ],
+    "text": ": fer",
+    "mean_p_confidence": 0.09
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80,
+      207,
+      260,
+      21
+    ],
+    "text": ". 1S (ee",
+    "mean_p_confidence": 0.08
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      439,
+      268,
+      3,
+      2
+    ],
+    "text": "7",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      132,
+      328,
+      323,
+      38
+    ],
+    "text": "Rubber Export Duties",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      153,
+      375,
+      281,
+      37
+    ],
+    "text": "(Special Provisions)",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      156,
+      422,
+      275,
+      32
+    ],
+    "text": "Act, No. 15 of 196]",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      99,
+      543,
+      293,
+      15
+    ],
+    "text": ". Date of Assent: April 25, 1961",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      171,
+      646,
+      314,
+      26
+    ],
+    "text": "Printed on the Orders of Government =",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      119,
+      748,
+      351,
+      30
+    ],
+    "text": "Faith AMARA PBs SEY Ei",
+    "mean_p_confidence": 0.08
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      116,
+      829,
+      358,
+      22
+    ],
+    "text": "Price: 10 cents : . Postage: 10 cents",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      2,
+      353,
+      19
+    ],
+    "text": "_ Rubber Ewport Duties (Special Provisions}",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      194,
+      20,
+      190,
+      15
+    ],
+    "text": "Act, No, 18 of 2961 ' >.",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      40,
+      208,
+      19
+    ],
+    "text": "1. D0. 3/60, * * .",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      70,
+      376,
+      13
+    ],
+    "text": "AN ACT 10 VALIDATE THE LEVY AND PAYMENT OF EXPORT",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108,
+      85,
+      345,
+      13
+    ],
+    "text": "DUTIES ON RUBBER AT INCREASED RATES AND OF FEES",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      104,
+      364,
+      9
+    ],
+    "text": "_ IN RESPECT OF LICENCES FOR TSE EXPORT OF RUBBER",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      109,
+      119,
+      344,
+      10
+    ],
+    "text": "AND TO MAKE PROVISION FOR MATTERS CONNECTED",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108,
+      135,
+      249,
+      9
+    ],
+    "text": "THEREWITH OR INCIDENTAL THERETO.",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140,
+      155,
+      244,
+      16
+    ],
+    "text": "{Date of Assent: April 25, 1961]",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      177,
+      378,
+      17
+    ],
+    "text": "WHEREAS, by virtue of an Order duly made under",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      193,
+      378,
+      15
+    ],
+    "text": "section 2 of the Revenue Protection Ordinance, the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      209,
+      379,
+      28
+    ],
+    "text": "oxport daties on rubber became leviable and payable",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      225,
+      377,
+      13
+    ],
+    "text": "at certain increased rates with offect from the 10th",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      238,
+      175,
+      18
+    ],
+    "text": "day of September, 1959:",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93,
+      268,
+      398,
+      18
+    ],
+    "text": "And whereas, by virtue of two Orders made in +",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      285,
+      378,
+      16
+    ],
+    "text": "supposed pursuance of the aforesaid section 2, the",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      300,
+      377,
+      16
+    ],
+    "text": "export duties on mbber became leviable and payable",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      316,
+      377,
+      17
+    ],
+    "text": "at certain further increased rates during the period",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      330,
+      308,
+      18
+    ],
+    "text": "ending on the 17th day of Decambor, 1959:",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      360,
+      361,
+      16
+    ],
+    "text": "And whereas with effect from the 18th day of",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      374,
+      377,
+      20
+    ],
+    "text": "December, 1959, the export duties on rubber became",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      389,
+      377,
+      22
+    ],
+    "text": "leviable and payable at the rates in operation",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      407,
+      375,
+      17
+    ],
+    "text": "immediatel prior to the 10th day of September, 1959,",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      422,
+      379,
+      19
+    ],
+    "text": "and fees in vespest of licences for the export of rubber",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      436,
+      377,
+      20
+    ],
+    "text": "became leviable and payable by virtue of regulations",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      453,
+      376,
+      30
+    ],
+    "text": "made in sopposed parsbance of the provisions of the",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      468,
+      360,
+      19
+    ],
+    "text": "Imports and Exports (Control) Act, No, 9 of 1965:",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      496,
+      361,
+      30
+    ],
+    "text": "And whereas no resolutions in respect of the afore,",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      512,
+      376,
+      20
+    ],
+    "text": "said Orders were in fact passed by the House of",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      522,
+      380,
+      37
+    ],
+    "text": "Representatives under section of the Customs",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      542,
+      77,
+      15
+    ],
+    "text": "Ordinance;",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      566,
+      361,
+      22
+    ],
+    "text": "And whereas it has now become necessary to validate",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      585,
+      375,
+      19
+    ],
+    "text": "the levy and payment of such increased rates of export",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      601,
+      47,
+      14
+    ],
+    "text": "duties?",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      629,
+      360,
+      18
+    ],
+    "text": "And whereas it has also become necessary to validate",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      644,
+      243,
+      19
+    ],
+    "text": "the levy and payment of euch fees:",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      672,
+      359,
+      19
+    ],
+    "text": "Be it therefore enscted by the Queen's Most",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      686,
+      375,
+      21
+    ],
+    "text": "Excellent Majesty, by and with the advice and conaent",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      702,
+      374,
+      21
+    ],
+    "text": "of the Senate and the House of Representatives of",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      718,
+      373,
+      21
+    ],
+    "text": "Ceylon in thia present Parliament assembled, and by",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      726,
+      289,
+      27
+    ],
+    "text": "the anthority of the same, ae follows:",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      774,
+      427,
+      20
+    ],
+    "text": "1. This Act may be cited as the Rubber Export stoc:tiin",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      788,
+      348,
+      23
+    ],
+    "text": "Duties (Special Provisions) Act, No. 15 of 1961,",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      808,
+      112,
+      15
+    ],
+    "text": "EAR Hoge)",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      196,
+      16,
+      371,
+      18
+    ],
+    "text": "2 Rubber Export Dutiss (Special Provisions)",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      159,
+      32,
+      417,
+      20
+    ],
+    "text": "y 7 Act, No, 16 of 1961 .",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      101,
+      59,
+      467,
+      13
+    ],
+    "text": "Validvion ot _@,-Notwithstanding anything .in the Customs",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      101,
+      55,
+      467,
+      39
+    ],
+    "text": "Mevatern Ordinence or apy ang ae aed under section 9",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      101,
+      78,
+      466,
+      33
+    ],
+    "text": "Foe of that Ordinance or any other written law, it ia",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      97,
+      97,
+      420,
+      31
+    ],
+    "text": "aves hereby declared that .",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      102,
+      124,
+      25,
+      8
+    ],
+    "text": "Ea",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      136,
+      128,
+      432,
+      17
+    ],
+    "text": ": (@) export duities.on the goods specified in columm",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      241,
+      129,
+      327,
+      28
+    ],
+    "text": ") rep he Eira Scholle wo Uke Act ahell",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      102,
+      159,
+      466,
+      18
+    ],
+    "text": ". be deemed, for all purposes, to have been",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      178,
+      164,
+      390,
+      28
+    ],
+    "text": "4 validly leviable and payable at the rates",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      275,
+      189,
+      292,
+      18
+    ],
+    "text": "specified in the corresponding entries in",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      275,
+      195,
+      294,
+      28
+    ],
+    "text": "column II of that. Schedule during the",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      275,
+      220,
+      295,
+      18
+    ],
+    "text": "periods specified in the corresponding",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      274,
+      236,
+      280,
+      15
+    ],
+    "text": "entries in column III of that Schedule;",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      228,
+      254,
+      341,
+      17
+    ],
+    "text": "{) section 4 of the Revenue Protection Ordinance",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      142,
+      268,
+      426,
+      18
+    ],
+    "text": ". shall be deemed not to have applied to such",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      275,
+      287,
+      287,
+      26
+    ],
+    "text": "duties; and",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      228,
+      302,
+      341,
+      17
+    ],
+    "text": "() auch duties shall, for the purposes of the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      239,
+      304,
+      330,
+      30
+    ],
+    "text": ") amet scans Ordinance, be desmed. 0 bave",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      275,
+      333,
+      294,
+      17
+    ],
+    "text": "been imposed by resolution of the House",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      274,
+      347,
+      296,
+      19
+    ],
+    "text": "of Representatives under section 9 of that",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      275,
+      366,
+      74,
+      12
+    ],
+    "text": "Ordinanee.",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      99,
+      384,
+      470,
+      32
+    ],
+    "text": "Yaisation ot 3, Notwithstanding anything in the Imports and",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      103,
+      406,
+      467,
+      31
+    ],
+    "text": "HERG Beportg (Control) Ach, No. 8 of 1060, i is hoody",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      104,
+      421,
+      467,
+      19
+    ],
+    "text": "farin declared that fees in respect of licences for the expart",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      103,
+      436,
+      467,
+      24
+    ],
+    "text": "siesta, of rubber shall be deemed, for all purposes, to hav!",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      104,
+      453,
+      466,
+      18
+    ],
+    "text": "Futter been validly Jeviable and payable under that Act s",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      135,
+      469,
+      435,
+      18
+    ],
+    "text": ". the rates specified in the Second Schedule to this Act",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      198,
+      483,
+      373,
+      20
+    ],
+    "text": "during the period commencing on the 18th day of",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      199,
+      499,
+      372,
+      19
+    ],
+    "text": "Devember, 1959, and ending at midnight of 23/24",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      199,
+      516,
+      372,
+      17
+    ],
+    "text": "November, 1960. Any sum due by way of licence",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      199,
+      531,
+      373,
+      18
+    ],
+    "text": "fees which has not been paid or recovered on that date",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      199,
+      546,
+      373,
+      19
+    ],
+    "text": "may be recovered by the Rubber Commissioner in like",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      199,
+      564,
+      250,
+      13
+    ],
+    "text": "manner as a debt due to the Crown,",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      106,
+      590,
+      467,
+      18
+    ],
+    "text": "Recents Nothing in the preceding provisions of this Act",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      106,
+      606,
+      467,
+      21
+    ],
+    "text": "gysiemter shall affect any export duties on rubber or rubber latex",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      106,
+      621,
+      467,
+      18
+    ],
+    "text": "ie Jeviable or payable under any written law other than",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      201,
+      637,
+      373,
+      14
+    ],
+    "text": "the Customs Ordinance or, the Medical Wants",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      201,
+      654,
+      74,
+      13
+    ],
+    "text": "Ordinance.",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      107,
+      685,
+      466,
+      26
+    ],
+    "text": ". i Fea ut",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      182,
+      699,
+      347,
+      28
+    ],
+    "text": "Goode Rate of Export Disty Periods *",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      121,
+      725,
+      454,
+      13
+    ],
+    "text": "~ crepe rubher af every description, Re. 38 pte 100 tb... Prom 10th foptember, 1958 to",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      146,
+      722,
+      429,
+      33
+    ],
+    "text": "hr ban sre ovens 4",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      134,
+      732,
+      426,
+      38
+    ],
+    "text": "statin efor downpton... Re perl00W. .. Pm ish Beat Ee",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      431,
+      769,
+      44,
+      8
+    ],
+    "text": "Tatuive",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      125,
+      777,
+      450,
+      12
+    ],
+    "text": "Babee latex. . September, 1859",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      309,
+      775,
+      267,
+      34
+    ],
+    "text": "rubber eotent *, 1not Sebecabee 195%,",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      416,
+      802,
+      60,
+      10
+    ],
+    "text": "_ Haat,",
+    "mean_p_confidence": 0.04
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      183,
+      10,
+      385,
+      18
+    ],
+    "text": "Rubber Export Duties (Special Provisions) 3.",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      252,
+      27,
+      315,
+      19
+    ],
+    "text": "Act, No. 15 of 1961 a",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      261,
+      55,
+      125,
+      10
+    ],
+    "text": "Frnae 0REDUIE (cont)",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      144,
+      71,
+      348,
+      11
+    ],
+    "text": "<a a am",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      150,
+      71,
+      350,
+      33
+    ],
+    "text": "ent Res of Keport Dies Periods",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      109,
+      91,
+      450,
+      32
+    ],
+    "text": "Serap crepe rubber ++ Re8perl001b. .. Hrom lost September, 1960",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115,
+      104,
+      444,
+      30
+    ],
+    "text": "i. : a uh November, 1058,",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      112,
+      129,
+      447,
+      18
+    ],
+    "text": "Secap rubber other then sormp Ha. 98pee }001b. .. Prom ior Supteaber, 1050",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      119,
+      134,
+      440,
+      36
+    ],
+    "text": "erope =P per om Meh November, 1968,",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      111,
+      160,
+      447,
+      17
+    ],
+    "text": "(rope rubber of every desorption, Ra. 8per001b. .. Crom \"6ih November, 1010",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      129,
+      163,
+      429,
+      29
+    ],
+    "text": "other than serep orepe Per to 17th December, 193,",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      414,
+      188,
+      45,
+      9
+    ],
+    "text": "otrve,",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      111,
+      195,
+      446,
+      13
+    ],
+    "text": "oes rubbieotovorydeneription Te.38per1001b, .. Brom sth Noverbee, 1950",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      239,
+      196,
+      318,
+      36
+    ],
+    "text": "im Per ca 17th Dovember, 1950,",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      116,
+      220,
+      340,
+      8
+    ],
+    "text": "; incite,",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      109,
+      226,
+      448,
+      14
+    ],
+    "text": "Robber Intex ++ Ra.38 p00 100%, of Fram Lith Nowumber, 1950",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      300,
+      240,
+      257,
+      19
+    ],
+    "text": "ipetlbareonont \"TR\" sk\" Dosanbee 18,",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      105,
+      249,
+      452,
+      27
+    ],
+    "text": "Serap crspe rubber s+ Ra,38por 10018, 1. From \"13th Noverabes, 1690",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      378,
+      272,
+      179,
+      18
+    ],
+    "text": "JPRS ani Deter eb,",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108,
+      288,
+      449,
+      15
+    ],
+    "text": "Bemp rubber other than eocsp RAG38per100Ib, .. From lich November, 1959",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      119,
+      288,
+      438,
+      31
+    ],
+    "text": "ore fon 7th December, 1908,",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      412,
+      314,
+      45,
+      8
+    ],
+    "text": "inoroirs-",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      204,
+      325,
+      252,
+      8
+    ],
+    "text": ". neoowo tomepvEs. :",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      270,
+      338,
+      93,
+      11
+    ],
+    "text": "ot of omnes fae,",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      107,
+      355,
+      450,
+      15
+    ],
+    "text": "A ftp. in repost of the quatily of rubber apie in each Yioene,coulated ob the sate of",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      120,
+      359,
+      316,
+      20
+    ],
+    "text": "Temi for enah pone",
+    "mean_p_confidence": 0.34
+  }
+]

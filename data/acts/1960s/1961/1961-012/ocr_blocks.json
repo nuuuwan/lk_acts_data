@@ -1,0 +1,607 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      112,
+      41,
+      403,
+      30
+    ],
+    "text": "PARLIAMENT OF CEYLON *:",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      182,
+      85,
+      205,
+      19
+    ],
+    "text": "\"1st Session 1960-61",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      280,
+      150,
+      36,
+      22
+    ],
+    "text": "ep",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      282,
+      172,
+      49,
+      13
+    ],
+    "text": "CULE",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      141,
+      241,
+      215,
+      21
+    ],
+    "text": ". Pew ZEN",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      244,
+      246,
+      223,
+      33
+    ],
+    "text": "Ss",
+    "mean_p_confidence": 0.01
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      63,
+      314,
+      470,
+      39
+    ],
+    "text": "Ceylon University (Amendment)",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      165,
+      366,
+      328,
+      33
+    ],
+    "text": "Act, No. 12 of 1961 -",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76,
+      495,
+      392,
+      28
+    ],
+    "text": ". Date of Assent: April 25, 1961 t",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      178,
+      633,
+      336,
+      16
+    ],
+    "text": "Printed on the Orders of Government .",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      127,
+      749,
+      353,
+      25
+    ],
+    "text": "Printed at! the Gomunenyr Pris, Grrion, o_ be",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      127,
+      773,
+      352,
+      20
+    ],
+    "text": "Piekehath Ac ANEMIC",
+    "mean_p_confidence": 0.06
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      127,
+      791,
+      353,
+      34
+    ],
+    "text": "ie areata Ee",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      125,
+      835,
+      352,
+      14
+    ],
+    "text": "Price: 10 cents Postage: 10 cents",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      39,
+      378,
+      21
+    ],
+    "text": "Ceylon University (Amendment) Act, No. 12 of 1982",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      70,
+      125,
+      16
+    ],
+    "text": "L. D.O. 80/58.",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      104,
+      95,
+      318,
+      16
+    ],
+    "text": "Aw Act To aMEND THE CEYLON UNIVERSITY",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      163,
+      111,
+      199,
+      16
+    ],
+    "text": "Onpinaxce, No. 20 oF 1942.",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      124,
+      137,
+      258,
+      22
+    ],
+    "text": ", (Date of Assent: April 25, 1961)",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      164,
+      381,
+      20
+    ],
+    "text": "BE it enacted by the Queens Most Excellent Majesty,",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      179,
+      386,
+      37
+    ],
+    "text": "by and with the advice and consent of the Senate and",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      195,
+      387,
+      20
+    ],
+    "text": "-the House of Representatives of Ceylon in this",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      53,
+      211,
+      403,
+      20
+    ],
+    "text": "+ present Parliament assembled, and by the authority",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      231,
+      438,
+      15
+    ],
+    "text": "of the same, as follows: :",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      258,
+      432,
+      20
+    ],
+    "text": "4, This Act may be cited as the Ceylon University ston tile,",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      277,
+      251,
+      17
+    ],
+    "text": "(Amendment) Act, No. 12 of 1961.",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      305,
+      450,
+      19
+    ],
+    "text": "2, Section 6 of the Ceylon University Ordinances, Ausxdmeu of",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      311,
+      468,
+      33
+    ],
+    "text": "No. 20 of 1949, hereinafter referred to as the Saegeu",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      337,
+      446,
+      32
+    ],
+    "text": "principal enactment, i bereby amended ss aierty",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      350,
+      473,
+      20
+    ],
+    "text": "follows: oy a0 af 2540",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      110,
+      376,
+      352,
+      26
+    ],
+    "text": "() in paragraph of that section, the",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157,
+      381,
+      301,
+      37
+    ],
+    "text": "eee oe the words * v the",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      158,
+      412,
+      301,
+      20
+    ],
+    "text": "University; , of the words of the",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      53,
+      428,
+      406,
+      20
+    ],
+    "text": "set University, or who not being students of",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      53,
+      441,
+      406,
+      37
+    ],
+    "text": "a 7 the University shall: have | passed the",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      158,
+      461,
+      302,
+      16
+    ],
+    "text": "external examinations of Univer-",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      158,
+      479,
+      219,
+      17
+    ],
+    "text": "sity; ; and :",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      111,
+      505,
+      349,
+      29
+    ],
+    "text": "(2) by the insertion, immediately after, para.",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      158,
+      520,
+      302,
+      20
+    ],
+    "text": "graph (d) of that section, of the following",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      158,
+      539,
+      148,
+      16
+    ],
+    "text": "ew paragraph : -",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      176,
+      560,
+      315,
+      19
+    ],
+    "text": "* (d@) to conduct external examinations *",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      155,
+      567,
+      306,
+      46
+    ],
+    "text": "for guabling those who aren not: students of",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      199,
+      592,
+      262,
+      17
+    ],
+    "text": "iniversity to obtain degrees, diplomas",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      159,
+      594,
+      302,
+      37
+    ],
+    "text": "and other ouademio distinctions of the",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      159,
+      626,
+      80,
+      17
+    ],
+    "text": "University; .",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96,
+      656,
+      450,
+      18
+    ],
+    "text": "3. Section 20 of the principal enactment, is hereby Amendment ot",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      669,
+      443,
+      21
+    ],
+    "text": "amended by the insertion, immediately after para. 70",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      53,
+      688,
+      466,
+      34
+    ],
+    "text": "+ graph Qt that section, of the following new principal",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      701,
+      449,
+      21
+    ],
+    "text": "paragraph: Eactatoat,",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      150,
+      731,
+      322,
+      20
+    ],
+    "text": ". (a) to take such steps as may be |",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      160,
+      747,
+      301,
+      20
+    ],
+    "text": "necessary for the conduct of extarnal",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      160,
+      764,
+      301,
+      17
+    ],
+    "text": "examinations for enabling those who are",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      160,
+      779,
+      301,
+      18
+    ],
+    "text": "not students of the University to obtain",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      161,
+      795,
+      300,
+      20
+    ],
+    "text": "degrees, diplomas and other academic",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      161,
+      812,
+      237,
+      17
+    ],
+    "text": "distinctions of the University; '\";",
+    "mean_p_confidence": 0.66
+  }
+]

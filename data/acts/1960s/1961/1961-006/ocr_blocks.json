@@ -1,0 +1,904 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      100,
+      40,
+      364,
+      26
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      134,
+      82,
+      423,
+      27
+    ],
+    "text": "Ist Session 1960-61 ;",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      247,
+      171,
+      290,
+      31
+    ],
+    "text": "AS EY sapeniogl",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      113,
+      190,
+      420,
+      45
+    ],
+    "text": ": 8 Gale aN ~",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      238,
+      212,
+      293,
+      24
+    ],
+    "text": "eating af",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      127,
+      337,
+      317,
+      30
+    ],
+    "text": "Surcharge on Income Tax",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      177,
+      380,
+      367,
+      31
+    ],
+    "text": "Act, No. 6 of 1961 /",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      175,
+      516,
+      218,
+      28
+    ],
+    "text": "Date of Assent: February 20, 1961",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      108,
+      747,
+      454,
+      15
+    ],
+    "text": "Printed at the Govenwerr Press, Crriox, Tb be * *",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      108,
+      762,
+      423,
+      14
+    ],
+    "text": "purchoued at the Gorm Posuicarions Bumeat; Covoumo \"1!\"",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      95,
+      780,
+      447,
+      17
+    ],
+    "text": "; Annual Subseriptlon {including Hills) Bs. 25, pryable in wot",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      110,
+      797,
+      453,
+      13
+    ],
+    "text": "advance to the SuprmuNreNDENt, GovenNMENT PUBLICATIONS so",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      109,
+      810,
+      351,
+      13
+    ],
+    "text": "Bouzav, Posr Orme Box 500, Secretariat, Colambo 1",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      107,
+      825,
+      409,
+      28
+    ],
+    "text": "Price; 10 cents . . Pastoge: 10 cents 7",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140,
+      23,
+      224,
+      17
+    ],
+    "text": "Surtharge on Income Tax Act,",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      39,
+      467,
+      16
+    ],
+    "text": ". No. 6 of 1961 .",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      67,
+      246,
+      15
+    ],
+    "text": "L. DO, 25/80, :",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64,
+      91,
+      379,
+      12
+    ],
+    "text": "AN Act 10 PROVIDE FOR THE FAYMENT OF A SURCHARGE",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96,
+      107,
+      348,
+      11
+    ],
+    "text": "BY BVERY PERSON CHAROEABLE WITH INCOME TAX",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96,
+      122,
+      347,
+      13
+    ],
+    "text": "JOR THE YAR OF ASSESSMENT COMMENCING ON",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96,
+      137,
+      177,
+      16
+    ],
+    "text": "Arai, 1, 1960. vs",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99,
+      158,
+      287,
+      20
+    ],
+    "text": ") [Date of Assent: February 20, 1961.]",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      181,
+      380,
+      20
+    ],
+    "text": "BE it enacted by. the Queens Most Excellent",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64,
+      197,
+      464,
+      18
+    ],
+    "text": "Majesty, by and with the advios and consent of the :",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      203,
+      381,
+      27
+    ],
+    "text": "Senato end the House of Representatives of Ceylon in",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      228,
+      379,
+      19
+    ],
+    "text": "this present Porliament assombled, and by the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      246,
+      334,
+      19
+    ],
+    "text": "authotity of the same, as follows: :",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      276,
+      434,
+      16
+    ],
+    "text": "1, This Aot may be cited as the Surcharge Stet tle",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      282,
+      255,
+      26
+    ],
+    "text": "on inoome Tax Act, No. 6 of 1081.",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      323,
+      454,
+      21
+    ],
+    "text": "\"2, (1) Every person: who is chargeable with ry pow",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      336,
+      471,
+      21
+    ],
+    "text": "income tax for the of assesment commencing on Sao,",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      345,
+      454,
+      31
+    ],
+    "text": "April 1, 1960, shall, notwithstanding anything con Ban",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      365,
+      447,
+      40
+    ],
+    "text": "tained in any other sition 4 or in-any convention, 2m",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      383,
+      470,
+      36
+    ],
+    "text": "grant or agreement, be lis to pay & surcharge gomumaneing on",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      388,
+      475,
+      38
+    ],
+    "text": "equivalent te fifteen per centum of the amount of the ree",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      409,
+      460,
+      44
+    ],
+    "text": "income tax payable by him for that year of assessment. ot .",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      442,
+      445,
+      32
+    ],
+    "text": "7) The gurcharge referred to in sub-section (1) gactun/ot tbe",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      461,
+      449,
+      29
+    ],
+    "text": "shall, in the case of @ non-resident company, be Res",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      471,
+      458,
+      20
+    ],
+    "text": "reckoned on the amount of income tax that would have Eil'ia tat",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      493,
+      420,
+      21
+    ],
+    "text": "been payable by such company for the year of assess. 7%",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      509,
+      379,
+      18
+    ],
+    "text": "ment commencing on April 1, 1980, if the sum equal",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      525,
+      411,
+      18
+    ],
+    "text": "to six'per contum of the taxable income of such com-",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      541,
+      379,
+      29
+    ],
+    "text": "pany for that year of assessment, whic should have",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      547,
+      373,
+      40
+    ],
+    "text": "lormed. pare of the amount of incbme tax in sccord-",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      573,
+      447,
+      18
+    ],
+    "text": "ance with the provisions of section 58C of the Income .",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      589,
+      379,
+      16
+    ],
+    "text": "Tax Ordinance, had not been included in the amount",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      606,
+      102,
+      13
+    ],
+    "text": "of income tax.",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      632,
+      378,
+      29
+    ],
+    "text": "<y(G) The surcharge referred to in. sub-section (1)",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      105,
+      649,
+      345,
+      17
+    ],
+    "text": ", in the case of any person who is entitled to &",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      654,
+      379,
+      30
+    ],
+    "text": "set off under sub-section %B) of section 44, or under",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      680,
+      380,
+      18
+    ],
+    "text": "sub-section (6) or sub-section (7) of section 88D, of",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      682,
+      379,
+      33
+    ],
+    "text": "the Income Tax Ordinance, be rekouol on the amount",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      712,
+      401,
+      20
+    ],
+    "text": "of income tax that would have been payable by such",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      729,
+      468,
+      18
+    ],
+    "text": "Person for the yeat of assessment commencing on :",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      744,
+      341,
+      17
+    ],
+    "text": "April 1, 1980, if such set off had not been made.",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96,
+      772,
+      355,
+      18
+    ],
+    "text": "(4) For the purposes of the assessment, payment",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      768,
+      402,
+      51
+    ],
+    "text": "ant recovery of the gurchenge referred fo in mb:",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      805,
+      378,
+      30
+    ],
+    "text": "agption (1), the provisions of bptar X, Chepter I,",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      820,
+      379,
+      20
+    ],
+    "text": "Chapter XII, and Chapter XIIT of the Income Tax",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      827,
+      450,
+      32
+    ],
+    "text": "Fhe aan aie .",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      171,
+      17,
+      306,
+      25
+    ],
+    "text": "2 Surcharge on Income ToxKet,",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      315,
+      42,
+      96,
+      16
+    ],
+    "text": "No. & of 1962.",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      172,
+      65,
+      385,
+      20
+    ],
+    "text": "Ordinance shall apply in all respecte aa though the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      172,
+      72,
+      385,
+      41
+    ],
+    "text": "surcharge were income. tox pagale for the year",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      172,
+      98,
+      320,
+      18
+    ],
+    "text": "of assessment commencing on April 1, 1960.",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      176,
+      124,
+      380,
+      18
+    ],
+    "text": ": (6) Where any person is under section 84 of the",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      172,
+      140,
+      384,
+      17
+    ],
+    "text": "Income Tax Ordinanes entitled to have refunded any",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      173,
+      157,
+      383,
+      16
+    ],
+    "text": "amonnt paid by him as income tax in excess of the",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      173,
+      161,
+      382,
+      28
+    ],
+    "text": "amount which be was properly changeable for the year",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      172,
+      187,
+      383,
+      29
+    ],
+    "text": "of aseesument commencing on April 1, 1960, such",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      173,
+      203,
+      381,
+      18
+    ],
+    "text": "person shall, if he has paid the surcharge referred to",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      172,
+      219,
+      382,
+      16
+    ],
+    "text": "in sub-section (1) of section 2 of thie Act, be in addi-",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      173,
+      234,
+      381,
+      17
+    ],
+    "text": "tion entitled to have refunded an amount representing",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      172,
+      250,
+      382,
+      16
+    ],
+    "text": "fifteen per centum of the amount refunded under the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      150,
+      266,
+      251,
+      19
+    ],
+    "text": "_ said section 84, Moo",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      191,
+      294,
+      324,
+      19
+    ],
+    "text": "(8) In this section .",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      205,
+      320,
+      347,
+      29
+    ],
+    "text": "income tax, means the tax changed and",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      251,
+      336,
+      305,
+      15
+    ],
+    "text": "levied under the Income Tax Ordinance; -",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      205,
+      360,
+      348,
+      28
+    ],
+    "text": "non-resident company * shall havo the same",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      251,
+      375,
+      255,
+      17
+    ],
+    "text": "meaning as in that Ordinance; and",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      205,
+      399,
+      347,
+      16
+    ],
+    "text": "year of assesement shall have the same",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      251,
+      415,
+      294,
+      16
+    ],
+    "text": "meoning as in that Ordinance.",
+    "mean_p_confidence": 0.69
+  }
+]

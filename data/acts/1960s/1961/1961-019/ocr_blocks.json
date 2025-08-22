@@ -1,0 +1,2576 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      105,
+      19,
+      392,
+      27
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      199,
+      66,
+      211,
+      17
+    ],
+    "text": "Ast Session 1960-61",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      248,
+      190,
+      91,
+      30
+    ],
+    "text": "Bal",
+    "mean_p_confidence": 0.02
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      163,
+      296,
+      257,
+      28
+    ],
+    "text": "Embarkation Tax",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      153,
+      342,
+      275,
+      33
+    ],
+    "text": "Act, No. 19 of 1961",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      101,
+      476,
+      409,
+      20
+    ],
+    "text": "- Date of Assent: April 25, 1961 ! .",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      162,
+      600,
+      350,
+      30
+    ],
+    "text": "Printed on the Orders of Government Soy",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      114,
+      734,
+      352,
+      12
+    ],
+    "text": "Printed at the Govexemenr Press, Crytox. To be",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      114,
+      746,
+      352,
+      12
+    ],
+    "text": "Dulchased at the Govimmnsans Puncicasions SUMING, COLONES",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      114,
+      764,
+      401,
+      21
+    ],
+    "text": "Amul Subserinion cluding ila) Re. 25, payable in.",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      114,
+      775,
+      352,
+      22
+    ],
+    "text": "Bonece, Poet Gresce \"Box 80), Beccary, Colombo",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      113,
+      805,
+      355,
+      16
+    ],
+    "text": "Price: 20 cents Postage: 10 cents",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119,
+      23,
+      271,
+      19
+    ],
+    "text": "Embarkation Tan Act, No. 19 of 1362",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      55,
+      308,
+      13
+    ],
+    "text": "LL, DO. 50/87. . +",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      75,
+      380,
+      12
+    ],
+    "text": "AN Ac? 10 PROVIDE TOR THE LEVY AND REOOVERY OF A",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      97,
+      89,
+      347,
+      14
+    ],
+    "text": "\"TAX IN RESPECT OF PERSONS LEAVING CEYLON RY",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98,
+      107,
+      346,
+      13
+    ],
+    "text": "SIP OR AIRCRAFT, AND FOR MATTERS CONNECTED",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      124,
+      93,
+      10
+    ],
+    "text": "> THEREWITH.",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139,
+      147,
+      232,
+      17
+    ],
+    "text": "[Date of Assent: April 25, 1061]",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      173,
+      417,
+      18
+    ],
+    "text": "BE it enacted by the Queena Most Excellent Majesty,",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      188,
+      472,
+      31
+    ],
+    "text": "by and with the advices and consent of the Senate and .",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      94,
+      204,
+      392,
+      18
+    ],
+    "text": "House of Representatives of Ceylon in this pre-",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64,
+      220,
+      379,
+      17
+    ],
+    "text": "sent Parliament assembled, and by the authority of",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      237,
+      169,
+      15
+    ],
+    "text": "the same, as follows:",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      263,
+      432,
+      17
+    ],
+    "text": "4. This Act may be cited as the Embarkation Tax shat tie",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64,
+      280,
+      146,
+      14
+    ],
+    "text": "Act, No, 19 of 1961.",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      306,
+      437,
+      28
+    ],
+    "text": "2. (On snd after such date es may be appointed potatoe",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64,
+      320,
+      440,
+      31
+    ],
+    "text": "by the Minister by Order published im the Gaveste, {t,t",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      337,
+      402,
+      17
+    ],
+    "text": "re shall be levied and paid an embarkation tax at ped in",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      351,
+      439,
+      19
+    ],
+    "text": "the rate of two rupees and fifty cents in respect of text ot",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64,
+      358,
+      465,
+      28
+    ],
+    "text": "every person leaving Gaylon by ship or airoraft, other Eat coe",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      370,
+      445,
+      43
+    ],
+    "text": "tha ae",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      102,
+      408,
+      338,
+      17
+    ],
+    "text": "(a) children who are less than two years of age,",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      423,
+      393,
+      18
+    ],
+    "text": "+ (6) officers and members of the crew of that ship -",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      143,
+      441,
+      393,
+      14
+    ],
+    "text": "or aircraft, . .",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96,
+      455,
+      437,
+      30
+    ],
+    "text": "(@) transit: passengers of that ship or sircraff, moe",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      143,
+      476,
+      16,
+      9
+    ],
+    "text": "am",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96,
+      486,
+      431,
+      20
+    ],
+    "text": "(@) such other persons as may be prescribed. ~ :",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      510,
+      360,
+      29
+    ],
+    "text": "@ Any person who, onder sub-section (1), is Hiable",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      526,
+      377,
+      17
+    ],
+    "text": "to pay embarkation tax is hereafter in this Act referred",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      542,
+      334,
+      17
+    ],
+    "text": "to ag a * person subject to the embarkation tax '.",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      569,
+      447,
+      18
+    ],
+    "text": "%. No person eubject to the embarkation tax shall Parsus rubject",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64,
+      580,
+      446,
+      38
+    ],
+    "text": "be permitted to leave Ceylon by ship or aircraft 20D uy",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64,
+      602,
+      446,
+      21
+    ],
+    "text": "without paying such tax, Pac",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      364,
+      616,
+      158,
+      28
+    ],
+    "text": "SEES",
+    "mean_p_confidence": 0.01
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      197,
+      645,
+      291,
+      11
+    ],
+    "text": ": inp",
+    "mean_p_confidence": 0.06
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      668,
+      435,
+      17
+    ],
+    "text": "3. (1) Before 9 person subject to the embarkation Enbwhatie",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      677,
+      468,
+      41
+    ],
+    "text": "tax leaves Ceyion by ship or aircraft, such tax shall BEM, a.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      699,
+      461,
+      18
+    ],
+    "text": "be collected from such person in the prescribed manner apurstor of ship",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      710,
+      455,
+      38
+    ],
+    "text": "by the operator of that ship or aircraft on behalf of #purah>",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      94,
+      731,
+      428,
+      25
+    ],
+    "text": "Government, of Ceylon. - Seresman",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      751,
+      361,
+      37
+    ],
+    "text": "Q) Any embarkation tax collected by the operator",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      770,
+      377,
+      18
+    ],
+    "text": "of any ship or aircraft shall be retained by such",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      787,
+      377,
+      18
+    ],
+    "text": "operator on behalf of the Government of Ceylon",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      802,
+      459,
+      18
+    ],
+    "text": "pending its payment to the competent authority under :",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      817,
+      354,
+      16
+    ],
+    "text": "this Act. . . a",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      828,
+      395,
+      27
+    ],
+    "text": "Tm B 1eBt4.54;00) ne Sr .",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      179,
+      27,
+      375,
+      17
+    ],
+    "text": "2 Embarkation Tas Act, No. 19 of 1962",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      196,
+      55,
+      364,
+      18
+    ],
+    "text": "(8) Where the embarkation tax due from any person",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      179,
+      70,
+      382,
+      18
+    ],
+    "text": "leaving Ceylon by ship or airoraft is not collected by",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      157,
+      85,
+      403,
+      19
+    ],
+    "text": "+ the operator of that ship or aircraft, such tax may",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      180,
+      101,
+      380,
+      18
+    ],
+    "text": "be recovered from such operator in like manner as",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      180,
+      117,
+      300,
+      16
+    ],
+    "text": "though it were a debt due to the Crown.",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      82,
+      153,
+      478,
+      16
+    ],
+    "text": "Payment ot 8, (1) Any embarkation tax collected by the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77,
+      152,
+      474,
+      44
+    ],
+    "text": "eateries ws operator of aay ship or arora from a Paton Teovin",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      81,
+      175,
+      479,
+      27
+    ],
+    "text": "cpenmrafanp Ceylon by that ahip or aircraft shall, within a period",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      81,
+      195,
+      479,
+      22
+    ],
+    "text": "Gesti, of thirty days from the date of the departure from",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      82,
+      204,
+      477,
+      38
+    ],
+    "text": "smibory Ceplon of that ship or aircraft, be paid in the pree-",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      179,
+      230,
+      380,
+      18
+    ],
+    "text": "eribed manner by such operator to the competent",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      179,
+      245,
+      69,
+      16
+    ],
+    "text": "authority.",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      195,
+      273,
+      364,
+      30
+    ],
+    "text": "(2) Where the embarkation tax due from any per.",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      179,
+      289,
+      380,
+      18
+    ],
+    "text": "son leaving Ceylon by ship or aircraft is not paid to",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      160,
+      304,
+      398,
+      18
+    ],
+    "text": "_ the competont authority by the operator of that ship",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      179,
+      320,
+      380,
+      18
+    ],
+    "text": "or aircraft in accordance with sub-section (1), the",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      179,
+      336,
+      380,
+      16
+    ],
+    "text": "competent authority may in hie disoretion order that",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      179,
+      352,
+      380,
+      28
+    ],
+    "text": "& sum not exsoeding ten per centam of the amount",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      179,
+      367,
+      379,
+      14
+    ],
+    "text": "of such tax shall be added to such tax and recovered",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      180,
+      382,
+      379,
+      16
+    ],
+    "text": "therewith. Any sum so added to such tax shall be",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      179,
+      398,
+      285,
+      17
+    ],
+    "text": "deemed to constitute a part of such tax.",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      82,
+      434,
+      490,
+      19
+    ],
+    "text": "Seaport Fund 6, (1) There shall be established, for the purposes",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79,
+      434,
+      493,
+      40
+    ],
+    "text": "aie of this Act, e Seaport Fund and an Airport Tand. -",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      180,
+      467,
+      378,
+      17
+    ],
+    "text": "Each such Fund shall be administered by the compe-",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      180,
+      483,
+      378,
+      19
+    ],
+    "text": "tent authority subject to the general direction and",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      179,
+      499,
+      257,
+      13
+    ],
+    "text": "control of the Minister of Finance.",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90,
+      527,
+      390,
+      16
+    ],
+    "text": ". (2) The competent authority shall pay",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      213,
+      554,
+      346,
+      29
+    ],
+    "text": "() to the Senport, Fund all sume paid or 30.",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      97,
+      570,
+      462,
+      13
+    ],
+    "text": "- covered as embarkation tax under this Act",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      261,
+      586,
+      298,
+      17
+    ],
+    "text": "in reapect of persons leaving Ceylon by",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      260,
+      601,
+      68,
+      17
+    ],
+    "text": "ship, and",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      213,
+      629,
+      345,
+      17
+    ],
+    "text": "() tothe Airport Fund all sums paid or recovered",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      260,
+      645,
+      298,
+      19
+    ],
+    "text": "ag embarkation tax under this Act in res-",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      260,
+      661,
+      297,
+      17
+    ],
+    "text": "pect of persons leaving Ceylon by aircraft.",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      198,
+      688,
+      371,
+      17
+    ],
+    "text": "(8) There shall be paid .",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      213,
+      711,
+      344,
+      18
+    ],
+    "text": "(@) out of the Seaport: Fund the expenses incurred",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      243,
+      727,
+      315,
+      15
+    ],
+    "text": "+ in the administration and enforcement of",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      259,
+      743,
+      299,
+      18
+    ],
+    "text": "wach of the provisions of this Act and the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      249,
+      760,
+      309,
+      17
+    ],
+    "text": "* regulations made thereunder ae Telate:to",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      251,
+      775,
+      306,
+      19
+    ],
+    "text": "_ the levy and recovery of the embarkation",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      259,
+      790,
+      298,
+      20
+    ],
+    "text": "tax in respect of persons leaving Ceylon",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      258,
+      806,
+      300,
+      33
+    ],
+    "text": "y ship, and in the administration of that",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      248,
+      826,
+      314,
+      18
+    ],
+    "text": "Find, and , : a",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      116,
+      27,
+      327,
+      15
+    ],
+    "text": "Embarkation Taz Act, No. 19 of 1961 8",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      95,
+      54,
+      347,
+      17
+    ],
+    "text": "() out of the Airport Fund the expenses inourted.",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      76,
+      70,
+      365,
+      14
+    ],
+    "text": ": in the administration and enforcement of",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      141,
+      86,
+      300,
+      17
+    ],
+    "text": "such of the provisions of thie Act and the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      141,
+      103,
+      300,
+      17
+    ],
+    "text": "regulations made thereunder ag relate to",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      141,
+      119,
+      385,
+      19
+    ],
+    "text": "the levy and recovery of the embarkation :",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      103,
+      136,
+      337,
+      19
+    ],
+    "text": ". tax in respect of persons leaving Ceylon",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      140,
+      153,
+      300,
+      16
+    ],
+    "text": "by aircraft, and in the administration",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      140,
+      170,
+      96,
+      15
+    ],
+    "text": "of that Fund,",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      61,
+      197,
+      378,
+      13
+    ],
+    "text": "other than the remuneration of the officers and ser-",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      61,
+      213,
+      379,
+      17
+    ],
+    "text": "vante engaged in such administration and enforce-",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      61,
+      232,
+      37,
+      10
+    ],
+    "text": "ment.",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      77,
+      258,
+      362,
+      16
+    ],
+    "text": "(4) The competent anthority hall, after the end",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      60,
+      274,
+      378,
+      17
+    ],
+    "text": "of each quarter of each yenr, furnish to the Minister",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      60,
+      291,
+      378,
+      17
+    ],
+    "text": "of Finance a statement showing the financial position",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      59,
+      307,
+      404,
+      18
+    ],
+    "text": "of the Seaport Fund and the Airport Fund in respect _",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      60,
+      323,
+      109,
+      17
+    ],
+    "text": "of that quarter.",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      76,
+      356,
+      360,
+      16
+    ],
+    "text": "(6) The whole or any part of the surplus which may,",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      60,
+      372,
+      377,
+      17
+    ],
+    "text": "at the end of each quarter of any year, be found to",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      60,
+      388,
+      376,
+      17
+    ],
+    "text": "the credit of the Seaport Fund after all the payments",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      60,
+      405,
+      386,
+      16
+    ],
+    "text": "authorised by this Act to be made out of that Fund .",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      60,
+      421,
+      376,
+      18
+    ],
+    "text": "have been made may be applied, in such manner as",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      59,
+      437,
+      377,
+      18
+    ],
+    "text": "the Minister of Finance may from time to time deter-",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      59,
+      454,
+      376,
+      18
+    ],
+    "text": "mine, to the improvement of the services and amenities",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      60,
+      471,
+      328,
+      18
+    ],
+    "text": "Provided for passengers at seaports in Ceylon.",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      75,
+      499,
+      359,
+      17
+    ],
+    "text": "(8) The whole or any part of the surplus which may,",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      59,
+      516,
+      376,
+      17
+    ],
+    "text": "at the end of each quarter of any year, be found to",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      59,
+      532,
+      462,
+      18
+    ],
+    "text": "the credit of the Airport Fund after all the payments = |",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      59,
+      548,
+      376,
+      17
+    ],
+    "text": "anthorised by this Act to be made out of that Fund have",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      59,
+      565,
+      375,
+      18
+    ],
+    "text": "been made may be applied, in such manner as the Min-",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      59,
+      582,
+      376,
+      17
+    ],
+    "text": "ister of Finance may from time to time determine, to",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      59,
+      588,
+      421,
+      29
+    ],
+    "text": "the improvement of the serviose and amenitien pro.",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      58,
+      615,
+      434,
+      18
+    ],
+    "text": "vided for passengers at airports in Ceylon. :",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73,
+      652,
+      435,
+      17
+    ],
+    "text": "7, The operator of any ship or aircraft ahall, when talomstin",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      59,
+      669,
+      465,
+      21
+    ],
+    "text": "requested to do so by the competent authority, furnish fous",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      58,
+      685,
+      456,
+      18
+    ],
+    "text": "to the competent authority such information within this Salts be",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      58,
+      700,
+      469,
+      22
+    ],
+    "text": "the knowledge of that operator in regard to the siet bythe",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      58,
+      703,
+      445,
+      46
+    ],
+    "text": "Paseongers transported from Ceylon by that ship or say shipar",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      58,
+      732,
+      467,
+      20
+    ],
+    "text": "aircraft as the competent authority may require for Nmf_io te",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      57,
+      744,
+      442,
+      24
+    ],
+    "text": "the purposes of thia Act. i sient",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72,
+      785,
+      460,
+      19
+    ],
+    "text": "8. . (f) For the purpose of verifying the correctness Porenot - ~",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      56,
+      801,
+      455,
+      24
+    ],
+    "text": "of any information furnished by the.operator of any SY7.{=4",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      57,
+      818,
+      453,
+      26
+    ],
+    "text": "ship or aircraft in pursuance of this Act.or, for'the guns ted",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      89,
+      21,
+      417,
+      19
+    ],
+    "text": ". 4 Embarkation Taw Act, No. 19 of 1961",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      180,
+      48,
+      381,
+      17
+    ],
+    "text": "purpose of securing compliance with the provisions of",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      181,
+      53,
+      380,
+      28
+    ],
+    "text": "The Act of of ang regulations made thereunder, the",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      181,
+      81,
+      193,
+      16
+    ],
+    "text": "competent authority may",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      214,
+      111,
+      348,
+      18
+    ],
+    "text": "(a) enter any premises in Ceylon used by such",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      202,
+      127,
+      360,
+      18
+    ],
+    "text": ". operator for the purposes of his business",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      261,
+      143,
+      300,
+      17
+    ],
+    "text": "a5 & cartier of passengers by ship or sir-",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      260,
+      159,
+      75,
+      15
+    ],
+    "text": "oraft; and",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      202,
+      185,
+      360,
+      19
+    ],
+    "text": "(6) inspect and take copies of any such record of",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      260,
+      201,
+      305,
+      20
+    ],
+    "text": "passengers transported from Ceylon by",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      261,
+      218,
+      301,
+      29
+    ],
+    "text": "any sbip or aircraft of that opersior 8",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      260,
+      233,
+      301,
+      19
+    ],
+    "text": "is kept by that operator (whether in pur-",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      260,
+      239,
+      301,
+      29
+    ],
+    "text": "snante of this Act or otherwise) in rela-",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      260,
+      266,
+      143,
+      13
+    ],
+    "text": "tion to his business,",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      197,
+      301,
+      364,
+      18
+    ],
+    "text": "@ The competent authority may, for the purpose",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      180,
+      304,
+      381,
+      30
+    ],
+    "text": "of securing compliance with the provisions of Bie act",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      180,
+      331,
+      381,
+      20
+    ],
+    "text": "or of any regulations made thereander, enter on board.",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      181,
+      348,
+      380,
+      18
+    ],
+    "text": "any chip or aircraft arriving in or departing from",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      181,
+      363,
+      379,
+      18
+    ],
+    "text": "Ceylon and require the master of that ship or the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      179,
+      376,
+      381,
+      36
+    ],
+    "text": "captain of that aircraft to produce for inspection by",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      179,
+      397,
+      381,
+      16
+    ],
+    "text": "the competent authority any document which contains",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      175,
+      408,
+      385,
+      37
+    ],
+    "text": "information regarding the passengers to be trans-",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      179,
+      428,
+      386,
+      20
+    ],
+    "text": "ported by that ship or aircraft. ot",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      80,
+      461,
+      277,
+      30
+    ],
+    "text": "Oteoce, 9% Any person who",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      211,
+      500,
+      348,
+      18
+    ],
+    "text": "(2) contravenes any of the provisions of this Act",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115,
+      516,
+      443,
+      20
+    ],
+    "text": ". \"OF of any regulation made thereunder, oF",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      211,
+      548,
+      347,
+      17
+    ],
+    "text": "( furnishes any false information to the oom-",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      257,
+      561,
+      120,
+      20
+    ],
+    "text": "petent authority,",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      178,
+      592,
+      379,
+      16
+    ],
+    "text": "shall be guilty of an offence and chall, on conviction",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      178,
+      608,
+      379,
+      19
+    ],
+    "text": "after summary trial before a Magistrate, be liable to",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      179,
+      624,
+      379,
+      29
+    ],
+    "text": "imprisonment of either description for a term not",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      174,
+      632,
+      383,
+      40
+    ],
+    "text": "exceeding six months or to a fine not exceeding ane",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      124,
+      655,
+      433,
+      18
+    ],
+    "text": ":% thousand rupees or to both such fine and imprison-",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      80,
+      698,
+      478,
+      33
+    ],
+    "text": "Prensinons 10. No prosecution for an offence under this Act",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      84,
+      719,
+      473,
+      22
+    ],
+    "text": "wie. shall be instituted except by or with the written sane-",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      85,
+      739,
+      323,
+      18
+    ],
+    "text": "Shain tion of the competent. authority.",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      85,
+      751,
+      463,
+      11
+    ],
+    "text": "competent .",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      85,
+      760,
+      45,
+      12
+    ],
+    "text": "cui,",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      80,
+      777,
+      476,
+      28
+    ],
+    "text": "Ragalaiions, 11, (4) The Minister may make regalations for",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      178,
+      791,
+      378,
+      41
+    ],
+    "text": "the purpose of carrying out the provisions or giving",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      174,
+      808,
+      338,
+      31
+    ],
+    "text": "efiect.to the principles of this Act. , :",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      128,
+      20,
+      323,
+      15
+    ],
+    "text": "Bmbarkation Tax Act, No. 19 of 19818",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      85,
+      46,
+      367,
+      20
+    ],
+    "text": ".(@ Yn particolar-and without prejudice to the",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      74,
+      65,
+      378,
+      20
+    ],
+    "text": "generality of the powers conferred by sub-section (1),",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      75,
+      83,
+      378,
+      18
+    ],
+    "text": "the Minister may make regulations for or in respect",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      74,
+      103,
+      297,
+      17
+    ],
+    "text": "of all or any of the following matters:.",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      107,
+      133,
+      347,
+      18
+    ],
+    "text": "(a) any matter stated or required by this Act to",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      153,
+      153,
+      378,
+      17
+    ],
+    "text": "be prescribed; :",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      107,
+      182,
+      347,
+      19
+    ],
+    "text": "() the imposition of euch conditions or restric-",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      75,
+      201,
+      379,
+      18
+    ],
+    "text": "tions on the departure of ships and air-",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      97,
+      219,
+      357,
+      18
+    ],
+    "text": "- craft from Ceylon as are considered",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      153,
+      238,
+      302,
+      18
+    ],
+    "text": "necessary for the purpose of securing",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      153,
+      257,
+      300,
+      17
+    ],
+    "text": "compliance with the provisions of this Act,",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90,
+      292,
+      365,
+      17
+    ],
+    "text": "(8) No regulation shall have effect until it is",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      73,
+      311,
+      382,
+      20
+    ],
+    "text": "approved by the Senate and the House of Repressnta-",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      73,
+      329,
+      381,
+      17
+    ],
+    "text": "tives and notification of euch approval is published",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      73,
+      348,
+      407,
+      15
+    ],
+    "text": "in the Gasetie. noe .",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      89,
+      391,
+      433,
+      17
+    ],
+    "text": "12, The powers conferred on competent authority pews of",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      73,
+      407,
+      446,
+      29
+    ],
+    "text": "by or under this Act, other than the power to sanction sey",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71,
+      428,
+      473,
+      20
+    ],
+    "text": "prosecution conferred by section 10, may be exer- Sychable by",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      73,
+      447,
+      434,
+      17
+    ],
+    "text": "cised on his behalf by any other officer acting under sftom,",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      73,
+      464,
+      366,
+      19
+    ],
+    "text": "the general or special directions of such authority.",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      76,
+      507,
+      465,
+      17
+    ],
+    "text": ". 48. In this Act unless the context otherwise tntapretaion.",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      73,
+      527,
+      73,
+      16
+    ],
+    "text": "requires",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      106,
+      554,
+      349,
+      22
+    ],
+    "text": "captain, in relation to an aircraft, means",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      153,
+      578,
+      302,
+      18
+    ],
+    "text": "the person for the time being in charge,",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      154,
+      598,
+      270,
+      15
+    ],
+    "text": "command or control of that aircraft;",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      77,
+      626,
+      448,
+      20
+    ],
+    "text": "* * competent, authority , . .",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      155,
+      657,
+      301,
+      17
+    ],
+    "text": "(@) with reference to all matters relating",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      202,
+      676,
+      254,
+      17
+    ],
+    "text": "to the embarkation tax in respect",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      201,
+      695,
+      253,
+      16
+    ],
+    "text": "of persons leaving Ceylon by ship,",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      178,
+      713,
+      277,
+      17
+    ],
+    "text": "* the operators of ships, and the Sea-",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      202,
+      732,
+      352,
+      17
+    ],
+    "text": "port Fund, means the Port Com- .",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      201,
+      751,
+      235,
+      16
+    ],
+    "text": "missioner, Colombo; and .",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      155,
+      774,
+      299,
+      17
+    ],
+    "text": "@) with reference to all matters relating",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      149,
+      793,
+      399,
+      16
+    ],
+    "text": ". to the embarkation tax in respect of .",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      142,
+      811,
+      311,
+      21
+    ],
+    "text": "., Persons leaving Ceylon by aircraft,",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      183,
+      8,
+      329,
+      19
+    ],
+    "text": "Bmbarkation Tax Act, No. 19 of 1961",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      314,
+      38,
+      252,
+      18
+    ],
+    "text": "the operators of aircraft, and the",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      314,
+      54,
+      253,
+      17
+    ],
+    "text": "Aixport Fond, means the Director",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      300,
+      60,
+      222,
+      27
+    ],
+    "text": "- of Givil Aviation; :",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      219,
+      92,
+      348,
+      18
+    ],
+    "text": "master\", in relation to 8 ship, means the",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      266,
+      109,
+      301,
+      29
+    ],
+    "text": "persia for the time being in charge,",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      202,
+      125,
+      300,
+      20
+    ],
+    "text": ". command or control of that ship;",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      220,
+      154,
+      106,
+      17
+    ],
+    "text": "* operator \"",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      267,
+      176,
+      299,
+      18
+    ],
+    "text": "(a) in relation to a ship, means the owner,",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      315,
+      190,
+      248,
+      19
+    ],
+    "text": "agent or master of that ship; and",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      268,
+      214,
+      300,
+      18
+    ],
+    "text": "() in relation to an airoreft, means the",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      314,
+      229,
+      254,
+      19
+    ],
+    "text": "owner, agent or captain of that",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      229,
+      248,
+      145,
+      13
+    ],
+    "text": ". aircraft.",
+    "mean_p_confidence": 0.4
+  }
+]

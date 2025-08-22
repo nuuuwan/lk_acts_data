@@ -1,0 +1,10617 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      101,
+      40,
+      365,
+      24
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      202,
+      80,
+      267,
+      32
+    ],
+    "text": "Ist Session 1960-61",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      273,
+      152,
+      263,
+      24
+    ],
+    "text": "Se ak",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      248,
+      173,
+      287,
+      32
+    ],
+    "text": "fey",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      246,
+      184,
+      286,
+      57
+    ],
+    "text": "is cole a",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      150,
+      320,
+      292,
+      30
+    ],
+    "text": "Insurance Corporation",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      180,
+      363,
+      220,
+      26
+    ],
+    "text": "Act, No. 2 of 1961",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      184,
+      489,
+      281,
+      22
+    ],
+    "text": "Date of Assent: January 10, 1961",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      166,
+      605,
+      346,
+      13
+    ],
+    "text": "Printed on the Orders of Government .",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      108,
+      749,
+      366,
+      12
+    ],
+    "text": "Prined eb the Goweneme Panes, Cenae. fo be",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      109,
+      763,
+      366,
+      12
+    ],
+    "text": "Purcased atthe Gonmanue Postreamons Boose, Coun",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      109,
+      780,
+      365,
+      12
+    ],
+    "text": "Ammual Sstseripton Cachidlog Bila) Ra 2, peyebla in",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      109,
+      794,
+      365,
+      11
+    ],
+    "text": "Siounce tothe Sueminemamt, Coveney\" Peneans",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      109,
+      807,
+      364,
+      12
+    ],
+    "text": "Bungau, Post Ormics Box 400, Secretariat, Colombo 1",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      109,
+      828,
+      367,
+      14
+    ],
+    "text": "Price: 60 cents Postage: 10 cents",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      373,
+      846,
+      169,
+      15
+    ],
+    "text": "a,",
+    "mean_p_confidence": -0.0
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      135,
+      27,
+      310,
+      16
+    ],
+    "text": "Insurance Corporation Act, No. 2 of 1961 *",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      95,
+      54,
+      367,
+      19
+    ],
+    "text": "L. DAO. 29/60, ava .",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      94,
+      74,
+      359,
+      12
+    ],
+    "text": "AN ACT TO PROVIDE FOR THE ESTABLISHMENT OF .AN.",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      126,
+      88,
+      327,
+      16
+    ],
+    "text": "INSURANCE CORPORATION FOR CARRYING ON",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      126,
+      105,
+      328,
+      11
+    ],
+    "text": "EXCLUSIVELY THE BUSINESS OF LIFE INSURANCE",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      126,
+      121,
+      337,
+      11
+    ],
+    "text": "AND CARRYING ON IN ADDITION INSURANCE -",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      126,
+      136,
+      328,
+      12
+    ],
+    "text": "BUSINESS OF EVERY OTHER DESCRIPTION ; TO",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      126,
+      152,
+      328,
+      11
+    ],
+    "text": "TERMINATE THE TRANSACTION OF NEW BUSINESS BY",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      127,
+      168,
+      328,
+      11
+    ],
+    "text": "OTHER INSURERS CARRYING ON LIFE INSURANCE",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      126,
+      183,
+      329,
+      13
+    ],
+    "text": "BUSINESS ; TO PROVIDE THAT SUCH INSURERS",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      126,
+      197,
+      328,
+      13
+    ],
+    "text": "SHALL MAINTAIN IN CEYLON SUFFICIENT ASSETS",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      127,
+      214,
+      328,
+      11
+    ],
+    "text": "TO DISCHARGE THEIR OBLIGATIONS UNDER",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      127,
+      230,
+      327,
+      12
+    ],
+    "text": "POLICIES OF INSURANCE NOT PAID OR MATURED 5",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      127,
+      245,
+      327,
+      11
+    ],
+    "text": "TO PROVIDE FOR CERTAIN MATTERS IN RELATION",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      127,
+      261,
+      328,
+      11
+    ],
+    "text": "TO INSURERS CARRYING ON THE BUSINESS OF",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      127,
+      277,
+      327,
+      12
+    ],
+    "text": "INSURANCE OTHER THAN LIFE INSURANCE ; TO",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      127,
+      290,
+      345,
+      13
+    ],
+    "text": "PROVIDE FOR THE TRANSFER TO THE CORPO-",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      128,
+      308,
+      371,
+      11
+    ],
+    "text": "RATION OF THE INSURANCE BUSINESS CARRIED ON .",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      127,
+      322,
+      327,
+      13
+    ],
+    "text": "BY THE CO-OPERATIVE WHOLESALE ESTAB-",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      127,
+      337,
+      327,
+      16
+    ],
+    "text": "LISHMENT ; TO AMEND THE CO-OPERATIVE",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      128,
+      353,
+      326,
+      15
+    ],
+    "text": "WHOLESALE ESTABLISHMENT AcT, No. 47 OF",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      129,
+      369,
+      324,
+      15
+    ],
+    "text": "1949; AND TO MAKE PROVISIONS FOR PUR-",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      127,
+      387,
+      423,
+      10
+    ],
+    "text": "POSES CONNECTED WITH THE MATTERS . .",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      128,
+      403,
+      76,
+      10
+    ],
+    "text": "AFORESAID.",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      146,
+      423,
+      255,
+      17
+    ],
+    "text": "(Date of Assent : January 10, 1961)",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96,
+      447,
+      358,
+      16
+    ],
+    "text": "BE it enacted by the Queens Most Excellent",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96,
+      463,
+      381,
+      17
+    ],
+    "text": "Majesty, by and with the adyice and consent of",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96,
+      478,
+      359,
+      17
+    ],
+    "text": "the Senate and the House of Representatives of",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96,
+      494,
+      357,
+      17
+    ],
+    "text": "Ceylon in this present Parliament assembled, and",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96,
+      511,
+      310,
+      15
+    ],
+    "text": "by the authority of the same, as follows :",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      120,
+      534,
+      397,
+      28
+    ],
+    "text": "1. (l) This Act may be cited as the Insurance si ue",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96,
+      546,
+      441,
+      21
+    ],
+    "text": "Corporation Act, No. 2 of 1961. _ Sdgrgation",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      112,
+      569,
+      340,
+      29
+    ],
+    "text": "(2) The provisions of sections 2,7, 8, 17, 18,",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96,
+      585,
+      357,
+      16
+    ],
+    "text": "30, 31 and 34 shall come into operation on the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96,
+      601,
+      357,
+      16
+    ],
+    "text": "date of commencement of this Act, and the other",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      95,
+      617,
+      417,
+      16
+    ],
+    "text": "provisions of this Act shall come into operation on .",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96,
+      633,
+      357,
+      18
+    ],
+    "text": "such date (hereinafter referred to as the appointed",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      94,
+      649,
+      401,
+      16
+    ],
+    "text": "date) as may be appointed by the Minister by -",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96,
+      664,
+      220,
+      17
+    ],
+    "text": "Orderpublished in the Gazette.",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      223,
+      693,
+      199,
+      15
+    ],
+    "text": "_ PartIo * :",
+    "mean_p_confidence": 0.08
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115,
+      712,
+      420,
+      16
+    ],
+    "text": "Estublishment of the Insurance Corporation .",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      230,
+      728,
+      137,
+      16
+    ],
+    "text": "of Ceylon :",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      111,
+      747,
+      425,
+      17
+    ],
+    "text": "2, (1) There shall be established a'Corporation Betabisieacat",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      95,
+      760,
+      454,
+      25
+    ],
+    "text": "which shail be called the Insurance Corporation of Gaipecuisn at",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96,
+      772,
+      432,
+      25
+    ],
+    "text": "Ceylon {hereafter referred to as the Corpora. Soin",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96,
+      784,
+      356,
+      27
+    ],
+    "text": "tion}. \"The Corporation. shall consist of five",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96,
+      811,
+      356,
+      16
+    ],
+    "text": "members appointed by the Minister, one of whom",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96,
+      815,
+      349,
+      28
+    ],
+    "text": "shall be designated Chairman of the Corporation.",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      836,
+      311,
+      25
+    ],
+    "text": "19. B40819.354 8/005 *",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83,
+      30,
+      446,
+      16
+    ],
+    "text": "2 Insurance Corporation Act, No. 2 of 1961",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      225,
+      57,
+      337,
+      17
+    ],
+    "text": "(2A person, shail be disqualified for being",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      199,
+      64,
+      363,
+      41
+    ],
+    "text": "~ appointed or being a member of the Corporation",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      206,
+      89,
+      319,
+      13
+    ],
+    "text": "if he is a Senator or a Member of Parliament,",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      223,
+      116,
+      339,
+      16
+    ],
+    "text": "@) A member of the Corporation who is in any",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      207,
+      131,
+      355,
+      16
+    ],
+    "text": "way directly or indirectly interested ina contract",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      207,
+      147,
+      355,
+      16
+    ],
+    "text": "made or proposed to be made by the Corporation",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      204,
+      147,
+      358,
+      37
+    ],
+    "text": "shalt disclose the nature of his interests at a meeting",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      209,
+      178,
+      353,
+      16
+    ],
+    "text": "of the Corporation and such disclosure shal] be",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      208,
+      193,
+      354,
+      15
+    ],
+    "text": "recorded in the minutes of the Corporation and the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      209,
+      206,
+      353,
+      34
+    ],
+    "text": "member shall not take part in any deliberation or",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      208,
+      224,
+      355,
+      16
+    ],
+    "text": "decision of the Corporation with respect to that",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      208,
+      243,
+      60,
+      10
+    ],
+    "text": "contract.",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      224,
+      263,
+      338,
+      16
+    ],
+    "text": "(4) Every member of the Corporation shall,",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      208,
+      279,
+      354,
+      28
+    ],
+    "text": "subject to the provisions of sub-sections (5) and",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      208,
+      295,
+      355,
+      16
+    ],
+    "text": "(6), hold office for a period of five years from the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      208,
+      311,
+      169,
+      15
+    ],
+    "text": "date of his appointment.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      225,
+      324,
+      339,
+      41
+    ],
+    "text": "(5) A member of the Corporation may resign",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      209,
+      350,
+      354,
+      15
+    ],
+    "text": "from the Corporation by letter addressed to the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      209,
+      366,
+      61,
+      12
+    ],
+    "text": "Minister.",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      225,
+      389,
+      338,
+      15
+    ],
+    "text": "( Any member of the Corporation may be",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      209,
+      404,
+      354,
+      16
+    ],
+    "text": "removed from office by the Minister if such member",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      209,
+      420,
+      354,
+      16
+    ],
+    "text": "is absent from the meetings of the Corporation",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      209,
+      436,
+      364,
+      16
+    ],
+    "text": "for a period exceeding three months for any cause _",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      208,
+      452,
+      355,
+      18
+    ],
+    "text": "which does not appear to the Minister to be reason-",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      209,
+      467,
+      354,
+      16
+    ],
+    "text": "able, or if the Minister considers that it is expedient",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      209,
+      483,
+      231,
+      15
+    ],
+    "text": "to remove such person from office.",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      225,
+      506,
+      338,
+      17
+    ],
+    "text": "(D Where any member of the Corporation",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      210,
+      523,
+      353,
+      16
+    ],
+    "text": "resigns of is removed from office or dies, the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      210,
+      540,
+      353,
+      16
+    ],
+    "text": "Minister may appoint another person to be a",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      210,
+      557,
+      353,
+      16
+    ],
+    "text": "member in place of the member who resigns or is",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      210,
+      574,
+      353,
+      16
+    ],
+    "text": "removed from office or dies, and the person so",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      210,
+      590,
+      353,
+      17
+    ],
+    "text": "appointed shall hold office during the unexpired",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      210,
+      607,
+      353,
+      16
+    ],
+    "text": "period of the term of office of the member last-",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      207,
+      615,
+      271,
+      30
+    ],
+    "text": "mentioned, .",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      213,
+      648,
+      351,
+      16
+    ],
+    "text": "- (8} Where any member of the Corporation",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      211,
+      664,
+      353,
+      17
+    ],
+    "text": "becomes, by reason of illness or other infirmity or",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      211,
+      681,
+      353,
+      17
+    ],
+    "text": "absence from Ceylon, temporarily unable to",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      211,
+      698,
+      362,
+      16
+    ],
+    "text": "perform the duties of his office, the Minister may ~",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      211,
+      715,
+      353,
+      17
+    ],
+    "text": "appoint another person to act in the place of such",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      211,
+      732,
+      59,
+      12
+    ],
+    "text": "member.",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      227,
+      755,
+      336,
+      20
+    ],
+    "text": "(9) Alll or any of the members of the Corporation",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      211,
+      772,
+      354,
+      16
+    ],
+    "text": "may be paid such remuneration from the Fund of",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      211,
+      788,
+      352,
+      20
+    ],
+    "text": "the Corporation as may be determined by the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      212,
+      805,
+      352,
+      20
+    ],
+    "text": "Minister withthe concurrence of the Minister of",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      207,
+      823,
+      61,
+      15
+    ],
+    "text": "Finance,",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      133,
+      34,
+      409,
+      17
+    ],
+    "text": "Insurance Corporation Aet, No. 2 of 1961 3",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      87,
+      63,
+      360,
+      16
+    ],
+    "text": "+ (10) No act or proceeding of the Corporation",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      87,
+      78,
+      414,
+      17
+    ],
+    "text": "shalt be invalid by reason only of the existence of = -",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      87,
+      95,
+      360,
+      28
+    ],
+    "text": "any vacancy among its members or any defect in",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      87,
+      110,
+      274,
+      17
+    ],
+    "text": "the appointment of a member thereof.",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      104,
+      134,
+      344,
+      16
+    ],
+    "text": "(11) The quorum for any mecting of the",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      87,
+      150,
+      361,
+      18
+    ],
+    "text": "Corporation shall be three members of the",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      87,
+      165,
+      361,
+      17
+    ],
+    "text": "Corporation, and, subject as aforessid, the",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      87,
+      181,
+      322,
+      17
+    ],
+    "text": "Corporation may regulate its own procedure.",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      103,
+      213,
+      419,
+      23
+    ],
+    "text": "3, The Corporation shall, by the name given cororaion",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      87,
+      227,
+      456,
+      21
+    ],
+    "text": "to it by section 2, be a body corporate and shall 12,0,8 boty",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      87,
+      244,
+      362,
+      17
+    ],
+    "text": "have perpetual succession and a common seal",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      87,
+      261,
+      281,
+      16
+    ],
+    "text": "and may sue and be sued in such name.",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      104,
+      291,
+      418,
+      17
+    ],
+    "text": "4, (1) The seat of the Corporation shall be in saul of ate",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      88,
+      305,
+      439,
+      19
+    ],
+    "text": "the custody of such person as the Corporation Portion.",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      88,
+      324,
+      241,
+      16
+    ],
+    "text": "may from time to time determine,",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89,
+      348,
+      360,
+      18
+    ],
+    "text": "__ Q) The seal of the Corporation may be altered",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      88,
+      364,
+      361,
+      16
+    ],
+    "text": "in such manner as may be determined by the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      84,
+      371,
+      466,
+      31
+    ],
+    "text": "Corporation, .",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      104,
+      403,
+      345,
+      17
+    ],
+    "text": "(3) The seal of the Corporation shall not be",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      88,
+      419,
+      362,
+      17
+    ],
+    "text": "affixed to any document except by the authority of",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      88,
+      435,
+      360,
+      17
+    ],
+    "text": "the Corporation and in the presence of two",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      88,
+      451,
+      361,
+      16
+    ],
+    "text": "members of the Corporation who shall sign the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      88,
+      467,
+      258,
+      17
+    ],
+    "text": "document in token of their presence.",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      104,
+      499,
+      442,
+      16
+    ],
+    "text": "5, The Corporation shall carry on insurance Functions ofthe",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89,
+      512,
+      439,
+      20
+    ],
+    "text": "business of every description in Ceylon or outside orPemttion.",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      88,
+      531,
+      291,
+      16
+    ],
+    "text": "Ceylon, inctuding :",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      120,
+      555,
+      211,
+      16
+    ],
+    "text": "(1) the business of insuring",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      168,
+      575,
+      283,
+      17
+    ],
+    "text": "@ any property of the Crown or of",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      216,
+      591,
+      235,
+      17
+    ],
+    "text": "any corporation the entirety of",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      159,
+      607,
+      290,
+      16
+    ],
+    "text": ". whose capital is provided by",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      216,
+      624,
+      233,
+      16
+    ],
+    "text": "the Government, or any property",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      216,
+      640,
+      233,
+      16
+    ],
+    "text": "held in trust by any public",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      216,
+      655,
+      232,
+      17
+    ],
+    "text": "officer in his official capacity,",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      216,
+      672,
+      233,
+      16
+    ],
+    "text": "against the loss of, or any damage",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      216,
+      688,
+      233,
+      16
+    ],
+    "text": "to, such property caused by fire,",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      216,
+      703,
+      233,
+      17
+    ],
+    "text": "accident, theft, flood or any",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      215,
+      720,
+      233,
+      16
+    ],
+    "text": "malicious act or any other cause ;",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      215,
+      739,
+      16,
+      9
+    ],
+    "text": "or",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      167,
+      759,
+      316,
+      17
+    ],
+    "text": "( the Head of any Government",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      215,
+      776,
+      233,
+      16
+    ],
+    "text": "Department, or any. such",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      215,
+      792,
+      194,
+      16
+    ],
+    "text": "corporation as aforesaid,",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      219,
+      812,
+      228,
+      28
+    ],
+    "text": "@ against. any, loss caused to",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      262,
+      828,
+      185,
+      15
+    ],
+    "text": "such - Head - in - his",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      263,
+      844,
+      183,
+      19
+    ],
+    "text": "official capacity or to",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      74,
+      38,
+      440,
+      21
+    ],
+    "text": "4 toy dasurance Corporation Act, No. 2 of 1961",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      166,
+      66,
+      396,
+      18
+    ],
+    "text": ". such corporation by the",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      109,
+      70,
+      453,
+      29
+    ],
+    "text": "- default or fraud of any",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      257,
+      97,
+      305,
+      16
+    ],
+    "text": ". employee of the Crown",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      378,
+      113,
+      184,
+      16
+    ],
+    "text": "in such Department or",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      378,
+      128,
+      184,
+      17
+    ],
+    "text": "any employee of such",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      246,
+      145,
+      315,
+      15
+    ],
+    "text": ". Corporation or any person",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      378,
+      159,
+      184,
+      17
+    ],
+    "text": "transacting any business",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      261,
+      175,
+      302,
+      16
+    ],
+    "text": "or performing any work",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      378,
+      190,
+      185,
+      14
+    ],
+    "text": "for such Head in his",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      379,
+      206,
+      200,
+      16
+    ],
+    "text": "official capacity or, for -",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      79,
+      223,
+      460,
+      15
+    ],
+    "text": ". such corporation ; or",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      141,
+      253,
+      422,
+      17
+    ],
+    "text": "(i) in respect of any liability",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      379,
+      269,
+      184,
+      16
+    ],
+    "text": "which may be incurred",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      248,
+      285,
+      315,
+      18
+    ],
+    "text": "by the Crown or such",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      380,
+      301,
+      183,
+      15
+    ],
+    "text": "corporation in conse=",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      365,
+      316,
+      198,
+      16
+    ],
+    "text": "+ quence of the death",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      381,
+      332,
+      183,
+      16
+    ],
+    "text": "of, or any bodily injucy",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      216,
+      347,
+      348,
+      17
+    ],
+    "text": ". to, any employee of the",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      91,
+      363,
+      473,
+      16
+    ],
+    "text": "7 , Crown in such Depart-",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      77,
+      378,
+      489,
+      18
+    ],
+    "text": ". ment or any employee of",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      256,
+      395,
+      308,
+      18
+    ],
+    "text": ". the corporation, or any",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      381,
+      410,
+      183,
+      16
+    ],
+    "text": "other person, or ia",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      381,
+      426,
+      183,
+      16
+    ],
+    "text": "consequence of the loss",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      382,
+      442,
+      196,
+      16
+    ],
+    "text": "of, or any damage to, -",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      382,
+      457,
+      183,
+      16
+    ],
+    "text": "any property in the",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      282,
+      473,
+      283,
+      16
+    ],
+    "text": ". custody of any employee",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      383,
+      488,
+      181,
+      14
+    ],
+    "text": "of the Crown in such",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      383,
+      504,
+      182,
+      16
+    ],
+    "text": "Department in his official",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      383,
+      520,
+      182,
+      16
+    ],
+    "text": "capacity or in the custody",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      383,
+      536,
+      168,
+      16
+    ],
+    "text": "of such corporation ; or",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      80,
+      557,
+      486,
+      39
+    ],
+    "text": ". the. Secretary to the Treasury, or",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      181,
+      580,
+      384,
+      15
+    ],
+    "text": ": the Head of any Government",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      336,
+      595,
+      230,
+      16
+    ],
+    "text": "Department, on behalf of the",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      337,
+      611,
+      229,
+      16
+    ],
+    "text": "Government against. any loss",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      184,
+      615,
+      381,
+      27
+    ],
+    "text": ". which may be incurred by the",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      337,
+      642,
+      229,
+      14
+    ],
+    "text": "Government as a result of the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      337,
+      658,
+      230,
+      16
+    ],
+    "text": "failure of any public servant",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      337,
+      674,
+      230,
+      16
+    ],
+    "text": "employed in that Department",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      186,
+      690,
+      381,
+      16
+    ],
+    "text": ": to repay the whole or any part",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      187,
+      706,
+      379,
+      15
+    ],
+    "text": ": of any sum of money lent to",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      339,
+      722,
+      228,
+      15
+    ],
+    "text": "him by the Government ; or",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      292,
+      749,
+      275,
+      16
+    ],
+    "text": "(d) the Secretary to the Treasury, or",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      339,
+      765,
+      228,
+      15
+    ],
+    "text": "the Director of Education, on",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      339,
+      781,
+      228,
+      15
+    ],
+    "text": "behalf of the Government against",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      340,
+      795,
+      227,
+      18
+    ],
+    "text": "any loss which may be incurred",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      339,
+      811,
+      230,
+      17
+    ],
+    "text": "by the Government as a result of",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      304,
+      828,
+      263,
+      16
+    ],
+    "text": "_ + the failure of any teacher in any",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      118,
+      29,
+      426,
+      17
+    ],
+    "text": "Insurance Corporation Act, No. 2 of 1961 8",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      218,
+      57,
+      250,
+      13
+    ],
+    "text": "Assisted School to the -",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      218,
+      61,
+      347,
+      27
+    ],
+    "text": "whole or any part of any. sum :",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      218,
+      88,
+      246,
+      16
+    ],
+    "text": "of money lent to. him by the .",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      218,
+      105,
+      349,
+      14
+    ],
+    "text": "Government ; or .",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      171,
+      127,
+      279,
+      17
+    ],
+    "text": "any employee of any such corpora",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      219,
+      142,
+      357,
+      16
+    ],
+    "text": "tion as aforesaid in respect of .",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      219,
+      153,
+      232,
+      36
+    ],
+    "text": "third party risks in conformity",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      219,
+      163,
+      225,
+      27
+    ],
+    "text": "with the requirements of Part V",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      220,
+      189,
+      231,
+      15
+    ],
+    "text": "of the Motor Traffic Act, No. 14",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      220,
+      206,
+      82,
+      15
+    ],
+    "text": "of 1951 ; or",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      144,
+      229,
+      308,
+      18
+    ],
+    "text": "- (f) the Head of any: Department in",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      221,
+      245,
+      231,
+      17
+    ],
+    "text": "respect. of any risks arising out",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      221,
+      249,
+      323,
+      40
+    ],
+    "text": "oiany work undertaken by :",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      220,
+      277,
+      232,
+      15
+    ],
+    "text": "contractor in pursuance a",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      221,
+      292,
+      231,
+      14
+    ],
+    "text": "contract entered into between the",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      221,
+      307,
+      231,
+      17
+    ],
+    "text": "Head of the Department and",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115,
+      324,
+      372,
+      16
+    ],
+    "text": ": such contractor ; and .",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      125,
+      351,
+      328,
+      17
+    ],
+    "text": "(2) such other business of insurance as may be",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      173,
+      367,
+      280,
+      16
+    ],
+    "text": "authorised by a resolution of the House",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      174,
+      383,
+      132,
+      16
+    ],
+    "text": "of Representatives.",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      110,
+      425,
+      439,
+      17
+    ],
+    "text": "6. The Corporation may exercise all or any of Power of the",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      94,
+      427,
+      437,
+      37
+    ],
+    "text": "the following. powers i Corporati,",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      127,
+      465,
+      326,
+      17
+    ],
+    "text": "(@ to acquire, hold and dispose of any movable",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      175,
+      482,
+      171,
+      16
+    ],
+    "text": "or immovable property ;",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      127,
+      505,
+      326,
+      18
+    ],
+    "text": "@ to reinsure with any insurer any Liability",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      175,
+      522,
+      278,
+      16
+    ],
+    "text": "arising out of any policy of insurance",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      174,
+      538,
+      192,
+      16
+    ],
+    "text": "issued by the Corporation ;",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      127,
+      554,
+      327,
+      40
+    ],
+    "text": "( to accept reinsurance of any liability",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      171,
+      571,
+      283,
+      40
+    ],
+    "text": "arising out of any policy of insurance",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      137,
+      594,
+      317,
+      16
+    ],
+    "text": "+ issued by any other insurer carrying on",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      175,
+      609,
+      279,
+      16
+    ],
+    "text": "ingurance business of any kind that is",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      117,
+      625,
+      273,
+      17
+    ],
+    "text": ". carried on by the Corporation ;",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      128,
+      650,
+      327,
+      16
+    ],
+    "text": "@ to transact such other business as may seem,",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      176,
+      666,
+      280,
+      16
+    ],
+    "text": "to the Corporation to be capable of",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      176,
+      682,
+      278,
+      19
+    ],
+    "text": "being conveniently carried on in con-",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      176,
+      698,
+      278,
+      13
+    ],
+    "text": "nection with the insurance business",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      175,
+      714,
+      280,
+      15
+    ],
+    "text": "carried on by the Corporation and to be",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      154,
+      729,
+      300,
+      16
+    ],
+    "text": "+ conducive, directly or indirectly, to",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      176,
+      745,
+      278,
+      17
+    ],
+    "text": "render profitable the latter business ;",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      129,
+      770,
+      326,
+      16
+    ],
+    "text": "( to invest the moneys of the Corporation in",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      177,
+      786,
+      278,
+      16
+    ],
+    "text": "such manner as may be determined by",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      177,
+      802,
+      279,
+      16
+    ],
+    "text": "the Corporation with the approval of",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      162,
+      818,
+      293,
+      16
+    ],
+    "text": "+ the Minister given with the concurrence",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      177,
+      832,
+      399,
+      15
+    ],
+    "text": "of the Minister of Finance and to take '",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      80,
+      24,
+      440,
+      16
+    ],
+    "text": "6 Insurance Corporation Act, No. 2. of 1961",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      283,
+      52,
+      285,
+      16
+    ],
+    "text": "all such steps as may be necessary or",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      283,
+      68,
+      284,
+      16
+    ],
+    "text": "expedient for the protection or realisa-",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      189,
+      83,
+      378,
+      16
+    ],
+    "text": ": tion of any investment including the",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      283,
+      98,
+      283,
+      17
+    ],
+    "text": "management of any property offered as",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      284,
+      115,
+      192,
+      18
+    ],
+    "text": "security for an investment ;",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      235,
+      133,
+      334,
+      18
+    ],
+    "text": "() to advance or lend money to holders of",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      283,
+      150,
+      283,
+      17
+    ],
+    "text": "policies of insurance on the security",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      284,
+      166,
+      118,
+      16
+    ],
+    "text": "of such policies ;",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      217,
+      186,
+      359,
+      17
+    ],
+    "text": "+ () to transfer the whole or any part of the",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      284,
+      202,
+      295,
+      13
+    ],
+    "text": "business of life insurance carried om ~",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      188,
+      217,
+      378,
+      18
+    ],
+    "text": ": outside Ceylon to any other person if in",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      284,
+      233,
+      282,
+      16
+    ],
+    "text": "the interests of the Corporation it is",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      284,
+      249,
+      134,
+      16
+    ],
+    "text": "expedient so todo ;",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      237,
+      269,
+      329,
+      19
+    ],
+    "text": "@) to borrow money for the purposes of the",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      285,
+      285,
+      281,
+      16
+    ],
+    "text": "Corporation in such manner and upon",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      285,
+      301,
+      280,
+      15
+    ],
+    "text": "such security as the Corporation may,",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      285,
+      305,
+      281,
+      27
+    ],
+    "text": "with the approval of the Minister given,",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      285,
+      331,
+      283,
+      14
+    ],
+    "text": "with the concurrence of the Minister of",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      286,
+      348,
+      143,
+      15
+    ],
+    "text": "Finance, determine ;",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      239,
+      368,
+      327,
+      17
+    ],
+    "text": "(A) to delegate, subject to the general or special",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      286,
+      374,
+      280,
+      27
+    ],
+    "text": "direction of the Corporation, to any",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      286,
+      400,
+      279,
+      16
+    ],
+    "text": "member or officer of the Corporation",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      85,
+      417,
+      480,
+      17
+    ],
+    "text": ". any such function of the Corporation as",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      127,
+      424,
+      438,
+      41
+    ],
+    "text": ": the Corporation may consider necessary",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      287,
+      448,
+      279,
+      15
+    ],
+    "text": "80 to delegate for the efficient trans-",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      169,
+      464,
+      291,
+      15
+    ],
+    "text": ". action of business;",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      239,
+      484,
+      326,
+      18
+    ],
+    "text": "(J) to establish and maintain a provident fund",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      287,
+      501,
+      279,
+      16
+    ],
+    "text": "for persons employed by the Cor-",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      287,
+      517,
+      278,
+      16
+    ],
+    "text": "poration and to make contributions",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      288,
+      533,
+      96,
+      15
+    ],
+    "text": "to such fund ;",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      241,
+      554,
+      325,
+      16
+    ],
+    "text": "(6 to enter into and perform all such con-",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      289,
+      570,
+      277,
+      16
+    ],
+    "text": "tracts as may be necessary for the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      288,
+      574,
+      277,
+      27
+    ],
+    "text": "exercise of he general functions and",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      289,
+      602,
+      229,
+      15
+    ],
+    "text": "powers of the Corporation ; and",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      243,
+      623,
+      323,
+      17
+    ],
+    "text": "@ to do all other things, which in the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      60,
+      639,
+      505,
+      16
+    ],
+    "text": ": opinion of the Corporation are",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      289,
+      655,
+      276,
+      16
+    ],
+    "text": "necessary, to facilitate the proper",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      289,
+      670,
+      199,
+      17
+    ],
+    "text": "carrying on of its business,",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115,
+      694,
+      450,
+      31
+    ],
+    "text": "intent 7. (1) The Corporation shall, subject to the",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      94,
+      703,
+      470,
+      44
+    ],
+    "text": "Sone poisons of sub-section (3), have The ower 19",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      95,
+      732,
+      470,
+      18
+    ],
+    "text": "pany appoint such officers and servants as may be",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      91,
+      737,
+      474,
+      32
+    ],
+    "text": "Sepoton. necessary for the purposes of the Corporation",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      213,
+      765,
+      352,
+      16
+    ],
+    "text": "and to exercise disciplinary control. over and",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      214,
+      781,
+      350,
+      17
+    ],
+    "text": "dismiss any officer or servant of the Corporation :",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      229,
+      804,
+      336,
+      17
+    ],
+    "text": "Provided that the Corporation shall not, without",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      214,
+      820,
+      350,
+      18
+    ],
+    "text": "the approval of the Minister, dismiss any such",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      128,
+      34,
+      415,
+      19
+    ],
+    "text": "Insurance Corporation Act, No. 2 of 1961 7",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      89,
+      63,
+      431,
+      17
+    ],
+    "text": "officer or servant of the Corporation as is appoint- .",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      88,
+      79,
+      360,
+      18
+    ],
+    "text": "ed to the staff of the Corporation in accordance",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      89,
+      95,
+      351,
+      18
+    ],
+    "text": "with the provisions of sub-section (5). .",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      105,
+      114,
+      345,
+      36
+    ],
+    "text": "(2) The officers and servants of the Corporation",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      89,
+      134,
+      359,
+      16
+    ],
+    "text": "shall be remunerated at such rates as the Corpora-",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      89,
+      151,
+      393,
+      16
+    ],
+    "text": "tion may determine. : .",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      105,
+      173,
+      343,
+      17
+    ],
+    "text": "3) In the appointment of officers and servants,",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      89,
+      189,
+      359,
+      17
+    ],
+    "text": "preference shall be given by the Corporation to",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      89,
+      205,
+      360,
+      17
+    ],
+    "text": "persons who have been employed under insurers",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90,
+      220,
+      360,
+      19
+    ],
+    "text": "and who have lost their employment by season of",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      89,
+      236,
+      429,
+      17
+    ],
+    "text": "retrenchment effected by the insurers in consequence: .",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90,
+      252,
+      359,
+      17
+    ],
+    "text": "of their not being able to transact any new business",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90,
+      269,
+      114,
+      13
+    ],
+    "text": "of life insurance,",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      106,
+      291,
+      342,
+      28
+    ],
+    "text": "(4) The Corporation may appoint any person,",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90,
+      307,
+      358,
+      17
+    ],
+    "text": "who has been employed in the capacity of agent ot",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90,
+      322,
+      358,
+      17
+    ],
+    "text": "canvasser under any insurer carrying on the busicess",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90,
+      338,
+      358,
+      17
+    ],
+    "text": "Of life insurance, as an agent of the Corporation",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90,
+      354,
+      358,
+      17
+    ],
+    "text": "for the purpose of procuring new life insurance",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      91,
+      370,
+      357,
+      16
+    ],
+    "text": "business and for servicing such business. Every",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      91,
+      386,
+      357,
+      17
+    ],
+    "text": "person so appointed by the Corporation shall be",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90,
+      401,
+      358,
+      17
+    ],
+    "text": "entitled only to commission at such rates as the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      91,
+      418,
+      197,
+      16
+    ],
+    "text": "Corporation may determine,",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      113,
+      441,
+      336,
+      16
+    ],
+    "text": "5) At the request of the Corporation any",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      91,
+      438,
+      358,
+      41
+    ],
+    "text": "offeer in the public service may, with the consent",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      91,
+      473,
+      357,
+      15
+    ],
+    "text": "of that officer and of the Secretary to the Treasury,",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      91,
+      484,
+      428,
+      38
+    ],
+    "text": "be temporarily appointed to the staff of the .",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      91,
+      504,
+      357,
+      17
+    ],
+    "text": "Corporation for such period as may be determined",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      91,
+      520,
+      422,
+      17
+    ],
+    "text": "by the Corporation with like consent, or be .",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      91,
+      536,
+      312,
+      17
+    ],
+    "text": "permanently employed in such staff,\" -",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108,
+      559,
+      341,
+      17
+    ],
+    "text": "( Where any officer in the public service is",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      91,
+      575,
+      358,
+      17
+    ],
+    "text": "temporarily appointed to the staff of the",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      92,
+      591,
+      357,
+      17
+    ],
+    "text": "Corporation, sub-section (2) of section 26 of the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      92,
+      607,
+      356,
+      17
+    ],
+    "text": "Government-Sponsored Corporations Act, No. 19",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      92,
+      622,
+      357,
+      19
+    ],
+    "text": "of 1955, shall mutatis mutandis apply to and in",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      92,
+      639,
+      109,
+      13
+    ],
+    "text": "Telation to him.",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108,
+      652,
+      341,
+      44
+    ],
+    "text": "(1) Where any officer in the be pubis service is",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      92,
+      679,
+      357,
+      17
+    ],
+    "text": "permanently appointed to the staff of the Corpora-",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      92,
+      695,
+      357,
+      16
+    ],
+    "text": "Won, sub-section (3) of section 26 of the Govern-",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      92,
+      710,
+      358,
+      17
+    ],
+    "text": "ment-Sponsored Corporations Act, No. 19 of",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      95,
+      725,
+      354,
+      18
+    ],
+    "text": "1955, shall mutatis mutandis apply to and in relation",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      93,
+      741,
+      49,
+      14
+    ],
+    "text": "to him.",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      109,
+      771,
+      403,
+      19
+    ],
+    "text": "& In the exercise of its powers and the yniaes",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      92,
+      783,
+      419,
+      36
+    ],
+    "text": "Performance of its duties under this Act, the crestioa",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      105,
+      804,
+      423,
+      17
+    ],
+    "text": "orporation shail be subject to and act in Comorsion,",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      93,
+      820,
+      356,
+      19
+    ],
+    "text": "accordance with such general or special directions",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      92,
+      836,
+      309,
+      17
+    ],
+    "text": "ag the Minister may issue from time to time.",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      73,
+      26,
+      475,
+      32
+    ],
+    "text": "8g : Insurance Corporation Act, No. 2 of 1961",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      73,
+      52,
+      489,
+      34
+    ],
+    "text": "Teanaer to 9. With effect from the appointed date, all the",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      74,
+      70,
+      488,
+      37
+    ],
+    "text": "SSrportion assets, liabilities and contracts of the Co-operative",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      78,
+      95,
+      484,
+      20
+    ],
+    "text": "isbn. - Insurance Department shall be transferred to the",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      78,
+      114,
+      397,
+      22
+    ],
+    "text": "aad spores Corporation and upon such transfer",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      80,
+      136,
+      69,
+      9
+    ],
+    "text": "he formance",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      76,
+      134,
+      486,
+      34
+    ],
+    "text": "Bepartnent . @) such assets shall vest in and be deemed",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      169,
+      163,
+      366,
+      16
+    ],
+    "text": ": to be the assets of the Corporation ;",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      235,
+      189,
+      328,
+      18
+    ],
+    "text": "() such liabilities shall be deemed to be the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      283,
+      208,
+      293,
+      17
+    ],
+    "text": "liabilities of the Corporation ; and 4",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      236,
+      235,
+      327,
+      17
+    ],
+    "text": "() such contracts shall be deemed to be the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      284,
+      253,
+      279,
+      17
+    ],
+    "text": "contracts of the Corporation and all",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      198,
+      272,
+      365,
+      16
+    ],
+    "text": ". subsisting rights and obligations of the",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      284,
+      291,
+      279,
+      16
+    ],
+    "text": "Co-operative Insurance Department",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      284,
+      308,
+      279,
+      14
+    ],
+    "text": "under such contracts shall be deemed",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      285,
+      327,
+      278,
+      16
+    ],
+    "text": "to be the rights and obligations of the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      214,
+      346,
+      161,
+      16
+    ],
+    "text": ": Corporation.",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      88,
+      403,
+      348,
+      21
+    ],
+    "text": ": Pati",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      93,
+      435,
+      480,
+      21
+    ],
+    "text": ". . Provision relating to Insurance Business carried -",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      240,
+      460,
+      291,
+      16
+    ],
+    "text": "on by Insurers other than the Corporation",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      85,
+      482,
+      480,
+      34
+    ],
+    "text": "Serporagen to 10. (1) On and after the appointed date,",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      86,
+      500,
+      447,
+      28
+    ],
+    "text": "Fase notwithstanding anything in any other law,",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      90,
+      525,
+      76,
+      8
+    ],
+    "text": "ool to ranece",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      86,
+      525,
+      480,
+      33
+    ],
+    "text": "if esuranco @ the Corporation shall be the sole insurer",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      86,
+      543,
+      482,
+      36
+    ],
+    "text": "Coos at authorised to transact new business of",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      73,
+      566,
+      486,
+      18
+    ],
+    "text": "mee ife insurance, and to issue policies o:",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      91,
+      577,
+      399,
+      23
+    ],
+    "text": "append da, life insurance, in Ceylon, and",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      241,
+      609,
+      325,
+      16
+    ],
+    "text": "( no other insurer shall transact any new",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      208,
+      625,
+      358,
+      15
+    ],
+    "text": ". business of life insurance, or issue any",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      171,
+      640,
+      394,
+      20
+    ],
+    "text": ". new policy of life insurance, in Ceylon.",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      74,
+      671,
+      493,
+      17
+    ],
+    "text": ": - _Q) Every policy of life insurance issued on and",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      212,
+      688,
+      356,
+      16
+    ],
+    "text": "after the appointed date by any insurer other than",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      212,
+      692,
+      355,
+      27
+    ],
+    "text": "the Corporation shall be deemed to be invalid and",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      212,
+      720,
+      329,
+      15
+    ],
+    "text": "accordingly shall be of no force or effect in law.",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      228,
+      751,
+      340,
+      19
+    ],
+    "text": "(3) No insuser shall be entitled to'compensation",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      169,
+      766,
+      400,
+      19
+    ],
+    "text": ". for any lose incurred by him, whether directly or",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      213,
+      782,
+      356,
+      16
+    ],
+    "text": "indirectly, by reason of the fact that he is unable",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      214,
+      799,
+      355,
+      17
+    ],
+    "text": "to transact any new business of life insurance or",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      214,
+      815,
+      355,
+      15
+    ],
+    "text": "to issue any new policy of life insurance by virtue",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      215,
+      830,
+      299,
+      17
+    ],
+    "text": "of paragraph (6) of sub-section (1). :",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      127,
+      36,
+      410,
+      18
+    ],
+    "text": "Insurance Corporation Act, No. 2 of 1961 9",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      104,
+      65,
+      394,
+      29
+    ],
+    "text": "11, (1) Subject to the provisions of subseeton Bey",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      87,
+      78,
+      433,
+      20
+    ],
+    "text": "(3), it shall be the duty of every insurer who is. sos tt",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      87,
+      96,
+      441,
+      17
+    ],
+    "text": "carrying on the business of life insurance and who gr usines of",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      87,
+      109,
+      443,
+      32
+    ],
+    "text": "has iseued. any policies of life, insurance, under He erapee",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      88,
+      127,
+      422,
+      17
+    ],
+    "text": "which liabilities have not been discharged by him tued any",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      87,
+      140,
+      450,
+      20
+    ],
+    "text": "on the appointed date to have in Ceylon assets of pales ot,",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      88,
+      158,
+      453,
+      16
+    ],
+    "text": "such value as will be sufficient to discharge the hich invite",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      88,
+      171,
+      441,
+      21
+    ],
+    "text": "liabilities under such policies valued in the Twicethen",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90,
+      192,
+      438,
+      15
+    ],
+    "text": "prescribed manner. = - ite appoined",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      465,
+      202,
+      58,
+      9
+    ],
+    "text": "duets have",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      79,
+      212,
+      461,
+      21
+    ],
+    "text": ". (2) At least half of the assets which an insurer Sty! Cevlon",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      69,
+      231,
+      464,
+      18
+    ],
+    "text": "+ \"is required to have in Ceylon for the purposes of Gacharge such",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      89,
+      244,
+      420,
+      21
+    ],
+    "text": "sub-section (1) shall consist of investments in bie",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      89,
+      263,
+      361,
+      16
+    ],
+    "text": "securities of the Government of Ceylon and the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      89,
+      278,
+      360,
+      15
+    ],
+    "text": "remainder of such assets shall be of such kind as",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      89,
+      294,
+      414,
+      17
+    ],
+    "text": "are notified to, and approved in writing by, the .",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      89,
+      311,
+      90,
+      16
+    ],
+    "text": "Corporation.",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      106,
+      336,
+      344,
+      29
+    ],
+    "text": "(3) An insurer shall comply with the provisions",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90,
+      352,
+      360,
+      17
+    ],
+    "text": "of sub-section (1) before the expiry of a period",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90,
+      368,
+      269,
+      17
+    ],
+    "text": "of five years after the appointed date :",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      107,
+      399,
+      343,
+      16
+    ],
+    "text": "Provided that he shall at the end of one year",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      91,
+      415,
+      359,
+      29
+    ],
+    "text": "after the appointed date have: in Ceylon not less",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      91,
+      431,
+      359,
+      16
+    ],
+    "text": "than one-fifth of the assets required for the purposes",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      91,
+      447,
+      382,
+      16
+    ],
+    "text": "of sub-section (I), and shall thereafter before the",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      91,
+      463,
+      359,
+      16
+    ],
+    "text": "end of each subsequent year increase such assets",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      91,
+      467,
+      359,
+      27
+    ],
+    "text": "by at least one-fifth nti the total value of such",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      92,
+      494,
+      359,
+      16
+    ],
+    "text": "assets is reached at the end of five years after the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      91,
+      511,
+      432,
+      15
+    ],
+    "text": "appointed date. ak",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      75,
+      546,
+      457,
+      16
+    ],
+    "text": "- * 12. Every insurer to whom section 11 applies Rewens to be",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      92,
+      559,
+      435,
+      23
+    ],
+    "text": "shall, not later than January 31 in each year, finesio",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      92,
+      580,
+      453,
+      22
+    ],
+    "text": "furnish to the Chairman of the Corporation a return wear segien 11",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      92,
+      594,
+      442,
+      27
+    ],
+    "text": "which shall be in the prescribed form, and which irate",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      93,
+      619,
+      358,
+      17
+    ],
+    "text": "shall be certified in the prescribed manner, of his",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      93,
+      638,
+      359,
+      16
+    ],
+    "text": "assets and liabilities in Ceylon om the last day of",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      93,
+      655,
+      358,
+      18
+    ],
+    "text": "December iri the previous year ; and shall thereafter",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      93,
+      674,
+      358,
+      14
+    ],
+    "text": "furnish similar returns to the Chairman of the",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      93,
+      692,
+      358,
+      18
+    ],
+    "text": "Corporation in respect of the assets held by him",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      93,
+      711,
+      356,
+      17
+    ],
+    "text": "in Ceylon on March 31, June 30, and September 30,",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      93,
+      730,
+      357,
+      17
+    ],
+    "text": "such returns being furnished not later than one",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      93,
+      748,
+      356,
+      17
+    ],
+    "text": "month after the expiry of each of the said dates :",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      110,
+      775,
+      340,
+      18
+    ],
+    "text": "Provided that the Chairman of the Corporation",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      94,
+      795,
+      356,
+      19
+    ],
+    "text": "aay, upon an application being made by any such",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      68,
+      814,
+      382,
+      17
+    ],
+    "text": "_ insurer, grant an extension of time not exceeding",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      69,
+      832,
+      291,
+      16
+    ],
+    "text": "| One month to furnish any such retirn.",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      81,
+      38,
+      447,
+      16
+    ],
+    "text": "10 Insurance Corporation: Act, No. 2 of 1961",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      81,
+      66,
+      486,
+      21
+    ],
+    "text": "Powe of Cai 13, The Chairman of the Corporation may cause",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      77,
+      70,
+      489,
+      34
+    ],
+    "text": "BED of tho such investigation as he may consider necessary to",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      81,
+      97,
+      485,
+      16
+    ],
+    "text": "tocuseiment- be made for the purpose of verifying the particulars",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      78,
+      101,
+      488,
+      34
+    ],
+    "text": "Bilong to be contained in any return furnished by an insurer",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      82,
+      128,
+      485,
+      15
+    ],
+    "text": "weuiving peri under section 12, and such insurer shal, upon being,",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      82,
+      142,
+      485,
+      20
+    ],
+    "text": "gissit stirs requested so to do by notice in writing by the",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      83,
+      148,
+      484,
+      33
+    ],
+    "text": "Eisen uadee Chairman, furnish before the date specified in the",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      78,
+      163,
+      489,
+      34
+    ],
+    "text": "sete 2 notice such information or explanations as the",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      207,
+      190,
+      317,
+      16
+    ],
+    "text": "Chairmian may require for such investigation.",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      85,
+      213,
+      482,
+      34
+    ],
+    "text": "Tosa 14, (1) Where any insurer who is carrying on",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      85,
+      239,
+      482,
+      19
+    ],
+    "text": "enon ife insurance business is of the opinion that, by",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      86,
+      255,
+      480,
+      24
+    ],
+    "text": "Stinwmy_~ reason of his inability to transact any new business",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      82,
+      261,
+      485,
+      34
+    ],
+    "text": "erate oth of life insurance on ot after the appointed date, itis",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      86,
+      286,
+      481,
+      29
+    ],
+    "text": "er beneficial to him to transfer suck business 0 the",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      115,
+      291,
+      453,
+      34
+    ],
+    "text": "Core. poration, he may make an application in writing",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      87,
+      306,
+      359,
+      29
+    ],
+    "text": "fea {a that behalf to the Corporation.",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      84,
+      329,
+      483,
+      39
+    ],
+    "text": "oti imi QU ication being made by any",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      100,
+      348,
+      458,
+      14
+    ],
+    "text": "i Ipon an application being made by am",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      88,
+      349,
+      479,
+      27
+    ],
+    "text": "feodtion afte er under sabeeection (Ij, the Corporation",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      89,
+      375,
+      479,
+      19
+    ],
+    "text": "Sains that shall cause an_ investigation into the financial",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      89,
+      391,
+      478,
+      14
+    ],
+    "text": "bance ore condition of such insurers life insurance business,",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      89,
+      406,
+      479,
+      19
+    ],
+    "text": "moniter. including a valuation of the assets and liabilities",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      90,
+      419,
+      478,
+      21
+    ],
+    "text": "Tables,\" appertaining to such business, to be made by an",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      210,
+      437,
+      358,
+      18
+    ],
+    "text": "actuary. The expenses of such investigation shall",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      210,
+      455,
+      195,
+      16
+    ],
+    "text": "be defrayed by such insurer.",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      225,
+      481,
+      343,
+      20
+    ],
+    "text": "The actuary shall, on completion of the investi-",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      210,
+      496,
+      358,
+      18
+    ],
+    "text": "gation, submit his report to the Corporation and.",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      122,
+      511,
+      448,
+      22
+    ],
+    "text": "i such report stall contain a detailed statement of",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      210,
+      527,
+      359,
+      17
+    ],
+    "text": "the assets and liabilities appertaining to the life",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      210,
+      544,
+      359,
+      16
+    ],
+    "text": "insurance business of the insurer together with @",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      211,
+      559,
+      358,
+      16
+    ],
+    "text": "statement whether the assets are more than, equal",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      211,
+      579,
+      205,
+      16
+    ],
+    "text": "to, or less than, the liabilities.",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      227,
+      612,
+      342,
+      17
+    ],
+    "text": "(3) If the xeport of the actuary reveals that",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      211,
+      628,
+      358,
+      17
+    ],
+    "text": "the assets appertaining to the life insurance business",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      212,
+      643,
+      357,
+      17
+    ],
+    "text": "of the insurer are more than, or equal to, the liabili-",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      114,
+      660,
+      455,
+      16
+    ],
+    "text": ". ties, then, the Corporation may direct the insurer",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      212,
+      674,
+      357,
+      18
+    ],
+    "text": "by notice in writing to transfer all the assets referred",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      212,
+      690,
+      366,
+      17
+    ],
+    "text": "to in the statement of the actuary and the policies .",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      212,
+      707,
+      357,
+      14
+    ],
+    "text": "of life insurance under which Liabilities have not",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      212,
+      722,
+      356,
+      19
+    ],
+    "text": "bbeen dlscharged on the date of such notice to the",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      213,
+      738,
+      356,
+      30
+    ],
+    "text": "Corporation, \"Upon suck transfer the Corporation",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      213,
+      754,
+      355,
+      16
+    ],
+    "text": "shall notify in'writing the holder of each such policy",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      213,
+      770,
+      355,
+      16
+    ],
+    "text": "that the rights and obligations of the insurer under",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      213,
+      786,
+      355,
+      17
+    ],
+    "text": "such policy have been transferred by the insurer",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      213,
+      802,
+      355,
+      16
+    ],
+    "text": "to the Corporation and such rights and obligations",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      214,
+      817,
+      354,
+      19
+    ],
+    "text": "shall be exercised and discharged by the Corporation",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      214,
+      834,
+      353,
+      16
+    ],
+    "text": "as if such policy had been issued by the Corporation.",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      122,
+      21,
+      421,
+      20
+    ],
+    "text": "Insurance Corporation Act, No. 2 of 1961 it",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      106,
+      52,
+      424,
+      17
+    ],
+    "text": "15, (1) Every insurer shall, notwithstanding Duy of wry",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      90,
+      66,
+      436,
+      19
+    ],
+    "text": "anything to the contrary in any agreement or in SPU",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      90,
+      84,
+      451,
+      21
+    ],
+    "text": "any instrument relating to his. functions, reinsure the Corpersion",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      90,
+      99,
+      439,
+      20
+    ],
+    "text": "with the Corporation a prescribed percentage of Pememags of",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      90,
+      115,
+      427,
+      17
+    ],
+    "text": "the liability under every contract of general fheiatsiiy",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      90,
+      129,
+      431,
+      19
+    ],
+    "text": "insurance entered into or renewed by himon and use cay",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      90,
+      147,
+      445,
+      21
+    ],
+    "text": "after the appointed date, and every such insurer imurancr |",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      90,
+      166,
+      449,
+      16
+    ],
+    "text": "shall be entitled to receive from the Corporation fenmeat by bin",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      90,
+      181,
+      439,
+      21
+    ],
+    "text": "a commission calculated at such rates as the goadamer,",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      90,
+      198,
+      398,
+      16
+    ],
+    "text": "Corporation may determine for such reinsurance, an",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      106,
+      221,
+      418,
+      29
+    ],
+    "text": "@ Every insurer shall from time to time furnish .",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      90,
+      237,
+      359,
+      16
+    ],
+    "text": "to the Corporation such returns as the Corporation.",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      90,
+      253,
+      358,
+      16
+    ],
+    "text": "may require in regard to the reinsurance business",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      91,
+      268,
+      357,
+      17
+    ],
+    "text": "done by such insurer with the. Corporation in",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      91,
+      284,
+      356,
+      17
+    ],
+    "text": "conformity with the provisions of sub-section (1).",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      107,
+      307,
+      448,
+      17
+    ],
+    "text": "(3) Every insurer shall settle the accounts in .",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      91,
+      324,
+      433,
+      16
+    ],
+    "text": "respect of the reinsurance business done with .",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      91,
+      339,
+      357,
+      17
+    ],
+    "text": "the Corporation during each period of three",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      91,
+      355,
+      357,
+      16
+    ],
+    "text": "months ending on March 31, June 30, September",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      92,
+      371,
+      356,
+      16
+    ],
+    "text": "30 and December 31 in each year, not later than",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      92,
+      386,
+      356,
+      17
+    ],
+    "text": "six months after the expiry of each of the aforesaid",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      92,
+      402,
+      39,
+      13
+    ],
+    "text": "dates.",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108,
+      426,
+      455,
+      17
+    ],
+    "text": "(4) The Corporation may authorise any officer .",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      92,
+      442,
+      357,
+      17
+    ],
+    "text": "of the Corporation to enter at all reasonable",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      93,
+      457,
+      355,
+      17
+    ],
+    "text": "hours any premises or place at which an insurer is",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      93,
+      473,
+      356,
+      16
+    ],
+    "text": "carrying on his business of insurance and examine",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      93,
+      489,
+      356,
+      16
+    ],
+    "text": "any books, registers or documents of such insurer",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      93,
+      494,
+      356,
+      27
+    ],
+    "text": "relating to such business, other than life insurance",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      93,
+      520,
+      420,
+      17
+    ],
+    "text": "business, for the purpose of verifying whether .",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      93,
+      527,
+      357,
+      42
+    ],
+    "text": "the provisions of sub-section (1) are being complied",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      93,
+      552,
+      422,
+      16
+    ],
+    "text": "with by such insurer, and such insurer shall permit .",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      94,
+      568,
+      356,
+      16
+    ],
+    "text": "such officer to enter such premises or place and",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      94,
+      584,
+      399,
+      22
+    ],
+    "text": "make such examination, .",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      110,
+      612,
+      437,
+      16
+    ],
+    "text": "16, (1) Every insurer who: does not make an Duty of inner",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      94,
+      613,
+      421,
+      37
+    ],
+    "text": "application under section 14 -to transfer his life wre le",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      94,
+      644,
+      443,
+      16
+    ],
+    "text": "insurance business to the Corporation, or whose busines isnot",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      94,
+      657,
+      451,
+      21
+    ],
+    "text": "application under that sectiog has been rejected arsfereda",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      82,
+      674,
+      440,
+      18
+    ],
+    "text": "- by the Corporation after an investigation of the tokeep ihe",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      95,
+      689,
+      440,
+      20
+    ],
+    "text": "Hnancial condition of his lifel insurance business, 4h fs'\"*",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      95,
+      706,
+      419,
+      18
+    ],
+    "text": "shall keep the assets relating to his life insurance ienmance",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      95,
+      722,
+      439,
+      21
+    ],
+    "text": "business separate from the assets relating to any Dee Og",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      95,
+      738,
+      419,
+      17
+    ],
+    "text": "other business carried on by him. teases",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      97,
+      754,
+      442,
+      24
+    ],
+    "text": "_ @) For the purpose of vetifying whether an Sie uses.",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      95,
+      775,
+      357,
+      17
+    ],
+    "text": "insurer complies with the provisions of sub-",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      96,
+      790,
+      240,
+      20
+    ],
+    "text": "section (1), the Corporation mayi",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      106,
+      810,
+      346,
+      17
+    ],
+    "text": "* @) call upon such insurtr' to furnish from",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      174,
+      827,
+      278,
+      13
+    ],
+    "text": "time to time a retufn, in such form as",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      85,
+      10,
+      458,
+      25
+    ],
+    "text": "nm Insurance Corporation Act, No, 2 of 1961",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      120,
+      49,
+      453,
+      19
+    ],
+    "text": ": may be prescribed, within such time",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      198,
+      65,
+      333,
+      16
+    ],
+    "text": ": as may be specified in such return,",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      240,
+      89,
+      333,
+      16
+    ],
+    "text": "() authorise an officer of the Corporation",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      287,
+      105,
+      286,
+      18
+    ],
+    "text": "to enter at all reasonable hours the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      288,
+      121,
+      285,
+      18
+    ],
+    "text": "premises or place at which such insurer",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      288,
+      136,
+      285,
+      16
+    ],
+    "text": "is carrying on his business of life",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      288,
+      152,
+      283,
+      16
+    ],
+    "text": "insurance and examine any books,",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      121,
+      168,
+      451,
+      15
+    ],
+    "text": ". registers or documents of such insurer",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      90,
+      184,
+      377,
+      15
+    ],
+    "text": ". relating to such business,",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      209,
+      211,
+      363,
+      13
+    ],
+    "text": "and such insurer shail furnish such return or",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      209,
+      226,
+      362,
+      17
+    ],
+    "text": "permit such officer to enter such premises or place",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      209,
+      242,
+      199,
+      13
+    ],
+    "text": "and make such examination.",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      346,
+      289,
+      62,
+      13
+    ],
+    "text": "Part JIE",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      108,
+      320,
+      433,
+      16
+    ],
+    "text": ". Provistons relating to Finances and Accounts",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      327,
+      336,
+      126,
+      16
+    ],
+    "text": "of the Corporation",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      86,
+      355,
+      484,
+      33
+    ],
+    "text": "Coit ofthe 47. (I) The initial capital of the Corporation",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      86,
+      375,
+      464,
+      28
+    ],
+    "text": "Corporation. shail be ten million rupees. .",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      227,
+      410,
+      343,
+      19
+    ],
+    "text": "(2) The amount of the initial capitel of the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      211,
+      426,
+      359,
+      29
+    ],
+    "text": "Corporation shall be_paid to the Corporation out",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      212,
+      442,
+      357,
+      16
+    ],
+    "text": "of the Consolidated Fund of Ceylon in such instal-",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      211,
+      458,
+      358,
+      18
+    ],
+    "text": "ments as the Minister of Finance may, in consulta-",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      211,
+      474,
+      233,
+      15
+    ],
+    "text": "tion with the Minister, determine.",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      213,
+      501,
+      356,
+      18
+    ],
+    "text": "__@) The capital of the Corporation may be",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      212,
+      517,
+      357,
+      16
+    ],
+    "text": "increased from time to time by such amount as may",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      212,
+      532,
+      356,
+      17
+    ],
+    "text": "be determined by the Corporation with the approval",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      162,
+      549,
+      406,
+      15
+    ],
+    "text": "of the Minister given with the concurrence of the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      212,
+      564,
+      137,
+      14
+    ],
+    "text": "Minister of Finance.",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      144,
+      582,
+      192,
+      12
+    ],
+    "text": ". +,",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      88,
+      586,
+      480,
+      33
+    ],
+    "text": "The Fund of te 18, (1) The Corporation shall have its own",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      89,
+      603,
+      463,
+      30
+    ],
+    "text": "Coxporation. Fund. aE .",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      118,
+      635,
+      450,
+      23
+    ],
+    "text": ". : (2) There shall be paid into the Fund of the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      146,
+      655,
+      185,
+      16
+    ],
+    "text": ". Corporation :",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      244,
+      678,
+      324,
+      18
+    ],
+    "text": "@ the sum paid to the Corporation under",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      291,
+      695,
+      244,
+      16
+    ],
+    "text": "section 17, >",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      244,
+      716,
+      323,
+      19
+    ],
+    "text": "(6) all sums of money transferred to",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      209,
+      729,
+      358,
+      39
+    ],
+    "text": ": the Corporation under section 9 oF",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      292,
+      751,
+      71,
+      21
+    ],
+    "text": "section 14,",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      245,
+      773,
+      322,
+      20
+    ],
+    "text": "() all sums received by the Corporation as",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      292,
+      791,
+      275,
+      17
+    ],
+    "text": "premiums in respect. of the policies",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      292,
+      805,
+      274,
+      18
+    ],
+    "text": "Issued by the Corporation or transferred",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      292,
+      821,
+      275,
+      18
+    ],
+    "text": "to the Corporation under this Act, and",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      323,
+      843,
+      5,
+      9
+    ],
+    "text": "ry",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      126,
+      25,
+      416,
+      20
+    ],
+    "text": "Insurance Corporation Act, No. 2 of 1961 13",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      118,
+      56,
+      329,
+      28
+    ],
+    "text": "(@) all sums of money received by the Corporae",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      167,
+      67,
+      280,
+      36
+    ],
+    "text": "tion in the exercise of its powers, func-",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      167,
+      87,
+      213,
+      16
+    ],
+    "text": "tions and duties under this Act.",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      104,
+      118,
+      344,
+      20
+    ],
+    "text": "(3) There shall be paid out of the Fund of the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      88,
+      137,
+      103,
+      17
+    ],
+    "text": "Corporation",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      120,
+      161,
+      329,
+      20
+    ],
+    "text": "(@) all sums of money required for the discharge",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      169,
+      167,
+      349,
+      26
+    ],
+    "text": "Sf the Labiites of the Corporation :",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      142,
+      192,
+      414,
+      19
+    ],
+    "text": "+ under the policies of insurance issued :",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      169,
+      208,
+      280,
+      19
+    ],
+    "text": "by the Corporation or transferred to",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      98,
+      223,
+      451,
+      21
+    ],
+    "text": ". the Corporation under this Act, and :",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      121,
+      252,
+      328,
+      19
+    ],
+    "text": "@) all sums of money required to defray any",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      169,
+      267,
+      280,
+      19
+    ],
+    "text": "expenditure incurred by the Corporation",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      170,
+      283,
+      321,
+      31
+    ],
+    "text": "in the carrying on of its business or in,",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      170,
+      297,
+      280,
+      37
+    ],
+    "text": "the exercise of its Rowers, functions and",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      170,
+      317,
+      268,
+      16
+    ],
+    "text": "dhities under this Act. _",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      107,
+      354,
+      440,
+      21
+    ],
+    "text": "19. (1) The Corporation shall cause its accounts Ascusts.of he,",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      91,
+      367,
+      438,
+      24
+    ],
+    "text": "to be kept in such form and in such manner as may on",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      91,
+      388,
+      320,
+      18
+    ],
+    "text": "be prescribed. :",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      97,
+      420,
+      353,
+      27
+    ],
+    "text": "_(2) The books and the accounts of the Corpora",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      91,
+      434,
+      359,
+      20
+    ],
+    "text": "tion shall be kept at the head office of the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      91,
+      454,
+      90,
+      16
+    ],
+    "text": "Corporation.",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      108,
+      489,
+      425,
+      20
+    ],
+    "text": "20, The Corporation shall cause its books to . Accounts sat",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      80,
+      500,
+      456,
+      25
+    ],
+    "text": "be balanced on the thirty-first day of December in | iiteach wat:",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      92,
+      522,
+      359,
+      19
+    ],
+    "text": "each year and shall, as soon.as may be thereafter,",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      92,
+      537,
+      361,
+      21
+    ],
+    "text": "cause to be prepared separate-accounts in respect of",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      92,
+      555,
+      360,
+      20
+    ],
+    "text": "each of the following, namely, life insurance",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      73,
+      571,
+      380,
+      21
+    ],
+    "text": "_ Business, fire insurance business, marine insurance",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      93,
+      586,
+      399,
+      21
+    ],
+    "text": "business, general accident insurance business andthe =~",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      94,
+      603,
+      378,
+      19
+    ],
+    "text": "reinsurance business, and a profit and loss account ~",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      94,
+      617,
+      359,
+      18
+    ],
+    "text": "and a balance sheet containing a summary of the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      94,
+      634,
+      359,
+      17
+    ],
+    "text": "assets and liabilities of the Corporation made up",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      94,
+      649,
+      360,
+      17
+    ],
+    "text": "to date aforesaid. The aforesaid accounts and the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      94,
+      667,
+      363,
+      19
+    ],
+    "text": "balance sheet shall be signed by the officer respon",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      95,
+      681,
+      359,
+      20
+    ],
+    "text": "sible for, the preparation of such accounts and",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      95,
+      693,
+      416,
+      27
+    ],
+    "text": "balance sheet. v .",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      110,
+      723,
+      405,
+      35
+    ],
+    "text": "21. The Corporation shail have its accounts Audit of",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      95,
+      751,
+      422,
+      21
+    ],
+    "text": "audited each year by an auditor appointed by the 7",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      95,
+      770,
+      480,
+      17
+    ],
+    "text": "Permanent Secretary to the Ministry. The auditor y",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      96,
+      785,
+      362,
+      16
+    ],
+    "text": "shail receive such remuneratiga from the Fund of",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      96,
+      802,
+      360,
+      20
+    ],
+    "text": "the Corporation as the Permanent Secretary to",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      96,
+      818,
+      360,
+      19
+    ],
+    "text": "the Ministry may in consultation with the Corpora-",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      97,
+      835,
+      105,
+      14
+    ],
+    "text": "tion determine,",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      574,
+      858,
+      2,
+      8
+    ],
+    "text": "'",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      72,
+      23,
+      450,
+      17
+    ],
+    "text": "4 Insurance Corporation Act, No. 2 of 1961",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      67,
+      44,
+      488,
+      34
+    ],
+    "text": "Te nuove 22. (1) The auditor appointed under section 21",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      102,
+      67,
+      455,
+      16
+    ],
+    "text": ". shall examine the accounts of the Corporation and",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      194,
+      82,
+      363,
+      14
+    ],
+    "text": "ascertain the correctness of the balance sheet and",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      194,
+      99,
+      182,
+      16
+    ],
+    "text": "furnish a report stating",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      228,
+      117,
+      330,
+      17
+    ],
+    "text": "@ whether he has or has not obtained alt",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      276,
+      133,
+      281,
+      17
+    ],
+    "text": "the information and explanations",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      276,
+      150,
+      146,
+      16
+    ],
+    "text": "required by him, and",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      229,
+      168,
+      329,
+      18
+    ],
+    "text": "whether the accounts referred to in the",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      252,
+      185,
+      306,
+      16
+    ],
+    "text": "_ Teport are properly drawn up so as",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      277,
+      199,
+      301,
+      14
+    ],
+    "text": "to exhibit a true and correct view of .-",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      75,
+      216,
+      381,
+      16
+    ],
+    "text": ": the Corporations affairs.",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      214,
+      238,
+      343,
+      18
+    ],
+    "text": "(2) The report of the auditor shall be transmitted",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      198,
+      256,
+      137,
+      15
+    ],
+    "text": "to the Corporation.",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      79,
+      281,
+      479,
+      21
+    ],
+    "text": "Anpudl sevounts 23. The Corporation shall, on receipt of the",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      79,
+      297,
+      479,
+      20
+    ],
+    "text": "wa aigliors auditors report in each year, transmit such report",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      80,
+      313,
+      479,
+      17
+    ],
+    "text": "report of | the together with the profit and loss account and the",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      79,
+      328,
+      479,
+      20
+    ],
+    "text": "cnnual ectviiet =~ balance sheet to which the report relates, and @",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      76,
+      341,
+      482,
+      37
+    ],
+    "text": "Corporation to statement by the Corporation of its activities",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      80,
+      360,
+      479,
+      19
+    ],
+    "text": "betmnsnied during the financial year to which such report",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      108,
+      376,
+      451,
+      18
+    ],
+    "text": "relates, and of the activities (if any) which are",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      201,
+      392,
+      358,
+      17
+    ],
+    "text": "likely to be undertaken by the Corporation in the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      201,
+      406,
+      357,
+      18
+    ],
+    "text": "next financial year, to the Minister who shall",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      201,
+      424,
+      376,
+      16
+    ],
+    "text": "cause copies thereof to be laid before the Senate ,",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      195,
+      438,
+      373,
+      17
+    ],
+    "text": "and the House of Representatives, before the end .",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      203,
+      454,
+      355,
+      17
+    ],
+    "text": "of the year next following the year to which such",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      203,
+      472,
+      188,
+      15
+    ],
+    "text": "report and accounts relate.",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      80,
+      495,
+      478,
+      25
+    ],
+    "text": "Actuarial 2A, The Corporation shall, once at least in",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      81,
+      508,
+      478,
+      28
+    ],
+    "text": "frvedaation every five years, cause an investigation to be made",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      86,
+      522,
+      473,
+      31
+    ],
+    "text": "Enaaeal by an actuary of actuaries into the financial",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      86,
+      539,
+      473,
+      30
+    ],
+    "text": "gendiion of condition of the life insurance business of the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      82,
+      554,
+      476,
+      30
+    ],
+    "text": "Isurstce Corporation including 4 valuation of the liabilities",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      87,
+      576,
+      472,
+      20
+    ],
+    "text": "dusimesof of the Corporation relating to its life insurance",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      87,
+      585,
+      472,
+      41
+    ],
+    "text": "hemede ase Dusiness abe Corporation. shall transmit the",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      121,
+      602,
+      438,
+      30
+    ],
+    "text": "ia report of the actuary or actuaries to the Minister",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      88,
+      618,
+      471,
+      35
+    ],
+    "text": "sey ineyears who. shall cause copies thereof to be iid before",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      206,
+      641,
+      314,
+      16
+    ],
+    "text": "the Senate and the House of Representatives.",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      85,
+      664,
+      474,
+      24
+    ],
+    "text": "Altceation oF 25. If as a result of any investigation made",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      89,
+      682,
+      470,
+      30
+    ],
+    "text": "Heravon.afs under section 24 there is a surplas, the Corporation",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      90,
+      698,
+      469,
+      17
+    ],
+    "text": "aptofthe shall allocate to, or reserve for, the holder of life",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      90,
+      713,
+      468,
+      19
+    ],
+    "text": "fizkete . insurance policies issued, or deemed to be issued,",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      90,
+      731,
+      469,
+      22
+    ],
+    "text": "Bee, by the Corporation a sum not less than ninety-five",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      96,
+      740,
+      299,
+      30
+    ],
+    "text": "fe nnurance. per centum of such surplus.",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      112,
+      768,
+      448,
+      30
+    ],
+    "text": "oat 26, The net:annual profits of the Corporation",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      59,
+      772,
+      501,
+      41
+    ],
+    "text": "i ooeeies for each financial year in respect of its general",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      59,
+      806,
+      500,
+      13
+    ],
+    "text": "| insurance. business and its reinsurance business,",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      210,
+      822,
+      350,
+      17
+    ],
+    "text": "and the balance five per centum of the surplus",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      134,
+      20,
+      415,
+      18
+    ],
+    "text": "Insurance Corporation Att, No. 2 of 1961 15",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      96,
+      50,
+      358,
+      16
+    ],
+    "text": "seferred to in section 25, may be applied to such",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      96,
+      65,
+      358,
+      17
+    ],
+    "text": "purposes as may be determined by the Corporation",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      97,
+      81,
+      393,
+      16
+    ],
+    "text": "with the approval of the Minister, and any such =~",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      94,
+      97,
+      360,
+      18
+    ],
+    "text": "profits which are not so applied shall be ctedited",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      97,
+      113,
+      358,
+      16
+    ],
+    "text": "fo a general reserve fund maintained by the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      92,
+      125,
+      462,
+      25
+    ],
+    "text": "Corporation. -",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      112,
+      156,
+      423,
+      14
+    ],
+    "text": "27. The net profits of the Corporation in sumpice of",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      96,
+      155,
+      430,
+      39
+    ],
+    "text": "each year shall he exempt from income tax. Geos om",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      112,
+      199,
+      414,
+      16
+    ],
+    "text": "28. A receipt signed by two members of the on",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      96,
+      202,
+      435,
+      32
+    ],
+    "text": "Corporation of by an officer expressly authorised model",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      96,
+      231,
+      359,
+      16
+    ],
+    "text": "by the Corporation to give receipts shall be an",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      96,
+      246,
+      359,
+      19
+    ],
+    "text": "effectual discharge of moneys paid to the Corpora-",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      95,
+      264,
+      32,
+      11
+    ],
+    "text": "tion,",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      233,
+      287,
+      335,
+      12
+    ],
+    "text": "Parr IV .",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      234,
+      301,
+      177,
+      32
+    ],
+    "text": "General .",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      111,
+      333,
+      428,
+      16
+    ],
+    "text": "29, (1) Where any immovable property is Acmhhioo of",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      92,
+      329,
+      454,
+      43
+    ],
+    "text": "required to be acquired for the purpose of the eae act",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      96,
+      364,
+      469,
+      17
+    ],
+    "text": "business of the Corporation and the Minister, by the tant :",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      96,
+      374,
+      454,
+      40
+    ],
+    "text": "Order published in the Gazette approves: of the Aepititoa Act",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      96,
+      397,
+      436,
+      27
+    ],
+    "text": "Proposed acquisition, that property shall be deemed | Eansaon,",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      96,
+      413,
+      358,
+      17
+    ],
+    "text": "to be required for'a public purpose and may",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      96,
+      428,
+      358,
+      17
+    ],
+    "text": "accordingly be acquired compulsorily under",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      96,
+      443,
+      358,
+      17
+    ],
+    "text": "the Land Acquisition Act, No. 9 of 1950, and be",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      96,
+      459,
+      217,
+      17
+    ],
+    "text": "transferred to the Corporation.",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      96,
+      479,
+      358,
+      17
+    ],
+    "text": "_ @) Any sum payable for the acquisition of any",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      95,
+      495,
+      358,
+      17
+    ],
+    "text": "immovable property under the Land Acquisition",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      95,
+      510,
+      454,
+      18
+    ],
+    "text": "Act, No. 9 of 1950, for the Corporation shall be .",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      95,
+      526,
+      174,
+      18
+    ],
+    "text": "paid by the Corporation.",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      119,
+      558,
+      430,
+      18
+    ],
+    "text": "30, When on or after the twenty-first day of Right ofteides",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      104,
+      574,
+      445,
+      21
+    ],
+    "text": "July, 1960, a person carrying on the business of oft mame",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      103,
+      589,
+      417,
+      19
+    ],
+    "text": "life insurance has wound up, or takes steps to frounen",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      103,
+      606,
+      430,
+      20
+    ],
+    "text": "wind up, such business and where the assets re- ceria",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      103,
+      621,
+      447,
+      20
+    ],
+    "text": "lating to-such business have not been, or are not, . tootber aucts of",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      104,
+      638,
+      445,
+      20
+    ],
+    "text": "sufficient to meet the liabilities subsisting under Peas curving",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      104,
+      654,
+      393,
+      18
+    ],
+    "text": "any policies of life insurance issued by such person, st life",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      104,
+      669,
+      412,
+      19
+    ],
+    "text": "then, every holder of such a policy shall have the ine:",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      58,
+      686,
+      395,
+      19
+    ],
+    "text": "- Hght, by action instituted in a court of competent",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      67,
+      702,
+      478,
+      18
+    ],
+    "text": "_ Jutisdiction, to proceed against :",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      136,
+      725,
+      317,
+      19
+    ],
+    "text": "@) if such person is an individual, ariy other",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      146,
+      743,
+      307,
+      17
+    ],
+    "text": "| Assets held by such individual on or",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      183,
+      759,
+      304,
+      16
+    ],
+    "text": "after that date; or :",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      136,
+      777,
+      309,
+      18
+    ],
+    "text": "@) if such person is a body corporate, an;",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      184,
+      782,
+      271,
+      29
+    ],
+    "text": "other assets held by cach Giector ot",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      184,
+      811,
+      269,
+      17
+    ],
+    "text": "such body corporate on or after",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      70,
+      827,
+      397,
+      16
+    ],
+    "text": ". that date ;or = . -",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      73,
+      842,
+      111,
+      13
+    ],
+    "text": "3.2 wer cen",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      88,
+      16,
+      451,
+      22
+    ],
+    "text": "16 . Insurance Corporation Act, No. 2 of 1961",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      250,
+      48,
+      321,
+      29
+    ],
+    "text": "() if such Person is a firm, any other assets",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      299,
+      65,
+      271,
+      16
+    ],
+    "text": "held by each partner of that firm on",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      134,
+      80,
+      291,
+      16
+    ],
+    "text": ". or after that date,",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      218,
+      100,
+      351,
+      17
+    ],
+    "text": "and recover any sum outstanding under such",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      218,
+      116,
+      271,
+      16
+    ],
+    "text": "policy of insurance. :",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      68,
+      140,
+      502,
+      40
+    ],
+    "text": "\"Protons 31. (1) No person carrying on the business of",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      87,
+      157,
+      482,
+      28
+    ],
+    "text": "Tpcontinance insurance shall terminate the services of any",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      88,
+      179,
+      481,
+      16
+    ],
+    "text": "cof the services: member on the staff relating to the insurance",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      88,
+      187,
+      480,
+      29
+    ],
+    "text": "ope business of such person without the approval in",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      85,
+      205,
+      428,
+      25
+    ],
+    "text": "insurance writing of the Commissioner of Labour.",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      243,
+      234,
+      327,
+      19
+    ],
+    "text": "(@ The services of a member on the staff of",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      219,
+      250,
+      349,
+      16
+    ],
+    "text": "the insurance business of any person shall not be",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      218,
+      266,
+      350,
+      13
+    ],
+    "text": "terminated after the Commissioner of Labour has",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      218,
+      282,
+      349,
+      18
+    ],
+    "text": "given his approval to such termination except in",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      218,
+      298,
+      349,
+      16
+    ],
+    "text": "accordance with such terms and conditions, in-",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      218,
+      313,
+      350,
+      19
+    ],
+    "text": "chiding payment by the employer of gratuity or",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      218,
+      329,
+      350,
+      17
+    ],
+    "text": "compensation for loss of service, as may be",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      145,
+      345,
+      148,
+      16
+    ],
+    "text": ": prescribed,",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      243,
+      362,
+      325,
+      40
+    ],
+    "text": "3) Where any Pym of gratuity or com-",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      220,
+      385,
+      348,
+      18
+    ],
+    "text": "pensation is not made by an employer, the person",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      220,
+      400,
+      348,
+      17
+    ],
+    "text": "entitled to such gratuity or compensation shall",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      91,
+      416,
+      477,
+      16
+    ],
+    "text": ". have the right to proceed by action instituted in @",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      220,
+      432,
+      358,
+      16
+    ],
+    "text": "court of competent jurisdiction against :",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      250,
+      452,
+      317,
+      36
+    ],
+    "text": "@ if such employer is an individual, alt",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      298,
+      472,
+      214,
+      15
+    ],
+    "text": "assets of such individual, or",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      250,
+      491,
+      317,
+      17
+    ],
+    "text": "() if such employer is a body corporate, all",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      298,
+      507,
+      270,
+      16
+    ],
+    "text": "assets of each director of that body",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      297,
+      526,
+      91,
+      13
+    ],
+    "text": "corporate, or",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      157,
+      542,
+      410,
+      18
+    ],
+    "text": ": { if such employer is a firm, all assets of each",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      297,
+      559,
+      151,
+      15
+    ],
+    "text": "partner of that firm,",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      219,
+      578,
+      347,
+      17
+    ],
+    "text": "for the recovery of such gratuity or compensation.",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      243,
+      602,
+      323,
+      28
+    ],
+    "text": "( In this section, Commissioner of Labour",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      218,
+      618,
+      348,
+      18
+    ],
+    "text": "includes a Deputy Commissioner of Labour or an",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      219,
+      634,
+      251,
+      13
+    ],
+    "text": "Assistant Commissioner of Labour.",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      94,
+      654,
+      471,
+      40
+    ],
+    "text": "Apoliaton of 2 2 The Minister may by regulation made",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      90,
+      675,
+      476,
+      30
+    ],
+    "text": "Py edad under this Act provide for the application to the",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      90,
+      693,
+      474,
+      24
+    ],
+    "text": "Corporation, Corporation, with or without any modification,",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      212,
+      708,
+      352,
+      37
+    ],
+    "text": "of any Provision of the Companies Ordinance,",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      198,
+      728,
+      120,
+      13
+    ],
+    "text": "- No. 51 of 1938,",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      228,
+      755,
+      336,
+      19
+    ],
+    "text": "(2) The provisions-of the Companies Ordinance,",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      212,
+      771,
+      352,
+      20
+    ],
+    "text": "No, 51 of 1938, other than the provisions of that",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      212,
+      787,
+      352,
+      19
+    ],
+    "text": "Ordinance. which are made applicable to the",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      208,
+      796,
+      355,
+      41
+    ],
+    "text": "Corporation by regulations made under this Act,",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      248,
+      820,
+      204,
+      17
+    ],
+    "text": "not apply to the Corporation.",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      138,
+      28,
+      415,
+      18
+    ],
+    "text": "Insurance Corporation:Act, No. 2 of 1961 17",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      112,
+      57,
+      420,
+      17
+    ],
+    "text": "33, (1) The Minister may, when he considers it Fewer of the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      97,
+      72,
+      426,
+      20
+    ],
+    "text": "necessary to do so, direct any person to hold an Musta",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      96,
+      89,
+      436,
+      17
+    ],
+    "text": "inguiry into the work and financial position of the irquig tote",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      92,
+      97,
+      448,
+      31
+    ],
+    "text": "Corporation. bel ioc",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      112,
+      123,
+      420,
+      22
+    ],
+    "text": "(2) Where such an inquiry as is referred to in C7P=RHO",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      96,
+      143,
+      360,
+      19
+    ],
+    "text": "sub-section (1) is held, any member of the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      96,
+      159,
+      359,
+      18
+    ],
+    "text": "Corporation or of the staff of the Corporation shall,",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      96,
+      175,
+      360,
+      19
+    ],
+    "text": "upon being requested to do so by the person holding",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      96,
+      180,
+      360,
+      27
+    ],
+    "text": "the inquiry, furnish such information within his",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      93,
+      199,
+      363,
+      41
+    ],
+    "text": "knowledge with regard to the affairs of the Corpora-",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      97,
+      222,
+      359,
+      20
+    ],
+    "text": "tion and produce such books of accounts or",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      96,
+      239,
+      359,
+      15
+    ],
+    "text": "documents in his custody as that person may require,",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      112,
+      265,
+      417,
+      17
+    ],
+    "text": "34, (1) The Minister may make regulations for Resuaions",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      96,
+      281,
+      359,
+      17
+    ],
+    "text": "the purpose of carrying out or giving effect to the",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      97,
+      297,
+      358,
+      18
+    ],
+    "text": "principles and provisions of this Act, and in respect",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      96,
+      312,
+      359,
+      19
+    ],
+    "text": "of any matter required by this Act to be prescribed.",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      97,
+      329,
+      357,
+      16
+    ],
+    "text": "or in respect of any matter for which regulations",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      96,
+      345,
+      303,
+      16
+    ],
+    "text": "are authorised by this Act to be made. +",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      112,
+      368,
+      342,
+      28
+    ],
+    "text": "(2) Every regulation made by the, Minister",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      96,
+      384,
+      358,
+      18
+    ],
+    "text": "shall be published in the Gazette and shall come",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      97,
+      400,
+      357,
+      16
+    ],
+    "text": "into operation on the date of such publication or",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      96,
+      415,
+      358,
+      16
+    ],
+    "text": "on such later date as may be specified in the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      92,
+      423,
+      292,
+      31
+    ],
+    "text": "regulation. :",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      112,
+      455,
+      342,
+      18
+    ],
+    "text": "(3) Every regulation made by the Minister",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      96,
+      466,
+      357,
+      37
+    ],
+    "text": "shall, as soon as convenient after its publication",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      96,
+      486,
+      357,
+      17
+    ],
+    "text": "in the Gazette, be brought before the Senate and",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      96,
+      494,
+      357,
+      41
+    ],
+    "text": "the House of Representatives for approval, Any",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      95,
+      518,
+      456,
+      17
+    ],
+    "text": "tegulation which is not so approved shall be deemed :",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      92,
+      525,
+      364,
+      45
+    ],
+    "text": "to be {escinded as from the date of disapproval",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      105,
+      550,
+      348,
+      16
+    ],
+    "text": "ut without prejudice to anything previously done",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      96,
+      555,
+      421,
+      25
+    ],
+    "text": "thereunder, oon",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      111,
+      602,
+      444,
+      17
+    ],
+    "text": "35. Any person who tence, =",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      128,
+      626,
+      325,
+      20
+    ],
+    "text": "@ contravenes any provision of this Act",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      176,
+      642,
+      277,
+      17
+    ],
+    "text": "or of any regulation made thereunder, or",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      128,
+      666,
+      324,
+      16
+    ],
+    "text": "@) furnishes for the purposes of this Act",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      175,
+      682,
+      277,
+      16
+    ],
+    "text": "any information which is, or any",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      175,
+      698,
+      277,
+      18
+    ],
+    "text": "document the contents of which are,",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      175,
+      714,
+      277,
+      18
+    ],
+    "text": "or any part of the contents of which is,",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      142,
+      731,
+      310,
+      15
+    ],
+    "text": ". to his knowledge untrue or incorrect,",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      175,
+      750,
+      15,
+      9
+    ],
+    "text": "or",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      128,
+      769,
+      402,
+      19
+    ],
+    "text": "( wilfully obstructs any officer - of the .",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      176,
+      786,
+      277,
+      16
+    ],
+    "text": "Corporation in the exercise of his duties",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      175,
+      802,
+      278,
+      16
+    ],
+    "text": "under sub-section (4) of section 15, ot",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      176,
+      817,
+      278,
+      17
+    ],
+    "text": "paragraph (6) of sub-section (2) of",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      125,
+      834,
+      122,
+      18
+    ],
+    "text": ". section 16,",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      69,
+      27,
+      497,
+      17
+    ],
+    "text": "18 Insurance Corporation Act, No. 2 of 1961 :",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      191,
+      55,
+      363,
+      17
+    ],
+    "text": "shall be guilty of an offence, and shall, on conviction",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      191,
+      71,
+      364,
+      17
+    ],
+    "text": "after summary trial before a Magistrate, be liable",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      224,
+      98,
+      331,
+      17
+    ],
+    "text": "@ in the case of the first offence, toa fine",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      139,
+      115,
+      415,
+      16
+    ],
+    "text": ". not exceeding one thousand rupees",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      273,
+      126,
+      281,
+      36
+    ],
+    "text": "or to imprisonment of either Seseription",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      188,
+      146,
+      367,
+      16
+    ],
+    "text": ". for a term not exceeding six months or",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      273,
+      161,
+      281,
+      16
+    ],
+    "text": "to both such fine and imprisonment,",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      218,
+      179,
+      81,
+      13
+    ],
+    "text": ". and",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      226,
+      201,
+      349,
+      18
+    ],
+    "text": "(B) in the case of the second or any subsequent *",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      274,
+      216,
+      281,
+      18
+    ],
+    "text": "offence, to imprisonment of either",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      274,
+      232,
+      282,
+      18
+    ],
+    "text": "description for a term not exceeding",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      275,
+      250,
+      80,
+      14
+    ],
+    "text": "six months,",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      195,
+      271,
+      361,
+      15
+    ],
+    "text": "and shall in addition be liable to a fine not exceeding",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      196,
+      287,
+      359,
+      18
+    ],
+    "text": "five hundred rupees for each day on which the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      196,
+      302,
+      360,
+      19
+    ],
+    "text": "offence is committed after conviction, and all",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      196,
+      319,
+      359,
+      17
+    ],
+    "text": "sums recovered by way of fine shall be paid into",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      197,
+      335,
+      359,
+      17
+    ],
+    "text": "the Fund of the Corporation and such sums may",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      109,
+      349,
+      447,
+      19
+    ],
+    "text": ". + be utilised by the Corporation, with the approval",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      199,
+      368,
+      189,
+      16
+    ],
+    "text": "of the Minister, to pay",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      238,
+      390,
+      319,
+      18
+    ],
+    "text": "(@ holders of policies of life insurance, the",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      285,
+      406,
+      271,
+      15
+    ],
+    "text": "Vabilities under which have not been",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      285,
+      424,
+      122,
+      16
+    ],
+    "text": "discharged ; and",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      238,
+      446,
+      319,
+      18
+    ],
+    "text": "{b) employees of insurers who are carrying",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      286,
+      461,
+      271,
+      15
+    ],
+    "text": "on the business of fife insurance and",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      286,
+      479,
+      271,
+      16
+    ],
+    "text": "who have not complied with the terms",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      284,
+      494,
+      273,
+      17
+    ],
+    "text": "and conditions prescribed under sub-",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      287,
+      511,
+      186,
+      17
+    ],
+    "text": "section (2) of section 31 ;",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      209,
+      535,
+      269,
+      15
+    ],
+    "text": "in such manner as may be prescribed.",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      77,
+      562,
+      480,
+      25
+    ],
+    "text": "Linbility of 36. Where an act or omission which constitutes",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      78,
+      574,
+      478,
+      29
+    ],
+    "text": "grat, manager an offence under this Act has in fact been committed",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      78,
+      594,
+      479,
+      24
+    ],
+    "text": "employee, or made by the agent, manager or other employee",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      202,
+      603,
+      355,
+      28
+    ],
+    "text": "of the person whe is lable onder this Act for the",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      203,
+      630,
+      354,
+      18
+    ],
+    "text": "offence, then the agent, manager or other employee",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      203,
+      646,
+      354,
+      18
+    ],
+    "text": "shall be liable to be proceeded against for the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      203,
+      661,
+      354,
+      14
+    ],
+    "text": "offence in the same manner as if he were that",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      203,
+      678,
+      354,
+      16
+    ],
+    "text": "person, and either together with that person,",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      204,
+      693,
+      352,
+      19
+    ],
+    "text": "or before or after the conviction of that person,",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      204,
+      708,
+      356,
+      18
+    ],
+    "text": "and shall be lisble to the like punishment as if",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      203,
+      725,
+      291,
+      16
+    ],
+    "text": "he were that person. :",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      60,
+      753,
+      498,
+      18
+    ],
+    "text": "+ Qtfenoes oy 37. Where an offence under this Act is",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      82,
+      763,
+      401,
+      28
+    ],
+    "text": "Posies oF committed by a body of persons, then",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      235,
+      795,
+      323,
+      19
+    ],
+    "text": "@ if that body of persons is a body corporate,",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      179,
+      802,
+      379,
+      26
+    ],
+    "text": "oo every director and officer of that body",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      281,
+      829,
+      100,
+      14
+    ],
+    "text": "corporate, and",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      120,
+      34,
+      411,
+      18
+    ],
+    "text": "Insurance Corporation Act, No. 2 of 1961 19",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      108,
+      63,
+      327,
+      18
+    ],
+    "text": "@ if that body of persons-is a firm, every",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      156,
+      79,
+      227,
+      17
+    ],
+    "text": "partner of that firm, .",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      76,
+      102,
+      307,
+      17
+    ],
+    "text": "shall be deemed to be guilty of that offence.",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      93,
+      138,
+      439,
+      17
+    ],
+    "text": "38. The Co-operative Wholesale Establishment Amenduest_of",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      76,
+      151,
+      455,
+      20
+    ],
+    "text": "Act, No. 47 of 1949, is hereby amended in the le Coon",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      76,
+      169,
+      444,
+      15
+    ],
+    "text": "manner set out in the Schedule to this Act. Etablchnent",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      146,
+      182,
+      378,
+      21
+    ],
+    "text": "A Not of",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      93,
+      207,
+      429,
+      20
+    ],
+    "text": "39. In this Act, unless the context otherwise torerprouioa.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      72,
+      216,
+      430,
+      31
+    ],
+    "text": "requires, 5",
+    "mean_p_confidence": 0.0
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      73,
+      246,
+      365,
+      18
+    ],
+    "text": "Corporation means the Insurance Corpora-",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      159,
+      262,
+      279,
+      17
+    ],
+    "text": "tion of Ceylon established under this",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      158,
+      280,
+      401,
+      15
+    ],
+    "text": "Act; . .",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      110,
+      298,
+      328,
+      17
+    ],
+    "text": "Co-operative Insurance Department means",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      159,
+      311,
+      279,
+      36
+    ],
+    "text": "the Insurance Department of the Co-",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      159,
+      330,
+      249,
+      17
+    ],
+    "text": "operative Wholesale Establishment ;",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      109,
+      355,
+      144,
+      13
+    ],
+    "text": "* insurer means",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      159,
+      376,
+      279,
+      17
+    ],
+    "text": "@ an individual or _ unincorporated",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      208,
+      392,
+      230,
+      17
+    ],
+    "text": "body of individuals or body",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      207,
+      408,
+      332,
+      17
+    ],
+    "text": "corporate incorporated under the .",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      207,
+      424,
+      231,
+      18
+    ],
+    "text": "law of any country other than",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      196,
+      440,
+      241,
+      17
+    ],
+    "text": "* Ceylon, who or which carries on",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      208,
+      456,
+      262,
+      14
+    ],
+    "text": "insurance business and who or.",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      208,
+      473,
+      57,
+      13
+    ],
+    "text": "which",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      217,
+      491,
+      326,
+      17
+    ],
+    "text": "@ carries on that business in .",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      256,
+      508,
+      73,
+      16
+    ],
+    "text": "Ceylon, or",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      211,
+      527,
+      323,
+      17
+    ],
+    "text": "(ii) has his or its principal place :",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      256,
+      543,
+      183,
+      14
+    ],
+    "text": "of business or his or its",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      256,
+      559,
+      156,
+      16
+    ],
+    "text": "domicile in Ceylon, or",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      208,
+      578,
+      231,
+      18
+    ],
+    "text": "Gii) with the object of obtain-",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      256,
+      595,
+      264,
+      18
+    ],
+    "text": "ing insurance _ business, .",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      256,
+      612,
+      183,
+      16
+    ],
+    "text": "employs a representative",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      186,
+      626,
+      255,
+      20
+    ],
+    "text": "ca or maintains a place of",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      198,
+      643,
+      270,
+      16
+    ],
+    "text": "L business in Ceylon ; :",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      158,
+      667,
+      282,
+      19
+    ],
+    "text": "@ any body corporate carrying on the",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      209,
+      683,
+      231,
+      19
+    ],
+    "text": "business of insurance and being",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      209,
+      699,
+      273,
+      17
+    ],
+    "text": "incorporated under any law for.",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      209,
+      715,
+      243,
+      17
+    ],
+    "text": "the time being in force in Ceylon; ,",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      76,
+      737,
+      366,
+      21
+    ],
+    "text": "_ general insurance means any class of",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      161,
+      755,
+      279,
+      18
+    ],
+    "text": "insurance business other , than life",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      161,
+      772,
+      242,
+      15
+    ],
+    "text": "insurance business 5 .",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      114,
+      793,
+      326,
+      16
+    ],
+    "text": "life insurance business means the business",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      162,
+      811,
+      313,
+      17
+    ],
+    "text": "of entering into or maintaining con- = -",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      162,
+      828,
+      279,
+      15
+    ],
+    "text": "tracts of insurance on human lives, such",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      161,
+      844,
+      280,
+      16
+    ],
+    "text": "contracts including contracts whereby",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      77,
+      22,
+      490,
+      26
+    ],
+    "text": "2! Insurance Corporation Act, No. 2 of 1961 .",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      281,
+      58,
+      286,
+      17
+    ],
+    "text": "the payment of money is assuied on",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      280,
+      74,
+      286,
+      18
+    ],
+    "text": "death or on the happening of any",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      280,
+      90,
+      285,
+      17
+    ],
+    "text": "contingency dependent on human life,",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      280,
+      106,
+      285,
+      17
+    ],
+    "text": "and contracts which are subject to",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      276,
+      117,
+      290,
+      36
+    ],
+    "text": "payment of premiums for a term depen-",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      117,
+      138,
+      448,
+      13
+    ],
+    "text": ": lent on human life and such contracts",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      280,
+      153,
+      188,
+      15
+    ],
+    "text": "being deemed to include",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      280,
+      176,
+      286,
+      18
+    ],
+    "text": "@) contracts for the granting of",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      328,
+      192,
+      236,
+      17
+    ],
+    "text": "disability and double or triple",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      328,
+      208,
+      240,
+      19
+    ],
+    "text": "indemnity accident and sickness",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      328,
+      224,
+      235,
+      16
+    ],
+    "text": "benefits if so specified in such",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      328,
+      241,
+      68,
+      14
+    ],
+    "text": "contracts,",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      280,
+      259,
+      282,
+      17
+    ],
+    "text": "@) contracts for the grant of annuities",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      209,
+      275,
+      330,
+      16
+    ],
+    "text": ": . dependent on human life, and",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      280,
+      294,
+      281,
+      17
+    ],
+    "text": "( contracts relating to capital",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      328,
+      310,
+      186,
+      17
+    ],
+    "text": "redemption business ; and",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      233,
+      333,
+      327,
+      18
+    ],
+    "text": "presoribed means prescribed by regulation.",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      80,
+      365,
+      480,
+      15
+    ],
+    "text": "Act 10 pool 40, The provisions of this Act shalll have effect",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      76,
+      372,
+      484,
+      28
+    ],
+    "text": "incase of notwithstanding anything contained in any other",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      80,
+      396,
+      480,
+      17
+    ],
+    "text": "it other written law, and in any case of conflict or incon=",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      76,
+      404,
+      483,
+      27
+    ],
+    "text": "written law, sistency between the provisions of this Act and",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      208,
+      428,
+      357,
+      18
+    ],
+    "text": "such other law, the provisions of this Act shall,",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      208,
+      444,
+      50,
+      15
+    ],
+    "text": "prevail,",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      115,
+      12,
+      427,
+      27
+    ],
+    "text": "tmsurance Corporation Act, No. 2 of 1961 2 at",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      106,
+      47,
+      434,
+      22
+    ],
+    "text": ". + SCHEDULE (Section 36)",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      101,
+      81,
+      342,
+      15
+    ],
+    "text": "1. Section 2 of the Co-operative Wholesale",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      85,
+      97,
+      358,
+      18
+    ],
+    "text": "Establishment Act, No. 47 of 1949, as amended by",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      77,
+      112,
+      366,
+      16
+    ],
+    "text": "Act No. 36 of 1955 and Act No. 39. of 1957 is",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      85,
+      128,
+      358,
+      18
+    ],
+    "text": "hereby amended in sub-section (2) of that section",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      85,
+      146,
+      96,
+      13
+    ],
+    "text": "as follows",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      117,
+      171,
+      294,
+      19
+    ],
+    "text": "(@) im paragraph (c) of that sub-section",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      170,
+      198,
+      293,
+      19
+    ],
+    "text": "@ by the substitution, for the words",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      213,
+      214,
+      232,
+      18
+    ],
+    "text": "banking, shipping or insur-",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      213,
+      230,
+      232,
+      17
+    ],
+    "text": "ance,, of the words banking",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      213,
+      247,
+      234,
+      17
+    ],
+    "text": "or shipping, \", and :",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      165,
+      270,
+      279,
+      18
+    ],
+    "text": "(i) by the substitution, for the words",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      214,
+      285,
+      230,
+      21
+    ],
+    "text": "objects; and, of the word",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      214,
+      302,
+      117,
+      17
+    ],
+    "text": "object. * ; and",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      118,
+      329,
+      326,
+      18
+    ],
+    "text": "(8) by the omission of paragraph (d) of that",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      166,
+      347,
+      81,
+      13
+    ],
+    "text": "sub-section,",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      102,
+      380,
+      343,
+      21
+    ],
+    "text": "2. Section 31a (and the heading, Provisions",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      86,
+      397,
+      359,
+      30
+    ],
+    "text": "relaing | to insurance | business appearing",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      86,
+      413,
+      350,
+      19
+    ],
+    "text": "immediately above that section), section 3in. an",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      87,
+      428,
+      359,
+      17
+    ],
+    "text": "section 3lc. of the Co-operative Wholesale",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      87,
+      444,
+      358,
+      17
+    ],
+    "text": "Establishment Act, No. 47 of 1949, as amended",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      87,
+      461,
+      311,
+      16
+    ],
+    "text": "by Act No, 39 of 1957, are hereby repealed.",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      103,
+      491,
+      343,
+      20
+    ],
+    "text": "3. Section 35 of the Co-operative Wholesale",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      87,
+      506,
+      387,
+      18
+    ],
+    "text": "Establishment Act, No. 47 of 1949, as amended.",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      88,
+      523,
+      358,
+      17
+    ],
+    "text": "by Act No. 39 of 1957, is hereby amended as",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      87,
+      539,
+      78,
+      14
+    ],
+    "text": "follows :",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      120,
+      567,
+      268,
+      17
+    ],
+    "text": "(0) in sub-section (1) of that section",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      168,
+      594,
+      278,
+      21
+    ],
+    "text": "@ in paragraph () of that sub",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      212,
+      610,
+      282,
+      22
+    ],
+    "text": "section .",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      221,
+      635,
+      226,
+      17
+    ],
+    "text": "()-by the substitution, for all",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      263,
+      651,
+      184,
+      14
+    ],
+    "text": "the words from of the",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      139,
+      667,
+      307,
+      19
+    ],
+    "text": "; Board, other than to",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      209,
+      683,
+      238,
+      16
+    ],
+    "text": ". \"by the Board, of the",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      264,
+      699,
+      165,
+      13
+    ],
+    "text": "words ofthe Board,",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      264,
+      716,
+      26,
+      12
+    ],
+    "text": "and",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      216,
+      738,
+      231,
+      18
+    ],
+    "text": "GD by the substitution, for the",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      264,
+      754,
+      202,
+      16
+    ],
+    "text": "words the Minister; *",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      264,
+      770,
+      182,
+      14
+    ],
+    "text": "and, of the words the",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      263,
+      787,
+      86,
+      15
+    ],
+    "text": "Minister, ;",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      168,
+      811,
+      378,
+      18
+    ],
+    "text": "@ by the omission of paragraph (f) of .",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      215,
+      810,
+      212,
+      33
+    ],
+    "text": "ae omison. on Pacearnee",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      76,
+      21,
+      436,
+      20
+    ],
+    "text": "3 Insurance Corporation Act, No. 2 of 1961",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      282,
+      56,
+      280,
+      16
+    ],
+    "text": "by the renumbering of that sub-",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      330,
+      72,
+      193,
+      15
+    ],
+    "text": "section as section 35; and",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      234,
+      94,
+      330,
+      17
+    ],
+    "text": "(2) by the omission of sub-section (2) of",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      282,
+      111,
+      259,
+      18
+    ],
+    "text": "that section, : oe",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      218,
+      142,
+      344,
+      16
+    ],
+    "text": "4, Section 36 of the Co-operative Wholesale",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      202,
+      157,
+      359,
+      18
+    ],
+    "text": "Establishment Act, No. 47 of 1949, as amended",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      203,
+      165,
+      359,
+      41
+    ],
+    "text": "by Act No. 39 of 1957, is hereby amended in",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      203,
+      188,
+      360,
+      17
+    ],
+    "text": "sub-section (1) of that section by the omission of",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      203,
+      205,
+      361,
+      15
+    ],
+    "text": "the following words : .",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      180,
+      226,
+      381,
+      18
+    ],
+    "text": "other than the moneys received in consequence",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      174,
+      243,
+      387,
+      16
+    ],
+    "text": ". of the insurance business carried on by the",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      232,
+      260,
+      59,
+      15
+    ],
+    "text": "Board,.",
+    "mean_p_confidence": 0.39
+  }
+]
