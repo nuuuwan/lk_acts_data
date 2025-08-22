@@ -1,0 +1,992 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      67,
+      65,
+      408,
+      25
+    ],
+    "text": "* PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      204,
+      108,
+      259,
+      19
+    ],
+    "text": "Ist Session 1970-71 rrr",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      207,
+      121,
+      274,
+      18
+    ],
+    "text": "7 SSL",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      394,
+      136,
+      108,
+      16
+    ],
+    "text": "* Gye",
+    "mean_p_confidence": 0.04
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      288,
+      127,
+      219,
+      57
+    ],
+    "text": "Bs an",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      274,
+      167,
+      232,
+      32
+    ],
+    "text": "ey Pi970-N-- 9+",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      237,
+      264,
+      271,
+      37
+    ],
+    "text": "Ce |",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      84,
+      329,
+      426,
+      37
+    ],
+    "text": "Trade Union Representatives",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      148,
+      376,
+      289,
+      36
+    ],
+    "text": "(Entry into Estates)",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59,
+      421,
+      379,
+      32
+    ],
+    "text": ", Act, No. 25 of 1970",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      193,
+      538,
+      339,
+      16
+    ],
+    "text": "Date of Assent : October 20, 1970 7",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      179,
+      647,
+      240,
+      13
+    ],
+    "text": "Printed on the Orders of Government",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      64,
+      659,
+      470,
+      17
+    ],
+    "text": "and published as a Supplement to Ceylon Government Gatatte, Part If of",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      249,
+      673,
+      102,
+      13
+    ],
+    "text": "October 30, 1970",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      102,
+      761,
+      435,
+      26
+    ],
+    "text": "eae Or ee",
+    "mean_p_confidence": 0.06
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      63,
+      790,
+      474,
+      15
+    ],
+    "text": ". * &pnual Subscription (including Bills) Re 30 (Local), Rs. 40 :",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      104,
+      801,
+      396,
+      15
+    ],
+    "text": "Apmual suinction Goctaing BD Re to att",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      63,
+      806,
+      473,
+      35
+    ],
+    "text": "(BERGE Se Suet aoa dome gee",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76,
+      832,
+      425,
+      24
+    ],
+    "text": "_ Se Tae ie die tae oh oor eae",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      114,
+      34,
+      311,
+      36
+    ],
+    "text": "Trade Union Representatives (Entry into ~",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      159,
+      54,
+      206,
+      16
+    ],
+    "text": "Estates) Act, No. 26 of 1970",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      84,
+      206,
+      15
+    ],
+    "text": "* L. D0, 14/70, .",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      108,
+      378,
+      13
+    ],
+    "text": "AN Ac? TO BZCURE AUTHORIZED REPRESENTATIVES OF",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      129,
+      363,
+      9
+    ],
+    "text": "TRADE UNIONS THE RIGHT T0 ENTER ESTATES FOR TIE",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      146,
+      363,
+      10
+    ],
+    "text": "PURPOSE OF VISITING MEMBERS OF BUCH UNIONS OR",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      164,
+      363,
+      9
+    ],
+    "text": "OF HOLDING OR ADDRESSING MRETINGS OF SUCH",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      181,
+      68,
+      10
+    ],
+    "text": "MEMBERS.",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      123,
+      209,
+      264,
+      17
+    ],
+    "text": "_ [Date of Assent: October 20, 1970]",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      240,
+      378,
+      17
+    ],
+    "text": "BE it enacted by the Queen's Most Excellent Majesty,",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      258,
+      379,
+      16
+    ],
+    "text": "by and with the advice and consent of the Senate and",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      276,
+      380,
+      16
+    ],
+    "text": "the House of Representatives of Ceylon in this present",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      293,
+      381,
+      17
+    ],
+    "text": "Parliament assembled, and by the authority of the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      311,
+      142,
+      15
+    ],
+    "text": "same, ag follows :",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      342,
+      433,
+      17
+    ],
+    "text": "4. This Act may be cited as the Trade Union stort ut",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      360,
+      381,
+      17
+    ],
+    "text": "Representatives (Entry into Estates) Act, No. 95",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      378,
+      58,
+      12
+    ],
+    "text": "of 1970.",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88,
+      413,
+      424,
+      17
+    ],
+    "text": "2. (1) Am authorized representative of a trade Poewot",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      431,
+      447,
+      21
+    ],
+    "text": "union shall, on producing a certificate of identity, if tore",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      449,
+      446,
+      17
+    ],
+    "text": "so required, have the right to enter an estate at all tutves of",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      463,
+      462,
+      19
+    ],
+    "text": "teasonable times kee suo,",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      470,
+      484,
+      50,
+      9
+    ],
+    "text": "eniate for",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      493,
+      414,
+      17
+    ],
+    "text": "{a) for the purpose of visiting members of such seria",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      135,
+      507,
+      379,
+      20
+    ],
+    "text": "union who are resident on such estate, and 7",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88,
+      534,
+      365,
+      18
+    ],
+    "text": "(8) for the purpose of holding or addressing",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      135,
+      552,
+      319,
+      16
+    ],
+    "text": "meetings of members of such union who are",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      135,
+      570,
+      181,
+      17
+    ],
+    "text": "employed on such estate:",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      598,
+      367,
+      16
+    ],
+    "text": "Provided, however, that entry into an estate for",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      616,
+      383,
+      17
+    ],
+    "text": "any purpose specified in paragraph (6) shall not be",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      633,
+      432,
+      19
+    ],
+    "text": "demanded as of right by such authorized representa- .",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      651,
+      383,
+      18
+    ],
+    "text": "tive unless not less than one week's notice in writing",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      669,
+      391,
+      17
+    ],
+    "text": "of the intended entry for such purpose has been given",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      687,
+      270,
+      17
+    ],
+    "text": "to the person in charge of the estate,",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      715,
+      364,
+      17
+    ],
+    "text": "(2) Any person who wilfully obstructs an authoriz-",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      732,
+      393,
+      18
+    ],
+    "text": "__ed representative of a trade anion in the exercise of",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      750,
+      381,
+      18
+    ],
+    "text": "any right under sub-section (1) shall be guilty of an",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      768,
+      381,
+      16
+    ],
+    "text": "offence and shall on conviction after summary trial",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      785,
+      381,
+      18
+    ],
+    "text": "before a Magistrate be liable to imprisonment of",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      804,
+      381,
+      17
+    ],
+    "text": "aither description for a term not exceeding three",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      821,
+      380,
+      17
+    ],
+    "text": "months or to a fine not exceeding one thousand rapees",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      839,
+      278,
+      17
+    ],
+    "text": "or to both such imprisoament and fine.",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      859,
+      89,
+      10
+    ],
+    "text": "Jigme. ar",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      160,
+      25,
+      353,
+      17
+    ],
+    "text": "2 Trade Union Representatives (Entry into",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      254,
+      25,
+      206,
+      36
+    ],
+    "text": "Estates) Tee, No. 28 of 1970",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      65,
+      72,
+      247,
+      25
+    ],
+    "text": "Toterpre . In this Act",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      66,
+      91,
+      30,
+      7
+    ],
+    "text": "tiieae",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      178,
+      97,
+      373,
+      16
+    ],
+    "text": "authorized representative, when used with",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      229,
+      109,
+      322,
+      37
+    ],
+    "text": "re(erence to & trade union, means any person",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      228,
+      129,
+      323,
+      16
+    ],
+    "text": "who has been appointed by the President or",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      229,
+      145,
+      322,
+      16
+    ],
+    "text": "the Secretary of that union to be a",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      229,
+      161,
+      322,
+      16
+    ],
+    "text": "representative of that union for the purpose",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      228,
+      177,
+      86,
+      15
+    ],
+    "text": "of this Act;",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      181,
+      200,
+      370,
+      17
+    ],
+    "text": "certificate of identity, when used with",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      230,
+      216,
+      321,
+      17
+    ],
+    "text": "veference to any person who i3 an autho-",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      229,
+      232,
+      322,
+      17
+    ],
+    "text": "rized representative of a trade union, means",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      230,
+      248,
+      322,
+      16
+    ],
+    "text": "a document -issued to such person by the",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      229,
+      264,
+      323,
+      17
+    ],
+    "text": "President or the Secretary of that union and",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      229,
+      280,
+      323,
+      17
+    ],
+    "text": "stating that for the purposes of this Act",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      230,
+      296,
+      322,
+      17
+    ],
+    "text": "such person is a representative of that union;",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      182,
+      320,
+      346,
+      16
+    ],
+    "text": "estate means any land or group of lands",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      100,
+      344,
+      452,
+      17
+    ],
+    "text": ": (@) which forms 9 separate and. distinct",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      278,
+      362,
+      248,
+      15
+    ],
+    "text": "property; .",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      231,
+      380,
+      326,
+      17
+    ],
+    "text": "(8) which belongs to or is held by -one or",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      279,
+      397,
+      149,
+      15
+    ],
+    "text": "several persons; and",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      231,
+      415,
+      321,
+      17
+    ],
+    "text": "(c) of which an extent of not less than fifty",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      279,
+      432,
+      273,
+      15
+    ],
+    "text": "acres is under cultivation for any",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      62,
+      447,
+      491,
+      30
+    ],
+    "text": "co purpose other than the production of",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      69,
+      463,
+      483,
+      17
+    ],
+    "text": "Cap. 448. - foodstuffs as defined m the Food",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      279,
+      480,
+      219,
+      16
+    ],
+    "text": "Production (Estates) Act; and",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      182,
+      504,
+      372,
+      16
+    ],
+    "text": "trade union * means any trade union Tegistered",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      68,
+      520,
+      420,
+      16
+    ],
+    "text": "ap. 188 under the Trade Unions Ordinance.",
+    "mean_p_confidence": 0.75
+  }
+]

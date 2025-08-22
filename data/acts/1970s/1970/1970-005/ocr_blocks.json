@@ -1,0 +1,519 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      125,
+      52,
+      403,
+      26
+    ],
+    "text": "PARLIAMENT OF CEYLON:",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      218,
+      81,
+      354,
+      50
+    ],
+    "text": "5th Session 1969-70\" \"",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      425,
+      116,
+      119,
+      23
+    ],
+    "text": "(i-2-16 8",
+    "mean_p_confidence": -0.0
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      292,
+      128,
+      280,
+      43
+    ],
+    "text": "Sy Oar",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      272,
+      181,
+      264,
+      25
+    ],
+    "text": "ep Pei",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93,
+      230,
+      283,
+      38
+    ],
+    "text": "; QED",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      117,
+      307,
+      400,
+      37
+    ],
+    "text": "Agricultural and Industrial",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      182,
+      350,
+      281,
+      37
+    ],
+    "text": "Credit Corporation",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      220,
+      393,
+      199,
+      37
+    ],
+    "text": "(Amendment)",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      185,
+      436,
+      271,
+      33
+    ],
+    "text": "Act, No. 5 of 1970",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      209,
+      545,
+      223,
+      14
+    ],
+    "text": "Date of Assent : January 27, 1970",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      110,
+      621,
+      336,
+      31
+    ],
+    "text": ". Printed on the Orders of Government",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115,
+      738,
+      409,
+      23
+    ],
+    "text": "Socishs! Se EMRE, SRE SS Ss",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115,
+      767,
+      409,
+      12
+    ],
+    "text": "Annual Subscription (Including Bills) Rs. 30 (Local), Rx at",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      114,
+      779,
+      410,
+      22
+    ],
+    "text": "Eee RIE, Boon Game, Sele",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      114,
+      800,
+      409,
+      23
+    ],
+    "text": "Rbarllons wil \"be aewopied on de Soatiuan ce KGS",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161,
+      822,
+      320,
+      13
+    ],
+    "text": "feats iE ie SSE Sn SP Mn",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      105,
+      846,
+      427,
+      15
+    ],
+    "text": "Price: 20 cents Postage; 10 cents",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98,
+      39,
+      334,
+      17
+    ],
+    "text": "Agricultural and Industrial Credit Corporation",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      142,
+      55,
+      247,
+      17
+    ],
+    "text": "(Amendment) Act, No. of 1970",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      85,
+      102,
+      13
+    ],
+    "text": "L. D.O. 24/00.",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      114,
+      375,
+      14
+    ],
+    "text": "AN Acr TO AMEND TRE AGRICULTURAL AND INDUSTRIAL",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      147,
+      130,
+      234,
+      13
+    ],
+    "text": "Crepir Conporation ORDINANCE.",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      137,
+      161,
+      255,
+      17
+    ],
+    "text": "ete of Ascent: Jamary 27, 1970)",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      195,
+      375,
+      19
+    ],
+    "text": "BE it enacted by the Queen's Most Excellent Majesty,",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      211,
+      377,
+      15
+    ],
+    "text": "by and with the advice and consent of the Senate and",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      215,
+      376,
+      30
+    ],
+    "text": "tie House of Representatives of Geylon in this present",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      242,
+      376,
+      18
+    ],
+    "text": "Parliament assembled, and by the authority of the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      258,
+      138,
+      14
+    ],
+    "text": "same, a follows:",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      289,
+      430,
+      18
+    ],
+    "text": "4, This Act may be cited as the Agricaltoral and mes tite,",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      305,
+      414,
+      18
+    ],
+    "text": "Industrial Credit Corporation (Amendment) Act,",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      320,
+      104,
+      13
+    ],
+    "text": "No. 5 of 1970.",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      352,
+      447,
+      17
+    ],
+    "text": "2 Section 51 of the Agricultural and Industrial Ameimes ot",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      367,
+      455,
+      30
+    ],
+    "text": "Credit Corporation Ordinance is hereby amended in Ss,",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      383,
+      378,
+      18
+    ],
+    "text": "sub-section (1) of that section by the insertion,",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      399,
+      377,
+      17
+    ],
+    "text": "immediately after paragraph (0) of that sub-section,",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      415,
+      258,
+      17
+    ],
+    "text": "of the following new paragraph:",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      106,
+      438,
+      331,
+      17
+    ],
+    "text": "(an) to borrow, or accept deposits of, mon",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      143,
+      439,
+      309,
+      31
+    ],
+    "text": "? Hom the iaoreranent the Cenural Bask",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157,
+      470,
+      296,
+      18
+    ],
+    "text": "of Ceylon, or from any other source",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157,
+      487,
+      296,
+      17
+    ],
+    "text": "approved by the Monetary Board of such",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      158,
+      502,
+      294,
+      19
+    ],
+    "text": "Bank, on such terms and conditions as may",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157,
+      518,
+      296,
+      17
+    ],
+    "text": "be determined by agreement between the",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157,
+      534,
+      296,
+      17
+    ],
+    "text": "corporation and the Government, or such",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157,
+      549,
+      296,
+      17
+    ],
+    "text": "Bank, or soch other source, ae the caso",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      159,
+      560,
+      72,
+      21
+    ],
+    "text": "may bey.",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      848,
+      241,
+      21
+    ],
+    "text": "J OTe -3700 eH .",
+    "mean_p_confidence": 0.22
+  }
+]

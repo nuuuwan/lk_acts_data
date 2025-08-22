@@ -1,0 +1,3808 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      98,
+      48,
+      396,
+      38
+    ],
+    "text": ".: PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      213,
+      89,
+      188,
+      28
+    ],
+    "text": "2nd Session 1971-72 vile",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      108,
+      121,
+      402,
+      40
+    ],
+    "text": "; a ae :",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      100,
+      204,
+      399,
+      25
+    ],
+    "text": ". eS AP ea",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      263,
+      204,
+      232,
+      61
+    ],
+    "text": "aly Xe See",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      245,
+      254,
+      131,
+      38
+    ],
+    "text": "RSP.",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      156,
+      336,
+      307,
+      39
+    ],
+    "text": "Passport (Regulation)",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      193,
+      380,
+      282,
+      31
+    ],
+    "text": "and Exit Permit. ~",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      116,
+      422,
+      338,
+      35
+    ],
+    "text": ". Act, No. 53 of 1971",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      192,
+      524,
+      243,
+      29
+    ],
+    "text": "Date of Assent: December 17, 1971",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      196,
+      624,
+      245,
+      35
+    ],
+    "text": "Printed on the Orders of Government",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      108,
+      777,
+      365,
+      15
+    ],
+    "text": "* annust Subscription Gneluding Bills) Rs. 30 (Local),",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      124,
+      778,
+      404,
+      36
+    ],
+    "text": "Ra ook, Se,",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      124,
+      812,
+      405,
+      22
+    ],
+    "text": "Decanter each out in, Zeopeet of the. year. following, Late",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      124,
+      823,
+      370,
+      25
+    ],
+    "text": "ee ee",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      117,
+      7,
+      313,
+      20
+    ],
+    "text": "Passport (Regulation) and Exit Permit Act,",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      199,
+      27,
+      128,
+      16
+    ],
+    "text": "No. 68 of 1971",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      51,
+      456,
+      20
+    ],
+    "text": "L. D0. 75/71. | .",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      83,
+      378,
+      18
+    ],
+    "text": "AN AcT 70 PROVIDE FOR THE REGULATION AND CONTROL",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      116,
+      106,
+      347,
+      13
+    ],
+    "text": "OF THE 1SSUR AND RENEWAL OF PASSPORTS; FOR THE",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      117,
+      124,
+      345,
+      15
+    ],
+    "text": "T8BUE OF EXIT PERMITS 10 CITIZENS OF CZYLON;",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      116,
+      144,
+      346,
+      13
+    ],
+    "text": "TO IMPOSE AN OBLIGATION ON CITIZENS OF CEYLON",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      117,
+      166,
+      346,
+      10
+    ],
+    "text": "BMPLOYED ABROAD TO REMIT A PART OF THEIR",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      117,
+      183,
+      345,
+      16
+    ],
+    "text": "EARNINGS IN FOREIGN EXCHANGE T0 CEYLON; AND",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      97,
+      204,
+      365,
+      12
+    ],
+    "text": "TO PROVIDE FOR ALL MATTERS CONNECTED",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      117,
+      225,
+      252,
+      10
+    ],
+    "text": "THEREWITH OR INCIDENTAL THERETO.",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      113,
+      245,
+      409,
+      22
+    ],
+    "text": "\"(Date of Assent: December 17, 1071) :",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      278,
+      376,
+      17
+    ],
+    "text": "BE it enacted by the Queen's Most Excellent Majesty,",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      294,
+      473,
+      15
+    ],
+    "text": "by and with the advice and consent of the House of :",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      310,
+      376,
+      17
+    ],
+    "text": "Representatives of Ceylon in this present Parliament",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      326,
+      376,
+      17
+    ],
+    "text": "assembled, and by the authority of the same, as",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      342,
+      74,
+      13
+    ],
+    "text": "follows:",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      103,
+      372,
+      432,
+      19
+    ],
+    "text": "4, This Act may be cited as the Passport Shir tite,",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      388,
+      435,
+      29
+    ],
+    "text": "(Regulation) and Exit Permit Act, No. 89 081871. and Gentoo.",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      404,
+      376,
+      18
+    ],
+    "text": "shal] come into operation on such date as the Minister",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      420,
+      375,
+      16
+    ],
+    "text": "may appoint by Notification published in the Gazette.",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      103,
+      450,
+      438,
+      21
+    ],
+    "text": "2. The provisions of this Act shall be in addition THs Act,",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      467,
+      416,
+      17
+    ],
+    "text": "to, and not in derogation of, the provisions of any ater",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      481,
+      452,
+      16
+    ],
+    "text": "other written law: written Daw",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      104,
+      510,
+      359,
+      16
+    ],
+    "text": "Provided however that, in the event of any",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88,
+      526,
+      376,
+      17
+    ],
+    "text": "inconsistency or conflict between the provisions of this",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      542,
+      375,
+      17
+    ],
+    "text": "Act and the provisions of any other written law, the",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88,
+      558,
+      377,
+      18
+    ],
+    "text": "provisions of this Act shall to the extent, and to the",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      574,
+      378,
+      17
+    ],
+    "text": "extent only, of such inconsistency or conflict, prevail",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      590,
+      330,
+      17
+    ],
+    "text": "over the provisions of such other written jaw,",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      146,
+      614,
+      313,
+      20
+    ],
+    "text": ". PART I :",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      126,
+      639,
+      299,
+      14
+    ],
+    "text": "Passronra anp EMsncency CEatistcates",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      104,
+      663,
+      430,
+      14
+    ],
+    "text": "8. It shell be in the discretion of the - piston",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      679,
+      462,
+      21
+    ],
+    "text": "competent authority to issue or renew a passport or Catan",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      696,
+      422,
+      17
+    ],
+    "text": "emergency certificate or to refuse to issue or renew isue",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      712,
+      467,
+      29
+    ],
+    "text": "a passport or emergency certiBeate, and no such matt",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      729,
+      454,
+      17
+    ],
+    "text": "refusal to issue or Tenew a passport or emergency amin",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      744,
+      383,
+      16
+    ],
+    "text": "certificate shall he called in question in any court of",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88,
+      760,
+      351,
+      19
+    ],
+    "text": "Jaw or tribunal by way of writ or otherwise:",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      105,
+      784,
+      456,
+      18
+    ],
+    "text": "Provided, however, that any person aggrieved by ,",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      791,
+      384,
+      28
+    ],
+    "text": "the decision of the competent authority shall &",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      817,
+      247,
+      16
+    ],
+    "text": "entitled to appeal to the Minister,",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      836,
+      108,
+      10
+    ],
+    "text": "We Katee qum)",
+    "mean_p_confidence": 0.01
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      56,
+      13,
+      453,
+      20
+    ],
+    "text": "~ 2 Passport (Regulation) and Exit Permit Act,",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      300,
+      30,
+      123,
+      16
+    ],
+    "text": "No, 63 of 1971",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72,
+      59,
+      470,
+      20
+    ],
+    "text": "Saneutaton, A, (1) It shall be deemed to be a condition of the",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      66,
+      69,
+      476,
+      30
+    ],
+    "text": "futnation issue or renewal of any passport or -emergency",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71,
+      91,
+      472,
+      22
+    ],
+    "text": "ras, cartificate that the competent authority may, at any",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71,
+      108,
+      373,
+      16
+    ],
+    "text": "or ennfgeney tite and in his discretion, ~",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72,
+      123,
+      48,
+      9
+    ],
+    "text": "torical.",
+    "mean_p_confidence": 0.05
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      183,
+      137,
+      336,
+      17
+    ],
+    "text": "(@) cancel or suspend such passport or emerge",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      229,
+      143,
+      313,
+      26
+    ],
+    "text": "certificate; or Passpo geney",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      177,
+      183,
+      366,
+      19
+    ],
+    "text": "(2) restrict the validity of such passport or",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      230,
+      200,
+      312,
+      17
+    ],
+    "text": "emergency certificate as regards its duration",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      229,
+      216,
+      255,
+      16
+    ],
+    "text": "or ag regards the countries of travel.",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      183,
+      242,
+      360,
+      19
+    ],
+    "text": "(2) Where the competent authority cancels or",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      167,
+      258,
+      376,
+      19
+    ],
+    "text": "suspends or restricts the validity of any passport or",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      167,
+      275,
+      376,
+      16
+    ],
+    "text": "emergency certificate under sub-section (1), he shall",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      167,
+      290,
+      377,
+      18
+    ],
+    "text": "eavse notice of such cancellation or suspension ar",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      167,
+      296,
+      377,
+      28
+    ],
+    "text": "restriction to be served on the holder of such passport,",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      166,
+      322,
+      377,
+      18
+    ],
+    "text": "or emergency certificate and upon the receipt of such",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      166,
+      337,
+      377,
+      18
+    ],
+    "text": "notice, the holder of such passport or emergency certi-",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      167,
+      353,
+      377,
+      18
+    ],
+    "text": "ficate shall surrender such passport or emergency",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      167,
+      369,
+      376,
+      17
+    ],
+    "text": "certificate to the competent authority or to an olficer",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      167,
+      385,
+      115,
+      16
+    ],
+    "text": "specified by him,",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      69,
+      413,
+      474,
+      30
+    ],
+    "text": "Fert et, 3. (1) The duration of validity of a passport shell",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      73,
+      436,
+      471,
+      16
+    ],
+    "text": "Fawens so@ be a period not exceeding one year, provided that the",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      73,
+      452,
+      489,
+      18
+    ],
+    "text": "ove? competent authority may in special cireumstances and",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      170,
+      467,
+      375,
+      17
+    ],
+    "text": "in his discretion issue a passport which is",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      168,
+      483,
+      377,
+      28
+    ],
+    "text": "Talid fore period not exoeeding three, years, The",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      168,
+      499,
+      377,
+      17
+    ],
+    "text": "competent authority may renew the validity of such",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      168,
+      514,
+      377,
+      18
+    ],
+    "text": "passport from time to time for further periods, each",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      168,
+      530,
+      378,
+      18
+    ],
+    "text": "such period not exceeding three years, so however that",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      168,
+      546,
+      378,
+      17
+    ],
+    "text": "the total period of validity of such passport sball not",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      168,
+      562,
+      298,
+      18
+    ],
+    "text": "exceed ten years from the date of its issue.",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      184,
+      594,
+      363,
+      17
+    ],
+    "text": "2) The duration of validity of an emergency",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      167,
+      613,
+      379,
+      21
+    ],
+    "text": "certificate shall ba a period not exceeding one year,",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      167,
+      631,
+      379,
+      21
+    ],
+    "text": "provided that the competent authority may in special",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      164,
+      652,
+      383,
+      21
+    ],
+    "text": "circumstances and in his discrotion issue an",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      88,
+      671,
+      459,
+      22
+    ],
+    "text": ": emergency certificate which is valid for # period not",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      166,
+      691,
+      381,
+      22
+    ],
+    "text": "exceeding two years. The competent authority may",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      167,
+      710,
+      380,
+      19
+    ],
+    "text": "renew the validity of such emergency certificate for a",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      167,
+      732,
+      280,
+      19
+    ],
+    "text": "further period not exceeding two years:",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71,
+      765,
+      476,
+      21
+    ],
+    "text": "Lore ot 6. (1) A diplomatic passport shall be issued only",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71,
+      781,
+      476,
+      23
+    ],
+    "text": "dinloaetle to a person or category of persons approved by the",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72,
+      802,
+      376,
+      13
+    ],
+    "text": "Herrero ~ Minister. :",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71,
+      815,
+      402,
+      11
+    ],
+    "text": "af vay, soe .",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      120,
+      2,
+      343,
+      18
+    ],
+    "text": "Passport (Regulation) and Exit Permit Act, $",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      220,
+      20,
+      107,
+      15
+    ],
+    "text": "No. &3 of 1972",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90,
+      43,
+      393,
+      24
+    ],
+    "text": ". @) The duration of validity of a diplomatic pase -",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      87,
+      67,
+      375,
+      17
+    ],
+    "text": "port shall, ia the first instanco, be a period ut",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      88,
+      82,
+      374,
+      18
+    ],
+    "text": "exoceding five years, he competent autpority may",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      88,
+      98,
+      374,
+      17
+    ],
+    "text": "yenew the validity of such pusspurt for a durtler",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      88,
+      115,
+      225,
+      16
+    ],
+    "text": "period nub exceeding live years.",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      105,
+      141,
+      418,
+      17
+    ],
+    "text": "7. (1) The competent authority may, in hie coomin",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89,
+      157,
+      444,
+      19
+    ],
+    "text": "discretion, determine the countries of travel in respect vied mir",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89,
+      169,
+      449,
+      20
+    ],
+    "text": "of which any passport or emergency certificate snall 2% \"Mt",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90,
+      189,
+      406,
+      18
+    ],
+    "text": "be issued and such passport or emergency certificate #4",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      68,
+      201,
+      463,
+      19
+    ],
+    "text": ". ball be valid for travel only to te countries so Srutcams",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90,
+      220,
+      64,
+      16
+    ],
+    "text": "specified.",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108,
+      251,
+      353,
+      28
+    ],
+    "text": "(2) An emergency cationic, may bo endorsed by",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      92,
+      267,
+      369,
+      16
+    ],
+    "text": "the competent authority as yalid for travel only to",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89,
+      283,
+      187,
+      16
+    ],
+    "text": "dadia, Nepal or Pakistan.",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108,
+      313,
+      421,
+      17
+    ],
+    "text": "8. The validity of a passport or emergency certi- | nevi",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      92,
+      328,
+      452,
+      18
+    ],
+    "text": "fioate may-be restricted to a single journey or to a su senie a",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93,
+      341,
+      470,
+      21
+    ],
+    "text": "specified number of journeys. Wher the number of \"7 > -",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93,
+      361,
+      369,
+      17
+    ],
+    "text": "journeys is not so specified, such passport or emergency",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93,
+      376,
+      457,
+      16
+    ],
+    "text": "vertificate shall be valid for any number.of journeys. .",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      109,
+      407,
+      429,
+      17
+    ],
+    "text": ". (1) The fee for the issue of a passport shall he yee ter te",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      94,
+      422,
+      434,
+      19
+    ],
+    "text": "twenty rupees and the fee for its renewal shall be stoi,",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      94,
+      440,
+      430,
+      22
+    ],
+    "text": "five rupees per annum, . Bee",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      486,
+      455,
+      41,
+      8
+    ],
+    "text": "raat",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      254,
+      464,
+      290,
+      9
+    ],
+    "text": ". , . Serer at",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      111,
+      465,
+      428,
+      22
+    ],
+    "text": "(2) The fea for the issue of a diplomatic passport Emergucy",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      95,
+      473,
+      436,
+      30
+    ],
+    "text": "sball be thirty rupees and the fee for its renewal hal sti,",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      95,
+      503,
+      180,
+      16
+    ],
+    "text": "be five rupess per annum.",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      112,
+      527,
+      353,
+      23
+    ],
+    "text": "(8) The fee for the isoue of an emergency certificate",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      96,
+      547,
+      370,
+      19
+    ],
+    "text": "shall be five ropees and the fee for ite renewal shall be",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      96,
+      566,
+      422,
+      16
+    ],
+    "text": "five rupees per annum. .",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      113,
+      594,
+      355,
+      19
+    ],
+    "text": "(4) The fees for the issue or renewal of & passport",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      96,
+      611,
+      372,
+      18
+    ],
+    "text": "or emergency certificate under the proviso to section",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      97,
+      626,
+      371,
+      21
+    ],
+    "text": "17 (1) shall be five rupess and two rupees, respectively.",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      158,
+      666,
+      174,
+      17
+    ],
+    "text": "secre oe ones PARTIE, so.",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      233,
+      693,
+      99,
+      14
+    ],
+    "text": "Extr Peaurrs",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      113,
+      721,
+      444,
+      16
+    ],
+    "text": "10. No citizen of Ceylon who, on the date of the esis pemite",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      98,
+      739,
+      374,
+      20
+    ],
+    "text": "coming into operation of this Act, is in possession",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      96,
+      758,
+      378,
+      18
+    ],
+    "text": "of a valid passport or emergency certificate, shall leave",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      99,
+      776,
+      376,
+      20
+    ],
+    "text": "Ceylon except under the authority of an exit permit",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      97,
+      795,
+      246,
+      18
+    ],
+    "text": "issued by the competent authority:",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      54,
+      9,
+      442,
+      21
+    ],
+    "text": ". & Passport (Regulation) and Exit Permit Act,",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      288,
+      25,
+      108,
+      16
+    ],
+    "text": "No, 88 of 1971",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      124,
+      58,
+      404,
+      18
+    ],
+    "text": ". + Provided, however, that the preceding provisions",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      99,
+      74,
+      430,
+      17
+    ],
+    "text": ". of this section shall not apply to citizen of Ceylon",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      157,
+      90,
+      371,
+      17
+    ],
+    "text": "who bas been residing in any foreign country for a",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      156,
+      105,
+      372,
+      17
+    ],
+    "text": "parind of not less than three months immediately prior",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      127,
+      121,
+      401,
+      16
+    ],
+    "text": ". to the dats of the coming into operation of this Act",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      156,
+      136,
+      252,
+      16
+    ],
+    "text": "and comes to Ceylon after that date.",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      66,
+      160,
+      463,
+      24
+    ],
+    "text": "Prebibition 41, No airline, shipping company or travel agent",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      66,
+      167,
+      461,
+      29
+    ],
+    "text": "sie se shall sell or issue a icket or provide a ascage,",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      66,
+      183,
+      462,
+      34
+    ],
+    "text": "acer whether payment for such ticket or passage fas be",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      66,
+      210,
+      462,
+      19
+    ],
+    "text": "ssl ost or will be made in Ceylon or otherwise, for travel out",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65,
+      226,
+      463,
+      22
+    ],
+    "text": "Salen of Ceylon to any person who is required to obtain an",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      76,
+      242,
+      452,
+      17
+    ],
+    "text": "it permits, exit permit under the provisions of section 10 unless",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      156,
+      257,
+      355,
+      18
+    ],
+    "text": "such person is in possession of such an exit permit.",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      66,
+      288,
+      462,
+      17
+    ],
+    "text": "Yagae of 42, Where the competent authority is of opinion",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      66,
+      304,
+      463,
+      21
+    ],
+    "text": "wierniu that a person who has applied for an exit permit",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      63,
+      312,
+      465,
+      30
+    ],
+    "text": "weliog referred to in section 10, will be leaving Ceylon for",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      67,
+      330,
+      462,
+      37
+    ],
+    "text": "sanopment tthe purpose of engaging in any employment in any",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      156,
+      350,
+      372,
+      19
+    ],
+    "text": "foreign country, whether or not he had already",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      155,
+      366,
+      374,
+      18
+    ],
+    "text": "obtained or sought such employment, the competent",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      156,
+      378,
+      372,
+      36
+    ],
+    "text": "authority may, as a condition precedent to the issne",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      155,
+      397,
+      374,
+      19
+    ],
+    "text": "of the exit permit, require such pereon to enter into",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      156,
+      412,
+      373,
+      20
+    ],
+    "text": "an agreement with the competent authority of the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      156,
+      430,
+      205,
+      17
+    ],
+    "text": "nature specified in section 14.",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      67,
+      458,
+      463,
+      24
+    ],
+    "text": "Restriction 43. Where the competent authority issues an exit",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      66,
+      474,
+      463,
+      21
+    ],
+    "text": "ammvot nermit under this Part, be may, in his dis-",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      66,
+      489,
+      464,
+      21
+    ],
+    "text": "pecan i cretion, restrict the validity of the passport of the",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      61,
+      501,
+      468,
+      39
+    ],
+    "text": "iamued. holder of the exit permit to.expire on a date not later",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      157,
+      520,
+      373,
+      21
+    ],
+    "text": "than three years from the date of the issue of such",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      156,
+      537,
+      374,
+      20
+    ],
+    "text": "exit permit or restrict the countries to which the holder",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      157,
+      555,
+      195,
+      18
+    ],
+    "text": "of such passport may travel:",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      173,
+      582,
+      358,
+      28
+    ],
+    "text": "Provided, however, that any person aggrieved by",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      158,
+      598,
+      373,
+      19
+    ],
+    "text": "the decision of the competent authority shall",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      157,
+      617,
+      260,
+      18
+    ],
+    "text": "be entitled to appeal to the Minister.",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      305,
+      648,
+      77,
+      13
+    ],
+    "text": "PART III",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      156,
+      675,
+      374,
+      17
+    ],
+    "text": "Imposrrion OF CONDITIONS ON: HOLDERS OF PASSPORTS,",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      155,
+      691,
+      376,
+      17
+    ],
+    "text": "EMERGENCY CERTIFICATES AND EXIT PERMITS, WHEN",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      286,
+      707,
+      115,
+      14
+    ],
+    "text": "Leavina CEYLON",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65,
+      732,
+      467,
+      24
+    ],
+    "text": "dweenens to 48 _(t) Where a person applies to the compatent",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65,
+      749,
+      467,
+      20
+    ],
+    "text": "Aaiieiza authority for the issue or renewal of a passport or",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      64,
+      764,
+      468,
+      25
+    ],
+    "text": "feteost emergency certificate or for the issue of an exit parmit",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      64,
+      775,
+      468,
+      25
+    ],
+    "text": "feous kaviog referred to in saction 10, and the competent authority",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      61,
+      794,
+      472,
+      31
+    ],
+    "text": "Sean, is of opinion that the applicant will be leaving Ceylon",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      98,
+      9,
+      342,
+      16
+    ],
+    "text": "Passport (Regulation) and Exit Permit Act, 5",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      199,
+      25,
+      105,
+      15
+    ],
+    "text": "No. 68 of 1971",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66,
+      46,
+      372,
+      42
+    ],
+    "text": "for the purpose of ongeging in any employment in any",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66,
+      72,
+      372,
+      16
+    ],
+    "text": "foreign couatry, whether or not he has already",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      52,
+      87,
+      387,
+      17
+    ],
+    "text": "+ obtained or sought such employment, the competent",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66,
+      104,
+      372,
+      16
+    ],
+    "text": "authority may, as @ condition precedent to the issue",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66,
+      119,
+      372,
+      28
+    ],
+    "text": "or renewal of such Passport or emergency certificate",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66,
+      135,
+      372,
+      16
+    ],
+    "text": "or to the issue of such exit permit, requize the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66,
+      151,
+      354,
+      17
+    ],
+    "text": "applicant to :",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      83,
+      177,
+      355,
+      16
+    ],
+    "text": "(@) if he does not already have an account in his",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      129,
+      192,
+      308,
+      17
+    ],
+    "text": "ams in a commercial buak in Ceylon, open",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      130,
+      208,
+      144,
+      15
+    ],
+    "text": "such an account; and",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      84,
+      235,
+      353,
+      17
+    ],
+    "text": "() enter into an agreement with the competent",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      131,
+      251,
+      305,
+      16
+    ],
+    "text": "authority for and on behalf of the Govern-",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      131,
+      267,
+      306,
+      16
+    ],
+    "text": "ment, substantially in such form as may be",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      131,
+      282,
+      306,
+      18
+    ],
+    "text": "required by the competent authority, that he",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      131,
+      294,
+      306,
+      29
+    ],
+    "text": "shall remit in foreign exchange to his",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      131,
+      314,
+      306,
+      15
+    ],
+    "text": "account in snch bank, sach amounts, at",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      131,
+      329,
+      303,
+      16
+    ],
+    "text": "such intervals and for such period, as may",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      131,
+      345,
+      289,
+      16
+    ],
+    "text": "be determined by the competent authority.",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      85,
+      372,
+      351,
+      16
+    ],
+    "text": "@) Ia determining the amount to be remitted",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70,
+      378,
+      366,
+      41
+    ],
+    "text": "under anb-seetion (1), the competent authority shall",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70,
+      403,
+      367,
+      16
+    ],
+    "text": "take into consideration the ability of such person to",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70,
+      418,
+      367,
+      15
+    ],
+    "text": "remit such amount, so however that che amount",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70,
+      434,
+      464,
+      16
+    ],
+    "text": "determined shall in no caso exoeed ten per centum of .",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      51,
+      449,
+      387,
+      17
+    ],
+    "text": "~_ the total monthly emoluments that he is likely to",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      62,
+      466,
+      444,
+      16
+    ],
+    "text": "obtain from such employment, a",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      216,
+      497,
+      79,
+      12
+    ],
+    "text": "PART IV",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93,
+      518,
+      324,
+      14
+    ],
+    "text": "PROVISIONS APPLICABLE TO CITIZENS OF CEYLON",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      101,
+      537,
+      230,
+      14
+    ],
+    "text": ". IN FOREIGN COUNTRIES",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86,
+      561,
+      401,
+      17
+    ],
+    "text": "48. (1) Where any citizen of Ceylon who js in a teras",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71,
+      576,
+      453,
+      21
+    ],
+    "text": "foreign country and is engaged in any employment waist t,",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71,
+      593,
+      437,
+      16
+    ],
+    "text": "in such country applies for the issue or renewal of Snemwey",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71,
+      608,
+      439,
+      19
+    ],
+    "text": "his passport or emergency certificate to the compe- Srsieates",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72,
+      624,
+      434,
+      17
+    ],
+    "text": "tent authority in such country, the competent st Eeyion",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68,
+      631,
+      442,
+      38
+    ],
+    "text": "authority may, a8 a condition prevedent to the issue fs torre",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72,
+      656,
+      371,
+      17
+    ],
+    "text": "or renewal of such passport or emergency certificate,",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      73,
+      672,
+      372,
+      16
+    ],
+    "text": "require the applicant to enter into an agreement with",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72,
+      683,
+      373,
+      36
+    ],
+    "text": "tha competent anthority for and on behalf of the",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      73,
+      703,
+      410,
+      17
+    ],
+    "text": "Government substantially in such form as may be 4",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      73,
+      718,
+      373,
+      19
+    ],
+    "text": "provided by the competent authority and containing",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      73,
+      734,
+      265,
+      18
+    ],
+    "text": "the following terms and coaditions:",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90,
+      766,
+      358,
+      19
+    ],
+    "text": "(@) that such person shall, if ho docs not already",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      136,
+      782,
+      352,
+      16
+    ],
+    "text": "have an account in his naroe in a commercial ~~",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      136,
+      798,
+      312,
+      18
+    ],
+    "text": "bank in Ceylon, open suc an account; and",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      175,
+      15,
+      342,
+      19
+    ],
+    "text": "$ Paseport (Regulation) and Feit Permit Act,",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      307,
+      32,
+      108,
+      15
+    ],
+    "text": "No. 58 of 1972",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      190,
+      62,
+      359,
+      19
+    ],
+    "text": "() that he shall remit in foreign exchange to hia",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      236,
+      63,
+      313,
+      37
+    ],
+    "text": "account in such bank, euch amounts, ab such",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      236,
+      94,
+      314,
+      19
+    ],
+    "text": "intervals and for such period, os may be",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      236,
+      110,
+      282,
+      19
+    ],
+    "text": "determined by the competent authority.",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      190,
+      137,
+      360,
+      16
+    ],
+    "text": "{2) In determining the amount to be remitted under",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      174,
+      153,
+      376,
+      17
+    ],
+    "text": "sub-section (1) the competent authority shall take into",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      151,
+      165,
+      399,
+      36
+    ],
+    "text": ". consideration the ability of such person to remit such",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      174,
+      185,
+      381,
+      15
+    ],
+    "text": "sum, so however that the amount determined shal! in.",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      174,
+      200,
+      376,
+      19
+    ],
+    "text": "no case exceed ten per centum of the total monthly",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      173,
+      216,
+      367,
+      18
+    ],
+    "text": "emoluments thot he obtains from such employment.",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      325,
+      251,
+      73,
+      13
+    ],
+    "text": "PART V",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      331,
+      279,
+      60,
+      12
+    ],
+    "text": "Genera",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      78,
+      310,
+      470,
+      16
+    ],
+    "text": "Power ef 16, The Minister may, from time to time, issue",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      78,
+      326,
+      469,
+      19
+    ],
+    "text": "tie;Miait to the Controller. such general or special directions",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      78,
+      333,
+      469,
+      30
+    ],
+    "text": "diesen as may be necessary to give full force and effect, to. the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      173,
+      358,
+      374,
+      16
+    ],
+    "text": "prineiples of this Act or to the policy of the Govern-",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      172,
+      373,
+      374,
+      15
+    ],
+    "text": "ment, so however thet no such direction shall be in",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      172,
+      389,
+      375,
+      13
+    ],
+    "text": "tonfict or inconsistent with the provisions of this Act",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      172,
+      393,
+      249,
+      28
+    ],
+    "text": "or the regulations wade thereunder.",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      78,
+      439,
+      469,
+      17
+    ],
+    "text": "Refoes? or 17. (1) Without prejudice to the powers of the",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      77,
+      451,
+      483,
+      25
+    ],
+    "text": "grclaios competent authority under section 3, it shal! Le lawfal_}",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      78,
+      467,
+      470,
+      26
+    ],
+    "text": "omraency \" for the competent authorily to refuse to issue or",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      77,
+      478,
+      471,
+      31
+    ],
+    "text": "rite, Tenew a passport or emergency certificate or to refuse",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      173,
+      503,
+      192,
+      16
+    ],
+    "text": "to issue an exit permit to",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      190,
+      529,
+      358,
+      18
+    ],
+    "text": "(@) any person who does not enter into the: agreo-",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      236,
+      545,
+      312,
+      17
+    ],
+    "text": "ment required to be entered into under the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      132,
+      561,
+      415,
+      18
+    ],
+    "text": ". provisions of section 14 (2) or section 15 (1);",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      91,
+      582,
+      158,
+      8
+    ],
+    "text": ": or",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      188,
+      601,
+      360,
+      16
+    ],
+    "text": "@) any person who defaulta in the performance of",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      235,
+      617,
+      313,
+      13
+    ],
+    "text": "the terms of an agreement entered into under",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      235,
+      622,
+      311,
+      27
+    ],
+    "text": "the provisions of section 14 (1) or section",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      104,
+      650,
+      438,
+      15
+    ],
+    "text": "- 15 (1); or .",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      76,
+      663,
+      472,
+      42
+    ],
+    "text": ". (6) any person who fails to discharge his obligations",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      234,
+      687,
+      313,
+      18
+    ],
+    "text": "under the Compulsory Public Service Act,",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      234,
+      705,
+      114,
+      12
+    ],
+    "text": "No. 70 of 1961:",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      186,
+      731,
+      360,
+      17
+    ],
+    "text": "Provided, however, that the competent authority",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      169,
+      747,
+      377,
+      18
+    ],
+    "text": "shall, if such person applics Jor the issue or renowai",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      169,
+      763,
+      378,
+      18
+    ],
+    "text": "of a passport or emergency certificate solely for the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      170,
+      778,
+      375,
+      20
+    ],
+    "text": "purpose of returning to Ceylon, issue to such person",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      170,
+      794,
+      375,
+      31
+    ],
+    "text": "passport or emergency certiiate which is valid tor a",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      170,
+      812,
+      234,
+      17
+    ],
+    "text": "period uot exceeding six months,",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      111,
+      9,
+      343,
+      17
+    ],
+    "text": "Passport (Regulation) and Ewit Permit Act, 7",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      212,
+      26,
+      107,
+      15
+    ],
+    "text": "No. 68 of 1974",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      96,
+      56,
+      446,
+      19
+    ],
+    "text": "(2) Any person who defaults in the performance of 3-25 ot",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      81,
+      72,
+      372,
+      17
+    ],
+    "text": "the terms of an agreement -entered into under the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      89,
+      88,
+      364,
+      19
+    ],
+    "text": "rovisions of section 14 {1) or section 15 (1) or who",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      80,
+      90,
+      372,
+      46
+    ],
+    "text": "Tails to discharge his obligations under the Comjnul-",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      80,
+      108,
+      372,
+      28
+    ],
+    "text": "soty Public Service Act, No. 70 of 1961, thal be",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      80,
+      135,
+      372,
+      18
+    ],
+    "text": "iable to have his passport or emergency certificate",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      80,
+      151,
+      65,
+      13
+    ],
+    "text": "cancelied.",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      96,
+      183,
+      415,
+      16
+    ],
+    "text": "48. Any person eieuewe",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      97,
+      210,
+      355,
+      16
+    ],
+    "text": "{a) who contravenes or fails to comply with any",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      143,
+      226,
+      309,
+      16
+    ],
+    "text": "provisions of this Act or any regulation made",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      143,
+      242,
+      101,
+      14
+    ],
+    "text": "thereunder; or",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      98,
+      268,
+      354,
+      19
+    ],
+    "text": "@) sho contravenes or fails to comply with any",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      144,
+      287,
+      307,
+      16
+    ],
+    "text": "terms or conditions of his relevant agreement,",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72,
+      314,
+      380,
+      19
+    ],
+    "text": "_ shall, in addition to any penalty or other punishment",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      81,
+      330,
+      370,
+      16
+    ],
+    "text": "otherwise specially provided for, be guilty of an",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      82,
+      346,
+      370,
+      13
+    ],
+    "text": "offence under this Act and shall on conviction after",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      82,
+      361,
+      370,
+      16
+    ],
+    "text": "summary trial before a competent Magistrate be",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      82,
+      361,
+      370,
+      36
+    ],
+    "text": "Hiable to a fine not exceeding five thousand rupees or",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      82,
+      392,
+      370,
+      16
+    ],
+    "text": "to imprisonment of either description for a term not",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      82,
+      407,
+      370,
+      17
+    ],
+    "text": "exceeding one year or to both such fine and",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      82,
+      424,
+      98,
+      16
+    ],
+    "text": "imprisonment.",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      99,
+      451,
+      431,
+      17
+    ],
+    "text": "19. No prosecution for an offence onder this Act Prosecutions.",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83,
+      466,
+      369,
+      17
+    ],
+    "text": "shall be instituted except by the Controller or with his",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83,
+      483,
+      424,
+      13
+    ],
+    "text": "written sanction. :",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      99,
+      513,
+      434,
+      15
+    ],
+    "text": "20. The Controller, in consultation with the Compoundion",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      84,
+      527,
+      439,
+      18
+    ],
+    "text": "Governor of the Centra} Bank of Ceylon ora person % *#*",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      84,
+      545,
+      370,
+      16
+    ],
+    "text": "deputed by him, may compound an offence committed",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      84,
+      560,
+      371,
+      19
+    ],
+    "text": "under section 18 (8) by accepting from the offender",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      85,
+      576,
+      370,
+      17
+    ],
+    "text": "the sum of foreign exchange which he has failed to",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      85,
+      592,
+      370,
+      16
+    ],
+    "text": "remit to Ceylon under the agreement or a sum in",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      85,
+      608,
+      371,
+      16
+    ],
+    "text": "Ceylon rupees not exceeding three times the value of",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      84,
+      624,
+      159,
+      16
+    ],
+    "text": "such foreign exchange.",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      100,
+      651,
+      433,
+      17
+    ],
+    "text": "24, (1) The Minister may make all such regnla- Regulations,",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      84,
+      667,
+      364,
+      17
+    ],
+    "text": "tions as may be necessary for the purpose uf carryin",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      84,
+      672,
+      374,
+      28
+    ],
+    "text": "ont the provisions and giving effect to the principles a",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      84,
+      698,
+      61,
+      13
+    ],
+    "text": "this Act.",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      101,
+      722,
+      358,
+      16
+    ],
+    "text": "(2) Every regulation made by the Minister shall ag",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      85,
+      738,
+      375,
+      15
+    ],
+    "text": "soon as may be possible be placed before the House",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      86,
+      754,
+      375,
+      16
+    ],
+    "text": "of Representatives for approval, and every such",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      86,
+      760,
+      376,
+      27
+    ],
+    "text": "regulation shall be valid and effectoal from the date",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      85,
+      785,
+      454,
+      20
+    ],
+    "text": "on which notification of such approval is published .",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      79,
+      800,
+      420,
+      16
+    ],
+    "text": "in the Gazette.",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      169,
+      8,
+      347,
+      17
+    ],
+    "text": "8 Passport (Regulation) and Exit Permit Act,",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      303,
+      24,
+      110,
+      15
+    ],
+    "text": "No, 68 of 1971",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      66,
+      54,
+      482,
+      22
+    ],
+    "text": "Iaterpretation. 22. In this Act, unless the context otherwise",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      170,
+      74,
+      71,
+      16
+    ],
+    "text": "requires",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      187,
+      96,
+      362,
+      17
+    ],
+    "text": "commercial bank has the same meaning as in",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      233,
+      113,
+      170,
+      16
+    ],
+    "text": "the Monetary Law Acts",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      188,
+      132,
+      362,
+      18
+    ],
+    "text": "competent authority has the same meaning",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      234,
+      149,
+      316,
+      16
+    ],
+    "text": "as in the Immigrants and Emigrants",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      234,
+      165,
+      132,
+      17
+    ],
+    "text": "Regulations, 1953;",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      187,
+      185,
+      364,
+      17
+    ],
+    "text": "competent Magistrate means a Magistrate",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      233,
+      200,
+      317,
+      20
+    ],
+    "text": "having jurisdiction within the limits of the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      234,
+      216,
+      317,
+      17
+    ],
+    "text": "judicial district of Colombo as defined in the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      234,
+      232,
+      292,
+      15
+    ],
+    "text": "First Schedule to the Courts Ordinances",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      188,
+      252,
+      363,
+      16
+    ],
+    "text": "Controller has the same meaning as in the",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      235,
+      268,
+      316,
+      29
+    ],
+    "text": "Tounigrants and Emigrants Act ond includes",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      234,
+      284,
+      317,
+      17
+    ],
+    "text": "any Deputy or Assistant Controller of",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      85,
+      300,
+      372,
+      17
+    ],
+    "text": ": Immigration and Emigration;",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      188,
+      319,
+      362,
+      21
+    ],
+    "text": "emergency certificate has the eame meaning as",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      234,
+      335,
+      316,
+      18
+    ],
+    "text": "in the Immigrants and Emigrants Regule-",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      234,
+      353,
+      85,
+      14
+    ],
+    "text": "tions, 1956;",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      188,
+      370,
+      362,
+      30
+    ],
+    "text": "*esit permit means an exit permit issued by the",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      234,
+      387,
+      262,
+      18
+    ],
+    "text": "competent authority under this Act;",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      188,
+      405,
+      362,
+      19
+    ],
+    "text": "foreign country means any country other than",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      235,
+      425,
+      52,
+      16
+    ],
+    "text": "Ceylon;",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      188,
+      441,
+      362,
+      20
+    ],
+    "text": "foreign exchange has the same meaning as in",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      180,
+      459,
+      246,
+      17
+    ],
+    "text": ": the Exchange Control Act.",
+    "mean_p_confidence": 0.53
+  }
+]

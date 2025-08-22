@@ -1,0 +1,838 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      89,
+      8,
+      480,
+      41
+    ],
+    "text": ". . cs",
+    "mean_p_confidence": 0.07
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      105,
+      38,
+      437,
+      20
+    ],
+    "text": ". 913",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      134,
+      45,
+      438,
+      51
+    ],
+    "text": "PARLIAMENT OF CEYLON i}",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      57,
+      92,
+      463,
+      24
+    ],
+    "text": ": Qnd Session 1971-72 =",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      212,
+      147,
+      175,
+      26
+    ],
+    "text": "1 Sy .",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      210,
+      178,
+      362,
+      25
+    ],
+    "text": ": SON",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      271,
+      192,
+      93,
+      48
+    ],
+    "text": "@ ale",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      274,
+      247,
+      178,
+      17
+    ],
+    "text": "rms :",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      263,
+      255,
+      111,
+      15
+    ],
+    "text": "SST",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      169,
+      342,
+      288,
+      39
+    ],
+    "text": "Army (Amendment)",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      176,
+      394,
+      277,
+      33
+    ],
+    "text": "Act, No. 22 of 1971",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78,
+      505,
+      440,
+      36
+    ],
+    "text": "7 4 Date of Assent: June 28, 1971 5",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      198,
+      601,
+      372,
+      23
+    ],
+    "text": "7 :",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      168,
+      637,
+      267,
+      14
+    ],
+    "text": "_ Printed om the Orders of Government.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      117,
+      738,
+      432,
+      24
+    ],
+    "text": "Sinisa Op Opes or cee ee Baan Cane +",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      81,
+      768,
+      433,
+      13
+    ],
+    "text": ". Anoua) Subscriptions (inciuding Billa) Rs 30 (Local), Ra at",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59,
+      781,
+      454,
+      30
+    ],
+    "text": "\"Siena BEE, a? o, Yo SH Eine, Sele 2",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      118,
+      799,
+      396,
+      26
+    ],
+    "text": "miStont eal te eee Oe Sale Bs",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      164,
+      823,
+      302,
+      12
+    ],
+    "text": "Eanes Tle He TE My Oh euee",
+    "mean_p_confidence": 0.05
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      110,
+      845,
+      456,
+      28
+    ],
+    "text": "Price: 15 esnts Postage: 10 conte ;",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      123,
+      36,
+      298,
+      18
+    ],
+    "text": "Army (Amendment) Act, No. 22 of 1971",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      68,
+      193,
+      14
+    ],
+    "text": "L. DO. 47/68. . .",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      100,
+      89,
+      299,
+      17
+    ],
+    "text": "_ AN Act 70 amanp tom Amwy Aor.",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      155,
+      111,
+      395,
+      18
+    ],
+    "text": "[Dato of Assent: June 28, 1971] .",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      137,
+      378,
+      18
+    ],
+    "text": "BE it enacted by the Queens Most Excellent Majesty,",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      153,
+      379,
+      30
+    ],
+    "text": "by and with the advice and consent of the Senate and",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      169,
+      448,
+      18
+    ],
+    "text": "the House of Representatives of Ceylon in this present .",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      184,
+      379,
+      17
+    ],
+    "text": "Parliament assembled, and by the authority of the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      202,
+      141,
+      15
+    ],
+    "text": "same, as follows:",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99,
+      228,
+      430,
+      18
+    ],
+    "text": "4.. This Act may be. cited as the Army auntie",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      245,
+      246,
+      17
+    ],
+    "text": "{Amendment) Act, No. 22 of 1971.",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      271,
+      456,
+      18
+    ],
+    "text": "+. The Army Act, hereinafter referred to as the Iesinin ot",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      286,
+      447,
+      20
+    ],
+    "text": "\\ principal Act, is hereby amended by the insertion, 345,\"",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      303,
+      453,
+      18
+    ],
+    "text": "immediately after soction 1564 {inserted by Act -Cuean.",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      319,
+      344,
+      18
+    ],
+    "text": "No. 22 of 1964), of the following new section:",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      337,
+      381,
+      31
+    ],
+    "text": "+ Speed 186n. Section 17 of the Defence Foros",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      354,
+      384,
+      28
+    ],
+    "text": "Petiag to Ordinance, No. 8 of 1910, as amended",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      374,
+      382,
+      24
+    ],
+    "text": "{Beoagos by Ordinance No. & of 1845, which is",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      390,
+      380,
+      22
+    ],
+    "text": "ciyeuert. deemed to be in foroe by virtue of the",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      395,
+      381,
+      35
+    ],
+    "text": "fstimat provisions of the preceding section of",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      416,
+      380,
+      32
+    ],
+    "text": "onus this Act shall, for the purposes of",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      438,
+      381,
+      23
+    ],
+    "text": "Stara, awarding a pension or geatnity to the",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      454,
+      380,
+      20
+    ],
+    "text": "Reateeet widow or family of such officer or soldier",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      470,
+      378,
+      16
+    ],
+    "text": "Denceors. ag ig referred to in the aforesaid section",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      152,
+      486,
+      312,
+      30
+    ],
+    "text": "Vy be domed alveays to have bad effect",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      179,
+      502,
+      284,
+      18
+    ],
+    "text": "subject to the following amendment,",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      179,
+      518,
+      285,
+      17
+    ],
+    "text": "that is to say, the substitution, for the",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      180,
+      534,
+      360,
+      16
+    ],
+    "text": "words \" who dies within seven years of",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      179,
+      550,
+      284,
+      17
+    ],
+    "text": "sustaining or contracting such wound,",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      180,
+      566,
+      284,
+      19
+    ],
+    "text": "injary or disease: in paragraph (c}",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      179,
+      582,
+      359,
+      17
+    ],
+    "text": "of sub-section (1) of the aforesaid section .",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      180,
+      598,
+      284,
+      16
+    ],
+    "text": "17, of the words * who dies as a result",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      179,
+      614,
+      261,
+      17
+    ],
+    "text": "of such wound, injury or disease: ,",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      180,
+      620,
+      366,
+      39
+    ],
+    "text": "and sevordingly peision oF gratuity .",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      179,
+      646,
+      285,
+      19
+    ],
+    "text": "may be awarded to any such widow or",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      180,
+      653,
+      288,
+      41
+    ],
+    "text": "family in accordance with the provisions",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      179,
+      678,
+      285,
+      14
+    ],
+    "text": "of the eforesnid section 17 as 80",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      180,
+      695,
+      74,
+      12
+    ],
+    "text": "amended..",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      101,
+      712,
+      440,
+      38
+    ],
+    "text": "8, The amendment made in the Principal Act by Retrospective",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      730,
+      468,
+      21
+    ],
+    "text": "section 2 of this Act shall be deemed, for all purposes, p\"tene",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      737,
+      429,
+      26
+    ],
+    "text": "to have had elleot on the date on which Grdisance mit",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      761,
+      435,
+      21
+    ],
+    "text": "No. 5 of 1945, came into operation: meten",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      101,
+      787,
+      468,
+      18
+    ],
+    "text": "Provided however that, whore any widow or family oy",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      803,
+      377,
+      19
+    ],
+    "text": "of any officer or soldier becomes eligible for a pensioD",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      818,
+      375,
+      16
+    ],
+    "text": "by virtue of the aforesaid section 17 as so amended,",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      835,
+      146,
+      17
+    ],
+    "text": "such pension shall",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      94,
+      858,
+      85,
+      12
+    ],
+    "text": "Emtese0 oT)",
+    "mean_p_confidence": 0.05
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      167,
+      34,
+      342,
+      25
+    ],
+    "text": "2 Army (Amendment) Act, No. 8 of 1971",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      185,
+      74,
+      367,
+      17
+    ],
+    "text": "(@) in a caso where the death of the officer or soldier",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      231,
+      90,
+      320,
+      16
+    ],
+    "text": "has accutred prior to the first day of October,",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      232,
+      105,
+      320,
+      17
+    ],
+    "text": "1988, be payable only with effect from the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      154,
+      122,
+      313,
+      19
+    ],
+    "text": "+. first day of October, 1968, and -",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      185,
+      145,
+      366,
+      17
+    ],
+    "text": "@) in 2 case where the death of the officer or soldier",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      231,
+      161,
+      321,
+      16
+    ],
+    "text": "has occurred on or after the first day of",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      231,
+      176,
+      320,
+      30
+    ],
+    "text": "October, 1968, bo. payable from the doy",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      159,
+      192,
+      274,
+      18
+    ],
+    "text": ": following the date of death.",
+    "mean_p_confidence": 0.7
+  }
+]

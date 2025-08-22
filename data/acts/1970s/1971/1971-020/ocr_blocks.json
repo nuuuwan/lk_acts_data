@@ -1,0 +1,772 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      116,
+      43,
+      369,
+      24
+    ],
+    "text": "PARLIAMENT .OF CEYLON",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      145,
+      81,
+      254,
+      19
+    ],
+    "text": ". 2nd Session 1971-72",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395,
+      104,
+      56,
+      16
+    ],
+    "text": "Lo tae",
+    "mean_p_confidence": 0.08
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      444,
+      117,
+      25,
+      12
+    ],
+    "text": "E56",
+    "mean_p_confidence": 0.05
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      285,
+      150,
+      255,
+      19
+    ],
+    "text": "ae {2 4.",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      287,
+      161,
+      217,
+      34
+    ],
+    "text": "Bi Eip7t-6- 16 24",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      220,
+      183,
+      307,
+      19
+    ],
+    "text": ": Sie, ep",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      266,
+      196,
+      229,
+      32
+    ],
+    "text": "Cig st",
+    "mean_p_confidence": -0.0
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      258,
+      210,
+      230,
+      36
+    ],
+    "text": "ele N . ou",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      252,
+      254,
+      111,
+      21
+    ],
+    "text": "sus VO",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      132,
+      341,
+      341,
+      38
+    ],
+    "text": "Railways (Amendment)",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      420,
+      392,
+      16,
+      7
+    ],
+    "text": "=",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      157,
+      392,
+      336,
+      34
+    ],
+    "text": "Act, No. 20 of 1971 -",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      75,
+      502,
+      466,
+      15
+    ],
+    "text": ". Date of Assent: May 27, 1971 :",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      177,
+      599,
+      252,
+      26
+    ],
+    "text": "Printed on the Orders of GovernmeRt",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      124,
+      694,
+      415,
+      15
+    ],
+    "text": "Prine atthe Devarmigsrr oc Govminutt Patera, Corton, *",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      124,
+      710,
+      355,
+      15
+    ],
+    "text": "\"Yo be purchased at the Govaaymenr Pusiicarions BUREAU,",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      275,
+      726,
+      51,
+      9
+    ],
+    "text": "Coma",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      125,
+      743,
+      413,
+      16
+    ],
+    "text": "Annual Subseription (Including Bills) Re. 30 (Local), Rs 40 .",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      126,
+      758,
+      406,
+      15
+    ],
+    "text": "eee tothe Sermnmnrmet, Covamut",
+    "mean_p_confidence": 0.08
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      124,
+      770,
+      413,
+      15
+    ],
+    "text": "aN Sole, Oba Sn, Coane 3 before 20",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62,
+      784,
+      416,
+      15
+    ],
+    "text": "+ December each year in respect af the year following. Late",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      124,
+      797,
+      354,
+      16
+    ],
+    "text": "Riscrbtoss wilt be ecorpad, on the condition thet Bile",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      136,
+      810,
+      330,
+      15
+    ],
+    "text": "isgued before the date of payment will not be supplied.",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      91,
+      837,
+      417,
+      17
+    ],
+    "text": "Price: 15 cents Postage: 10 eents",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118,
+      36,
+      316,
+      17
+    ],
+    "text": "Railways (Amendment) Act, No. 20 of 1971",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88,
+      66,
+      208,
+      14
+    ],
+    "text": "L. D0. 5/71. ~",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      104,
+      93,
+      344,
+      19
+    ],
+    "text": "An Acr 10 AmenD THE RAILWays ORDINANCE,",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      159,
+      117,
+      234,
+      18
+    ],
+    "text": "[Date of Assent: May 27, 1971]",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      140,
+      397,
+      20
+    ],
+    "text": ". BEE it enacted by the Queen's Most Excellent Majesty,",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      145,
+      378,
+      26
+    ],
+    "text": "by and with the advice and consent of the Seueie",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      171,
+      378,
+      19
+    ],
+    "text": "and the House of Representatives of Ceylon in this",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      188,
+      378,
+      18
+    ],
+    "text": "present Parliament assembled, and by the authority",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      203,
+      189,
+      16
+    ],
+    "text": "of the same, as follows :",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      102,
+      228,
+      432,
+      18
+    ],
+    "text": "1. This Act may be cited as. the Railways sbor it.",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      243,
+      246,
+      17
+    ],
+    "text": "(Amendment) Act, No. 20 of 1971.",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      101,
+      267,
+      452,
+      18
+    ],
+    "text": "2. Section 3 of the Railways Ordinance (herein- Ameodmet of",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      283,
+      463,
+      21
+    ],
+    "text": "after referred to as the principal enactment) is 222",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      298,
+      380,
+      20
+    ],
+    "text": "hereby amended by the omission of the first proviso",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      315,
+      107,
+      14
+    ],
+    "text": "to that section.",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      102,
+      339,
+      451,
+      31
+    ],
+    "text": "8. Section 4 of the Brincipal enactment ia hereby aagean of",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      355,
+      459,
+      20
+    ],
+    "text": "amended by the substitution, for the words All such #02,4.2t,",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      371,
+      447,
+      18
+    ],
+    "text": "rules shall, of the words ' All such rales, excepting exteluest",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      387,
+      381,
+      29
+    ],
+    "text": "rules relating to the changes to be mado for the",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      405,
+      379,
+      16
+    ],
+    "text": "conveyance of passengers and goods by railway and",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      418,
+      481,
+      29
+    ],
+    "text": "the goeds that are to be charged at: special rates, :",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      438,
+      395,
+      14
+    ],
+    "text": "shel , .",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      459,
+      460,
+      23
+    ],
+    "text": "_ The following new section is hereby inserted Toure ot,",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      474,
+      470,
+      20
+    ],
+    "text": "immediately after section 4, and shall have effect as .07, sce? #4,",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      490,
+      446,
+      18
+    ],
+    "text": "section 4a, of the principel enactment: enaotmant.",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      510,
+      377,
+      20
+    ],
+    "text": "TOpein ot da Rules. made by the Minister",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      522,
+      377,
+      34
+    ],
+    "text": "iecharger relating to the changes for the convey-",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      544,
+      343,
+      28
+    ],
+    "text": "Siete i, ance of passengers and goods by",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      552,
+      381,
+      29
+    ],
+    "text": "foots railway shall be published in the",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      181,
+      576,
+      281,
+      16
+    ],
+    "text": "Gazette and shall come into operation",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      181,
+      591,
+      282,
+      16
+    ],
+    "text": "on such date as may be specified",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      133,
+      607,
+      117,
+      13
+    ],
+    "text": ". therein..",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      102,
+      629,
+      464,
+      15
+    ],
+    "text": "8 The Schedule to the principal enactment is smentmmntot",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      635,
+      467,
+      30
+    ],
+    "text": "hereby amended as followss tee srttipel",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92,
+      666,
+      437,
+      20
+    ],
+    "text": "_ (1) under the heading Passengers cet",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      150,
+      689,
+      274,
+      16
+    ],
+    "text": "(@) by the. repeal of paragraph 1; and",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      150,
+      708,
+      396,
+      17
+    ],
+    "text": "() by the renumbering of paragraphs 2, 3, .",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      197,
+      724,
+      324,
+      17
+    ],
+    "text": "4, 5 and 6 ag paragraphs 1, 2, 3, 4 :",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      153,
+      740,
+      210,
+      17
+    ],
+    "text": "\"and 5 respectively; and",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      103,
+      761,
+      248,
+      19
+    ],
+    "text": "(2) under the heading Goods\"",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      150,
+      784,
+      273,
+      16
+    ],
+    "text": "(a) by the repeal of paragraph 1; and",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      150,
+      803,
+      311,
+      17
+    ],
+    "text": "() by the renumbering of paragraphs 2, 3,",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      162,
+      803,
+      299,
+      34
+    ],
+    "text": "by 4,5, 6 and? a8 paragraphs 1, 3, 3,",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      131,
+      835,
+      231,
+      16
+    ],
+    "text": "4. 5 and 6 respectively.",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      94,
+      850,
+      85,
+      13
+    ],
+    "text": "Kast a.596 179",
+    "mean_p_confidence": 0.06
+  }
+]

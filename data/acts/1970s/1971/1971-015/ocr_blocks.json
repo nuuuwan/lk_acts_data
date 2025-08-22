@@ -1,0 +1,5018 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      135,
+      13,
+      364,
+      24
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      226,
+      51,
+      289,
+      27
+    ],
+    "text": "Ist Session 1970-71 S35,",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      162,
+      100,
+      363,
+      9
+    ],
+    "text": "t fh a",
+    "mean_p_confidence": 0.03
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      298,
+      94,
+      240,
+      44
+    ],
+    "text": "ey Pa aedt -o5 HY",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      300,
+      136,
+      236,
+      21
+    ],
+    "text": "antag . Ay",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      272,
+      129,
+      260,
+      56
+    ],
+    "text": "Liga ma ZA f'",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      272,
+      191,
+      86,
+      28
+    ],
+    "text": "abe)",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      149,
+      211,
+      223,
+      36
+    ],
+    "text": ". Su",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      125,
+      304,
+      377,
+      37
+    ],
+    "text": "Temporary Residence Tax",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      179,
+      354,
+      269,
+      33
+    ],
+    "text": "Act, No. 15 of 1971",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      215,
+      470,
+      255,
+      23
+    ],
+    "text": "Date of Azsent: March 17,1971\" - |",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      196,
+      585,
+      240,
+      14
+    ],
+    "text": "Printed on the Orders of Goverament",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      121,
+      700,
+      395,
+      23
+    ],
+    "text": "Sacha ty LR OR BS SEE",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      121,
+      728,
+      395,
+      36
+    ],
+    "text": "See ea pena Wars",
+    "mean_p_confidence": 0.07
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      121,
+      760,
+      396,
+      24
+    ],
+    "text": "pron a a a",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      167,
+      781,
+      303,
+      13
+    ],
+    "text": "anna le Be ge Sottn Sih ast he at",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      112,
+      807,
+      414,
+      15
+    ],
+    "text": "Price: 45 Conta. . Postage: 10 Cents",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      107,
+      15,
+      333,
+      19
+    ],
+    "text": "Temporary Residence Tax Act, No. 15 of 1971",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      49,
+      100,
+      13
+    ],
+    "text": "L, D.O. 24/70,",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      78,
+      378,
+      13
+    ],
+    "text": "Aw Acr 10 MAKE PROVISION FOR THE LRVY AND",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      100,
+      97,
+      363,
+      12
+    ],
+    "text": "RECOVERY OF A TAX COMPUTED WITH REFERENCE TO",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      100,
+      114,
+      363,
+      13
+    ],
+    "text": "THE STAY IN CEYLON OF CERTAIN PERSONS WHO ARE",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      100,
+      132,
+      362,
+      14
+    ],
+    "text": "NOT CITIZENS OF CEYLON, AND FOR MATTERS",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      100,
+      153,
+      324,
+      11
+    ],
+    "text": "CONNECTED THEREWITH OR INCIDENTAL THERETO.",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      148,
+      177,
+      265,
+      18
+    ],
+    "text": "[Date of Assent: March 17, 1971] .",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      208,
+      428,
+      18
+    ],
+    "text": "BE it enacted by the Queens Most Excellent Majesty, :",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      221,
+      378,
+      37
+    ],
+    "text": "rd and with the advice and consent of the Senate and",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98,
+      241,
+      365,
+      17
+    ],
+    "text": "1 Honse of Representatives of Ceylon in this present",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      256,
+      379,
+      17
+    ],
+    "text": "Parliament assembled, and by the authority of the",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      273,
+      141,
+      15
+    ],
+    "text": "same, as follows :",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      100,
+      305,
+      431,
+      20
+    ],
+    "text": "4. This Act may be cited as the Temporary gion iste.",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      324,
+      257,
+      16
+    ],
+    "text": "Residence Tax Act, No. 15 of 1971.",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      100,
+      356,
+      447,
+      17
+    ],
+    "text": "2. (1) Subject to the other provisions of this Act, charge at ws",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      372,
+      413,
+      17
+    ],
+    "text": "there shall be charged from every person te.",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      101,
+      400,
+      278,
+      17
+    ],
+    "text": "(@) who is not a citizen of Ceylon; and",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      101,
+      427,
+      363,
+      17
+    ],
+    "text": "(@) who, after the relevant: date, remains in",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      149,
+      444,
+      63,
+      16
+    ],
+    "text": "Ceylon",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      166,
+      468,
+      319,
+      17
+    ],
+    "text": "() for a period exoeoding three months -",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      198,
+      484,
+      266,
+      16
+    ],
+    "text": "under the authority of a visa",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      196,
+      501,
+      135,
+      16
+    ],
+    "text": "granted to him, or",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      163,
+      524,
+      301,
+      29
+    ],
+    "text": "(for a period exoveding three months",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      197,
+      540,
+      322,
+      17
+    ],
+    "text": "after the expiration of the period for .",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      138,
+      556,
+      326,
+      13
+    ],
+    "text": ". which he is authorized to remain in",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      198,
+      572,
+      310,
+      17
+    ],
+    "text": "Ceylon by a visa granted to him, .",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      603,
+      377,
+      19
+    ],
+    "text": "a tax (hereafter in this Act reforrod to as * the tax ),",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      617,
+      379,
+      21
+    ],
+    "text": "for the period of his stey in Ceylon computed at the",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      635,
+      214,
+      17
+    ],
+    "text": "Yate eet, out in sub-section (2).",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      103,
+      669,
+      335,
+      20
+    ],
+    "text": "(2) The rate of tax .",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      691,
+      394,
+      37
+    ],
+    "text": "@) in {he case of |% person referred fo ia",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      149,
+      716,
+      315,
+      16
+    ],
+    "text": "aub-paragraph (i) of paragraph (8) of eub-",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      145,
+      712,
+      261,
+      40
+    ],
+    "text": "section (), eal Paragreph (@)",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      151,
+      759,
+      313,
+      17
+    ],
+    "text": "(@) if the visa granted to him is for a period",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      176,
+      775,
+      299,
+      17
+    ],
+    "text": "exceeding twelve months, be :",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      198,
+      802,
+      266,
+      17
+    ],
+    "text": "@ five hundred rupees in respect of",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      245,
+      803,
+      203,
+      38
+    ],
+    "text": "the first twelve months, and",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      94,
+      837,
+      85,
+      14
+    ],
+    "text": "Xn sie ann",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      174,
+      10,
+      359,
+      18
+    ],
+    "text": "2 Temporary Residence Taw Act, No. 16 of 1971",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      282,
+      42,
+      275,
+      19
+    ],
+    "text": "Gi) an additional five hundred rupees",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      333,
+      60,
+      223,
+      17
+    ],
+    "text": "in respect of each subsequent",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      327,
+      66,
+      229,
+      41
+    ],
+    "text": "period exceeding three months",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      340,
+      91,
+      216,
+      17
+    ],
+    "text": "mt mot exceeding twelve",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      171,
+      106,
+      247,
+      16
+    ],
+    "text": ". months, and",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      235,
+      137,
+      319,
+      17
+    ],
+    "text": "() if the visa granted to him is for a period",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      281,
+      143,
+      273,
+      28
+    ],
+    "text": "not exeseding twelve months. be five",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      280,
+      170,
+      273,
+      18
+    ],
+    "text": "hundred rupees in respect of that",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      209,
+      186,
+      122,
+      16
+    ],
+    "text": ": period;",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      187,
+      216,
+      367,
+      46
+    ],
+    "text": "(B) in respect of a oreo refered fo in sub-",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      232,
+      234,
+      306,
+      30
+    ],
+    "text": "paragraph (ii) of 8] of sul",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      232,
+      241,
+      211,
+      32
+    ],
+    "text": "Boction (1) shat Parasrr",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      232,
+      288,
+      319,
+      17
+    ],
+    "text": "(a) if the period for which he is authorized",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      280,
+      305,
+      271,
+      16
+    ],
+    "text": "to remain in Ceylon under the visa",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      279,
+      321,
+      272,
+      17
+    ],
+    "text": "granted to him expired before the",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      154,
+      337,
+      397,
+      17
+    ],
+    "text": ". Televant date and he remains in",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      280,
+      353,
+      271,
+      17
+    ],
+    "text": "Ceylon on or after April 2, 1971, be",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      139,
+      369,
+      412,
+      17
+    ],
+    "text": "five hundred rupecs for the period",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      279,
+      374,
+      271,
+      28
+    ],
+    "text": "commencing on the relevant date and",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      278,
+      401,
+      272,
+      19
+    ],
+    "text": "ending on April 2, 1971, and an",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      274,
+      413,
+      276,
+      41
+    ],
+    "text": "bea eaten five hundred rupees | for",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      278,
+      434,
+      271,
+      13
+    ],
+    "text": "each subsequent period excesdin ee",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      278,
+      434,
+      272,
+      37
+    ],
+    "text": "months bat not exceeding twelve",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      278,
+      465,
+      56,
+      15
+    ],
+    "text": "months;",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      231,
+      489,
+      318,
+      17
+    ],
+    "text": "(8) if the period for which he is authorized",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      270,
+      506,
+      278,
+      17
+    ],
+    "text": "_to remain in Ceylon expired on or after",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      277,
+      521,
+      272,
+      14
+    ],
+    "text": "the relevant date but before the date",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      277,
+      537,
+      271,
+      14
+    ],
+    "text": "of commencement of this Act or",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      256,
+      553,
+      292,
+      17
+    ],
+    "text": "expires on or after the date of",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      277,
+      569,
+      271,
+      14
+    ],
+    "text": "commencement of this Act and he",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      277,
+      585,
+      146,
+      17
+    ],
+    "text": "remains in Ceylon",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      225,
+      610,
+      324,
+      19
+    ],
+    "text": "@ foro - period: exceeding twelve",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      326,
+      613,
+      228,
+      36
+    ],
+    "text": "months. be five hundred rupees",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      326,
+      644,
+      223,
+      16
+    ],
+    "text": "for the first twelve months, and",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      326,
+      660,
+      222,
+      15
+    ],
+    "text": "an additional five bundred",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      326,
+      677,
+      223,
+      16
+    ],
+    "text": "rupees for each subsequent",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      322,
+      689,
+      226,
+      37
+    ],
+    "text": "period exceeding three months",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      343,
+      709,
+      205,
+      17
+    ],
+    "text": "t not exceeding twelve",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      326,
+      725,
+      76,
+      16
+    ],
+    "text": "mouths, or",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      275,
+      753,
+      273,
+      16
+    ],
+    "text": "(ii) for a period excesding three",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      274,
+      758,
+      274,
+      39
+    ],
+    "text": "aati bat not ekeseding",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      326,
+      785,
+      239,
+      17
+    ],
+    "text": "twelve months, be five hundred",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      326,
+      801,
+      238,
+      17
+    ],
+    "text": "rupees in respect of that *",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      325,
+      817,
+      50,
+      17
+    ],
+    "text": "period,",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      99,
+      12,
+      355,
+      18
+    ],
+    "text": "Temporary Residence Tas Act, No. 16 of 1972 8",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93,
+      44,
+      361,
+      17
+    ],
+    "text": "(8) Any person who under sub-section (1) is liable",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      75,
+      62,
+      379,
+      18
+    ],
+    "text": "to pay the tax is hereafter in this Act referred to as a",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      76,
+      80,
+      196,
+      17
+    ],
+    "text": "* person subject to the tax.",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      91,
+      121,
+      433,
+      15
+    ],
+    "text": "& (1) The following persons shall be exempt fr: ious",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      75,
+      121,
+      461,
+      28
+    ],
+    "text": "we tat? ODOR P Pe Erm",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      92,
+      164,
+      361,
+      17
+    ],
+    "text": "@-any person referred to in paragraph (0),",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      148,
+      168,
+      307,
+      40
+    ],
+    "text": "aragraph (c), paragraph @or paragraph",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      138,
+      184,
+      316,
+      29
+    ],
+    "text": "Be) ef eection (1) of the principal enact-",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139,
+      212,
+      316,
+      17
+    ],
+    "text": "ment and the spouse and every dependent",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      138,
+      228,
+      316,
+      17
+    ],
+    "text": "child, parent, brother or sister of any person",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139,
+      244,
+      315,
+      17
+    ],
+    "text": "referred to in the aforesaid paragraphs, and",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      138,
+      260,
+      316,
+      17
+    ],
+    "text": "every member of the official staf of any",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      138,
+      276,
+      316,
+      17
+    ],
+    "text": "person referred to in the aforesaid para-",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      138,
+      291,
+      54,
+      17
+    ],
+    "text": "graphs;",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89,
+      318,
+      365,
+      19
+    ],
+    "text": "(ii) any person referred to in paragraph () of",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139,
+      324,
+      316,
+      28
+    ],
+    "text": "section 2 (1) of the principal enactment and",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      155,
+      362,
+      300,
+      17
+    ],
+    "text": "(@) every member of the official staff of that",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      186,
+      382,
+      51,
+      12
+    ],
+    "text": "person;",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      155,
+      402,
+      298,
+      19
+    ],
+    "text": "() the spouse and every dependent child,",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      186,
+      418,
+      268,
+      17
+    ],
+    "text": "parent, brother or sister of that person",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      84,
+      434,
+      370,
+      16
+    ],
+    "text": ": and of every member of his official",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      186,
+      450,
+      35,
+      15
+    ],
+    "text": "staf;",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      61,
+      474,
+      458,
+      17
+    ],
+    "text": ". (2) every such person in the domestic estab- .",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      186,
+      479,
+      268,
+      40
+    ],
+    "text": "Tishment of the Petpon aforesaid or of",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      186,
+      507,
+      268,
+      28
+    ],
+    "text": "rery member of iis official sta as is",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      186,
+      514,
+      268,
+      41
+    ],
+    "text": "the holder of a valid passport issued",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      186,
+      538,
+      268,
+      17
+    ],
+    "text": "by the Government of the country",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      186,
+      554,
+      268,
+      17
+    ],
+    "text": "which duly accredited him to the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      186,
+      570,
+      161,
+      17
+    ],
+    "text": "Government of Ceylon;",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      84,
+      590,
+      429,
+      20
+    ],
+    "text": "(ii) any person who has entered, or enters, or ig",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      138,
+      609,
+      315,
+      17
+    ],
+    "text": "under an agreement to enter, the service of",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      136,
+      625,
+      317,
+      18
+    ],
+    "text": "the Government of Ceylon or of any local",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      138,
+      641,
+      315,
+      17
+    ],
+    "text": "authority or of any ration, and the",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      113,
+      646,
+      340,
+      29
+    ],
+    "text": "Spouse and every dependent child of such",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      138,
+      676,
+      50,
+      12
+    ],
+    "text": "Person;",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      84,
+      693,
+      369,
+      21
+    ],
+    "text": "Gy) any person who is an expert, adviser, technician",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      138,
+      713,
+      315,
+      18
+    ],
+    "text": "or official who is exempt from the payment",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      138,
+      728,
+      314,
+      15
+    ],
+    "text": "of income tax under the Inland Revenue Act,",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139,
+      744,
+      107,
+      16
+    ],
+    "text": "No. 4 of 1963;",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90,
+      764,
+      362,
+      21
+    ],
+    "text": "(%) ony person who is in the service of any under-",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      61,
+      784,
+      392,
+      16
+    ],
+    "text": ". taking in Ceylon which ig commenced after",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139,
+      799,
+      313,
+      19
+    ],
+    "text": "the date on which this Act comes inte opera-",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139,
+      816,
+      313,
+      17
+    ],
+    "text": "tion and in respect of which a certificate is",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      180,
+      11,
+      360,
+      18
+    ],
+    "text": "4 Temporary Residence Tax Act, No. 15 of 1971",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      244,
+      34,
+      320,
+      39
+    ],
+    "text": "issued by the Secretary to the Treasury or an",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      243,
+      56,
+      321,
+      19
+    ],
+    "text": "officer authorized by him to thie effeot that",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      243,
+      64,
+      321,
+      40
+    ],
+    "text": "foreign sapital is invested in such under-",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      232,
+      88,
+      332,
+      16
+    ],
+    "text": ". taking with the approval of the Government",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      242,
+      104,
+      301,
+      16
+    ],
+    "text": "of Ceylon; \"",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      189,
+      135,
+      373,
+      17
+    ],
+    "text": "(vi) any person who has not attained the age of",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      242,
+      151,
+      99,
+      16
+    ],
+    "text": "sixteen years;",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      185,
+      171,
+      376,
+      40
+    ],
+    "text": "(wii) any person who is a full time student in any",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      257,
+      195,
+      304,
+      17
+    ],
+    "text": "fucational institution in Ceylon recognized",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      241,
+      211,
+      320,
+      16
+    ],
+    "text": "by the head of the Department of Education;",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      184,
+      238,
+      377,
+      19
+    ],
+    "text": "(viii) any person: who is @ member of the crew of a",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      240,
+      254,
+      284,
+      18
+    ],
+    "text": "ship in the territorial waters of Ceylon;",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      186,
+      283,
+      374,
+      17
+    ],
+    "text": "(9) any class or description of persons which, or any",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      240,
+      288,
+      320,
+      28
+    ],
+    "text": "person who, is exempted from the provisions",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      137,
+      315,
+      422,
+      17
+    ],
+    "text": ". of this Act by Order made by the Minister",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      236,
+      315,
+      224,
+      37
+    ],
+    "text": "and published in the Gazette.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      193,
+      367,
+      365,
+      17
+    ],
+    "text": "(@) Any Order of exemption under paragraph (ix)",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      176,
+      384,
+      383,
+      18
+    ],
+    "text": "of sub-section (1) may be given retroactive effect as",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      176,
+      402,
+      382,
+      17
+    ],
+    "text": "from any day not sarlier than the relevant date, not-",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      175,
+      420,
+      382,
+      18
+    ],
+    "text": "withstanding that such day is a day prior to the date",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      175,
+      438,
+      347,
+      16
+    ],
+    "text": "of the publication of such Order in the Gazette.",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      191,
+      470,
+      382,
+      16
+    ],
+    "text": "@) In this section .",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      160,
+      498,
+      397,
+      18
+    ],
+    "text": "* corporation means a corporation established",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      237,
+      515,
+      319,
+      18
+    ],
+    "text": "under the Government-Sponsored Corpora-",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      79,
+      531,
+      477,
+      15
+    ],
+    "text": "Cap. 148, tions Act, or under the State Industrial",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      238,
+      546,
+      318,
+      20
+    ],
+    "text": "Corporations Act, No. 49 of 1967, or any",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      237,
+      563,
+      319,
+      16
+    ],
+    "text": "corporation specified in the Schedule to this",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      237,
+      578,
+      324,
+      22
+    ],
+    "text": "Act, and .",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      191,
+      609,
+      363,
+      19
+    ],
+    "text": "local authority \"means any Municipal Council,",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      238,
+      627,
+      317,
+      18
+    ],
+    "text": "Urban Council, Town Council or Village",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      238,
+      645,
+      56,
+      13
+    ],
+    "text": "Couneil.",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86,
+      692,
+      265,
+      12
+    ],
+    "text": "subs a L",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      77,
+      692,
+      258,
+      26
+    ],
+    "text": "Lai (1) The tax shall-",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      191,
+      722,
+      363,
+      18
+    ],
+    "text": "(A) in the case of & person who is the holder of a",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      237,
+      739,
+      317,
+      17
+    ],
+    "text": "visa which was granted to him before the date",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      220,
+      755,
+      334,
+      18
+    ],
+    "text": ". of commencement of this Act and which",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      237,
+      771,
+      317,
+      19
+    ],
+    "text": "expires later than three months hut not later",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      237,
+      786,
+      317,
+      19
+    ],
+    "text": "than one year after the relevant date, be paid",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      237,
+      802,
+      317,
+      16
+    ],
+    "text": "within one month after the date of commence-",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      237,
+      819,
+      309,
+      19
+    ],
+    "text": "ment of this Act; :",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      88,
+      17,
+      353,
+      20
+    ],
+    "text": "Temporary Residence Tax Act, No. 16 of 1971 6",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      82,
+      48,
+      359,
+      21
+    ],
+    "text": "(B) in the case of a person who is the holder of a",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      127,
+      63,
+      313,
+      20
+    ],
+    "text": "visa which was granted before the date of",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      128,
+      79,
+      313,
+      18
+    ],
+    "text": "commencement of this Act and which expires",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      128,
+      96,
+      306,
+      18
+    ],
+    "text": "later than one year after the relevant date",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      129,
+      114,
+      313,
+      25
+    ],
+    "text": "(@) in respect of the period of twelve months",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      176,
+      134,
+      266,
+      19
+    ],
+    "text": "commencing on the relevant date, be",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      176,
+      150,
+      266,
+      19
+    ],
+    "text": "paid within one month after the date",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      176,
+      166,
+      238,
+      16
+    ],
+    "text": "of commencement of this Act, and",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      130,
+      189,
+      311,
+      20
+    ],
+    "text": "() in respect of each subsequent period,",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      177,
+      194,
+      266,
+      29
+    ],
+    "text": "exceeding three months, and not",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      177,
+      221,
+      265,
+      18
+    ],
+    "text": "exceeding twelve months of that visa,",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      177,
+      236,
+      266,
+      19
+    ],
+    "text": "be paid within ong month after the",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      178,
+      251,
+      264,
+      16
+    ],
+    "text": "date of commencement of each such",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108,
+      260,
+      197,
+      33
+    ],
+    "text": ": period; .",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      84,
+      295,
+      359,
+      19
+    ],
+    "text": "(C) in the case of a person who is the holder of a",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      131,
+      311,
+      312,
+      19
+    ],
+    "text": "visa which is granted to him after the date",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      131,
+      328,
+      218,
+      14
+    ],
+    "text": "of commencement of this Act",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      132,
+      354,
+      313,
+      19
+    ],
+    "text": "(@ if the period for which he is authorized",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      180,
+      370,
+      265,
+      18
+    ],
+    "text": "to remain in Ceylon by that visa does",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      179,
+      385,
+      266,
+      19
+    ],
+    "text": "not execed one year, be paid on the",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      164,
+      401,
+      266,
+      19
+    ],
+    "text": ",. date of the grant of that visa, and",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      134,
+      429,
+      311,
+      19
+    ],
+    "text": "() if the period for which he is authorized",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      181,
+      445,
+      265,
+      18
+    ],
+    "text": "to remain in Ceylon by that visa",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      181,
+      464,
+      131,
+      15
+    ],
+    "text": "exceeds one yeat",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      198,
+      488,
+      248,
+      19
+    ],
+    "text": "() in respect of the first twelve",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139,
+      495,
+      308,
+      41
+    ],
+    "text": ". months of his stay in Capon:",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      245,
+      519,
+      202,
+      19
+    ],
+    "text": "be paid on the date of the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      245,
+      536,
+      160,
+      19
+    ],
+    "text": "grant of that visa, and",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      196,
+      559,
+      252,
+      21
+    ],
+    "text": "(ii) in respect -of each, subsequent",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      168,
+      575,
+      279,
+      19
+    ],
+    "text": ". . period, exceeding three",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      246,
+      591,
+      201,
+      16
+    ],
+    "text": "months and not exceeding",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      75,
+      606,
+      372,
+      16
+    ],
+    "text": ". twelve months, of that visa,",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      246,
+      622,
+      202,
+      19
+    ],
+    "text": "be paid within one month",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      76,
+      639,
+      372,
+      15
+    ],
+    "text": "1 after the date of commence-",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      246,
+      654,
+      202,
+      17
+    ],
+    "text": "ment of each such period; and",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      91,
+      670,
+      359,
+      39
+    ],
+    "text": "(D) in the case of any person who remains in Ceylon",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      137,
+      693,
+      311,
+      21
+    ],
+    "text": "after the expiration of the period for which",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      137,
+      700,
+      311,
+      41
+    ],
+    "text": "he is authorized to remain in Ceylon by the",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      138,
+      725,
+      310,
+      18
+    ],
+    "text": "visa granted to him, be paid immediately on",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      138,
+      725,
+      310,
+      36
+    ],
+    "text": "demand made to him by or on behalf of the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      138,
+      758,
+      74,
+      16
+    ],
+    "text": "Controller,",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      67,
+      784,
+      197,
+      16
+    ],
+    "text": ", and such. i",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      77,
+      779,
+      371,
+      43
+    ],
+    "text": "Gone pero shall be liable to pay the tax to the",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      174,
+      16,
+      361,
+      17
+    ],
+    "text": "6 Temporary Residence Tax Act, No. 15 of 1971",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      191,
+      42,
+      366,
+      18
+    ],
+    "text": "(2) Notwithstanding the provisions of sub-section",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      176,
+      58,
+      382,
+      20
+    ],
+    "text": "(1), any person who is subject to the tax may apply to",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      176,
+      74,
+      382,
+      18
+    ],
+    "text": "the Controller for permission to pay the tax in",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      175,
+      82,
+      383,
+      40
+    ],
+    "text": "instalments and, on recaipt of such an application, the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      176,
+      101,
+      382,
+      37
+    ],
+    "text": "Controller may, if he ia satisfied that the applicant is",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      176,
+      121,
+      382,
+      18
+    ],
+    "text": "an employee in any trade in respect of which a Wages",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      176,
+      136,
+      382,
+      19
+    ],
+    "text": "Board has been set up in accordance with.the provi-",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      80,
+      152,
+      479,
+      18
+    ],
+    "text": "cap, 188, sions of the Wages Boards Ordinance, permit the",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      176,
+      168,
+      382,
+      19
+    ],
+    "text": "applicant to pay the tax in such instalments as the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      176,
+      175,
+      183,
+      27
+    ],
+    "text": "Gontroller nay determine.",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      69,
+      210,
+      489,
+      22
+    ],
+    "text": ". (8) The Controller may, on the application of any",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      176,
+      225,
+      383,
+      21
+    ],
+    "text": "petson who is subject to the tax, grant an extension",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      176,
+      242,
+      384,
+      18
+    ],
+    "text": "of time, not exceeding three months, for the payment",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      176,
+      257,
+      384,
+      19
+    ],
+    "text": "of the fax if such person has, within three months",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      177,
+      273,
+      382,
+      17
+    ],
+    "text": "before the date on which the tax falls due, paid in",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      177,
+      288,
+      382,
+      18
+    ],
+    "text": "accordance with the provisions of sub-section (1) the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      178,
+      296,
+      271,
+      27
+    ],
+    "text": "tax which be was earlier Hable to pey.",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      112,
+      330,
+      447,
+      21
+    ],
+    "text": ". (4) Where under the provisions of sub-section (1)",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      178,
+      343,
+      382,
+      39
+    ],
+    "text": "the tax is paid by any pereon upon the grant, after",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      178,
+      363,
+      382,
+      17
+    ],
+    "text": "the date of commencement of this Act, of a visa to",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      178,
+      378,
+      382,
+      17
+    ],
+    "text": "him and the period for which he is authorized to",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      178,
+      382,
+      382,
+      39
+    ],
+    "text": "remain in Ceylon by that visa is less than one year,",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      178,
+      410,
+      383,
+      21
+    ],
+    "text": "that person shail not be liable to pay the tax upoo the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      178,
+      427,
+      383,
+      19
+    ],
+    "text": "extension of the period of such vtea if the aggregate",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      178,
+      443,
+      383,
+      20
+    ],
+    "text": "of the periods for which he is authorized to remain in",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      179,
+      459,
+      382,
+      20
+    ],
+    "text": "Caylon before and after such extension does not",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      179,
+      479,
+      117,
+      15
+    ],
+    "text": "exoeed one year.",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      196,
+      501,
+      365,
+      20
+    ],
+    "text": "(8) Any person subject to the tax who fails to pay",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      180,
+      508,
+      380,
+      26
+    ],
+    "text": "ths tax che Controller within the period, or on the",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      180,
+      531,
+      380,
+      34
+    ],
+    "text": "date, requited under the preceding provisions of this",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      180,
+      540,
+      385,
+      39
+    ],
+    "text": "seotion shall, without prejadice to any proceedings",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      179,
+      562,
+      357,
+      30
+    ],
+    "text": "which may be taken agaimat him for the recovery of",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      181,
+      578,
+      379,
+      25
+    ],
+    "text": "tax, be guilty of an offence under this Act and shall,",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      181,
+      595,
+      380,
+      20
+    ],
+    "text": "on conviction after summary trial before 2 competent",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      181,
+      610,
+      381,
+      22
+    ],
+    "text": "Magistrate, be liable to a fine not exceeding five",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      181,
+      628,
+      380,
+      20
+    ],
+    "text": "hundred rupees or to imprisonment of either desorip-",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      182,
+      641,
+      379,
+      21
+    ],
+    "text": "tion for a term not exceeding six months ar to both",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      182,
+      663,
+      284,
+      17
+    ],
+    "text": "such fine and imprisonment. ,",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      85,
+      688,
+      477,
+      24
+    ],
+    "text": "Prevaiow toe = B(1) Where any m subject to the tax fails",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      85,
+      696,
+      477,
+      43
+    ],
+    "text": "moouary oC ty Day such tax to the Boneroller within the pesos or",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      183,
+      720,
+      379,
+      23
+    ],
+    "text": "on the date, required under section 4, the Controller",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      183,
+      738,
+      379,
+      19
+    ],
+    "text": "shall by notice in writing require such person to pay,",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      183,
+      747,
+      379,
+      40
+    ],
+    "text": "within such period as shall be specified in. the notice,",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      66,
+      767,
+      497,
+      20
+    ],
+    "text": ". the amount of such tax to the Controller and where",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      184,
+      780,
+      379,
+      40
+    ],
+    "text": "auch Pere fails to pay such amount within the period",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      184,
+      799,
+      380,
+      21
+    ],
+    "text": "specified in the notice, such amount shall be deemed to",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      185,
+      819,
+      216,
+      15
+    ],
+    "text": "be in default, .",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      91,
+      3,
+      358,
+      17
+    ],
+    "text": "Temporary Residence Taw Act, No. 15 of 1971 7",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      70,
+      34,
+      379,
+      17
+    ],
+    "text": "-. 2) Where the amount of the tax is in default, the",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      69,
+      50,
+      466,
+      16
+    ],
+    "text": "Controller may issue a certificate containing .",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      69,
+      66,
+      380,
+      17
+    ],
+    "text": "particulars of such amount and the name and address",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      68,
+      81,
+      381,
+      17
+    ],
+    "text": "of such defaulter to competent Magistrate. Such",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      70,
+      97,
+      380,
+      17
+    ],
+    "text": "Magistrate ball, thereupon, summon the defanlter",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      70,
+      113,
+      379,
+      18
+    ],
+    "text": "before him to show cause why procesdings for the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      70,
+      129,
+      380,
+      16
+    ],
+    "text": "recovery of the amount of the tax in default should not",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      70,
+      144,
+      380,
+      17
+    ],
+    "text": "be taken against soch defaulter, and, if sufficient cause",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      70,
+      160,
+      380,
+      16
+    ],
+    "text": "ie not ahown, the amount of the tax in default shall by",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      69,
+      176,
+      381,
+      17
+    ],
+    "text": "order of such Magistrate be recovered as if it were a",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      70,
+      192,
+      349,
+      16
+    ],
+    "text": "fine imposed on the defaalter by such Magistrate.",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      86,
+      221,
+      454,
+      17
+    ],
+    "text": "6. The failure of a person subject to the tax to pay ruta to par",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      70,
+      225,
+      460,
+      45
+    ],
+    "text": "the amount of such tax within the period, or on the ie ito be",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      70,
+      250,
+      472,
+      19
+    ],
+    "text": "date, required under section 4 shall be # ground on fas cancellation",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      70,
+      268,
+      431,
+      18
+    ],
+    "text": "which any sisa granted to that person Under the oie.",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      70,
+      269,
+      380,
+      36
+    ],
+    "text": "principal enactment may be cancelled by the Controller",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      70,
+      300,
+      381,
+      17
+    ],
+    "text": "under that enactment, and the provisions of that",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      70,
+      316,
+      381,
+      17
+    ],
+    "text": "enactment shall, in their application in the oase of that",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      71,
+      332,
+      319,
+      17
+    ],
+    "text": "person and such isa, have effect accordingly,",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      86,
+      363,
+      441,
+      17
+    ],
+    "text": "7. (1) In the case of any person who is the holder Prost ot tay",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      70,
+      359,
+      444,
+      43
+    ],
+    "text": "ofa oie ana who is subject to the tax, that isa shall i Grrlon.",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      71,
+      394,
+      363,
+      18
+    ],
+    "text": "be conclusive proof of his period of stay in Ceylon.",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      88,
+      421,
+      363,
+      18
+    ],
+    "text": "{2} Any person who remains in Ceylon after the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72,
+      423,
+      379,
+      44
+    ],
+    "text": "expiration Of the period for which be is authorized to",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72,
+      453,
+      380,
+      21
+    ],
+    "text": "reraain in Ceylon by a vise granted to him shall be",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      73,
+      470,
+      378,
+      16
+    ],
+    "text": "prsumed to have remained in Ceylon continuously",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      73,
+      485,
+      295,
+      18
+    ],
+    "text": "from the date of the expiry of that period.",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      89,
+      517,
+      446,
+      17
+    ],
+    "text": "8. All sums paid to or recovered by the Controller suns paid o",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      74,
+      530,
+      452,
+      20
+    ],
+    "text": "ag tax under this Act, shall be credited by the fra",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      74,
+      547,
+      459,
+      24
+    ],
+    "text": "Coutroller to the Consolidated Fund of Ceylon. fried be",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      468,
+      565,
+      77,
+      18
+    ],
+    "text": "Fuad ot Geylon,",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90,
+      587,
+      437,
+      16
+    ],
+    "text": "9. The rate of the tex may be altered from time ausatianot",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      75,
+      601,
+      428,
+      18
+    ],
+    "text": "to time by Order made by the Minister, approved by ts",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      75,
+      607,
+      376,
+      29
+    ],
+    "text": "the House of Representatives and published in the",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      75,
+      628,
+      149,
+      25
+    ],
+    "text": "Gazette, 7",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      75,
+      653,
+      461,
+      42
+    ],
+    "text": "1. The Minister may, by Order published jn the nem rey",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      103,
+      679,
+      431,
+      13
+    ],
+    "text": "eite, amend or vary the provisions o! chedule 9 mated ibe",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      75,
+      682,
+      449,
+      24
+    ],
+    "text": "to this Act. ny ine P , area",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      86,
+      719,
+      447,
+      19
+    ],
+    "text": "1. The provisions of this Act shall be in addition Provisiom of",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      76,
+      734,
+      461,
+      20
+    ],
+    "text": "to, and not in derogation. of, the provisions of the it Aa.to",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      76,
+      752,
+      445,
+      17
+    ],
+    "text": "Principal enactment, and accordingly the payment by end ze ia",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      76,
+      765,
+      456,
+      21
+    ],
+    "text": "ny person, who. remains in Ceylon after the expire restion of",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      63,
+      781,
+      482,
+      20
+    ],
+    "text": ", tion of the period for which he is autharized fo 50 of the prose)",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      77,
+      797,
+      441,
+      20
+    ],
+    "text": "Yemain by the visa granted to himn, of the tax to whieh =\"",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      85,
+      814,
+      173,
+      25
+    ],
+    "text": "aerary se",
+    "mean_p_confidence": 0.04
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      173,
+      5,
+      360,
+      18
+    ],
+    "text": "8 Temporary Residence Tas Act, No. 16 of 1971",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      174,
+      35,
+      383,
+      17
+    ],
+    "text": "he is liable under this Act-shall not be coustried, or",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      174,
+      53,
+      383,
+      20
+    ],
+    "text": "be deemed to be construed, to affect any proceedings",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      174,
+      68,
+      383,
+      20
+    ],
+    "text": "which may be taken under that enactment against him",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      174,
+      84,
+      382,
+      18
+    ],
+    "text": "for remaining in Ceylon in contravention of any",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      174,
+      97,
+      403,
+      22
+    ],
+    "text": "provisions of that enactment. - t",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      79,
+      130,
+      477,
+      30
+    ],
+    "text": "Isterrotation 42, In this Act, unless the context otberwise",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      170,
+      143,
+      230,
+      31
+    ],
+    "text": "requires ~",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      191,
+      178,
+      367,
+      19
+    ],
+    "text": "* competent Magistrate\" means a Magistrate",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      237,
+      194,
+      320,
+      18
+    ],
+    "text": "having jurisdiction in the division of",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      238,
+      210,
+      319,
+      15
+    ],
+    "text": "Colombo as defined and set out in the First",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      78,
+      227,
+      476,
+      20
+    ],
+    "text": "Ce Schedule to the Courts Ordinance; .",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      82,
+      253,
+      474,
+      17
+    ],
+    "text": ". * Gontroller means the Controller of Immigration",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      237,
+      270,
+      319,
+      18
+    ],
+    "text": "and Emigration and includes any Deputy or",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      237,
+      285,
+      319,
+      17
+    ],
+    "text": "Assistant Controller of Immigration and",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      237,
+      304,
+      87,
+      16
+    ],
+    "text": "Emigration;",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      192,
+      328,
+      365,
+      20
+    ],
+    "text": "~ principal enactment * means the Immigrants and",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      79,
+      345,
+      478,
+      18
+    ],
+    "text": "Cap. 51. Emigrants Act as amended by any subsequent",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      238,
+      364,
+      31,
+      13
+    ],
+    "text": "Act;",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      192,
+      387,
+      363,
+      16
+    ],
+    "text": "relevant date? means the first day of January,",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      239,
+      405,
+      70,
+      15
+    ],
+    "text": "1971; and",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      192,
+      429,
+      365,
+      19
+    ],
+    "text": "pisa means a visa granted under the principal",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      238,
+      447,
+      320,
+      16
+    ],
+    "text": "enactment and includes any temporary",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      239,
+      463,
+      318,
+      17
+    ],
+    "text": "Tesidence permit, or endorsement, or exten-",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      239,
+      477,
+      336,
+      19
+    ],
+    "text": "sion of the period of the visa, granted or #",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      239,
+      495,
+      213,
+      14
+    ],
+    "text": "issued under that enactment.",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      78,
+      516,
+      479,
+      31
+    ],
+    "text": ", SCHEDULE [Seation 3 (8)]",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      189,
+      544,
+      369,
+      20
+    ],
+    "text": "(1) The Agricultural and Industrial Cregit Corporation of",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      226,
+      554,
+      332,
+      22
+    ],
+    "text": "Ceylon sstablished under the Agricultural and Industrial",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      73,
+      573,
+      403,
+      20
+    ],
+    "text": ". Gredit Corporation Ordinsace (Cop, 402),",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      190,
+      595,
+      368,
+      18
+    ],
+    "text": "(@) Air Ceylon Limited established under the Air Ceylon",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      228,
+      610,
+      182,
+      15
+    ],
+    "text": "(Incorporation) Act (Cap. 280).",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      190,
+      629,
+      369,
+      18
+    ],
+    "text": "{8) The Anuradhapura Preservation Board established under",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      228,
+      641,
+      331,
+      32
+    ],
+    "text": "the Anuradiapure Preservation Board Ast, No. 82 of",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      228,
+      660,
+      29,
+      9
+    ],
+    "text": "1981.",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      191,
+      674,
+      367,
+      20
+    ],
+    "text": "(4) The Back of Ceylon established under the Bank ot Geyloa",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      229,
+      692,
+      129,
+      14
+    ],
+    "text": "Ordinances (Cap. 897).",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      192,
+      706,
+      367,
+      23
+    ],
+    "text": "() The Boerd of Trustees of the Lady Lochore Loan Font",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      230,
+      723,
+      329,
+      15
+    ],
+    "text": "established under the Lady Lochore Loan Fund (Boord",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      229,
+      739,
+      168,
+      14
+    ],
+    "text": "of Trustees) Act (Cap. 818}.",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      193,
+      760,
+      367,
+      16
+    ],
+    "text": "(@ Tbe Bureav of Ceylon Standards eatablished under the",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      112,
+      774,
+      416,
+      14
+    ],
+    "text": ". Bureau of Ceylon Standards Act, No, 88 of 1964.",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      194,
+      794,
+      380,
+      16
+    ],
+    "text": "(7) The Central Bank of Ceylon sotablished under they",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      231,
+      809,
+      182,
+      14
+    ],
+    "text": "Monetary Law. Act (Cap. 422).",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108,
+      11,
+      355,
+      16
+    ],
+    "text": "Temporary Residence Taw Act, No. 16 of 1971-0",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      119,
+      41,
+      343,
+      13
+    ],
+    "text": "The Ceflom Brosdeasting Corporation established - under",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      98,
+      43,
+      364,
+      25
+    ],
+    "text": "1s CEiploa Brosdonstng Corporation Act, No, 87 of",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      135,
+      58,
+      317,
+      30
+    ],
+    "text": "1966. : Lott as",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      98,
+      88,
+      364,
+      14
+    ],
+    "text": "() The Ceylon Coconut Board established under the Cooonut",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      135,
+      102,
+      281,
+      13
+    ],
+    "text": "oc Products Ordinence (Cap. 160), :",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      91,
+      122,
+      371,
+      13
+    ],
+    "text": "(10) The Ceylon Bleotricity Board established under the Ceylon",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      134,
+      135,
+      227,
+      13
+    ],
+    "text": "Electricity Board Act, No. 17 of 1989.",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90,
+      155,
+      371,
+      14
+    ],
+    "text": "412) The Ceylon Hotela Corporstion established under the",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      89,
+      169,
+      345,
+      13
+    ],
+    "text": ": Ceylon Hotels Corporation Act, No. 14 of 1968.",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      91,
+      188,
+      370,
+      14
+    ],
+    "text": "(12) Tho Ceylon Institute of Geiantisc and Industrial Reseurah",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      101,
+      202,
+      360,
+      14
+    ],
+    "text": "* established under tho Ceylon Institute of Scientifie and",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      134,
+      215,
+      217,
+      15
+    ],
+    "text": "Todustrial Reseach Act (Cap. 164).",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90,
+      233,
+      371,
+      15
+    ],
+    "text": "8) The Ceylon Petroleum Corporstion established under the",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      135,
+      247,
+      301,
+      15
+    ],
+    "text": "Cayion Petroleum Corparstion Act, No. 28 of 1951.",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90,
+      267,
+      359,
+      14
+    ],
+    "text": "(14) The Ceplan Savings Bunk regulated by. the Ceylon Savin",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      135,
+      270,
+      326,
+      25
+    ],
+    "text": "Bank Ondioance (Gap. 600\" \"",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      89,
+      302,
+      372,
+      15
+    ],
+    "text": "418) The Ceylon Bhipping Corporation incorporated under the",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      135,
+      316,
+      197,
+      14
+    ],
+    "text": "Companies Ordinance (Cap. 148).",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      89,
+      336,
+      372,
+      16
+    ],
+    "text": "(48) The Caylon State Mortgage Bank established under the",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      135,
+      342,
+      306,
+      24
+    ],
+    "text": "Geplen State Mortgage Bank Ordinance (Cup. 505),",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      89,
+      371,
+      372,
+      16
+    ],
+    "text": "27) The Ceylon State Plentations Corporation established under",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      135,
+      385,
+      326,
+      23
+    ],
+    "text": "he Caylon State Ploutetions Corporation Act, No. 4 of",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90,
+      418,
+      370,
+      15
+    ],
+    "text": "08) The Ceylon Tea Propaganda Board established under the",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      134,
+      432,
+      268,
+      14
+    ],
+    "text": "Tes Propaganda Board Ordinanse (Cap. 160).",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90,
+      452,
+      370,
+      17
+    ],
+    "text": "{Q0) The Ceylon Tourict Bosrd established undar the Ceylon",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      135,
+      467,
+      205,
+      13
+    ],
+    "text": "Tourist Board Act, No. 10 of 1986.",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      91,
+      487,
+      408,
+      15
+    ],
+    "text": "(20) The Ceylon Transport Boord established under the Motor",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      135,
+      501,
+      185,
+      14
+    ],
+    "text": "romspors Act, No. 48 of 1057.",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      89,
+      521,
+      372,
+      16
+    ],
+    "text": "@1) The Coconut Fibre Board estublished under the Cosomut",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      135,
+      537,
+      159,
+      13
+    ],
+    "text": "Fibre Aat, No. 17 of 1667.",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      91,
+      558,
+      370,
+      13
+    ],
+    "text": "22} Tha Coconut Research Board setablished under tho",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      135,
+      572,
+      236,
+      15
+    ],
+    "text": "Coconut Research Ordinance (Cap. 440).",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      91,
+      593,
+      369,
+      26
+    ],
+    "text": "(09) The Colombo Distsict (Lom jing Areas) Reclumstion and",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      136,
+      608,
+      325,
+      13
+    ],
+    "text": "Development Board established under the Colombo",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      135,
+      620,
+      325,
+      25
+    ],
+    "text": "Pisiiod Cowiying | Areas) Heslamation end",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      136,
+      633,
+      241,
+      15
+    ],
+    "text": "Development Board Act, No. 15 of 1968,",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      91,
+      652,
+      369,
+      25
+    ],
+    "text": "8) The Co-operative Wholesale Ustebishmentextobihed",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      136,
+      667,
+      325,
+      13
+    ],
+    "text": "under the Co-operative Wholesule Establishment Act",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      136,
+      679,
+      63,
+      14
+    ],
+    "text": "{Cop. 326).",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      92,
+      698,
+      368,
+      16
+    ],
+    "text": "(25) The Development Finance Gorporstion of Ceglon eata-",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      111,
+      700,
+      349,
+      27
+    ],
+    "text": "ined wader the Berelopmese Fisanen: Costoeaticn of",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      136,
+      726,
+      134,
+      14
+    ],
+    "text": "Ceylon Act (Cap. 168).",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      92,
+      743,
+      368,
+      16
+    ],
+    "text": "28) The Industrial Development Board of Caylon eotabliched",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      136,
+      759,
+      324,
+      13
+    ],
+    "text": "under the Iudvetrial Devalopment Board Act, No. 86",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      136,
+      772,
+      45,
+      10
+    ],
+    "text": "of 1988,",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      92,
+      785,
+      367,
+      33
+    ],
+    "text": "@7} The Ingurance Corporation of Ceylon established under",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      137,
+      803,
+      271,
+      14
+    ],
+    "text": "he Tagurance Corporation Ach No. 2 of 1961.",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      169,
+      8,
+      357,
+      18
+    ],
+    "text": "10 Temporary Residence Tam Act, No. 16 of 197%",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      146,
+      39,
+      403,
+      13
+    ],
+    "text": "* @B} The Mchaweli Development Board established under the",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      213,
+      52,
+      321,
+      14
+    ],
+    "text": "-Mabawali Development Board Act, No. 14 of 1970.",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      175,
+      72,
+      374,
+      13
+    ],
+    "text": "G0) he Mitk Board established onder the Milk Board Aot",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      218,
+      85,
+      316,
+      18
+    ],
+    "text": "(Cap. 261). os",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      175,
+      107,
+      373,
+      13
+    ],
+    "text": "(80) The National Counsll of Higher Education established",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      218,
+      120,
+      322,
+      15
+    ],
+    "text": "under the Higher Education Act, No, 20 of 1986,",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      175,
+      140,
+      373,
+      13
+    ],
+    "text": "(Gl) The Nations! Lotteries Bosrd catablished under the",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      170,
+      153,
+      220,
+      12
+    ],
+    "text": "+. Binanoa Act, No, 11 of 1968.",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      201,
+      174,
+      346,
+      14
+    ],
+    "text": "The People's: Bank established under the People's Beak",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      174,
+      174,
+      364,
+      30
+    ],
+    "text": "One Toe tp of leek, : my",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      168,
+      203,
+      380,
+      18
+    ],
+    "text": "\" (68) The Port (Cargo) Corporation eateblished under the Pork",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      199,
+      208,
+      261,
+      26
+    ],
+    "text": "Pca) Gorforaon hats Roe 8 of 58,",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      173,
+      242,
+      373,
+      24
+    ],
+    "text": "(G4) The Port Tally and. Protaative Sarvioga Corporation oat:",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      216,
+      255,
+      331,
+      13
+    ],
+    "text": "lished under the Porb Tally and Proteotive Services",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      216,
+      260,
+      258,
+      22
+    ],
+    "text": "Corporation Act, No, 40 of 1067.",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      173,
+      289,
+      374,
+      23
+    ],
+    "text": "(Bt) The River Valleys Development Bonrd evtabished under",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      196,
+      302,
+      341,
+      15
+    ],
+    "text": "+ the Biver Valleys Development Board Ast (Cap. 280).",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      173,
+      322,
+      373,
+      13
+    ],
+    "text": "(86) The Rubber Research Boord established under tha Eubler",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      216,
+      336,
+      186,
+      14
+    ],
+    "text": "Baseacoh Ordinance (Cap. 439).",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      173,
+      354,
+      373,
+      18
+    ],
+    "text": "@7) Tha State Printing Corporation established under the",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      184,
+      356,
+      309,
+      27
+    ],
+    "text": "1) Te Peinting Cerporahon Ack, No. 24 af 1908,",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      173,
+      389,
+      373,
+      15
+    ],
+    "text": "(88) The Tea Research Institute of Ceylon established. under",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      216,
+      402,
+      237,
+      16
+    ],
+    "text": "the Toa Research Ordinance (Cap. 488).",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      166,
+      422,
+      379,
+      16
+    ],
+    "text": "* @9) The University of Ceylon, Colombo, established ander the",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      173,
+      424,
+      274,
+      26
+    ],
+    "text": "0) nor Edvoation hot No 30'et S068.",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      199,
+      455,
+      346,
+      17
+    ],
+    "text": "The University of Ceylon, Peradeniya, estabiished under",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      156,
+      458,
+      388,
+      26
+    ],
+    "text": "ee eoolon Ustvently Grdtensne ee se dered es",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      216,
+      484,
+      328,
+      23
+    ],
+    "text": "g University established under tho Higher Hdvostion",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      215,
+      497,
+      130,
+      13
+    ],
+    "text": "Act, No. 20 of 1086. ,",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      163,
+      517,
+      381,
+      24
+    ],
+    "text": "\" (41) The, Vidislenkra University established onder the",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      216,
+      523,
+      328,
+      34
+    ],
+    "text": "Vidyodaya University and the Vidyelonicarn University",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      215,
+      544,
+      302,
+      15
+    ],
+    "text": "Act and now deamed to ba a University establi",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      215,
+      556,
+      289,
+      14
+    ],
+    "text": "under the Higher Education Act, No. 20 of 1966,",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      172,
+      578,
+      371,
+      15
+    ],
+    "text": "(42) The Vidyodays Univers'ty established under the Vidyodays",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      215,
+      582,
+      327,
+      24
+    ],
+    "text": "University end the Vidyslankare University Act and 20%",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      215,
+      604,
+      336,
+      16
+    ],
+    "text": "Qeemed to be University established under the Higher .",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      215,
+      617,
+      186,
+      12
+    ],
+    "text": "Education Act, No. 20 of 1086,",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      172,
+      637,
+      370,
+      14
+    ],
+    "text": "(4M The Water Resources Board established under the Water",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      215,
+      651,
+      219,
+      12
+    ],
+    "text": "Resources Board Ack, No. 20 af 1664,",
+    "mean_p_confidence": 0.65
+  }
+]

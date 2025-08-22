@@ -1,0 +1,651 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      115,
+      16,
+      447,
+      34
+    ],
+    "text": ". 7.8 SA Pg",
+    "mean_p_confidence": 0.07
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      125,
+      35,
+      363,
+      67
+    ],
+    "text": "PARLIAMENT OF CEYLON _",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      219,
+      82,
+      340,
+      21
+    ],
+    "text": "Ist Session 1970-71 ON ~2-13",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      457,
+      115,
+      107,
+      25
+    ],
+    "text": "wo 4,",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      309,
+      138,
+      252,
+      20
+    ],
+    "text": "p on ee Se",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      292,
+      155,
+      228,
+      40
+    ],
+    "text": "be ~",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      282,
+      178,
+      51,
+      17
+    ],
+    "text": "Fanning",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      253,
+      250,
+      114,
+      37
+    ],
+    "text": "Qe",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72,
+      334,
+      466,
+      39
+    ],
+    "text": "Embarkation Tax (Amendment)",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      171,
+      381,
+      270,
+      32
+    ],
+    "text": "Act, No. 5 of 1971",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      195,
+      501,
+      347,
+      21
+    ],
+    "text": "Date of Assent : January 29, 1872 a!",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      184,
+      611,
+      325,
+      14
+    ],
+    "text": "Printed on the Orders of Government _",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68,
+      717,
+      414,
+      27
+    ],
+    "text": "co) RAW ggeremerer Sommers ome, gr.",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      128,
+      756,
+      353,
+      42
+    ],
+    "text": "Ree ee Se",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      55,
+      788,
+      457,
+      33
+    ],
+    "text": "TY. ESR e cate Bele are",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      117,
+      829,
+      368,
+      22
+    ],
+    "text": "Price; IS cents Postage: 10 cente",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      94,
+      35,
+      389,
+      16
+    ],
+    "text": "Embarkation Tax (Amendment) Act, No.5 of 1971 *",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      59,
+      208,
+      19
+    ],
+    "text": "1. D.O, 25/68. :",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      84,
+      380,
+      15
+    ],
+    "text": "(AN ACT To AMEND THE EMparKaTion Tax ACT,",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211,
+      100,
+      108,
+      13
+    ],
+    "text": "No. 19 oF 1961.",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      146,
+      121,
+      292,
+      24
+    ],
+    "text": "(Date of Assent : January 29, 1971} .",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      102,
+      150,
+      353,
+      21
+    ],
+    "text": "BE it enacted by the Queen's Most Excelfent",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      102,
+      165,
+      354,
+      19
+    ],
+    "text": "Majesty, by and with the advice and consent of the",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      102,
+      181,
+      354,
+      17
+    ],
+    "text": "Senate and the House of Representatives of Ceylon",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      101,
+      197,
+      355,
+      18
+    ],
+    "text": "in this present Parliament assembled, and by the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      101,
+      213,
+      262,
+      17
+    ],
+    "text": "authority of the same, as follows :-",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118,
+      246,
+      406,
+      17
+    ],
+    "text": "1. This Act may be cited as the Embarkation sven te.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      102,
+      265,
+      275,
+      18
+    ],
+    "text": "Tax (Amendment) Act, No. 5 of 1971.",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118,
+      295,
+      428,
+      15
+    ],
+    "text": "2. Section 2 of the Embarkation Tax Act, Arensmen of",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      103,
+      308,
+      441,
+      19
+    ],
+    "text": "No. 19 of 1961, is hereby amended, in sub-section (1) 2290.70 5",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      102,
+      326,
+      396,
+      18
+    ],
+    "text": "thereof, by the substitution, for all the words from 6.",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      103,
+      341,
+      354,
+      17
+    ],
+    "text": "there shall be levied to the end of that sub-",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      100,
+      359,
+      202,
+      16
+    ],
+    "text": "section, of the following :",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      134,
+      381,
+      323,
+      17
+    ],
+    "text": "* there shall be levied and paid an embarkation",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      135,
+      402,
+      38,
+      11
+    ],
+    "text": "tax~",
+    "mean_p_confidence": 0.02
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      134,
+      421,
+      323,
+      19
+    ],
+    "text": "(@ in respect of every person leaving Ceylon",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      182,
+      436,
+      275,
+      19
+    ],
+    "text": "by ship, at the rate of two rupecs and",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      182,
+      454,
+      108,
+      17
+    ],
+    "text": "fifty cents ; and",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      135,
+      476,
+      322,
+      20
+    ],
+    "text": "@) in respect of every person leaving Ceylon",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      182,
+      494,
+      89,
+      17
+    ],
+    "text": "dy aireraft",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      191,
+      516,
+      267,
+      19
+    ],
+    "text": "() from the Bafdaranaike Inter",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      229,
+      532,
+      229,
+      17
+    ],
+    "text": "national Airport, Colombo, at",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      229,
+      549,
+      161,
+      15
+    ],
+    "text": "the rate of ten rupees,",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      187,
+      567,
+      270,
+      19
+    ],
+    "text": "(i from the Colombo International",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      229,
+      583,
+      229,
+      18
+    ],
+    "text": "Aiport, Ratmalana, or from the",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      230,
+      599,
+      228,
+      16
+    ],
+    "text": "Kankesanturai Airport, Jaffna,",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      230,
+      615,
+      228,
+      16
+    ],
+    "text": "at the rate of five rupees, and",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      182,
+      635,
+      276,
+      19
+    ],
+    "text": "Gii) from any other airport, at the rate",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      229,
+      651,
+      228,
+      17
+    ],
+    "text": "of two rupees and fifty cents :",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      134,
+      676,
+      325,
+      19
+    ],
+    "text": "Provided, however, that the preceding",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118,
+      692,
+      340,
+      22
+    ],
+    "text": "provisions of this sub-section shall not apply",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118,
+      711,
+      112,
+      13
+    ],
+    "text": "in the case of",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      134,
+      732,
+      324,
+      19
+    ],
+    "text": "(q)- children who are less than two years of age,",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      134,
+      752,
+      324,
+      19
+    ],
+    "text": "() officers and members of the crew of that",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      182,
+      770,
+      107,
+      17
+    ],
+    "text": "ship or aircraft,",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      134,
+      787,
+      324,
+      33
+    ],
+    "text": "( transit passengers of that ship or aircraft,",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      181,
+      807,
+      58,
+      13
+    ],
+    "text": "an \"",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      135,
+      823,
+      323,
+      19
+    ],
+    "text": "@ such other persons a8 may be prescribed..",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      854,
+      101,
+      10
+    ],
+    "text": "Famee 8 270)",
+    "mean_p_confidence": 0.15
+  }
+]

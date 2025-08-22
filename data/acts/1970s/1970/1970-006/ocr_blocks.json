@@ -1,0 +1,1399 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      119,
+      29,
+      358,
+      27
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      415,
+      54,
+      75,
+      18
+    ],
+    "text": "oO Oe",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      202,
+      62,
+      312,
+      38
+    ],
+    "text": "Sth Session 1969-70 ,f2 5%,",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      276,
+      103,
+      250,
+      39
+    ],
+    "text": "ry 1 wi-2-15 4",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      275,
+      140,
+      250,
+      21
+    ],
+    "text": "SLL .",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      251,
+      133,
+      271,
+      57
+    ],
+    "text": "Ais Rs Ly",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      250,
+      169,
+      244,
+      52
+    ],
+    "text": "Ge iy aa",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      255,
+      202,
+      88,
+      23
+    ],
+    "text": "Qrmanis",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      85,
+      218,
+      269,
+      34
+    ],
+    "text": ": & ISN",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      90,
+      283,
+      417,
+      36
+    ],
+    "text": "Ceylon State Mortgage Bank",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      202,
+      329,
+      194,
+      37
+    ],
+    "text": "(Amendment)",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      166,
+      375,
+      265,
+      32
+    ],
+    "text": "Act, No. 6 of 1970",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      190,
+      488,
+      219,
+      13
+    ],
+    "text": "Dote of Assent: January 27, 1970",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      180,
+      590,
+      241,
+      13
+    ],
+    "text": "Printed on the Orders of Government",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      101,
+      737,
+      401,
+      12
+    ],
+    "text": "duel Sibecigton Garnting Bilt) Bx, MM CLood), fa a0",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      97,
+      777,
+      405,
+      20
+    ],
+    "text": "subscriptions be accept on the condition that Bille",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      146,
+      791,
+      316,
+      11
+    ],
+    "text": "issund before the date of payment will not be supplied...",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      91,
+      814,
+      421,
+      12
+    ],
+    "text": "Price ; 30 cents Postage: 10 cents:",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      111,
+      22,
+      298,
+      28
+    ],
+    "text": "Ceylon State Mortgage Bank (Amendment)",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      190,
+      38,
+      139,
+      15
+    ],
+    "text": "Act, Ne. 6 of 1970",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      66,
+      259,
+      15
+    ],
+    "text": "T. D~O. 16/69. .",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      91,
+      372,
+      14
+    ],
+    "text": "AN Acr 10 AMEND TRE CuyLon State Mortcace Bank",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      109,
+      237,
+      19
+    ],
+    "text": "nw Onpnvance.",
+    "mean_p_confidence": 0.07
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      134,
+      140,
+      251,
+      17
+    ],
+    "text": "(Date of Assent: January 27, 1970)",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      170,
+      371,
+      18
+    ],
+    "text": "BE it enacted by the Queens Most Excellent Majesty,",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      187,
+      371,
+      16
+    ],
+    "text": "by and with the advice and consent of the Senate and",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      204,
+      438,
+      20
+    ],
+    "text": "the House of Representatives of Ceylon in this present .",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      222,
+      371,
+      18
+    ],
+    "text": "Parliament assembled, and by the authority of the",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      240,
+      137,
+      14
+    ],
+    "text": "same, as follows:",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88,
+      270,
+      423,
+      18
+    ],
+    "text": "4. This Act may be cited as the Ceylon State abana,",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      288,
+      355,
+      17
+    ],
+    "text": "Mortgage Bank (Amendment) Act, No. 6 of 1970.",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88,
+      319,
+      441,
+      30
+    ],
+    "text": "2. Section 2 of the Ceylon State Mortgage Bank snioass",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      334,
+      443,
+      22
+    ],
+    "text": "Ordinance (a8 amended by Act No. 88 of 1968), here. gin",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      350,
+      446,
+      18
+    ],
+    "text": "after in this Act referred to as the principal :",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      366,
+      374,
+      21
+    ],
+    "text": "eusctment, is hereby further amended in the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      381,
+      373,
+      18
+    ],
+    "text": "definition of the term Joan by the substitution,",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      397,
+      374,
+      29
+    ],
+    "text": "for the expression designation called: , of the",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      413,
+      374,
+      17
+    ],
+    "text": "expression designation called, but does not include",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      429,
+      342,
+      16
+    ],
+    "text": "any salary advances to the staff of the bank; ',",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      460,
+      446,
+      17
+    ],
+    "text": "8. Section 10 of the principal enactment is hereby neplecomeatol",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      461,
+      448,
+      34
+    ],
+    "text": "repealed and the following ieee uaion ekeeteated seeica Wat",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      482,
+      453,
+      32
+    ],
+    "text": "therefor: coocaneal",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      520,
+      376,
+      16
+    ],
+    "text": "Direstor wim 10. Every director shall ordinarily be",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      520,
+      375,
+      36
+    ],
+    "text": "of eice. appointed for 2 term of three years and",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      165,
+      551,
+      281,
+      17
+    ],
+    "text": "ho shall hold ofice for that period unless",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      164,
+      567,
+      282,
+      15
+    ],
+    "text": "he dies, retires, or is removed or",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      165,
+      583,
+      151,
+      15
+    ],
+    "text": "disqualified earlier.*,",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      614,
+      445,
+      18
+    ],
+    "text": "4, Section 12 of the principal enactment is hereby amgntment ot",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      629,
+      438,
+      20
+    ],
+    "text": "amended as follows: sao",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      651,
+      414,
+      19
+    ],
+    "text": "(a) by the repeal of enb-section (1) of that section, Pate,",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      653,
+      360,
+      39
+    ],
+    "text": "Ow a ee'nhstitution thenstor of the following",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      686,
+      201,
+      20
+    ],
+    "text": ": new sub-section ;",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      151,
+      708,
+      296,
+      19
+    ],
+    "text": "(1) The Minister may, withont assign-",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      133,
+      724,
+      314,
+      29
+    ],
+    "text": "ing any reason, remove 's director from",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      133,
+      741,
+      91,
+      15
+    ],
+    "text": "office. \"75 and",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      764,
+      360,
+      29
+    ],
+    "text": "() im sub-section (of that section, by the substitu,",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      133,
+      780,
+      315,
+      20
+    ],
+    "text": "tion, for the expression \"No Member of",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      133,
+      795,
+      315,
+      17
+    ],
+    "text": "Parliament, of - the expression No",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98,
+      812,
+      272,
+      14
+    ],
+    "text": "- Senator or Member of Parliament .",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88,
+      831,
+      84,
+      11
+    ],
+    "text": "Terre 800 9100)",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      173,
+      12,
+      346,
+      17
+    ],
+    "text": "2 Ceylon State Mortgage Bank (Amendment)",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      295,
+      28,
+      142,
+      16
+    ],
+    "text": "Act, No. 6 of 1970",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      73,
+      48,
+      488,
+      31
+    ],
+    "text": "Tosertion of 4. The following new section is hereby inserted",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77,
+      72,
+      483,
+      19
+    ],
+    "text": "Pate immediately after section 17, and shall have effect as",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      74,
+      88,
+      408,
+      23
+    ],
+    "text": "Ericefpal section 17a, of the principal enactment:",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      176,
+      115,
+      384,
+      16
+    ],
+    "text": "power of 174, The Minister may, in consultation",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      172,
+      123,
+      387,
+      28
+    ],
+    "text": "enitiee with the Monetary Board of the Central",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      177,
+      147,
+      383,
+      16
+    ],
+    "text": "dinctom = Bank, issue general directions to the",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      172,
+      154,
+      308,
+      29
+    ],
+    "text": "She bound. board on matters of policy..",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79,
+      189,
+      481,
+      29
+    ],
+    "text": "Angtenict 8. Section 20 of the principal enactment is heneby",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79,
+      204,
+      481,
+      30
+    ],
+    "text": "yee amended by the substitution, for the expression fx",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79,
+      222,
+      479,
+      16
+    ],
+    "text": "cmanme and alter the, of the expression fix and aker,",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      177,
+      237,
+      360,
+      17
+    ],
+    "text": "subject to the succeeding provisions of this Act, the '.",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79,
+      269,
+      480,
+      17
+    ],
+    "text": "dmminetot 7. (1) Section 703 of the principal enactment",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79,
+      273,
+      480,
+      33
+    ],
+    "text": "ween Te\" inserted by Act No. 83 of 1908) ie hereby amended",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      80,
+      293,
+      479,
+      29
+    ],
+    "text": "ene in paragraph (4) of sub-section (2) of that section by",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      177,
+      316,
+      382,
+      18
+    ],
+    "text": "the substitution, for the words original owner , of",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      177,
+      332,
+      124,
+      13
+    ],
+    "text": "the word owner .",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      193,
+      349,
+      365,
+      41
+    ],
+    "text": "2) The amendment made in the principal",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      177,
+      372,
+      380,
+      17
+    ],
+    "text": "enactment by sub-section (1) shall be deemed, for all",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      177,
+      388,
+      380,
+      28
+    ],
+    "text": "urpones, to have come into operation on August 1,",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      178,
+      404,
+      34,
+      12
+    ],
+    "text": "1968.",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      81,
+      436,
+      476,
+      17
+    ],
+    "text": "Amoinesct 8, Section 92 of the principal enactment is hereby",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      81,
+      449,
+      58,
+      8
+    ],
+    "text": "cuon i ct",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      81,
+      456,
+      259,
+      14
+    ],
+    "text": "Hepmcg! amended ag follows:",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      82,
+      471,
+      51,
+      8
+    ],
+    "text": "madeneck,",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      194,
+      483,
+      364,
+      19
+    ],
+    "text": "(1) im sub-section (1) of that section by the",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      241,
+      500,
+      317,
+      29
+    ],
+    "text": "substitution, for paragraph (a) of that aub-",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      241,
+      516,
+      310,
+      18
+    ],
+    "text": "section, of the following new paragraph :",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      116,
+      540,
+      442,
+      18
+    ],
+    "text": ". ** (@) subject to the provisions of sub-",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      305,
+      557,
+      254,
+      17
+    ],
+    "text": "section (14), presoribing the aub-",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      305,
+      573,
+      254,
+      17
+    ],
+    "text": "ordinate staif to be employed by the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      305,
+      589,
+      253,
+      15
+    ],
+    "text": "bank, their conditions of service,",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      304,
+      605,
+      255,
+      18
+    ],
+    "text": "rights, duties and privileges, and",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      262,
+      621,
+      297,
+      17
+    ],
+    "text": ". any other matters connected",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      305,
+      638,
+      128,
+      15
+    ],
+    "text": "therewith; ; and",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      196,
+      660,
+      364,
+      18
+    ],
+    "text": "(2) by the insertion, immediately after sub-section.",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      243,
+      677,
+      316,
+      18
+    ],
+    "text": "(1) of that section, of the following new sub-",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      242,
+      693,
+      73,
+      13
+    ],
+    "text": "section:",
+    "mean_p_confidence": -0.0
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      275,
+      717,
+      284,
+      17
+    ],
+    "text": "(1a) Nothing in paragraph (2) of sub-",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      254,
+      713,
+      306,
+      43
+    ],
+    "text": "section (2) shall be daemed oF construed to",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      259,
+      749,
+      301,
+      17
+    ],
+    "text": "authorize or empower the board to make",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      259,
+      765,
+      301,
+      17
+    ],
+    "text": "rules in respect of the subordinate staff of",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      260,
+      781,
+      300,
+      18
+    ],
+    "text": "the bank relating to any of the matters",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      259,
+      797,
+      301,
+      32
+    ],
+    "text": "gue to in paragraph (0) of section 93",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      533,
+      10,
+      5,
+      19
+    ],
+    "text": "\\",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      104,
+      23,
+      343,
+      18
+    ],
+    "text": "Ceylon State Mortgage Bank (Amendment) 3",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115,
+      24,
+      293,
+      32
+    ],
+    "text": "a Act, Nowe of 1970 y",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      82,
+      70,
+      450,
+      19
+    ],
+    "text": "9. Section 98 of the principal enactment is hereby ausoanent of",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66,
+      83,
+      459,
+      30
+    ],
+    "text": "amended in sub-section (1) of that section, us Pent",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66,
+      97,
+      448,
+      26
+    ],
+    "text": "follows: spsctment.",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70,
+      133,
+      418,
+      18
+    ],
+    "text": "- (1) by the substitution, for paragraph (a) of that .",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      129,
+      135,
+      318,
+      33
+    ],
+    "text": "sobsection, of the Tle new",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      129,
+      165,
+      100,
+      17
+    ],
+    "text": "paragraph :",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      146,
+      193,
+      301,
+      18
+    ],
+    "text": "** (a) prescribing the powers and duties of",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      193,
+      209,
+      254,
+      31
+    ],
+    "text": "the general manager and deputy",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83,
+      226,
+      355,
+      17
+    ],
+    "text": "> general manager of the bank an",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      194,
+      242,
+      253,
+      18
+    ],
+    "text": "their conditions of service, and any",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      192,
+      257,
+      255,
+      16
+    ],
+    "text": "other matters connected there-",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      193,
+      273,
+      92,
+      16
+    ],
+    "text": "with; ; and",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      81,
+      299,
+      366,
+      20
+    ],
+    "text": "(2 by the substitution, for paragraph () of that",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      128,
+      307,
+      318,
+      29
+    ],
+    "text": "sub-section, of the following new",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      128,
+      333,
+      101,
+      16
+    ],
+    "text": "paragraph:",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      145,
+      360,
+      300,
+      18
+    ],
+    "text": "(@ prescribing the salaries, bonuses,",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      192,
+      377,
+      255,
+      19
+    ],
+    "text": "and allowances (whether travelling",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      192,
+      394,
+      254,
+      17
+    ],
+    "text": "or subsistence or otherwise) to be",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      192,
+      409,
+      210,
+      17
+    ],
+    "text": "Paid to the staff of the bank; *.",
+    "mean_p_confidence": 0.77
+  }
+]
