@@ -1,0 +1,1190 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      94,
+      22,
+      419,
+      29
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      174,
+      65,
+      264,
+      32
+    ],
+    "text": "3rd Session 1949-50",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      585,
+      261,
+      3,
+      11
+    ],
+    "text": "1",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      89,
+      333,
+      436,
+      40
+    ],
+    "text": "National Development Loan",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      156,
+      381,
+      302,
+      35
+    ],
+    "text": "Act, No. 3 of 1950",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      587,
+      393,
+      1,
+      52
+    ],
+    "text": "|",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      201,
+      492,
+      387,
+      16
+    ],
+    "text": "Date of Assent : February 16, 1950 '",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      199,
+      609,
+      225,
+      13
+    ],
+    "text": "Printed on the Orders of Government",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      44,
+      783,
+      418,
+      19
+    ],
+    "text": "Printed at the Carton Govt, Press, Covauo. Ta be",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      172,
+      802,
+      291,
+      14
+    ],
+    "text": "Pict oy Onto, Qo, Eem oer Es",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      172,
+      816,
+      291,
+      25
+    ],
+    "text": "i bi ees Be",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      172,
+      839,
+      416,
+      14
+    ],
+    "text": "oe te eer gee eet .",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      25,
+      342,
+      17
+    ],
+    "text": "National Development Loan Act, No. 8 of 1950.",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58,
+      54,
+      77,
+      10
+    ],
+    "text": "BDO. 40/40.",
+    "mean_p_confidence": -0.0
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      53,
+      70,
+      376,
+      13
+    ],
+    "text": "AW ACT 70 MAKE PROVISION FOR RAISING A LOAN OF",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      35,
+      89,
+      400,
+      14
+    ],
+    "text": "_-FOUR RUNDRED MILLION RUPEES FOR BXPENDITURE ON",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      116,
+      106,
+      247,
+      9
+    ],
+    "text": "NATIONAL DEVELOPMENT PURFOSES.",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      106,
+      126,
+      269,
+      18
+    ],
+    "text": "[Date of Assent: February 16, 1950.]",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      150,
+      371,
+      31
+    ],
+    "text": "BE it enacted by the King's Most Excellent",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      47,
+      166,
+      387,
+      18
+    ],
+    "text": "Majesty, by and with the advice and consent of the",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      47,
+      172,
+      387,
+      28
+    ],
+    "text": "Sonate and the House of Representatives of Ceylon",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      47,
+      198,
+      387,
+      18
+    ],
+    "text": "in this present Parliament assembled, and by the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      47,
+      216,
+      268,
+      16
+    ],
+    "text": "authority of the same, o follows:",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      234,
+      442,
+      18
+    ],
+    "text": "4. This Act may be cited as the National Deve. Stor tt,",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      47,
+      252,
+      238,
+      16
+    ],
+    "text": "lopment Loan Act, No. 3 of 1950.-",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      274,
+      436,
+      23
+    ],
+    "text": "2. The Minister of Finance is hereby authorised Autos",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      47,
+      291,
+      467,
+      18
+    ],
+    "text": "to raise by way of loan a sum not exceeding four te fun",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      46,
+      307,
+      387,
+      17
+    ],
+    "text": "hundred million rupees for expenditure on any work",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      46,
+      323,
+      385,
+      16
+    ],
+    "text": "connected with or incidental to national development.",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      347,
+      440,
+      22
+    ],
+    "text": "3. The loan or any part of the loan authorised by Mited ot",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      47,
+      361,
+      466,
+      19
+    ],
+    "text": "this Act may, subject as hereinafter provided, be xn,",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      46,
+      368,
+      451,
+      28
+    ],
+    "text": "raised under the Registered Stock ond Securities cep. s0.",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      46,
+      395,
+      386,
+      14
+    ],
+    "text": "Ordinance at such time or times as the Minister of",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      46,
+      412,
+      441,
+      15
+    ],
+    "text": "Finance mey determine: :",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      431,
+      370,
+      16
+    ],
+    "text": "Provided that section 4 (1) (), sections 27 to $3",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      47,
+      447,
+      540,
+      16
+    ],
+    "text": "(both inclusive) and section 48 (1) (0) of the Regis- i",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      46,
+      463,
+      386,
+      16
+    ],
+    "text": "tered Stock and Securities Ordinance shall not apply",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      46,
+      479,
+      368,
+      17
+    ],
+    "text": "to any loan raised under the authority of this Act:",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      495,
+      369,
+      17
+    ],
+    "text": "Provided further that the Minister of Finance may,",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      46,
+      511,
+      378,
+      19
+    ],
+    "text": "by Order, direct that, in respect of suck loan or any",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      46,
+      512,
+      389,
+      44
+    ],
+    "text": "Birt of such Joan, the provisions of the Rogistered",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      56,
+      544,
+      376,
+      17
+    ],
+    "text": "tock and Securities Ordinance (other than the provi-",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      46,
+      560,
+      386,
+      29
+    ],
+    "text": "sions of the sections referred to in the preceding",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      46,
+      576,
+      371,
+      29
+    ],
+    "text": "Proviee) shall apply and ave effec: eubject to ou",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      45,
+      592,
+      405,
+      19
+    ],
+    "text": "exceptions, modifications and amendments as may be ~",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      46,
+      597,
+      385,
+      28
+    ],
+    "text": "specified in the Order; and every such Order sball,",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      45,
+      625,
+      388,
+      28
+    ],
+    "text": "upon publication in the Gueette, be as valid and",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      46,
+      641,
+      267,
+      13
+    ],
+    "text": "effectual as if it were herein enacted.",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      665,
+      436,
+      17
+    ],
+    "text": "4. In addition to the sum specified in ection 2, autherky",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      46,
+      681,
+      452,
+      20
+    ],
+    "text": "the Minister of Finance is hereby authorised to raise, 2,",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      46,
+      698,
+      449,
+      17
+    ],
+    "text": "in the manner prescribed in or under section 3, tums br",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      35,
+      713,
+      462,
+      32
+    ],
+    "text": "such further sums as may be unecessary for the purpone melden",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      45,
+      730,
+      389,
+      20
+    ],
+    "text": "of defraying the expenses incurred in raising the",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      45,
+      746,
+      176,
+      19
+    ],
+    "text": "Joan or any part thereof.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      769,
+      443,
+      18
+    ],
+    "text": "5. (1) All moneys raised by way of loan under ppliatin",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      35,
+      767,
+      467,
+      41
+    ],
+    "text": "* section $ may be expended on the work mentioned in ioe",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      45,
+      803,
+      467,
+      21
+    ],
+    "text": "section 2, but such expenditure shall not be finally \"ey of =",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      46,
+      817,
+      540,
+      33
+    ],
+    "text": "charged to such loan or to any y part of such loan am 8 ,",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      45,
+      837,
+      389,
+      28
+    ],
+    "text": "$Ree% upon a resolation in thet bebalf passed by the",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      45,
+      849,
+      186,
+      27
+    ],
+    "text": "House of Representatives.",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      183,
+      25,
+      362,
+      16
+    ],
+    "text": "4 National Development Loan Act, No. 8 of 1950.",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      203,
+      53,
+      367,
+      16
+    ],
+    "text": "(2) Where moneys have been expended out of the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      186,
+      69,
+      384,
+      15
+    ],
+    "text": "Consolidated Fund on the work mentioned in section 2,",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      186,
+      84,
+      385,
+      14
+    ],
+    "text": "whether before or after the commencement of this",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      185,
+      97,
+      386,
+      36
+    ],
+    "text": "Act, such expenditure may, by resolution passed by",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      185,
+      116,
+      386,
+      17
+    ],
+    "text": "the House of Representatives, be declared to be charged",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      186,
+      133,
+      386,
+      16
+    ],
+    "text": "to any loan or to any part of any loan raised under",
+    "mean_p_confidence": 0.88
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      186,
+      149,
+      163,
+      12
+    ],
+    "text": "section 2.\"",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      88,
+      176,
+      485,
+      17
+    ],
+    "text": "Power to 6. (1) In anticipation of the raising of any loan or",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      88,
+      177,
+      485,
+      37
+    ],
+    "text": "Sin, a2\"? . of any part of any loan by authority S this Act, the",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      186,
+      208,
+      387,
+      17
+    ],
+    "text": "Minister of Finance may, in his discretion, from time",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      187,
+      225,
+      386,
+      16
+    ],
+    "text": "to time cause such sums as he may deem necessary to",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      187,
+      240,
+      387,
+      17
+    ],
+    "text": "be raised by the issue of Treasury Bills under the Local",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      89,
+      257,
+      486,
+      17
+    ],
+    "text": "Cop, 287. Treasury Bills Ordinance; and the provisions of that",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      187,
+      272,
+      387,
+      18
+    ],
+    "text": "Ordinance shall apply accordingly except in so far aa",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      187,
+      288,
+      378,
+      18
+    ],
+    "text": "they are inconsistent, with the provisions of this Act.",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      205,
+      308,
+      370,
+      17
+    ],
+    "text": "(2) Every sum raised by the issue of Treasury Bills",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      188,
+      313,
+      387,
+      28
+    ],
+    "text": "under the authority of sub-section (1) shall. be",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      188,
+      341,
+      374,
+      16
+    ],
+    "text": "applied :",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      168,
+      364,
+      369,
+      16
+    ],
+    "text": ": (@) for the work mentioned in ection 2, or",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      224,
+      384,
+      352,
+      17
+    ],
+    "text": "() for paying off at maturity any Treasury Bills",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      236,
+      384,
+      239,
+      32
+    ],
+    "text": "> fot Eel eer ench anthony,",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      203,
+      412,
+      372,
+      41
+    ],
+    "text": "(3) Upon the raising of the loan or past of the loan in",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      191,
+      435,
+      384,
+      19
+    ],
+    "text": "anticipation of which any sum has been raised by tbe",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      192,
+      452,
+      384,
+      16
+    ],
+    "text": "issue of Treasury Bills under the authority of sub-",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      192,
+      468,
+      313,
+      16
+    ],
+    "text": "section (1), the Minister of Finance may",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      225,
+      487,
+      352,
+      17
+    ],
+    "text": "(@) expend from auch loan or part thereof such",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      274,
+      503,
+      303,
+      17
+    ],
+    "text": "amounta as may from time to time be",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      273,
+      519,
+      304,
+      16
+    ],
+    "text": "necessary to meet the liabilities of the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      275,
+      535,
+      303,
+      17
+    ],
+    "text": "Government in respect of such Treasury",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      275,
+      551,
+      293,
+      20
+    ],
+    "text": "Bills: or .",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      228,
+      571,
+      351,
+      16
+    ],
+    "text": "() where such liabilities have been met in the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      275,
+      586,
+      303,
+      18
+    ],
+    "text": "first instance out of the Consolidated",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      277,
+      602,
+      302,
+      16
+    ],
+    "text": "Fund, refund to the Consolidated Fund",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      276,
+      618,
+      303,
+      17
+    ],
+    "text": "such amounts as may have been expended",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      276,
+      634,
+      198,
+      16
+    ],
+    "text": "therefrom for that purpose.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      96,
+      653,
+      482,
+      42
+    ],
+    "text": "Eaemptlon 7. The interest payable on any registered stock,",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      101,
+      670,
+      478,
+      29
+    ],
+    "text": "oP aston. promissory notes or bearer bonds issued by authority of",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      87,
+      693,
+      492,
+      16
+    ],
+    "text": ": this Act under the Registered Stock and Securities",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      102,
+      708,
+      478,
+      22
+    ],
+    "text": "Cap. 989, Ordinance and held by the Government of any part",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      198,
+      724,
+      382,
+      22
+    ],
+    "text": "of His Majestys dominions (including therein any",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      199,
+      739,
+      380,
+      21
+    ],
+    "text": "British Protectorate or Protected State and any terri",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      199,
+      756,
+      381,
+      28
+    ],
+    "text": "ory in respect of which a Mandate on behalf of the",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      199,
+      770,
+      380,
+      28
+    ],
+    "text": "Tsagae of Nations has been accepted by His Majesty),",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      200,
+      780,
+      379,
+      25
+    ],
+    "text": "shall be exempt from all taxes amd duties levigble or",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      195,
+      798,
+      383,
+      38
+    ],
+    "text": "payable under any written law in force in Ceylon,",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      273,
+      823,
+      127,
+      11
+    ],
+    "text": "nding anythi i",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      195,
+      819,
+      385,
+      36
+    ],
+    "text": "contrary. ig anything in any such law to the",
+    "mean_p_confidence": 0.82
+  }
+]

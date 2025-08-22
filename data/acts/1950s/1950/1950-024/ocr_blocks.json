@@ -1,0 +1,981 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      84,
+      7,
+      425,
+      29
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      184,
+      50,
+      220,
+      32
+    ],
+    "text": "4th Session 1950",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      218,
+      127,
+      345,
+      75
+    ],
+    "text": "a q f BSS +5 a",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      103,
+      299,
+      373,
+      45
+    ],
+    "text": "Defence Regulations",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      140,
+      350,
+      302,
+      47
+    ],
+    "text": "(Extension) Act,",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      39,
+      396,
+      380,
+      53
+    ],
+    "text": "| _ No. 24 of 1950",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      33,
+      514,
+      355,
+      26
+    ],
+    "text": "Hy Dats of Assent: Octobsr 3, 1950",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      36,
+      600,
+      503,
+      43
+    ],
+    "text": "! : Printed on the Ordere of Government .",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      35,
+      684,
+      214,
+      25
+    ],
+    "text": "i .",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      35,
+      727,
+      410,
+      51
+    ],
+    "text": "I Pols cree Gam, foe te",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      149,
+      804,
+      438,
+      40
+    ],
+    "text": "preeriocms Poagert cote",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      136,
+      5,
+      331,
+      20
+    ],
+    "text": "Defence Regulations (Extension) Act, 8",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      219,
+      24,
+      109,
+      16
+    ],
+    "text": "No, &4 of 1950.",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      40,
+      164,
+      15
+    ],
+    "text": "L. D0. 9160. 7",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      69,
+      384,
+      12
+    ],
+    "text": "Ax Act TO PROVIDE FOR THE CONTINOANCE IN FORCE OF",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      97,
+      85,
+      352,
+      13
+    ],
+    "text": "oprtaIn Durance REGULATIONS FOR A FURTHER",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      113,
+      100,
+      318,
+      15
+    ],
+    "text": "PERIOD FROM THE NINTH DAY OF DECEMBER,",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      258,
+      118,
+      35,
+      12
+    ],
+    "text": "1950.",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      146,
+      141,
+      255,
+      18
+    ],
+    "text": "[Date of Assent, October 3, 1950.]",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      97,
+      168,
+      367,
+      17
+    ],
+    "text": "WHEREAS the Defence Regulations remaining in",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      185,
+      381,
+      18
+    ],
+    "text": "force by virtue of the Emergency Laws (Miscellaneous",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      201,
+      382,
+      18
+    ],
+    "text": "Provisions) Order, 1947, published in Gaeette Extra-",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      218,
+      382,
+      18
+    ],
+    "text": "ordinary No. 9,812 of December 26, 1947, are in terms",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      235,
+      382,
+      17
+    ],
+    "text": "of that Order, due to expire on the tenth day of",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      253,
+      114,
+      15
+    ],
+    "text": "December, 1950:",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98,
+      275,
+      365,
+      17
+    ],
+    "text": "And whereas it is expedient, for purposes herein-",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      292,
+      381,
+      17
+    ],
+    "text": "after appearing, to provide for the continuance in",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      309,
+      381,
+      17
+    ],
+    "text": "force for e further period of cartain of those Defence",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      327,
+      90,
+      16
+    ],
+    "text": "Regalations:",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98,
+      349,
+      365,
+      16
+    ],
+    "text": "BE it. therefore, enacted by the Kings Most",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      366,
+      381,
+      17
+    ],
+    "text": "Excellent Majesty, by and with the advice and consent",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      382,
+      381,
+      16
+    ],
+    "text": "of the Senate and the House of Representatives of",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      398,
+      380,
+      18
+    ],
+    "text": "Ceylon in this present Parliament assembled, and by",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      416,
+      279,
+      16
+    ],
+    "text": "the authority of the same, as followe:-",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99,
+      446,
+      430,
+      17
+    ],
+    "text": "1, This Act may be cited as the Defence Regula- stop tet",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      462,
+      453,
+      21
+    ],
+    "text": "tions (Extension) Act. No. 24 of 1850, and shall come sn! site ot",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      480,
+      381,
+      18
+    ],
+    "text": "into operation on the ninth day of December, 1960",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      496,
+      365,
+      17
+    ],
+    "text": "(hereinafter referred to as the appointed date ).",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98,
+      528,
+      438,
+      17
+    ],
+    "text": "2. The Defence Repulations specified in the First contiauence",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      542,
+      452,
+      19
+    ],
+    "text": "Schedule to this Act shall from the appointed date have 2's ot",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      560,
+      451,
+      18
+    ],
+    "text": "the force of law by virtue of this Act and as though . Regulations",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      573,
+      454,
+      24
+    ],
+    "text": "they were herein enacted, but only for the purpose of Pa tied",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      593,
+      381,
+      19
+    ],
+    "text": "enabling the making, hearing and determination of",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      611,
+      381,
+      18
+    ],
+    "text": "claims thereunder for compensation and the assessment.",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      626,
+      381,
+      19
+    ],
+    "text": "of compensation in respect of any land of which",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      643,
+      380,
+      18
+    ],
+    "text": "possession was taken before the twenty-fourth day of",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      661,
+      380,
+      17
+    ],
+    "text": "February, 1946, in the exercise of emergency powers",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      675,
+      380,
+      20
+    ],
+    "text": "as defined by those Regulations, or in respect of the",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      691,
+      380,
+      21
+    ],
+    "text": "doing of any work on any such land, or in respect of",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      708,
+      380,
+      20
+    ],
+    "text": "any property other than land requisitioned or acquired",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      726,
+      380,
+      18
+    ],
+    "text": "before that day in the exercise of such emergency",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      748,
+      55,
+      12
+    ],
+    "text": "powers:",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92,
+      765,
+      370,
+      20
+    ],
+    "text": "Provided, however, that nothing in the aforesnid",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      782,
+      380,
+      21
+    ],
+    "text": "Regulations shall apply in relation to any claim for",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      800,
+      498,
+      19
+    ],
+    "text": "compensation, ar the assesament of any compensation, 1",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      819,
+      433,
+      17
+    ],
+    "text": "accruing due after the appointed date. .",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96,
+      838,
+      102,
+      9
+    ],
+    "text": "3.3, wen (90)",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      360,
+      853,
+      220,
+      7
+    ],
+    "text": "> 1",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      158,
+      12,
+      328,
+      16
+    ],
+    "text": "4 Defence Regulations (Extension) Act,",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      292,
+      25,
+      110,
+      19
+    ],
+    "text": "No. 24 of 1950.",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      58,
+      45,
+      482,
+      35
+    ],
+    "text": "Cxainnaee 8. The Defence Regulations specified in the Second",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      62,
+      72,
+      478,
+      17
+    ],
+    "text": "it Detece Schedule to this Act shall from the appointed date",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      61,
+      88,
+      513,
+      19
+    ],
+    "text": "Regine, have the force of law by virtue of this Act and as -",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      57,
+      97,
+      332,
+      31
+    ],
+    "text": "Baril, though they were herein enacted.",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      57,
+      142,
+      484,
+      29
+    ],
+    "text": "Rover of 4. The Governor-General may by Order published",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      61,
+      157,
+      480,
+      27
+    ],
+    "text": "General in the Gazette declare that any Defence Regulation",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      57,
+      169,
+      484,
+      33
+    ],
+    "text": "we real specified ia aay of the Schedules to this Act shall",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      61,
+      196,
+      480,
+      16
+    ],
+    "text": "Reputation: in base to be in forces on such date as may be specified in",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      61,
+      211,
+      167,
+      15
+    ],
+    "text": "the'Scediles. the Order.",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      60,
+      246,
+      482,
+      22
+    ],
+    "text": "lotr. 6. References in this Act to Defence Regulations",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      157,
+      269,
+      385,
+      14
+    ],
+    "text": "shall be deemed to include references to all orders and",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      157,
+      286,
+      385,
+      14
+    ],
+    "text": "instruments heretofore made or issued thereunder and",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      157,
+      303,
+      213,
+      17
+    ],
+    "text": "in force at the appointed date.",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      57,
+      337,
+      486,
+      31
+    ],
+    "text": "Duration 6. This Act shall continue in force until",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      158,
+      361,
+      302,
+      16
+    ],
+    "text": "December 9, 1952, and shall then expire:",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      174,
+      389,
+      369,
+      16
+    ],
+    "text": "Provided, however, that if the Senate.and the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      158,
+      406,
+      384,
+      19
+    ],
+    "text": "House of Representatives by resolution so declare,",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      158,
+      422,
+      422,
+      17
+    ],
+    "text": "this Act shall coutinue in fores for such further period =~",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      158,
+      441,
+      352,
+      17
+    ],
+    "text": "a8 may be specified in such resolution, cal",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      302,
+      481,
+      97,
+      10
+    ],
+    "text": "First Scwepve",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      171,
+      506,
+      281,
+      14
+    ],
+    "text": "The Defenca (Compansation) Regulations, 1041.",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      172,
+      526,
+      351,
+      15
+    ],
+    "text": "The Defence (Claims for Compensation) Regulations, 1942.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      148,
+      564,
+      255,
+      12
+    ],
+    "text": "L Suconn Scampuz",
+    "mean_p_confidence": 0.03
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      106,
+      589,
+      418,
+      14
+    ],
+    "text": "+ The Defence (Trading with the Ecemy) Regulations, 1999.",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      174,
+      610,
+      356,
+      14
+    ],
+    "text": "The Detenoe (Trading with the Enemy) (No. 9) Regulations.",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      174,
+      632,
+      351,
+      16
+    ],
+    "text": "The Defence (Trading with the Enemy) (No, 3) Regulations.",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      175,
+      652,
+      370,
+      15
+    ],
+    "text": "The Detonce {Trading with the Enemy) (Amendment)",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      162,
+      666,
+      95,
+      15
+    ],
+    "text": "Regulations. -_",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      243,
+      699,
+      317,
+      18
+    ],
+    "text": "M : . Mage",
+    "mean_p_confidence": 0.25
+  }
+]

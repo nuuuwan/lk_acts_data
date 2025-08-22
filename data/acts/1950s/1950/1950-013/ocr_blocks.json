@@ -1,0 +1,926 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      80,
+      27,
+      421,
+      30
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      39,
+      70,
+      382,
+      33
+    ],
+    "text": ": 3rd Session 1949-50",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      226,
+      145,
+      307,
+      67
+    ],
+    "text": "Wee) s-5')",
+    "mean_p_confidence": 0.01
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      219,
+      198,
+      302,
+      42
+    ],
+    "text": "J YS Wie te!",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      55,
+      323,
+      479,
+      39
+    ],
+    "text": "Public Bodies (Prevention of",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      87,
+      367,
+      412,
+      41
+    ],
+    "text": "Corruption) (Amendment)",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      42,
+      412,
+      413,
+      34
+    ],
+    "text": ": Act, No. 13 of 1950",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      197,
+      530,
+      200,
+      15
+    ],
+    "text": "Dats of Assent : Maroh 17, 1980",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      36,
+      631,
+      372,
+      17
+    ],
+    "text": "1 Printed on the Orders of Government",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      153,
+      777,
+      336,
+      24
+    ],
+    "text": "TALS Oue GD Bis",
+    "mean_p_confidence": 0.03
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      154,
+      803,
+      323,
+      21
+    ],
+    "text": "Herel om eaetey Be Be",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      36,
+      830,
+      549,
+      28
+    ],
+    "text": ", OT prenrtoeene FP",
+    "mean_p_confidence": 0.05
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      105,
+      38,
+      305,
+      18
+    ],
+    "text": "Public Bodies (Prevention of Corruption)",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      131,
+      56,
+      250,
+      17
+    ],
+    "text": "(Amendment) Act, No. 18 of 1950.",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      40,
+      85,
+      106,
+      10
+    ],
+    "text": "- Dao, 26/08,",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      103,
+      381,
+      16
+    ],
+    "text": "AN Act 10 AMEND tax Pusiic Bones (PREVENTION",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96,
+      119,
+      320,
+      17
+    ],
+    "text": "oF Corrurrion) Oxpinancz, No. 49 o7 1948.",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      129,
+      146,
+      256,
+      18
+    ],
+    "text": "[Date of Assent: March 17, 1950.]",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      170,
+      366,
+      30
+    ],
+    "text": "BE. it enacted by the Kings Most Excelient",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      186,
+      381,
+      18
+    ],
+    "text": "Majesty, by and with the advice and congent of the",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      202,
+      381,
+      28
+    ],
+    "text": "Senate and the House of Representatives of Ceylon in",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      217,
+      381,
+      18
+    ],
+    "text": "thia present Parliament assembled, and by the",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      235,
+      259,
+      16
+    ],
+    "text": "authority of the same, as follows: -",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      260,
+      433,
+      14
+    ],
+    "text": "4. Thie Act may be cited as the Public Bodies Stor tite,",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      265,
+      380,
+      28
+    ],
+    "text": "(Prevention of Corruption) (Amendment) Act,",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      293,
+      105,
+      13
+    ],
+    "text": "No. 13 of 1950,",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      319,
+      454,
+      21
+    ],
+    "text": "2, Section of the Public Bodies (Prevention of Amminent a",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      330,
+      446,
+      38
+    ],
+    "text": "Corruption) Ordinance, No. 49 of 1048, is hereby G30\"",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      352,
+      473,
+      13
+    ],
+    "text": "amended as follows: Bo. 6b of 108,",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      102,
+      375,
+      347,
+      29
+    ],
+    "text": "(1) in sub-section (H sub-section (2) and sub-",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93,
+      383,
+      355,
+      41
+    ],
+    "text": ": section (3) of at section by the substitu-",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      40,
+      407,
+      387,
+      16
+    ],
+    "text": ": tion, for the word and figure '' seotion 8\",",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      147,
+      422,
+      302,
+      17
+    ],
+    "text": "of the words and figures section 2 or",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      147,
+      439,
+      117,
+      14
+    ],
+    "text": "section 3; and",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      100,
+      454,
+      349,
+      37
+    ],
+    "text": "(2) by the insertion, immediately after sub-",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      147,
+      474,
+      303,
+      17
+    ],
+    "text": "section (8) of that eection, of the following",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      147,
+      490,
+      144,
+      13
+    ],
+    "text": "new sub-sections:",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      149,
+      513,
+      301,
+      19
+    ],
+    "text": "** (8a) Where any Commission of Inquiry",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      132,
+      529,
+      318,
+      17
+    ],
+    "text": "appointed under the Commissions of Inquiry",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      133,
+      545,
+      317,
+      17
+    ],
+    "text": "Act, No. 17 of 1948, finds at the inquiry",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      132,
+      561,
+      319,
+      17
+    ],
+    "text": "held by the Commission and reports to the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      131,
+      577,
+      320,
+      17
+    ],
+    "text": "Governor-General that any person, while",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      132,
+      593,
+      289,
+      17
+    ],
+    "text": "being member of a public body, had",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      133,
+      617,
+      318,
+      17
+    ],
+    "text": "(a) corruptly solicited, received or agreed to",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      181,
+      633,
+      270,
+      17
+    ],
+    "text": "receive, for himeelf or for any other",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      97,
+      645,
+      355,
+      37
+    ],
+    "text": ": person, any gift, loan, fee, reward or",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      182,
+      665,
+      270,
+      16
+    ],
+    "text": "advantage whateoever as an induce-",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      181,
+      681,
+      271,
+      13
+    ],
+    "text": "ment to or reward for auch member",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      181,
+      697,
+      270,
+      17
+    ],
+    "text": "doing or forbearing to do ny official",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      181,
+      715,
+      46,
+      13
+    ],
+    "text": "act, or",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      134,
+      733,
+      318,
+      17
+    ],
+    "text": "() corruptiy given, promised or offered to",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      181,
+      749,
+      269,
+      29
+    ],
+    "text": "any other member of a pug body,",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      45,
+      765,
+      407,
+      14
+    ],
+    "text": "? : whether for the benefit of euch other",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      181,
+      781,
+      270,
+      17
+    ],
+    "text": "member or of any other person, any",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      181,
+      797,
+      270,
+      17
+    ],
+    "text": "gift, loan, fee, reward or advantage",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      181,
+      813,
+      270,
+      14
+    ],
+    "text": "whatsoever as an inducement to or",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      181,
+      829,
+      400,
+      18
+    ],
+    "text": "reward for auch other member doing ,",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      181,
+      845,
+      253,
+      17
+    ],
+    "text": "or forbearing to do any official act,",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96,
+      864,
+      108,
+      11
+    ],
+    "text": "FoR Sonera, 145 ase)",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      170,
+      28,
+      338,
+      17
+    ],
+    "text": "4 Public Bodies (Prevention of Corruption)",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      235,
+      44,
+      245,
+      16
+    ],
+    "text": "(Amendment) Act, No. 13 of 1960.",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      234,
+      69,
+      311,
+      19
+    ],
+    "text": "the Governor-Generl shall cause the finding",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      234,
+      87,
+      311,
+      17
+    ],
+    "text": "to be published as coon as may be in the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      234,
+      103,
+      311,
+      16
+    ],
+    "text": "Gazette, and the person againet whom the",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      223,
+      118,
+      136,
+      16
+    ],
+    "text": "* finding te made",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      234,
+      141,
+      312,
+      17
+    ],
+    "text": ") shall, for a period of five years reckoned",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      281,
+      143,
+      265,
+      36
+    ],
+    "text": "from the date of the publication of the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      280,
+      168,
+      266,
+      37
+    ],
+    "text": "finding in the Gazetie, be disqualified,",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      281,
+      188,
+      265,
+      17
+    ],
+    "text": "from being registered as a voter, or",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      281,
+      204,
+      264,
+      16
+    ],
+    "text": "from voting at any election of mem-",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      281,
+      205,
+      265,
+      36
+    ],
+    "text": "bers of any public Body, or from being",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      282,
+      235,
+      264,
+      17
+    ],
+    "text": "elected, nominated or appointed, or",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      282,
+      250,
+      264,
+      19
+    ],
+    "text": "from sitting or voting, as a member",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      279,
+      266,
+      167,
+      17
+    ],
+    "text": "of any public body, and",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      230,
+      285,
+      316,
+      18
+    ],
+    "text": "(ii) shall, if he is a member of any public",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      280,
+      301,
+      266,
+      16
+    ],
+    "text": "body at the date aforesaid, vacate",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      281,
+      316,
+      265,
+      14
+    ],
+    "text": "his seat as such member with effect",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      282,
+      332,
+      111,
+      13
+    ],
+    "text": "from that date,",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      247,
+      351,
+      299,
+      35
+    ],
+    "text": "(32) Every finding of a Commission which",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      235,
+      370,
+      311,
+      18
+    ],
+    "text": "is referred to in, and published as required",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      234,
+      386,
+      312,
+      17
+    ],
+    "text": "by, aub-section (84) shal] have effect as pro-",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      237,
+      388,
+      310,
+      37
+    ],
+    "text": "vided in that sub-section, notwithstanding",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      231,
+      413,
+      315,
+      35
+    ],
+    "text": "anything in any other law, and shall not be",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      234,
+      432,
+      279,
+      21
+    ],
+    "text": "called in question in any court.\"",
+    "mean_p_confidence": 0.66
+  }
+]

@@ -1,0 +1,420 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      90,
+      10,
+      420,
+      31
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      190,
+      49,
+      217,
+      32
+    ],
+    "text": "4th Session 1951",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      431,
+      93,
+      102,
+      36
+    ],
+    "text": "i ae",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      284,
+      118,
+      256,
+      27
+    ],
+    "text": "al i, Xe",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      233,
+      132,
+      315,
+      29
+    ],
+    "text": "pre een [a fennn",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      227,
+      129,
+      323,
+      88
+    ],
+    "text": "ee nat GC Wai",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      265,
+      179,
+      283,
+      22
+    ],
+    "text": "NaS : ae As,",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      267,
+      170,
+      269,
+      49
+    ],
+    "text": "ees pe 4",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      225,
+      187,
+      304,
+      68
+    ],
+    "text": "' i BN Re",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77,
+      296,
+      450,
+      39
+    ],
+    "text": "Public Servants (Liabilities)",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      95,
+      337,
+      420,
+      35
+    ],
+    "text": "Amendment Act, No. 10 of",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      272,
+      380,
+      225,
+      28
+    ],
+    "text": "1951 .",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      200,
+      515,
+      211,
+      14
+    ],
+    "text": "Date of Assent: March 15, 2951",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      182,
+      642,
+      253,
+      13
+    ],
+    "text": "Printed on the Orders of Government",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      141,
+      768,
+      341,
+      12
+    ],
+    "text": "Pemtea aime Cena Gov Press, Cour, To Ye",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      141,
+      779,
+      343,
+      14
+    ],
+    "text": "purchased at the Govr, PusiicaTiona Bureav, Co.oMso",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      61,
+      793,
+      458,
+      24
+    ],
+    "text": ": Seen Gi oa Es Se",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      142,
+      808,
+      340,
+      22
+    ],
+    "text": "Simin, Poor Ornte Box 300, Seeretrat, Colombo t",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143,
+      833,
+      340,
+      13
+    ],
+    "text": "reestp cle anger 8 ete",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      9,
+      85,
+      10
+    ],
+    "text": "1b, D0. a6,",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      32,
+      335,
+      16
+    ],
+    "text": "Public Sercants (Liabilities) Amendment Act,",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      120,
+      48,
+      188,
+      17
+    ],
+    "text": ". No. 10 of 1951.",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      101,
+      72,
+      416,
+      20
+    ],
+    "text": "AN Act 70 awenp tHe Pustic SERVANTS aiid",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      92,
+      428,
+      16
+    ],
+    "text": ": (Lranurrms) Onpivaxce. rin,",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      125,
+      124,
+      256,
+      17
+    ],
+    "text": "[Date of Assent: March 15, 1951.]",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      147,
+      367,
+      42
+    ],
+    "text": "BE it enacted by the Kings Moat Excellent Majesty,",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      172,
+      385,
+      30
+    ],
+    "text": "A and with the advice and consent of the Senate and",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      188,
+      370,
+      17
+    ],
+    "text": "fe Flouse of Representatives of Ceylon in this present",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      204,
+      385,
+      17
+    ],
+    "text": "Parliament assembled, and by the authority of the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      221,
+      143,
+      15
+    ],
+    "text": "same, as follows:",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      248,
+      439,
+      17
+    ],
+    "text": "4. This Act may be cited as the Public Servants short title.",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      265,
+      324,
+      16
+    ],
+    "text": "Liabilities) Amendment Act, No. 10 of 1951.",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      289,
+      447,
+      27
+    ],
+    "text": "2. Section 2 of the Public Servants (Liabilities) Amendment,",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      306,
+      472,
+      20
+    ],
+    "text": "Ordinance ia hereby amended, by the substitution, ino Gtuv'ss,",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      325,
+      387,
+      16
+    ],
+    "text": "sub-section (2) thereof, for the words three hundred",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      341,
+      386,
+      17
+    ],
+    "text": "rupees a month, of the words five hundred and",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      357,
+      181,
+      17
+    ],
+    "text": "twenty rupees a month **,",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      841,
+      356,
+      15
+    ],
+    "text": "sox. wost-nn aan, :",
+    "mean_p_confidence": 0.12
+  }
+]

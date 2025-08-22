@@ -1,0 +1,530 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      93,
+      9,
+      412,
+      30
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      190,
+      52,
+      217,
+      31
+    ],
+    "text": "4th Session 1950",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      39,
+      99,
+      279,
+      18
+    ],
+    "text": ". rin",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      220,
+      115,
+      306,
+      27
+    ],
+    "text": "pee Bo Po",
+    "mean_p_confidence": 0.09
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      242,
+      148,
+      327,
+      44
+    ],
+    "text": "me 4 fo <8",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      222,
+      175,
+      352,
+      41
+    ],
+    "text": "ALONE BSR) [2 Be-0--5",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      451,
+      239,
+      108,
+      25
+    ],
+    "text": "Sel hae",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80,
+      292,
+      436,
+      34
+    ],
+    "text": "Agricultural and Industrial Credit",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      104,
+      335,
+      387,
+      34
+    ],
+    "text": "Corporation (Amendment) Act,",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      193,
+      380,
+      208,
+      23
+    ],
+    "text": "No. 22 of 1950",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      38,
+      427,
+      264,
+      12
+    ],
+    "text": ", *",
+    "mean_p_confidence": 0.02
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      64,
+      471,
+      341,
+      32
+    ],
+    "text": ". Date of Assent: August 25, 1950",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      191,
+      600,
+      224,
+      15
+    ],
+    "text": "Printed on the Orders of Government",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      41,
+      765,
+      409,
+      10
+    ],
+    "text": ": Pentel a4 the cent Gorn Pate. Gouna. To be",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      160,
+      776,
+      291,
+      11
+    ],
+    "text": "Peal she Sees Sor kami: Sou et",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161,
+      791,
+      290,
+      20
+    ],
+    "text": "Gieaoon tothe Dosen aust: Goveamnter Pobtlonone",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161,
+      808,
+      423,
+      15
+    ],
+    "text": "See ge iperaaey Soom ,",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      162,
+      827,
+      421,
+      13
+    ],
+    "text": "Price: 10 cents Postage: cents :",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      8,
+      364,
+      18
+    ],
+    "text": ". Agricultural and Industrial Credit Corporation",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      124,
+      25,
+      258,
+      17
+    ],
+    "text": "(Amendment) Act, No. 22 of 1950.",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      45,
+      79,
+      10
+    ],
+    "text": "1. D0, 10/50",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      60,
+      386,
+      14
+    ],
+    "text": "AN Ao? 10 AMEND Taz AGRICULTURAL AND INDUSTRIAL",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      77,
+      343,
+      14
+    ],
+    "text": "Greprr Corporation ORDINANCE, No. 19 oF 1948.",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118,
+      100,
+      269,
+      17
+    ],
+    "text": "[Date of Assent: August 25, 1950.)",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      124,
+      370,
+      17
+    ],
+    "text": "BE it enacted by the Kings Most Excellent",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      129,
+      385,
+      30
+    ],
+    "text": "Majesty, by and with the advios and consent of the",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      144,
+      385,
+      28
+    ],
+    "text": "Senate and the House of Representatives of Ceylon",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      171,
+      385,
+      17
+    ],
+    "text": "in this present Parliament assembled, and by the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      187,
+      260,
+      16
+    ],
+    "text": "authority of the same, as follows:",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      215,
+      441,
+      17
+    ],
+    "text": "1, This Act may be cited as the Agricultural and Sten site.",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      230,
+      383,
+      18
+    ],
+    "text": "Industrial Credit Corporation (Amendment) Act,",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      246,
+      109,
+      13
+    ],
+    "text": "No. 22 of 1950.",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      274,
+      461,
+      18
+    ],
+    "text": "2. Section 22 of the Agricuttural and Industrial smandmmt ot",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      289,
+      465,
+      21
+    ],
+    "text": "Credit Corporation Ordinance, No. 19 of 1943, {as let",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      305,
+      476,
+      19
+    ],
+    "text": "amended by Act No. 23 of 1949) is hereby further fe. 19 of ii.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      321,
+      383,
+      18
+    ],
+    "text": "amended in sub-section (1) thereof, by the substitation,",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      336,
+      383,
+      19
+    ],
+    "text": "for the'words ' fifteen million rupees ', of the words",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      351,
+      162,
+      18
+    ],
+    "text": "thirty million rupees ,",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      380,
+      451,
+      22
+    ],
+    "text": "a. For the resolution of doubts, it is hereby vate of",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      395,
+      462,
+      21
+    ],
+    "text": "declared that the Agricultural and Industrial Credit meson,",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      411,
+      462,
+      19
+    ],
+    "text": "Corporation Ordinance, No. 19 of 1948, shall be of Guinn",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      426,
+      476,
+      19
+    ],
+    "text": "deemed, with effect from July 28, 1948, to have had * 19 198.",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      442,
+      384,
+      21
+    ],
+    "text": "effect, and shall continue to have effect for all pur-",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      459,
+      384,
+      18
+    ],
+    "text": "poses, in like manner as though the modifications",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      474,
+      383,
+      18
+    ],
+    "text": "made in that Ordinance by the Proclamation under",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      490,
+      395,
+      19
+    ],
+    "text": "section 8 of the Ceylon Independence Order in Council, *",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      505,
+      383,
+      20
+    ],
+    "text": "1947, published in Gazette Extraordinary No. 9,889",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      513,
+      383,
+      27
+    ],
+    "text": "of July 28, 2948, had been made by Act of Parliament,",
+    "mean_p_confidence": 0.81
+  }
+]

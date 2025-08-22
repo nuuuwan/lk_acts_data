@@ -1,0 +1,607 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      82,
+      19,
+      425,
+      27
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      162,
+      61,
+      265,
+      33
+    ],
+    "text": "31d Session 1949-50",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      225,
+      111,
+      324,
+      52
+    ],
+    "text": "mea (PR,",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      223,
+      152,
+      328,
+      23
+    ],
+    "text": "en a7 ae a8",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      227,
+      164,
+      327,
+      54
+    ],
+    "text": "we eon _ - og",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      213,
+      234,
+      326,
+      28
+    ],
+    "text": "LAR CES AU Sone Poe Sea",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62,
+      318,
+      472,
+      33
+    ],
+    "text": "Agricultural and Industrial Credit",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93,
+      354,
+      410,
+      32
+    ],
+    "text": "Corporation (Amendment) Act,",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      198,
+      391,
+      200,
+      22
+    ],
+    "text": "No. 4 of 1950",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      209,
+      498,
+      178,
+      31
+    ],
+    "text": "Date of Avent: March 4, 1960",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      191,
+      630,
+      287,
+      15
+    ],
+    "text": "Printed om the Orders of Government .",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      41,
+      772,
+      412,
+      22
+    ],
+    "text": "purcted af hy Gove Castacrnase Womeds Corso",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      154,
+      798,
+      299,
+      20
+    ],
+    "text": "deve, by dle ie",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      154,
+      820,
+      299,
+      10
+    ],
+    "text": "SOE GE Gina Esa Senet Saat",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      257,
+      844,
+      330,
+      14
+    ],
+    "text": "Price: 10 conte ,",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      7,
+      355,
+      17
+    ],
+    "text": "Agricultural and Industrial Credit Corporation",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      134,
+      24,
+      250,
+      16
+    ],
+    "text": "(Amendment) Act, Neo. 4 of 1980.",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      52,
+      80,
+      10
+    ],
+    "text": "BDO, 18.",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      72,
+      388,
+      13
+    ],
+    "text": "AN ACT 70 AMEND THE AGRICULTURAL ND INDUSTRIAL",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      88,
+      369,
+      15
+    ],
+    "text": "Crenit Corporation Orprnance, No. 19 oF 1943.",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      137,
+      112,
+      245,
+      17
+    ],
+    "text": "[Date of Assent: March 4, 1950.]",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      136,
+      369,
+      29
+    ],
+    "text": "BI it enacted by the Kings Most Hxoellent Majesty,",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      152,
+      388,
+      29
+    ],
+    "text": "by and with the advice and ennsent of the Senate and",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      168,
+      373,
+      18
+    ],
+    "text": "1 House of Representatives of Ceylon in this present",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      184,
+      388,
+      16
+    ],
+    "text": "Parliament assembled, and by the authority of the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      200,
+      140,
+      15
+    ],
+    "text": "seme, es followe:",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      230,
+      434,
+      17
+    ],
+    "text": "4. This Act may be cited aa the Agricultural and Stor site,",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      246,
+      385,
+      17
+    ],
+    "text": "Industrial Credit Corporation (Amendment) Act,",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      263,
+      98,
+      13
+    ],
+    "text": "No. 4 of 1950,",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      294,
+      451,
+      17
+    ],
+    "text": "2, Section 22 (1) (as modified by the Proclamation Ammumeot ot",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      300,
+      445,
+      39
+    ],
+    "text": "published in Gazette Ratraordinary No. 9,778 of etn 32",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      326,
+      461,
+      17
+    ],
+    "text": "eptember 24, 1947) of the Agricultural and Industrial Mo, ip of ius.",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      342,
+      386,
+      17
+    ],
+    "text": "Credit Corporation Ordinance, No. 19 of 1943",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      358,
+      386,
+      17
+    ],
+    "text": "(hereinafter referred to as the * principal enact-",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      374,
+      387,
+      16
+    ],
+    "text": "ment), is hereby amended by the substitution, for",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      390,
+      386,
+      13
+    ],
+    "text": "the words \" Consolidated Fund. , of the words",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      406,
+      385,
+      13
+    ],
+    "text": "\"Consolidated Fund. In addition to the aforesaid",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      422,
+      388,
+      17
+    ],
+    "text": "sums, any sums voted for the purpose by Parliament",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      438,
+      387,
+      17
+    ],
+    "text": "may be advanced to the corporation out of the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      454,
+      386,
+      18
+    ],
+    "text": "Coneolidated Fund for carrying on and transacting",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      470,
+      386,
+      32
+    ],
+    "text": "the business specified in paragraph (n) of section 50",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      486,
+      38,
+      13
+    ],
+    "text": "1}.",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      518,
+      451,
+      29
+    ],
+    "text": "8. Section 50 (1) of the principal enactment (ss Anrintst",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      533,
+      470,
+      21
+    ],
+    "text": "atiended by Ordinance No, 20 of 1943) is hereby sue 0)",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      53,
+      550,
+      462,
+      18
+    ],
+    "text": "_ further amended as follows: sean",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      100,
+      574,
+      354,
+      17
+    ],
+    "text": "(1) by the relettoring of paragraph (n) as",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      148,
+      590,
+      140,
+      17
+    ],
+    "text": "paragraph (0); and",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      100,
+      610,
+      355,
+      17
+    ],
+    "text": "(2) by the insertion, immediately after paragraph",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      149,
+      627,
+      292,
+      17
+    ],
+    "text": "(m), of the following new paragraph:",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      150,
+      651,
+      305,
+      29
+    ],
+    "text": "(a to grant loans of money to any",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      197,
+      667,
+      259,
+      17
+    ],
+    "text": "person for the purpose of carrying",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      197,
+      684,
+      259,
+      17
+    ],
+    "text": "out any scheme approved by the",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      197,
+      700,
+      259,
+      13
+    ],
+    "text": "Minister of Finance for the",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      198,
+      716,
+      258,
+      17
+    ],
+    "text": "development of agriculture or",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      198,
+      733,
+      65,
+      16
+    ],
+    "text": "industry; .",
+    "mean_p_confidence": 0.27
+  }
+]
