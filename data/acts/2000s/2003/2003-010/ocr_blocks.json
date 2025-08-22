@@ -1,0 +1,3533 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      318,
+      57,
+      45,
+      28
+    ],
+    "text": "aN",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      284,
+      72,
+      81,
+      42
+    ],
+    "text": "&)",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      109,
+      190,
+      422,
+      19
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      168,
+      218,
+      306,
+      19
+    ],
+    "text": "SOCIALIST REPUBLIC OF",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      253,
+      247,
+      136,
+      18
+    ],
+    "text": "SRI LANKA",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      85,
+      353,
+      470,
+      20
+    ],
+    "text": "INLAND REVENUE (SPECIAL PROVISIONS)",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      209,
+      380,
+      223,
+      20
+    ],
+    "text": "ACT, No. 10 OF 2003",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      214,
+      505,
+      214,
+      15
+    ],
+    "text": "[Certified on 17th March, 2003]",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      206,
+      554,
+      231,
+      15
+    ],
+    "text": "Printed an the Onder of Government",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      95,
+      665,
+      451,
+      17
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the Democratic",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      154,
+      684,
+      333,
+      17
+    ],
+    "text": "Socialist Republic of Sri Lanka of March 21. 2003",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      145,
+      752,
+      351,
+      15
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF OVERNMENT PRINTING, S81 LANKA",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      123,
+      776,
+      464,
+      11
+    ],
+    "text": "TO WE PURCHASED AY TI GOVERNMENT PUBLICATIONS GUREAU, COLOMBOO) :",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      73,
+      800,
+      496,
+      22
+    ],
+    "text": "Price : Rs, 8.25 Postage : Rs, 4.50",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      152,
+      44,
+      227,
+      15
+    ],
+    "text": "dntand Revenue (Special Provisions)",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      205,
+      63,
+      122,
+      14
+    ],
+    "text": "Act, No, 10 of 2003",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      169,
+      95,
+      194,
+      15
+    ],
+    "text": "[Certifed on 17th March, 2003]",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      128,
+      129,
+      12
+    ],
+    "text": "L.D.0, 91/2002.",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      160,
+      373,
+      12
+    ],
+    "text": "AN ACT TO ENABLE PERSONS WHO HAVE NOT FURNISHED A RETURN",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      179,
+      374,
+      13
+    ],
+    "text": "OF INCOME AND ASSETS PRIOR TO Marcu 31, 2002 TO MAKE A",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      200,
+      375,
+      10
+    ],
+    "text": "DECLARATION IN RESPECT THEREOF: YO MAKE PROVISION FOR THE",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      215,
+      374,
+      13
+    ],
+    "text": "GRANT OF CERTAIN CONCESSIONS TO DECLARENTS AND NON-",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      237,
+      374,
+      10
+    ],
+    "text": "DECLARENTS: TO INDEMNIFY SUCH PERSONS AGAINST LIABILITY TO",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      256,
+      374,
+      11
+    ],
+    "text": "PAY CERTAIN TAXES AND AGAINST LIABILITY FROM INVESTIGATIONS,",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      275,
+      374,
+      11
+    ],
+    "text": "PROSECUTIONS AND PENALTIES UNDER SPECIFIED STATUTES, WITH A",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      294,
+      375,
+      9
+    ],
+    "text": "VIEW TO SECURING THE FURTURE COMPLIANCE OF SUCH PERSONS",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      313,
+      375,
+      9
+    ],
+    "text": "{WITH THE PREVALENT TAX LAWS : TO PROVIDE FOR THE REPEAL OF",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      329,
+      377,
+      14
+    ],
+    "text": "Tue INLAND REVENUE (SPECIAL. Provisions) Act, No. 7 oF",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      348,
+      372,
+      13
+    ],
+    "text": "2002; AND TO PROVIDE FOR MATTERS CONNECTED THEREWITH",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      196,
+      370,
+      142,
+      9
+    ],
+    "text": "OR INCIDENTAL THERETO.",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      398,
+      376,
+      15
+    ],
+    "text": "BE il enacted by the Parliament of il:e Democratic Socialist",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      417,
+      232,
+      15
+    ],
+    "text": "Republic of Sri Lanka as follows :~",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99,
+      450,
+      427,
+      15
+    ],
+    "text": "1. This Act may be cited as the Inland Revenue (Special Sho ttle.",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      469,
+      220,
+      14
+    ],
+    "text": "Provisions) Act, No. 10 of 2003. *",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      97,
+      500,
+      462,
+      16
+    ],
+    "text": "2. (1) Any person whether in Sri Lanka or abroad, who, Declaration to be.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      518,
+      453,
+      17
+    ],
+    "text": "though required under any law for the time being in force, mudeto he",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      533,
+      471,
+      25
+    ],
+    "text": "which is specified in the Schedule hereto, relaling to the Gunners",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      558,
+      467,
+      15
+    ],
+    "text": "imposition of tax, had not in relation to any petiod prior t0 june 30,2003,",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      577,
+      378,
+      14
+    ],
+    "text": "March 31, 2002, declared to the Commissioner-General or to",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      596,
+      376,
+      16
+    ],
+    "text": "the relevant authority, as the case may be, all o any portion",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      615,
+      377,
+      16
+    ],
+    "text": "of his liability to such tax, oc of the sources of his income and",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      634,
+      377,
+      16
+    ],
+    "text": "assets, may make a declaration of the sources of his income",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      653,
+      376,
+      16
+    ],
+    "text": "or assets as at April 1, 2002, to the Commissioner-General on",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      673,
+      156,
+      13
+    ],
+    "text": "or before June 30, 2003 ;",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98,
+      705,
+      358,
+      16
+    ],
+    "text": "Provided however that any person who had made the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      724,
+      377,
+      16
+    ],
+    "text": "required declarations 1o the Commissioner-General or to the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      743,
+      377,
+      17
+    ],
+    "text": "relevant authority in respect of all relevant periods prior to",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      762,
+      376,
+      17
+    ],
+    "text": "March 31, 2002, may make a declaration under section 2 in",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      781,
+      377,
+      16
+    ],
+    "text": "order to ascertain the correctness of his position and the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      800,
+      377,
+      15
+    ],
+    "text": "Commissioner-General or the other relevant authority shall",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      820,
+      377,
+      16
+    ],
+    "text": "extend the immunity referred to in section 3. to such person,",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      851,
+      145,
+      12
+    ],
+    "text": "24017640 7.200 (012008)",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      164,
+      37,
+      301,
+      15
+    ],
+    "text": "2 Inland Revenue {Special Provisions)",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      289,
+      56,
+      122,
+      15
+    ],
+    "text": "Act, No, #0 af 2003",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      183,
+      88,
+      392,
+      15
+    ],
+    "text": "2) Forthe purposes of this scetion sources of income;",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      164,
+      106,
+      376,
+      16
+    ],
+    "text": "shall include any income received by way of cash or in any",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      164,
+      124,
+      376,
+      16
+    ],
+    "text": "other form and assets shalt include, immovable property,",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      164,
+      142,
+      376,
+      15
+    ],
+    "text": "movable property, bank balances, treasury bills, fixed deposits,",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      163,
+      160,
+      376,
+      15
+    ],
+    "text": "time deposits or any other form of deposit and money given",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      163,
+      178,
+      280,
+      15
+    ],
+    "text": "by way of security or loans and cash in hand,",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      181,
+      214,
+      359,
+      15
+    ],
+    "text": "(3) Cash in hand as at April 1, 2002, which has",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      162,
+      232,
+      377,
+      17
+    ],
+    "text": "subsequently not been spent, should be invested or deposited",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      163,
+      250,
+      378,
+      15
+    ],
+    "text": "into.a bank, prior lo the making of the declaration in terms of",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      162,
+      269,
+      73,
+      11
+    ],
+    "text": "this section.",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      180,
+      304,
+      359,
+      14
+    ],
+    "text": "(4) The Commissioner-General or an officer not below",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161,
+      322,
+      378,
+      15
+    ],
+    "text": "the rank of Commissioner, specially authorized by him in",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161,
+      340,
+      379,
+      16
+    ],
+    "text": "writing in that behal, shall within thirty days of the receipt",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      160,
+      358,
+      379,
+      16
+    ],
+    "text": "thereof. acknowledge in writing any declaration received in",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      160,
+      377,
+      146,
+      13
+    ],
+    "text": "terms of subsection (1).",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      47,
+      413,
+      493,
+      18
+    ],
+    "text": "Imnangy gated 3+ (1) Any person making a declaration in verms of",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      46,
+      431,
+      492,
+      15
+    ],
+    "text": "topereans making section 2, shall enjoy full immunity (rom liability to pay tax",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      46,
+      449,
+      492,
+      16
+    ],
+    "text": "hedeclrion. ~_anler any law specilied in the Schedule hereto, or Irom any",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      159,
+      468,
+      380,
+      15
+    ],
+    "text": "Investigation or prasccution for any offence under any law",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      158,
+      486,
+      380,
+      15
+    ],
+    "text": "specified in the Schedule hereto, n relation to any period",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      81,
+      504,
+      457,
+      15
+    ],
+    "text": ". ending on or before March 31, 2002 in so far as such",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      158,
+      522,
+      150,
+      12
+    ],
+    "text": "declaration relates 10",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      182,
+      559,
+      176,
+      15
+    ],
+    "text": "(@)hon-payment of taxes",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      181,
+      595,
+      294,
+      14
+    ],
+    "text": "() the sources of income or assets declared :",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      182,
+      632,
+      356,
+      15
+    ],
+    "text": "(c) the profits or income earned from which such assets",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      213,
+      650,
+      85,
+      13
+    ],
+    "text": "were funded ;",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      180,
+      686,
+      328,
+      14
+    ],
+    "text": "{d)_ the manner in which such assets were funded :",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      181,
+      723,
+      356,
+      15
+    ],
+    "text": "(e) _ any manier related to oF incidental to any al'the above.",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      200,
+      759,
+      344,
+      16
+    ],
+    "text": "(2) The relevant authority, charged with the.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      155,
+      777,
+      382,
+      16
+    ],
+    "text": "administration of the Acts specified in the Schedule hereto,",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      155,
+      795,
+      382,
+      16
+    ],
+    "text": "shall ensure that ful} immunity as specified above, be granted",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      155,
+      814,
+      369,
+      16
+    ],
+    "text": "to the person making the declaration in terms of section 2.",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      147,
+      47,
+      300,
+      15
+    ],
+    "text": "Inland Revenue (Special Provisions) 3",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      200,
+      66,
+      123,
+      15
+    ],
+    "text": "Act, No. 10 of 2003",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      92,
+      98,
+      356,
+      15
+    ],
+    "text": "(3) Any ansaction taking place on or after March 31,",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73,
+      115,
+      375,
+      16
+    ],
+    "text": "2002, in connection with any asset declared for the purposes",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73,
+      132,
+      375,
+      15
+    ],
+    "text": "of the Exchange Control Act (Chapter 423) under section 2",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73,
+      150,
+      375,
+      15
+    ],
+    "text": "of this Act, shall b afforded the same immunity referred t0",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73,
+      168,
+      376,
+      14
+    ],
+    "text": "in subsection (1), as if such transaction has taken place on or",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73,
+      185,
+      147,
+      12
+    ],
+    "text": "before March 31, 2002.",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      91,
+      219,
+      449,
+      17
+    ],
+    "text": "4. (1) Any investigation or proseculion which has investigation,",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73,
+      237,
+      481,
+      15
+    ],
+    "text": "commenced in relation to any period ending on or before proseculions &.,",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73,
+      253,
+      478,
+      17
+    ],
+    "text": "March 31, 2002, against the person making the declaration in 1b: withdraws.",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73,
+      272,
+      376,
+      15
+    ],
+    "text": "terms of section 2 or any penalty which has been imposed on",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73,
+      290,
+      377,
+      15
+    ],
+    "text": "such person, but which has nol been paid, under ony of the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73,
+      307,
+      377,
+      16
+    ],
+    "text": "Jaws specified in the Schedule hereto shall notwithstanding",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73,
+      325,
+      353,
+      15
+    ],
+    "text": "anything (o the contrary in any other law, be withdrawn,",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      92,
+      360,
+      358,
+      15
+    ],
+    "text": "(2) Where there iy any tax in dispute under any of the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73,
+      378,
+      377,
+      15
+    ],
+    "text": "laws specified in the Schedule hereto, pertaining to sax, in",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73,
+      395,
+      377,
+      15
+    ],
+    "text": "respect of any period ending on or before March 31, 2002, in",
+    "mean_p_confidence": 0.88
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73,
+      412,
+      379,
+      15
+    ],
+    "text": "relation to a person who has made a declaration in lerms of",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73,
+      430,
+      378,
+      15
+    ],
+    "text": "section 2, then the tax specified by such person as being the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73,
+      448,
+      378,
+      15
+    ],
+    "text": "amount of tax payable by him shall be accepted by the relevant",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73,
+      466,
+      378,
+      15
+    ],
+    "text": "authority, charged with the administration of the Acts specified",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73,
+      483,
+      378,
+      18
+    ],
+    "text": "in the Schedule hereto, as being correct and reflecting the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      74,
+      501,
+      361,
+      16
+    ],
+    "text": "Final tax liability of that person in respect of such period :",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      46,
+      534,
+      405,
+      15
+    ],
+    "text": "_ Provided that no tax in dispute, which has been seillod",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73,
+      551,
+      378,
+      16
+    ],
+    "text": "with the agreement of the person making the declaration in",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73,
+      569,
+      240,
+      15
+    ],
+    "text": "ferms of section 2, shall be re-opened.",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      92,
+      604,
+      360,
+      16
+    ],
+    "text": "(3) Where there is any tax in dispute under aay of the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      74,
+      622,
+      377,
+      16
+    ],
+    "text": "laws specified in the Schedule hereto, pertaining to tax, in",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73,
+      639,
+      378,
+      16
+    ],
+    "text": "sespect of any period ending on or before March 31,2000, in",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73,
+      657,
+      378,
+      16
+    ],
+    "text": "selation ( a person who has not made a declaration in terms",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73,
+      675,
+      378,
+      16
+    ],
+    "text": "of section 2. then (he tax specified by such person. as being",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73,
+      692,
+      378,
+      16
+    ],
+    "text": "the amount of tax payable by him shall be accepied by the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73,
+      710,
+      378,
+      16
+    ],
+    "text": "televant authority, charged with the administration of the laws",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73,
+      727,
+      378,
+      16
+    ],
+    "text": "specified in the Schedule hereto, as being correct and reflecting",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73,
+      745,
+      377,
+      17
+    ],
+    "text": "the Final tax Siabilily of that person in respect of such period :",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93,
+      778,
+      358,
+      17
+    ],
+    "text": "Provided that no tax in dispute, which has been seuled",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      74,
+      797,
+      377,
+      17
+    ],
+    "text": "with the agreement of the person who has not made the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      74,
+      815,
+      329,
+      19
+    ],
+    "text": "declaration in terms of section 2, shall be re-opencd.",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      172,
+      49,
+      302,
+      15
+    ],
+    "text": "4 Inland Revenue (Special Provisions)",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      297,
+      67,
+      123,
+      15
+    ],
+    "text": "Act, No. 10 of 2003",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      191,
+      99,
+      359,
+      15
+    ],
+    "text": "(4) or the purposes of subsection (2) and subsection",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      172,
+      116,
+      378,
+      16
+    ],
+    "text": "(QYabove, tax specitied shall include any specilied tax paid",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      172,
+      134,
+      378,
+      15
+    ],
+    "text": "in terms of Chapter XII of the Intand Revenue Aci, No: 38",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      172,
+      151,
+      378,
+      15
+    ],
+    "text": "012000, by uny person for the year of Assessment 2001/2002,",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      172,
+      168,
+      356,
+      15
+    ],
+    "text": "on oF before September 30, 2002. :",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      59,
+      199,
+      491,
+      15
+    ],
+    "text": "Unbiy tax for 5. (1) Any person who is liable 10 pay income tax in",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      58,
+      216,
+      492,
+      16
+    ],
+    "text": "guxrofusesunent yespect of the Year of Assessment 2002/2003, and who has",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      59,
+      225,
+      491,
+      30
+    ],
+    "text": "2272003. made a declaration in terms of section 2, and who does not",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      129,
+      250,
+      421,
+      16
+    ],
+    "text": "* have an income lax file opened in his name, in the Department",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      170,
+      267,
+      381,
+      16
+    ],
+    "text": "of Inland Revenue, shall not be liable to any prosecution or",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      171,
+      285,
+      379,
+      15
+    ],
+    "text": "penalty if such income tax for such year of assessment is paid",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      171,
+      302,
+      250,
+      15
+    ],
+    "text": "in full on or before September 30, 2003.",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      189,
+      330,
+      361,
+      15
+    ],
+    "text": "(2) (a) Any person who is liable to pay income tax, in",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      170,
+      347,
+      381,
+      15
+    ],
+    "text": "respect of the first quarterly installment for the Year of",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      170,
+      364,
+      380,
+      17
+    ],
+    "text": "Assessment 2002/2003, and who has an income (ax fife in",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      170,
+      382,
+      380,
+      15
+    ],
+    "text": "his name in the Department of Inland Revenue, has either not",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      170,
+      399,
+      380,
+      15
+    ],
+    "text": "paid:or under paid such tax, shall not be liable lo any",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      170,
+      416,
+      387,
+      16
+    ],
+    "text": "prosecution or penalty if such instalment of income tax for ,",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      169,
+      433,
+      381,
+      16
+    ],
+    "text": "such year of assessment is paid in full or n such part as is",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      170,
+      451,
+      256,
+      15
+    ],
+    "text": "unpaid on or before September 30, 2003,",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      188,
+      481,
+      361,
+      15
+    ],
+    "text": "(4) Such person as is referred to in paragraph (a) shail",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      169,
+      498,
+      382,
+      16
+    ],
+    "text": "pay ail other quarterly instalments and the Final payment for",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      169,
+      516,
+      381,
+      12
+    ],
+    "text": "athe Year of Assessment 2002/2003 on the dates on which the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      169,
+      533,
+      382,
+      13
+    ],
+    "text": "same is due in terms of the Intand Revenue Act, No. 38 of",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      169,
+      551,
+      381,
+      15
+    ],
+    "text": "2000. Any default in these payments shall result ia the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      169,
+      568,
+      381,
+      15
+    ],
+    "text": "enforcement of the penalties altached to the tax in default",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      170,
+      585,
+      95,
+      12
+    ],
+    "text": "under such Act.",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      188,
+      614,
+      362,
+      15
+    ],
+    "text": "(3)_ Any person who has made a declaration under section",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      169,
+      631,
+      381,
+      15
+    ],
+    "text": "2and is Hable to pay any tax other than income tax under any",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      169,
+      648,
+      381,
+      16
+    ],
+    "text": "of the laws specified in the Schedule hereto, for any period",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      169,
+      665,
+      381,
+      16
+    ],
+    "text": "commencing on April 1, 2002, shall pay all such taxes as",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      169,
+      681,
+      354,
+      17
+    ],
+    "text": "provided for in the foresaid laws. .",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      57,
+      705,
+      494,
+      31
+    ],
+    "text": "Seereey. 6. (1) Any authority empowered to administer the laws",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      170,
+      732,
+      381,
+      15
+    ],
+    "text": "referred to in thevSchgdule hereto and all other officers",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      169,
+      749,
+      382,
+      16
+    ],
+    "text": "engaged in the administration of the provisions of such laws",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      170,
+      766,
+      381,
+      17
+    ],
+    "text": "shall at alf times preserve and aid in preserving absolute",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      169,
+      784,
+      382,
+      15
+    ],
+    "text": "secrecy in respect of:he identity of the declarant and any",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      169,
+      802,
+      382,
+      15
+    ],
+    "text": "Taaiter of thing contained in any declaration made by-any",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      169,
+      819,
+      177,
+      15
+    ],
+    "text": "person in terms of section 2.",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      149,
+      50,
+      312,
+      16
+    ],
+    "text": "fntand Revenue (Special Provisiorts} 3",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      202,
+      70,
+      123,
+      14
+    ],
+    "text": "Act, No. 10 of 2003",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93,
+      101,
+      358,
+      15
+    ],
+    "text": "(2) Any oath of secrecy taken by any of the officers",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      75,
+      118,
+      376,
+      15
+    ],
+    "text": "referred to in subsection (1) ander any of the taws seferred to",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      75,
+      136,
+      377,
+      13
+    ],
+    "text": "in the Schedule hereto, shall be deemed to-be an-oath of",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      74,
+      153,
+      377,
+      15
+    ],
+    "text": "scerecy taken under this Act and any person who acts in",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      74,
+      171,
+      378,
+      14
+    ],
+    "text": "conteavention of such oath shall be guilty of an offence under",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      74,
+      188,
+      377,
+      15
+    ],
+    "text": "this Act and shall on summary trial before.a Magistrate, be",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      75,
+      205,
+      377,
+      16
+    ],
+    "text": "liabie coa fine not exceeding one hundred thousand rupees or",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      74,
+      223,
+      378,
+      16
+    ],
+    "text": "to imprisonment of either description-for a term.notexceeding.",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      74,
+      240,
+      366,
+      15
+    ],
+    "text": "one year or to both such fine and imprisonment. hte",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93,
+      267,
+      359,
+      20
+    ],
+    "text": "(3) NoCommission of Inquiry of Regulator, established",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      74,
+      287,
+      378,
+      15
+    ],
+    "text": "or appointed under any written law for the time Being in force",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      74,
+      305,
+      378,
+      15
+    ],
+    "text": "shalt be entitled 19 call upon a declarent o any person referred",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      74,
+      322,
+      379,
+      16
+    ],
+    "text": "to in subsection (1) 10 divulge the idntity of the declarant or",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      73,
+      340,
+      380,
+      14
+    ],
+    "text": "any information contained in any declaration made under",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      73,
+      357,
+      61,
+      12
+    ],
+    "text": "section 2,",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      92,
+      387,
+      452,
+      15
+    ],
+    "text": "(4) No Court of Law shall call upon any person referred -",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      74,
+      405,
+      483,
+      15
+    ],
+    "text": "to in subsection (1) to divulge the identity of the dectarent or. :",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      73,
+      422,
+      381,
+      17
+    ],
+    "text": "any information contained in any declaration made under",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      73,
+      440,
+      380,
+      15
+    ],
+    "text": "section 2, other than in the course of any proceedings instituted",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      74,
+      457,
+      379,
+      15
+    ],
+    "text": "under the Cammission to Investigate Allegations of Bribery",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      73,
+      475,
+      230,
+      15
+    ],
+    "text": "and Corruption Act, No. 19 of 1994,",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      92,
+      510,
+      448,
+      19
+    ],
+    "text": "7. Fortheavoidance of doubtsit is hereby declared that Avoidance of",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      322,
+      529,
+      186,
+      10
+    ],
+    "text": ". doubts,",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93,
+      540,
+      360,
+      17
+    ],
+    "text": "(a) reference to 4 person holding rnoney or having any",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      131,
+      559,
+      331,
+      15
+    ],
+    "text": "investment shall include a reference to the person *",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      131,
+      577,
+      322,
+      15
+    ],
+    "text": "hofding the money, or investment'in his name or any",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      130,
+      595,
+      338,
+      15
+    ],
+    "text": "other name or withou! any name; .",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      98,
+      625,
+      445,
+      15
+    ],
+    "text": "(4) nothing in this law shall be read and construed a foe",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      131,
+      642,
+      410,
+      16
+    ],
+    "text": "preventing any person from, claiming or instituting .",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      131,
+      660,
+      322,
+      16
+    ],
+    "text": "proceedings for the recovery of a refund of tax duc",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      131,
+      678,
+      323,
+      17
+    ],
+    "text": "to him, or from secking protection or a privilege",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      131,
+      694,
+      337,
+      19
+    ],
+    "text": "under aly of the laws referred t6 in the Schedule,",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      131,
+      714,
+      339,
+      18
+    ],
+    "text": "beret, , hope cette",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      92,
+      744,
+      443,
+      16
+    ],
+    "text": "8 (1) Th Minister may make reguldtion in respect of Regulations.",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      74,
+      762,
+      383,
+      16
+    ],
+    "text": "all matters which are required by this Act 10 be prescribed of",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      74,
+      778,
+      393,
+      17
+    ],
+    "text": "in respect of which regulations are required wx authorizednd",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      74,
+      796,
+      400,
+      17
+    ],
+    "text": "bbe made under-this Act to give effect to the principles and",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      74,
+      815,
+      396,
+      16
+    ],
+    "text": "provisions of this Act. cae",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      162,
+      39,
+      305,
+      15
+    ],
+    "text": "6 Inland Revenue (Special Provisions)",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      289,
+      58,
+      123,
+      15
+    ],
+    "text": "Act, No. 10 of 2003",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      182,
+      90,
+      361,
+      17
+    ],
+    "text": "(2) Every regulation made by the Minister shall be",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      163,
+      109,
+      380,
+      17
+    ],
+    "text": "published in the Gazette and shall come into operation on'the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      162,
+      128,
+      381,
+      16
+    ],
+    "text": "date of pubfication, or on such later date as may be specified",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      162,
+      147,
+      47,
+      12
+    ],
+    "text": "therein.",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      181,
+      183,
+      361,
+      15
+    ],
+    "text": "(3) Every regufation made by the Minister shall, as soon",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      162,
+      201,
+      380,
+      16
+    ],
+    "text": "as convenient after its publication in the Gazette, be ptaced",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      162,
+      219,
+      380,
+      16
+    ],
+    "text": "before Parliament for approval. Every regulation which is not",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      161,
+      237,
+      382,
+      17
+    ],
+    "text": "so approved shall be deemed to be rescined as from the date",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      161,
+      256,
+      381,
+      16
+    ],
+    "text": "of such disapproval, but without prejudice 10 anything",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      161,
+      275,
+      174,
+      16
+    ],
+    "text": "previously done thereunder,",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      179,
+      312,
+      363,
+      15
+    ],
+    "text": "(4) Notification of the date on which any regulation is",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      160,
+      330,
+      380,
+      16
+    ],
+    "text": "deemed to be so rescinded shall be published in the Gazette.",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      42,
+      360,
+      499,
+      27
+    ],
+    "text": "Consequence of 9 Any person who intends to avail himself of the",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      47,
+      385,
+      495,
+      17
+    ],
+    "text": "faituelocome provisions of this Act, shail do so in accordance with the",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      28,
+      400,
+      513,
+      24
+    ],
+    "text": "wan provisions procedures and within the time period specified in this Act.",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      99,
+      422,
+      442,
+      16
+    ],
+    "text": "' Any person who so fails to take the necessary steps in tecas",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      159,
+      442,
+      382,
+      13
+    ],
+    "text": "of this Act, shall be liable to be dealt with in terms of the",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      159,
+      460,
+      344,
+      15
+    ],
+    "text": "provisions of the Inland Revenue Act, Na. 38 of 2000,",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      45,
+      489,
+      495,
+      32
+    ],
+    "text": "Teassitionad 18, No proceedings shall be instituted for the recovery",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      42,
+      507,
+      498,
+      28
+    ],
+    "text": "provisions, of any tax nor shall any-pending action be proceeded with",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      159,
+      535,
+      382,
+      15
+    ],
+    "text": "under any of the laws referred to in the Schedule hereto, after",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      159,
+      554,
+      381,
+      16
+    ],
+    "text": "the expiration ofa period of five years Irom the date on which",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      159,
+      573,
+      381,
+      15
+    ],
+    "text": "the payment of tax is in defauli, in terms of the respective",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      159,
+      591,
+      31,
+      12
+    ],
+    "text": "Jaws,",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      45,
+      628,
+      495,
+      17
+    ],
+    "text": "Repeatot Act,No, 11. (1) The Inland Revenue (Special Provisions)",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      45,
+      647,
+      353,
+      17
+    ],
+    "text": "70f2002 nd Act, No. 7 of 2002 is horeby repealed.",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      41,
+      650,
+      289,
+      32
+    ],
+    "text": "savings. :",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      177,
+      684,
+      362,
+      17
+    ],
+    "text": "(2) _ Every declaration made in terms of section 2 of the",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      159,
+      702,
+      381,
+      17
+    ],
+    "text": "Inland Revenue (Special Provisions) Act, No. 7 of 2002 prior",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      158,
+      721,
+      381,
+      17
+    ],
+    "text": "to the repeal, shall notwithstanding such repeal be deemed",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      158,
+      740,
+      381,
+      14
+    ],
+    "text": "tobe a declaration made in terms of section 2 of this Act, and",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      158,
+      758,
+      381,
+      17
+    ],
+    "text": "hall for the purpose of the granting of any immunity or",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      157,
+      777,
+      382,
+      17
+    ],
+    "text": "exemption from liability in terms of this Act, be considered",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      158,
+      795,
+      381,
+      17
+    ],
+    "text": "for all purposes as if it were a declaration made under",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      157,
+      815,
+      64,
+      12
+    ],
+    "text": "section 2:",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      154,
+      42,
+      299,
+      15
+    ],
+    "text": "daland Revenue (Special Provisions} 7",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      207,
+      61,
+      122,
+      16
+    ],
+    "text": "Act, No. 18 of 2003",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      100,
+      93,
+      354,
+      14
+    ],
+    "text": "Provided thal any person whose declaration is deemed to",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      81,
+      111,
+      374,
+      15
+    ],
+    "text": "be avcepied in terms of this section, may; if he so desires",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      81,
+      129,
+      374,
+      15
+    ],
+    "text": "notidy the Commissioner-General or the relevant authorily as",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      81,
+      146,
+      374,
+      15
+    ],
+    "text": "the case may be, in writing. within a period of three months",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      82,
+      164,
+      373,
+      15
+    ],
+    "text": "from the date of the coming into operation of this Act.",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      81,
+      182,
+      374,
+      15
+    ],
+    "text": "requesting any alteration. amendment or variation of such",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      81,
+      200,
+      374,
+      15
+    ],
+    "text": "declaration in order to bring il into conformity with the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      81,
+      218,
+      138,
+      15
+    ],
+    "text": "provisions of this Act.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      101,
+      254,
+      445,
+      17
+    ],
+    "text": "12, Intheevent of any inconsistency between the Sinhala Sinhala texte",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      81,
+      269,
+      480,
+      18
+    ],
+    "text": "and Tamil texts of this Act. the Sinhala text shalt provail. prevail in case of",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      475,
+      286,
+      70,
+      9
+    ],
+    "text": "Fnconsisieacy.",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      101,
+      322,
+      445,
+      16
+    ],
+    "text": "13, In this Act Imerpetaion,",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      109,
+      354,
+      348,
+      15
+    ],
+    "text": "Authority includes any Department charged with",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      138,
+      372,
+      319,
+      15
+    ],
+    "text": "administering the laws referved (a in the Schedule ;",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      109,
+      402,
+      348,
+      16
+    ],
+    "text": "company, body of persons and partnership shalt",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      138,
+      421,
+      320,
+      15
+    ],
+    "text": "bave the same meaning as in the Inland Revenue",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      138,
+      439,
+      133,
+      13
+    ],
+    "text": "Act. No, 38 of 200:",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      110,
+      469,
+      348,
+      15
+    ],
+    "text": "Commissioner-General shalt have the same meaning,",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      138,
+      487,
+      292,
+      14
+    ],
+    "text": "as in the Inland Revenue Aet, No. 38 of 2000;",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      110,
+      516,
+      349,
+      16
+    ],
+    "text": "immovable property includes any building in Sri Lanka",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      138,
+      535,
+      321,
+      13
+    ],
+    "text": "or abroad, whether constructed or under",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      138,
+      554,
+      86,
+      11
+    ],
+    "text": "construction >",
+    "mean_p_confidence": 0.09
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      110,
+      582,
+      349,
+      16
+    ],
+    "text": "investigation shail include inquiry, questioning, search",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      138,
+      600,
+      321,
+      16
+    ],
+    "text": "or any other similar action under the taws referred",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139,
+      619,
+      120,
+      13
+    ],
+    "text": "to in the Schedule ;",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      110,
+      649,
+      349,
+      16
+    ],
+    "text": "moncy includes all sums af money whether expressed",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139,
+      668,
+      272,
+      15
+    ],
+    "text": "in Sri Lanka rupecs or in foreign currency +",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      110,
+      697,
+      349,
+      17
+    ],
+    "text": "movable property inctudes all movable property in Sti",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139,
+      716,
+      289,
+      15
+    ],
+    "text": "Lanka av abroad but does'not include money +",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      110,
+      746,
+      350,
+      17
+    ],
+    "text": "offence includes any offence whatsoever in any of the",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139,
+      766,
+      207,
+      12
+    ],
+    "text": "taws referred to in the Schedule :",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      110,
+      796,
+      349,
+      16
+    ],
+    "text": "person shat! include company or partnership ora body",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139,
+      816,
+      73,
+      16
+    ],
+    "text": "of persons <",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      162,
+      40,
+      301,
+      15
+    ],
+    "text": "8 Inland Revenue (Special Provisions)",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      287,
+      59,
+      121,
+      14
+    ],
+    "text": "Act, No. 10 of 2003",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      189,
+      91,
+      349,
+      16
+    ],
+    "text": "~tax shall include any tax, levy, penalty (including any",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      217,
+      110,
+      321,
+      15
+    ],
+    "text": "penalty in respect af any offence), forfeiture or Fine,",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      217,
+      128,
+      321,
+      16
+    ],
+    "text": "payable of fevied undor any of the laws relerred 10",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      217,
+      147,
+      146,
+      14
+    ],
+    "text": "in the Schedule hereto :",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      189,
+      180,
+      349,
+      15
+    ],
+    "text": "tax in dispute shall inctude any (ax assessed under any",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      176,
+      198,
+      362,
+      14
+    ],
+    "text": "- of the laws referred t0 in the Schedutc to this Act,",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      216,
+      217,
+      321,
+      15
+    ],
+    "text": "which has not been accepted by the Commissioner-",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      216,
+      236,
+      321,
+      14
+    ],
+    "text": "General, the relevant authority of the person",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      216,
+      245,
+      172,
+      32
+    ],
+    "text": "concerned. :",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      291,
+      287,
+      82,
+      13
+    ],
+    "text": "SCHEDULE",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      388,
+      308,
+      119,
+      11
+    ],
+    "text": "{Sections 2. 3. 4 ard 6)",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      184,
+      341,
+      216,
+      10
+    ],
+    "text": "1. The Tumover Tax Act. No. 69 0f 1981.",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      182,
+      360,
+      272,
+      12
+    ],
+    "text": "2. The National Security Levy Act. No. 52 of 1991.",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      182,
+      379,
+      273,
+      11
+    ],
+    "text": "3, The Goods and Servieus Tax Aci, No. 34 of 1996.",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      181,
+      398,
+      212,
+      13
+    ],
+    "text": "4, The Stamp Duty Act. No. 43 of 1982.",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      181,
+      417,
+      193,
+      11
+    ],
+    "text": "5. The Finance Act, No, 11 af 1963.",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      181,
+      436,
+      294,
+      11
+    ],
+    "text": "6, The Save ihe Nation Contribution Aci, No. $ of 1996.",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      181,
+      455,
+      230,
+      11
+    ],
+    "text": "7 The Inland Revenue Act, No. 28 of 1979.",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      181,
+      475,
+      230,
+      10
+    ],
+    "text": "The Inland Revenue Act, No, 38 of 2000.",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      180,
+      494,
+      276,
+      12
+    ],
+    "text": "9, The Surcharge on Wealth Tax Act, No. 25 of 1982.",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      176,
+      513,
+      277,
+      12
+    ],
+    "text": "10, The Surchoege on Wealth Tax Act, No. 8 of 1989,",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      177,
+      532,
+      285,
+      12
+    ],
+    "text": "14, The Surcharge on Income Tax Act, No, 26 of 1982,",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      176,
+      551,
+      286,
+      12
+    ],
+    "text": "12, The Surstarge on tncame Tax Act, No.12 af 1984,",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      176,
+      570,
+      279,
+      14
+    ],
+    "text": "13, The Surcharge on lncawie Tax Act, No. 7 of 1989,",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      176,
+      589,
+      360,
+      12
+    ],
+    "text": "14, The Surcharge on income Tax (Amwadinem!) Aci. No. 17 of 1991.",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      176,
+      608,
+      361,
+      12
+    ],
+    "text": "15. The Surcharge on lacome Tax (Amendment) Act. No. 32 af 1992.",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      175,
+      627,
+      361,
+      13
+    ],
+    "text": "16, The Surcharge on Income Tax (Ainendmert) Act, No. 28 of 1993.",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      175,
+      646,
+      361,
+      13
+    ],
+    "text": "417. The Surcharge on Income Tax (Amendment) Aci. No. 23 of 1994,",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      175,
+      664,
+      361,
+      14
+    ],
+    "text": "18, The Surcharge on Lncome Tax (Amendment) Ac, No. 13 of 1995,",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      175,
+      685,
+      280,
+      12
+    ],
+    "text": "19, The Surcharge on Income Tax Act, No, Gof 2001.",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      173,
+      702,
+      310,
+      14
+    ],
+    "text": "20, The Betting and Gaming Levy Act. No. 40.0f 1988,",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      173,
+      723,
+      217,
+      12
+    ],
+    "text": "21, The Estate Duty Act. No. 13 of 1980,",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      173,
+      742,
+      243,
+      12
+    ],
+    "text": "22. The Exchange Control Act, (Chupter 423).",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      173,
+      761,
+      287,
+      13
+    ],
+    "text": "33, The Impon und Export Conwroi Aci, No. | of 1969.",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      172,
+      780,
+      298,
+      13
+    ],
+    "text": "24, The Excise (Special Provisions) Act, No. 13 of 1989.",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      173,
+      795,
+      360,
+      17
+    ],
+    "text": "25, The Bxcise Ordinance (Chapter $2). oo",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      172,
+      818,
+      301,
+      14
+    ],
+    "text": "26. The Customs Ordinance (Chapter 235), .",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      61,
+      779,
+      498,
+      16
+    ],
+    "text": "Annual subscription of English Bills end Auts of the Parfiament Rs, 885 (Local). Rs. 1.180",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      60,
+      795,
+      499,
+      15
+    ],
+    "text": "{Foreign}, Payable 10 the Surreurrevorer. GoveRNMenr PusLicarioxs BuReAv, No. 32.",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      60,
+      811,
+      497,
+      13
+    ],
+    "text": "Taarsworrs Houst, Lomus Rost. Covono 01 before 15th December each year in respect",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      253,
+      827,
+      110,
+      13
+    ],
+    "text": "of the year following,",
+    "mean_p_confidence": 0.53
+  }
+]

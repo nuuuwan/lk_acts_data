@@ -1,0 +1,1630 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      69,
+      156,
+      286,
+      15
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      113,
+      177,
+      199,
+      14
+    ],
+    "text": "SOCIALIST REPUBLIC OF",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      169,
+      198,
+      87,
+      13
+    ],
+    "text": "SRI LANKA",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83,
+      276,
+      263,
+      14
+    ],
+    "text": "PREVENTION OF HOSTAGE TAKING",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      147,
+      296,
+      138,
+      15
+    ],
+    "text": "ACT, No, 41 OF 2000",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      149,
+      372,
+      131,
+      11
+    ],
+    "text": "(Centedlon th Anu, 2000)",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      141,
+      408,
+      150,
+      10
+    ],
+    "text": "rised on she Onker of Goverment",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      60,
+      478,
+      310,
+      12
+    ],
+    "text": "Published a a Suppfemes oPartITof he Genre the Dewnerai Socialist",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      131,
+      491,
+      169,
+      12
+    ],
+    "text": "\"eputlc of Sanka of Aust 1, 2000",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      55,
+      559,
+      320,
+      9
+    ],
+    "text": "roe: Ra 458 Poewge Ra, 2H",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      44,
+      206,
+      10
+    ],
+    "text": "Parvenion ef Hostage Toking Act, No.4 of 2000",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108,
+      68,
+      129,
+      11
+    ],
+    "text": "[ecerites 0 Sh Ags, 200}",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      48,
+      87,
+      68,
+      9
+    ],
+    "text": "LPO. 1959,",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      108,
+      222,
+      9
+    ],
+    "text": "AN ALY FOIE GTEC OT CaMV ANE TS",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      123,
+      200,
+      7
+    ],
+    "text": "TRING Hen | MG FOE ATER CEECTED",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      107,
+      135,
+      141,
+      7
+    ],
+    "text": "THEREVH ANDENODENGH HERERO,",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      49,
+      155,
+      291,
+      10
+    ],
+    "text": "WHEREAS the fotexatioasl Conventionapain| he tng rere.",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      49,
+      167,
+      248,
+      11
+    ],
+    "text": "of hovtagss wae adopted by the Geter Assembly of the",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      50,
+      180,
+      247,
+      10
+    ],
+    "text": "United Raons on Ge Soremceath day of Deversber One",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      49,
+      193,
+      183,
+      9
+    ],
+    "text": "Thm Mine Buned oa Seve Nine",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      50,
+      210,
+      247,
+      9
+    ],
+    "text": "AND WHEREAS Si ela resco seen theoloeatit",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      49,
+      224,
+      48,
+      8
+    ],
+    "text": "Conventn",
+    "mean_p_confidence": 0.07
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      50,
+      245,
+      247,
+      10
+    ],
+    "text": "AND WHEREAS it in pocesary wo ahs Beal pmvision ta",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      50,
+      257,
+      247,
+      12
+    ],
+    "text": "five effet to Si Lanka's biigtins sear ao afesthl",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      50,
+      271,
+      47,
+      8
+    ],
+    "text": "Convention",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      50,
+      292,
+      247,
+      10
+    ],
+    "text": "NOR THEREFORE, bet conctd fy the Pcarent of he",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      50,
+      304,
+      241,
+      11
+    ],
+    "text": "Bermocrati Soialie Repehliv-of $F Laskar follon",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      326,
+      294,
+      10
+    ],
+    "text": "1, This Ack may be vile asthe Prowension of Homage Sit scent",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      50,
+      338,
+      316,
+      12
+    ],
+    "text": "Teking As, fo, 4F of 200 cdl cams tre option on eeepc",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      50,
+      351,
+      248,
+      11
+    ],
+    "text": "such due asthe Minis. by Onder pbtiserd inh Gaza,",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      50,
+      364,
+      248,
+      9
+    ],
+    "text": "certies as he dale on wh the Fnkerntion Conversion",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      51,
+      376,
+      247,
+      11
+    ],
+    "text": "gaint he Toking of Bungee Geezer formed to xIbe",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      50,
+      389,
+      248,
+      11
+    ],
+    "text": "Comienioe' died the Geral Atel ofthe tad",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      51,
+      401,
+      247,
+      11
+    ],
+    "text": "Nations on de Sewracoelh day of December One Tiewsand.",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      51,
+      414,
+      248,
+      11
+    ],
+    "text": "Nine Ehaaded an evenly Nin, emer ek ors In respect",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      51,
+      428,
+      52,
+      8
+    ],
+    "text": "ofS Lanka",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64,
+      449,
+      307,
+      10
+    ],
+    "text": "2b The Minister moa, fom sine 1 tiene by Order mnner S40,",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      51,
+      461,
+      248,
+      11
+    ],
+    "text": "published ind Gavan, ceily the Ss which ave patos",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      51,
+      473,
+      248,
+      11
+    ],
+    "text": "Teese Corengon. A Stn in rexpeet of which an Ont is",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      51,
+      486,
+      249,
+      10
+    ],
+    "text": "wade under ths sues is hereinafter referred to a5",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      52,
+      499,
+      89,
+      9
+    ],
+    "text": "a Coeatlan Se,",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      524,
+      283,
+      11
+    ],
+    "text": "OH Anyperaon wn otto",
+    "mean_p_confidence": 0.08
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      312,
+      534,
+      48,
+      8
+    ],
+    "text": "Fete lin,",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      534,
+      281,
+      18
+    ],
+    "text": "(a) sae ce deat and rial",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      561,
+      232,
+      11
+    ],
+    "text": "} dreenero erin injure, eraennaimictadesin,",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      52,
+      583,
+      95,
+      7
+    ],
+    "text": "panera 550 nN",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115,
+      43,
+      225,
+      11
+    ],
+    "text": "2 Proven of Haste Taig fey, A of 09",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115,
+      68,
+      245,
+      13
+    ],
+    "text": "oer prin (einai st 9 2 \"ho Sage",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      114,
+      81,
+      245,
+      12
+    ],
+    "text": "sie cn! ir paty th on. Sa",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115,
+      94,
+      245,
+      12
+    ],
+    "text": "Inert gos rca Orgieason fart",
+    "mean_p_confidence": 0.06
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      114,
+      107,
+      246,
+      12
+    ],
+    "text": "ep ef pers eda of abe Cm Sng, a at",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      114,
+      120,
+      243,
+      12
+    ],
+    "text": "exper ipbid condo for ore of hae",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      114,
+      132,
+      192,
+      13
+    ],
+    "text": "shal betty fh ane aig ig.",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      126,
+      161,
+      92,
+      11
+    ],
+    "text": "Amr whore",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      129,
+      189,
+      100,
+      11
+    ],
+    "text": "12) mimo coma",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      129,
+      218,
+      153,
+      10
+    ],
+    "text": "{Pfister aden comin",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      112,
+      247,
+      246,
+      11
+    ],
+    "text": "fhe ellen of hostage aking shal guy of a fence",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      112,
+      259,
+      60,
+      9
+    ],
+    "text": "brits A",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      124,
+      288,
+      234,
+      12
+    ],
+    "text": "1 i uinstion, shel fe ate esing fo",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      112,
+      301,
+      160,
+      10
+    ],
+    "text": "ston Ltn oT et Peat Ce,",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      124,
+      326,
+      234,
+      12
+    ],
+    "text": "(31 prem fe offence user been doe",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      111,
+      339,
+      246,
+      11
+    ],
+    "text": "sett ) tis etn salon soit, afer td",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      111,
+      352,
+      246,
+      12
+    ],
+    "text": "fo indictment. by sho High Court be punished with",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      111,
+      365,
+      88,
+      10
+    ],
+    "text": "open fake",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      36,
+      392,
+      320,
+      12
+    ],
+    "text": "Mghemmein 4 (tT Righ Come of So Lae een ino",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      35,
+      403,
+      321,
+      16
+    ],
+    "text": "EERO or the Bigh Cour established by Alla LS ofthe",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      35,
+      414,
+      321,
+      18
+    ],
+    "text": "xin rth Wat avin tl. neitanding",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      110,
+      432,
+      246,
+      12
+    ],
+    "text": "yt hy ote ew: Ree enka jerniton wry",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      110,
+      445,
+      94,
+      8
+    ],
+    "text": "Memes mer et",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      121,
+      473,
+      234,
+      12
+    ],
+    "text": "2) Wher oat contting an tence we et",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      109,
+      486,
+      236,
+      12
+    ],
+    "text": "ceri ase 5 Lat, tho High Cae eer in",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      109,
+      499,
+      247,
+      12
+    ],
+    "text": "sbi Nal hae juin try echolice i",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      109,
+      513,
+      150,
+      8
+    ],
+    "text": "ite soem an",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      124,
+      540,
+      231,
+      13
+    ],
+    "text": "{6} shepecon wha somite pees nS",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      145,
+      553,
+      31,
+      9
+    ],
+    "text": "Lanka:",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72,
+      44,
+      225,
+      10
+    ],
+    "text": "Preoeaton of thsi Taig Acs Na. a? of 20003",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66,
+      69,
+      232,
+      10
+    ],
+    "text": "(OF oweh is mmm acim of Rl Lake",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      87,
+      81,
+      210,
+      11
+    ],
+    "text": "bye mutes person to hess hallo resins",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      87,
+      94,
+      56,
+      9
+    ],
+    "text": "Spsnitake",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66,
+      119,
+      231,
+      11
+    ],
+    "text": "if euch oot i cormmitiod im rier to compe tbe",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      87,
+      132,
+      210,
+      9
+    ],
+    "text": "Goveemment af Si Lanka, todb,ara abate fame",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      87,
+      144,
+      75,
+      10
+    ],
+    "text": "sing, any 897",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66,
+      169,
+      232,
+      10
+    ],
+    "text": "G25 sok es unis i asipan a Rasa we",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      88,
+      182,
+      97,
+      8
+    ],
+    "text": "aa cilieen of Si Lanks,",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      63,
+      207,
+      303,
+      10
+    ],
+    "text": "5. Whore a pean ina ic sata came of ri Loa it peat crate",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      51,
+      218,
+      313,
+      11
+    ],
+    "text": "tes foram fence under ts Act, sok perso wal fe pan aed",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      46,
+      216,
+      325,
+      29
+    ],
+    "text": "pecwrak Erste",
+    "mean_p_confidence": 0.09
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66,
+      256,
+      231,
+      10
+    ],
+    "text": "(@) to communicate widhoue dela, withthe near",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      87,
+      269,
+      211,
+      10
+    ],
+    "text": "_approprianeropretemaine oF te Sate af tic he",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      88,
+      281,
+      209,
+      11
+    ],
+    "text": "Ga tions oF which in fhorwiseemelodtnprooo",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      88,
+      294,
+      209,
+      11
+    ],
+    "text": "Dis ph, of IF oa taness person, wi be",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      88,
+      307,
+      210,
+      10
+    ],
+    "text": "neansl appetite repreenttie 2 he Sin inte",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      88,
+      319,
+      205,
+      10
+    ],
+    "text": "fenitory of which ke wa: duly maiden! jand",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66,
+      344,
+      204,
+      10
+    ],
+    "text": "tae vite bya sevovenave oh Sta",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      63,
+      369,
+      298,
+      11
+    ],
+    "text": "5 (1) The Enttashion Law 0, 8 oF 1977 i Basehy Amseiamtis",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      51,
+      382,
+      315,
+      10
+    ],
+    "text": "mended by the insertion innmeiity befere Pt Hof the Renate",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      51,
+      394,
+      195,
+      11
+    ],
+    "text": "Sched lo that Law, ofthe follwing eae +",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      63,
+      419,
+      93,
+      11
+    ],
+    "text": "148) Heaps eating",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      63,
+      445,
+      235,
+      10
+    ],
+    "text": "(2) Whoee a request is mae ander the Fxteiton Law,",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      51,
+      457,
+      247,
+      11
+    ],
+    "text": "Io. Bef 1977. by orn bal a a Canwest Sate, rte",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      51,
+      470,
+      246,
+      10
+    ],
+    "text": "bumadien of period secusel ur comieiad oF a offer",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      51,
+      483,
+      246,
+      10
+    ],
+    "text": "Tain wii he vc et en Oe Schade da",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      51,
+      495,
+      246,
+      10
+    ],
+    "text": "Ae, dhe Bsr afon zu Hof 197? apicton",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      51,
+      507,
+      244,
+      10
+    ],
+    "text": "twsach request, baw efloce zs iffor the word \"ase eligi,",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      51,
+      520,
+      246,
+      10
+    ],
+    "text": "raion ops epiions sppeariag aporageephs ib",
+    "mean_p_confidence": 0.06
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      51,
+      532,
+      246,
+      10
+    ],
+    "text": "san p}.fwabeection (of eetin ? of hat Lae aro ware",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      51,
+      545,
+      246,
+      10
+    ],
+    "text": "sebstiud De words ee, ellgion, madonna",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      51,
+      558,
+      119,
+      10
+    ],
+    "text": "pis or pofeicel opinions",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      121,
+      39,
+      225,
+      15
+    ],
+    "text": "Preven of Hosta Tbh et Nes 44 of 200",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      45,
+      51,
+      322,
+      30
+    ],
+    "text": "isha Wher dhe ie eh entrftoneremarmont sos hy",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      45,
+      77,
+      322,
+      13
+    ],
+    "text": "SSetmcn* the Govcrien Bi Laake with any Conveon Ste",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      45,
+      88,
+      322,
+      17
+    ],
+    "text": "goat fac onthe dete tn wie ths Act cement speaion,",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      44,
+      97,
+      322,
+      20
+    ],
+    "text": "wong sh srungrien stl be domed torte purpeate af he",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      43,
+      114,
+      324,
+      15
+    ],
+    "text": "ecestine Exsaitog Lame Ho. of 1877, 10 lacade proton for",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      39,
+      114,
+      326,
+      30
+    ],
+    "text": "Soave Aa eres oft finces perRiad ine Schedle",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      118,
+      140,
+      44,
+      8
+    ],
+    "text": "feds Ace",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      43,
+      162,
+      322,
+      19
+    ],
+    "text": "Heeermema Ware cute is esr rangecest mae by",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      42,
+      171,
+      322,
+      21
+    ],
+    "text": "cakes the Covert af Si Lanka wtb any Chnemion Sta",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      42,
+      189,
+      322,
+      14
+    ],
+    "text": "(meecrcs, Minit toy, by Onn peice inte Gane, ten the",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      42,
+      198,
+      322,
+      18
+    ],
+    "text": "Boia Chatesios, forthe puposwof ie iteadion tats No Sof",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      41,
+      214,
+      323,
+      15
+    ],
+    "text": "GareaiSice, (977m gnecraisve aan petin ede, by the Doves",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      42,
+      225,
+      322,
+      17
+    ],
+    "text": "SAE 9F Sd Leaks with that Comentinn Siam providing for",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      41,
+      233,
+      322,
+      21
+    ],
+    "text": "SE craton reps uf ce secede Stale",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      116,
+      253,
+      44,
+      8
+    ],
+    "text": "ths Ac.",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      39,
+      289,
+      323,
+      14
+    ],
+    "text": "ates 5. The Goveenent of Sei Lanka sha atom! a sk",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      39,
+      298,
+      322,
+      19
+    ],
+    "text": "Cemratonsas: piano aed tay Brough the Minar equal sch",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      114,
+      316,
+      247,
+      14
+    ],
+    "text": "esinatce Sor, x Comeaion Sintec ay te meee fe",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      114,
+      327,
+      247,
+      14
+    ],
+    "text": "{ts tevestipion and prosolon of ff ender oti",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      113,
+      339,
+      248,
+      15
+    ],
+    "text": "3 ar of un ofeacespocfie ia the Schedule 0 ie Act,",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      113,
+      352,
+      248,
+      14
+    ],
+    "text": "ecletng, asinine sleting Wo i taking of even and",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      112,
+      365,
+      157,
+      12
+    ],
+    "text": "sacisens ado serving of procese",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      37,
+      387,
+      323,
+      17
+    ],
+    "text": "femtsovio th Ineheerentofany ices belvmenthe Sinha,",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      36,
+      398,
+      308,
+      19
+    ],
+    "text": "Beene aaa Tal texte i Ac te Sita le all peal",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      36,
+      408,
+      47,
+      9
+    ],
+    "text": "icons",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      219,
+      440,
+      139,
+      11
+    ],
+    "text": "Sema Gren 1",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      129,
+      456,
+      229,
+      12
+    ],
+    "text": "1) Pet on toy oc enant0se poet",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      148,
+      466,
+      208,
+      12
+    ],
+    "text": "Ue tet yc en UR peor cola",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      147,
+      477,
+      211,
+      13
+    ],
+    "text": "88 hr nose rte ed ese aes",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      147,
+      486,
+      210,
+      22
+    ],
+    "text": "sce eage Bat manent ems",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      146,
+      497,
+      211,
+      11
+    ],
+    "text": "aan ei rot pao ab ee",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      146,
+      507,
+      211,
+      11
+    ],
+    "text": "tras ware cpns Serta tba ibe",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      146,
+      516,
+      46,
+      10
+    ],
+    "text": "Heels",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      127,
+      531,
+      214,
+      13
+    ],
+    "text": "pacer wha paps",
+    "mean_p_confidence": 0.09
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      127,
+      546,
+      228,
+      13
+    ],
+    "text": "13 Aig ante comin Sector ms",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      145,
+      558,
+      44,
+      7
+    ],
+    "text": "aa",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      46,
+      534,
+      324,
+      12
+    ],
+    "text": "Axl accion El ed ie Nine HS (Lona Foe,",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      46,
+      544,
+      324,
+      11
+    ],
+    "text": "ale 1 te Steamer. Goreme Passa ent Nh , Tsawane Boe",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      56,
+      554,
+      303,
+      12
+    ],
+    "text": "Lom Rov, Can tle (ah Desert yx a pa oe orf",
+    "mean_p_confidence": 0.44
+  }
+]

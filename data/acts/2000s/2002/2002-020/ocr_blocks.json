@@ -1,0 +1,541 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      355,
+      115,
+      8,
+      20
+    ],
+    "text": "fio",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      278,
+      168,
+      76,
+      26
+    ],
+    "text": "ORS",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      96,
+      230,
+      438,
+      19
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      164,
+      260,
+      305,
+      19
+    ],
+    "text": "SOCIALIST REPUBLIC OF",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      252,
+      290,
+      131,
+      19
+    ],
+    "text": "SRILANKA",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      101,
+      414,
+      428,
+      21
+    ],
+    "text": "CIVIL PROCEDURE CODE (AMENDMENT)",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      214,
+      438,
+      205,
+      23
+    ],
+    "text": "ACT, No. 20 OF 2002",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      208,
+      554,
+      219,
+      15
+    ],
+    "text": "[Certified on 04th October, 2002}",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      202,
+      610,
+      228,
+      15
+    ],
+    "text": "Printed on the Order of Government",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76,
+      707,
+      475,
+      16
+    ],
+    "text": "Published as a Supplement to Part IT of the Gazette of the Democratic Socialist",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      182,
+      727,
+      266,
+      15
+    ],
+    "text": "Republic of Sri Lanka of October 04, 2002",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      65,
+      793,
+      498,
+      28
+    ],
+    "text": "rons arascovemaneroormesna come?",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      63,
+      824,
+      480,
+      31
+    ],
+    "text": "Price :Rs.4.25 Postage : Rs. 4.50",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      179,
+      59,
+      249,
+      14
+    ],
+    "text": "Civil Procedure Code (Amendment).",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      229,
+      77,
+      121,
+      15
+    ],
+    "text": "Act, No. 20 of 2002",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      186,
+      116,
+      207,
+      14
+    ],
+    "text": "(Certified on O4th October, 2002]",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      102,
+      148,
+      119,
+      13
+    ],
+    "text": "L.D.O, 17/2002.",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      151,
+      181,
+      279,
+      12
+    ],
+    "text": "AN ACT To AMEND He Civit. ProcenurE Coe",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      102,
+      214,
+      376,
+      15
+    ],
+    "text": "BE it enacted by the Parliament of tie Democratic Socialist",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      102,
+      232,
+      233,
+      16
+    ],
+    "text": "Republic of Sri Lanka as follows :",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122,
+      265,
+      426,
+      15
+    ],
+    "text": "1. This Act may be cited as the Civil Procedure Code Shortie.",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      102,
+      284,
+      226,
+      14
+    ],
+    "text": "(Amendment) Act, No, 20: of 2002.",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122,
+      316,
+      454,
+      15
+    ],
+    "text": "2. Section 495 of the Civil Procedure Code (hereinafter Replacemem of",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      102,
+      333,
+      466,
+      23
+    ],
+    "text": "referred to 2s the principal enactment) is hereby repealed 00495 of",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      102,
+      347,
+      459,
+      22
+    ],
+    "text": "and the following section substituted therefor :- Coapies 101.",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      102,
+      391,
+      379,
+      12
+    ],
+    "text": "Co-defendant 495. A. co-defendant of sound mind and of",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98,
+      402,
+      382,
+      34
+    ],
+    "text": "tppotned, full age with no interest adverse to that of the",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      154,
+      427,
+      326,
+      17
+    ],
+    "text": "minor may be appointed guardian forthe action,",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      190,
+      448,
+      247,
+      15
+    ],
+    "text": "but a plaintiff cannot be so appointed..",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122,
+      480,
+      453,
+      16
+    ],
+    "text": "3. Section 544 of the principal enactment is-hereby Amesdmentof",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      103,
+      496,
+      485,
+      18
+    ],
+    "text": "amended in subsection (1) of that section section S44 ofthe",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      500,
+      511,
+      44,
+      12
+    ],
+    "text": "pricipal",
+    "mean_p_confidence": 0.06
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      133,
+      526,
+      421,
+      21
+    ],
+    "text": "(1) by the repeal of paragraph (6) of that section andthe Ar",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      161,
+      551,
+      321,
+      15
+    ],
+    "text": "substitution therefor of the following paragraph",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      176,
+      583,
+      306,
+      16
+    ],
+    "text": "(b) any share in a company registered in terms",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      214,
+      602,
+      268,
+      16
+    ],
+    "text": "of the Companies Act, No. 17 of 1982 or",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      214,
+      621,
+      356,
+      15
+    ],
+    "text": "established under any written law for the :",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      214,
+      640,
+      182,
+      15
+    ],
+    "text": "time being in force ; or\"; and",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      128,
+      677,
+      354,
+      16
+    ],
+    "text": "(2) by the addition at the end of that subsection of the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      161,
+      697,
+      86,
+      15
+    ],
+    "text": "following",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      175,
+      730,
+      308,
+      16
+    ],
+    "text": "For the purposes of this section share shall have",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      214,
+      749,
+      269,
+      15
+    ],
+    "text": "the same meaning as in the Companies Act,",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      214,
+      768,
+      100,
+      12
+    ],
+    "text": "No. 17 of 1982.",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122,
+      801,
+      454,
+      18
+    ],
+    "text": "4, Inthe event of any inconsistency between the Sinhala Sinhala extte",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      103,
+      816,
+      488,
+      29
+    ],
+    "text": "and Tamil texts ofthis Act, the Sinhala text shall prevail, revel nese of",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      105,
+      855,
+      182,
+      14
+    ],
+    "text": "2H 164355,550 (07/2002)",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      69,
+      807,
+      494,
+      13
+    ],
+    "text": "Annual subseription of Englith Bilgand Acts of the Parliament Re, 885 Local), Rs, 1,18(Foreign)",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      69,
+      822,
+      494,
+      13
+    ],
+    "text": "Payable to the Surennerevoewr, Gaveannaner PumucaTions Buasau, No. 32, Transwones Houst,",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      84,
+      837,
+      461,
+      13
+    ],
+    "text": "Larus Rap, Covoseo OF before 15th December eat yenr in respect of the year (allowing.",
+    "mean_p_confidence": 0.59
+  }
+]

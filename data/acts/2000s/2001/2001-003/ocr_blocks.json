@@ -1,0 +1,8901 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      49,
+      138,
+      286,
+      13
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93,
+      158,
+      199,
+      13
+    ],
+    "text": "SOCIALIST REPUBLIC OF",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      148,
+      178,
+      88,
+      13
+    ],
+    "text": "SRI LANKA",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      135,
+      248,
+      114,
+      11
+    ],
+    "text": "APPROPRIATION",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      129,
+      265,
+      126,
+      14
+    ],
+    "text": "ACT, No. 3 OF 2001",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      128,
+      353,
+      129,
+      10
+    ],
+    "text": "[Certhed eu 110 Aped, 24611",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      119,
+      388,
+      149,
+      10
+    ],
+    "text": "Priaed on the Onder of Goveramet",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      38,
+      459,
+      309,
+      10
+    ],
+    "text": "blake sa Suppleoot o Pst ofthe Gaze ofthe Democratic Socialis",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      113,
+      471,
+      158,
+      10
+    ],
+    "text": "RepublicatSet Lanka of Apel 12,2001",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      31,
+      538,
+      314,
+      10
+    ],
+    "text": "Miees Rs 2925: Pesage Ra. 875",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      23,
+      137,
+      10
+    ],
+    "text": "Apropo ct. No.3 of 208",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      48,
+      127,
+      10
+    ],
+    "text": "(Cetifed oe Efe Ap. 20011",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      29,
+      67,
+      74,
+      8
+    ],
+    "text": "LD, HBR,",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      29,
+      85,
+      246,
+      9
+    ],
+    "text": "(Act ms toi foe He BEN OF THE Hoe HE",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      41,
+      96,
+      234,
+      8
+    ],
+    "text": "20 sore et enti OF ant be Gee",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      41,
+      106,
+      234,
+      9
+    ],
+    "text": "Tents, Poe re ono rae SERVE, 1D",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      41,
+      120,
+      235,
+      15
+    ],
+    "text": "Goxsnesster aia mst mae, EAR eB OE",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      41,
+      138,
+      234,
+      8
+    ],
+    "text": "SMM HP Way ASRS ROP TA CINE Fat",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      41,
+      153,
+      234,
+      14
+    ],
+    "text": "Ter CovEANMGHT, Se HOMEY HOMIE SLAIN Txt",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      41,
+      183,
+      234,
+      16
+    ],
+    "text": "Enesokimaten Fer 5 S010 ines meester fo suc",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      29,
+      219,
+      246,
+      10
+    ],
+    "text": "BE i ent byt Pasian ofthe Derneraic Sina",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      29,
+      231,
+      150,
+      10
+    ],
+    "text": "epulic of Sri Lanka as folie >",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      39,
+      256,
+      281,
+      10
+    ],
+    "text": "A. This Act may be ciled as the Appropriation ssondm",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      28,
+      268,
+      76,
+      9
+    ],
+    "text": "ot Ri of 2",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      39,
+      294,
+      308,
+      10
+    ],
+    "text": "2. (yWidevepefedios any ober Fa atliicng soy Reppin",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      28,
+      305,
+      306,
+      16
+    ],
+    "text": "agenda, hs snpsitere ofthe Gosernment which cis Stace:",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      28,
+      319,
+      263,
+      10
+    ],
+    "text": "esimatas wil ba mpeea tires mandredastsiny te akiusead",
+    "mean_p_confidence": 0.09
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      28,
+      332,
+      247,
+      10
+    ],
+    "text": "fea Indeed and fenty ce ila cighty fend",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      28,
+      344,
+      246,
+      10
+    ],
+    "text": "{oe the sevice of te perc beginning oe lm 4,2",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      28,
+      356,
+      247,
+      10
+    ],
+    "text": "ndending ou December 51, 100% ahs ct slurred ag",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      27,
+      368,
+      160,
+      10
+    ],
+    "text": "1s Enact year 2001, shall bee",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      41,
+      386,
+      292,
+      10
+    ],
+    "text": "48) fromrsymentr whch re eres ath abe de :",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      398,
+      216,
+      10
+    ],
+    "text": "pF ofthe Cansnlidued Fond or any our fund ce",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      410,
+      214,
+      10
+    ],
+    "text": "ssoneys of of athe depot, tbe Corerent",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      40,
+      428,
+      235,
+      11
+    ],
+    "text": "(8) from the proceeds of Ines which are herehy",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      440,
+      216,
+      8
+    ],
+    "text": "rulhorans' ta be imiod. bor ince catite",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      452,
+      216,
+      8
+    ],
+    "text": "Se Lenka, fo and til of Ge Greet 20",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      464,
+      216,
+      10
+    ],
+    "text": "Soweves ha maa ygugai of aus pescsody doesent",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      475,
+      216,
+      10
+    ],
+    "text": "eee rips io ie osm Conrad ad",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      486,
+      77,
+      10
+    ],
+    "text": "eg fe wan",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      40,
+      501,
+      235,
+      10
+    ],
+    "text": "22) The sum vf supees three huedsed aed sity Foe",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      27,
+      512,
+      248,
+      10
+    ],
+    "text": "aca Eo urea a twenty ne milion Gighty tro",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      27,
+      523,
+      248,
+      11
+    ],
+    "text": "Sosa caferona me abso} a sett, my Be",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      27,
+      536,
+      223,
+      10
+    ],
+    "text": "expeedad ae pulled te Re Fest cheater ts A,",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      15,
+      557,
+      112,
+      9
+    ],
+    "text": "eT",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93,
+      24,
+      192,
+      11
+    ],
+    "text": "2 Appmriaion Ac, Rut of 2051",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      103,
+      50,
+      236,
+      10
+    ],
+    "text": "(22 The provisions of eatin 1 is soa shal",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93,
+      63,
+      248,
+      10
+    ],
+    "text": "hve oes wove reir so Ihe print ony hee",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93,
+      75,
+      246,
+      11
+    ],
+    "text": "iron tua te inno ean orand ont Boalt",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93,
+      89,
+      77,
+      8
+    ],
+    "text": "atthe Coveramest.",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      18,
+      102,
+      376,
+      30
+    ],
+    "text": "Pen 2 e1yThomsuie otike Covemmenndtog he Gennes .",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      18,
+      123,
+      322,
+      16
+    ],
+    "text": "suo year. 200%, fom ems tv set in obec the",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      18,
+      134,
+      372,
+      15
+    ],
+    "text": "Enseceae Becond Schedole to this Act shell be credit io the sooo,",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      18,
+      150,
+      322,
+      10
+    ],
+    "text": "Sevens ero ueh acy, ble agua of recited at",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      18,
+      162,
+      323,
+      10
+    ],
+    "text": "ieteerca fee be wot fete han IR minima Limit apecifed te the,",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      18,
+      172,
+      323,
+      13
+    ],
+    "text": "a cemengning ely in cobain fa See, The ace",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93,
+      187,
+      248,
+      11
+    ],
+    "text": "utp. if any, oF euch activity. shail bs paid te the",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93,
+      200,
+      248,
+      10
+    ],
+    "text": "Consalitied Fund eft be eapayof sx monte wer ho",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93,
+      213,
+      131,
+      10
+    ],
+    "text": "eae of he financial yee, 20",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      103,
+      232,
+      238,
+      10
+    ],
+    "text": "12) Por dh paps of dctrmining he ex spas ender",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93,
+      245,
+      248,
+      10
+    ],
+    "text": "soerion (1. seo ange sa eset ane",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93,
+      259,
+      127,
+      10
+    ],
+    "text": "hemsornae af ech ctvee",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      106,
+      277,
+      235,
+      11
+    ],
+    "text": "(a the woking, osaistramn and iar expen of",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      125,
+      290,
+      256,
+      11
+    ],
+    "text": "Ui aetiviey wtecther pald Dr accrued, paopedly",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      124,
+      304,
+      188,
+      11
+    ],
+    "text": "siegshlets te even the ety: a",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      106,
+      323,
+      235,
+      11
+    ],
+    "text": "48) provision acoverthe deresadono he movable and",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      125,
+      337,
+      142,
+      10
+    ],
+    "text": "imovobe propor Ie net",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      104,
+      356,
+      237,
+      10
+    ],
+    "text": "3) The espns inured bythe Govern dang",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      94,
+      368,
+      247,
+      10
+    ],
+    "text": "(final year, 2001, un each activity speed in",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93,
+      381,
+      248,
+      10
+    ],
+    "text": "cotran of te Send Sohedabe aie Act sal be aio",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93,
+      393,
+      248,
+      10
+    ],
+    "text": "(oF thereto of Govsmmert sacha are",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      94,
+      406,
+      247,
+      10
+    ],
+    "text": "eat fave soar ba ish xen al ect te",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93,
+      418,
+      248,
+      11
+    ],
+    "text": "seating Tie specified in te cotrespondig eS IN",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93,
+      430,
+      297,
+      9
+    ],
+    "text": "enfin oft She",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      105,
+      450,
+      236,
+      10
+    ],
+    "text": "fa) The doh bance, mastinaing atthe endl of Be",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      95,
+      462,
+      295,
+      11
+    ],
+    "text": "taps year 203, of ay acl pei a cohorsU .",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      94,
+      475,
+      247,
+      9
+    ],
+    "text": "{BeSenond Schedule otis Act setae oes",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      94,
+      488,
+      248,
+      10
+    ],
+    "text": "iis cmesporebacmy share Oe,",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      94,
+      500,
+      248,
+      10
+    ],
+    "text": "Sheds netsh kl ibvein a he selvty heed of",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      94,
+      513,
+      247,
+      10
+    ],
+    "text": "ba rancid year shall matexceed he maxim ln",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      94,
+      525,
+      248,
+      10
+    ],
+    "text": "wii i the erecopoming ey in lan Vf nk",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      94,
+      538,
+      38,
+      9
+    ],
+    "text": "Senate",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      101,
+      29,
+      192,
+      10
+    ],
+    "text": "Apropo a3 No of 204 1",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      57,
+      54,
+      308,
+      13
+    ],
+    "text": "4. Wencies amy meshing te Braet! yom 2001, vent",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      47,
+      63,
+      312,
+      17
+    ],
+    "text": "drone tie Gostnec tom anya aeliesin Se",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      46,
+      80,
+      302,
+      8
+    ],
+    "text": "alum i the Secind Scheie to thn Ae aremttcn! hse",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      47,
+      91,
+      312,
+      18
+    ],
+    "text": "torent sends noe ye oeromencon such Rak",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      46,
+      106,
+      315,
+      12
+    ],
+    "text": "stip de Miniter. omiino meine. by Oskerdiesl Becta,",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      46,
+      119,
+      311,
+      11
+    ],
+    "text": "fat such some at He iy deem ecesary to net ah eens",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      46,
+      129,
+      310,
+      15
+    ],
+    "text": "xpidiom shal bepaytis by may ofan er rks In",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      46,
+      145,
+      303,
+      11
+    ],
+    "text": "Consist el ray wee ROOF GE eer ems",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      46,
+      157,
+      317,
+      17
+    ],
+    "text": "dopo se Gomer. tw bance that toe spegaie Soa",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      46,
+      172,
+      275,
+      10
+    ],
+    "text": "cfietenssoaivancedahall mecsved fe moors limit Top",
+    "mean_p_confidence": 0.03
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      46,
+      184,
+      247,
+      11
+    ],
+    "text": "of expundiarespaitiod 6 tha eoesspcing ea Ih",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      45,
+      198,
+      248,
+      11
+    ],
+    "text": "lune TE of hal Schedule, Any smn so advanced",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      46,
+      211,
+      247,
+      10
+    ],
+    "text": "respect of auch aetivity ehall Bo refunded (0 the",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      45,
+      224,
+      248,
+      11
+    ],
+    "text": "Ceo Poi uc sme ot Mir yy",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      45,
+      237,
+      51,
+      8
+    ],
+    "text": "nlersiee",
+    "mean_p_confidence": 0.07
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      56,
+      266,
+      306,
+      11
+    ],
+    "text": "Be Mpanymeys whieh vitae nf eprint of fmt tne",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      46,
+      277,
+      316,
+      17
+    ],
+    "text": "fieFiotichodlelnehes taictecanoeaderRecarene SOME",
+    "mean_p_confidence": 0.03
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      45,
+      293,
+      299,
+      10
+    ],
+    "text": "Eipealioe aden Pogrnmneagesrig eelermyfead Sit",
+    "mean_p_confidence": 0.03
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      45,
+      305,
+      308,
+      15
+    ],
+    "text": "specie air Schatle buchen expunged rare eae",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      45,
+      315,
+      320,
+      15
+    ],
+    "text": "Ski} obo epemiad mayor mnsfedinenteaion etna",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      45,
+      332,
+      316,
+      10
+    ],
+    "text": "OF Copa Eapenture win eat Programme, eto the Prgms",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      45,
+      342,
+      320,
+      18
+    ],
+    "text": "alocarian af Reser Bapoaditre or Capital Ligand? aay",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      45,
+      358,
+      318,
+      11
+    ],
+    "text": "teeny bor acer whim! Head by doe BSN",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      46,
+      371,
+      298,
+      11
+    ],
+    "text": "Sven tthe Tes or any oh ales ators by Seen.",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      45,
+      384,
+      16,
+      8
+    ],
+    "text": "im",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      56,
+      410,
+      237,
+      11
+    ],
+    "text": "(21 No meeryssllcaedts Cpl Expedite ude iy",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      45,
+      422,
+      248,
+      12
+    ],
+    "text": "Srogemare upping slr any Heal pie he Fi",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      45,
+      435,
+      248,
+      11
+    ],
+    "text": "Sebedse dan dcealiennntones ota Programe",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      45,
+      448,
+      248,
+      11
+    ],
+    "text": "3110 any aflocaion of Ravurent Expendiare oF Inn",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      45,
+      460,
+      51,
+      10
+    ],
+    "text": "Programe.",
+    "mean_p_confidence": 0.07
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      55,
+      489,
+      310,
+      17
+    ],
+    "text": "4 Wie te Mine al tne",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      57,
+      510,
+      287,
+      17
+    ],
+    "text": "(6) utreipn trouser nnd shersoucewate as RM",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      76,
+      526,
+      263,
+      10
+    ],
+    "text": "{oop ibe arias unpaid Funes erie asa",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      76,
+      539,
+      65,
+      9
+    ],
+    "text": "expense",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      114,
+      27,
+      192,
+      11
+    ],
+    "text": "a Approrlion Aer Ma of 201",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      128,
+      54,
+      233,
+      10
+    ],
+    "text": "hha uot xipialy appropri or atoar",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      146,
+      67,
+      177,
+      11
+    ],
+    "text": "reser mens a5 Songer Tes,",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      114,
+      96,
+      287,
+      10
+    ],
+    "text": "Ins moj mis the append the lovee wih in",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115,
+      109,
+      245,
+      11
+    ],
+    "text": "svhote ri par ay mG peesousty FeOEE fer",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      114,
+      123,
+      246,
+      11
+    ],
+    "text": "igsre wer heavy oF a wae sa hy in",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115,
+      138,
+      286,
+      11
+    ],
+    "text": "fro be Consist Pundee fom any bec faudoronest",
+    "mean_p_confidence": 0.09
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115,
+      153,
+      167,
+      10
+    ],
+    "text": "fo athe depend of to Goreranans",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      41,
+      181,
+      319,
+      10
+    ],
+    "text": "Brceatieies 4, (1) he Micher wth be appro ofthe Oeveramet",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      40,
+      191,
+      314,
+      16
+    ],
+    "text": "eee mags amor May SL 24D. hy Ori. ay ear",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      40,
+      221,
+      321,
+      16
+    ],
+    "text": "pestle) gy of ho asi Hite specie in coin",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      36,
+      227,
+      325,
+      30
+    ],
+    "text": "bese ma EY aclu ofthe Send Sebo to",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      147,
+      252,
+      36,
+      9
+    ],
+    "text": "nin acts",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      128,
+      280,
+      233,
+      10
+    ],
+    "text": "{81 the minim Fit pid fa cole HE of the",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      147,
+      294,
+      113,
+      9
+    ],
+    "text": "Second Scdule n Ac.",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      126,
+      323,
+      235,
+      10
+    ],
+    "text": "(2) No er ike ude auction C1 of i sein",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      116,
+      336,
+      246,
+      11
+    ],
+    "text": "shal nase eaec unas has en apo y Pasi,",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      116,
+      351,
+      53,
+      10
+    ],
+    "text": "by rota.",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      126,
+      379,
+      236,
+      10
+    ],
+    "text": "2) Any Onder mdse subsction (of ha sacion",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      116,
+      393,
+      246,
+      10
+    ],
+    "text": "that io eked teri, be deen ants fa ate",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      116,
+      407,
+      246,
+      10
+    ],
+    "text": "fiom wich dite peor ot to wing nich Order my",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      116,
+      422,
+      285,
+      12
+    ],
+    "text": "fe saci then .",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      41,
+      450,
+      321,
+      10
+    ],
+    "text": "ora 8. Petsmart ma. fy rseotinn, emer the Second",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      41,
+      463,
+      360,
+      15
+    ],
+    "text": "asnele , Schudulelotbis Act tyoddingt theapecgrine Soho",
+    "mean_p_confidence": 0.03
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      41,
+      479,
+      211,
+      10
+    ],
+    "text": "Enews sl Schedule, ay set and",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      126,
+      502,
+      236,
+      10
+    ],
+    "text": "fc oa omy Of the a Mas eng Sh",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      147,
+      516,
+      35,
+      10
+    ],
+    "text": "aetsiys",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      126,
+      540,
+      197,
+      10
+    ],
+    "text": "(oye inna a eating teh nt",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93,
+      28,
+      193,
+      10
+    ],
+    "text": "Avocet Aes, Mo, 3 of 201 s",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      49,
+      51,
+      274,
+      13
+    ],
+    "text": "9. Notwitasadng sting nthe ecleion pase by Caen",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      39,
+      64,
+      313,
+      17
+    ],
+    "text": "Farament o he ig dy of Deemer, 2000, aking eae",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      39,
+      76,
+      311,
+      15
+    ],
+    "text": "financial provision forte weve of ie period commencing Seman,",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      38,
+      89,
+      320,
+      12
+    ],
+    "text": "Janu 1,200 and oping onthe dy amet cor ove",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      39,
+      101,
+      319,
+      20
+    ],
+    "text": "toi dat of conenesnen of tis A= son",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      54,
+      124,
+      297,
+      17
+    ],
+    "text": "(a) Any sums of money which have been expended mee",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      75,
+      139,
+      267,
+      13
+    ],
+    "text": "dting tat pec fom moneys allen by at ace che",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      75,
+      152,
+      267,
+      12
+    ],
+    "text": "Tesoiton ay Programme apering oar any ceeds",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      75,
+      164,
+      279,
+      16
+    ],
+    "text": "Head spociie inthe First Schedule to chm ase",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      75,
+      177,
+      248,
+      13
+    ],
+    "text": "reslton al be deemed. oral purposes, cto FESS",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      75,
+      189,
+      210,
+      12
+    ],
+    "text": "fave been expended wader te abort that",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      75,
+      202,
+      210,
+      11
+    ],
+    "text": "resolution but to have Been erpended dor the",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      75,
+      214,
+      85,
+      10
+    ],
+    "text": "uteri oF Wis At,",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      53,
+      239,
+      232,
+      10
+    ],
+    "text": "() Any moneys 20 allocated which have not been",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      74,
+      252,
+      210,
+      11
+    ],
+    "text": "pended othe dy indiely pc othe ae",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      74,
+      264,
+      211,
+      11
+    ],
+    "text": "fof eonmencene if tie Act shal be deme for",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      74,
+      277,
+      210,
+      12
+    ],
+    "text": "Slyurposs, tobe aloes inthe nosey aocted",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      74,
+      290,
+      211,
+      11
+    ],
+    "text": "tothe coreipening eogramine appearing under",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      74,
+      302,
+      182,
+      10
+    ],
+    "text": "fe comesponding Head der hs At and",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      53,
+      327,
+      231,
+      10
+    ],
+    "text": "te) Any sims paid by way of advances, out othe",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      74,
+      339,
+      210,
+      12
+    ],
+    "text": "Consoidaed Fund uo he period cosencing",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      74,
+      351,
+      210,
+      13
+    ],
+    "text": "os Janvary |, 200), a0d ending on tue dey",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      74,
+      364,
+      211,
+      10
+    ],
+    "text": "inmeinly pir othe dt of commencement of",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      74,
+      376,
+      210,
+      12
+    ],
+    "text": "thst inept ofthe ace apie he",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      73,
+      389,
+      210,
+      11
+    ],
+    "text": "Seren Sched hal iluon, a be ened,",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      73,
+      401,
+      211,
+      11
+    ],
+    "text": "{oral poses, cottotare beens wvanced der",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      73,
+      414,
+      210,
+      10
+    ],
+    "text": "the eo oft rex a a ave beh 6",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      73,
+      427,
+      165,
+      11
+    ],
+    "text": "Sanco ude stot of ts Act,",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      48,
+      451,
+      295,
+      12
+    ],
+    "text": "18, IndecremorarynconinensyterwecotheSiahla Str teao",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      35,
+      463,
+      318,
+      17
+    ],
+    "text": "Tamil lento hs Act the Snel rsa previ, ot",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      51,
+      27,
+      229,
+      10
+    ],
+    "text": "orn",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      93,
+      132,
+      275,
+      39
+    ],
+    "text": "ie ii aga",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      91,
+      162,
+      276,
+      17
+    ],
+    "text": ": PR EEE:",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      71,
+      238,
+      6,
+      13
+    ],
+    "text": "i",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      51,
+      252,
+      26,
+      40
+    ],
+    "text": "1",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      51,
+      272,
+      91,
+      18
+    ],
+    "text": "z &",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      51,
+      275,
+      162,
+      53
+    ],
+    "text": "on",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      51,
+      328,
+      28,
+      18
+    ],
+    "text": "it",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      71,
+      347,
+      6,
+      16
+    ],
+    "text": "i",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      201,
+      370,
+      166,
+      24
+    ],
+    "text": "id Pid",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      203,
+      388,
+      164,
+      31
+    ],
+    "text": "a ot EPG Gg",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      201,
+      427,
+      166,
+      25
+    ],
+    "text": "ee pees s",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      122,
+      440,
+      235,
+      41
+    ],
+    "text": "ty lakh ow",
+    "mean_p_confidence": 0.07
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      134,
+      467,
+      233,
+      26
+    ],
+    "text": "Heda",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      122,
+      479,
+      247,
+      32
+    ],
+    "text": "FO RTEIBIEIE RE!",
+    "mean_p_confidence": -0.0
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      168,
+      513,
+      59,
+      9
+    ],
+    "text": "paee",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      69,
+      68,
+      310,
+      43
+    ],
+    "text": "Pibipeninad",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      69,
+      132,
+      310,
+      37
+    ],
+    "text": "PlEELQabae",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      118,
+      305,
+      158,
+      63
+    ],
+    "text": ", ot",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      55,
+      341,
+      320,
+      52
+    ],
+    "text": "Li if t teas q",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      55,
+      370,
+      320,
+      75
+    ],
+    "text": "PURSUE",
+    "mean_p_confidence": 0.07
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      54,
+      419,
+      321,
+      69
+    ],
+    "text": "peut here",
+    "mean_p_confidence": -0.0
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      54,
+      468,
+      322,
+      43
+    ],
+    "text": "IAHBE",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      53,
+      518,
+      310,
+      37
+    ],
+    "text": "bPhabaiaddl",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      17,
+      26,
+      229,
+      12
+    ],
+    "text": "Appt Ato. 3 of 001",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      17,
+      67,
+      309,
+      16
+    ],
+    "text": "Hoa agg i",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      17,
+      129,
+      375,
+      20
+    ],
+    "text": "Hoga ag og 3 :",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      15,
+      135,
+      320,
+      32
+    ],
+    "text": "Head agg a",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      25,
+      163,
+      310,
+      13
+    ],
+    "text": "i j aa b ce",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      268,
+      278,
+      7,
+      14
+    ],
+    "text": "E",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      74,
+      278,
+      210,
+      48
+    ],
+    "text": "ii i",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      48,
+      308,
+      236,
+      29
+    ],
+    "text": "ai 3 , 8",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      48,
+      335,
+      285,
+      11
+    ],
+    "text": "BG i ,",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      46,
+      332,
+      287,
+      47
+    ],
+    "text": "# i i daah El",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      57,
+      368,
+      182,
+      11
+    ],
+    "text": "ahs ad fh",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      45,
+      369,
+      287,
+      33
+    ],
+    "text": "Ped 2 HG iu H",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      45,
+      392,
+      287,
+      31
+    ],
+    "text": "Gul Ggiks u",
+    "mean_p_confidence": 0.09
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      45,
+      412,
+      287,
+      28
+    ],
+    "text": "fede d Hiulg Ht",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      47,
+      428,
+      342,
+      18
+    ],
+    "text": "haat aggegs BH ,",
+    "mean_p_confidence": 0.05
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      47,
+      440,
+      265,
+      18
+    ],
+    "text": "BR @ @os3 i g",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      45,
+      454,
+      287,
+      39
+    ],
+    "text": "figs dbs Si Ay Eri",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      45,
+      473,
+      343,
+      21
+    ],
+    "text": "PL PEP LELDEETE Bebe ade *",
+    "mean_p_confidence": 0.09
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      44,
+      479,
+      289,
+      32
+    ],
+    "text": "Gu Poon FP",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      44,
+      513,
+      104,
+      9
+    ],
+    "text": "oe | t",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      10,
+      519,
+      301,
+      19
+    ],
+    "text": "a, ii Rog dl el",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      10,
+      529,
+      301,
+      24
+    ],
+    "text": "! a5 fioqg2 it",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      153,
+      28,
+      228,
+      10
+    ],
+    "text": "epi et a bp :",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      71,
+      68,
+      306,
+      24
+    ],
+    "text": "PE gag gE",
+    "mean_p_confidence": 0.04
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      70,
+      128,
+      306,
+      24
+    ],
+    "text": "& 2 @ a2 2",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      70,
+      135,
+      306,
+      29
+    ],
+    "text": "gaa a: 3 feo",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      260,
+      276,
+      18,
+      27
+    ],
+    "text": "i",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      260,
+      299,
+      18,
+      25
+    ],
+    "text": "i?",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      69,
+      336,
+      164,
+      28
+    ],
+    "text": "piaiid ag",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      69,
+      361,
+      306,
+      30
+    ],
+    "text": "Prana Aa",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      69,
+      380,
+      306,
+      33
+    ],
+    "text": "pi) babe a",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      69,
+      397,
+      306,
+      35
+    ],
+    "text": "ea ateie. id]",
+    "mean_p_confidence": 0.05
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      69,
+      416,
+      306,
+      22
+    ],
+    "text": "$34 Fu GS Ssial",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      162,
+      426,
+      213,
+      20
+    ],
+    "text": "Puy FLEE",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      117,
+      437,
+      247,
+      22
+    ],
+    "text": "2p teu,",
+    "mean_p_confidence": -0.0
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      59,
+      449,
+      315,
+      35
+    ],
+    "text": "fy ds 35 hi 33 3s in S33",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      59,
+      473,
+      305,
+      18
+    ],
+    "text": "ged, Gh Gh Gh Ge G25) gabe",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      58,
+      528,
+      305,
+      31
+    ],
+    "text": "PirEp:i? ii i",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      185,
+      4,
+      81,
+      41
+    ],
+    "text": "set 0)",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      37,
+      6,
+      317,
+      100
+    ],
+    "text": "\" somite _",
+    "mean_p_confidence": 0.07
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      315,
+      132,
+      38,
+      23
+    ],
+    "text": "i",
+    "mean_p_confidence": 0.03
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      37,
+      129,
+      123,
+      50
+    ],
+    "text": "He i",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      36,
+      146,
+      18,
+      23
+    ],
+    "text": "ib",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      189,
+      275,
+      19,
+      22
+    ],
+    "text": "Hl",
+    "mean_p_confidence": 0.08
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      189,
+      290,
+      108,
+      60
+    ],
+    "text": "HH i",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      82,
+      274,
+      270,
+      129
+    ],
+    "text": "| 1",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      177,
+      370,
+      175,
+      61
+    ],
+    "text": ". tre Hl",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      244,
+      425,
+      108,
+      70
+    ],
+    "text": "L Hy",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      69,
+      409,
+      284,
+      114
+    ],
+    "text": "mi ny",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      68,
+      453,
+      271,
+      98
+    ],
+    "text": "thoi il HI",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      68,
+      465,
+      227,
+      86
+    ],
+    "text": ". fh Hod",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      118,
+      525,
+      26,
+      24
+    ],
+    "text": "fi",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      33,
+      524,
+      16,
+      18
+    ],
+    "text": "Es",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      140,
+      66,
+      221,
+      38
+    ],
+    "text": "Wad bid",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      140,
+      129,
+      221,
+      41
+    ],
+    "text": "MEE ddd",
+    "mean_p_confidence": 0.04
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      65,
+      272,
+      18,
+      19
+    ],
+    "text": "ua",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      65,
+      291,
+      17,
+      23
+    ],
+    "text": "ii",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      43,
+      284,
+      307,
+      62
+    ],
+    "text": "oy L,",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      43,
+      337,
+      319,
+      50
+    ],
+    "text": "Houde gtd",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      43,
+      363,
+      286,
+      48
+    ],
+    "text": "fon be",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      43,
+      394,
+      286,
+      52
+    ],
+    "text": "HOOUSUE",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      42,
+      426,
+      319,
+      51
+    ],
+    "text": "ih i. . ie Ht L ae z",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      42,
+      465,
+      320,
+      53
+    ],
+    "text": "BY CHET",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      17,
+      127,
+      283,
+      14
+    ],
+    "text": "ai 8 g",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      15,
+      128,
+      318,
+      36
+    ],
+    "text": "HE ai Bud",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      58,
+      271,
+      159,
+      30
+    ],
+    "text": "H i",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      58,
+      299,
+      159,
+      23
+    ],
+    "text": "a B",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      48,
+      330,
+      287,
+      34
+    ],
+    "text": "bono Pil",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      107,
+      352,
+      227,
+      17
+    ],
+    "text": "iE of i",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      48,
+      358,
+      286,
+      44
+    ],
+    "text": "Pot had",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      48,
+      384,
+      286,
+      28
+    ],
+    "text": "boubd ea",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      49,
+      406,
+      285,
+      17
+    ],
+    "text": "= fb qe ei fa ag",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      51,
+      418,
+      352,
+      19
+    ],
+    "text": "i VER gag ge HEOGE :",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      49,
+      431,
+      274,
+      23
+    ],
+    "text": "4 4b do Poa",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      49,
+      449,
+      354,
+      41
+    ],
+    "text": "IRE Wo .",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      49,
+      474,
+      255,
+      16
+    ],
+    "text": "au Bee ah",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      49,
+      470,
+      287,
+      35
+    ],
+    "text": "Gi Wud i Hy EE B",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      17,
+      507,
+      306,
+      29
+    ],
+    "text": "ls ig og S88 3",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      17,
+      527,
+      306,
+      19
+    ],
+    "text": "5 iii gia:",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      117,
+      62,
+      137,
+      29
+    ],
+    "text": "Hi of o#E",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      116,
+      125,
+      256,
+      30
+    ],
+    "text": "Hi a Ho",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      115,
+      153,
+      257,
+      17
+    ],
+    "text": "425 aE ge g",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      61,
+      268,
+      231,
+      25
+    ],
+    "text": "a3 i ay",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      60,
+      270,
+      139,
+      46
+    ],
+    "text": "ii Hog",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      124,
+      359,
+      245,
+      17
+    ],
+    "text": "_ : ei",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      49,
+      358,
+      320,
+      60
+    ],
+    "text": "fi, foots",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      49,
+      401,
+      320,
+      59
+    ],
+    "text": "tou: @ ' ad",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      48,
+      437,
+      311,
+      25
+    ],
+    "text": "ho Lod, Ld .t",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      48,
+      449,
+      320,
+      23
+    ],
+    "text": "Sin ie aa th dive",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      49,
+      462,
+      319,
+      22
+    ],
+    "text": "Ey HED SH) i SH",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      48,
+      448,
+      320,
+      57
+    ],
+    "text": "BB qe duu",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      87,
+      505,
+      271,
+      17
+    ],
+    "text": "he = i fag",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      137,
+      520,
+      221,
+      26
+    ],
+    "text": "re",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      16,
+      24,
+      230,
+      10
+    ],
+    "text": "renin. 01",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      15,
+      64,
+      386,
+      48
+    ],
+    "text": "oH HE",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      16,
+      127,
+      385,
+      41
+    ],
+    "text": "eo HEEE GE:",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      49,
+      268,
+      187,
+      24
+    ],
+    "text": "i '",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      49,
+      311,
+      244,
+      26
+    ],
+    "text": "ie Bog",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      49,
+      330,
+      244,
+      35
+    ],
+    "text": "i 3 j &",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      49,
+      342,
+      254,
+      43
+    ],
+    "text": "i tei di dk",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      51,
+      359,
+      289,
+      39
+    ],
+    "text": "Poiaqiha iy",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      107,
+      383,
+      233,
+      41
+    ],
+    "text": "Win aig",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      50,
+      397,
+      351,
+      46
+    ],
+    "text": "| Big ay do eid .",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      50,
+      435,
+      289,
+      29
+    ],
+    "text": "ho i.bki dh Lb",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      50,
+      461,
+      352,
+      23
+    ],
+    "text": "SGU MP .",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      50,
+      460,
+      292,
+      46
+    ],
+    "text": "HE FP",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      92,
+      507,
+      237,
+      19
+    ],
+    "text": "3s 3 5 8 aoa",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      18,
+      522,
+      311,
+      24
+    ],
+    "text": "Boo4iidd did",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      90,
+      61,
+      258,
+      51
+    ],
+    "text": "pipgpeyuys",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      90,
+      124,
+      257,
+      49
+    ],
+    "text": "PPh:",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      39,
+      268,
+      305,
+      53
+    ],
+    "text": "i |",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      196,
+      340,
+      96,
+      29
+    ],
+    "text": "toadlad",
+    "mean_p_confidence": 0.06
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      83,
+      345,
+      265,
+      59
+    ],
+    "text": "eer",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      29,
+      364,
+      319,
+      85
+    ],
+    "text": "LE He Halll",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      29,
+      421,
+      319,
+      55
+    ],
+    "text": "bop p te",
+    "mean_p_confidence": 0.0
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      29,
+      459,
+      321,
+      52
+    ],
+    "text": "PEE EEE",
+    "mean_p_confidence": 0.09
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      65,
+      510,
+      273,
+      33
+    ],
+    "text": "ibd bid ad",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      42,
+      20,
+      229,
+      11
+    ],
+    "text": "6 Aton et 8a",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      51,
+      61,
+      307,
+      19
+    ],
+    "text": "be eegeas 8",
+    "mean_p_confidence": -0.0
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      42,
+      120,
+      316,
+      24
+    ],
+    "text": "z 22@ 2286 & g&",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      285,
+      268,
+      17,
+      30
+    ],
+    "text": "a",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      285,
+      288,
+      17,
+      29
+    ],
+    "text": "HH",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      199,
+      339,
+      7,
+      25
+    ],
+    "text": "I",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      84,
+      361,
+      273,
+      25
+    ],
+    "text": "Pagel ty",
+    "mean_p_confidence": 0.03
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      111,
+      363,
+      246,
+      39
+    ],
+    "text": "aod 8 idl HE",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      74,
+      373,
+      284,
+      51
+    ],
+    "text": "ail Puna] Gh",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      72,
+      401,
+      286,
+      38
+    ],
+    "text": "He ae uy Bl",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      72,
+      425,
+      267,
+      27
+    ],
+    "text": "PeypgPPey Py F",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      73,
+      443,
+      284,
+      38
+    ],
+    "text": "Wahid dda",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      113,
+      467,
+      245,
+      17
+    ],
+    "text": "tH TATED ch",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      72,
+      460,
+      287,
+      42
+    ],
+    "text": "HBG lu",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      41,
+      505,
+      297,
+      25
+    ],
+    "text": "a2 EER EEE ae",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      41,
+      525,
+      297,
+      18
+    ],
+    "text": "BPPPPPP a 83",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      131,
+      0,
+      231,
+      39
+    ],
+    "text": "sey As a3 391",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      107,
+      62,
+      256,
+      15
+    ],
+    "text": "a2 02 8 Be & &",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      107,
+      76,
+      256,
+      35
+    ],
+    "text": "HEE GHEE?",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      117,
+      125,
+      221,
+      19
+    ],
+    "text": "gg 8 28 @ 8",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      107,
+      125,
+      257,
+      49
+    ],
+    "text": "LEE",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      63,
+      269,
+      153,
+      15
+    ],
+    "text": "3 zt",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      54,
+      270,
+      162,
+      48
+    ],
+    "text": "H i",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      119,
+      341,
+      59,
+      20
+    ],
+    "text": "Lid",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      108,
+      362,
+      152,
+      35
+    ],
+    "text": "fal i",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      109,
+      389,
+      256,
+      22
+    ],
+    "text": "bag jiped",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      108,
+      398,
+      257,
+      52
+    ],
+    "text": "HU Gage",
+    "mean_p_confidence": 0.06
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      44,
+      423,
+      321,
+      60
+    ],
+    "text": "ky Lak ta hhh",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      171,
+      459,
+      184,
+      22
+    ],
+    "text": "yb el gE EERE SLE EB ALE",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      44,
+      461,
+      322,
+      43
+    ],
+    "text": "a DHABI",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      83,
+      506,
+      272,
+      23
+    ],
+    "text": "ee Ry fe 3 238",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      81,
+      525,
+      274,
+      19
+    ],
+    "text": "gf ord aR Ra:",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      30,
+      19,
+      229,
+      12
+    ],
+    "text": "a erin $0",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      30,
+      61,
+      163,
+      16
+    ],
+    "text": "s 222 8 8",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      30,
+      60,
+      320,
+      36
+    ],
+    "text": "weaaddd Hi",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      41,
+      90,
+      309,
+      14
+    ],
+    "text": "B48 2 zOR",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      32,
+      123,
+      371,
+      21
+    ],
+    "text": "Hii ee",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      31,
+      125,
+      319,
+      42
+    ],
+    "text": "Hadad ul",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      239,
+      268,
+      18,
+      33
+    ],
+    "text": "u",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      239,
+      301,
+      18,
+      15
+    ],
+    "text": "ui",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      103,
+      317,
+      224,
+      34
+    ],
+    "text": "g a | g",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      132,
+      337,
+      221,
+      12
+    ],
+    "text": "i 4 a",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      104,
+      339,
+      249,
+      28
+    ],
+    "text": "Pho qQ ida",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      104,
+      361,
+      252,
+      30
+    ],
+    "text": "Bio og Go Fe",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      76,
+      383,
+      278,
+      37
+    ],
+    "text": "Pia wade",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      76,
+      400,
+      278,
+      40
+    ],
+    "text": "eiaias i TLE",
+    "mean_p_confidence": 0.09
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      67,
+      426,
+      277,
+      40
+    ],
+    "text": "Prone gh, ah!",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      68,
+      458,
+      287,
+      26
+    ],
+    "text": "RUE TL HL",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      68,
+      467,
+      289,
+      34
+    ],
+    "text": "Pua HP kad",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      68,
+      503,
+      277,
+      22
+    ],
+    "text": "BERR = beg",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      36,
+      519,
+      310,
+      25
+    ],
+    "text": "Riiadid $104",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      30,
+      19,
+      229,
+      12
+    ],
+    "text": "a Apron N58",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      30,
+      60,
+      319,
+      17
+    ],
+    "text": "> g 228 208",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      30,
+      63,
+      320,
+      34
+    ],
+    "text": "Hadad Ha",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      32,
+      123,
+      318,
+      15
+    ],
+    "text": "i g 2 ge",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      238,
+      268,
+      8,
+      14
+    ],
+    "text": "g",
+    "mean_p_confidence": 0.03
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      239,
+      268,
+      56,
+      51
+    ],
+    "text": "a",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      105,
+      320,
+      248,
+      29
+    ],
+    "text": "g a | g",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      103,
+      337,
+      250,
+      39
+    ],
+    "text": "Peo bd if",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      76,
+      368,
+      280,
+      40
+    ],
+    "text": "iifelid iad",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      96,
+      395,
+      258,
+      20
+    ],
+    "text": "hae i8 F aiks",
+    "mean_p_confidence": -0.0
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      67,
+      400,
+      287,
+      51
+    ],
+    "text": "pipe ij ipl",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      67,
+      435,
+      290,
+      50
+    ],
+    "text": "ul a inde q in aL",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      107,
+      467,
+      222,
+      14
+    ],
+    "text": "Bag te fe fsk git",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      68,
+      465,
+      288,
+      36
+    ],
+    "text": "PUD HP DEP B",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      275,
+      503,
+      5,
+      7
+    ],
+    "text": "i",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      96,
+      509,
+      249,
+      15
+    ],
+    "text": "ge $ = 8 gq",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      36,
+      512,
+      309,
+      32
+    ],
+    "text": "REE: gi",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      45,
+      60,
+      307,
+      43
+    ],
+    "text": "i HTP Wi",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      45,
+      123,
+      280,
+      39
+    ],
+    "text": "Po o8EE ws",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      234,
+      255,
+      166,
+      36
+    ],
+    "text": "8 a",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      75,
+      267,
+      176,
+      61
+    ],
+    "text": "Hl [8",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      34,
+      293,
+      317,
+      84
+    ],
+    "text": "uf Ll | Hu",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      34,
+      345,
+      319,
+      72
+    ],
+    "text": "at don hie",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      36,
+      403,
+      315,
+      45
+    ],
+    "text": "el err",
+    "mean_p_confidence": 0.06
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      34,
+      420,
+      317,
+      62
+    ],
+    "text": "7 ti ay ij uh i Hi",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      34,
+      460,
+      318,
+      42
+    ],
+    "text": "TPE HY an",
+    "mean_p_confidence": 0.09
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      33,
+      510,
+      308,
+      33
+    ],
+    "text": "PoaGgG obo",
+    "mean_p_confidence": 0.02
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      139,
+      270,
+      127,
+      28
+    ],
+    "text": "u i",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      68,
+      270,
+      207,
+      81
+    ],
+    "text": "12 4",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      68,
+      328,
+      288,
+      44
+    ],
+    "text": "His gi di",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      68,
+      359,
+      168,
+      26
+    ],
+    "text": "Hoaio ui:",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      68,
+      368,
+      286,
+      55
+    ],
+    "text": "Hil wag",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      69,
+      401,
+      286,
+      50
+    ],
+    "text": "bul ald gd",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      101,
+      443,
+      255,
+      42
+    ],
+    "text": "Rea ge",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      69,
+      470,
+      288,
+      44
+    ],
+    "text": "PP UEP",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      87,
+      66,
+      265,
+      44
+    ],
+    "text": "i Looe",
+    "mean_p_confidence": 0.03
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      88,
+      129,
+      265,
+      50
+    ],
+    "text": "TT",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      174,
+      273,
+      17,
+      19
+    ],
+    "text": "Hy",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      43,
+      274,
+      189,
+      64
+    ],
+    "text": "bony",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      165,
+      328,
+      67,
+      50
+    ],
+    "text": "iy",
+    "mean_p_confidence": 0.07
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      91,
+      364,
+      264,
+      44
+    ],
+    "text": "biel We tad",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      34,
+      386,
+      321,
+      103
+    ],
+    "text": "| agi BE gb",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      34,
+      445,
+      321,
+      37
+    ],
+    "text": "hain tl iin 5.",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      35,
+      462,
+      322,
+      62
+    ],
+    "text": "PI UHEHI",
+    "mean_p_confidence": 0.05
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      70,
+      516,
+      276,
+      33
+    ],
+    "text": "ai oGbbidi",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      57,
+      63,
+      317,
+      41
+    ],
+    "text": "q# EO RO BG",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      144,
+      98,
+      230,
+      14
+    ],
+    "text": "*y 5 we",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      57,
+      126,
+      317,
+      43
+    ],
+    "text": "i oF of Bi",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      98,
+      271,
+      228,
+      72
+    ],
+    "text": "Roda |",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      173,
+      329,
+      193,
+      46
+    ],
+    "text": "| til ilg",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      145,
+      358,
+      230,
+      43
+    ],
+    "text": "Ee ee",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      89,
+      376,
+      286,
+      70
+    ],
+    "text": "PE A A",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      89,
+      425,
+      286,
+      60
+    ],
+    "text": "ln, 1. th Jit iy hah",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      89,
+      463,
+      288,
+      51
+    ],
+    "text": "Pe RP",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      57,
+      513,
+      310,
+      33
+    ],
+    "text": "| ee",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      141,
+      0,
+      232,
+      42
+    ],
+    "text": "sown st i et 2",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      122,
+      64,
+      251,
+      13
+    ],
+    "text": "88 32 2 2962",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      122,
+      127,
+      249,
+      26
+    ],
+    "text": "Ho BEoog",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      122,
+      146,
+      222,
+      25
+    ],
+    "text": "ae 32 3 2",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      66,
+      270,
+      236,
+      38
+    ],
+    "text": "bod 4",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      66,
+      305,
+      268,
+      32
+    ],
+    "text": "* Hy",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      132,
+      325,
+      231,
+      29
+    ],
+    "text": "i : Gk",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      124,
+      346,
+      249,
+      36
+    ],
+    "text": "d ui Wh",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      122,
+      374,
+      251,
+      41
+    ],
+    "text": "Heo Gua une",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      54,
+      395,
+      319,
+      48
+    ],
+    "text": "doa GH all",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      54,
+      429,
+      319,
+      57
+    ],
+    "text": "bata a Gi i th Lan",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      56,
+      468,
+      246,
+      14
+    ],
+    "text": "EEE i g88 285 i ges Se Ege",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      54,
+      464,
+      321,
+      41
+    ],
+    "text": "POWDER aH",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      99,
+      507,
+      235,
+      19
+    ],
+    "text": "Be bea te",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      97,
+      527,
+      237,
+      19
+    ],
+    "text": "if Hoa a",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      27,
+      24,
+      229,
+      11
+    ],
+    "text": "1 Appin e328",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      28,
+      66,
+      318,
+      26
+    ],
+    "text": "i seg gf i",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      28,
+      66,
+      318,
+      41
+    ],
+    "text": "en coe 2",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      30,
+      129,
+      316,
+      20
+    ],
+    "text": "ue eg gE qe",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      28,
+      143,
+      319,
+      27
+    ],
+    "text": "if Baba ui og",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      77,
+      272,
+      185,
+      24
+    ],
+    "text": "i u",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      67,
+      274,
+      196,
+      41
+    ],
+    "text": "i av",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      132,
+      344,
+      187,
+      17
+    ],
+    "text": "a4 2&8 i",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      122,
+      344,
+      228,
+      50
+    ],
+    "text": "fiil it",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      131,
+      376,
+      217,
+      18
+    ],
+    "text": "a5 EGF es 2",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      60,
+      378,
+      288,
+      48
+    ],
+    "text": "; fadkl dag",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      58,
+      409,
+      290,
+      43
+    ],
+    "text": "i Rad wil",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      58,
+      435,
+      291,
+      53
+    ],
+    "text": "eT Wi in tai",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      65,
+      473,
+      284,
+      15
+    ],
+    "text": "Ana :",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      58,
+      470,
+      292,
+      38
+    ],
+    "text": "POH Gn",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      30,
+      509,
+      307,
+      27
+    ],
+    "text": "s fe 8 3408",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      30,
+      528,
+      307,
+      19
+    ],
+    "text": "hog; bra dng",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      144,
+      21,
+      227,
+      10
+    ],
+    "text": "sree Ne Se =",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      122,
+      61,
+      244,
+      29
+    ],
+    "text": "iff bREY",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      122,
+      84,
+      243,
+      20
+    ],
+    "text": "BRE 2b oR EE",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      51,
+      223,
+      66,
+      25
+    ],
+    "text": "ig",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      51,
+      244,
+      66,
+      9
+    ],
+    "text": "io:",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      111,
+      252,
+      6,
+      16
+    ],
+    "text": "i",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      51,
+      255,
+      176,
+      47
+    ],
+    "text": "hin",
+    "mean_p_confidence": 0.08
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      51,
+      297,
+      175,
+      31
+    ],
+    "text": "i 4 ae",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      51,
+      326,
+      313,
+      62
+    ],
+    "text": "i i i j",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      51,
+      361,
+      313,
+      30
+    ],
+    "text": "7 od Piiig",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      51,
+      377,
+      313,
+      47
+    ],
+    "text": "; filo ddl",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      51,
+      415,
+      313,
+      59
+    ],
+    "text": "i ep ay bite",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      63,
+      440,
+      221,
+      32
+    ],
+    "text": "hobbh tii:hiki",
+    "mean_p_confidence": 0.09
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      51,
+      456,
+      313,
+      26
+    ],
+    "text": "HUT UP",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      50,
+      458,
+      315,
+      44
+    ],
+    "text": "ars Busted",
+    "mean_p_confidence": 0.03
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      93,
+      504,
+      260,
+      22
+    ],
+    "text": "tags gfe gs",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      93,
+      524,
+      260,
+      20
+    ],
+    "text": "iiad P)aai",
+    "mean_p_confidence": 0.05
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      35,
+      27,
+      229,
+      10
+    ],
+    "text": "* areas 108",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      48,
+      129,
+      306,
+      18
+    ],
+    "text": "2 2 & Eee 4 8",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      105,
+      357,
+      253,
+      57
+    ],
+    "text": "2) GGUHENHEE",
+    "mean_p_confidence": 0.02
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      71,
+      392,
+      287,
+      28
+    ],
+    "text": "Ha dtipdddadag",
+    "mean_p_confidence": 0.04
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      71,
+      410,
+      288,
+      45
+    ],
+    "text": "BL Hipp ees kes",
+    "mean_p_confidence": 0.09
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      96,
+      441,
+      254,
+      20
+    ],
+    "text": "PEGE Lyy",
+    "mean_p_confidence": 0.03
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      71,
+      442,
+      288,
+      54
+    ],
+    "text": "EE",
+    "mean_p_confidence": 0.09
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      72,
+      468,
+      288,
+      39
+    ],
+    "text": "7H DPRUHHHERE",
+    "mean_p_confidence": 0.04
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      41,
+      517,
+      309,
+      19
+    ],
+    "text": "ze 22 2 $2253 8 Ge GE",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      41,
+      531,
+      310,
+      19
+    ],
+    "text": "BESdLLPLPPaS EG",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      54,
+      57,
+      313,
+      48
+    ],
+    "text": "TT a",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      54,
+      120,
+      313,
+      42
+    ],
+    "text": "HHL Bd",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      216,
+      264,
+      180,
+      23
+    ],
+    "text": "i i .",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      216,
+      264,
+      104,
+      58
+    ],
+    "text": "i F",
+    "mean_p_confidence": 0.02
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      56,
+      338,
+      312,
+      56
+    ],
+    "text": "riidigy oh dd",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      98,
+      378,
+      269,
+      26
+    ],
+    "text": "ida 1 oii",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      46,
+      431,
+      236,
+      49
+    ],
+    "text": "Hse ti",
+    "mean_p_confidence": 0.08
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      46,
+      456,
+      323,
+      52
+    ],
+    "text": "TU meta mee",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      46,
+      506,
+      301,
+      14
+    ],
+    "text": "aes88 38 ae Fe}",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      46,
+      520,
+      301,
+      19
+    ],
+    "text": "PPgPLREE at id",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      35,
+      57,
+      287,
+      47
+    ],
+    "text": "ee",
+    "mean_p_confidence": 0.07
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      35,
+      119,
+      320,
+      44
+    ],
+    "text": "hi oo ot",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      129,
+      264,
+      136,
+      42
+    ],
+    "text": "bod",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      198,
+      322,
+      158,
+      27
+    ],
+    "text": "i i",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      80,
+      335,
+      277,
+      52
+    ],
+    "text": "Pog gl",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      198,
+      367,
+      158,
+      33
+    ],
+    "text": "Py ld",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      68,
+      358,
+      288,
+      104
+    ],
+    "text": "Ay ht",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      68,
+      437,
+      288,
+      31
+    ],
+    "text": "So dtd: Yael hs",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      68,
+      450,
+      290,
+      58
+    ],
+    "text": "HOPE Gn",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      36,
+      506,
+      308,
+      33
+    ],
+    "text": "BPO iii",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      147,
+      9,
+      227,
+      16
+    ],
+    "text": "Appmpriin A Bon 3 of 2004",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      148,
+      55,
+      226,
+      35
+    ],
+    "text": "id Hoe",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      148,
+      146,
+      225,
+      15
+    ],
+    "text": "Bo@ Be 8",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      92,
+      263,
+      8,
+      19
+    ],
+    "text": "g",
+    "mean_p_confidence": 0.02
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      81,
+      262,
+      165,
+      48
+    ],
+    "text": "Hl i",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      57,
+      310,
+      7,
+      9
+    ],
+    "text": "1",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      57,
+      320,
+      281,
+      37
+    ],
+    "text": "foro a",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      57,
+      346,
+      317,
+      41
+    ],
+    "text": "f fii, Qa",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      57,
+      367,
+      318,
+      50
+    ],
+    "text": "Hod daa",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      57,
+      401,
+      318,
+      32
+    ],
+    "text": "i wig piu",
+    "mean_p_confidence": 0.07
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      58,
+      418,
+      317,
+      60
+    ],
+    "text": "fd Undid a",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      0,
+      455,
+      375,
+      24
+    ],
+    "text": "BBL E HEGEL",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      58,
+      455,
+      281,
+      43
+    ],
+    "text": "HLoP Paid",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      110,
+      498,
+      254,
+      20
+    ],
+    "text": "ef og Fe og &",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      111,
+      519,
+      253,
+      19
+    ],
+    "text": "fad $2003 3",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      25,
+      52,
+      321,
+      41
+    ],
+    "text": "Hel uj EH",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      26,
+      115,
+      321,
+      40
+    ],
+    "text": "Hef i i\"",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      113,
+      259,
+      173,
+      42
+    ],
+    "text": "i He",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      191,
+      317,
+      44,
+      27
+    ],
+    "text": "Ld",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      71,
+      337,
+      264,
+      50
+    ],
+    "text": "j aE | 1",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      71,
+      352,
+      276,
+      44
+    ],
+    "text": "iy Gh ii ai",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      59,
+      380,
+      288,
+      54
+    ],
+    "text": "i; Wid ql",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      101,
+      427,
+      246,
+      34
+    ],
+    "text": "fe dt dae te Ets big",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      60,
+      451,
+      289,
+      42
+    ],
+    "text": "HOPS Pa",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      27,
+      502,
+      195,
+      32
+    ],
+    "text": "ME OH OH",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      134,
+      17,
+      226,
+      11
+    ],
+    "text": "gia to. $f 20 s",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      135,
+      88,
+      224,
+      18
+    ],
+    "text": "5ag . 3",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      135,
+      122,
+      224,
+      15
+    ],
+    "text": "ERE z aa",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      135,
+      136,
+      225,
+      28
+    ],
+    "text": "gn i a",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      44,
+      265,
+      260,
+      32
+    ],
+    "text": "ii, Ho",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      43,
+      293,
+      260,
+      17
+    ],
+    "text": "PSE 3 aa ag",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      44,
+      308,
+      74,
+      13
+    ],
+    "text": "BTR eg",
+    "mean_p_confidence": 0.05
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      43,
+      319,
+      237,
+      32
+    ],
+    "text": "i ! ii ;",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      43,
+      341,
+      317,
+      41
+    ],
+    "text": "A oid it ody",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      44,
+      368,
+      316,
+      29
+    ],
+    "text": "fi 0 ayiee f iy",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      44,
+      382,
+      316,
+      42
+    ],
+    "text": "Poa) ba da",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      45,
+      410,
+      316,
+      25
+    ],
+    "text": "ee Cr ee",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      44,
+      425,
+      294,
+      31
+    ],
+    "text": "oH, od, fa, 7",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      44,
+      443,
+      317,
+      42
+    ],
+    "text": "shine WH An L i oH L Wi",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      55,
+      466,
+      266,
+      16
+    ],
+    "text": "sdb pace i gad 2",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      44,
+      467,
+      319,
+      34
+    ],
+    "text": "iby Phan gaat",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      96,
+      501,
+      242,
+      25
+    ],
+    "text": "Pe 3G He",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      96,
+      522,
+      242,
+      19
+    ],
+    "text": "il vi i",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      30,
+      16,
+      230,
+      10
+    ],
+    "text": "3 Aroeriion es, #204",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      30,
+      57,
+      321,
+      20
+    ],
+    "text": "ab gig a2",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      30,
+      57,
+      320,
+      41
+    ],
+    "text": "Wel ad i",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      112,
+      263,
+      160,
+      15
+    ],
+    "text": "H ge",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      112,
+      264,
+      172,
+      38
+    ],
+    "text": "Hoya",
+    "mean_p_confidence": 0.01
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      112,
+      294,
+      204,
+      34
+    ],
+    "text": "EES H FRE",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      74,
+      349,
+      277,
+      33
+    ],
+    "text": "rio 6 BEE ig",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      63,
+      369,
+      290,
+      31
+    ],
+    "text": "Hi elapqio Ge",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      63,
+      389,
+      288,
+      22
+    ],
+    "text": "Hd pag, ab ands",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      63,
+      402,
+      288,
+      34
+    ],
+    "text": "Bo aebudp yyy",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      63,
+      420,
+      265,
+      24
+    ],
+    "text": "3 7 rf qa gE",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      63,
+      428,
+      288,
+      51
+    ],
+    "text": "- by Mag ah iy",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      63,
+      461,
+      290,
+      38
+    ],
+    "text": "sieat ee mati",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      31,
+      500,
+      286,
+      20
+    ],
+    "text": "we tz 8 TE",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      63,
+      520,
+      254,
+      18
+    ],
+    "text": "By g2 004 ii",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      0,
+      122,
+      63,
+      38
+    ],
+    "text": "ot",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      42,
+      324,
+      19,
+      28
+    ],
+    "text": "i,",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      42,
+      348,
+      19,
+      51
+    ],
+    "text": ":",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      42,
+      392,
+      18,
+      46
+    ],
+    "text": "H",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      41,
+      459,
+      20,
+      38
+    ],
+    "text": "iH",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      40,
+      510,
+      7,
+      11
+    ],
+    "text": "&",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      40,
+      524,
+      7,
+      16
+    ],
+    "text": "i",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 36,
+    "bbox": [
+      39,
+      13,
+      228,
+      21
+    ],
+    "text": "we Appingriation Aer, Ho. dof 200",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 36,
+    "bbox": [
+      93,
+      104,
+      256,
+      24
+    ],
+    "text": "pigi gid dpi ni",
+    "mean_p_confidence": 0.08
+  },
+  {
+    "page_number": 36,
+    "bbox": [
+      81,
+      105,
+      269,
+      50
+    ],
+    "text": "HETIL]",
+    "mean_p_confidence": 0.07
+  },
+  {
+    "page_number": 36,
+    "bbox": [
+      93,
+      157,
+      257,
+      16
+    ],
+    "text": "gee. $3 ga 2 2",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 36,
+    "bbox": [
+      82,
+      158,
+      268,
+      42
+    ],
+    "text": "HRP EHD EG |",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 36,
+    "bbox": [
+      42,
+      193,
+      197,
+      18
+    ],
+    "text": ": 3",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 36,
+    "bbox": [
+      42,
+      205,
+      308,
+      17
+    ],
+    "text": "gi ogeigi g982 2 48 2 8",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 36,
+    "bbox": [
+      42,
+      218,
+      308,
+      14
+    ],
+    "text": "ge a H",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 36,
+    "bbox": [
+      42,
+      208,
+      308,
+      55
+    ],
+    "text": "GC HHE madd",
+    "mean_p_confidence": 0.05
+  },
+  {
+    "page_number": 36,
+    "bbox": [
+      43,
+      264,
+      308,
+      34
+    ],
+    "text": "i } aise 2 EE E82",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 36,
+    "bbox": [
+      43,
+      277,
+      308,
+      36
+    ],
+    "text": "Ce UC ernee",
+    "mean_p_confidence": 0.05
+  },
+  {
+    "page_number": 36,
+    "bbox": [
+      96,
+      332,
+      255,
+      20
+    ],
+    "text": "gteg aa",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 36,
+    "bbox": [
+      94,
+      338,
+      258,
+      36
+    ],
+    "text": "PO Gadd",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 36,
+    "bbox": [
+      95,
+      383,
+      258,
+      22
+    ],
+    "text": "oO HRE EGP EEE",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 36,
+    "bbox": [
+      96,
+      419,
+      257,
+      24
+    ],
+    "text": "; i 3 toy 2hE",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 36,
+    "bbox": [
+      96,
+      428,
+      257,
+      42
+    ],
+    "text": "1 Guiaind",
+    "mean_p_confidence": 0.02
+  },
+  {
+    "page_number": 36,
+    "bbox": [
+      96,
+      461,
+      270,
+      35
+    ],
+    "text": "i Pag ibabatalag",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 36,
+    "bbox": [
+      177,
+      477,
+      189,
+      28
+    ],
+    "text": "Piycase TGR",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 36,
+    "bbox": [
+      96,
+      492,
+      270,
+      23
+    ],
+    "text": ": SESS UL AgP ates",
+    "mean_p_confidence": 0.07
+  },
+  {
+    "page_number": 36,
+    "bbox": [
+      96,
+      519,
+      258,
+      16
+    ],
+    "text": "ag anaes oer ne 8",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 37,
+    "bbox": [
+      69,
+      105,
+      270,
+      15
+    ],
+    "text": "Bee @ 6 2 2 gee",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 37,
+    "bbox": [
+      46,
+      106,
+      293,
+      34
+    ],
+    "text": "PRD GHD bb aaa",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 37,
+    "bbox": [
+      47,
+      158,
+      293,
+      16
+    ],
+    "text": "2 282 222 g&",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 37,
+    "bbox": [
+      47,
+      159,
+      293,
+      35
+    ],
+    "text": "re cee",
+    "mean_p_confidence": 0.08
+  },
+  {
+    "page_number": 37,
+    "bbox": [
+      48,
+      208,
+      293,
+      17
+    ],
+    "text": "BE RlE 2282 EEE",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 37,
+    "bbox": [
+      48,
+      216,
+      293,
+      31
+    ],
+    "text": "Gu GaP Ee Eg fae",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 37,
+    "bbox": [
+      50,
+      265,
+      291,
+      27
+    ],
+    "text": "g e8h F SER 8 i BG",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 37,
+    "bbox": [
+      48,
+      277,
+      293,
+      36
+    ],
+    "text": "bub bed wiad",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 37,
+    "bbox": [
+      48,
+      306,
+      293,
+      24
+    ],
+    "text": "$0) 8a) 2 P iaid",
+    "mean_p_confidence": 0.06
+  },
+  {
+    "page_number": 37,
+    "bbox": [
+      50,
+      329,
+      291,
+      31
+    ],
+    "text": "jai ible; dread",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 37,
+    "bbox": [
+      48,
+      341,
+      293,
+      32
+    ],
+    "text": "PHP Gu) bouadd",
+    "mean_p_confidence": -0.0
+  },
+  {
+    "page_number": 37,
+    "bbox": [
+      75,
+      420,
+      278,
+      23
+    ],
+    "text": "Hi aiid",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 37,
+    "bbox": [
+      49,
+      434,
+      305,
+      20
+    ],
+    "text": "adil? th dan",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 37,
+    "bbox": [
+      0,
+      433,
+      320,
+      52
+    ],
+    "text": "WL HEE",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 37,
+    "bbox": [
+      51,
+      470,
+      269,
+      24
+    ],
+    "text": "HUET E TEL",
+    "mean_p_confidence": 0.04
+  },
+  {
+    "page_number": 37,
+    "bbox": [
+      50,
+      469,
+      316,
+      48
+    ],
+    "text": "PSU",
+    "mean_p_confidence": 0.06
+  },
+  {
+    "page_number": 38,
+    "bbox": [
+      41,
+      16,
+      228,
+      12
+    ],
+    "text": "Arena i ef 81",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 38,
+    "bbox": [
+      42,
+      62,
+      284,
+      42
+    ],
+    "text": "Libs boli th oat",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 38,
+    "bbox": [
+      63,
+      104,
+      288,
+      18
+    ],
+    "text": "sigz g8 22 2: 222 8 8",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 38,
+    "bbox": [
+      63,
+      107,
+      218,
+      23
+    ],
+    "text": "vast, G22 it",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 38,
+    "bbox": [
+      43,
+      114,
+      286,
+      41
+    ],
+    "text": "RR Hp ad",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 38,
+    "bbox": [
+      55,
+      157,
+      298,
+      26
+    ],
+    "text": "pull G22 PL Gh G22 85",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 38,
+    "bbox": [
+      44,
+      157,
+      309,
+      43
+    ],
+    "text": "BGG WEEE",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 38,
+    "bbox": [
+      45,
+      207,
+      308,
+      26
+    ],
+    "text": "gi, 2p G2 Gb ae gb",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 38,
+    "bbox": [
+      54,
+      208,
+      300,
+      46
+    ],
+    "text": "We PGE)",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 38,
+    "bbox": [
+      195,
+      276,
+      159,
+      15
+    ],
+    "text": "tee 3G, , FF G2 2",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 38,
+    "bbox": [
+      57,
+      277,
+      297,
+      40
+    ],
+    "text": "[| Hela bebe",
+    "mean_p_confidence": 0.06
+  },
+  {
+    "page_number": 38,
+    "bbox": [
+      46,
+      306,
+      309,
+      37
+    ],
+    "text": "4 Hae a ae",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 38,
+    "bbox": [
+      57,
+      329,
+      298,
+      26
+    ],
+    "text": "; SHLSEadai Goa]",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 38,
+    "bbox": [
+      135,
+      335,
+      221,
+      37
+    ],
+    "text": "| TREO EE)",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 38,
+    "bbox": [
+      280,
+      413,
+      90,
+      20
+    ],
+    "text": "ai oas",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 38,
+    "bbox": [
+      59,
+      431,
+      309,
+      29
+    ],
+    "text": "H goaagli",
+    "mean_p_confidence": -0.0
+  },
+  {
+    "page_number": 38,
+    "bbox": [
+      136,
+      449,
+      232,
+      18
+    ],
+    "text": "gd... FE 2is8 & a5",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 38,
+    "bbox": [
+      57,
+      446,
+      311,
+      50
+    ],
+    "text": "(oln peepee",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 38,
+    "bbox": [
+      60,
+      482,
+      309,
+      17
+    ],
+    "text": "i iag aq th",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 38,
+    "bbox": [
+      58,
+      480,
+      311,
+      36
+    ],
+    "text": "PO} ETDS",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 39,
+    "bbox": [
+      135,
+      18,
+      137,
+      10
+    ],
+    "text": "prion eof 201 x",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 39,
+    "bbox": [
+      45,
+      106,
+      337,
+      22
+    ],
+    "text": "22 8 2 4395 22 48",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 39,
+    "bbox": [
+      45,
+      108,
+      296,
+      38
+    ],
+    "text": "Hid: Gaal",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 39,
+    "bbox": [
+      46,
+      159,
+      319,
+      14
+    ],
+    "text": "gi 2 $= g EEE",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 39,
+    "bbox": [
+      45,
+      160,
+      320,
+      34
+    ],
+    "text": "Ha od} GHibedd",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 39,
+    "bbox": [
+      46,
+      209,
+      319,
+      15
+    ],
+    "text": "a & 2 @ = 8",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 39,
+    "bbox": [
+      46,
+      210,
+      320,
+      34
+    ],
+    "text": "He GP Gubiaad",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 39,
+    "bbox": [
+      46,
+      278,
+      320,
+      28
+    ],
+    "text": "Hioiy ifiedad",
+    "mean_p_confidence": 0.01
+  },
+  {
+    "page_number": 39,
+    "bbox": [
+      47,
+      308,
+      294,
+      22
+    ],
+    "text": "a oid dag",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 39,
+    "bbox": [
+      47,
+      340,
+      320,
+      33
+    ],
+    "text": "Hedi fepbaal",
+    "mean_p_confidence": 0.08
+  },
+  {
+    "page_number": 39,
+    "bbox": [
+      49,
+      410,
+      318,
+      36
+    ],
+    "text": "s, 2d pil sdid",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 39,
+    "bbox": [
+      61,
+      434,
+      281,
+      12
+    ],
+    "text": "gezhe 38 Ba",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 39,
+    "bbox": [
+      47,
+      434,
+      320,
+      44
+    ],
+    "text": "i HEbiHin Gigi",
+    "mean_p_confidence": 0.03
+  },
+  {
+    "page_number": 39,
+    "bbox": [
+      48,
+      459,
+      320,
+      25
+    ],
+    "text": "EGgSEs Faeveidsdacd S255i52",
+    "mean_p_confidence": -0.0
+  },
+  {
+    "page_number": 39,
+    "bbox": [
+      48,
+      470,
+      320,
+      38
+    ],
+    "text": "FLUE",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 39,
+    "bbox": [
+      48,
+      489,
+      321,
+      28
+    ],
+    "text": "FEES SS Eg)",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 40,
+    "bbox": [
+      31,
+      17,
+      228,
+      11
+    ],
+    "text": "* rin et $04",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 40,
+    "bbox": [
+      33,
+      66,
+      278,
+      42
+    ],
+    "text": "Tae 1 betta",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 40,
+    "bbox": [
+      53,
+      105,
+      297,
+      23
+    ],
+    "text": "vi,gy 2ff gg 4g 222 OE",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 40,
+    "bbox": [
+      54,
+      158,
+      296,
+      18
+    ],
+    "text": "wate 288 ge 2 8 @",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 40,
+    "bbox": [
+      33,
+      159,
+      282,
+      43
+    ],
+    "text": "HIGH HE?",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 40,
+    "bbox": [
+      34,
+      205,
+      316,
+      26
+    ],
+    "text": "feb, ge ge f6q 0 3",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 40,
+    "bbox": [
+      166,
+      261,
+      40,
+      15
+    ],
+    "text": "ate",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 40,
+    "bbox": [
+      46,
+      270,
+      269,
+      19
+    ],
+    "text": "i pdivd og ge pee",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 40,
+    "bbox": [
+      123,
+      276,
+      229,
+      37
+    ],
+    "text": "| Wale |",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 40,
+    "bbox": [
+      35,
+      307,
+      317,
+      26
+    ],
+    "text": "3 HEMI a a 3",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 40,
+    "bbox": [
+      45,
+      325,
+      308,
+      35
+    ],
+    "text": "; HIBS Wa |",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 40,
+    "bbox": [
+      123,
+      344,
+      230,
+      29
+    ],
+    "text": "Po Fee ug",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 40,
+    "bbox": [
+      137,
+      413,
+      182,
+      26
+    ],
+    "text": "int : :",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 40,
+    "bbox": [
+      47,
+      455,
+      307,
+      44
+    ],
+    "text": "t cd nha:",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 40,
+    "bbox": [
+      48,
+      479,
+      306,
+      15
+    ],
+    "text": "; Vii Eitteibzaad",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 40,
+    "bbox": [
+      47,
+      477,
+      309,
+      40
+    ],
+    "text": "PEW MU]",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 41,
+    "bbox": [
+      141,
+      15,
+      229,
+      11
+    ],
+    "text": "Appraise No. 1682001",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 41,
+    "bbox": [
+      57,
+      72,
+      296,
+      10
+    ],
+    "text": "a es",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 41,
+    "bbox": [
+      93,
+      104,
+      249,
+      18
+    ],
+    "text": ": 1 88 g =",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 41,
+    "bbox": [
+      53,
+      104,
+      303,
+      39
+    ],
+    "text": "mec PP EPH",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 41,
+    "bbox": [
+      54,
+      157,
+      302,
+      17
+    ],
+    "text": "ge @ $e 2 29 8 8",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 41,
+    "bbox": [
+      54,
+      157,
+      302,
+      39
+    ],
+    "text": "HEllib Glau",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 41,
+    "bbox": [
+      54,
+      207,
+      302,
+      17
+    ],
+    "text": "2 2 8 Be ag 8 8",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 41,
+    "bbox": [
+      54,
+      208,
+      302,
+      38
+    ],
+    "text": "ada aaabid",
+    "mean_p_confidence": -0.0
+  },
+  {
+    "page_number": 41,
+    "bbox": [
+      56,
+      262,
+      312,
+      27
+    ],
+    "text": "Be j te ,Fk gE # ist",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 41,
+    "bbox": [
+      54,
+      277,
+      314,
+      36
+    ],
+    "text": "Hileig aids",
+    "mean_p_confidence": -0.0
+  },
+  {
+    "page_number": 41,
+    "bbox": [
+      54,
+      302,
+      314,
+      40
+    ],
+    "text": "Hlnig B22 0ig dB",
+    "mean_p_confidence": 0.04
+  },
+  {
+    "page_number": 41,
+    "bbox": [
+      55,
+      326,
+      313,
+      34
+    ],
+    "text": "MH | Gad",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 41,
+    "bbox": [
+      54,
+      341,
+      314,
+      31
+    ],
+    "text": "PND DE) Pt ban",
+    "mean_p_confidence": 0.06
+  },
+  {
+    "page_number": 41,
+    "bbox": [
+      339,
+      410,
+      17,
+      8
+    ],
+    "text": ".",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 41,
+    "bbox": [
+      165,
+      427,
+      191,
+      21
+    ],
+    "text": "ais 3s fg fd",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 41,
+    "bbox": [
+      56,
+      473,
+      300,
+      21
+    ],
+    "text": "bab bd Pyebbegtpeilingl",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 41,
+    "bbox": [
+      56,
+      482,
+      303,
+      32
+    ],
+    "text": "ELE pageby",
+    "mean_p_confidence": -0.0
+  },
+  {
+    "page_number": 42,
+    "bbox": [
+      35,
+      15,
+      228,
+      10
+    ],
+    "text": "Arps hn 39204",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 42,
+    "bbox": [
+      36,
+      103,
+      300,
+      36
+    ],
+    "text": "ugh) Gila",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 42,
+    "bbox": [
+      36,
+      103,
+      300,
+      44
+    ],
+    "text": "Held HU DUN",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 42,
+    "bbox": [
+      49,
+      156,
+      287,
+      15
+    ],
+    "text": "nee.7h 22 Ba G2 288",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 42,
+    "bbox": [
+      37,
+      157,
+      299,
+      40
+    ],
+    "text": "He, DTH",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 42,
+    "bbox": [
+      50,
+      205,
+      287,
+      22
+    ],
+    "text": "prl.gi, #2 22 2 & 2 228",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 42,
+    "bbox": [
+      38,
+      216,
+      300,
+      33
+    ],
+    "text": "CHE HE EGE",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 42,
+    "bbox": [
+      151,
+      258,
+      151,
+      26
+    ],
+    "text": "Wy ei",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 42,
+    "bbox": [
+      50,
+      275,
+      288,
+      16
+    ],
+    "text": "i ae Ee 8 2 bteeaE",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 42,
+    "bbox": [
+      50,
+      276,
+      288,
+      37
+    ],
+    "text": "ee aeen",
+    "mean_p_confidence": -0.0
+  },
+  {
+    "page_number": 42,
+    "bbox": [
+      39,
+      302,
+      299,
+      35
+    ],
+    "text": "1 VEEP PTB",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 42,
+    "bbox": [
+      49,
+      328,
+      289,
+      34
+    ],
+    "text": "| UHR",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 42,
+    "bbox": [
+      46,
+      348,
+      292,
+      33
+    ],
+    "text": "Fl qecthig gg ggtaaa",
+    "mean_p_confidence": 0.08
+  },
+  {
+    "page_number": 42,
+    "bbox": [
+      129,
+      411,
+      210,
+      16
+    ],
+    "text": "ft tog 3",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 42,
+    "bbox": [
+      51,
+      425,
+      288,
+      21
+    ],
+    "text": ": fede bg fh ek",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 42,
+    "bbox": [
+      52,
+      435,
+      287,
+      27
+    ],
+    "text": ": oP adiail",
+    "mean_p_confidence": -0.0
+  },
+  {
+    "page_number": 42,
+    "bbox": [
+      50,
+      452,
+      289,
+      39
+    ],
+    "text": "boo badd lh,",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 43,
+    "bbox": [
+      55,
+      105,
+      305,
+      43
+    ],
+    "text": "PG HAWG",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 43,
+    "bbox": [
+      54,
+      158,
+      305,
+      39
+    ],
+    "text": "PEE HAHN",
+    "mean_p_confidence": 0.08
+  },
+  {
+    "page_number": 43,
+    "bbox": [
+      54,
+      208,
+      306,
+      42
+    ],
+    "text": "PERT GH",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 43,
+    "bbox": [
+      53,
+      262,
+      305,
+      52
+    ],
+    "text": "{HE El Wu",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 43,
+    "bbox": [
+      53,
+      304,
+      305,
+      41
+    ],
+    "text": "Piha an",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 43,
+    "bbox": [
+      52,
+      337,
+      306,
+      36
+    ],
+    "text": "Pn Ge)",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 43,
+    "bbox": [
+      52,
+      384,
+      306,
+      22
+    ],
+    "text": "gS 528 93 88999 2922",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 43,
+    "bbox": [
+      100,
+      405,
+      245,
+      38
+    ],
+    "text": "| i",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 43,
+    "bbox": [
+      52,
+      435,
+      243,
+      50
+    ],
+    "text": "Jie iy HHH ab,",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 43,
+    "bbox": [
+      149,
+      466,
+      220,
+      29
+    ],
+    "text": "Hee gd Ghbaty",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 44,
+    "bbox": [
+      43,
+      86,
+      57,
+      18
+    ],
+    "text": "ay",
+    "mean_p_confidence": 0.07
+  },
+  {
+    "page_number": 44,
+    "bbox": [
+      45,
+      104,
+      295,
+      27
+    ],
+    "text": "Habd dibiu al",
+    "mean_p_confidence": 0.07
+  },
+  {
+    "page_number": 44,
+    "bbox": [
+      33,
+      117,
+      307,
+      35
+    ],
+    "text": "Saupe bo bad aE",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 44,
+    "bbox": [
+      54,
+      155,
+      286,
+      19
+    ],
+    "text": "redi,? 928422 28",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 44,
+    "bbox": [
+      33,
+      159,
+      308,
+      37
+    ],
+    "text": "Se PP ac bg",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 44,
+    "bbox": [
+      45,
+      205,
+      295,
+      22
+    ],
+    "text": "ei,Th2 322888 88",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 44,
+    "bbox": [
+      34,
+      220,
+      283,
+      26
+    ],
+    "text": "bape Pee EEE FE",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 44,
+    "bbox": [
+      46,
+      288,
+      295,
+      27
+    ],
+    "text": "i epee ee GG",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 44,
+    "bbox": [
+      45,
+      337,
+      296,
+      24
+    ],
+    "text": "i Pibiieoge",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 44,
+    "bbox": [
+      45,
+      359,
+      296,
+      11
+    ],
+    "text": "z 2 22 2 4 92 a3",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 44,
+    "bbox": [
+      45,
+      382,
+      296,
+      36
+    ],
+    "text": "eb PERE GE",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 44,
+    "bbox": [
+      123,
+      437,
+      230,
+      17
+    ],
+    "text": "eis g22822893 2 6%",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 44,
+    "bbox": [
+      45,
+      470,
+      272,
+      20
+    ],
+    "text": "Vallala eaiidiaieipea",
+    "mean_p_confidence": 0.04
+  },
+  {
+    "page_number": 44,
+    "bbox": [
+      45,
+      480,
+      308,
+      31
+    ],
+    "text": "i HU He",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 44,
+    "bbox": [
+      45,
+      509,
+      296,
+      22
+    ],
+    "text": "Ba BFR 2588 2",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 45,
+    "bbox": [
+      139,
+      15,
+      229,
+      10
+    ],
+    "text": "Aroopiaion Act No. 22001 8",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 45,
+    "bbox": [
+      128,
+      104,
+      225,
+      14
+    ],
+    "text": "e ' lt g88 8",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 45,
+    "bbox": [
+      49,
+      104,
+      304,
+      46
+    ],
+    "text": "Ha HEADY]",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 45,
+    "bbox": [
+      50,
+      157,
+      303,
+      46
+    ],
+    "text": "PE TASTE",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 45,
+    "bbox": [
+      50,
+      207,
+      303,
+      41
+    ],
+    "text": "eH",
+    "mean_p_confidence": 0.01
+  },
+  {
+    "page_number": 45,
+    "bbox": [
+      89,
+      268,
+      264,
+      38
+    ],
+    "text": "HUE Wand",
+    "mean_p_confidence": -0.0
+  },
+  {
+    "page_number": 45,
+    "bbox": [
+      51,
+      290,
+      302,
+      29
+    ],
+    "text": "PIETELL PERETTI",
+    "mean_p_confidence": -0.0
+  },
+  {
+    "page_number": 45,
+    "bbox": [
+      50,
+      305,
+      303,
+      27
+    ],
+    "text": "PL LLLDTijaii2e pid 22",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 45,
+    "bbox": [
+      51,
+      312,
+      302,
+      40
+    ],
+    "text": "TST: a",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 45,
+    "bbox": [
+      49,
+      332,
+      304,
+      39
+    ],
+    "text": "HES eaT",
+    "mean_p_confidence": -0.0
+  },
+  {
+    "page_number": 45,
+    "bbox": [
+      50,
+      383,
+      303,
+      21
+    ],
+    "text": "5899 95 8252 28 9 3",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 45,
+    "bbox": [
+      49,
+      410,
+      316,
+      36
+    ],
+    "text": "2 ld aaa i,",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 45,
+    "bbox": [
+      49,
+      429,
+      317,
+      46
+    ],
+    "text": "Higiii Gublg |",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 45,
+    "bbox": [
+      51,
+      468,
+      315,
+      28
+    ],
+    "text": "Hig bt GH",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 45,
+    "bbox": [
+      49,
+      477,
+      316,
+      37
+    ],
+    "text": "HEED Ha THA",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 45,
+    "bbox": [
+      49,
+      520,
+      304,
+      12
+    ],
+    "text": "gg fees 2 8 Sa95 88 #2 8",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 46,
+    "bbox": [
+      37,
+      15,
+      229,
+      10
+    ],
+    "text": "Appin At $f 2007",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 46,
+    "bbox": [
+      38,
+      54,
+      275,
+      35
+    ],
+    "text": "cc boro atta",
+    "mean_p_confidence": 0.07
+  },
+  {
+    "page_number": 46,
+    "bbox": [
+      48,
+      86,
+      56,
+      18
+    ],
+    "text": "eu",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 46,
+    "bbox": [
+      50,
+      104,
+      290,
+      22
+    ],
+    "text": "eby g4f 2 2 6 2 bea",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 46,
+    "bbox": [
+      38,
+      104,
+      303,
+      48
+    ],
+    "text": "HED EEE",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 46,
+    "bbox": [
+      59,
+      156,
+      312,
+      18
+    ],
+    "text": "tii? g@ es oe",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 46,
+    "bbox": [
+      38,
+      156,
+      277,
+      41
+    ],
+    "text": "RG ere",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 46,
+    "bbox": [
+      50,
+      205,
+      290,
+      17
+    ],
+    "text": "gei,t] 222 2 328 &",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 46,
+    "bbox": [
+      39,
+      213,
+      302,
+      35
+    ],
+    "text": "WHeGeE PP ang",
+    "mean_p_confidence": 0.03
+  },
+  {
+    "page_number": 46,
+    "bbox": [
+      50,
+      275,
+      291,
+      17
+    ],
+    "text": "3 Sih E5F 2",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 46,
+    "bbox": [
+      50,
+      290,
+      291,
+      20
+    ],
+    "text": ": bese ogg gues",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 46,
+    "bbox": [
+      128,
+      305,
+      213,
+      21
+    ],
+    "text": "4 HEEtigdid",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 46,
+    "bbox": [
+      51,
+      337,
+      290,
+      12
+    ],
+    "text": ": Hid | iG",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 46,
+    "bbox": [
+      128,
+      337,
+      213,
+      32
+    ],
+    "text": "P HPEEEL ug",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 46,
+    "bbox": [
+      129,
+      408,
+      212,
+      21
+    ],
+    "text": "i fede rt",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 46,
+    "bbox": [
+      50,
+      418,
+      303,
+      25
+    ],
+    "text": "i . fiibhgii, dy",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 46,
+    "bbox": [
+      50,
+      431,
+      303,
+      39
+    ],
+    "text": "i Rie",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 46,
+    "bbox": [
+      48,
+      455,
+      293,
+      36
+    ],
+    "text": "t gui! Huan",
+    "mean_p_confidence": 0.04
+  },
+  {
+    "page_number": 46,
+    "bbox": [
+      48,
+      470,
+      305,
+      35
+    ],
+    "text": "p HUA",
+    "mean_p_confidence": 0.09
+  },
+  {
+    "page_number": 46,
+    "bbox": [
+      128,
+      491,
+      225,
+      22
+    ],
+    "text": "PERG D TET EERE BEG",
+    "mean_p_confidence": 0.07
+  },
+  {
+    "page_number": 46,
+    "bbox": [
+      48,
+      519,
+      293,
+      14
+    ],
+    "text": "ae #82 6 2 8 & G22 4",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 47,
+    "bbox": [
+      57,
+      101,
+      317,
+      18
+    ],
+    "text": "2$38 8 a S222882 E2282",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 47,
+    "bbox": [
+      57,
+      102,
+      317,
+      39
+    ],
+    "text": "ba GAMNGn",
+    "mean_p_confidence": 0.02
+  },
+  {
+    "page_number": 47,
+    "bbox": [
+      70,
+      154,
+      304,
+      15
+    ],
+    "text": "& - 82 3 geeeRRR 82228",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 47,
+    "bbox": [
+      57,
+      155,
+      318,
+      34
+    ],
+    "text": "HOG | HMEg",
+    "mean_p_confidence": 0.06
+  },
+  {
+    "page_number": 47,
+    "bbox": [
+      57,
+      204,
+      317,
+      17
+    ],
+    "text": "a3e2 8 22 ESSzP RES EES",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 47,
+    "bbox": [
+      58,
+      205,
+      316,
+      32
+    ],
+    "text": "Hb d b GRGgs",
+    "mean_p_confidence": -0.0
+  },
+  {
+    "page_number": 47,
+    "bbox": [
+      60,
+      273,
+      315,
+      15
+    ],
+    "text": "Rgge 8 EE z GRGRERSEGREE",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 47,
+    "bbox": [
+      60,
+      328,
+      316,
+      21
+    ],
+    "text": "aie i ge 2 Geaaieedana:",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 47,
+    "bbox": [
+      60,
+      335,
+      316,
+      34
+    ],
+    "text": "HEU A Ha",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 47,
+    "bbox": [
+      61,
+      403,
+      316,
+      31
+    ],
+    "text": "de fli, nda:",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 47,
+    "bbox": [
+      60,
+      428,
+      317,
+      34
+    ],
+    "text": "iy a4 8) Eee gdadzibsas",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 47,
+    "bbox": [
+      60,
+      440,
+      317,
+      35
+    ],
+    "text": "Bo | Avy",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 47,
+    "bbox": [
+      60,
+      464,
+      317,
+      35
+    ],
+    "text": "TET",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 47,
+    "bbox": [
+      124,
+      482,
+      228,
+      22
+    ],
+    "text": "g Hy 3 2 e222",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 47,
+    "bbox": [
+      60,
+      480,
+      317,
+      33
+    ],
+    "text": "PUPP",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 47,
+    "bbox": [
+      60,
+      517,
+      317,
+      13
+    ],
+    "text": "Bigy F IR a Heseggexgeae",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 48,
+    "bbox": [
+      49,
+      55,
+      244,
+      24
+    ],
+    "text": "Holly ie",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 48,
+    "bbox": [
+      37,
+      69,
+      280,
+      14
+    ],
+    "text": "~H5h28F ! sltit",
+    "mean_p_confidence": 0.06
+  },
+  {
+    "page_number": 48,
+    "bbox": [
+      48,
+      66,
+      68,
+      37
+    ],
+    "text": "Ha",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 48,
+    "bbox": [
+      49,
+      101,
+      307,
+      18
+    ],
+    "text": "gel vi EG2RS2E22R 2228028 2",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 48,
+    "bbox": [
+      37,
+      111,
+      319,
+      19
+    ],
+    "text": "abidedis 28h 8222999802225! 2",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 48,
+    "bbox": [
+      48,
+      102,
+      309,
+      49
+    ],
+    "text": "pil] HQ) 5",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 48,
+    "bbox": [
+      58,
+      155,
+      298,
+      19
+    ],
+    "text": "vg, fi G2LGRZES2ESEREES =",
+    "mean_p_confidence": 0.07
+  },
+  {
+    "page_number": 48,
+    "bbox": [
+      38,
+      159,
+      319,
+      37
+    ],
+    "text": "PU CEELELEE EERE LEE a",
+    "mean_p_confidence": 0.07
+  },
+  {
+    "page_number": 48,
+    "bbox": [
+      38,
+      205,
+      294,
+      22
+    ],
+    "text": "WEUESTE, Q2EEPQESS 2802888 f",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 48,
+    "bbox": [
+      48,
+      216,
+      309,
+      29
+    ],
+    "text": "et",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 48,
+    "bbox": [
+      132,
+      274,
+      225,
+      14
+    ],
+    "text": "a EEGERBEE E 5",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 48,
+    "bbox": [
+      50,
+      335,
+      308,
+      33
+    ],
+    "text": "i Hag",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 48,
+    "bbox": [
+      48,
+      358,
+      310,
+      11
+    ],
+    "text": "i PEELEELELEI SL rte",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 48,
+    "bbox": [
+      129,
+      409,
+      217,
+      25
+    ],
+    "text": "siidittsilalls 4.",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 48,
+    "bbox": [
+      49,
+      419,
+      311,
+      66
+    ],
+    "text": "| ddl",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 48,
+    "bbox": [
+      129,
+      450,
+      230,
+      23
+    ],
+    "text": "| PLE",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 48,
+    "bbox": [
+      51,
+      448,
+      308,
+      46
+    ],
+    "text": "PUT",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 48,
+    "bbox": [
+      49,
+      483,
+      311,
+      29
+    ],
+    "text": ": TN",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 48,
+    "bbox": [
+      49,
+      518,
+      310,
+      13
+    ],
+    "text": "aa ESFUGREESEGERRERE F",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 49,
+    "bbox": [
+      0,
+      103,
+      360,
+      42
+    ],
+    "text": "UWE GEN GHEE Hi]",
+    "mean_p_confidence": 0.08
+  },
+  {
+    "page_number": 49,
+    "bbox": [
+      52,
+      156,
+      308,
+      39
+    ],
+    "text": "HE LEW Wy",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 49,
+    "bbox": [
+      52,
+      206,
+      308,
+      40
+    ],
+    "text": "qi; Tia ay",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 49,
+    "bbox": [
+      51,
+      275,
+      308,
+      34
+    ],
+    "text": "HEL Li LHEE ae",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 49,
+    "bbox": [
+      51,
+      304,
+      307,
+      32
+    ],
+    "text": "WE dH EuE iG",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 49,
+    "bbox": [
+      51,
+      336,
+      307,
+      35
+    ],
+    "text": "HE PW a}",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 49,
+    "bbox": [
+      51,
+      382,
+      307,
+      22
+    ],
+    "text": "Hii fH EHEL i:",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 49,
+    "bbox": [
+      61,
+      401,
+      277,
+      38
+    ],
+    "text": "boa ainda",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 49,
+    "bbox": [
+      50,
+      421,
+      286,
+      32
+    ],
+    "text": "aifeaiiip alae",
+    "mean_p_confidence": 0.08
+  },
+  {
+    "page_number": 49,
+    "bbox": [
+      49,
+      415,
+      320,
+      92
+    ],
+    "text": "ihe Lay",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 49,
+    "bbox": [
+      49,
+      473,
+      309,
+      42
+    ],
+    "text": "HMDEU UL IpGHg",
+    "mean_p_confidence": -0.0
+  },
+  {
+    "page_number": 50,
+    "bbox": [
+      29,
+      13,
+      229,
+      10
+    ],
+    "text": "rriton t n90 2001",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 50,
+    "bbox": [
+      30,
+      54,
+      273,
+      49
+    ],
+    "text": "|",
+    "mean_p_confidence": 0.04
+  },
+  {
+    "page_number": 50,
+    "bbox": [
+      30,
+      99,
+      273,
+      51
+    ],
+    "text": "a |",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 50,
+    "bbox": [
+      30,
+      154,
+      274,
+      47
+    ],
+    "text": "HEE ball",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 50,
+    "bbox": [
+      30,
+      204,
+      365,
+      52
+    ],
+    "text": "HEE a",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 50,
+    "bbox": [
+      30,
+      257,
+      274,
+      94
+    ],
+    "text": "ahh",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 50,
+    "bbox": [
+      41,
+      331,
+      264,
+      49
+    ],
+    "text": "ioodn dd) tla",
+    "mean_p_confidence": 0.08
+  },
+  {
+    "page_number": 50,
+    "bbox": [
+      119,
+      380,
+      186,
+      55
+    ],
+    "text": "mE ay",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 50,
+    "bbox": [
+      120,
+      456,
+      185,
+      58
+    ],
+    "text": "Hag |",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 51,
+    "bbox": [
+      42,
+      509,
+      321,
+      9
+    ],
+    "text": "rnin ai Galea el Pe SAL LIED Paco,",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 51,
+    "bbox": [
+      42,
+      519,
+      320,
+      9
+    ],
+    "text": "pose te Serna, Covers Pacer Banat 2 Teas Hee",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 51,
+    "bbox": [
+      52,
+      528,
+      301,
+      9
+    ],
+    "text": "amv Roi Cave etre mene nh ot ee ea aoe",
+    "mean_p_confidence": 0.37
+  }
+]
