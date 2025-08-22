@@ -1,0 +1,1036 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      258,
+      77,
+      80,
+      19
+    ],
+    "text": "EEN",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      253,
+      90,
+      90,
+      24
+    ],
+    "text": "Big",
+    "mean_p_confidence": 0.07
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      254,
+      154,
+      292,
+      30
+    ],
+    "text": "Goo)",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      97,
+      208,
+      393,
+      23
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161,
+      241,
+      270,
+      19
+    ],
+    "text": "SOCIALIST REPUBLIC OF",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      239,
+      277,
+      120,
+      17
+    ],
+    "text": "SRI LANKA",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      163,
+      371,
+      288,
+      19
+    ],
+    "text": "CIVIL PROCEDURE CODE |",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      220,
+      403,
+      157,
+      24
+    ],
+    "text": "(AMENDMENT)",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      57,
+      443,
+      354,
+      16
+    ],
+    "text": "roy . ACT, No. 6 OF 19300 >",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      57,
+      530,
+      432,
+      44
+    ],
+    "text": "e . [Certified on 18h February, 1993] 7 (",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59,
+      620,
+      364,
+      13
+    ],
+    "text": "7 (Printed on the Orders of Government)",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      57,
+      720,
+      479,
+      27
+    ],
+    "text": "Pea eT an ae Steele of Democrat",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      102,
+      784,
+      381,
+      11
+    ],
+    "text": "aoa 19 He OF sre PME, La",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      60,
+      800,
+      474,
+      20
+    ],
+    "text": "\"Jo me PURCHASED AT THE GOVERNMENT PUNLICATIONS GUNRAD, SOLOMED TT",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59,
+      833,
+      478,
+      16
+    ],
+    "text": "Price: 45 cents Postage: Re. 1.00",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      34,
+      314,
+      18
+    ],
+    "text": "Cinit Procedure Code (Amendment)",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      175,
+      50,
+      140,
+      14
+    ],
+    "text": "7 Act, Nov 6 of 1998",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      142,
+      76,
+      225,
+      14
+    ],
+    "text": "[Certified on 18th February, 1993]",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      101,
+      88,
+      13
+    ],
+    "text": "LD0. 3/92",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      106,
+      124,
+      296,
+      13
+    ],
+    "text": "Aw Act To AMENo THE Civ Procapusa Cope",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      153,
+      375,
+      14
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      170,
+      292,
+      15
+    ],
+    "text": "Socialist Republic of Sri Lanka as follows =~",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      193,
+      453,
+      15
+    ],
+    "text": "1, This Act may be cited as the Civil Procedure Code Short tiite,",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      211,
+      215,
+      14
+    ],
+    "text": "(Amendment) Act, No, 6 of 1993",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      234,
+      459,
+      29
+    ],
+    "text": "2, Section 55 of the Civil Procedure Code (hereinafter Amendment",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      258,
+      433,
+      16
+    ],
+    "text": "referred to as the principal enactment) is hereby 55 of",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      271,
+      475,
+      19
+    ],
+    "text": "amended in subsection (1) thereof, by the substitution, Chapter 102,",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      291,
+      387,
+      14
+    ],
+    "text": "for all the words from to the Fiseal of the court or io",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      308,
+      387,
+      14
+    ],
+    "text": "actual service thereof has been entrusted. of the",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      327,
+      84,
+      14
+    ],
+    "text": "following :-",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      128,
+      347,
+      414,
+      16
+    ],
+    "text": "to the Fiseal of the court or to a Fiseal of a",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      113,
+      368,
+      335,
+      14
+    ],
+    "text": "court of like jurisdiction within the local limits of",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      113,
+      385,
+      334,
+      13
+    ],
+    "text": "whose furisdictfon the defendant resides or to the",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      114,
+      402,
+      333,
+      11
+    ],
+    "text": "Grama Niladhari within whose division the",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      113,
+      418,
+      334,
+      12
+    ],
+    "text": "defendant resides, who shall cause the same to be",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      113,
+      434,
+      333,
+      14
+    ],
+    "text": "duly served on the defendant, or on each defendant,",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      113,
+      451,
+      333,
+      14
+    ],
+    "text": "if more than one, and shall as hereinafter provided,",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      113,
+      467,
+      333,
+      12
+    ],
+    "text": "return the same and the execution thereof to the",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      113,
+      484,
+      332,
+      14
+    ],
+    "text": "court, duly verified, in the case of a summons",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      113,
+      500,
+      434,
+      15
+    ],
+    "text": "delivered to 2 Fiscal, by the officer to wham the .",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      112,
+      517,
+      333,
+      13
+    ],
+    "text": "actual service thereof has been entrusted, or in the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      113,
+      533,
+      332,
+      13
+    ],
+    "text": "case of a summons delivered to a Grama Niladheri,",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      113,
+      551,
+      171,
+      13
+    ],
+    "text": "by such Grama Niladhari.,",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      579,
+      455,
+      16
+    ],
+    "text": "& Section 60 of the principal enactment is hereby Amendment",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      591,
+      458,
+      21
+    ],
+    "text": "amended by the substitution, for the words the Fiscal Sane",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      612,
+      451,
+      14
+    ],
+    "text": "wherever that word occurs in that section, of the words principal",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      624,
+      460,
+      20
+    ],
+    "text": "the Fiscal or the Grama Niladhari, as the case may be, #etment",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      658,
+      454,
+      15
+    ],
+    "text": "4. Section 370 of the principal enactment js hereby Amendment",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      672,
+      458,
+      20
+    ],
+    "text": "amended by the substitution, for the words Fiseal or of scetign,",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      691,
+      449,
+      14
+    ],
+    "text": "Deputy Fiscal \", wherever those words occur in that section, principal",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      705,
+      458,
+      16
+    ],
+    "text": "of the words Fiseal or Deputy Fiscal or Grama Niladhari, enactment.",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      725,
+      134,
+      13
+    ],
+    "text": "as the case may be,.",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      751,
+      452,
+      20
+    ],
+    "text": "5. Section 371 of the principal enactment is hereby Amendment",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      770,
+      457,
+      12
+    ],
+    "text": "amended as follows : Sater the",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      457,
+      783,
+      49,
+      12
+    ],
+    "text": "prinelpat",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      794,
+      441,
+      18
+    ],
+    "text": "(Q) by the substitution, for the words The report of lho *nactment,",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      48,
+      813,
+      393,
+      15
+    ],
+    "text": "- Fiscal or Deputy Fiscal, of the words The",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      112,
+      831,
+      328,
+      14
+    ],
+    "text": "report of the Fiscal or Deputy Fiscal or Grama",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      111,
+      847,
+      438,
+      16
+    ],
+    "text": "Niladhari, as the esse may be,\" 5",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      156,
+      25,
+      328,
+      15
+    ],
+    "text": "2 Civil Procedure Code (Amendment)",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      300,
+      44,
+      125,
+      14
+    ],
+    "text": "Act, No. of 1993",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      176,
+      77,
+      390,
+      16
+    ],
+    "text": "(2) by the substitution, for the words each initialed",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      151,
+      94,
+      431,
+      18
+    ],
+    "text": ". and dated by the Fiscl., af the words each -",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      217,
+      111,
+      349,
+      17
+    ],
+    "text": "initinlled and dated by the Fiscel. or Deputy Fiscal",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      218,
+      130,
+      286,
+      15
+    ],
+    "text": "or Grama Niladhari, as the case may be.,",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      55,
+      158,
+      514,
+      30
+    ],
+    "text": "Amendment 6. The First Schedule to the princtpal enactment is",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      56,
+      174,
+      513,
+      30
+    ],
+    "text": "Fit hereby amended by the repeal of Form No, 17 thereof,",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      57,
+      192,
+      514,
+      31
+    ],
+    "text": "Behetule and the substitution therefor, of the following new Form:",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      62,
+      220,
+      67,
+      22
+    ],
+    "text": "Ehcthent,",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      425,
+      242,
+      146,
+      14
+    ],
+    "text": "[Sections 55 and 364]",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      66,
+      280,
+      331,
+      12
+    ],
+    "text": ": No. 17",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      203,
+      310,
+      335,
+      13
+    ],
+    "text": "FORM OF PRECEPT TO FISCAL OR GRAMA",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      240,
+      331,
+      262,
+      13
+    ],
+    "text": "NILADHARI TO SERVE SUMMONS",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      353,
+      343,
+      225,
+      31
+    ],
+    "text": "(Nite) . :",
+    "mean_p_confidence": 0.05
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      184,
+      382,
+      387,
+      15
+    ],
+    "text": "To the Fiscel/Grama Niladhari of the..........0.0005",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      171,
+      408,
+      302,
+      13
+    ],
+    "text": "Court/Division Of... seeseesseecsseteeeres",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      128,
+      438,
+      449,
+      15
+    ],
+    "text": ". Serve forthwith the summons in the above-named action,",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      172,
+      460,
+      406,
+      15
+    ],
+    "text": "which, with duplicates, is herewith transmitted to you,",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      173,
+      481,
+      404,
+      14
+    ],
+    "text": "upon each of the persons to.whom it is directed, and",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      173,
+      502,
+      406,
+      14
+    ],
+    "text": "leave with or tender {o each such person a duplicate",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      175,
+      524,
+      404,
+      13
+    ],
+    "text": "summons and one of the copies of (or concise statements",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      175,
+      545,
+      405,
+      15
+    ],
+    "text": "presented with) the plaint, which accompany the summons.",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      116,
+      566,
+      462,
+      15
+    ],
+    "text": ": And certify to this court on or before the.........ccse0",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      178,
+      588,
+      402,
+      15
+    ],
+    "text": "day Of ieee cerereeeee ID eee in what",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      178,
+      609,
+      403,
+      15
+    ],
+    "text": "mauner you have execuled this precept, returning the",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      101,
+      628,
+      431,
+      17
+    ],
+    "text": "7 suinmons atiached to your certificate as an exhibit,",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      266,
+      657,
+      128,
+      13
+    ],
+    "text": "By order of court,",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      467,
+      677,
+      116,
+      15
+    ],
+    "text": "(Signed) \",",
+    "mean_p_confidence": -0.0
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      236,
+      695,
+      319,
+      15
+    ],
+    "text": ". . Registear.",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      184,
+      722,
+      309,
+      14
+    ],
+    "text": "The eeceeeeeeeees OBY Of secesers Wee",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83,
+      748,
+      502,
+      31
+    ],
+    "text": "Sinhala 7. In the event of any inconsistency between the Sinhala",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83,
+      771,
+      502,
+      31
+    ],
+    "text": "tet to and Tamil texts of this Act, the Sinhala text shall prevall.",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      88,
+      790,
+      61,
+      20
+    ],
+    "text": "vase of",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      84,
+      803,
+      423,
+      27
+    ],
+    "text": "inconslatency. .",
+    "mean_p_confidence": 0.33
+  }
+]

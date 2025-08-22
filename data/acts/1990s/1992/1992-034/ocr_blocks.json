@@ -1,0 +1,948 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      59,
+      52,
+      366,
+      33
+    ],
+    "text": ". 4 : (ua :",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      97,
+      80,
+      247,
+      21
+    ],
+    "text": ". REN,",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      108,
+      192,
+      395,
+      19
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      162,
+      225,
+      335,
+      18
+    ],
+    "text": "SOCIALIST REPUBLIC OF .",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      238,
+      253,
+      310,
+      23
+    ],
+    "text": "SRI LANKA a",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      163,
+      399,
+      379,
+      19
+    ],
+    "text": "CONSUMER PROTECTION +",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      226,
+      431,
+      158,
+      24
+    ],
+    "text": "(AMENDMENT)",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76,
+      465,
+      335,
+      30
+    ],
+    "text": "; ACT, No. 34 OF 1992",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      165,
+      559,
+      382,
+      41
+    ],
+    "text": ". {Cttited on 26th July, 1902] a",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      173,
+      635,
+      375,
+      17
+    ],
+    "text": "Printed on the Orders of Government L",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      53,
+      714,
+      1,
+      14
+    ],
+    "text": "|",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      53,
+      731,
+      488,
+      23
+    ],
+    "text": "i Published as a Supplement to Part WJ of the Gazette of the Demecratic",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      82,
+      750,
+      378,
+      16
+    ],
+    "text": ". Socialist Republic of Sri Lanka of July 31, 1992",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      53,
+      764,
+      434,
+      57
+    ],
+    "text": "| se new oe tm a",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      53,
+      826,
+      444,
+      14
+    ],
+    "text": "; TO BN PURCHASED Av THE GOVERNMENT PUBLICATIONS TUREAU, COLOREEO",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      63,
+      846,
+      475,
+      14
+    ],
+    "text": "Price: 45 Cents. Postage: Re. 1.00",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      125,
+      21,
+      322,
+      16
+    ],
+    "text": "Consumer Protection (Amendment) 7",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      185,
+      40,
+      130,
+      15
+    ],
+    "text": "Act, No, 34 of 1992",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      66,
+      337,
+      23
+    ],
+    "text": "[Certified on 28th July, 1992} .",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      55,
+      105,
+      410,
+      17
+    ],
+    "text": "L.D0O 40/89 : .",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      56,
+      127,
+      388,
+      18
+    ],
+    "text": "Aw Act 10 AMEND THE Consumer Protection Act, No. L oF",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      237,
+      139,
+      151,
+      30
+    ],
+    "text": "1979",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      56,
+      171,
+      411,
+      20
+    ],
+    "text": "BE it Gnucted by. the Parliament of the Democratic *",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      56,
+      193,
+      305,
+      16
+    ],
+    "text": "Socialist Republic of Sri Lanka as follows :",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      224,
+      451,
+      16
+    ],
+    "text": "L This Act may be cited as the Consumer Protection short title",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      242,
+      240,
+      15
+    ],
+    "text": "(Amendment) Act, No, 34 of 1992,",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      270,
+      461,
+      13
+    ],
+    "text": "2. Section 6 of the Consumer Protection Act, No.lof Amendment",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57,
+      283,
+      481,
+      21
+    ],
+    "text": "1979 (hereinafter referred to as the principal enact ofssction |",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      56,
+      303,
+      447,
+      16
+    ],
+    "text": "ment\") is hereby amended by the repeal of subsection (4) of 1978.",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      56,
+      320,
+      392,
+      15
+    ],
+    "text": "of that section, and the substitution, of the following",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      56,
+      338,
+      437,
+      14
+    ],
+    "text": "subsection therefor : .",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99,
+      365,
+      399,
+      19
+    ],
+    "text": "@) Any person who removes, alters, obliterates, :",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      385,
+      389,
+      19
+    ],
+    "text": "| erases or defaces any label, deseription or price mark",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      406,
+      382,
+      14
+    ],
+    "text": "on any article or sells, or offers for sale, any article .",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      423,
+      426,
+      17
+    ],
+    "text": "from or on which the label, description or price mark =. *",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      442,
+      438,
+      15
+    ],
+    "text": "has been removed, altered, obliterated, erased or .",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      463,
+      371,
+      15
+    ],
+    "text": "defaced shall be guilty of an offence under this Act.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      512,
+      439,
+      23
+    ],
+    "text": "& Section 28 of the Principel enactment ts hereby Amend,",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      195,
+      527,
+      298,
+      10
+    ],
+    "text": "7",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      519,
+      475,
+      43
+    ],
+    "text": "amended as follows: Hees ot",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      560,
+      462,
+      19
+    ],
+    "text": "() by the repeal of, subsection (1) of that section and DaCHHERE",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      114,
+      581,
+      335,
+      15
+    ],
+    "text": "the substitution, of the following subsection",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      110,
+      589,
+      397,
+      30
+    ],
+    "text": "therefor : .",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      128,
+      627,
+      323,
+      21
+    ],
+    "text": "(1) Every person who acts in contravention of",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115,
+      651,
+      341,
+      15
+    ],
+    "text": "any of the provisions of this Act or any regulation",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      102,
+      667,
+      425,
+      15
+    ],
+    "text": "> made thereunder shall be guilty of an offence .",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      114,
+      684,
+      126,
+      14
+    ],
+    "text": "under this Act.",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      717,
+      424,
+      23
+    ],
+    "text": "@) by the insertion, immediately after subsection (1), :",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115,
+      744,
+      240,
+      15
+    ],
+    "text": "of the following new subsection :",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      777,
+      399,
+      18
+    ],
+    "text": "* # (1a) (@) Any person guilty of an offence -",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      114,
+      796,
+      394,
+      16
+    ],
+    "text": "under this Act by reason of a contravention of the .",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      116,
+      814,
+      334,
+      12
+    ],
+    "text": "provisions of section 11 or section 12 or section 13",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115,
+      829,
+      336,
+      16
+    ],
+    "text": "shall, on conviction before a Magistrate, be able",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      848,
+      356,
+      16
+    ],
+    "text": "2-*D 16055s000 (9100) . :",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      154,
+      19,
+      338,
+      17
+    ],
+    "text": "2 \\ Consumer Protection (Amendment) .",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      283,
+      39,
+      129,
+      13
+    ],
+    "text": "Act, No. 34 of 1992",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      208,
+      72,
+      329,
+      13
+    ],
+    "text": "Gi) in the case of a first offence to a fine not less",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143,
+      89,
+      394,
+      18
+    ],
+    "text": ". than one thousand rupees and not exceeding",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      245,
+      113,
+      318,
+      14
+    ],
+    "text": "three thousand rupees or to imprisonment ~",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93,
+      134,
+      444,
+      13
+    ],
+    "text": ". of either deseviption for a term not excecd-",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      246,
+      154,
+      292,
+      14
+    ],
+    "text": "ing thtee months or to both such fine and",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      247,
+      175,
+      126,
+      13
+    ],
+    "text": "imprisonment ; and",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      205,
+      204,
+      334,
+      13
+    ],
+    "text": "(ti) in the case of a subsequent offence to a fine",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      248,
+      224,
+      292,
+      13
+    ],
+    "text": "not Jess than three thousand rupees and not",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      248,
+      244,
+      301,
+      17
+    ],
+    "text": "exceeding seven thousand five hundred",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      247,
+      264,
+      293,
+      15
+    ],
+    "text": "rupees and to imprisonment of either",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      248,
+      285,
+      292,
+      15
+    ],
+    "text": "description for a term not exceeding six",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      248,
+      307,
+      49,
+      11
+    ],
+    "text": "months.",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      141,
+      332,
+      399,
+      17
+    ],
+    "text": ": () Any person guilty of an offence under this",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      207,
+      356,
+      334,
+      14
+    ],
+    "text": "Act, in respect of which no punishment is pres-",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      209,
+      375,
+      344,
+      15
+    ],
+    "text": "eribed by paragraph {a}, shall, on conviction *",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      209,
+      397,
+      208,
+      14
+    ],
+    "text": "hofore a Magistrate, be lable",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      212,
+      426,
+      329,
+      13
+    ],
+    "text": "(i) in the case of a first offence to a fine not",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      248,
+      446,
+      293,
+      14
+    ],
+    "text": "exceeding three thousand rupees or to",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      249,
+      467,
+      292,
+      13
+    ],
+    "text": "imprisonment of either description for a",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      248,
+      487,
+      293,
+      14
+    ],
+    "text": "term not exceeding three months or to",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      249,
+      507,
+      254,
+      14
+    ],
+    "text": "both such fine and imprisonment; and",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      204,
+      536,
+      338,
+      14
+    ],
+    "text": "(i) in the case of @ subsequent offence to a fine",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      249,
+      556,
+      292,
+      14
+    ],
+    "text": "not exceeding seven thousand fve hundred",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71,
+      577,
+      471,
+      13
+    ],
+    "text": ": rupees and to imprisonment of either des-",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      249,
+      597,
+      293,
+      14
+    ],
+    "text": "cription for a term not exceeding six",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93,
+      618,
+      459,
+      10
+    ],
+    "text": ". . months. *. 7",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      168,
+      649,
+      374,
+      16
+    ],
+    "text": "4. In the event of any inconsistency between the Sinhala",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      59,
+      666,
+      483,
+      23
+    ],
+    "text": "Sinhala text, and Tami texts of this Act, the Sinhala text shall prevail.",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      59,
+      688,
+      384,
+      10
+    ],
+    "text": "case of .",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      60,
+      700,
+      79,
+      10
+    ],
+    "text": "inconslatency.",
+    "mean_p_confidence": 0.1
+  }
+]

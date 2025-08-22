@@ -1,0 +1,915 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      306,
+      7,
+      122,
+      32
+    ],
+    "text": "fan , -",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      311,
+      29,
+      127,
+      16
+    ],
+    "text": "eu, .",
+    "mean_p_confidence": 0.03
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      74,
+      51,
+      293,
+      26
+    ],
+    "text": "an Lom",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      270,
+      106,
+      104,
+      24
+    ],
+    "text": "| REE",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115,
+      180,
+      407,
+      20
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIG",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      183,
+      213,
+      284,
+      29
+    ],
+    "text": "SOCIALIST REPUBLIC OF",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      256,
+      247,
+      125,
+      18
+    ],
+    "text": "SRI LANKA",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      178,
+      357,
+      277,
+      18
+    ],
+    "text": "PAYMENT OF GRATUITY",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      236,
+      385,
+      313,
+      34
+    ],
+    "text": "(AMENDMENT) .",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      204,
+      429,
+      249,
+      27
+    ],
+    "text": "ACT, No. 62 OF 1992 .",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      50,
+      531,
+      515,
+      44
+    ],
+    "text": "' eenisea on 13th November, 1992] POR A",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      46,
+      576,
+      8,
+      31
+    ],
+    "text": "\\",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      183,
+      614,
+      339,
+      15
+    ],
+    "text": "Printed on the Orders of Government | ~ .",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      67,
+      715,
+      496,
+      16
+    ],
+    "text": "Published as a Supplement to Part I of the Gazette of the Democratis.",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      132,
+      731,
+      366,
+      14
+    ],
+    "text": "Socialist Republic of Sri Lanka of November 13, 1992",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      122,
+      787,
+      382,
+      12
+    ],
+    "text": "WOONRED AT TH OIDASEISHNT OF GOVEDOMENT PRDFTING, SRE LASEA",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69,
+      802,
+      489,
+      23
+    ],
+    "text": "\"ro ae runcinoms af ane conan FonLieAmons Bunea, cove T",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      65,
+      832,
+      495,
+      18
+    ],
+    "text": "Price: 4% cents, Postage: Re, 1.08",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      529,
+      861,
+      51,
+      16
+    ],
+    "text": "Ye",
+    "mean_p_confidence": 0.08
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      52,
+      5,
+      495,
+      24
+    ],
+    "text": "to * payment of Gratuity (Amendment) i",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      51,
+      28,
+      509,
+      16
+    ],
+    "text": "fi Act, No. 62 of 1992 . .",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      51,
+      45,
+      391,
+      47
+    ],
+    "text": "| : [Certified on 13th November, 1902],",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      51,
+      85,
+      433,
+      27
+    ],
+    "text": "| EDaO, 2/9 a .",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      51,
+      112,
+      367,
+      13
+    ],
+    "text": ": AN Act To AMEND THE Parasowr or Gaarorry",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      51,
+      128,
+      495,
+      13
+    ],
+    "text": "i Act, No. 12 of 1983 :",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      51,
+      146,
+      518,
+      24
+    ],
+    "text": ": . B& it enacted by the Parliament of the Democratic Socialist a",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      172,
+      238,
+      15
+    ],
+    "text": "Republic of Sri Lanka as follows :",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      94,
+      200,
+      413,
+      14
+    ],
+    "text": "L This Act may be cited as the Payment of Gratuity Short",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      211,
+      461,
+      20
+    ],
+    "text": "(Amendment) Act, No, 62 of 1992. Glee",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      94,
+      241,
+      453,
+      29
+    ],
+    "text": "2 Section 5 of the Payment of Gratuity Act, No. 12 of Amendrownt",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      259,
+      463,
+      19
+    ],
+    "text": "of 1983 {hereinafter referred to as the principal enac- ct Ac _",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      278,
+      450,
+      21
+    ],
+    "text": "ment) is hereby amended by the addition of the following No, 12 of",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      296,
+      381,
+      15
+    ],
+    "text": "new subsection immediately after subsection (3) there",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      305,
+      494,
+      31
+    ],
+    "text": "of . .",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      105,
+      341,
+      355,
+      16
+    ],
+    "text": "* (4) Any employer who, being liable to pay any sum",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93,
+      357,
+      445,
+      16
+    ],
+    "text": "due as gratuity to @ workman or his heirs, as the case .",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      374,
+      452,
+      16
+    ],
+    "text": "- may be, under subsection (1), fails or defaults to pay .",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      385,
+      372,
+      25
+    ],
+    "text": "thet sum, on or-before the due date, he shall be liable",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93,
+      404,
+      459,
+      19
+    ],
+    "text": "to pay to that workman or his heirs, as the case may .",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93,
+      422,
+      465,
+      17
+    ],
+    "text": "he, im addition to the sum due as the gratuity, a :",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93,
+      439,
+      368,
+      17
+    ],
+    "text": "surcharge on thet sum calculated in the following",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92,
+      462,
+      210,
+      8
+    ],
+    "text": "manner : .",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96,
+      484,
+      364,
+      16
+    ],
+    "text": "(a) where the payment of the gratuity hes been fa",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      132,
+      499,
+      329,
+      18
+    ],
+    "text": "arrears for a period not exceeding one month from",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      135,
+      516,
+      378,
+      15
+    ],
+    "text": "the due date, a surcharge af'ten per centum of ~",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      135,
+      535,
+      166,
+      14
+    ],
+    "text": "the sum due as gratuity;",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98,
+      557,
+      455,
+      16
+    ],
+    "text": "(b) where the payment of the sratuity haa been in .",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      134,
+      573,
+      327,
+      16
+    ],
+    "text": "arresrs for a period exceeding one menth but not",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      134,
+      589,
+      327,
+      16
+    ],
+    "text": "exceeding three months from the due date, a",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      135,
+      605,
+      357,
+      17
+    ],
+    "text": "surcharge of Sfteen per cextum of the sum due |",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      135,
+      622,
+      301,
+      16
+    ],
+    "text": "ag gratuity; *",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      649,
+      395,
+      17
+    ],
+    "text": "_ (@) where the payment of the gratuity has been in",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      666,
+      492,
+      15
+    ],
+    "text": ". arrears for @ period exceeding thres months .",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      135,
+      682,
+      407,
+      15
+    ],
+    "text": "but not exceeding six months from the due date, :",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      137,
+      698,
+      324,
+      16
+    ],
+    "text": "a surcharge of twenty per centum of the sum due",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      136,
+      714,
+      118,
+      16
+    ],
+    "text": "us gratuity; *",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      101,
+      738,
+      363,
+      16
+    ],
+    "text": "( where the payment of the gratuity bas been in",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      756,
+      442,
+      14
+    ],
+    "text": ": arrears for a period exceeding six monthe but :",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      138,
+      772,
+      325,
+      15
+    ],
+    "text": "not exceeding twelve months from the due date",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140,
+      788,
+      373,
+      15
+    ],
+    "text": "a surcharge ot twenty-five per centum of the sum :",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      138,
+      806,
+      223,
+      14
+    ],
+    "text": "due ax gratuity; .",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      827,
+      484,
+      17
+    ],
+    "text": "aD osno07,00 0H",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      66,
+      36,
+      463,
+      19
+    ],
+    "text": "ra ar Payment of Gratuity (Amendment) - -",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122,
+      59,
+      352,
+      20
+    ],
+    "text": ". _ Act, No, 62 of 1992.",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      34,
+      94,
+      544,
+      20
+    ],
+    "text": "_ {@) where the payment of the gratuity has been in",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      66,
+      115,
+      512,
+      19
+    ],
+    "text": ": arrears for a period exceeding twelve months from",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      125,
+      134,
+      452,
+      15
+    ],
+    "text": "y the due date,.a surcharge of thirty per centum of",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      215,
+      152,
+      327,
+      15
+    ],
+    "text": "the sum due as gratuity. :",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      182,
+      183,
+      395,
+      24
+    ],
+    "text": "For the purposes of this section, the expression ! due",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      168,
+      209,
+      409,
+      16
+    ],
+    "text": "date, in relation to a gratuity, means the thirtieth day",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      168,
+      227,
+      408,
+      19
+    ],
+    "text": "from the date of termination of the services, of the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      63,
+      247,
+      508,
+      19
+    ],
+    "text": ". workman to whom the gratuity is payeble..\" =.",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      50,
+      284,
+      526,
+      26
+    ],
+    "text": "Amendment 3. Section & of the principal nactment is hereby",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      50,
+      309,
+      526,
+      17
+    ],
+    "text": "8 of the amended by the addition of the following new subsection",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      49,
+      325,
+      517,
+      23
+    ],
+    "text": "Principal immediately after subsection (7) thereof : :",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      118,
+      363,
+      485,
+      17
+    ],
+    "text": ": * (8) For the purposes of this section, the expression =",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      167,
+      384,
+      436,
+      21
+    ],
+    "text": "gratuity includes any surcharge payable under sub- >",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      169,
+      407,
+      434,
+      19
+    ],
+    "text": "section (4) of section &.. i",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      49,
+      441,
+      553,
+      32
+    ],
+    "text": "Sinhala 4, In the event of any inconsistency between, the |",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      49,
+      466,
+      554,
+      24
+    ],
+    "text": "f2teea in -sSimbala and Tamil texts of this Act, the Sinbala text |",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      50,
+      490,
+      552,
+      22
+    ],
+    "text": "cae of | shall prevail. :",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      50,
+      514,
+      552,
+      16
+    ],
+    "text": "tency, . : . . i",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      127,
+      598,
+      476,
+      19
+    ],
+    "text": ". 1 7 :",
+    "mean_p_confidence": 0.33
+  }
+]

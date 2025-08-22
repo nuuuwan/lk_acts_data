@@ -1,0 +1,3500 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      261,
+      123,
+      99,
+      17
+    ],
+    "text": "Seg *",
+    "mean_p_confidence": 0.04
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      123,
+      211,
+      387,
+      18
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      179,
+      246,
+      265,
+      18
+    ],
+    "text": "SOCIALIST REPUBLIC OF",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      254,
+      279,
+      117,
+      18
+    ],
+    "text": "SRI LANKA",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77,
+      372,
+      442,
+      23
+    ],
+    "text": "SPECIFIED CERTIFICATE OF DEPOSITS",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      131,
+      410,
+      360,
+      23
+    ],
+    "text": "(TAX AND OTHER CONCESSIONS)",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      201,
+      445,
+      218,
+      21
+    ],
+    "text": "ACT, No. 45 OF 1990",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      201,
+      532,
+      232,
+      16
+    ],
+    "text": "{Certified on 6th December, 1990)",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      184,
+      584,
+      250,
+      16
+    ],
+    "text": "Printed on the Orders of Government",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      75,
+      698,
+      460,
+      18
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86,
+      718,
+      459,
+      18
+    ],
+    "text": "Democratic Socialist Republic of Sri Lanka of December 07, 1990",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      125,
+      785,
+      367,
+      12
+    ],
+    "text": "panera Ar THE DECAREALIGT CF QOVSRNMENT PRINTING, 80 LANEA",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      73,
+      803,
+      472,
+      21
+    ],
+    "text": "Jo ut FURGHAEED AT TAF GOVERNMENT SUNLICATIONS BUTIAU, Colmmee",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72,
+      834,
+      476,
+      17
+    ],
+    "text": "Price : 90 cents Postage : Re. 1.00",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      105,
+      24,
+      319,
+      15
+    ],
+    "text": "Specified Certificates of Deposits (Tax artd other",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      155,
+      42,
+      221,
+      14
+    ],
+    "text": "Concessions) Act, No. 45 of 1990",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      155,
+      70,
+      303,
+      19
+    ],
+    "text": "[Certified on 6th December, 1990] :",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      101,
+      430,
+      15
+    ],
+    "text": "L.D.O 44/90 . : :",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      128,
+      382,
+      13
+    ],
+    "text": "AN ACT TO PROVIDE TOR TAX CONCESSIONS TO ANY PERSON WHO",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      147,
+      369,
+      12
+    ],
+    "text": "HAS IN HIS POSSESEION ANY SPECIFIED CERTIFICATE OF DEPostT;",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88,
+      163,
+      369,
+      11
+    ],
+    "text": "To BNABLM THe DEPOSIT IN SPECIAL ACCOUNTS xr THE NATIONAL",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      178,
+      369,
+      17
+    ],
+    "text": "Savincs BANE OF MONEYS REPRESENTING HIS RELEVANT PROFITS",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      197,
+      368,
+      11
+    ],
+    "text": "(8 INCOME, OUT OF WHICH SUCH CHENIICATRS WERE FURCKAS-",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      213,
+      369,
+      11
+    ],
+    "text": "ED, 10 IMPOSE AND LRVE A TAX ON THE MONEYS DEPOSITED IN",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88,
+      231,
+      404,
+      10
+    ],
+    "text": "SUCH SPECIAL ACCOUNTS ; 10 INDEMNIFY PERSONS WHO DEFOSTE -",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      248,
+      367,
+      9
+    ],
+    "text": "MONEYS IN SUCH SPECIAL ACCOUNTS AGAINST PROSECUTIONS.",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      265,
+      367,
+      10
+    ],
+    "text": "FOR OFFENCES IX RELATION TO SUCH FROFTTS OR INCOME ; AND",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      281,
+      360,
+      9
+    ],
+    "text": "FOR MATTERS CONNECTED THEHEWTTH OH INCIDENTAL THERETO,",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      316,
+      379,
+      17
+    ],
+    "text": "BE it enated by the Parliament of the Democratic Socialist",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      336,
+      231,
+      14
+    ],
+    "text": "Republic of Sri Lanka a9 folows:",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      365,
+      445,
+      13
+    ],
+    "text": "1, This Act may be elted as the Specified Certificates of Short title.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      382,
+      372,
+      14
+    ],
+    "text": "Deposits (Tax and other Concessions) Act, No, 45 of 1990,",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      409,
+      442,
+      14
+    ],
+    "text": "% (1) This Act shall apply to any person who has in his persons to",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      423,
+      464,
+      22
+    ],
+    "text": "Possession, any specified certificate of deposit and yao ce",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      94,
+      451,
+      362,
+      14
+    ],
+    "text": "{e) is detected by the Commissioner-General or any other",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      130,
+      471,
+      325,
+      14
+    ],
+    "text": "officer of the department of Inland Revenue as",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      130,
+      491,
+      325,
+      15
+    ],
+    "text": "having purchased such cerlificate of depostt from",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      130,
+      512,
+      325,
+      14
+    ],
+    "text": "and out of moneys representing the whole or any",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      129,
+      533,
+      268,
+      14
+    ],
+    "text": "part of his relevant profit or income; or",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93,
+      561,
+      362,
+      14
+    ],
+    "text": "() has, before any investigation in relation to him bas",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      130,
+      578,
+      325,
+      14
+    ],
+    "text": "commenced by the Commissioner-General or any",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      130,
+      595,
+      325,
+      14
+    ],
+    "text": "other offieer of the department of Inland Revenue",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      130,
+      611,
+      326,
+      15
+    ],
+    "text": "for any alleged or suspected evasion of any tax",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      130,
+      628,
+      325,
+      14
+    ],
+    "text": "payable under the provisions of the law for the",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      130,
+      644,
+      325,
+      14
+    ],
+    "text": "time being applicable to the imposition of income",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      661,
+      379,
+      15
+    ],
+    "text": ". tax or surcharge on income tax, or any business",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      130,
+      678,
+      324,
+      13
+    ],
+    "text": "turnover tax payable under the Finance Act, No, 11",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      131,
+      694,
+      324,
+      14
+    ],
+    "text": "of 1963, or ay turnover tex payable under the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      129,
+      711,
+      325,
+      14
+    ],
+    "text": "Tumover Tax Act, No. 69 of 1861, in respect of pro-",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      131,
+      727,
+      325,
+      13
+    ],
+    "text": "fits or income or turnover which arose or accrued.",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      745,
+      378,
+      14
+    ],
+    "text": ". to him on or before March 31, 1989, voluntarily dis-",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      133,
+      762,
+      323,
+      13
+    ],
+    "text": "closed to the Commissionet-General or any officer",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      131,
+      779,
+      325,
+      14
+    ],
+    "text": "of the department of Inland Revenue that he has",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      130,
+      796,
+      326,
+      14
+    ],
+    "text": "purchased such certificates of deposit from and out",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      131,
+      812,
+      326,
+      15
+    ],
+    "text": "of moneys representing the whole or any part of",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      131,
+      829,
+      288,
+      18
+    ],
+    "text": "his relevant profits and income. _.",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      858,
+      131,
+      12
+    ],
+    "text": "Lv onto1e~,480 rite)",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      167,
+      23,
+      358,
+      18
+    ],
+    "text": "2 Specified Certificates of Deposits (Tax and other",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      250,
+      42,
+      225,
+      17
+    ],
+    "text": "Concessions) -Act, No. 45 of 1990",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      183,
+      74,
+      373,
+      18
+    ],
+    "text": "@) Every person referred to in subsection (1) shall,",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      167,
+      90,
+      389,
+      19
+    ],
+    "text": "hereinafter in this Act, be referred to as a person to whom",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      167,
+      108,
+      389,
+      18
+    ],
+    "text": "to this Act applies, and every specified certificate of depo-",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      167,
+      125,
+      389,
+      17
+    ],
+    "text": "sit referred to in that subsection, Shall, hereinafter in this",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      166,
+      142,
+      389,
+      18
+    ],
+    "text": "Act, bo referred. to ss a specified certificate of deposit ta",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      139,
+      158,
+      207,
+      16
+    ],
+    "text": "which this Act applies,",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72,
+      188,
+      484,
+      18
+    ],
+    "text": "Persons te 3. (1) Any person to whom this Act applies may sell",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72,
+      200,
+      484,
+      23
+    ],
+    "text": "Resi, to the Bank any specified certificate of deposit to which this",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72,
+      213,
+      483,
+      26
+    ],
+    "text": "tay dipect Act applies and deposit the full proceeds of such sale Ce",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72,
+      235,
+      484,
+      22
+    ],
+    "text": "mec BIS ctedlit in any such special account as may be opened",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72,
+      256,
+      336,
+      20
+    ],
+    "text": "gecounts in by him for that purpose in the Bank.",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      183,
+      281,
+      372,
+      17
+    ],
+    "text": "(2) it shall be the duty of the Bank to purchase, any",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      51,
+      298,
+      504,
+      17
+    ],
+    "text": ". specified certificate of deposit to which this Act applies,",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      167,
+      314,
+      388,
+      17
+    ],
+    "text": "offered for sale to the Bank by any person to whom this Act",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      167,
+      332,
+      388,
+      17
+    ],
+    "text": "applies at such price as may be determind by the Bank, if",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      167,
+      348,
+      390,
+      17
+    ],
+    "text": "the Commissioner-General certifies to the Bank, that such",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      110,
+      365,
+      445,
+      17
+    ],
+    "text": "rar? Sertificate of deposit is a-certificate of deposit to which",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      167,
+      382,
+      189,
+      14
+    ],
+    "text": "this Act applies. .",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72,
+      415,
+      483,
+      17
+    ],
+    "text": "Charge ot < - 4.\" (1) Every-person who: makes any deposit in accord-",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72,
+      427,
+      386,
+      23
+    ],
+    "text": "fot ul. ance with the provisions of section 3 shall",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      75,
+      450,
+      480,
+      23
+    ],
+    "text": "Supplies, + (@) make a declaration to the Bank in the form set out",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      74,
+      472,
+      380,
+      20
+    ],
+    "text": "of the in the Schedule to, this Act; and",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      86,
+      484,
+      48,
+      10
+    ],
+    "text": "ce value",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      74,
+      495,
+      480,
+      21
+    ],
+    "text": "Gee of _() be liable to pay to the Commissioner-General a tax",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      75,
+      516,
+      479,
+      17
+    ],
+    "text": "depoait to of an amount equal to ten per centum of the face",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71,
+      524,
+      483,
+      36
+    ],
+    "text": "he apple value of the specified certificate of deposit to which",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      63,
+      551,
+      490,
+      16
+    ],
+    "text": "| gale this Act applies, sold to the Bank in accordance with",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      60,
+      562,
+      463,
+      21
+    ],
+    "text": "the Bank, ++), the provisions of section 8; and ~~ ,",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      57,
+      587,
+      496,
+      26
+    ],
+    "text": ": + () be entitled to deduct, from the tax payable under",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      154,
+      618,
+      401,
+      15
+    ],
+    "text": "+s} co pragaraph (), the amount of any - stamp duty",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      186,
+      638,
+      369,
+      16
+    ],
+    "text": "ci paid by him under the provisions of the Stamp",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      170,
+      654,
+      383,
+      19
+    ],
+    "text": "\"-'\" Duty Act, No. 43 of 1982, in relation to that specified",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      172,
+      675,
+      250,
+      22
+    ],
+    "text": "1 cartificate of deposit. .",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      183,
+      705,
+      367,
+      17
+    ],
+    "text": "(2) The tax payable by any person under subsection (1)",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      167,
+      727,
+      386,
+      16
+    ],
+    "text": "Jess any amount deductible under paragraph (c) of that",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      168,
+      749,
+      386,
+      15
+    ],
+    "text": "subsection , shall . notwithstanding snything in any",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      167,
+      768,
+      406,
+      16
+    ],
+    "text": "other written law, he paid to, the Commissioncr-General by",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      118,
+      787,
+      434,
+      17
+    ],
+    "text": "the Bank within fourteen days from'the date on which the",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      120,
+      807,
+      432,
+      18
+    ],
+    "text": ". special account referred to in, section 3 is opened by such",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      167,
+      828,
+      384,
+      18
+    ],
+    "text": "Perso, frorh the moneys lying to his credit in that account",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      101,
+      13,
+      353,
+      17
+    ],
+    "text": "Specified Certificates of Deposite (Tax and other 3",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      152,
+      31,
+      220,
+      17
+    ],
+    "text": "Concessions) Act, No. 45 of 1990.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      77,
+      63,
+      376,
+      19
+    ],
+    "text": "_@) The payment by the Bank, of the tax to the Commis-",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70,
+      81,
+      383,
+      17
+    ],
+    "text": "sioner-General, under subsection (2) from the moneys iying",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70,
+      97,
+      479,
+      17
+    ],
+    "text": "to the credit of any pereon in any such special account as is -",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70,
+      114,
+      479,
+      15
+    ],
+    "text": "referred to in section 3 shall be deemed to be authorised .",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70,
+      130,
+      381,
+      16
+    ],
+    "text": "by such person, and such tax shall be deemd to have been",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      69,
+      148,
+      427,
+      16
+    ],
+    "text": "paid by such person to the Commissioner-General. .",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      82,
+      181,
+      466,
+      22
+    ],
+    "text": "5, Notwithstanding anything in any other written law Restriction |",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      69,
+      194,
+      455,
+      34
+    ],
+    "text": "the Bank shall not permit any person who has deposited of moneys",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      69,
+      215,
+      466,
+      22
+    ],
+    "text": "any Moneys m any such special account as-is referred to Geponied in",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      69,
+      232,
+      445,
+      16
+    ],
+    "text": "in section 3, to withdraw, before the expiry of a period of accounts.",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      69,
+      249,
+      380,
+      16
+    ],
+    "text": "two years reckoned from the date on whica such special",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      69,
+      268,
+      380,
+      14
+    ],
+    "text": "account is opened by such person, the whole or any part",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      69,
+      283,
+      395,
+      15
+    ],
+    "text": "of the balance amount lying to his credit in such special ~",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      69,
+      301,
+      370,
+      14
+    ],
+    "text": "account, after payment of the tax referred to in section 4:",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      81,
+      324,
+      277,
+      18
+    ],
+    "text": "Provided that such person- .",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      84,
+      346,
+      364,
+      18
+    ],
+    "text": "(4) shall, subject to such conditions as may be preserib-",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      121,
+      370,
+      326,
+      15
+    ],
+    "text": "ed by the Bank, be permitted to withdraw the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      121,
+      391,
+      326,
+      15
+    ],
+    "text": "whole or any part of the interest which accrues",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89,
+      411,
+      358,
+      15
+    ],
+    "text": "| 01 stich balance amount, before the expiry of the",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      79,
+      433,
+      332,
+      14
+    ],
+    "text": "1 aforesaid period of two years; :",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      84,
+      460,
+      362,
+      15
+    ],
+    "text": "(2) mey, by communication addressed in writing to the",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      120,
+      481,
+      326,
+      14
+    ],
+    "text": "Tank, request the Bank to remit the whole or any",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      120,
+      500,
+      325,
+      16
+    ],
+    "text": "part of such balance ta the Commissioner-Generai",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      119,
+      522,
+      369,
+      14
+    ],
+    "text": "in satisfaction of any tax administered by the Com- -",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      119,
+      542,
+      326,
+      15
+    ],
+    "text": "missioner-General and any pettalty thereon, for any",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      75,
+      563,
+      319,
+      16
+    ],
+    "text": "~ _pertod ending on or before March 31, 1980.",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      78,
+      595,
+      424,
+      15
+    ],
+    "text": ". \"The Bank shall pay interest on the balance amount roterest",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      65,
+      613,
+      452,
+      22
+    ],
+    "text": "after the payment of the tax referred to in section 4, Iying tpsiied",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      65,
+      634,
+      450,
+      19
+    ],
+    "text": "to the eredit of any person in any such special account as 18, specitl",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66,
+      657,
+      378,
+      15
+    ],
+    "text": "is referred to in section 3 at the current rate of interest",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66,
+      677,
+      379,
+      18
+    ],
+    "text": "payable by the Bank on moneys lying to the credit of",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66,
+      702,
+      185,
+      14
+    ],
+    "text": "savings accounts. * .",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      79,
+      727,
+      440,
+      21
+    ],
+    "text": "7, Notwithstanding anything to the contrary in any othe? gxemptlon",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66,
+      747,
+      463,
+      22
+    ],
+    "text": "written law, the interest on moneys deposited in any such fa\" of",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66,
+      769,
+      456,
+      23
+    ],
+    "text": "special account as is referced fo in section 3 and which ac. INST.",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66,
+      792,
+      449,
+      22
+    ],
+    "text": "rues during the period of two years referred to in section fenosited,",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66,
+      815,
+      446,
+      18
+    ],
+    "text": "5, shall be exempt from income tax... : aeeouat.",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161,
+      16,
+      361,
+      18
+    ],
+    "text": "4 Specified Certisicares of Deposits (Tax ond other",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      245,
+      35,
+      310,
+      16
+    ],
+    "text": "Concessions) Act, No. 45 of 1990 .",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      68,
+      67,
+      486,
+      17
+    ],
+    "text": "Indemnifea. 8. Any person to whom this Act applies and who is",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      67,
+      81,
+      487,
+      21
+    ],
+    "text": "Gf e person deemed to have paid the tex referred to in section 4 shall",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      66,
+      101,
+      195,
+      24
+    ],
+    "text": "domntd f not be liable",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      67,
+      124,
+      495,
+      20
+    ],
+    "text": "the ae {@) to pay 1",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      64,
+      142,
+      491,
+      29
+    ],
+    "text": "ipatons (i) for any year of assessment ending on or before",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      64,
+      164,
+      491,
+      31
+    ],
+    "text": "ee eo, March 31, 1989, any income tax or surcharge",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      259,
+      195,
+      296,
+      13
+    ],
+    "text": "on income tax under the law for the time",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      177,
+      214,
+      378,
+      18
+    ],
+    "text": ". belng applicable to the imposition of income",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      259,
+      237,
+      296,
+      15
+    ],
+    "text": "tax or surcharge on income tax, in respect of",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      259,
+      258,
+      296,
+      16
+    ],
+    "text": "such part of his relevant profits or income as",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      153,
+      279,
+      402,
+      15
+    ],
+    "text": ". is represented by the proceeds of sola of",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      260,
+      299,
+      295,
+      16
+    ],
+    "text": "Specified. certificates of deposit, deposited by",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      261,
+      318,
+      295,
+      17
+    ],
+    "text": "him in any such special account as is referred",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      260,
+      337,
+      120,
+      18
+    ],
+    "text": "to in section 3; oF",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      221,
+      372,
+      336,
+      18
+    ],
+    "text": "(i) for any year of assessment ending on or before",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      263,
+      394,
+      295,
+      15
+    ],
+    "text": "March 1, 1989, any wealth tax or surcharge",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      264,
+      415,
+      294,
+      13
+    ],
+    "text": "on wealth tax under the law for the time",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      209,
+      436,
+      349,
+      16
+    ],
+    "text": ". being applicable to the imposition of wealth",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      264,
+      457,
+      294,
+      15
+    ],
+    "text": "tax or surcharge on wealth tax, in respect of",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      265,
+      478,
+      296,
+      15
+    ],
+    "text": "such part of his net wealth for the acquisition,",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      264,
+      498,
+      294,
+      16
+    ],
+    "text": "of which such part of his relevant profits or",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      266,
+      519,
+      293,
+      16
+    ],
+    "text": "iacome 26 is represented by the proceeds of",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      265,
+      539,
+      294,
+      16
+    ],
+    "text": "sale of specified certificates of deposit, deposl-",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      266,
+      559,
+      294,
+      17
+    ],
+    "text": "ted by him in any such special account as 1s",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      266,
+      580,
+      281,
+      16
+    ],
+    "text": "referred to section 3, had heen utilized j or",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      205,
+      618,
+      355,
+      16
+    ],
+    "text": "_ (i) for any quarter ending on or before March 31,",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      176,
+      640,
+      384,
+      14
+    ],
+    "text": ": 1989, any business turnover tax under the",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      266,
+      661,
+      294,
+      15
+    ],
+    "text": "Finance Act, No. 11 of 1963 or, any turnover",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      266,
+      682,
+      295,
+      15
+    ],
+    "text": "tax under the Turnover Tax Act, No, 69 of",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      268,
+      704,
+      293,
+      14
+    ],
+    "text": "1981, in respect of such+part of the turnover",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      266,
+      724,
+      295,
+      15
+    ],
+    "text": "from which such part of his relevant profits",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      268,
+      744,
+      293,
+      16
+    ],
+    "text": "or income os is represented by the proceeds",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      267,
+      764,
+      295,
+      17
+    ],
+    "text": "of sale of specified certificates of deposit, de-",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      244,
+      784,
+      318,
+      18
+    ],
+    "text": "\"posited by him in any such special account",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      268,
+      807,
+      294,
+      15
+    ],
+    "text": "as is referred to in section J, arose or, WAP",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      269,
+      831,
+      74,
+      13
+    ],
+    "text": "derived ; or",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      116,
+      11,
+      357,
+      17
+    ],
+    "text": "Specified Certificates of Deposits (Tax and other 5",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      166,
+      29,
+      223,
+      16
+    ],
+    "text": "Concessions) Act, No. 45 of 1990",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      100,
+      61,
+      371,
+      17
+    ],
+    "text": "(8) to a prosecution or to a penalty for any offence",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      137,
+      79,
+      51,
+      11
+    ],
+    "text": "under",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      140,
+      100,
+      330,
+      17
+    ],
+    "text": "(i) the law for the time being applicable to the",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      84,
+      118,
+      385,
+      17
+    ],
+    "text": ". imposition of income tax or surcharge on in-",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      177,
+      136,
+      291,
+      16
+    ],
+    "text": "come tax, or wealth tax or surcharge on",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      176,
+      152,
+      292,
+      16
+    ],
+    "text": "wealth tex in relation to any yeur of assess-",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      176,
+      169,
+      291,
+      16
+    ],
+    "text": "ment ending on or before March $1, 1989 in",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      177,
+      187,
+      291,
+      15
+    ],
+    "text": "respect of, or in connection with such part of",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      175,
+      202,
+      291,
+      15
+    ],
+    "text": "his relevant profits and income referred - in",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      176,
+      220,
+      290,
+      14
+    ],
+    "text": "paragraph (e) (1) of such part of his net",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      176,
+      236,
+      289,
+      15
+    ],
+    "text": "wealth referred to in paragraph (a) (ii) ; or",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      134,
+      264,
+      331,
+      14
+    ],
+    "text": "(ii) the Finance Act, No, 11 of 1963 or the Turnover",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      175,
+      281,
+      289,
+      15
+    ],
+    "text": "Tax Act, No, 69 of 1981 in relation to any",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      175,
+      299,
+      289,
+      13
+    ],
+    "text": "quarter ending on or before March 91, 1989,",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      174,
+      315,
+      290,
+      14
+    ],
+    "text": "in respect of auch part of the tumover",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      174,
+      332,
+      232,
+      14
+    ],
+    "text": "referred to in paragraph (0) (lif). .",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      95,
+      355,
+      440,
+      24
+    ],
+    "text": "%, Nothing in the preceding provisions of this Act, shall Preceding",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      81,
+      372,
+      462,
+      20
+    ],
+    "text": "bbe read or construed as authorising the revision of Seth Act,",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      97,
+      388,
+      434,
+      40
+    ],
+    "text": "(a) any assessment mada under the provisions of cout",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      137,
+      417,
+      395,
+      23
+    ],
+    "text": "G) the low for the time being relating to the im- Tsing tha",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      174,
+      438,
+      366,
+      22
+    ],
+    "text": "Position of income tax or surcharge on income Tevision of",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      173,
+      458,
+      359,
+      16
+    ],
+    "text": "tox or wealth tax or surcharge on wealth ment pre-",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      173,
+      472,
+      342,
+      20
+    ],
+    "text": "tax; or Te",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      134,
+      500,
+      405,
+      15
+    ],
+    "text": "Gi) the Finance Act, No, 11 of 1983, or the Turnover .",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      173,
+      518,
+      178,
+      13
+    ],
+    "text": "Tax Act, No, 69 of 1981 ; or",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      97,
+      542,
+      140,
+      14
+    ],
+    "text": "() any other matter,",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      80,
+      562,
+      379,
+      14
+    ],
+    "text": "which has become final and coneluslve under the provisions",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      81,
+      580,
+      107,
+      14
+    ],
+    "text": "of any such law.",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93,
+      605,
+      450,
+      21
+    ],
+    "text": "10, (1) Every officer or employee of the Department of Malntenence",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      81,
+      618,
+      448,
+      20
+    ],
+    "text": "Inland Revenue or of the Bank shall preserve and aid in f*76%",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      81,
+      641,
+      378,
+      15
+    ],
+    "text": "preserving secrecy with regard to all matters that may come",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      80,
+      657,
+      338,
+      15
+    ],
+    "text": "to his knowledge in the implementation of this Act:",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93,
+      686,
+      365,
+      14
+    ],
+    "text": "Provided however, that an officer or employee of the Bank",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      80,
+      703,
+      378,
+      17
+    ],
+    "text": "may communicate to the Commissioner-General or to any",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      80,
+      719,
+      377,
+      16
+    ],
+    "text": "officer of the depertment of Inland Revenue or to a",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      80,
+      736,
+      377,
+      15
+    ],
+    "text": "court of law for the purpose of complying with the provi-",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      80,
+      753,
+      378,
+      15
+    ],
+    "text": "sions of this Act, the following particulars relating to any-",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      80,
+      770,
+      333,
+      18
+    ],
+    "text": "stich special account as is referred to in section 3",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      97,
+      799,
+      361,
+      18
+    ],
+    "text": "(@) the name af the holder of the account and income",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      133,
+      821,
+      104,
+      13
+    ],
+    "text": "tax file number ;",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      156,
+      15,
+      360,
+      17
+    ],
+    "text": "6 Specified Certificates of Deposits (Tax and other",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      240,
+      33,
+      225,
+      16
+    ],
+    "text": "Concessions) Act,.No. 45 of 1990",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      173,
+      65,
+      374,
+      17
+    ],
+    "text": "(b) the name of business, if any, and income tax file",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      162,
+      87,
+      106,
+      14
+    ],
+    "text": ". number ;",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      158,
+      109,
+      274,
+      23
+    ],
+    "text": "{o) the date of deposit or withdeawal ;",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      173,
+      144,
+      274,
+      17
+    ],
+    "text": "{d) the amotint deposited or withdrawn;",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      174,
+      173,
+      373,
+      16
+    ],
+    "text": "() such other particulars as are referred to in any",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      160,
+      193,
+      387,
+      21
+    ],
+    "text": "|| declaration made under section 4 (1) (a) in",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      99,
+      217,
+      328,
+      14
+    ],
+    "text": ". elation to such special account,",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      166,
+      243,
+      382,
+      19
+    ],
+    "text": "\" @) Any dfficer or employee of the department of Inland",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      158,
+      263,
+      390,
+      14
+    ],
+    "text": "Revenue or of the Bank who acts in contravention of the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      159,
+      282,
+      389,
+      15
+    ],
+    "text": "proyisions of. subsection () shall be guilty of an offence",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      160,
+      299,
+      387,
+      15
+    ],
+    "text": "under this Act, and shall, on conviction after summary",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      159,
+      316,
+      389,
+      15
+    ],
+    "text": "trial before @ Magistrate, be liable to a fine not exceeding",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      159,
+      333,
+      187,
+      16
+    ],
+    "text": "five thousand rupees, .",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      64,
+      366,
+      477,
+      21
+    ],
+    "text": "Interpretation, HL. Th this Act, unless the context otherwise requires",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      92,
+      400,
+      455,
+      16
+    ],
+    "text": "oe Bank means the Nationsl, Savings Bank established",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      215,
+      418,
+      333,
+      17
+    ],
+    "text": "by the National Savings Bank Act, No. 30 of 1971;",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      167,
+      442,
+      381,
+      22
+    ],
+    "text": "_ the : expressions Commisstoner-General,, profits,",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      163,
+      463,
+      384,
+      20
+    ],
+    "text": "Floor income, wealth; and wear of assessment",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      215,
+      483,
+      332,
+      15
+    ],
+    "text": "shall have the same meanings respectively, as in",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      214,
+      500,
+      284,
+      15
+    ],
+    "text": "the Taland Revenue Act, No: 28 of 1979;",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      176,
+      529,
+      357,
+      16
+    ],
+    "text": "person includes # company, and a body of persons;",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      175,
+      563,
+      372,
+      15
+    ],
+    "text": "relevant profits or income in relation to eny person",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      215,
+      582,
+      308,
+      16
+    ],
+    "text": "means any profit or income a",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      134,
+      610,
+      412,
+      15
+    ],
+    "text": ": + ona (@) which was derived by him or which arose",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      137,
+      624,
+      410,
+      19
+    ],
+    "text": "1s. ba: tu. +, OF accrued, to his benefit on or before March",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      198,
+      646,
+      290,
+      14
+    ],
+    "text": "so ve? 2 BE, 18805 and :",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      217,
+      674,
+      329,
+      16
+    ],
+    "text": "() io respect of which no return bas been",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      178,
+      691,
+      368,
+      20
+    ],
+    "text": "vs +. furnished by him, or which. has not been",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      195,
+      709,
+      351,
+      20
+    ],
+    "text": "+. y+, disclosed in any return furnished by hit,",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      161,
+      726,
+      386,
+      16
+    ],
+    "text": "enw under the law for the time being appliceble",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      174,
+      745,
+      356,
+      16
+    ],
+    "text": "ay to the imposition of income tax ; and 7",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      169,
+      769,
+      377,
+      22
+    ],
+    "text": "* \" which, under the law for the time being",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      255,
+      789,
+      292,
+      18
+    ],
+    "text": "applicable to the imposition of income tax",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      171,
+      806,
+      376,
+      22
+    ],
+    "text": ". tow oF surcharge on income tax was chargeable",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      253,
+      825,
+      293,
+      16
+    ],
+    "text": "with income tax or surcharge on income tax:",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      105,
+      24,
+      403,
+      16
+    ],
+    "text": "Specified Certificates of Deposits (Tax and other = 7 .",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      155,
+      42,
+      222,
+      15
+    ],
+    "text": "Concessions) Act, No. 43 of 2990",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      86,
+      74,
+      372,
+      16
+    ],
+    "text": "specified certificate of deposit means any certificate",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      126,
+      96,
+      119,
+      14
+    ],
+    "text": "of deposit issued",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      127,
+      125,
+      330,
+      15
+    ],
+    "text": "@) under the Treasury Certificates of Deposit Act,",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      166,
+      143,
+      220,
+      16
+    ],
+    "text": "No. 9 of 1989; and, oo",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      128,
+      171,
+      327,
+      16
+    ],
+    "text": "{b) on or after June 20, 1990, buf prior to January",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      151,
+      187,
+      364,
+      15
+    ],
+    "text": "1, 1991; 7",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      86,
+      218,
+      368,
+      14
+    ],
+    "text": "the law for the time being applicable to the imposition",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      126,
+      236,
+      328,
+      13
+    ],
+    "text": "of income tax or the surcharge on income tax",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      125,
+      253,
+      327,
+      13
+    ],
+    "text": "means the Inland Revenue Act, No. 28 of 1979, the",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      125,
+      270,
+      328,
+      13
+    ],
+    "text": "Surcharge on Income Tax Act, No. 28 of 1982, the",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      125,
+      287,
+      327,
+      14
+    ],
+    "text": "Surcharge on Income Tax Act, No. 12 of 1984 and",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      124,
+      305,
+      328,
+      14
+    ],
+    "text": "the Surcharge on Income Tax Act, No. 7 of 1989",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      124,
+      321,
+      328,
+      15
+    ],
+    "text": "the law for the time being applicable to the inapost-",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      125,
+      338,
+      327,
+      14
+    ],
+    "text": "tion of wealth tax or surcharge on wealth tox",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      123,
+      355,
+      328,
+      14
+    ],
+    "text": "means the Inland Revenue Act, No. 28 of 1978 the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      125,
+      372,
+      353,
+      15
+    ],
+    "text": "Surcharge on Wealth Tax Act, No, 25 of 1982 andthe",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      125,
+      390,
+      305,
+      14
+    ],
+    "text": "Surcharge on Wealth Tax Act, No. 8 of 1989.",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      85,
+      429,
+      452,
+      15
+    ],
+    "text": "12, In the event of any inconsistency between the Sinhala Sinhela text",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72,
+      441,
+      470,
+      21
+    ],
+    "text": "and the. Tamil texts of this Act, the Sinhala text shall 2,erezall io",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      71,
+      456,
+      471,
+      30
+    ],
+    "text": "prevail, (- Inconsistency.",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      335,
+      492,
+      146,
+      14
+    ],
+    "text": "Weetion 4",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      227,
+      515,
+      68,
+      9
+    ],
+    "text": "SCHEDULE",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      70,
+      544,
+      380,
+      11
+    ],
+    "text": "SPECIFIED CERTIVICATES OF DEPOSIT (TAX AND OTHER",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      142,
+      558,
+      240,
+      10
+    ],
+    "text": "CONCESSIONS) ACT, No. OF 1990",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      150,
+      579,
+      228,
+      11
+    ],
+    "text": "Declaration under Section 4 (1) (a) -",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      82,
+      600,
+      169,
+      11
+    ],
+    "text": "Income Tax File NO Af anys cseeeseeeceeeeeeeees",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      82,
+      618,
+      118,
+      13
+    ],
+    "text": "Special Accoutt NO. jcsssssesseesees seeseesers",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      82,
+      635,
+      237,
+      12
+    ],
+    "text": "Name of business Lf any ...--.esgereee ceeerene",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      82,
+      671,
+      300,
+      13
+    ],
+    "text": "Y, Mr Mins /Bies/We oes csseseseeeeeeseeeseanghee",
+    "mean_p_confidence": 0.04
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      265,
+      683,
+      66,
+      12
+    ],
+    "text": "(full name)",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      436,
+      701,
+      12,
+      10
+    ],
+    "text": "die tieditie Gannnieneene Geeteseees sees Of",
+    "mean_p_confidence": 0.09
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      309,
+      750,
+      65,
+      12
+    ],
+    "text": "ceceaeeneeenesesssesneeny senseessesass 0 betehy",
+    "mean_p_confidence": 0.01
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      84,
+      778,
+      106,
+      12
+    ],
+    "text": "a) request you",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      120,
+      794,
+      326,
+      13
+    ],
+    "text": "(a) to accept in terms of the provision of section 3",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      153,
+      808,
+      295,
+      12
+    ],
+    "text": "@ RUM Of RUPEES cece eeee eee tee es CR ceed fo",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      152,
+      822,
+      295,
+      13
+    ],
+    "text": "be paced in a special account in the name of",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      156,
+      836,
+      248,
+      12
+    ],
+    "text": "aeaeeeeareepereess OL aveenectverseeeneae",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      105,
+      28,
+      397,
+      17
+    ],
+    "text": "8 . Specified Certificates of Deposite (Caz and other",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      189,
+      45,
+      314,
+      14
+    ],
+    "text": "Concessions) Act, No. 45 of 1990 :",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      158,
+      78,
+      343,
+      11
+    ],
+    "text": "() to remit direct 10 the Commissioner-Cieneral of",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      143,
+      92,
+      357,
+      11
+    ],
+    "text": "A Inlend Revenue the tax due, on this amount,",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      195,
+      105,
+      304,
+      12
+    ],
+    "text": "amounting to Rupees ....-.,--ceesese CRS vee)",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      160,
+      131,
+      340,
+      12
+    ],
+    "text": "(e) to hold the balance in that account viz",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      196,
+      149,
+      236,
+      11
+    ],
+    "text": "Amount tendered ..evcesiseeiee: Be ceseeeeeee",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      195,
+      167,
+      305,
+      12
+    ],
+    "text": "Leas 10 percent tax deductible Bs......+2----00+0+",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      194,
+      181,
+      306,
+      22
+    ],
+    "text": "Leas Stamp duty peid Re eee RR eee",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      115,
+      228,
+      314,
+      12
+    ],
+    "text": "Mae Balance to be held in special account",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      193,
+      238,
+      307,
+      22
+    ],
+    "text": "by the National Savings Bank scores RE eee",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      128,
+      267,
+      416,
+      13
+    ],
+    "text": "(2) undertake not to withdraw any part of this balance amount .",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      163,
+      282,
+      292,
+      12
+    ],
+    "text": "before the expiry of two years from this date;",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      129,
+      303,
+      375,
+      12
+    ],
+    "text": "(8) agree to my/our Special Pass Book being kept In the safe",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      164,
+      318,
+      141,
+      11
+    ],
+    "text": "custody of your Bank >",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      131,
+      339,
+      373,
+      12
+    ],
+    "text": "(4) further agree to be bound by the rules pertaining to",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      165,
+      352,
+      338,
+      13
+    ],
+    "text": "wavings deposits in your Bank for the time being, and",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      166,
+      367,
+      288,
+      11
+    ],
+    "text": "which may come into effect from time to times",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      132,
+      387,
+      373,
+      13
+    ],
+    "text": "(8) hereby authorise you to remit to the Commissioner-General",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      167,
+      402,
+      338,
+      12
+    ],
+    "text": "the whole or any patt of this balance upon a request to",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      167,
+      415,
+      288,
+      13
+    ],
+    "text": "that effect is made to you by me/us In writing,",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      141,
+      453,
+      364,
+      16
+    ],
+    "text": "7 Signature of Depositor.",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      120,
+      472,
+      137,
+      11
+    ],
+    "text": "Signed in my presmnee,",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      121,
+      502,
+      386,
+      15
+    ],
+    "text": "Sigoature of Brooch Manager. ag :",
+    "mean_p_confidence": 0.48
+  }
+]

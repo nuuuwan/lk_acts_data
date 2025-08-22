@@ -1,0 +1,398 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      294,
+      59,
+      33,
+      28
+    ],
+    "text": "2,",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      251,
+      91,
+      104,
+      58
+    ],
+    "text": "Gs)",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      281,
+      142,
+      67,
+      14
+    ],
+    "text": "Seca a",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      0,
+      0,
+      620,
+      877
+    ],
+    "text": "eo",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      99,
+      216,
+      405,
+      23
+    ],
+    "text": "THE GAZETTE OF THE DEMOCRATIC",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      175,
+      251,
+      269,
+      20
+    ],
+    "text": "SOCIALIST REPUBLIC OF",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      247,
+      284,
+      120,
+      18
+    ],
+    "text": "SRI LANKA",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      201,
+      387,
+      184,
+      19
+    ],
+    "text": "MEDICAL WANTS",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      220,
+      418,
+      154,
+      23
+    ],
+    "text": "(AMENDMENT)",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      188,
+      453,
+      213,
+      21
+    ],
+    "text": "ACT, No. 53 OF 1993",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      181,
+      535,
+      349,
+      14
+    ],
+    "text": "[Certified on 19th November, 1993] fT",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      175,
+      579,
+      230,
+      21
+    ],
+    "text": "Printed on the Order of Government",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      53,
+      709,
+      469,
+      17
+    ],
+    "text": "Published as a Supplement to Part Hof the Gazette of the Demoecrntic",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115,
+      724,
+      347,
+      13
+    ],
+    "text": "Socialist Republic of Sti Lanka of November 15, 1913",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      110,
+      773,
+      350,
+      11
+    ],
+    "text": "onrreo AE THE DEPARTOENY OF COVEEHOARIE PRIWZNO, URE CAINE",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      53,
+      788,
+      465,
+      21
+    ],
+    "text": "Je BE PURCHASES AT TID; COVEENTMEENT PUBLICATIONS SUREAG) CORIO",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      53,
+      820,
+      476,
+      16
+    ],
+    "text": "Prices 38 cents. Postage: Be Lee",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      54,
+      46,
+      405,
+      15
+    ],
+    "text": ": Medical Wants (Amendment)",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      185,
+      63,
+      134,
+      15
+    ],
+    "text": "Act, No. 53 of 1993",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      137,
+      90,
+      234,
+      15
+    ],
+    "text": "[Certified on 19th November, 1993]",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      54,
+      115,
+      99,
+      19
+    ],
+    "text": "LD0, eaven",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      143,
+      333,
+      16
+    ],
+    "text": "AN Act 70 anexp THz Mepical, WANTS ORDINANCE",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      49,
+      164,
+      433,
+      37
+    ],
+    "text": "RE it enacted by the Parliament of the Democratic Socia-",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      188,
+      248,
+      16
+    ],
+    "text": "Republic of Sti Lanka as follows :",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      211,
+      470,
+      19
+    ],
+    "text": "1 This Act may be cited as the Medical Wants (Amend- Short title,",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      52,
+      232,
+      179,
+      16
+    ],
+    "text": "Ment) Act, No, 53 of 1998.",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64,
+      278,
+      476,
+      24
+    ],
+    "text": "2% Section 28 of the Medical Wants Ordinance is hereby Amendment",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      51,
+      300,
+      482,
+      23
+    ],
+    "text": "amended by the omission of the word rubber appearing of",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      53,
+      315,
+      483,
+      19
+    ],
+    "text": "fm that section. Saapter 226.",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      346,
+      476,
+      34
+    ],
+    "text": "3, In the event of any inconsistency between the Sinhala Sinbad, text",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      48,
+      368,
+      480,
+      26
+    ],
+    "text": "and Tamil texts of this Act, the Sinhala text shall prevail. in case of",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      459,
+      393,
+      85,
+      26
+    ],
+    "text": "tency. .",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      81,
+      802,
+      471,
+      14
+    ],
+    "text": "Aneuai subscription of English Hille oad Acts of the Ferlisment Ba. 88% (Local).",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      81,
+      815,
+      471,
+      14
+    ],
+    "text": "Ba 190 Grorsign), payable to the Sursmrmummer Gavauneems PusicaTome",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83,
+      828,
+      470,
+      16
+    ],
+    "text": "Boarav, No, 255, Bauddhelokn Mawatha, Colombo 7, before 16th December each",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      204,
+      845,
+      220,
+      12
+    ],
+    "text": "Yaar ia Teapect of the yeur filowing,",
+    "mean_p_confidence": 0.62
+  }
+]

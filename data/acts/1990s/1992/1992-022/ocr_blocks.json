@@ -1,0 +1,794 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      267,
+      107,
+      81,
+      24
+    ],
+    "text": "Eee.",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      266,
+      119,
+      75,
+      23
+    ],
+    "text": "Ce",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      272,
+      166,
+      44,
+      26
+    ],
+    "text": "ee",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      122,
+      229,
+      371,
+      17
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      182,
+      259,
+      257,
+      17
+    ],
+    "text": "SOCIALIST REPUBLIC OF",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71,
+      288,
+      297,
+      19
+    ],
+    "text": ". SRI LANKA",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      181,
+      411,
+      352,
+      23
+    ],
+    "text": "FINANCE (AMENDMENT) ;",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      203,
+      443,
+      207,
+      19
+    ],
+    "text": "ACT, No: 22 OF 1992",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      210,
+      542,
+      325,
+      14
+    ],
+    "text": "[Certified on S1st Match, 1982] +",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77,
+      616,
+      456,
+      15
+    ],
+    "text": ". Printed on the Orders of Government .",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78,
+      701,
+      453,
+      15
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the Democratic",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      151,
+      719,
+      384,
+      14
+    ],
+    "text": "Sorinlist Republic of Sti Lanka of April 03, 1992 .",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      127,
+      776,
+      413,
+      25
+    ],
+    "text": "PRUCTED AT THs DEFARDAENT OF COVERKMENT YROTYIMG, SAT LANEA :",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115,
+      816,
+      377,
+      10
+    ],
+    "text": "3 2s FoRCHAaeD A TN GOVGIORENT FURGHTTONS BOREAS, COLORS",
+    "mean_p_confidence": 0.09
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      75,
+      842,
+      456,
+      15
+    ],
+    "text": "Pelee: 45 conte, Postage: Re. 100",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      545,
+      864,
+      4,
+      8
+    ],
+    "text": ":",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      53,
+      319,
+      13
+    ],
+    "text": ". Finance (Amendment) Act, No, 22 of 1992",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      159,
+      82,
+      345,
+      16
+    ],
+    "text": "[Certified on 3let Marck, 1992] oot",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      117,
+      92,
+      11
+    ],
+    "text": "L. D0 25/89",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      95,
+      146,
+      332,
+      13
+    ],
+    "text": "Aw Acr vo AMENDED se Fiance Act, No. 11 oF 1963",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      178,
+      366,
+      14
+    ],
+    "text": "BE it enacled by the Parliament of the Democratic",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      194,
+      341,
+      13
+    ],
+    "text": "Socialist Republic of Sri Lanka as follows: :",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      217,
+      400,
+      15
+    ],
+    "text": "1. This Act may be cited as the Finance (Amendment) Short",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      228,
+      409,
+      17
+    ],
+    "text": "Act, No. 22 of 1992. le,",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      268,
+      436,
+      13
+    ],
+    "text": "2. Section 58 of the Finance Act, No. 11 of 1963 (here- Amendment",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      279,
+      439,
+      20
+    ],
+    "text": "Sinafter referred to as the principal enactment) is obsstion",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      299,
+      433,
+      13
+    ],
+    "text": "hereby amended aa follows : Nocitot",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      369,
+      313,
+      115,
+      8
+    ],
+    "text": ": 1963.",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      329,
+      352,
+      14
+    ],
+    "text": "U) by the repeal of subsection (3) therect and the",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      124,
+      349,
+      318,
+      16
+    ],
+    "text": "substitution therefor of the following subsec-",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      126,
+      369,
+      46,
+      10
+    ],
+    "text": "tion :",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      138,
+      387,
+      377,
+      18
+    ],
+    "text": "@) A person liable to the tax shall pay the tax .",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      126,
+      411,
+      317,
+      13
+    ],
+    "text": "to the Registrar of Lands of the district in which",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      126,
+      430,
+      317,
+      13
+    ],
+    "text": "the land transferred is situated, before the instru-",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      54,
+      449,
+      390,
+      15
+    ],
+    "text": ". ment by which the transfer of that land was",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      126,
+      469,
+      318,
+      13
+    ],
+    "text": "effected is presented for registration in accordance",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      127,
+      488,
+      317,
+      13
+    ],
+    "text": "with the provisions of the Registration of Docu",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      55,
+      506,
+      194,
+      14
+    ],
+    "text": "! ments Ordinance. ;",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      530,
+      351,
+      14
+    ],
+    "text": "{2) by the deletion, in paragraph (a) of subsection (4)",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      126,
+      550,
+      317,
+      12
+    ],
+    "text": "of that section, of the wards or shares wherever",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      125,
+      569,
+      237,
+      14
+    ],
+    "text": "those words occur in that paragraph ;",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88,
+      596,
+      354,
+      14
+    ],
+    "text": "43) by the deletion, in paragraph () of subsection (4)",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      127,
+      616,
+      317,
+      14
+    ],
+    "text": "of that section, of the words or shares in any",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      125,
+      636,
+      104,
+      13
+    ],
+    "text": "company,\"; and",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      663,
+      353,
+      15
+    ],
+    "text": "(4) by the repeal of paragraphs (), () and ({) of",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      100,
+      681,
+      215,
+      15
+    ],
+    "text": "subsection (4) of that section.",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      712,
+      438,
+      21
+    ],
+    "text": "3, Section $9 of the principal enactment Js hereby Amendment",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      734,
+      435,
+      21
+    ],
+    "text": "amended by the deletion of the words or the company, $90fthe!",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      748,
+      445,
+      19
+    ],
+    "text": "1g the case may be,*. Enaciment",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      789,
+      439,
+      20
+    ],
+    "text": "4. Section 60 of the principal enactment is hereby Amendment",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      811,
+      435,
+      23
+    ],
+    "text": "amended by the repeal of subsections (2) and (8) of that Sdof the,",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      822,
+      448,
+      29
+    ],
+    "text": "section. : Saacbent,",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      856,
+      474,
+      20
+    ],
+    "text": "2D woes on0 01/189 . 1",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      187,
+      60,
+      318,
+      13
+    ],
+    "text": "< Finance (Ainendment) Act, No. 22 of 1992",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      95,
+      86,
+      470,
+      28
+    ],
+    "text": "fgendinent %& Section 62 of the principal enactment is hereby |",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      100,
+      104,
+      465,
+      19
+    ],
+    "text": "Gotihe amended by the deletion of the words or a company '",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      100,
+      123,
+      450,
+      20
+    ],
+    "text": "Progral and or company wherever those words occur in that",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      184,
+      145,
+      285,
+      22
+    ],
+    "text": "section. .",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      95,
+      210,
+      455,
+      21
+    ],
+    "text": "Amendment 6. Section 64 of the principal enactment is hereby",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      100,
+      225,
+      442,
+      25
+    ],
+    "text": "ae amended by the repeal of subsection (1) of that section.",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      100,
+      246,
+      46,
+      11
+    ],
+    "text": "principal",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      100,
+      258,
+      56,
+      9
+    ],
+    "text": "Enactomt,",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      554,
+      285,
+      4,
+      11
+    ],
+    "text": "'",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      100,
+      296,
+      458,
+      19
+    ],
+    "text": "Amenimest 7. Section 66 of the principel enactment in hereby",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      100,
+      309,
+      452,
+      20
+    ],
+    "text": "Site =samended by the repeal of the definition of property \",",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      101,
+      331,
+      451,
+      20
+    ],
+    "text": "Principal and the substitution, of the following definition therefor :",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      241,
+      365,
+      199,
+      13
+    ],
+    "text": "* property\" means any land ;*",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      97,
+      394,
+      456,
+      27
+    ],
+    "text": "Sinkals & In the event of any inconsistency between the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      97,
+      416,
+      455,
+      27
+    ],
+    "text": "verte Sinhala and Tamil texte of this Act, the Sinhals text shall",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      101,
+      433,
+      135,
+      20
+    ],
+    "text": "feeaseot prevail.",
+    "mean_p_confidence": 0.09
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      101,
+      452,
+      47,
+      9
+    ],
+    "text": "inconsior",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      101,
+      465,
+      34,
+      8
+    ],
+    "text": "seo.",
+    "mean_p_confidence": 0.24
+  }
+]

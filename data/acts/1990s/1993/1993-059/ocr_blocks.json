@@ -1,0 +1,717 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      207,
+      53,
+      141,
+      48
+    ],
+    "text": "fee",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      292,
+      147,
+      51,
+      28
+    ],
+    "text": "ee",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      79,
+      218,
+      459,
+      19
+    ],
+    "text": "THE PARLIAMENT OF THE DEMOCRATIC",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      171,
+      247,
+      269,
+      18
+    ],
+    "text": "SOCIALIST REPUBLIC OF",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      246,
+      275,
+      120,
+      18
+    ],
+    "text": "SRI LANKA",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      177,
+      396,
+      259,
+      18
+    ],
+    "text": "MAHAWELI AUTHORITY",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      231,
+      427,
+      156,
+      24
+    ],
+    "text": "(AMENDMENT)",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      193,
+      457,
+      216,
+      22
+    ],
+    "text": "ACT, No. 59 OF 1993",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      73,
+      558,
+      350,
+      29
+    ],
+    "text": "[Certified on 13h December, 1993]",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      184,
+      633,
+      243,
+      14
+    ],
+    "text": "Printed on the Order of Government",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68,
+      729,
+      478,
+      14
+    ],
+    "text": "Published as a Supplement to Part Il of the Gazette of the Democratic",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      132,
+      747,
+      349,
+      14
+    ],
+    "text": "Socialist Republic of Sri Lanka of December 17, 1993",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      124,
+      798,
+      365,
+      17
+    ],
+    "text": "PRINTED AT TE DEANTOMEN OF COVERNDEEDTE PAIATING, SRE LANA",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      103,
+      824,
+      409,
+      10
+    ],
+    "text": "FO RE FURCGASED A TEE COVENANT YUDLIGATIONNE BUREAG, COLOMBO",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66,
+      847,
+      498,
+      26
+    ],
+    "text": "Price: 30 cents, | Postage: Be, 100",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      169,
+      35,
+      233,
+      16
+    ],
+    "text": "Mahawelt Authority (Amendment)",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      221,
+      60,
+      123,
+      14
+    ],
+    "text": "Act No. 59 of 1998",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      166,
+      83,
+      240,
+      14
+    ],
+    "text": "[Certified on 13th December, 1993]",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88,
+      101,
+      92,
+      18
+    ],
+    "text": "LD0, 56/93",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      138,
+      138,
+      292,
+      14
+    ],
+    "text": "Aw Act 10 anceny rine MaHAavimit AUTHORITY",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      216,
+      158,
+      133,
+      12
+    ],
+    "text": "Act, No, 28 or 1979",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      178,
+      394,
+      20
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic Socialist",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      195,
+      247,
+      18
+    ],
+    "text": "Republic of Sri Lanka ag follows :",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98,
+      221,
+      460,
+      18
+    ],
+    "text": "1. This Act may be cited as the Mahawelt Authority Shorttitle",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      236,
+      230,
+      20
+    ],
+    "text": "Amendment) Act, No, 59 of 1993.",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      100,
+      262,
+      444,
+      19
+    ],
+    "text": "2 The dollowing section fs hereby inserted imme- Insertion",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      277,
+      468,
+      22
+    ],
+    "text": "Gately after section 22 of the Mahaweli Authority Act, of scetion",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      292,
+      445,
+      19
+    ],
+    "text": "Xo. 25 of 1979 and shall have effect as section 22a that No 2",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      310,
+      454,
+      13
+    ],
+    "text": "Act : of 2079,",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      334,
+      388,
+      30
+    ],
+    "text": "Special 22s. it shall be lawful for the Minister to",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      352,
+      391,
+      21
+    ],
+    "text": "Hingtes! whom the administration of this Act is as-",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      179,
+      376,
+      292,
+      14
+    ],
+    "text": "signed to exercise in, or with respect to, any",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      179,
+      393,
+      88,
+      14
+    ],
+    "text": "special area",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      193,
+      420,
+      276,
+      15
+    ],
+    "text": "(@) the powers conferred on a Minister by",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      230,
+      437,
+      239,
+      14
+    ],
+    "text": "paragraph (b) of the proviso to sec-",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      230,
+      453,
+      238,
+      13
+    ],
+    "text": "Hon 20 of the Lend Development",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      229,
+      470,
+      72,
+      13
+    ],
+    "text": "Ordinance ;",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      192,
+      490,
+      275,
+      14
+    ],
+    "text": "{b) the powers conferred on a Minister by",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      229,
+      506,
+      238,
+      14
+    ],
+    "text": "sections 49, 61, 72 and 40 of the",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      230,
+      523,
+      204,
+      13
+    ],
+    "text": "Crown Lands Ordinance; and",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      191,
+      542,
+      274,
+      14
+    ],
+    "text": "() the powers relating to special grants",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      228,
+      559,
+      236,
+      11
+    ],
+    "text": "and leases of State land conferred on",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      225,
+      574,
+      238,
+      14
+    ],
+    "text": "a Minister by any provision of the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      225,
+      591,
+      238,
+      14
+    ],
+    "text": "Crown Lands Ordinance or by any",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      227,
+      607,
+      234,
+      13
+    ],
+    "text": "Order or regulation made there-",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      227,
+      623,
+      39,
+      12
+    ],
+    "text": "under,",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      175,
+      650,
+      285,
+      12
+    ],
+    "text": "ag if the reference to Minister. in such",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      174,
+      666,
+      286,
+      14
+    ],
+    "text": "section, provision, order or regulation were",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      174,
+      682,
+      284,
+      12
+    ],
+    "text": "ateference to the Minister to whom the",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      173,
+      697,
+      284,
+      15
+    ],
+    "text": "administration of this Act fs assigned ; and",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      173,
+      713,
+      283,
+      15
+    ],
+    "text": "for so long and so long only as this section",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      173,
+      728,
+      283,
+      14
+    ],
+    "text": "js in force. no Minister other than the",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      173,
+      744,
+      282,
+      14
+    ],
+    "text": "Minister to whom the administration of",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      172,
+      760,
+      282,
+      13
+    ],
+    "text": "this Act ts assigned shali exercise and such",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      172,
+      776,
+      281,
+      14
+    ],
+    "text": "power, in, or with respect to,a special area, .",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      799,
+      423,
+      14
+    ],
+    "text": "3. In the event of ony inconsistency between the Sinhala Sinhata",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      813,
+      443,
+      18
+    ],
+    "text": "and Tamil testa of this Act, the Sinhala text shall prevail. 4st fo.",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      467,
+      825,
+      57,
+      10
+    ],
+    "text": "provall in",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      467,
+      836,
+      85,
+      10
+    ],
+    "text": "fase af fa",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      464,
+      844,
+      102,
+      22
+    ],
+    "text": "consiatency, .",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      94,
+      795,
+      468,
+      15
+    ],
+    "text": "a",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      85,
+      802,
+      478,
+      22
+    ],
+    "text": "Asmual aubscriptiow at Engiish Bills ond Acts of the Parlamont Ra $40 (Lostt),",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      85,
+      817,
+      477,
+      21
+    ],
+    "text": "Re 160 (Foreigy),: payable to the Sorruzminirs, Govennicxe? POTCICATS",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      85,
+      830,
+      442,
+      16
+    ],
+    "text": "Mumeav, Na, 25, Bxudeholoka Mawatha, Cotorabo 7, befate 15th December",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      210,
+      846,
+      223,
+      13
+    ],
+    "text": "year in respect of the year following,",
+    "mean_p_confidence": 0.64
+  }
+]
