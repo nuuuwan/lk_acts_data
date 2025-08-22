@@ -1,0 +1,816 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      46,
+      148,
+      288,
+      15
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      90,
+      168,
+      201,
+      15
+    ],
+    "text": "SOCIALIST REPUBLIC OF",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      146,
+      189,
+      89,
+      13
+    ],
+    "text": "SRI LANKA",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      43,
+      259,
+      296,
+      13
+    ],
+    "text": "SRI LANKA INSTITUTE OF DEVELOPMENT",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      74,
+      277,
+      235,
+      13
+    ],
+    "text": "ADMINISTRATION (AMENDMENT)",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      127,
+      295,
+      132,
+      13
+    ],
+    "text": "ACT, No.22 OF 1997",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      127,
+      365,
+      132,
+      11
+    ],
+    "text": "[Corthed on 12h Ang, 1997]",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      119,
+      395,
+      151,
+      16
+    ],
+    "text": "rinsed onthe Order of Covers",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      39,
+      471,
+      310,
+      12
+    ],
+    "text": "Publnhed a Supplement to Pat ofthe Ganete ofthe Democrat Sexist",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      110,
+      484,
+      169,
+      11
+    ],
+    "text": "Repablic of Srl Laahsof Angus !5,1997",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      33,
+      520,
+      323,
+      23
+    ],
+    "text": "SrnnisarananennecrenceaneT",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      30,
+      542,
+      326,
+      28
+    ],
+    "text": "Pion ta 344 Postage Ras 250",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      53,
+      34,
+      220,
+      12
+    ],
+    "text": "Sri Lamba instinete of Developinent Admisiiraion",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      47,
+      145,
+      12
+    ],
+    "text": "(Amaninen) Act, Na. 22 of 1997",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      95,
+      72,
+      137,
+      12
+    ],
+    "text": "{Certified om 120s Auguss, 1997}",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      39,
+      97,
+      60,
+      8
+    ],
+    "text": "LP~0, 3194",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      39,
+      120,
+      247,
+      11
+    ],
+    "text": "Av Acro asso rua Set Lana [esate cf Deverowneer",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      133,
+      148,
+      10
+    ],
+    "text": "Atunesrnsrion ACT, No.9 06 1982,",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      37,
+      155,
+      249,
+      11
+    ],
+    "text": "BE k enactsd by the Pstinment of the Deanocrtle Soealiat",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      37,
+      168,
+      154,
+      10
+    ],
+    "text": "Ropublic of Sci Lanka as follows >",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      50,
+      191,
+      275,
+      11
+    ],
+    "text": "1s, This Act may be cited ns the Sri Lanka Instute of Store",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      37,
+      203,
+      249,
+      12
+    ],
+    "text": "Development Administration (Ameadmeat) Act, No. 22 of",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      38,
+      216,
+      19,
+      8
+    ],
+    "text": "1997,",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      49,
+      241,
+      293,
+      13
+    ],
+    "text": "2. Section 6 of dhe Sri Lanka Tnutane of Developmeat Avendmenof",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      36,
+      254,
+      308,
+      18
+    ],
+    "text": "Administeation Act, No. 9081982 (bereinais fered to as Hen ot At",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      36,
+      266,
+      301,
+      12
+    ],
+    "text": "the principal epactaucot) is hereby amended in subsection \"#1982",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      36,
+      279,
+      134,
+      9
+    ],
+    "text": "(U}of hat section as follows",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      54,
+      302,
+      231,
+      13
+    ],
+    "text": ") Sm. petagraph {c) of that subsection, by the",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      315,
+      211,
+      12
+    ],
+    "text": "substinuion, for wbe wens subjct of Fisance and",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      327,
+      211,
+      13
+    ],
+    "text": "tanning, of be words subject of Home Affair",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      54,
+      346,
+      230,
+      14
+    ],
+    "text": "@} in paragraph (4) of that subsection, by the",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      359,
+      211,
+      13
+    ],
+    "text": "substitution, for the words subject of Plan",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      372,
+      211,
+      12
+    ],
+    "text": "Implememation. of the words. subject of Finance:",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      53,
+      390,
+      230,
+      13
+    ],
+    "text": "8) im paragraph (e) of that subsection, by the",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      403,
+      211,
+      13
+    ],
+    "text": "substitution, for the words tubject of Higher",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      416,
+      201,
+      13
+    ],
+    "text": "Education of the words subject of Planning :",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      53,
+      434,
+      230,
+      13
+    ],
+    "text": "() in paragraph (f) of that subsection, by the",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      447,
+      211,
+      12
+    ],
+    "text": "ubitlurion. forthe morde\"subjectof Hora ATTairs\",",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      459,
+      203,
+      12
+    ],
+    "text": "of the sords subject of Higher Education an",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      52,
+      478,
+      230,
+      12
+    ],
+    "text": "48) by the repeal of paragrighs () aad (h) of than",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      491,
+      211,
+      13
+    ],
+    "text": "subsection, and the subatation of the following.",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      504,
+      94,
+      10
+    ],
+    "text": "paragraphs, therefor",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      526,
+      210,
+      13
+    ],
+    "text": "*g) the person forthe imo being bolding affice as",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      95,
+      539,
+      186,
+      12
+    ],
+    "text": "Scoreary to the Minisy of the Miointr in",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      95,
+      552,
+      186,
+      11
+    ],
+    "text": "sharge of te subject of Provincial Councils;",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      26,
+      571,
+      102,
+      9
+    ],
+    "text": "2 Downnea530 0708)",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      101,
+      32,
+      232,
+      11
+    ],
+    "text": "2 SoiLanka natiue of Development Adminstration",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      151,
+      44,
+      145,
+      12
+    ],
+    "text": "Amandaes) het. No, 22 of 957",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143,
+      69,
+      205,
+      12
+    ],
+    "text": "10) owepenes who athe apnion se Mine,",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      162,
+      82,
+      186,
+      11
+    ],
+    "text": "have itngishedshemicvesin mangement",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      162,
+      96,
+      87,
+      10
+    ],
+    "text": "inte presets",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      146,
+      119,
+      203,
+      12
+    ],
+    "text": "40) wo persons who reo have been, hong",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      163,
+      132,
+      186,
+      12
+    ],
+    "text": "inporem poston in mangeteh in th",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      163,
+      146,
+      76,
+      11
+    ],
+    "text": "priser and",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      148,
+      169,
+      202,
+      13
+    ],
+    "text": "(0) the peroam forthe time being oldng ofc",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      164,
+      182,
+      186,
+      11
+    ],
+    "text": "tbe Diecot of the Inte wh shall ako",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      164,
+      195,
+      148,
+      10
+    ],
+    "text": "Seneton a connor of the Coun",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      149,
+      219,
+      202,
+      11
+    ],
+    "text": "Provided towerer whee to of more. sibjnets",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      149,
+      232,
+      202,
+      13
+    ],
+    "text": "speciedin paragraph og) ofknsabetion",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      149,
+      245,
+      201,
+      12
+    ],
+    "text": "se asigned to ove Minit the Minizer may",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      149,
+      257,
+      202,
+      13
+    ],
+    "text": "gpoim inacontn De Secretary tothe Minis",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      149,
+      269,
+      202,
+      12
+    ],
+    "text": "Ofte Fextmensioncd Minster the Addon",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      150,
+      282,
+      202,
+      13
+    ],
+    "text": "Seursary in charge ofthe relevant shes be 8",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      150,
+      296,
+      105,
+      10
+    ],
+    "text": "smember of the Counc",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      30,
+      320,
+      323,
+      14
+    ],
+    "text": "ancinesct __Seton7ofibprnipeenacment bee amended",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      30,
+      333,
+      323,
+      12
+    ],
+    "text": "aoeTete in sheen (3) of hat gc, by the subaiuton, fr the",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      30,
+      345,
+      323,
+      19
+    ],
+    "text": "reves! wordan igus paragraph (of ration 6 s0Fthe wocds",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      105,
+      358,
+      235,
+      14
+    ],
+    "text": "de igre parrot () or parse (of etn 6,",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      31,
+      383,
+      323,
+      13
+    ],
+    "text": "sumone _&_ Tn the evento any lconssacy berweea the Sisbala",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      31,
+      395,
+      311,
+      13
+    ],
+    "text": "fretineacot and Tamil texts of this Art. the Sabla ox shal prevail",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      34,
+      519,
+      324,
+      8
+    ],
+    "text": "__",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      34,
+      527,
+      321,
+      13
+    ],
+    "text": "Taoaisocinieinphnmiewa havea Pane Rae Te",
+    "mean_p_confidence": 0.08
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      34,
+      537,
+      323,
+      14
+    ],
+    "text": "(eal St Seumepen, omen Praesnore Baste 32 Fever Hach",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      44,
+      548,
+      301,
+      11
+    ],
+    "text": "Taichi nce Fas Ih Donec et peat or mE",
+    "mean_p_confidence": 0.28
+  }
+]

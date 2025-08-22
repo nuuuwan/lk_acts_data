@@ -1,0 +1,893 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      3,
+      2,
+      362,
+      22
+    ],
+    "text": "fe :",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      0,
+      43,
+      9,
+      19
+    ],
+    "text": ";",
+    "mean_p_confidence": 0.03
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      0,
+      57,
+      238,
+      86
+    ],
+    "text": "| a",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      3,
+      165,
+      341,
+      13
+    ],
+    "text": "A PARLIAMENT OF THE DEMOCRATIC",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      105,
+      184,
+      201,
+      13
+    ],
+    "text": "SOCIALIST REPUBLIC OF",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      0,
+      204,
+      250,
+      36
+    ],
+    "text": ": SRI LANKA",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      0,
+      259,
+      341,
+      25
+    ],
+    "text": "- THE MONETARY LAW (AMENDMENT)",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      1,
+      284,
+      273,
+      17
+    ],
+    "text": "j ACT, No.6 OF 1998",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      0,
+      345,
+      276,
+      12
+    ],
+    "text": "r [Certified om 27th March, 1998)",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      131,
+      379,
+      152,
+      11
+    ],
+    "text": "Pear Ore nome",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59,
+      450,
+      295,
+      11
+    ],
+    "text": "Pubtihed a Supple Fat ofthe Gamo the Denne",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      98,
+      466,
+      217,
+      11
+    ],
+    "text": "ocalit Rapel of Sr Lenka of Mach, (98",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93,
+      533,
+      228,
+      7
+    ],
+    "text": "ro emacs",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      42,
+      550,
+      327,
+      32
+    ],
+    "text": "Peer a 280 Penge Ra 280",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      37,
+      214,
+      11
+    ],
+    "text": "Phe Monetary Law Amend No.8 of 188",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      111,
+      67,
+      132,
+      10
+    ],
+    "text": "[Corin on 204 Mach, 1956]",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      54,
+      78,
+      215,
+      31
+    ],
+    "text": "Lp-oxm, :",
+    "mean_p_confidence": 0.08
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      113,
+      173,
+      9
+    ],
+    "text": "dcr rosso ie Mover Lie Ae",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      54,
+      137,
+      247,
+      11
+    ],
+    "text": "BE i coscd by he Pcianen of be Decree Sci",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      54,
+      149,
+      144,
+      11
+    ],
+    "text": "Repaic of Si Lana flow",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      173,
+      282,
+      11
+    ],
+    "text": "This Ast may be cited asthe Manciary Law~ scat",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      54,
+      186,
+      142,
+      10
+    ],
+    "text": "Cmeadnrat Act, Noo 1998",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      210,
+      302,
+      12
+    ],
+    "text": "2 The following aow seston us herby inserted eptectore",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      54,
+      220,
+      307,
+      17
+    ],
+    "text": "Inanedinicy fe cvton 52 ofthe Monetuy Law Act, Ene",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      54,
+      230,
+      287,
+      15
+    ],
+    "text": "(Geninafer fee esi \"pci ccactmer andi",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      54,
+      247,
+      164,
+      9
+    ],
+    "text": "Ia fet as win 2A of aA",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      54,
+      271,
+      248,
+      11
+    ],
+    "text": "Dine 524 (0) The Cate Bak my wi he",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      54,
+      284,
+      248,
+      11
+    ],
+    "text": "SESE, sepa ofthe Miser charge om ect,",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      54,
+      296,
+      248,
+      14
+    ],
+    "text": "TEES of raaace ond sebjet 10 evction 53, Saree",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      54,
+      309,
+      215,
+      11
+    ],
+    "text": "See conrnerocatie cumeny ont cr cn",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      54,
+      322,
+      19,
+      7
+    ],
+    "text": "=",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      120,
+      333,
+      182,
+      11
+    ],
+    "text": "() Conmenoraine unecy acs or oohn",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108,
+      346,
+      194,
+      10
+    ],
+    "text": "ese unr parepgh (ef i teeta oy",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      107,
+      358,
+      195,
+      11
+    ],
+    "text": "salle po higher an denraton",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      107,
+      371,
+      196,
+      10
+    ],
+    "text": "specie i vc ots or cla ad ns way be",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      107,
+      383,
+      196,
+      10
+    ],
+    "text": "eid ty the Mic a care of he",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108,
+      396,
+      78,
+      10
+    ],
+    "text": "rete ohare,",
+    "mean_p_confidence": 0.09
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      120,
+      419,
+      183,
+      11
+    ],
+    "text": "2) The se cfs cormnemorte cavacy",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108,
+      432,
+      195,
+      11
+    ],
+    "text": "er col bond under suerte (14 pt",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108,
+      445,
+      195,
+      10
+    ],
+    "text": "Whe tha Be deri peli in such",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108,
+      457,
+      195,
+      11
+    ],
+    "text": "sera nal be Gece not to be",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108,
+      470,
+      127,
+      8
+    ],
+    "text": "concarorlog of sel St.",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      120,
+      494,
+      183,
+      11
+    ],
+    "text": ") Ini reton commamensiecueney",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108,
+      506,
+      195,
+      11
+    ],
+    "text": "ane coin rete a caren mol col",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108,
+      519,
+      195,
+      11
+    ],
+    "text": "itaoed to somacunnac ny pew 6 pea",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      107,
+      531,
+      32,
+      9
+    ],
+    "text": "oat\".",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      574,
+      98,
+      8
+    ],
+    "text": "2nomsyassi0ie)",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      105,
+      46,
+      232,
+      13
+    ],
+    "text": "2 The Moneusry Law {Amendiwent} Act, No. 6 of 1998",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      31,
+      74,
+      321,
+      13
+    ],
+    "text": "seminseee 3. Seton $5 of lo prinipa exscnsa ie heey",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      31,
+      87,
+      172,
+      18
+    ],
+    "text": "SEF cenaadn toes",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119,
+      108,
+      235,
+      13
+    ],
+    "text": "(0) bye remrtring 0 hat ion a webton()",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      137,
+      123,
+      64,
+      9
+    ],
+    "text": "cies",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119,
+      145,
+      235,
+      14
+    ],
+    "text": "(2) frente nto (1) fat on by",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      138,
+      158,
+      216,
+      11
+    ],
+    "text": "fheacatnica ore woke \"pon ew Yon",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      138,
+      170,
+      217,
+      14
+    ],
+    "text": "paso of ee wots bajo ke orks of",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      138,
+      183,
+      193,
+      12
+    ],
+    "text": "Serio Gh pen ontop Pee:",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      120,
+      207,
+      235,
+      14
+    ],
+    "text": "(2) byt sion ines serf reanbeed",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      138,
+      220,
+      217,
+      12
+    ],
+    "text": "Sazston 1) of ht seton of he foowing",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      139,
+      235,
+      59,
+      9
+    ],
+    "text": "sere",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      152,
+      257,
+      205,
+      13
+    ],
+    "text": "(2) Nothing im svbscetion (1) shall be read aad.",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      140,
+      269,
+      217,
+      14
+    ],
+    "text": "courted w eng en caiguon ow be Cx",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      140,
+      282,
+      217,
+      12
+    ],
+    "text": "Sank der dene weer oerion 507",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      140,
+      294,
+      218,
+      13
+    ],
+    "text": "omowornnyouerey noc anid ter",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      140,
+      307,
+      218,
+      13
+    ],
+    "text": "Satoru nh eed com orca",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      141,
+      320,
+      217,
+      12
+    ],
+    "text": "rota dentnnacen ected thc",
+    "mean_p_confidence": 0.09
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      141,
+      335,
+      38,
+      10
+    ],
+    "text": "econ",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      36,
+      357,
+      323,
+      14
+    ],
+    "text": "rower: The emenvats mde pl cuit",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      31,
+      369,
+      328,
+      22
+    ],
+    "text": "sea sections 2 and 3.of this Act, shall be deemed for all parposes",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      111,
+      383,
+      248,
+      12
+    ],
+    "text": "Sinton inten Feroy 609 and oog",
+    "mean_p_confidence": 0.07
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      111,
+      395,
+      249,
+      15
+    ],
+    "text": "eiamatonve carey wo er en nel oro",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      111,
+      407,
+      250,
+      14
+    ],
+    "text": "egurFeay 2998 tbo he commence",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      112,
+      420,
+      249,
+      13
+    ],
+    "text": "esac llr, forall air tare en ol 2",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      112,
+      435,
+      112,
+      12
+    ],
+    "text": "Aertel aed rt",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      38,
+      458,
+      323,
+      14
+    ],
+    "text": "seuaimie 5. tihanvemof my inenaeny boven Sala",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      38,
+      471,
+      308,
+      13
+    ],
+    "text": "poesiaeee and Tal tb iA Sal et all eal",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      38,
+      486,
+      47,
+      7
+    ],
+    "text": "cmnor",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      40,
+      525,
+      323,
+      10
+    ],
+    "text": "ee",
+    "mean_p_confidence": 0.03
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      40,
+      531,
+      324,
+      14
+    ],
+    "text": "Keoersacieig Waa tis aon is Feta BS",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      40,
+      541,
+      324,
+      15
+    ],
+    "text": "Rene ata Bt tcamees nme Pere ere es",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      40,
+      552,
+      323,
+      13
+    ],
+    "text": "Sera Path ote fie eed bona che",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      168,
+      564,
+      71,
+      9
+    ],
+    "text": "preety",
+    "mean_p_confidence": 0.15
+  }
+]

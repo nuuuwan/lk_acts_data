@@ -1,0 +1,4974 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      105,
+      205,
+      446,
+      27
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC .",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      173,
+      236,
+      379,
+      21
+    ],
+    "text": "SOCIALIST REPUBLIC OF f",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      130,
+      267,
+      255,
+      18
+    ],
+    "text": "we SRI LANKA",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      105,
+      381,
+      394,
+      18
+    ],
+    "text": ": DEVELOPMENT LOTTERIES BOARD",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      104,
+      408,
+      426,
+      26
+    ],
+    "text": ". * + ACT, No. 20 OF 1997 os",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88,
+      510,
+      330,
+      19
+    ],
+    "text": ", [Certified on 12th August, 1997]",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      148,
+      556,
+      345,
+      26
+    ],
+    "text": "; Printed on the Order of Government",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      92,
+      639,
+      436,
+      45
+    ],
+    "text": "Published as a-Supplement to Pat of the Gazette of the Democratic",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      160,
+      678,
+      304,
+      17
+    ],
+    "text": "Socialist Republic of Sri Lanka of August 15, 1997",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      174,
+      745,
+      280,
+      24
+    ],
+    "text": "mone 4 womans oF Cora MATRA",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      157,
+      781,
+      311,
+      13
+    ],
+    "text": "\"TO MrAASHD ATT OOVEROEET PLCATING REN, COUCHNG 1",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72,
+      805,
+      476,
+      15
+    ],
+    "text": "Price: Ra. 10.25 +. Postage Bs. 4.60",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      103,
+      40,
+      327,
+      16
+    ],
+    "text": "Development Lotteries Board Act, No. 20 of 1997",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      145,
+      80,
+      204,
+      15
+    ],
+    "text": "(Certified on 12th August, 1997]",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      111,
+      477,
+      18
+    ],
+    "text": "L. D0. 896. :",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      148,
+      375,
+      13
+    ],
+    "text": "AN ACT TO PROVIDE FOR THE ESTABLISHMENT OF A DEVELOPMENT",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      157,
+      488,
+      32
+    ],
+    "text": "Lorrennes BOARD FOR THE CONDUCT OF LOTTERIES AND FOR .",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      189,
+      331,
+      9
+    ],
+    "text": "MATTERS CONNECTED THEREWITH OR INCTDENTAL THERETO",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      211,
+      442,
+      23
+    ],
+    "text": "BE it enucted by the Pacliament of the Democratic Socialist",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64,
+      238,
+      299,
+      18
+    ],
+    "text": "Republic of Sri Lanka as follows : ;",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      268,
+      416,
+      20
+    ],
+    "text": "1. This Act may be cited as the Development Lotteries shor tlle.",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64,
+      291,
+      168,
+      13
+    ],
+    "text": "Board Act, No, 20 of 1997.",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      224,
+      326,
+      52,
+      12
+    ],
+    "text": "PART I",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      359,
+      351,
+      13
+    ],
+    "text": "EsTaBUsHMeNT oF THE DeveLorMent Lovrenes BOARD",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      388,
+      449,
+      34
+    ],
+    "text": "2. (1) There shall be established a Board which shall be brace at",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      407,
+      458,
+      24
+    ],
+    "text": "called the Development Lotteries Board, (hereinafter referred he Developme",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      423,
+      425,
+      23
+    ],
+    "text": "to-as the Board,) baneries",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      460,
+      352,
+      17
+    ],
+    "text": "2) The Board shall, by the name assigned to it by",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      479,
+      370,
+      17
+    ],
+    "text": "subsection (1), bea body corporate with perpetual succession",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      498,
+      371,
+      16
+    ],
+    "text": "and a common seal and may sue and be sued in its corporate",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      506,
+      332,
+      32
+    ],
+    "text": "name. vee rer",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      550,
+      457,
+      19
+    ],
+    "text": "3. (1) The Board shall consist of Constitution of the",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      216,
+      568,
+      267,
+      12
+    ],
+    "text": ": 5 + Board.",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58,
+      587,
+      295,
+      16
+    ],
+    "text": "\"the following ex-officio members :",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      130,
+      617,
+      309,
+      16
+    ],
+    "text": "@ the Chairmanof the Mahapola Higher Education",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      154,
+      636,
+      280,
+      16
+    ],
+    "text": "Scholarship Trust Fund or his representative $",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      664,
+      380,
+      17
+    ],
+    "text": "sus Gi) the secretary to the President or his ~+ '",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      151,
+      678,
+      305,
+      25
+    ],
+    "text": "represcntative ; ot Meged bus",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      123,
+      713,
+      317,
+      16
+    ],
+    "text": "Gil) the Secretary to the Ministry of the Minister or",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      155,
+      732,
+      141,
+      15
+    ],
+    "text": "hhis representative ; and",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      100,
+      754,
+      346,
+      23
+    ],
+    "text": "() owo other members appointed by the Minister, =",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      791,
+      369,
+      15
+    ],
+    "text": "Amember appointed under paragraph (2) shalt hereinafter be",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      800,
+      405,
+      32
+    ],
+    "text": "referred to-as an appointed member. BL",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      839,
+      147,
+      12
+    ],
+    "text": "2D 49378, 550 (97705)",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      193,
+      38,
+      348,
+      19
+    ],
+    "text": "2 Development Lotteries Board Act, No. 20 of 1997",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      211,
+      77,
+      352,
+      18
+    ],
+    "text": "(2) Apperson shall be disqualified from being appointed or",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      155,
+      96,
+      314,
+      15
+    ],
+    "text": "+ Continuing as a member of the Board if he",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      220,
+      133,
+      340,
+      15
+    ],
+    "text": "(a) isa Member of Paliament, a member of a Provincial",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      247,
+      152,
+      271,
+      19
+    ],
+    "text": "Council or a member of a local authority ;",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      219,
+      185,
+      341,
+      19
+    ],
+    "text": "() directly or indirectly, by himself or by any other",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      246,
+      206,
+      313,
+      16
+    ],
+    "text": "person on his behalf, hokis o enjoys any right or",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      204,
+      224,
+      353,
+      16
+    ],
+    "text": ". benefit under any contract made by or on behalf of,",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      242,
+      231,
+      297,
+      33
+    ],
+    "text": "the Board : ;",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      218,
+      279,
+      358,
+      18
+    ],
+    "text": "() is under any law in force in Sri Lanka or any other",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      244,
+      300,
+      311,
+      15
+    ],
+    "text": "country, found or declared to be of unsound mind ;",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      216,
+      336,
+      338,
+      18
+    ],
+    "text": "(@) is a person who, having been declared an insolvent,",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      243,
+      357,
+      311,
+      16
+    ],
+    "text": "ora bankrupt under any Jaw in force in Sri Lanka or",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      243,
+      375,
+      311,
+      16
+    ],
+    "text": "in any other country, is an undischarged insolvent or",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      243,
+      394,
+      80,
+      16
+    ],
+    "text": "bankrupt oF",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      192,
+      426,
+      360,
+      21
+    ],
+    "text": "* @ is a person on whom a sentence of imprisonment",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      242,
+      450,
+      309,
+      16
+    ],
+    "text": "Gneluding a suspended sentence) has been imposed",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      241,
+      469,
+      301,
+      15
+    ],
+    "text": "by any court in Sri Lanka or in any otber country.",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70,
+      505,
+      479,
+      18
+    ],
+    "text": "Termofofticsof 4. (1). Every appointed member of the Board shall,",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      66,
+      517,
+      483,
+      29
+    ],
+    "text": "members. unless he vacates office earlier by death, resignation or re-",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      184,
+      544,
+      364,
+      17
+    ],
+    "text": "moval, hold office for a period of three years reckoned from",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      184,
+      563,
+      364,
+      17
+    ],
+    "text": "the date of his appointmentand shall unless has been removed",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      172,
+      582,
+      268,
+      16
+    ],
+    "text": ". from office, be eligible for reappointment.",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      165,
+      613,
+      382,
+      23
+    ],
+    "text": "* 2) Bvery ex-officio member of the Board shalt hold office",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      182,
+      637,
+      364,
+      17
+    ],
+    "text": "so long as he holds the post by virtue of which he was a",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      123,
+      657,
+      345,
+      15
+    ],
+    "text": ". member of the Board, :",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      200,
+      691,
+      344,
+      17
+    ],
+    "text": "(3) Where an appointed member by reason of illness,",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      182,
+      710,
+      362,
+      17
+    ],
+    "text": "infirmity or absence from Sri Lanka for a period of not Tess",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      181,
+      728,
+      363,
+      17
+    ],
+    "text": "than three months is temporarily unable to perform the duties",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      181,
+      746,
+      362,
+      21
+    ],
+    "text": "of his office, it shall be the duty of such member to inform the",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      180,
+      765,
+      362,
+      17
+    ],
+    "text": "Minister of such inability and thereupon the Minister may,",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      180,
+      784,
+      362,
+      17
+    ],
+    "text": "having regard to the provisions of section 3 appoint some",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      168,
+      802,
+      200,
+      18
+    ],
+    "text": "other person to act in his place,",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      122,
+      45,
+      361,
+      16
+    ],
+    "text": "Development Lotteries Board Act, No. 20 of 1997 3",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      99,
+      84,
+      431,
+      16
+    ],
+    "text": "5. (1) The Minister may, by Order published in the Removal and",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      80,
+      101,
+      454,
+      18
+    ],
+    "text": "Gazette remove any appointed member from office without simula of",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      81,
+      116,
+      485,
+      22
+    ],
+    "text": "assigning any reason therefor. _, sppoioted members,",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      100,
+      151,
+      357,
+      21
+    ],
+    "text": "A member in respect of whom an Order under this section",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      82,
+      175,
+      376,
+      13
+    ],
+    "text": "is made shall be deemed to have vacated his office on the date",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      75,
+      194,
+      307,
+      21
+    ],
+    "text": "_ of publication of such Order in the Gazette, ~",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      102,
+      227,
+      356,
+      17
+    ],
+    "text": "(2) Any appointed member, may at any time resign his",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      84,
+      247,
+      374,
+      15
+    ],
+    "text": "office by letter to that effect addressed tothe Minister and sent",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      84,
+      266,
+      113,
+      15
+    ],
+    "text": "by registered post,",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      59,
+      299,
+      399,
+      16
+    ],
+    "text": "+ 3) Intheeventof the vacation of office by death, resignation",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      85,
+      319,
+      374,
+      15
+    ],
+    "text": "or removal of any appointed member, the Minister may",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86,
+      337,
+      374,
+      16
+    ],
+    "text": "having rgard to the provisions of section 3 appoint any other",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      64,
+      355,
+      501,
+      16
+    ],
+    "text": "_* (petson to succeed such member. Any person so appointed -",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86,
+      374,
+      373,
+      16
+    ],
+    "text": "shall hold office for the unexpired term of office of the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86,
+      393,
+      297,
+      16
+    ],
+    "text": "member whom he succeeds. Loe",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      106,
+      426,
+      446,
+      18
+    ],
+    "text": "6. (1) The Minister shall appoint a Chairman of the Chairman of the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73,
+      443,
+      431,
+      19
+    ],
+    "text": ".. Board from among the members of the Board. Board.",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      55,
+      479,
+      406,
+      16
+    ],
+    "text": ": (2) The Chairman shall be the chief executive officer of",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89,
+      498,
+      371,
+      17
+    ],
+    "text": "the Board and subject to the direction and control of the Board,",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89,
+      518,
+      372,
+      16
+    ],
+    "text": "bbe charged with the administration and management of the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90,
+      536,
+      231,
+      20
+    ],
+    "text": "a affsis of the Board, on",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72,
+      568,
+      390,
+      18
+    ],
+    "text": "\" \" @) Ifthe Chairman of the Board becomes by reason of",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      91,
+      588,
+      370,
+      16
+    ],
+    "text": "illness, infirmity or absence from Sri Lanka, temporarily",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      95,
+      607,
+      366,
+      16
+    ],
+    "text": "unable to perform the duties of his office, the Minister may",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      75,
+      626,
+      374,
+      16
+    ],
+    "text": "appoint any other member of the Board to act in his place.",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      110,
+      657,
+      351,
+      17
+    ],
+    "text": "(4) The Minister may, without assigning any reason",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      92,
+      675,
+      369,
+      15
+    ],
+    "text": "therefor, remove the Chairman from office and such removal",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73,
+      694,
+      348,
+      17
+    ],
+    "text": "~*~ shall not be called in question in any court, i +",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      112,
+      726,
+      350,
+      16
+    ],
+    "text": "cco! (S) The Chairman may resign from the office of Chairman",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      77,
+      744,
+      362,
+      16
+    ],
+    "text": "by letter addressed in that behalf to the Minister, .~,,",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66,
+      769,
+      397,
+      24
+    ],
+    "text": "\"(6 Subjeotto the provisions of subsections (4)and(S),the",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      95,
+      794,
+      368,
+      16
+    ],
+    "text": "term of office of the Chairman shall be the period of his",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      95,
+      813,
+      282,
+      15
+    ],
+    "text": "membership of the Board. .",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      132,
+      55,
+      390,
+      20
+    ],
+    "text": "4 Development Lotteries Board Act, No. 20 of 1997",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      64,
+      89,
+      481,
+      33
+    ],
+    "text": "pants of 0 +4\" (1) Meetings of the Board shall be held at least once",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      96,
+      112,
+      448,
+      20
+    ],
+    "text": "7 * jn every month and in addition, as frequently as are necessary",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      176,
+      133,
+      368,
+      16
+    ],
+    "text": "for the puspose of discharging its functions under this",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      175,
+      152,
+      26,
+      11
+    ],
+    "text": "Act.",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      194,
+      189,
+      350,
+      17
+    ],
+    "text": "(2) The Chaitman of the Board shall if present, preside at",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      164,
+      208,
+      379,
+      16
+    ],
+    "text": ", Svery meeting of the Board. In the absence of the Chairman",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      175,
+      226,
+      368,
+      17
+    ],
+    "text": "from any such meeting, the members present at such meeting",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      174,
+      245,
+      369,
+      16
+    ],
+    "text": "shall elect one of the members present, to preside at such",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144,
+      264,
+      83,
+      15
+    ],
+    "text": "Meeting.",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      170,
+      296,
+      379,
+      20
+    ],
+    "text": "+ (3) The quorum for any meeting of the Board shall be",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      174,
+      319,
+      95,
+      13
+    ],
+    "text": "three members,",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      192,
+      357,
+      349,
+      15
+    ],
+    "text": "(4) The Chairman or any member presiding at any meeting,",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      173,
+      375,
+      367,
+      15
+    ],
+    "text": "of the Board, shall in addition to his own vote, have acasting",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      192,
+      423,
+      347,
+      18
+    ],
+    "text": "(5) Subject so the other provisions of this Act, the Board",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      173,
+      443,
+      366,
+      17
+    ],
+    "text": "may regulate the procedure in regard to the meetings of the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      173,
+      462,
+      340,
+      15
+    ],
+    "text": "Board and the transaction of business at such meetings.",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      57,
+      491,
+      481,
+      25
+    ],
+    "text": "Seeerproseedings:* 8 No act, decision or proceeding of the Board shall be",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      57,
+      511,
+      480,
+      20
+    ],
+    "text": "deemed not tobe deemed to be invalid by reason only of the existence of any",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      58,
+      529,
+      479,
+      22
+    ],
+    "text": "invalid by wason of vacancy in the Board or any defect in the appointment of any",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      57,
+      544,
+      352,
+      24
+    ],
+    "text": "dekamike member theceof, .",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      57,
+      567,
+      345,
+      12
+    ],
+    "text": "*ppointment af a ~",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      56,
+      635,
+      479,
+      22
+    ],
+    "text": "Remonerationof },- 9. The members of the Board miy be paid such",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      56,
+      657,
+      478,
+      25
+    ],
+    "text": "Bante ofthe remuneration out ofthe Fund of the Board in such manner and",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      88,
+      679,
+      397,
+      18
+    ],
+    "text": ". at such rates, as may be determined by the Minister.",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      55,
+      720,
+      479,
+      20
+    ],
+    "text": "Seal of the Board, 10, (1) The seal of the Board may be determined and",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      170,
+      740,
+      363,
+      19
+    ],
+    "text": "devised by the Board and may be altered in such manner as",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      150,
+      761,
+      319,
+      17
+    ],
+    "text": "<i.vtmay be deterenined by the Board. .",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      189,
+      800,
+      343,
+      21
+    ],
+    "text": "252) The seal of the Board shall be in the custody of such",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      170,
+      821,
+      306,
+      20
+    ],
+    "text": "person as the Board may decide from time to time.",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      135,
+      54,
+      359,
+      16
+    ],
+    "text": "Developmen Lotteries Board Act, No. 20 of 1997 $",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      112,
+      94,
+      356,
+      14
+    ],
+    "text": "(8) The seal of the Board shall not be affixed to any",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86,
+      112,
+      382,
+      16
+    ],
+    "text": "- instrument or document except with the sanction of the Board",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      77,
+      131,
+      391,
+      16
+    ],
+    "text": "tnd in the presence of the Chairman and one. member of the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      94,
+      150,
+      375,
+      15
+    ],
+    "text": "Board both of whom shall sign the instrument or document",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      95,
+      168,
+      374,
+      16
+    ],
+    "text": "in token of their presence and such signing shall be independ-",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      94,
+      187,
+      280,
+      16
+    ],
+    "text": "ent of the signing of any person as 2 witness.",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      114,
+      222,
+      355,
+      15
+    ],
+    "text": "(4) The Board shall maintain a register of the instruments",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      96,
+      239,
+      373,
+      14
+    ],
+    "text": "and documents to which the seal ofthe Board has been affixed.",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      116,
+      271,
+      444,
+      26
+    ],
+    "text": "11. (1) The functions of the Board shall be Fonctoas ofthe",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      126,
+      307,
+      345,
+      17
+    ],
+    "text": "(@) toconduct, or arrange for the conduct, of lotteries for",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      154,
+      326,
+      316,
+      17
+    ],
+    "text": "the purpose of generating funds for the President's",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      127,
+      346,
+      66,
+      17
+    ],
+    "text": "_. Fund;",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      127,
+      379,
+      345,
+      17
+    ],
+    "text": "() to remit, as provided for in this Act, the proceeds of",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      155,
+      391,
+      316,
+      43
+    ],
+    "text": "lotteries 80 Songucied to the Presidents Fund to",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      102,
+      417,
+      369,
+      17
+    ],
+    "text": ". enable the President's Fund to make contributions to",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      134,
+      435,
+      338,
+      18
+    ],
+    "text": "_ the Mahapola Higher Education Scholarship Trust",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      152,
+      447,
+      295,
+      30
+    ],
+    "text": "Fund, : .",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      120,
+      486,
+      352,
+      20
+    ],
+    "text": "(2) For the purpose of discharging the functions referred",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      102,
+      508,
+      370,
+      16
+    ],
+    "text": "to in subsection (1) the Board shall have the following",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      102,
+      530,
+      237,
+      15
+    ],
+    "text": "powers a",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      132,
+      560,
+      340,
+      18
+    ],
+    "text": "(@) to acquire, hold, take or give on tease or hire,",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      159,
+      580,
+      324,
+      16
+    ],
+    "text": "mortgage, pledge, sell or otherwise dispose of, any *",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      159,
+      599,
+      286,
+      16
+    ],
+    "text": "movable or immovable property of the Board ;",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      133,
+      630,
+      340,
+      14
+    ],
+    "text": "@) twobtain loans on such terms and conditions as may",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86,
+      648,
+      388,
+      22
+    ],
+    "text": ": be approved by the Minister for the purpose of",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      140,
+      667,
+      215,
+      21
+    ],
+    "text": "__, discharging its functions; ~~",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      135,
+      698,
+      339,
+      17
+    ],
+    "text": "() toaccept gifts, grants or donations whetherin cash or",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      88,
+      716,
+      387,
+      18
+    ],
+    "text": "+. .,., etherwise, and to apply them for the purpose of",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      162,
+      736,
+      347,
+      19
+    ],
+    "text": "discharging its functions ; .",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      136,
+      766,
+      338,
+      16
+    ],
+    "text": "(d) to employ in consultation with the Minister, such",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      123,
+      785,
+      399,
+      19
+    ],
+    "text": "_ officers and servants as may be necessary for -",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93,
+      804,
+      382,
+      16
+    ],
+    "text": "- \"+ discharging the functions of the Boardand determine",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      163,
+      823,
+      285,
+      16
+    ],
+    "text": "the terms and conditions of such employment ;",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      173,
+      54,
+      380,
+      18
+    ],
+    "text": "* 6 Development Lotteries Board Act, No. 20 of 1997",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      239,
+      93,
+      336,
+      15
+    ],
+    "text": "() to determine in consultation with the Minister the",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      265,
+      113,
+      310,
+      16
+    ],
+    "text": "wages, salaries or other remuneration payable to",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      265,
+      131,
+      171,
+      14
+    ],
+    "text": "such officers and servants ;",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      241,
+      157,
+      333,
+      14
+    ],
+    "text": "( to establish, in consultation with the Minister and",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      144,
+      176,
+      430,
+      18
+    ],
+    "text": "ce. regulate, provident funds and other schemes for the",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      155,
+      194,
+      419,
+      14
+    ],
+    "text": ". benefit of such officers and servants, and make",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      264,
+      213,
+      259,
+      15
+    ],
+    "text": "contributions to any such fund or scheme ;",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      196,
+      239,
+      378,
+      15
+    ],
+    "text": "+ (g) to center into and perform all such contracts whether",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      257,
+      257,
+      316,
+      19
+    ],
+    "text": "sn or outside Sri Lanka, as may be necessary for the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      263,
+      276,
+      310,
+      16
+    ],
+    "text": "exercise of the powers and the discharge of the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      263,
+      295,
+      145,
+      14
+    ],
+    "text": "functions of the Board ;",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      198,
+      321,
+      374,
+      16
+    ],
+    "text": "1 (8) to make niles in respect of the administration of the",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      262,
+      340,
+      157,
+      14
+    ],
+    "text": "affairs of the Board ; and",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      238,
+      366,
+      334,
+      16
+    ],
+    "text": "(generally, to do all other things as are necessary 10",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      263,
+      384,
+      309,
+      16
+    ],
+    "text": "facilitate the proper discharge of the functions of the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      169,
+      403,
+      133,
+      16
+    ],
+    "text": "~ ~ Board.",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      93,
+      433,
+      478,
+      18
+    ],
+    "text": "Miniuerto give 2: 12, In the exercise of its powers and the discharge of its",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      92,
+      448,
+      479,
+      20
+    ],
+    "text": "ivections tothe. functions under this Act, the Board shall be subject to such",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      88,
+      459,
+      483,
+      34
+    ],
+    "text": "Boned general or special direction, as may be issued ta it by the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      205,
+      481,
+      151,
+      31
+    ],
+    "text": "Minister, .",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      196,
+      511,
+      355,
+      19
+    ],
+    "text": ", PART I .",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      191,
+      550,
+      346,
+      24
+    ],
+    "text": "cae FINANCE AND STARFOF THEBOARD =,",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90,
+      582,
+      480,
+      15
+    ],
+    "text": "Fund of te Boor, 13. (1) The Board shall have its own Fund. (hereinafter",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      204,
+      602,
+      156,
+      14
+    ],
+    "text": "teferred to as the Fund)",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      222,
+      630,
+      253,
+      14
+    ],
+    "text": "(2) There shatl bs credited to the Fund",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      190,
+      655,
+      378,
+      18
+    ],
+    "text": "+ -3 a) all such sums of money as may be voted from time to.",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      216,
+      674,
+      346,
+      18
+    ],
+    "text": ". time by Parliament, for the use of the Board ; and",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      193,
+      697,
+      374,
+      19
+    ],
+    "text": "* @6) all such sums of money as are required by this Actto",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      258,
+      720,
+      119,
+      16
+    ],
+    "text": "be paid to the Fund,",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      189,
+      743,
+      379,
+      17
+    ],
+    "text": "\"2 3) There shall be paid out of the Fund all such sums of",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      202,
+      761,
+      364,
+      17
+    ],
+    "text": "money as are required to defray the expenditure incurred by",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      202,
+      780,
+      364,
+      15
+    ],
+    "text": "the Board in the exercise and discharge of its powers and",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      202,
+      798,
+      363,
+      15
+    ],
+    "text": "functions under this Act and all such sums of money as are",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      202,
+      817,
+      283,
+      17
+    ],
+    "text": "required to be paid out of the Fund by this Act.",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      107,
+      54,
+      362,
+      16
+    ],
+    "text": "Development Lotteries Board Act, No. 20 of 1997 7",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      56,
+      93,
+      386,
+      16
+    ],
+    "text": "+. (4) Allicheques for the payment of moneys out of the fund",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      65,
+      112,
+      377,
+      16
+    ],
+    "text": "shall be signed by such member of the Board and by any such",
+    "mean_p_confidence": 0.89
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      65,
+      130,
+      378,
+      17
+    ],
+    "text": "officer employed by the Board as may be prescribed by rules",
+    "mean_p_confidence": 0.88
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      66,
+      151,
+      324,
+      15
+    ],
+    "text": "made by Board. .",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      61,
+      182,
+      482,
+      18
+    ],
+    "text": "' \"44. (1) The Gnancial year of the Board shall be the Fisancisl yaraad",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      67,
+      200,
+      473,
+      21
+    ],
+    "text": "calender year. : audit of accouras,",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      87,
+      237,
+      357,
+      16
+    ],
+    "text": "(2) The Board shall cause proper books of accounts to be",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      69,
+      255,
+      375,
+      17
+    ],
+    "text": "keptof theincome-and expenditure including the contributions",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      61,
+      273,
+      383,
+      17
+    ],
+    "text": "_ thade by itto the President's Fund, assets and liabilities and all",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      70,
+      294,
+      275,
+      12
+    ],
+    "text": "other transactions of the Board: :",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      65,
+      326,
+      379,
+      17
+    ],
+    "text": "< (8) The provisions of Article 154, of the Constitution",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      71,
+      345,
+      374,
+      16
+    ],
+    "text": "relating to the audit of the accounts of Public Corporations",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      59,
+      365,
+      337,
+      15
+    ],
+    "text": "+ shall apply to the audit of the accounts of the Board.",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      93,
+      396,
+      443,
+      20
+    ],
+    "text": "15. (1) At the request of the Board, any officer in the Appcinmen: of",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      74,
+      412,
+      467,
+      26
+    ],
+    "text": "public service may, with the consent of that officer and of the sublic ations",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      75,
+      436,
+      414,
+      18
+    ],
+    "text": "Secretary to the Ministry of the Minister in charge of the Board,",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      63,
+      455,
+      383,
+      16
+    ],
+    "text": "\" subjectof Public Administration or of the appropriate Ministry,",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      64,
+      473,
+      382,
+      17
+    ],
+    "text": "be temporarily appointed to the staff of the Board for such",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      77,
+      493,
+      369,
+      16
+    ],
+    "text": "period as may be determined by the Board, with like consent,",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      78,
+      511,
+      368,
+      17
+    ],
+    "text": "cor with fike consent be permanently appointed to such staff.",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      76,
+      546,
+      371,
+      17
+    ],
+    "text": "+ @) Where any officer in the public service is temporarily",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      80,
+      565,
+      367,
+      17
+    ],
+    "text": "appointed tothe staffof the Board, the provisions of subsection",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      80,
+      583,
+      367,
+      17
+    ],
+    "text": "Q) of section 13 of the Transport Board Law, No. 19 of 1978",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      81,
+      602,
+      336,
+      17
+    ],
+    "text": "shall, musatis mutandis, apply to and in relation to him.",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      100,
+      636,
+      348,
+      17
+    ],
+    "text": "(3) Where any officer inthe public service is permanently",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      74,
+      654,
+      376,
+      18
+    ],
+    "text": ". appointed to the staff of the Board, the provisions of",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83,
+      673,
+      365,
+      18
+    ],
+    "text": "subsection (3) of section 13 of the Transport Board Law,",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      70,
+      692,
+      379,
+      20
+    ],
+    "text": ", No. 19 of 1978 shall, musatis mutandis, apply to and in",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      84,
+      709,
+      112,
+      14
+    ],
+    "text": "relation to him,",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      73,
+      746,
+      376,
+      18
+    ],
+    "text": ". (4) Where the Board employs any person who has entered",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      74,
+      765,
+      376,
+      14
+    ],
+    "text": "nto a contract with the Government to serve the Government",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      86,
+      783,
+      364,
+      17
+    ],
+    "text": "for a specified period, any period of service to the Board shall",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      86,
+      802,
+      365,
+      18
+    ],
+    "text": "be regarded as service to the Government, for the purpose of",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      87,
+      821,
+      322,
+      16
+    ],
+    "text": "discharging the obligations of such contract. -",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      194,
+      48,
+      346,
+      23
+    ],
+    "text": "8 Development Lotteries Board Act, No. 20 of 1997",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      210,
+      93,
+      201,
+      12
+    ],
+    "text": "- PART I",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      310,
+      127,
+      137,
+      13
+    ],
+    "text": "Conpucr oF Lorrenes",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      78,
+      148,
+      482,
+      32
+    ],
+    "text": "The Bord to 16, (1) The Board shall conduct or arrange for the",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      81,
+      170,
+      478,
+      32
+    ],
+    "text": "ect conduct of lotteries for the purpose of this Act. Every lottery",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      81,
+      186,
+      478,
+      32
+    ],
+    "text": "ener, so conducted shall bereinaiter in this Act be referred to as a",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      191,
+      215,
+      135,
+      17
+    ],
+    "text": "development lottery.",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      210,
+      249,
+      347,
+      16
+    ],
+    "text": "(2) Every development lottery shall be conducted in such",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      191,
+      268,
+      366,
+      17
+    ],
+    "text": "manner asimay be prescribed, subject howevertothe provisions",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      190,
+      286,
+      69,
+      13
+    ],
+    "text": "of this Act.",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      74,
+      309,
+      482,
+      33
+    ],
+    "text": "Development 17, (1) The number of the prizes to be awarded in each",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      74,
+      330,
+      481,
+      25
+    ],
+    "text": "lottery prizes. development lottery and the type and value of cach of such",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      190,
+      357,
+      329,
+      17
+    ],
+    "text": "Prize shall be as prescribed. .",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      208,
+      392,
+      346,
+      16
+    ],
+    "text": "(2) Every prize awarded in a development lottery may",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      142,
+      411,
+      372,
+      15
+    ],
+    "text": "_ Consist of any one or more of the following:",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      217,
+      438,
+      301,
+      22
+    ],
+    "text": "(a) a house _",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      216,
+      479,
+      129,
+      15
+    ],
+    "text": "(6) a motor vehicle ;",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      178,
+      513,
+      313,
+      16
+    ],
+    "text": "_ any atticle of whatsoever description ; oF",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      215,
+      547,
+      307,
+      16
+    ],
+    "text": "(@ a sum of money. :",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      205,
+      581,
+      346,
+      16
+    ],
+    "text": ") Any prize awarded under subsection (2) shall be",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      186,
+      600,
+      365,
+      16
+    ],
+    "text": "exempt from the payment of income tax under the [ntand",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      168,
+      619,
+      261,
+      16
+    ],
+    "text": "Revenue Act, No. 28 of 1979. ;",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      204,
+      653,
+      346,
+      16
+    ],
+    "text": "(4) The prize winners in every development lotery shall",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      185,
+      671,
+      344,
+      16
+    ],
+    "text": "be determined by the drawing of lots in public or in such",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      185,
+      690,
+      214,
+      16
+    ],
+    "text": "other manner as may be prescribed.",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      203,
+      724,
+      346,
+      16
+    ],
+    "text": "(5). Afterthe expiration of aperiod of six months reckoned",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      185,
+      742,
+      364,
+      15
+    ],
+    "text": "from the date of the determination of prize winners in any",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      166,
+      761,
+      413,
+      16
+    ],
+    "text": "_ development louery, any prize in such lottery which has not ~",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      184,
+      779,
+      365,
+      16
+    ],
+    "text": "been awarded to the person entitled thereto by reason of the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      184,
+      798,
+      395,
+      16
+    ],
+    "text": "fact thet such person is not to bs found shall be forfeited and _",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      184,
+      816,
+      364,
+      16
+    ],
+    "text": "where the prize is a sum of money such sum of money, or",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      122,
+      49,
+      361,
+      17
+    ],
+    "text": "Development Lotteries Board Act, No. 20 of 1997 9",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      80,
+      89,
+      377,
+      15
+    ],
+    "text": "where the prize is a house, a motor vehicle or other article, the",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      81,
+      107,
+      376,
+      16
+    ],
+    "text": "proceeds from the sale of such house, motor vehicle or article",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      81,
+      126,
+      376,
+      13
+    ],
+    "text": "shall be credited to the Fund in the first instance and thereafter",
+    "mean_p_confidence": 0.88
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      82,
+      145,
+      202,
+      12
+    ],
+    "text": "credited to the President's Fund:",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      102,
+      177,
+      356,
+      16
+    ],
+    "text": "Provided, however, that witere any action or proceeding",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      83,
+      196,
+      375,
+      16
+    ],
+    "text": "arising out of any claim made in respect of such prize is",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      84,
+      214,
+      466,
+      17
+    ],
+    "text": "pending before any Court at the expiration of the period :",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      84,
+      233,
+      374,
+      15
+    ],
+    "text": "aforesaid, such forfeiture shall notbe made, and if in the final",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      84,
+      252,
+      374,
+      16
+    ],
+    "text": "determination of that action or proceeding any person is",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      85,
+      270,
+      373,
+      17
+    ],
+    "text": "declared to be entitled to such prize, the Board shall award",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      85,
+      289,
+      373,
+      17
+    ],
+    "text": "such prize to that person, and if no person is so declared and",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      68,
+      309,
+      391,
+      18
+    ],
+    "text": "__ Where the prize is a sum of money, such sum of money, or",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      86,
+      327,
+      373,
+      16
+    ],
+    "text": "where the prize is a house, amotor vehicle or other article, the",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      86,
+      345,
+      373,
+      16
+    ],
+    "text": "proceeds from the sale of suchhouse, motor vehicle or article",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      87,
+      364,
+      373,
+      13
+    ],
+    "text": "shall be credited to the Fund in the first instance and thereafier",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      87,
+      383,
+      199,
+      13
+    ],
+    "text": "credited to the President's Fund,",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108,
+      413,
+      422,
+      19
+    ],
+    "text": "18. (1) The proceeds of every development lottery Proceeds of",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      88,
+      430,
+      447,
+      19
+    ],
+    "text": "conductedunderthis Act, shall inthe firstinstance becredited development",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      89,
+      452,
+      424,
+      13
+    ],
+    "text": "to the Fund.",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108,
+      486,
+      352,
+      16
+    ],
+    "text": "(2) The Board shall pay tothe President's Fund the balance",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90,
+      505,
+      370,
+      16
+    ],
+    "text": "ofthe proceeds of every development lottery after the deduction",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      91,
+      523,
+      370,
+      17
+    ],
+    "text": "from such proceeds an amount approved by the Secretary to",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      91,
+      542,
+      370,
+      17
+    ],
+    "text": "the Ministry in charge of the subject of Finance.as the amount",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      91,
+      561,
+      211,
+      16
+    ],
+    "text": "necessary for the purpose of -",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      73,
+      594,
+      388,
+      18
+    ],
+    "text": "by, _ (@) deftaying, or reimbursing the Fund for the payment",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      148,
+      612,
+      313,
+      17
+    ],
+    "text": "of, the expenses incurred by the Board in conducting.",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      148,
+      631,
+      313,
+      17
+    ],
+    "text": "such lottery, including the value of the prizes awarded",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      74,
+      650,
+      348,
+      15
+    ],
+    "text": "oe 2 imsuchlotterys a oe",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      122,
+      683,
+      339,
+      16
+    ],
+    "text": "@) paying the whole or part of the remuneration, ifany,",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      150,
+      701,
+      314,
+      14
+    ],
+    "text": "of the members of the Board and the remuneration of",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      150,
+      720,
+      271,
+      19
+    ],
+    "text": "the officers and servants of the Board... ,",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      76,
+      751,
+      386,
+      18
+    ],
+    "text": ". () paying the whole or a part of any contributions",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      151,
+      770,
+      312,
+      16
+    ],
+    "text": "payable by the Board to any such provident fund or",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      76,
+      786,
+      370,
+      24
+    ],
+    "text": "ia \"\"-~ gcheme as is referred to in section 11(2) () ; and",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      77,
+      818,
+      362,
+      16
+    ],
+    "text": "++. (@) meeting other liabilities of the Bosed. 1: -.-! 5",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      159,
+      63,
+      395,
+      17
+    ],
+    "text": ", 40 Development Lotteries Board Act , No. 20 of 1997",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      219,
+      102,
+      358,
+      17
+    ],
+    "text": "(3) where any prize money in a development lottery is not",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      199,
+      121,
+      377,
+      17
+    ],
+    "text": "won by any person, such prize money shall, notwithstanding",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      199,
+      140,
+      377,
+      15
+    ],
+    "text": "anything in this section, be credited to a Prize Reserve",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      199,
+      159,
+      377,
+      14
+    ],
+    "text": "Account, and the sums accumulated in such account shatl be",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      167,
+      177,
+      409,
+      18
+    ],
+    "text": "> used for the award of prizes in subsequent development",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      195,
+      188,
+      194,
+      29
+    ],
+    "text": "fotteries. .",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      81,
+      222,
+      494,
+      22
+    ],
+    "text": "Rules. 19. (1) The Board may make rules in respect of all",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      199,
+      244,
+      375,
+      16
+    ],
+    "text": "matters stated or authorized by this Act to be prescribed or in",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      198,
+      263,
+      376,
+      16
+    ],
+    "text": "respect of which rules are authorized 10 be miade by this Act.",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      181,
+      306,
+      392,
+      16
+    ],
+    "text": "+ (2) Without prejudice to the generality of the provisions",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      198,
+      325,
+      375,
+      16
+    ],
+    "text": "of subsection (1), rules may be made in respect of all or any",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      198,
+      344,
+      295,
+      15
+    ],
+    "text": "of the following matters : .",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      129,
+      388,
+      444,
+      16
+    ],
+    "text": ": - @ the price at which tickets in every development",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      134,
+      405,
+      256,
+      17
+    ],
+    "text": ". lottery are to be sold ;",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      226,
+      442,
+      346,
+      25
+    ],
+    "text": "(8) the particulars to be stated on every development",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      254,
+      470,
+      104,
+      15
+    ],
+    "text": "lottery ticket ;.",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      227,
+      514,
+      344,
+      16
+    ],
+    "text": "() themannerin whichtickets inevery such development",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      254,
+      533,
+      250,
+      16
+    ],
+    "text": "louery are to be sold or offered for sale ;",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      225,
+      578,
+      345,
+      16
+    ],
+    "text": "(@) theemploymentofagentsforthesale ofdevelopment",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      253,
+      597,
+      317,
+      15
+    ],
+    "text": "lotteries tickets and the remuneration payable to",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      253,
+      617,
+      323,
+      14
+    ],
+    "text": "such agents ; .",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      226,
+      660,
+      343,
+      16
+    ],
+    "text": "() the publication ofthe number of ech winning ticket",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      253,
+      679,
+      316,
+      16
+    ],
+    "text": "in every such development lottery and of the name",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      190,
+      696,
+      379,
+      18
+    ],
+    "text": "0 and address ofthe person entitled to such ticket; and",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      228,
+      742,
+      340,
+      17
+    ],
+    "text": "\" allothermattersinrespectof which les arerequired",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      147,
+      762,
+      320,
+      18
+    ],
+    "text": "he to be made under this Act. .",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      150,
+      805,
+      417,
+      18
+    ],
+    "text": "siya) + (3) Norulemade by the Board underthis section shall have",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      136,
+      824,
+      430,
+      18
+    ],
+    "text": ", effect until it has been approved by the Minister and published",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      196,
+      833,
+      374,
+      36
+    ],
+    "text": "in the Gazette ax soon as it may be convenient. |",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      81,
+      51,
+      475,
+      18
+    ],
+    "text": "* Development Lotteries Board Act; No. 20 of 1997 11 .",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      126,
+      91,
+      270,
+      21
+    ],
+    "text": "PART IV aa",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      52,
+      161,
+      455,
+      13
+    ],
+    "text": ": 20, The Board shall be deemed to be a Scheduled Board imbee",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      57,
+      174,
+      469,
+      23
+    ],
+    "text": "Institution within the meaning of the Bribery Act and the Scheduled",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      58,
+      198,
+      475,
+      16
+    ],
+    "text": "provisions of that Act shall be construed accordingly. (Ge meaning ofthe",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      380,
+      213,
+      123,
+      15
+    ],
+    "text": "Beibery Act.",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      78,
+      263,
+      437,
+      22
+    ],
+    "text": "21. All officers and servants of the Board shall be Officer and",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      59,
+      278,
+      468,
+      21
+    ],
+    "text": "decmed to be public servants within the mcaning and for the Say asemedt0",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      60,
+      297,
+      475,
+      24
+    ],
+    "text": "purposes of the Penal Code, cp te Republic servants.",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      79,
+      356,
+      463,
+      25
+    ],
+    "text": "22, (1) Tho provisions of the Lotteries Ordinance Ltteries iiance",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      61,
+      372,
+      429,
+      21
+    ],
+    "text": "(Chapter 45) and Part { of the Finance Act, No, 11 of 1963 [Suerte",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      61,
+      394,
+      373,
+      17
+    ],
+    "text": "shall not apply to and in relation to any lottery, conducted or",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      62,
+      413,
+      249,
+      15
+    ],
+    "text": "arranged to be conducted under this Act.",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      81,
+      450,
+      352,
+      17
+    ],
+    "text": "(2) For the avoidance of doubts it is hereby dectared",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      59,
+      465,
+      459,
+      24
+    ],
+    "text": "that .",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      91,
+      507,
+      346,
+      16
+    ],
+    "text": "(@) the conduct or the arranging for the conduct of;",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      63,
+      544,
+      314,
+      24
+    ],
+    "text": "_@) the drawing of a ticket in; nN",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      56,
+      579,
+      363,
+      19
+    ],
+    "text": "the buying or selling of a ticket in 5 .",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      92,
+      613,
+      213,
+      16
+    ],
+    "text": "(@) assisting in the conduct of ; or",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      61,
+      642,
+      483,
+      18
+    ],
+    "text": "* @ the use of any premises for the conduct of, :",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      65,
+      669,
+      369,
+      16
+    ],
+    "text": "4 development lottery shall not be a contravention of any",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      66,
+      687,
+      368,
+      17
+    ],
+    "text": "provision of the Lotteries Ordinance (Chapter 45) and the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      66,
+      706,
+      369,
+      17
+    ],
+    "text": "Board shall not be liable to pay, in respect of a development",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      66,
+      724,
+      315,
+      16
+    ],
+    "text": "lottery, any tax under section 19 of that Ordinance.",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      84,
+      750,
+      456,
+      23
+    ],
+    "text": "23, (1) No suit or prosecution shall fie. Ee anger",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      95,
+      771,
+      419,
+      35
+    ],
+    "text": "(@) against the Board for sny act which in good faith is this Actor on",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      71,
+      793,
+      416,
+      25
+    ],
+    "text": "+. dome or purported tobe done by the Boardunder this. #95",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      119,
+      810,
+      360,
+      29
+    ],
+    "text": "Actor Brat hah :",
+    "mean_p_confidence": 0.04
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      204,
+      47,
+      340,
+      17
+    ],
+    "text": "12 Development Lotteries Board Act, No. 20 of 1997",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      230,
+      85,
+      335,
+      17
+    ],
+    "text": "(8) against any member, officer or servant ofthe Board",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      203,
+      103,
+      362,
+      17
+    ],
+    "text": "2+ for any act which in good faith is done or purported",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      222,
+      121,
+      343,
+      17
+    ],
+    "text": "tobe done by him under this Act or on the direction",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      207,
+      142,
+      130,
+      13
+    ],
+    "text": ". ofthe Board,",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      221,
+      181,
+      344,
+      17
+    ],
+    "text": "(2) Any expenses incurred by the Board in any suit ot",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      202,
+      199,
+      363,
+      18
+    ],
+    "text": "prosecution brought by, ot against, the Board before any",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      202,
+      218,
+      363,
+      17
+    ],
+    "text": "Court shall be paid out ofthe Fund of the Board and any costs",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      202,
+      236,
+      363,
+      18
+    ],
+    "text": "paid to, or recovered by, the Board in any such suit or",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      202,
+      255,
+      290,
+      17
+    ],
+    "text": "prosecution shall be credited tothe Fund. -",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      221,
+      296,
+      343,
+      19
+    ],
+    "text": "3) Any expense incurred by any person as isreferred toin",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      202,
+      314,
+      362,
+      19
+    ],
+    "text": "paragraph (b)of subsection (1)in any such suitor prosecution",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      203,
+      333,
+      361,
+      18
+    ],
+    "text": "brought against him before any Court, ia respect of any act",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      203,
+      351,
+      361,
+      18
+    ],
+    "text": "which is done or purported tobe done by him under this Act,",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      203,
+      369,
+      361,
+      16
+    ],
+    "text": "oron the direction ofthe Board shell iF the Court holds that",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      203,
+      387,
+      361,
+      19
+    ],
+    "text": "such act was done in good faith, be paid out af the Fund of the",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      203,
+      405,
+      361,
+      19
+    ],
+    "text": "Bonrd, unless such expense is recovered by him in such suit",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      203,
+      429,
+      90,
+      15
+    ],
+    "text": "of prosecution,",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      86,
+      458,
+      442,
+      32
+    ],
+    "text": "Offences. (2A. Byery person who :",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      201,
+      505,
+      364,
+      21
+    ],
+    "text": "< (@) sells, or offers forsale, any ticket forthe purposes of",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      212,
+      525,
+      351,
+      20
+    ],
+    "text": "any davelopment lottery at a price exceeding the",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      224,
+      543,
+      339,
+      21
+    ],
+    "text": "\"2 price specified in respect of such ticket by ulemtade",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      258,
+      566,
+      109,
+      13
+    ],
+    "text": "under this Act; oF",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      202,
+      602,
+      361,
+      22
+    ],
+    "text": "(6) Forges or alters any ticket for the purposes of any",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      219,
+      626,
+      133,
+      15
+    ],
+    "text": ". such lottery ; or",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      202,
+      660,
+      362,
+      23
+    ],
+    "text": "~ {ey sels, orotfers forsale, any ticket forthe purposes of",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      228,
+      680,
+      334,
+      22
+    ],
+    "text": "1m gay auch lottery, knowing it tobe forged or altered,",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      204,
+      719,
+      358,
+      24
+    ],
+    "text": "shall be guilty of an offence under this Act and shall on",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      204,
+      739,
+      358,
+      20
+    ],
+    "text": "conviction after summary tral before a Magistrate, be liable",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      204,
+      758,
+      359,
+      20
+    ],
+    "text": "toa finenotexceedingten thousand rupees oftoimprisonment",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      204,
+      777,
+      358,
+      21
+    ],
+    "text": "ofeither description for a term not exceeding six months orto",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      205,
+      800,
+      282,
+      15
+    ],
+    "text": "both such fine and imprisonment, \"",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      94,
+      44,
+      360,
+      17
+    ],
+    "text": "Development Lotteries Board Act ,No. 20 of 1997 13",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      53,
+      81,
+      442,
+      19
+    ],
+    "text": "+ 28. -(1) Afl trust property held by the Trustee under the Transitional",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      52,
+      100,
+      439,
+      18
+    ],
+    "text": "Development Lotteries Trust created on May 25th, 1993 Provisions.",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      53,
+      121,
+      374,
+      15
+    ],
+    "text": "(hereinafter referred to as the Trust) on the day immediately",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      53,
+      139,
+      374,
+      16
+    ],
+    "text": "preceding the date of commencement of this Act shall, with",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      53,
+      158,
+      375,
+      14
+    ],
+    "text": "effect from the date of commencement of this Act, be deemed",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      54,
+      177,
+      374,
+      16
+    ],
+    "text": "to vest in, and to be, the property of the Board, free from any",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      54,
+      196,
+      205,
+      15
+    ],
+    "text": "trust attaching thereto, :",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      73,
+      233,
+      355,
+      16
+    ],
+    "text": "{2) Alll contracts entered into by che Trustee of the Trust",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      55,
+      252,
+      373,
+      15
+    ],
+    "text": "created on May 25th, 1993. and subsisting on the day",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      56,
+      270,
+      373,
+      16
+    ],
+    "text": "immediately preceding the date of commencementof this Act",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      56,
+      289,
+      372,
+      14
+    ],
+    "text": "shall, with effect from the date of corumencement of this Act,",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      56,
+      308,
+      249,
+      12
+    ],
+    "text": "be deemed to be contracts of the Board.",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      60,
+      343,
+      369,
+      18
+    ],
+    "text": "(B) The liabilities incurred by the Trustee of the Trust and.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      57,
+      363,
+      374,
+      17
+    ],
+    "text": "subsisting on the day immediately preceding the date of",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      58,
+      382,
+      373,
+      15
+    ],
+    "text": "commencement of this Act shall, with effect from the date of",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      58,
+      401,
+      373,
+      15
+    ],
+    "text": "commencement of this Act, be deemed to be the liabilities of",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      59,
+      420,
+      368,
+      19
+    ],
+    "text": "the Board. . :",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      78,
+      457,
+      353,
+      17
+    ],
+    "text": "(4) Every person employed by the Trustee of the Trust for",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      59,
+      476,
+      440,
+      17
+    ],
+    "text": "the purposes of the Trust and in employment on the day .",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      60,
+      495,
+      370,
+      16
+    ],
+    "text": "immediately preceding the date of commencement ofthis Act,",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      60,
+      514,
+      371,
+      16
+    ],
+    "text": "shall be offered employment in the Board on terms not less",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      60,
+      533,
+      371,
+      16
+    ],
+    "text": "favourable than the terms enjoyed by him in the service of the",
+    "mean_p_confidence": 0.89
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      60,
+      551,
+      372,
+      17
+    ],
+    "text": "Trust, on the day immediately preceding the date of",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      60,
+      571,
+      286,
+      12
+    ],
+    "text": "commencement of this Act. : :",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      79,
+      602,
+      451,
+      23
+    ],
+    "text": "26. Intheeventof any inconsistency between the Sinhala Sinhala testo",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      61,
+      618,
+      453,
+      23
+    ],
+    "text": "and Tamil texts of this Act, the Sinhala text shall prevail. PRL",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      61,
+      664,
+      453,
+      16
+    ],
+    "text": ". 27, Inthis Act, unless the context otherwise requires Interpretation.",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      60,
+      692,
+      372,
+      26
+    ],
+    "text": "* etgeal authority means any Municipal Council, Urban",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      118,
+      721,
+      314,
+      15
+    ],
+    "text": "Council ot Pradeshiya Sabha and includes any",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      119,
+      739,
+      313,
+      16
+    ],
+    "text": "authority created and established by, or under, any",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      86,
+      758,
+      346,
+      16
+    ],
+    "text": "* \"law toexercise, perform and discharge powers, duties",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      68,
+      776,
+      380,
+      16
+    ],
+    "text": "and functions corresponding, or similar, to the",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      64,
+      792,
+      369,
+      19
+    ],
+    "text": "* powers, duties and functions exercised, performed",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      121,
+      814,
+      276,
+      15
+    ],
+    "text": "or discharged by any such Council or Sabha ;",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      181,
+      43,
+      344,
+      15
+    ],
+    "text": "14 Development Lotteries Board Act, No. 20 of 1997",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      197,
+      81,
+      349,
+      15
+    ],
+    "text": "Mahapola Higher Education Scholarship Trust Fund",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      234,
+      99,
+      312,
+      16
+    ],
+    "text": "means the Mahepola Higher Education Scholarship",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      234,
+      118,
+      312,
+      15
+    ],
+    "text": "Trust Fund established by the Mahapola Higher",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      234,
+      136,
+      313,
+      16
+    ],
+    "text": "Education Scholarship Trust Fund Act, No. 66 of",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      236,
+      155,
+      37,
+      14
+    ],
+    "text": "1981;",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      197,
+      191,
+      347,
+      16
+    ],
+    "text": "prescrited means prescribed by ule made under this",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      234,
+      212,
+      30,
+      12
+    ],
+    "text": "Act;",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      196,
+      246,
+      348,
+      14
+    ],
+    "text": "President's Fund means the President's Fundestablished",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      233,
+      265,
+      271,
+      16
+    ],
+    "text": "by the President's Fund Act, No. 7 of 1978 ;",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      196,
+      301,
+      347,
+      15
+    ],
+    "text": "Provincial Council means a Provincial Council",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      233,
+      320,
+      288,
+      17
+    ],
+    "text": "established by Article 1544 of the Constitution.",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      77,
+      776,
+      484,
+      18
+    ],
+    "text": "Anoual subsctiption of English Bille and Acts of the Partioment Ra. 885 (Local), Rs. 1,1BO(Forcig#>-",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      77,
+      792,
+      484,
+      16
+    ],
+    "text": "[Payable tothe Surennmeman, Goverenrr Pusuacamons Bunsau, No. 32, TRANSWORns HOUSE.",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      92,
+      807,
+      454,
+      18
+    ],
+    "text": "Larus Rasp, Covosme 01 before 15th December each year in respect ofthe year following",
+    "mean_p_confidence": 0.68
+  }
+]

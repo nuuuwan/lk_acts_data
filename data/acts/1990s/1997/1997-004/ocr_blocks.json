@@ -1,0 +1,4237 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      112,
+      231,
+      419,
+      19
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      177,
+      260,
+      290,
+      19
+    ],
+    "text": "SOCIALIST REPUBLIC OF",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68,
+      290,
+      443,
+      28
+    ],
+    "text": ". SRILANKA ;",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86,
+      402,
+      452,
+      17
+    ],
+    "text": ". TAX AND FOREIGN EXCHANGE AMNESTY",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      227,
+      428,
+      189,
+      20
+    ],
+    "text": "ACT, No. 4 OF 1997",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      228,
+      484,
+      265,
+      15
+    ],
+    "text": "[Certified on 29th April, 1997] .",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      210,
+      552,
+      223,
+      15
+    ],
+    "text": "Printed on the Order of Government",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69,
+      640,
+      471,
+      35
+    ],
+    "text": ", Published as a Supplement to Part Il of the Gazette of the Democratic Social",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      205,
+      675,
+      335,
+      17
+    ],
+    "text": "Republic of Sri Lanka of May 02, 1997 -",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      180,
+      741,
+      283,
+      21
+    ],
+    "text": "pots rat ome mE",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80,
+      766,
+      440,
+      25
+    ],
+    "text": "emnaseonmnennaciraavm camel",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80,
+      804,
+      438,
+      15
+    ],
+    "text": "Price: Rs. 9.08 Postage : Rs.",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      150,
+      26,
+      294,
+      16
+    ],
+    "text": "Tax and Foreign Exchange Amnesty 5",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      212,
+      45,
+      118,
+      14
+    ],
+    "text": "Act, No. 4 of 1997",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88,
+      81,
+      319,
+      16
+    ],
+    "text": "++, (Centified on 29th April, 1997] -",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      108,
+      357,
+      11
+    ],
+    "text": "LDO. 397. :",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      134,
+      371,
+      16
+    ],
+    "text": "AW ACT To ENABLE THE DEPOSIT DY SAVINGS ACCOUNTS (N THE",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      153,
+      378,
+      15
+    ],
+    "text": ", NATIONAL SAVINGS BANK, OF MONEYS REPRESENTING",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      101,
+      174,
+      365,
+      11
+    ],
+    "text": "ACCUMULATED FROFITS AND INCOME, RETAINED ON OR OUTSIDE .",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      101,
+      190,
+      353,
+      13
+    ],
+    "text": "Sat LANKA, AND lf RESPECT OF WHICH A PERSON HAS NOT",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      101,
+      212,
+      352,
+      9
+    ],
+    "text": "FURNISHED & RETURN OF INCOME OR WEICH HAVE NOT BEEN",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      101,
+      230,
+      352,
+      10
+    ],
+    "text": "DISCLOSED IN A RETURN FURNISHED BY SUCH PERSON UNDER THE",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      101,
+      249,
+      352,
+      11
+    ],
+    "text": "LAW RELATING TO THE IMPOSITION OP INCOME TAX, OR OF",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      264,
+      373,
+      13
+    ],
+    "text": "RELEVANT FOREIGN CURRENCY HELD BY A PERSON OUTSIDE SRI",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      101,
+      283,
+      351,
+      13
+    ],
+    "text": "LANKA AND CONVERTED INTO Srt LANKAN RUPEES FOR THE",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      305,
+      377,
+      10
+    ],
+    "text": "+ PURPOSE GF SUCH DEPOSIT ; TO ENABLE THE WITHORAWAL OF THE",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      100,
+      323,
+      352,
+      10
+    ],
+    "text": "MONEYS DEPOSITED IN SUCH SPECIAL ACCOUNTS FOR SPECIFED",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      100,
+      342,
+      351,
+      10
+    ],
+    "text": "PURPOSES ; TO INDEMNIFY PERSONS AGAINST LIABILITY TO PAY",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      100,
+      360,
+      351,
+      11
+    ],
+    "text": "CCERTAMC- TAXES, AND AGAINST PROSECUTIONS OR PENALTIES FOR,",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      100,
+      376,
+      351,
+      12
+    ],
+    "text": "OFFENCES BN RELATION TO SUCH TAX LAWS AND EXCHANGE",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      100,
+      394,
+      351,
+      14
+    ],
+    "text": "Corton Laws ; WITHA VIEW-TO SECURING FULL COMPLIANCE,",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      412,
+      376,
+      14
+    ],
+    "text": "INTHE FUTURE, BY SUCH PERSONS, WITH TAX LAWS AND LAWS",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      100,
+      429,
+      348,
+      16
+    ],
+    "text": "RELATING TO EXCHANGE CONTROL; AND FOR MATTERS",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      450,
+      330,
+      9
+    ],
+    "text": ": CONNECTED THEREWITH OR INCIDENTAL THERETO.",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      469,
+      370,
+      15
+    ],
+    "text": "BE it enacted by the Paliament of the Democratic Socialist",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      487,
+      228,
+      16
+    ],
+    "text": "Republic of Sri Lanka as follows :-",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      101,
+      511,
+      436,
+      14
+    ],
+    "text": "1. This AcemaybecitedastheTaxand Foreign Exchange Shortt. -",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      529,
+      186,
+      15
+    ],
+    "text": "Amnesty Act, No. 4 of 1997,",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      100,
+      552,
+      449,
+      15
+    ],
+    "text": "2. (1) This Act shatl, subject to the provisions of | Personto whom",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      568,
+      467,
+      18
+    ],
+    "text": "subsection (2), apply to any person who- this Act appties.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      109,
+      591,
+      409,
+      18
+    ],
+    "text": "(@) under the law for the time being applicable to the .",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      156,
+      612,
+      295,
+      16
+    ],
+    "text": "imposition of income tax or surcharge on income",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      629,
+      450,
+      19
+    ],
+    "text": "wes in, tay was liable to pay income tax for any year of 2\" ~",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      647,
+      469,
+      24
+    ],
+    "text": "to ow -assessmentending on or before March 31, 1996, .",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      665,
+      464,
+      20
+    ],
+    "text": "a in cespect of any profits and income which arose, a",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      681,
+      374,
+      18
+    ],
+    "text": "A's\" \" graecrued,onor before March 31, 1996, and who",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      700,
+      371,
+      16
+    ],
+    "text": "> has not furnished a return of income under the",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      719,
+      443,
+      19
+    ],
+    "text": "June? 2G. provisions of such faw for any such year of :",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      739,
+      378,
+      16
+    ],
+    "text": "ave y+ ggsesgment or who has not disclosed such profits",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      755,
+      407,
+      18
+    ],
+    "text": "tity oi's or income in any return furnished by him under",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      775,
+      372,
+      17
+    ],
+    "text": "ricy the provisions of such law for any such year of",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      155,
+      797,
+      314,
+      13
+    ],
+    "text": "assessment ; or ow :",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93,
+      826,
+      148,
+      12
+    ],
+    "text": "2D 0432399,515 (97002)",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      194,
+      24,
+      311,
+      16
+    ],
+    "text": "2 Tax and Foreign Exchange Amnesty",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      327,
+      43,
+      115,
+      15
+    ],
+    "text": "Act, No. 4 of 1997",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      223,
+      80,
+      348,
+      17
+    ],
+    "text": "() holds any relevant foreign currency outside Sri",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      263,
+      91,
+      298,
+      32
+    ],
+    "text": "Lanka, bee,",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      213,
+      140,
+      358,
+      18
+    ],
+    "text": "(2) This Act shall not apply to any person in refation to",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      194,
+      160,
+      376,
+      17
+    ],
+    "text": "whom any investigation was pending on February 15, 1997",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      222,
+      215,
+      348,
+      16
+    ],
+    "text": "(a) any alleged or suspected evasion of any tax payable",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      269,
+      234,
+      301,
+      16
+    ],
+    "text": "under, the law for the time being applicable to the",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      186,
+      254,
+      384,
+      16
+    ],
+    "text": "7 imposition of income tex or the Finance Act,",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      197,
+      274,
+      384,
+      15
+    ],
+    "text": ": No. 11 of 1963 or the Turnover Tax Act ,No. 69 -",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      268,
+      293,
+      302,
+      17
+    ],
+    "text": "of 1981, or the National Security Levy Act,",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      191,
+      313,
+      378,
+      16
+    ],
+    "text": ". oon, No. 52 of 1991, in respect of any profits and",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      201,
+      333,
+      369,
+      16
+    ],
+    "text": "<1 sz a Income or turnover, as the case may be, which",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      248,
+      353,
+      322,
+      15
+    ],
+    "text": "11 082 OF accrued to, of was derived, by such",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      203,
+      373,
+      325,
+      15
+    ],
+    "text": "+= person on or before-March 33, 1996; . -",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      222,
+      408,
+      347,
+      15
+    ],
+    "text": "(0) any alleged or suspected violation, of any provision",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      180,
+      426,
+      391,
+      16
+    ],
+    "text": "\"ofthe Exchange Control Act or the Prevention of",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      253,
+      447,
+      318,
+      16
+    ],
+    "text": "Teizorism (Temporary Provisions) Act, No.48 of",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      192,
+      467,
+      352,
+      15
+    ],
+    "text": "a 1979. : . .",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      123,
+      506,
+      464,
+      16
+    ],
+    "text": "anene @)__Bvery person referred to in subsection (1), not being.",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      193,
+      526,
+      376,
+      15
+    ],
+    "text": "a person referred to in subsection (2), shall, hereafter in this",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      84,
+      546,
+      475,
+      17
+    ],
+    "text": "ne 4 Abt, bereferred to 38 a person to whorn this Act applies.",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      80,
+      580,
+      456,
+      21
+    ],
+    "text": "Persons towhom 3, A person to whom this Act applies who *",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      76,
+      592,
+      456,
+      27
+    ],
+    "text": "this Act applies Be . . we",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      59,
+      616,
+      510,
+      28
+    ],
+    "text": "+ any inspecal >,._~.(@) Rasany moneys (not being relevant foreign currency),",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      80,
+      641,
+      489,
+      17
+    ],
+    "text": "accountsinthe in or out side Sri Lanka, which represent",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      76,
+      651,
+      495,
+      32
+    ],
+    "text": "Bank. accumulated profits or income for any year of",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      158,
+      680,
+      411,
+      16
+    ],
+    "text": ": assedsment ending on of before March 31, 1996,",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      118,
+      700,
+      451,
+      16
+    ],
+    "text": ". and in respect of which such person has not made",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      260,
+      720,
+      309,
+      15
+    ],
+    "text": ". areturn of income or which such person has not",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      268,
+      740,
+      301,
+      15
+    ],
+    "text": "disclosed in the returns of income made by him",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      268,
+      759,
+      301,
+      16
+    ],
+    "text": "under the law for the time being applicable to the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      251,
+      779,
+      318,
+      16
+    ],
+    "text": "+ imposition of, income tax or surcharge on income",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      268,
+      801,
+      197,
+      12
+    ],
+    "text": "tax 5 or Meg te",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      100,
+      33,
+      348,
+      16
+    ],
+    "text": ". Tax and Foreign Exchange Anmesty 3",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      208,
+      52,
+      117,
+      15
+    ],
+    "text": "Act, No. 4 of 1997",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83,
+      85,
+      442,
+      19
+    ],
+    "text": "*. () holds any relevant foreign currency, : :",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      78,
+      116,
+      370,
+      15
+    ],
+    "text": "may, in the case of such moneys 2% are referred to in",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      77,
+      135,
+      371,
+      16
+    ],
+    "text": "paragraph (a), deposit such moncys or convert atid deposit",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      77,
+      153,
+      371,
+      17
+    ],
+    "text": "such moneys, on of after February (3, 1997, but prior to",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      78,
+      172,
+      370,
+      18
+    ],
+    "text": "August 15, 1997, to his credit, in a special account opend by",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      78,
+      191,
+      370,
+      15
+    ],
+    "text": "him for that purpose in the Bank, and in the case of such",
+    "mean_p_confidence": 0.89
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      78,
+      210,
+      369,
+      15
+    ],
+    "text": "foreign currency asis referred to in paragraph (b),convert and",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      77,
+      229,
+      370,
+      15
+    ],
+    "text": "deposit such foreign currency, on or after February 15,1997,but",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      78,
+      247,
+      370,
+      15
+    ],
+    "text": "prior to August 15, 1997, o his credit, in a special account",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      77,
+      265,
+      359,
+      16
+    ],
+    "text": "opened by him for that purpose in the Bank, -",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      96,
+      303,
+      464,
+      15
+    ],
+    "text": "4 (1) Every person who deposits any moneys ina Dectaraions 10 be!",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      77,
+      321,
+      449,
+      17
+    ],
+    "text": "spcial accouat in the Bank under the provisions of section 3 famishedby",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      77,
+      336,
+      441,
+      16
+    ],
+    "text": "shall make adeclaration to the Bank in the Form setout in the SPotitors.",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      77,
+      358,
+      420,
+      13
+    ],
+    "text": "Schedule to this Act. :",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      74,
+      394,
+      372,
+      17
+    ],
+    "text": "\" (2) The Bank shall cause a copy of every declaration",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      77,
+      414,
+      369,
+      14
+    ],
+    "text": "made to it under subsection (1) o be transmitted to the",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      77,
+      433,
+      369,
+      14
+    ],
+    "text": "Commissioner- General, and inthe case ofa declaration made",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      77,
+      451,
+      369,
+      16
+    ],
+    "text": "in respect of any foreign currency converted and deposited,",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      77,
+      470,
+      369,
+      15
+    ],
+    "text": "the Bank shall cause acopy ofsuch declaration to be transmitted",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      77,
+      489,
+      364,
+      14
+    ],
+    "text": "tothe Contvollor of Exchange. = Loe",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      95,
+      530,
+      444,
+      16
+    ],
+    "text": "5. Notwithstanding anything in any other law the Bank Restictons on",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      77,
+      548,
+      457,
+      16
+    ],
+    "text": "shall not permit any person who has deposited any moneys in withdrawal of",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      77,
+      559,
+      476,
+      35
+    ],
+    "text": "any such special account as is referred to in sction 3 to noe",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      77,
+      586,
+      433,
+      16
+    ],
+    "text": "withdraw, prior to the expiration of aperiod oftwo years from scoount.",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      77,
+      605,
+      370,
+      16
+    ],
+    "text": "the dat on which the deposit was made, the whole or any part",
+    "mean_p_confidence": 0.88
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      77,
+      624,
+      369,
+      15
+    ],
+    "text": "of the amount lying tothe credit of such person in such special",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      77,
+      642,
+      392,
+      16
+    ],
+    "text": "account (other than the interest accruing on such amount), -",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      76,
+      661,
+      371,
+      18
+    ],
+    "text": "except for the purposes, and after the period, specified in the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      77,
+      680,
+      473,
+      21
+    ],
+    "text": "proviso to subsection (1) of section 6. ae sw",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      95,
+      718,
+      455,
+      18
+    ],
+    "text": "6 .(J) Any person who has deposited any moneysin any . Purposes for",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      77,
+      738,
+      473,
+      17
+    ],
+    "text": "suchspecial accountasisreferredtoinsection3may withdraw bleh eaneys. -",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      77,
+      752,
+      469,
+      28
+    ],
+    "text": "the balance amount lying to his creditin such special account EM",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      76,
+      777,
+      426,
+      18
+    ],
+    "text": "after the expiration of a period of two years from the date on Tray be",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      77,
+      787,
+      444,
+      32
+    ],
+    "text": "which he made the deposit : cotemt cnc a,",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      141,
+      20,
+      370,
+      20
+    ],
+    "text": "/ # Tax and Foreign Exchange Amnesty",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      318,
+      41,
+      129,
+      17
+    ],
+    "text": "\"Act, No. 4 of 1997",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      214,
+      80,
+      364,
+      18
+    ],
+    "text": "Provided, however, that such person may'upon being",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      194,
+      101,
+      384,
+      16
+    ],
+    "text": "authorised in writing by the Commissioner -Generat to do so,",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      195,
+      121,
+      383,
+      16
+    ],
+    "text": "withdraw, after the expiration of a period of one month from",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      195,
+      141,
+      383,
+      16
+    ],
+    "text": "the date on which he made the deposit, the whole or any pait",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      194,
+      160,
+      385,
+      16
+    ],
+    "text": "of such batance amount, for investment in an agricultural o",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      195,
+      179,
+      383,
+      16
+    ],
+    "text": "industrial undertaking or in any undertaking or facility for",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      195,
+      199,
+      383,
+      16
+    ],
+    "text": "infrastructure development, being an undertaking or a facility",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      194,
+      219,
+      383,
+      18
+    ],
+    "text": "which has been duly authotised by any Government Authority",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      194,
+      238,
+      383,
+      16
+    ],
+    "text": "or by any local authority or the Board of Investment of Sti",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      194,
+      258,
+      391,
+      15
+    ],
+    "text": "Lanka established by the Board of Investment of Sri Lanka .",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      194,
+      277,
+      129,
+      14
+    ],
+    "text": "Law, No. 4 of 1978.",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      190,
+      309,
+      387,
+      20
+    ],
+    "text": "\"_(@) Where any person who withdraws afier the priod",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      194,
+      332,
+      383,
+      13
+    ],
+    "text": "of one month from the date on which he has made the",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      193,
+      352,
+      384,
+      16
+    ],
+    "text": "deposit, any moneys lying to his credit in any such special",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      194,
+      371,
+      383,
+      16
+    ],
+    "text": "account as is referred to in section 3, for any of the purposes",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      194,
+      390,
+      383,
+      16
+    ],
+    "text": "specified in the proviso to subsection (1), fails to apply such",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      194,
+      410,
+      383,
+      16
+    ],
+    "text": "moneys for the purpose for which such moneys were",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      194,
+      429,
+      383,
+      16
+    ],
+    "text": "withdrawn, such person shell be guilty of an offence under this",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      193,
+      449,
+      385,
+      16
+    ],
+    "text": "Act and shall on conviction after summary trial before &",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      194,
+      468,
+      383,
+      16
+    ],
+    "text": "Magistrate, be liable to a fine of an amount equal to the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      194,
+      487,
+      383,
+      17
+    ],
+    "text": "moneys withdrawn and ar amount notexceeding one hundred",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      194,
+      507,
+      106,
+      16
+    ],
+    "text": "thousand rupees,",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      162,
+      545,
+      416,
+      17
+    ],
+    "text": "2 (3) Where any person withdraws after the expiration of",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      164,
+      565,
+      413,
+      17
+    ],
+    "text": "\"period of one month from the date on which he made the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      194,
+      584,
+      383,
+      17
+    ],
+    "text": "deposit, any moneys lying to his credit in any such speciat",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      195,
+      605,
+      382,
+      16
+    ],
+    "text": "account as is referred to in section 3, for any of the purposes",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      195,
+      624,
+      382,
+      16
+    ],
+    "text": "specified in the proviso to subsection (1), the Bank shall cause",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      195,
+      643,
+      382,
+      15
+    ],
+    "text": "to be transmitted to. the Commissioner-General, the details",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      195,
+      664,
+      367,
+      22
+    ],
+    "text": "Fogarding every such withdrawal. acy, i ogy s",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      75,
+      688,
+      503,
+      32
+    ],
+    "text": "fatereu on 7. Tho Bank shall pay interest on the amount lying to the",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      75,
+      712,
+      503,
+      35
+    ],
+    "text": "ren, oni credit of any person in any such special account as is referred",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      79,
+      734,
+      498,
+      24
+    ],
+    "text": "Meemmin. yc Win section 3, at the current rate of interest payable by the",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      196,
+      759,
+      381,
+      16
+    ],
+    "text": "Bonk on moneys lying (o the credit of savings accounts. The",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      196,
+      778,
+      378,
+      17
+    ],
+    "text": "Interest so accruing may be withdrawn by sush person after",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      195,
+      798,
+      383,
+      17
+    ],
+    "text": "{hoexpirution of apetiod of one month from the date on which",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      163,
+      816,
+      297,
+      18
+    ],
+    "text": "~ to mde the deposit, os",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      96,
+      26,
+      378,
+      19
+    ],
+    "text": ". Tax and Foreign Exchange Amnesty ~ 5",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      196,
+      48,
+      156,
+      15
+    ],
+    "text": ". Act, No. 4 of 1997",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      122,
+      82,
+      449,
+      19
+    ],
+    "text": "8. _ Any personto whom this Actapplies, whohasdeposited Indemnification",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      104,
+      101,
+      476,
+      19
+    ],
+    "text": "any moneys in any such special account as is referred to in foMeertain taxes",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      104,
+      117,
+      474,
+      20
+    ],
+    "text": "section 3, shall not be liable and resections.",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      132,
+      157,
+      442,
+      24
+    ],
+    "text": "0)\" t0 pay :",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      156,
+      200,
+      318,
+      15
+    ],
+    "text": ". .:@) any income tax or surcharge on income tax",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157,
+      220,
+      317,
+      14
+    ],
+    "text": "5 payable respectively, under the law for the",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      215,
+      239,
+      260,
+      16
+    ],
+    "text": "{ime being applicable to the imposition of",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      138,
+      258,
+      336,
+      17
+    ],
+    "text": ". income tax and the law for the time being",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      185,
+      275,
+      300,
+      19
+    ],
+    "text": "applicable to the imposition of surcharge -",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      198,
+      296,
+      275,
+      17
+    ],
+    "text": "on inconie tax, in respect of such part of his",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      214,
+      317,
+      260,
+      15
+    ],
+    "text": "profits and income for any year of",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157,
+      337,
+      315,
+      15
+    ],
+    "text": ". assessment ending on or before March 31,",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      216,
+      356,
+      337,
+      15
+    ],
+    "text": "1996, as is represented by any moneys :",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      161,
+      375,
+      367,
+      16
+    ],
+    "text": "|; , deposited by him in such special account ; .",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      156,
+      405,
+      316,
+      21
+    ],
+    "text": "\" Gi) any wealth tax or surcharge on wealth tax",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      166,
+      430,
+      306,
+      15
+    ],
+    "text": "_. Bayable respectively, under the law for the",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      214,
+      449,
+      314,
+      15
+    ],
+    "text": "time being applicable to the imposition of :",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      195,
+      469,
+      277,
+      15
+    ],
+    "text": "+ wealth tax and the faw for the time being",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      214,
+      488,
+      258,
+      16
+    ],
+    "text": "applicable to the imposition.of surcharge",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      194,
+      508,
+      278,
+      17
+    ],
+    "text": "on wealth tax, in respect of such part of his",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      201,
+      528,
+      271,
+      15
+    ],
+    "text": "_ net wealth for any year of assessment",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      213,
+      547,
+      259,
+      16
+    ],
+    "text": "ending on or before March 31, 1996, as was",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      213,
+      567,
+      259,
+      15
+    ],
+    "text": "acquired by the utilization of any such part",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      179,
+      583,
+      292,
+      18
+    ],
+    "text": "\"of his profits and income as is referred to",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      153,
+      604,
+      350,
+      23
+    ],
+    "text": "7 in sub-paragraph (i); * io",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      162,
+      641,
+      310,
+      15
+    ],
+    "text": "(ii). any business wumover tax under the Finance",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      213,
+      661,
+      258,
+      15
+    ],
+    "text": "Act, No. 11 of 1963 of any uirnover tax",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      213,
+      680,
+      257,
+      14
+    ],
+    "text": "under the Turnover Tax Act, No. 69of 1981",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      200,
+      699,
+      303,
+      16
+    ],
+    "text": "or any National Security Levy under thes",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      213,
+      719,
+      260,
+      16
+    ],
+    "text": "National Security Levy Act, No. 52 of",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      215,
+      739,
+      257,
+      16
+    ],
+    "text": "1991, in respect of the wwmover from which",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      207,
+      759,
+      265,
+      16
+    ],
+    "text": "such part of the profits and income as is",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      213,
+      779,
+      259,
+      15
+    ],
+    "text": "referred toinsub paragraph (i), arose or was",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      197,
+      798,
+      158,
+      15
+    ],
+    "text": "derived sgn: Ges oot",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      171,
+      19,
+      311,
+      17
+    ],
+    "text": "6 - Tax and Foreign Exchange Amnesty",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      304,
+      39,
+      115,
+      15
+    ],
+    "text": "Act, No, 4.af 1997",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      200,
+      79,
+      349,
+      16
+    ],
+    "text": "() to a prosecution or to a penalty for any offence",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      186,
+      88,
+      324,
+      32
+    ],
+    "text": "under .",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      241,
+      141,
+      308,
+      16
+    ],
+    "text": "( the law for the time being applicable to the",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      284,
+      159,
+      265,
+      16
+    ],
+    "text": "imposition of, income tax or surcharge on",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      284,
+      177,
+      265,
+      16
+    ],
+    "text": "income tax or wealth tax or the surcharge",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      284,
+      195,
+      267,
+      15
+    ],
+    "text": "on wealth tax in relation to any year of",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      206,
+      212,
+      353,
+      18
+    ],
+    "text": "assessment ending on or before March 31, _",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      206,
+      229,
+      343,
+      15
+    ],
+    "text": ", 1996, in respect of, or in connection with,",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      284,
+      246,
+      265,
+      15
+    ],
+    "text": "such part of his profits and income as is",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      261,
+      263,
+      288,
+      16
+    ],
+    "text": "., Feferredtoin sub-paragraph (i) of paragraph",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      252,
+      281,
+      297,
+      15
+    ],
+    "text": ". @) or such part of his net wealth as is",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      234,
+      298,
+      317,
+      17
+    ],
+    "text": "| teferred to. in sub-paragraph (ii) of",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      231,
+      313,
+      158,
+      17
+    ],
+    "text": "\"paragraph (a) 5",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      236,
+      357,
+      313,
+      14
+    ],
+    "text": "(i) the Finance Act, No. 1 of 1963 or the",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      283,
+      376,
+      266,
+      14
+    ],
+    "text": "Turnover Tax Act, No. 69 of 1981 or the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      283,
+      395,
+      264,
+      16
+    ],
+    "text": "National Security Levy Act,No, 520f 1991",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      265,
+      413,
+      284,
+      16
+    ],
+    "text": "in respect of, or in connection with, such",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      283,
+      433,
+      266,
+      15
+    ],
+    "text": "turnover as is referred to in sub-paragraph",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      284,
+      451,
+      137,
+      16
+    ],
+    "text": "Git) of paragraph (@) :",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      198,
+      487,
+      351,
+      22
+    ],
+    "text": "\"\" Gii) the Exchange Controt Act, in respect of the",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      210,
+      511,
+      338,
+      18
+    ],
+    "text": ". <., Whole Gr any part of the relevant foreign",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      210,
+      528,
+      338,
+      21
+    ],
+    "text": "* currency converted and deposited by him in",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      168,
+      549,
+      260,
+      21
+    ],
+    "text": "; such special account. ~",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      51,
+      583,
+      497,
+      32
+    ],
+    "text": "Proceo:ag ~~ 9, Nothing in the preceding provisions of this At shall",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      55,
+      610,
+      447,
+      17
+    ],
+    "text": "provisions of his be read or construed as authorizing the revision of",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      55,
+      625,
+      71,
+      11
+    ],
+    "text": "Act, not ta be",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      51,
+      628,
+      484,
+      32
+    ],
+    "text": "construed as (@) any assessment made under the provisions of",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      52,
+      646,
+      340,
+      28
+    ],
+    "text": "authorizing the : fe .",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      56,
+      670,
+      493,
+      19
+    ],
+    "text": "vevislon of any + (i) the law for the time being relating to the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      56,
+      687,
+      492,
+      26
+    ],
+    "text": "Srevlowsy made, + imposition of, income tax or surcharge on",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      284,
+      712,
+      264,
+      15
+    ],
+    "text": "Income tax or wealth tax or surcharge on",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      284,
+      731,
+      142,
+      16
+    ],
+    "text": "wealthtax;or",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      237,
+      758,
+      312,
+      15
+    ],
+    "text": "(il) the Finance Act, No. #1 of 1963, the Tumover",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      284,
+      777,
+      264,
+      14
+    ],
+    "text": "Tax Act, No. 69 of 1981, o the National",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      284,
+      796,
+      230,
+      16
+    ],
+    "text": "Security Levy Act, No. 52 of 1991 ;",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      144,
+      34,
+      303,
+      16
+    ],
+    "text": "Tax and Foreign Exchange Amnesty q",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      207,
+      53,
+      118,
+      15
+    ],
+    "text": "Act, No. 4 of 1997",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      78,
+      90,
+      370,
+      15
+    ],
+    "text": "+. (B) anysequirementimposed before March 31,1996, on",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      152,
+      108,
+      296,
+      15
+    ],
+    "text": "any person to whom this Act applies and in",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      106,
+      124,
+      342,
+      16
+    ],
+    "text": ". + felation to any violation by him of any provision",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      74,
+      142,
+      345,
+      18
+    ],
+    "text": "Lae of the Exchange Control Actor,",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      107,
+      164,
+      322,
+      15
+    ],
+    "text": "() any other matter, baat .",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      77,
+      186,
+      371,
+      16
+    ],
+    "text": "which has become final and conclusive under the provisions",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      77,
+      204,
+      232,
+      15
+    ],
+    "text": "of any such law. _",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      96,
+      226,
+      441,
+      17
+    ],
+    "text": "10, (1) Subject tothe provisions of subsection (2),every Maintenance ,",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      77,
+      243,
+      403,
+      16
+    ],
+    "text": "officer ot employee of the Department of Inland Revenue or of",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      77,
+      260,
+      428,
+      15
+    ],
+    "text": "of the Department of Exchange Control of of the Bank shall secrecy.",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      77,
+      278,
+      406,
+      15
+    ],
+    "text": "preserve, and aid in preserving, secrecy with regard to all -",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      77,
+      295,
+      369,
+      15
+    ],
+    "text": "matters that may come tohis knowledge in the administration",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      76,
+      311,
+      370,
+      15
+    ],
+    "text": "ofthis Actand shall notgive, divulge or reveal, any information",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      77,
+      329,
+      369,
+      15
+    ],
+    "text": "whalsoever regarding any such special account as is referred",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      77,
+      346,
+      369,
+      14
+    ],
+    "text": "to in section 3 to any individual, corporation, bank, court,",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      77,
+      362,
+      369,
+      15
+    ],
+    "text": "institution, entity, department, official, agent, representative",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      76,
+      379,
+      369,
+      15
+    ],
+    "text": "of the Governmentof Sri Lanka ortosny otherlegal ornatural",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      95,
+      419,
+      351,
+      15
+    ],
+    "text": "(2) Notwithstanding the provisions of subsection (1), the",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      76,
+      436,
+      369,
+      15
+    ],
+    "text": "Commissioner-General or the Controller of Exchange, or an",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      76,
+      453,
+      370,
+      15
+    ],
+    "text": "officer or employee of the Bank, as the case may be, shall if be",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      77,
+      471,
+      134,
+      15
+    ],
+    "text": "is required to do so",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108,
+      493,
+      338,
+      15
+    ],
+    "text": "(i) by the person to whom such matter or information",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      151,
+      511,
+      192,
+      13
+    ],
+    "text": "felates ; wee",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      104,
+      532,
+      341,
+      16
+    ],
+    "text": "Gii) by any provision of any law giving effect to an",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72,
+      550,
+      373,
+      15
+    ],
+    "text": "+ jnternational convention on narcotics orhijacking,",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      151,
+      567,
+      295,
+      15
+    ],
+    "text": "in any criminal proceedings instituted under that",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      77,
+      575,
+      334,
+      31
+    ],
+    "text": "i jaw, in any court ; cn",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      71,
+      607,
+      375,
+      15
+    ],
+    "text": "+ Gli) byanorderof the Supreme Court, made on epplication",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72,
+      624,
+      373,
+      16
+    ],
+    "text": "11, a. therefor,on the ground that moneys in any special",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      150,
+      641,
+      296,
+      14
+    ],
+    "text": "account referred to in section 3 have been, or are",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      107,
+      659,
+      339,
+      15
+    ],
+    "text": "... being used, in furtherance of an act which",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      123,
+      675,
+      324,
+      14
+    ],
+    "text": "v+ 2% constitutes an offence under the Prevention of",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      150,
+      693,
+      297,
+      16
+    ],
+    "text": "Terrorism (Temporary Provisions) Act, No.48 of",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      76,
+      712,
+      130,
+      16
+    ],
+    "text": "12 wt yg OTD 508",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      97,
+      733,
+      349,
+      16
+    ],
+    "text": "Liniv), byanorderofcourtin any legal proceedingsinstituted",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      123,
+      751,
+      323,
+      18
+    ],
+    "text": "cir by oF against the Bank or by or against the holder",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      127,
+      768,
+      319,
+      16
+    ],
+    "text": "2\" of aspecial account referred in section 3, relating",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      121,
+      783,
+      325,
+      18
+    ],
+    "text": "22\" toa banking transaction arising from suchspecial",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      122,
+      800,
+      187,
+      18
+    ],
+    "text": "714 geeount, Hw ag",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      204,
+      28,
+      371,
+      17
+    ],
+    "text": "8 Tax and Foreign Exchange Amnesty :",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      128,
+      48,
+      325,
+      15
+    ],
+    "text": ". Act, No. 4 of 1997",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      203,
+      86,
+      378,
+      16
+    ],
+    "text": "communicate to such person or court in so far as such",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      203,
+      105,
+      380,
+      17
+    ],
+    "text": "communication is strictly necessary for the purposes of",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      203,
+      125,
+      379,
+      16
+    ],
+    "text": "complying with such requirement or order of court, any matter",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      174,
+      144,
+      407,
+      17
+    ],
+    "text": "* or information which has come to his knowledge in the",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      203,
+      164,
+      166,
+      12
+    ],
+    "text": "administration of this Act.",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      201,
+      191,
+      380,
+      16
+    ],
+    "text": "\" (B) Any officer or employee of the Department of Inladtd",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      203,
+      210,
+      378,
+      16
+    ],
+    "text": "Revenue or of the Department of Exchange Control or of the",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      127,
+      228,
+      454,
+      18
+    ],
+    "text": "sone Bank who acts in contravention of the provisions of subsection",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      175,
+      248,
+      406,
+      16
+    ],
+    "text": "* (1) shall, be gultty of an offence under this Act, and shall on",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      203,
+      268,
+      378,
+      16
+    ],
+    "text": "conviction after summary tial before a Magistrate, be liable",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      203,
+      287,
+      378,
+      16
+    ],
+    "text": "to a fine not exceeding one hundred thousand rupees or to",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      203,
+      307,
+      378,
+      16
+    ],
+    "text": "imprisonment for a term not exceeding one year or to both",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      203,
+      326,
+      249,
+      15
+    ],
+    "text": "such fine and imprisonment. .",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      88,
+      349,
+      493,
+      20
+    ],
+    "text": "Sinhalatento \"AL. Intheeventof any inconsistency between the Sinhala",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      88,
+      370,
+      475,
+      18
+    ],
+    "text": "Prevail in case of and Tamil texts of this Act, the Sinhala text shell prevail.",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      88,
+      373,
+      289,
+      32
+    ],
+    "text": "inconsistency. :",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      85,
+      396,
+      496,
+      32
+    ],
+    "text": "Interpretation 12. In this Act, unless the context otherwise requires",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      231,
+      430,
+      350,
+      16
+    ],
+    "text": "ine Bank means the National Savings Bank established by",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      210,
+      449,
+      372,
+      16
+    ],
+    "text": ": - the National Savings Bank Act, No. 30 of",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      168,
+      466,
+      407,
+      20
+    ],
+    "text": "2 1971; Lab, A",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      215,
+      492,
+      366,
+      17
+    ],
+    "text": "on Comumissioner-General\", local authority net wealth,",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      279,
+      512,
+      302,
+      16
+    ],
+    "text": "profits and income, and year of assessment",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      198,
+      532,
+      383,
+      16
+    ],
+    "text": "ant... Shall have the respective meanings assigned to",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      211,
+      550,
+      372,
+      17
+    ],
+    "text": "as.\" them by the Inland Revenue Act, No. 28 of",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      213,
+      571,
+      276,
+      14
+    ],
+    "text": "Po TDS :",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      231,
+      595,
+      350,
+      16
+    ],
+    "text": "Controllerof Exchange meansthe officer designated as",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      213,
+      613,
+      368,
+      17
+    ],
+    "text": ". the head of the Department of Exchange Control",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      198,
+      633,
+      384,
+      19
+    ],
+    "text": "ty st\" of the Central Bank and includes an officer",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      252,
+      653,
+      245,
+      18
+    ],
+    "text": "\"designated as assistant to him; -",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      232,
+      677,
+      349,
+      17
+    ],
+    "text": "1 ~ Exchange Control Act means the Bxchange Control",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      198,
+      700,
+      255,
+      15
+    ],
+    "text": "a fo oe >> Act (Chapter 423) ;",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      232,
+      724,
+      349,
+      17
+    ],
+    "text": "Foreign currency means any currency other than Sti",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      197,
+      740,
+      384,
+      24
+    ],
+    "text": "bs. = Lankacurrency and inctudes any currency payable",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      205,
+      766,
+      376,
+      19
+    ],
+    "text": "O'S bya foreign Governmentor institution toa person",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      197,
+      786,
+      384,
+      17
+    ],
+    "text": "soos 7 ty of resident in, Sri Lanka in respect of his",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      279,
+      806,
+      302,
+      18
+    ],
+    "text": "pension or other gratuities duc to him end all",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      166,
+      17,
+      342,
+      28
+    ],
+    "text": "Tax and Foreign Exchange Amnesty ' 9",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      229,
+      44,
+      118,
+      14
+    ],
+    "text": "Act, No.4 of 1997",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      174,
+      82,
+      297,
+      15
+    ],
+    "text": "deposits, credits and balances payable in any",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      174,
+      102,
+      297,
+      15
+    ],
+    "text": "currency other than Sri Lankan currency and any",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      174,
+      123,
+      297,
+      15
+    ],
+    "text": "such drafts, travellers cheques, leners of credit",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      174,
+      144,
+      297,
+      15
+    ],
+    "text": "and bills of exchange as are expressed or drawn in.",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      174,
+      165,
+      297,
+      15
+    ],
+    "text": "Sri Lanka currency but payable in any currency",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      174,
+      185,
+      251,
+      17
+    ],
+    "text": "other than Sri Lankan currency;",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      127,
+      214,
+      365,
+      15
+    ],
+    "text": "person includes a company, a body of persons ora.",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      174,
+      234,
+      343,
+      16
+    ],
+    "text": "partnership ; .",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      127,
+      263,
+      343,
+      15
+    ],
+    "text": "relevant foreign currency in relation toa person means",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      174,
+      283,
+      296,
+      15
+    ],
+    "text": "foreign currency held on March 31, 1996 by such",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      174,
+      304,
+      296,
+      15
+    ],
+    "text": "person outside Sri Lanka in violation of the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      174,
+      324,
+      296,
+      16
+    ],
+    "text": "provisions of the Exchange Control Act, being or",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      174,
+      345,
+      296,
+      15
+    ],
+    "text": "being attributable to, profits and income or not",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      174,
+      366,
+      295,
+      15
+    ],
+    "text": "being or not being attributable to profits and",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      174,
+      387,
+      295,
+      15
+    ],
+    "text": "income, and which was acquired by him outside",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      174,
+      407,
+      296,
+      15
+    ],
+    "text": "SriLanka by way of gift, donation, inheritance ot",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      174,
+      428,
+      68,
+      13
+    ],
+    "text": "otherwise ;",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      127,
+      456,
+      342,
+      15
+    ],
+    "text": "the law for the time being applicable to the imposition",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      173,
+      476,
+      296,
+      14
+    ],
+    "text": "of income tax means the Inland Revenue Act,",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      173,
+      497,
+      102,
+      14
+    ],
+    "text": "No. 28 of 1979;",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      112,
+      526,
+      359,
+      15
+    ],
+    "text": "* the law forthe time being applicableto the imposition of",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      173,
+      546,
+      296,
+      16
+    ],
+    "text": "surchargeon income tax means the Surcharge on",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      173,
+      567,
+      296,
+      15
+    ],
+    "text": "Income Tax Act, No.26 of 1982, the Surcharge on",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      173,
+      588,
+      296,
+      15
+    ],
+    "text": "Income Tax Act, No, 12 of 1984, the Surcharge",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      129,
+      608,
+      265,
+      20
+    ],
+    "text": "1, omTncome Tax Act, No. 7of 1989 ;",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      127,
+      637,
+      344,
+      16
+    ],
+    "text": "the law forthe time being applicable tothe imposition of",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      96,
+      657,
+      373,
+      21
+    ],
+    "text": "+ > wealth tax or surcharge on wealth tax means the",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      101,
+      674,
+      371,
+      19
+    ],
+    "text": "* *\" Inland Revenue Act, No.28 of 1979, the Surcharge,",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      104,
+      699,
+      366,
+      14
+    ],
+    "text": ". on Wealth Tex Act, No. 25 of 1982 and the",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      173,
+      719,
+      286,
+      17
+    ],
+    "text": "Surcharge on Wealth Tax Act, No. 8 of 1989;",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      127,
+      753,
+      343,
+      16
+    ],
+    "text": "turnover and quoster shall have the respective",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      173,
+      774,
+      297,
+      16
+    ],
+    "text": "meanings assigned to them by the Turnover Tax",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      174,
+      795,
+      270,
+      19
+    ],
+    "text": "Act, No. 69 0f 1981. ecient",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      170,
+      26,
+      309,
+      16
+    ],
+    "text": "19 Tax and Foreign Exchange Amnesty",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      300,
+      45,
+      116,
+      15
+    ],
+    "text": "Act, No, 4 of 1997",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      169,
+      82,
+      299,
+      11
+    ],
+    "text": "a SCHEDULE (SECTION)",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      201,
+      105,
+      311,
+      11
+    ],
+    "text": "Thx ant Fonsiow Excuangs Axnesty Act, No. 40 1997",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      279,
+      128,
+      188,
+      14
+    ],
+    "text": "DECLARATION uncer sucnon 4?",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      187,
+      157,
+      353,
+      14
+    ],
+    "text": "Tnooine Tax File No, IPORY cee sssseseenrnegnstnententenee",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      187,
+      181,
+      277,
+      13
+    ],
+    "text": "National entity Card Number Company Regiswation",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      187,
+      220,
+      237,
+      12
+    ],
+    "text": "Special Amnesty Savings Deposit Account NO. ....:-s.sessssescseecsssees",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      187,
+      243,
+      355,
+      12
+    ],
+    "text": "Nanoe of Business iF OY sessrseineretactatnssateratoestecatentent",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      265,
+      306,
+      147,
+      12
+    ],
+    "text": "\"(till namefnarmes)",
+    "mean_p_confidence": 0.0
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      186,
+      321,
+      316,
+      12
+    ],
+    "text": "OF sestsnsetsestenteeiensreeesenestnsnees OO NERDY 2",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      167,
+      335,
+      212,
+      22
+    ],
+    "text": ". (oddeess)",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      187,
+      356,
+      358,
+      12
+    ],
+    "text": "(1) request you to accept in terms of the Tax aod Foreign Exchange",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      168,
+      371,
+      376,
+      12
+    ],
+    "text": "Amwoesty Act, No, 4 0F 1997, x8wm of RUPCES secnsafescunessestenteers",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      168,
+      386,
+      226,
+      13
+    ],
+    "text": "(BB veneernnnetcnene) BRINE MONEYS,",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      166,
+      410,
+      379,
+      13
+    ],
+    "text": "WU RS cneechoisee sensed by met by the company in Sri Lanka :",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      201,
+      434,
+      344,
+      12
+    ],
+    "text": "(8) Rivssscnensionnees Obtained by the conversionat foreign currescy",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      187,
+      448,
+      358,
+      17
+    ],
+    "text": ". {not being rfevant foreign currency) held by me outside Sth",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      174,
+      463,
+      160,
+      15
+    ],
+    "text": "eee ie Lanka and",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      171,
+      479,
+      374,
+      12
+    ],
+    "text": "Jaf 46) RE Lvs. Obtained by the conversion of relevant",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      244,
+      494,
+      83,
+      12
+    ],
+    "text": "foreign currency",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      169,
+      523,
+      378,
+      14
+    ],
+    "text": "to be placed in a Special Ammesty Savings Deposit Acoust in the name of",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      245,
+      539,
+      240,
+      10
+    ],
+    "text": "seossensssnsansaes OF satnsatinseneaetane",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      167,
+      554,
+      379,
+      17
+    ],
+    "text": "\" 42) undertake not to withdraw any part of this amount before the",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      168,
+      573,
+      378,
+      14
+    ],
+    "text": "expltotion of a period of two years from the date of this deposit, except for",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      169,
+      589,
+      377,
+      13
+    ],
+    "text": "the purpases, and after the period, specified in the proviso to subsection (1)",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      169,
+      604,
+      252,
+      12
+    ],
+    "text": "of section 6 of the aforsald Acts :",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      188,
+      623,
+      358,
+      14
+    ],
+    "text": "@) agree to my/oue Special Amnesty Savings Deposit Puss Book being",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      165,
+      631,
+      331,
+      30
+    ],
+    "text": "Kept the safe custody of your Bank ; a ;",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      188,
+      659,
+      357,
+      13
+    ],
+    "text": "@ funter agree to be bound by the niles poraining to savings deposits",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      170,
+      674,
+      376,
+      13
+    ],
+    "text": "in your Bank forthe time being, apd whieh may come inte effect trom time",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      165,
+      680,
+      282,
+      30
+    ],
+    "text": "totime, . :",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      201,
+      717,
+      359,
+      21
+    ],
+    "text": "Sve an oc SignaturefSignatues of",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      351,
+      740,
+      106,
+      13
+    ],
+    "text": "Deparitor/Depositors",
+    "mean_p_confidence": 0.06
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      167,
+      755,
+      378,
+      15
+    ],
+    "text": "ov 1 ony Designation if declaration ison behalf of u Company.",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      168,
+      776,
+      296,
+      15
+    ],
+    "text": ">, Sipnedin my presence. eg a a",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      189,
+      804,
+      308,
+      14
+    ],
+    "text": "Signature of Branch Manager. * : :",
+    "mean_p_confidence": 0.44
+  }
+]
