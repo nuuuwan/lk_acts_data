@@ -1,0 +1,629 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      103,
+      25,
+      387,
+      25
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      199,
+      73,
+      191,
+      17
+    ],
+    "text": "3rd Session 1954-55",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      279,
+      149,
+      34,
+      18
+    ],
+    "text": "Se?",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      265,
+      167,
+      56,
+      16
+    ],
+    "text": "Sui",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      257,
+      173,
+      75,
+      19
+    ],
+    "text": "See",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      252,
+      181,
+      91,
+      49
+    ],
+    "text": "& i=)",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      253,
+      212,
+      89,
+      18
+    ],
+    "text": "ERS)",
+    "mean_p_confidence": 0.01
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      259,
+      224,
+      76,
+      21
+    ],
+    "text": "ORG",
+    "mean_p_confidence": 0.09
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      91,
+      321,
+      404,
+      26
+    ],
+    "text": "Crown Agents (Change of Designation)",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      184,
+      353,
+      218,
+      20
+    ],
+    "text": "Act, No. 51 of 1954",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      163,
+      497,
+      244,
+      16
+    ],
+    "text": "_ Date of Assent: October 14, 1954",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      177,
+      626,
+      238,
+      14
+    ],
+    "text": "Printed on the Ordere of Government",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      127,
+      756,
+      337,
+      28
+    ],
+    "text": "Tonk peaemmivege Pee. craps pe!",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      123,
+      778,
+      347,
+      30
+    ],
+    "text": "Anpual Subscription, Cincluding Bip Re 25, payable tn",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      127,
+      796,
+      338,
+      20
+    ],
+    "text": "Buna, Fost Greece Hox 600, Secretaria, Colombo L",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      129,
+      818,
+      339,
+      15
+    ],
+    "text": "Brice 15 cents. Postage: 10 cents.",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98,
+      24,
+      346,
+      18
+    ],
+    "text": "Crown Agents (Change of Designation) Act, 3",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      200,
+      41,
+      105,
+      15
+    ],
+    "text": "No. 51 of 1964",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      66,
+      99,
+      14
+    ],
+    "text": "L. D.0. 32/54.",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      89,
+      378,
+      15
+    ],
+    "text": "AN ACT 70 MAKE SUCH AMENDMENTS IN WRITTEN LAW",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96,
+      108,
+      348,
+      13
+    ],
+    "text": "AND SUCH PROVISIONS AS ARE CONSEQUENTIAL 10",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96,
+      123,
+      348,
+      12
+    ],
+    "text": "THR CHANGE OF DESIGNATION OF THR CROWN AGENTS",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96,
+      137,
+      130,
+      12
+    ],
+    "text": "OR THE COLONIES.",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      126,
+      163,
+      256,
+      18
+    ],
+    "text": "{Date of Assent: October 14, 1954]",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      191,
+      365,
+      28
+    ],
+    "text": "BE it enacted by the Queen's Most Excelent",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64,
+      206,
+      381,
+      16
+    ],
+    "text": "Majesty, by and with the advice and consent of the",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      223,
+      380,
+      16
+    ],
+    "text": "Senate and the House of Representatives of Ceylon in",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64,
+      238,
+      381,
+      17
+    ],
+    "text": "this present Parliament assembled, and by the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      254,
+      257,
+      16
+    ],
+    "text": "authority of the same, as follows:",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      285,
+      433,
+      18
+    ],
+    "text": "1. The Crown Agents (Change of Designation) Act, soit ste,",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      301,
+      109,
+      13
+    ],
+    "text": "No. 51 of 1954.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      332,
+      456,
+      17
+    ],
+    "text": "2. Wherever in any provision of the Colonial Ameamests ia",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      348,
+      477,
+      19
+    ],
+    "text": "Treasury Bills Ordinance, the General Loan and iss lew 208",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      364,
+      478,
+      17
+    ],
+    "text": "Inscribed Stock Ordinance, the Trustee Investment (im teqreatal tthe",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64,
+      379,
+      465,
+      21
+    ],
+    "text": "Ceylon Government Securities) Ordinance, or of any S58. ef",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      396,
+      449,
+      17
+    ],
+    "text": "other written law, or of any notice, communication, t= Ceven",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      411,
+      461,
+      19
+    ],
+    "text": "form, or otber document issued, made, required or 2tts,!t",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      428,
+      453,
+      17
+    ],
+    "text": "authorised by or under any written law, the expres- Og. 236-",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      433,
+      454,
+      30
+    ],
+    "text": "dion\" Crown Agents for the Colonies oooure, there Soe Be",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      459,
+      382,
+      18
+    ],
+    "text": "shall be substituted, for that expression, the expression",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      475,
+      380,
+      22
+    ],
+    "text": "Crown Agents for Oversea Governments and Admin-",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      491,
+      382,
+      22
+    ],
+    "text": "istrations \"\"; and acoordingly wherever in any such",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      507,
+      382,
+      18
+    ],
+    "text": "provision the abbreviation Crown Agents is used.",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      523,
+      382,
+      16
+    ],
+    "text": "to denote the Crown Agents for the Colonies, such",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      528,
+      383,
+      25
+    ],
+    "text": "abbreviation shall he reed and omutrued aa a reference",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      555,
+      383,
+      17
+    ],
+    "text": "to the Crown Agents for Oversea Governments and",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      572,
+      119,
+      13
+    ],
+    "text": "Adiwinistrations.",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      603,
+      441,
+      17
+    ],
+    "text": "8. Every contract made prior to the date of sevcgs for",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      619,
+      445,
+      15
+    ],
+    "text": "commencement of this Act between the Government of t+",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      632,
+      382,
+      36
+    ],
+    "text": "Ceyion and the Crown Agents for the Colonies shall",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      651,
+      383,
+      14
+    ],
+    "text": "ba deemed on and after that date to be and to have",
+    "mean_p_confidence": 0.88
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      667,
+      383,
+      17
+    ],
+    "text": "been made between the Government of Ceylon and the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      684,
+      383,
+      16
+    ],
+    "text": "Crown Agents for Oversea Governments and",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      700,
+      120,
+      13
+    ],
+    "text": "Administrations.",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      731,
+      449,
+      15
+    ],
+    "text": "4, This Act shall be deemed to have come into force Resopesire",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58,
+      745,
+      469,
+      20
+    ],
+    "text": "on April 1, 1964. . hee ot ths",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      855,
+      112,
+      9
+    ],
+    "text": "Fes oee-ga isty",
+    "mean_p_confidence": 0.07
+  }
+]

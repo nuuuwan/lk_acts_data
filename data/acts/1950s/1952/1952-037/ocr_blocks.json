@@ -1,0 +1,717 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      104,
+      20,
+      399,
+      24
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      99,
+      63,
+      200,
+      24
+    ],
+    "text": "AGA Sessi",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      90,
+      72,
+      311,
+      30
+    ],
+    "text": "GEEKY. 1st Session 1952",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      73,
+      98,
+      137,
+      29
+    ],
+    "text": "PP en aaa",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      65,
+      125,
+      247,
+      30
+    ],
+    "text": "eh, PINOY ue 127 Ln",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      151,
+      152,
+      223,
+      26
+    ],
+    "text": "(A) peer",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69,
+      150,
+      307,
+      70
+    ],
+    "text": "ese co (",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      105,
+      193,
+      314,
+      24
+    ],
+    "text": "ere ew A eter? th .",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      257,
+      219,
+      119,
+      32
+    ],
+    "text": "Eee Sy",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      237,
+      238,
+      117,
+      19
+    ],
+    "text": "Pearce",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      125,
+      306,
+      361,
+      24
+    ],
+    "text": "Registration of Deaths (Emergency",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      147,
+      334,
+      315,
+      24
+    ],
+    "text": "Provisions) (Amendment) Act,",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      228,
+      364,
+      195,
+      17
+    ],
+    "text": "No. 37 of 1952 -",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      195,
+      519,
+      225,
+      14
+    ],
+    "text": "Date of Assent : November 23, 1952",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      188,
+      615,
+      309,
+      30
+    ],
+    "text": "Printed on the Orders of Government :",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      140,
+      759,
+      336,
+      25
+    ],
+    "text": "Pinks 2s, cupee Se Bas Smo 08",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      139,
+      783,
+      337,
+      24
+    ],
+    "text": "pau, Sabpergten net domearts Bypecanons",
+    "mean_p_confidence": 0.04
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      140,
+      802,
+      335,
+      16
+    ],
+    "text": "Bomas, Poet Geren Box 500, Secretariat, Calombo A",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      140,
+      822,
+      336,
+      13
+    ],
+    "text": "Price 2 10 cents. Postage 1 5 cowte.",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      102,
+      28,
+      350,
+      17
+    ],
+    "text": "Registration of Deaths (Hmergency Provisions) 3",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96,
+      44,
+      287,
+      16
+    ],
+    "text": ": (Amendment) Act, No. 37 of 1952.",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      66,
+      170,
+      19
+    ],
+    "text": "LD.GF. 11/48, .",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      92,
+      376,
+      14
+    ],
+    "text": "An _Acr 70 amenp Ths Registration of DeaTas",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      108,
+      374,
+      16
+    ],
+    "text": "- (Enercency Provistons) Orpmance, No. 24 oF",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      94,
+      126,
+      34,
+      12
+    ],
+    "text": "1945,",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      127,
+      147,
+      277,
+      18
+    ],
+    "text": "[Dete of Assent: November 18, 1952]",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93,
+      175,
+      362,
+      16
+    ],
+    "text": "BE it enacted by the Queen's Most Excellent",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      180,
+      383,
+      45
+    ],
+    "text": "Majesty, by nd with the advice and consent of the",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      206,
+      377,
+      17
+    ],
+    "text": "Senate and the House of Representatives of Ceylon",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      222,
+      378,
+      18
+    ],
+    "text": "in this present Parliament assembled, and by the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      239,
+      267,
+      17
+    ],
+    "text": "authority of the same, as follows:",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      94,
+      262,
+      432,
+      37
+    ],
+    "text": "1. This Act may be cited as the Registration of short tithe,",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      279,
+      478,
+      37
+    ],
+    "text": "Deaths of emerwency Provisions) (Amendment) Act, 7",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      299,
+      105,
+      13
+    ],
+    "text": "No. 37 of 1982.",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      94,
+      325,
+      454,
+      17
+    ],
+    "text": "2 Section 11 of the Registration of Deaths amenimeat of",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      340,
+      462,
+      21
+    ],
+    "text": "(Emergency Provisions) Ordinance, No. 24 of 1915, ssa. t",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      342,
+      448,
+      38
+    ],
+    "text": "1s hereby amended as follows : Xe",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      112,
+      385,
+      348,
+      17
+    ],
+    "text": "(1) in the definition of a person eubject to",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      159,
+      400,
+      300,
+      18
+    ],
+    "text": "military law \", the substitution, for",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      159,
+      417,
+      301,
+      20
+    ],
+    "text": "paragraphs (a), (0) and (), of the fotlow-",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      159,
+      437,
+      171,
+      13
+    ],
+    "text": "Ing new paragraphs:",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      152,
+      456,
+      309,
+      18
+    ],
+    "text": "(a) a member of the Ceylon Army, the",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      207,
+      472,
+      254,
+      18
+    ],
+    "text": "Royal Ceylon Navy, or the Ceylon",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      207,
+      488,
+      255,
+      16
+    ],
+    "text": "Air Force, who is absent from his",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      207,
+      504,
+      255,
+      14
+    ],
+    "text": "unit on leave or otherwise than on",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      207,
+      521,
+      60,
+      16
+    ],
+    "text": "duty; or",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      160,
+      544,
+      302,
+      29
+    ],
+    "text": "@) & member of the Ceylon Army, the",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      208,
+      560,
+      254,
+      17
+    ],
+    "text": "Royal Ceyloa Navy, or the Ceylon",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      208,
+      576,
+      266,
+      15
+    ],
+    "text": "Air Force, who ig on the Reserve -",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      207,
+      592,
+      78,
+      15
+    ],
+    "text": "thereof; or",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      161,
+      615,
+      302,
+      29
+    ],
+    "text": "(0) & citien of Ceylon me is member",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      207,
+      631,
+      257,
+      16
+    ],
+    "text": "of any of His Majestys regular",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      143,
+      631,
+      320,
+      37
+    ],
+    "text": ". forces and who is heen from his",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      101,
+      662,
+      362,
+      14
+    ],
+    "text": ". anit on leave or otherwise than on",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      207,
+      679,
+      59,
+      16
+    ],
+    "text": "duty; \"5",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      113,
+      697,
+      350,
+      19
+    ],
+    "text": "@ by the repeal of the definition of the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      159,
+      714,
+      222,
+      18
+    ],
+    "text": "expression Ceylonese ; and",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      113,
+      733,
+      349,
+      19
+    ],
+    "text": "(8) in the definition of His Majesty's forces ,",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      159,
+      748,
+      303,
+      19
+    ],
+    "text": "by the substitution, for the words Cey-",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      159,
+      764,
+      303,
+      16
+    ],
+    "text": "jon Defence Force, the Ceylon Royal",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      159,
+      777,
+      303,
+      19
+    ],
+    "text": "Naval Volanteer Reserve, the Ceylon Air",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      159,
+      795,
+      303,
+      19
+    ],
+    "text": "Defence Corps, of the words the",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      160,
+      811,
+      302,
+      31
+    ],
+    "text": "Goylon amy, the Royal Ceylon Navy, .the",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      159,
+      829,
+      235,
+      18
+    ],
+    "text": "Geylon Air Force . 7",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      846,
+      300,
+      14
+    ],
+    "text": "5. RANTS (180 .",
+    "mean_p_confidence": 0.17
+  }
+]

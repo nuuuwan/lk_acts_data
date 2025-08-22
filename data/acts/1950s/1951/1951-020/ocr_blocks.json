@@ -1,0 +1,959 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      92,
+      17,
+      417,
+      28
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      198,
+      51,
+      337,
+      64
+    ],
+    "text": "5th Session 195% Ber,",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      285,
+      101,
+      254,
+      29
+    ],
+    "text": "Pr en",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      43,
+      114,
+      507,
+      46
+    ],
+    "text": ". Pee Ce ey j ig! \"UL ABE:",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      223,
+      199,
+      239,
+      38
+    ],
+    "text": "Or aera ~",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      75,
+      303,
+      453,
+      32
+    ],
+    "text": "Printing Presses (Amendment) Act,",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      95,
+      342,
+      342,
+      31
+    ],
+    "text": ": No. 20-of 1951,",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144,
+      473,
+      438,
+      14
+    ],
+    "text": "* .",
+    "mean_p_confidence": -0.0
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      40,
+      486,
+      354,
+      46
+    ],
+    "text": "| Date of Aescai: July 14, 195k",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      40,
+      537,
+      539,
+      94
+    ],
+    "text": "| Printed au the Onder of Governmant io",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      40,
+      632,
+      251,
+      27
+    ],
+    "text": "i .",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      40,
+      676,
+      3,
+      18
+    ],
+    "text": "!",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      40,
+      745,
+      416,
+      26
+    ],
+    "text": "| cin 4, Omon ore Fane Ge, Be",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      166,
+      772,
+      290,
+      12
+    ],
+    "text": "Sieh dt OES, Siar SAS oad",
+    "mean_p_confidence": 0.08
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      40,
+      762,
+      400,
+      66
+    ],
+    "text": "| doom foes to, ze",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      166,
+      801,
+      291,
+      18
+    ],
+    "text": "Bona, Powe rrwe To A, Beer, Colao 2",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      40,
+      821,
+      542,
+      24
+    ],
+    "text": "a Price: 10 eonts. Pantage: conte,",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140,
+      23,
+      257,
+      18
+    ],
+    "text": "Printing Presses (Amendment) Act,",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      212,
+      41,
+      187,
+      16
+    ],
+    "text": "No. 20 of 1951. .",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      68,
+      485,
+      14
+    ],
+    "text": "L. D0, 6/51. : :",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122,
+      91,
+      414,
+      22
+    ],
+    "text": "Aw Acr 70 AMEND THE Parwrinc Presses ape a0,",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      228,
+      102,
+      289,
+      28
+    ],
+    "text": "ORDINANCE, fag",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      47,
+      133,
+      340,
+      19
+    ],
+    "text": "[Date of Assent: July 12, 1951.]",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      97,
+      155,
+      361,
+      18
+    ],
+    "text": "BE it enacted by the Kings Most Excellent Majesty,",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      161,
+      381,
+      44
+    ],
+    "text": "by and with the advioe ang consent of the Senate and",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      187,
+      377,
+      18
+    ],
+    "text": "the House of Representatives of Ceylon in this present",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      202,
+      377,
+      17
+    ],
+    "text": "Parliament assembled, and by the authority of the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      220,
+      135,
+      15
+    ],
+    "text": "same, as follows:",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98,
+      240,
+      431,
+      40
+    ],
+    "text": "4. This Act may be cited as the Printing Presses son tite,",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      264,
+      243,
+      15
+    ],
+    "text": "(Amendment) Act, No. 20 of 1951.",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98,
+      286,
+      483,
+      22
+    ],
+    "text": "2 Section 2 of the Printing Presses Ordinance Amestgent ot",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      303,
+      454,
+      23
+    ],
+    "text": "{hereinafter referred to as the principal enactment) Chapter 138,",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      324,
+      230,
+      16
+    ],
+    "text": "is hereby amended as folfows:",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115,
+      344,
+      345,
+      18
+    ],
+    "text": "(@) in sub-section (2) of that section, by the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      162,
+      361,
+      298,
+      16
+    ],
+    "text": "substitution, for the words Government",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      162,
+      376,
+      298,
+      23
+    ],
+    "text": "Agent, of the province, , of the",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      162,
+      393,
+      182,
+      17
+    ],
+    "text": "word Registrar, ; and",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      116,
+      412,
+      343,
+      18
+    ],
+    "text": "() by the addition, at the end of thet section,",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      162,
+      429,
+      416,
+      17
+    ],
+    "text": "of the following new aub-section: fe",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      49,
+      452,
+      411,
+      17
+    ],
+    "text": "> (4) The Registrar shall transmit a",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      162,
+      467,
+      298,
+      19
+    ],
+    "text": "copy of every declaration received by bim",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      163,
+      474,
+      298,
+      26
+    ],
+    "text": "tder sub-section (2) tothe Government",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      163,
+      499,
+      298,
+      19
+    ],
+    "text": "Agent of the province in which the press",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      41,
+      515,
+      419,
+      16
+    ],
+    "text": "' to which the declaration relates ia kept. .",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      543,
+      475,
+      18
+    ],
+    "text": "+ The following new section is hereby inserted in Invention of xan",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      556,
+      472,
+      22
+    ],
+    "text": "the principal enactment immediately after section 3, wm ish",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      576,
+      460,
+      15
+    ],
+    "text": "and chall have effect as section $a, of that enactment: seecuicat. _",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      590,
+      378,
+      40
+    ],
+    "text": "Detentims =. 8A. (t) Where the person who is",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      41,
+      613,
+      499,
+      22
+    ],
+    "text": "i tui sfmow \"required to make a declaration under :",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      624,
+      370,
+      30
+    ],
+    "text": "patted section 2 ia an incorporated company or",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      41,
+      639,
+      422,
+      36
+    ],
+    "text": "| SRR aay other corporation, an offer of that",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      94,
+      661,
+      369,
+      18
+    ],
+    "text": "spentons. company or other corporation shail make",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      180,
+      676,
+      400,
+      19
+    ],
+    "text": "and sign that declaration oa behalf of .",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      181,
+      693,
+      243,
+      18
+    ],
+    "text": "that company of other corporation.",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      42,
+      713,
+      421,
+      17
+    ],
+    "text": ": (2) Where an offence under section 8",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      41,
+      729,
+      422,
+      17
+    ],
+    "text": "i ia committed by an incorporated company",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      180,
+      745,
+      283,
+      17
+    ],
+    "text": "or any other corporation, every person",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      181,
+      761,
+      283,
+      14
+    ],
+    "text": "who at the time of the commission of that",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      181,
+      778,
+      283,
+      16
+    ],
+    "text": "offence was a director, manager or secre-",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      41,
+      789,
+      540,
+      33
+    ],
+    "text": "| tary of that company or was an officer of '",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      41,
+      805,
+      424,
+      38
+    ],
+    "text": "Ta that other corporation or was Purporting",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      182,
+      826,
+      283,
+      17
+    ],
+    "text": "to act in any such capacity, shall be",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      41,
+      834,
+      129,
+      43
+    ],
+    "text": "| a seomagast",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      37,
+      11,
+      451,
+      18
+    ],
+    "text": ": 4 Printing Presses (Amendment) Act,",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      36,
+      27,
+      381,
+      18
+    ],
+    "text": ": No. 20 of 1952.",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      36,
+      52,
+      519,
+      19
+    ],
+    "text": "i : deomed to be guilty of that offence unless",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      261,
+      67,
+      294,
+      37
+    ],
+    "text": "he proves that that offence was committed",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      88,
+      87,
+      468,
+      13
+    ],
+    "text": "- without his conent or connivance and",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      266,
+      103,
+      290,
+      28
+    ],
+    "text": "that he exercised all such difigence to",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      267,
+      114,
+      316,
+      38
+    ],
+    "text": "prerent the commission of that offence as",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      275,
+      135,
+      281,
+      17
+    ],
+    "text": "e ought to have exercised having regard",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      267,
+      151,
+      290,
+      13
+    ],
+    "text": "to the nature of his functions in that",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      267,
+      167,
+      266,
+      17
+    ],
+    "text": "capacity and to all the cireumetances. \".",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      76,
+      199,
+      480,
+      17
+    ],
+    "text": "Amsnment of Section 7 of the principal enactment is hereby",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      76,
+      212,
+      259,
+      22
+    ],
+    "text": "saga amended as follows:",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      76,
+      230,
+      481,
+      33
+    ],
+    "text": "seins (2) in the definition of \"\" paper, by the sub-",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      253,
+      240,
+      304,
+      36
+    ],
+    "text": "stitution, for the fall st occurring at the",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      38,
+      260,
+      519,
+      26
+    ],
+    "text": "-/ end of that definition, of a semicolon; and",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      206,
+      291,
+      351,
+      18
+    ],
+    "text": "(0) by the addition, at the end of that section, of",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      253,
+      308,
+      193,
+      16
+    ],
+    "text": "the following definition ;",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      255,
+      334,
+      302,
+      18
+    ],
+    "text": "Registrar means the Registrar of",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      228,
+      351,
+      329,
+      16
+    ],
+    "text": "> Books and Newspapers of the",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      302,
+      352,
+      255,
+      35
+    ],
+    "text": "Department of the Government",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      301,
+      383,
+      257,
+      16
+    ],
+    "text": "Archivist and includes any Assistant",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      301,
+      400,
+      257,
+      16
+    ],
+    "text": "Registrar of Books and Newspapers",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      301,
+      416,
+      161,
+      16
+    ],
+    "text": "of that Department. ',",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      438,
+      451,
+      141,
+      7
+    ],
+    "text": ":",
+    "mean_p_confidence": 0.18
+  }
+]

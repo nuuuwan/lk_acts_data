@@ -1,0 +1,6162 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      96,
+      15,
+      396,
+      26
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      204,
+      67,
+      191,
+      30
+    ],
+    "text": "ist Session 1953",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      254,
+      193,
+      114,
+      52
+    ],
+    "text": "aN",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      231,
+      226,
+      121,
+      22
+    ],
+    "text": "Beene",
+    "mean_p_confidence": 0.07
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      123,
+      283,
+      343,
+      25
+    ],
+    "text": "Local Authorities Elections",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      177,
+      323,
+      248,
+      31
+    ],
+    "text": "(Amendment) Act,",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      190,
+      362,
+      208,
+      23
+    ],
+    "text": "No. 25 of 1953",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      203,
+      495,
+      191,
+      14
+    ],
+    "text": "Date of Assent : April 25, 1958",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      105,
+      602,
+      385,
+      14
+    ],
+    "text": ". Printed on the Orders of Government .",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      131,
+      745,
+      351,
+      22
+    ],
+    "text": "Pan '.Oa.cpion i, Pas Sm, Pe +",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      130,
+      774,
+      355,
+      33
+    ],
+    "text": "PR ee Neca ca",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      132,
+      813,
+      373,
+      12
+    ],
+    "text": "Price : 30 cents Postage: 10 cents .",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      117,
+      16,
+      363,
+      16
+    ],
+    "text": "Local Authorities Elections (Amendment) -",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      196,
+      34,
+      145,
+      15
+    ],
+    "text": "Act, No. 25 of 1953.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      61,
+      122,
+      17
+    ],
+    "text": "LD. F sal.",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      84,
+      381,
+      13
+    ],
+    "text": "Aw Acr 70 antexp Tux Loca Avronintes ELECTIONS",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      167,
+      100,
+      201,
+      14
+    ],
+    "text": "Onpinance, No. 53 oF 1946.",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      141,
+      130,
+      254,
+      17
+    ],
+    "text": "[Date of Assent: April 25, 1953.)",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93,
+      162,
+      366,
+      28
+    ],
+    "text": "BE it enacted by the Queen's Most Excellent",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      178,
+      382,
+      16
+    ],
+    "text": "Majesty, by and with the advice and consent of the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      193,
+      382,
+      18
+    ],
+    "text": "Senate and the House of Representatives of Ceylon in",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      209,
+      382,
+      16
+    ],
+    "text": "this present Parliament assembled, and by the",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      225,
+      261,
+      16
+    ],
+    "text": "authority of the same, as follows:",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93,
+      252,
+      434,
+      16
+    ],
+    "text": "1, This Act may be cited as the Local Authorities stort tl.",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      268,
+      326,
+      16
+    ],
+    "text": "Elections (Amendment) Act, No. 25 of 1953.",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93,
+      290,
+      459,
+      24
+    ],
+    "text": "2. Seotion @ of the Local Authorities Hlections Astodment of",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      311,
+      448,
+      16
+    ],
+    "text": "Ordinance, No. 53 of 1946 (hereinafter referred to as Grisucr",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      325,
+      469,
+      18
+    ],
+    "text": "the principal enactment\") is hereby amended ag %o Sof sub",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      343,
+      76,
+      12
+    ],
+    "text": "followa:",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      109,
+      363,
+      350,
+      16
+    ],
+    "text": "(2) by the repeal of sub-section (1) of shat section",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157,
+      379,
+      302,
+      12
+    ],
+    "text": "and the substitution therefor of the",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157,
+      395,
+      210,
+      16
+    ],
+    "text": "following new sub-section :-",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      49,
+      413,
+      410,
+      30
+    ],
+    "text": "on (1) No person chal! be qualified to vote",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      158,
+      430,
+      302,
+      16
+    ],
+    "text": "at any election under this Ordinance",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157,
+      446,
+      302,
+      16
+    ],
+    "text": "of a member of a local authority unless",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157,
+      462,
+      351,
+      16
+    ],
+    "text": "hia name is entered in any parliamentary.",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157,
+      478,
+      302,
+      17
+    ],
+    "text": "register for the time being in operation.;",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      109,
+      501,
+      350,
+      17
+    ],
+    "text": "(2) by the repeat of sub-sections (2) to (8) (both",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157,
+      517,
+      222,
+      16
+    ],
+    "text": "inolusive) of that section; and",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      109,
+      541,
+      351,
+      17
+    ],
+    "text": "(8) by the omission of paragraph (6) of sub-section",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      158,
+      546,
+      131,
+      27
+    ],
+    "text": "(@) of that section.",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93,
+      585,
+      457,
+      17
+    ],
+    "text": "8. Section 7 of the principal enactment is hereby Replacement ot",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      596,
+      472,
+      22
+    ],
+    "text": "repealed, and the following new section substituted Seni!",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      607,
+      453,
+      32
+    ],
+    "text": "therefor : Tinroeet,",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      632,
+      251,
+      36
+    ],
+    "text": "neni of 7. Every person",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      658,
+      458,
+      30
+    ],
+    "text": "oPatttoeat (a) whose name is entered in any .",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      670,
+      385,
+      32
+    ],
+    "text": "Sree parliamentary register for the",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      145,
+      697,
+      316,
+      19
+    ],
+    "text": ". time being in operation for",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      254,
+      713,
+      250,
+      17
+    ],
+    "text": "any electoral district; and :",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      206,
+      729,
+      255,
+      17
+    ],
+    "text": "() who Was on the date of the",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      253,
+      745,
+      208,
+      17
+    ],
+    "text": "commencement of the pre",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      253,
+      761,
+      208,
+      17
+    ],
+    "text": "patation or revision of that",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      253,
+      778,
+      208,
+      28
+    ],
+    "text": "Parliamentary register. resi",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      205,
+      793,
+      256,
+      17
+    ],
+    "text": "+ dent in any ward which is",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      253,
+      809,
+      208,
+      18
+    ],
+    "text": "situated wholly or partly",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      253,
+      826,
+      208,
+      15
+    ],
+    "text": "within the electoral district,",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122,
+      842,
+      110,
+      9
+    ],
+    "text": "SLR Ramaespn",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      179,
+      10,
+      349,
+      18
+    ],
+    "text": "4 Local Authorities Elections (Amendment)",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      299,
+      28,
+      149,
+      16
+    ],
+    "text": "set, No. 25 of 1958.",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      276,
+      55,
+      291,
+      18
+    ],
+    "text": "shall be entitled to have his name entered",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      88,
+      71,
+      424,
+      13
+    ],
+    "text": ". in the electoral list of that ward:",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      292,
+      91,
+      275,
+      17
+    ],
+    "text": "Provided, however, that a person who",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      275,
+      107,
+      291,
+      17
+    ],
+    "text": "is disqualified by paragraph (a) of sub-",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      274,
+      123,
+      292,
+      16
+    ],
+    "text": "section (6) of section 6 shall not be",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      274,
+      138,
+      292,
+      14
+    ],
+    "text": "entitled to have his name entered in the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      274,
+      154,
+      292,
+      17
+    ],
+    "text": "electoral list of any ward of a village",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      196,
+      174,
+      113,
+      9
+    ],
+    "text": ": area.",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      76,
+      189,
+      489,
+      31
+    ],
+    "text": "Hope of 4. Section 8 of the principal enactment is hereby",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79,
+      202,
+      484,
+      29
+    ],
+    "text": "marae vepeated. pene .",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79,
+      231,
+      53,
+      9
+    ],
+    "text": "Panciacet,",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79,
+      248,
+      485,
+      21
+    ],
+    "text": "Recent 5. Section 0 of the principal enavtment is hereby",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79,
+      265,
+      485,
+      18
+    ],
+    "text": "Revprcpai repealed, and the following new section substituted",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79,
+      273,
+      180,
+      25
+    ],
+    "text": "eonetment. therefor :",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      176,
+      295,
+      388,
+      34
+    ],
+    "text": "* fener) 9. Every person who is not disquali-",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      175,
+      307,
+      390,
+      48
+    ],
+    "text": "err... fied as s provided by wection, 10 shall be",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      273,
+      338,
+      291,
+      17
+    ],
+    "text": "qualified at any time for election as 8",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      273,
+      353,
+      290,
+      17
+    ],
+    "text": "member for any ward of an electoral",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      273,
+      370,
+      65,
+      12
+    ],
+    "text": "area if",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      306,
+      394,
+      257,
+      18
+    ],
+    "text": "(@ he was, on the date of the com-",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      354,
+      410,
+      208,
+      18
+    ],
+    "text": "mencement of the preparation",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      354,
+      426,
+      209,
+      18
+    ],
+    "text": "or revision of the Parlia~",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      354,
+      442,
+      209,
+      17
+    ],
+    "text": "mentary register for the time",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      155,
+      458,
+      408,
+      19
+    ],
+    "text": ". being in operation for any",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      353,
+      470,
+      209,
+      18
+    ],
+    "text": "electoral district in which",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      354,
+      490,
+      208,
+      15
+    ],
+    "text": "that electoral area or any",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      354,
+      506,
+      207,
+      16
+    ],
+    "text": "part thereof is situated,",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      353,
+      523,
+      209,
+      16
+    ],
+    "text": "quatified to have his name",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      353,
+      537,
+      209,
+      18
+    ],
+    "text": "entered in that register; and",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      305,
+      553,
+      256,
+      17
+    ],
+    "text": "() he was, on the date aforesaid,",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      353,
+      571,
+      209,
+      14
+    ],
+    "text": "resident in that ward or any",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108,
+      586,
+      454,
+      14
+    ],
+    "text": ": other ward of the same",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      352,
+      603,
+      110,
+      13
+    ],
+    "text": "electoral area.",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      75,
+      625,
+      486,
+      15
+    ],
+    "text": "Amendment of &. Section 10 of the principal enactment is hereby",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      75,
+      631,
+      323,
+      29
+    ],
+    "text": "tealen 19 of St amended as follows: pene",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71,
+      653,
+      304,
+      30
+    ],
+    "text": "enactment. (2) in sub-section @)",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      254,
+      682,
+      305,
+      17
+    ],
+    "text": "(a) by the substitution, for paragraph (a),",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      301,
+      687,
+      258,
+      29
+    ],
+    "text": "of the following new paragraph!",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      303,
+      718,
+      257,
+      17
+    ],
+    "text": "** (@) ig not 2 citizen of Ceylon, or",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      351,
+      733,
+      208,
+      19
+    ],
+    "text": "if he is by virtue of bis own",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      305,
+      751,
+      254,
+      17
+    ],
+    "text": ": aot, under any acknowledg-",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      351,
+      767,
+      208,
+      17
+    ],
+    "text": "ment of allegiance, obedience",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      350,
+      783,
+      209,
+      20
+    ],
+    "text": "or adherence to any foreign",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      351,
+      799,
+      208,
+      14
+    ],
+    "text": "Power or State which is not",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      315,
+      816,
+      243,
+      16
+    ],
+    "text": "+. a member of the Common-",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      350,
+      832,
+      95,
+      15
+    ],
+    "text": "wealth; or;",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      110,
+      12,
+      345,
+      17
+    ],
+    "text": "Local Authorities Blections (Amendment) 3",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      191,
+      30,
+      145,
+      15
+    ],
+    "text": "Act, No. 25 of 1963.",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      153,
+      55,
+      301,
+      19
+    ],
+    "text": "(0) by the substitution, for paragraph (9),",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      200,
+      71,
+      254,
+      17
+    ],
+    "text": "of the following new paragraph:",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      202,
+      94,
+      252,
+      18
+    ],
+    "text": "@) is, under any law in force in",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      250,
+      110,
+      205,
+      16
+    ],
+    "text": "Ceylon, found or declared",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      245,
+      116,
+      209,
+      33
+    ],
+    "text": "to be of unsound mind; or;",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      158,
+      145,
+      296,
+      17
+    ],
+    "text": "(c) by the substitution, for paragraph {3},",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      153,
+      146,
+      301,
+      36
+    ],
+    "text": "Oty OF he following new Paragraphs",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      203,
+      185,
+      251,
+      18
+    ],
+    "text": "(i ig serving a sentence of",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      249,
+      200,
+      205,
+      18
+    ],
+    "text": "imprisonment for an offence",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      249,
+      216,
+      205,
+      18
+    ],
+    "text": "punishable with imprison-",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      249,
+      232,
+      205,
+      16
+    ],
+    "text": "ment for a term exceeding",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      249,
+      248,
+      205,
+      14
+    ],
+    "text": "twelve months or is under",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      249,
+      263,
+      205,
+      16
+    ],
+    "text": "sentence of death or is serving",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      249,
+      280,
+      206,
+      16
+    ],
+    "text": "a sentence of imprisonment",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      249,
+      295,
+      205,
+      16
+    ],
+    "text": "awarded in lieu of",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      248,
+      311,
+      206,
+      14
+    ],
+    "text": "execution of a sentence of",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      249,
+      328,
+      86,
+      14
+    ],
+    "text": "death; or;",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      153,
+      346,
+      301,
+      18
+    ],
+    "text": "(@) by the insertion, immediately after",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      200,
+      363,
+      254,
+      17
+    ],
+    "text": "paragraph (i), of the following new",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      201,
+      379,
+      99,
+      17
+    ],
+    "text": "paragraph :",
+    "mean_p_confidence": 0.08
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      234,
+      398,
+      220,
+      30
+    ],
+    "text": "\" @ is a member of the Local",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      269,
+      414,
+      185,
+      13
+    ],
+    "text": "ernment Service _con-",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      249,
+      429,
+      205,
+      17
+    ],
+    "text": "stituted by the Local",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      249,
+      446,
+      206,
+      13
+    ],
+    "text": "Government Service Ordi-",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      249,
+      462,
+      206,
+      15
+    ],
+    "text": "nance, No. 43 of 1945, or ;",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      265,
+      479,
+      25,
+      12
+    ],
+    "text": "and",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      153,
+      497,
+      302,
+      18
+    ],
+    "text": "(0) by the substitution, for paragraphs (j)",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      201,
+      497,
+      254,
+      37
+    ],
+    "text": "and (4), of the Glowing new",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      201,
+      530,
+      107,
+      17
+    ],
+    "text": "paragraphs:",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      201,
+      541,
+      255,
+      42
+    ],
+    "text": "is dingualifed from being",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      249,
+      566,
+      207,
+      16
+    ],
+    "text": "elected, or from sitting or",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      249,
+      582,
+      205,
+      17
+    ],
+    "text": "voting, aa a member of any",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      249,
+      598,
+      207,
+      17
+    ],
+    "text": "local authority by reason of",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      250,
+      614,
+      206,
+      18
+    ],
+    "text": "the operation of sub-section",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      250,
+      631,
+      206,
+      17
+    ],
+    "text": "(LA) of this section or section",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      250,
+      647,
+      183,
+      14
+    ],
+    "text": "81 of this Ordinance; or",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      201,
+      667,
+      255,
+      17
+    ],
+    "text": "4%) ia disqualified by section",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      249,
+      668,
+      207,
+      37
+    ],
+    "text": "5 of the Public Bodies (Pre-",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      248,
+      699,
+      209,
+      17
+    ],
+    "text": "vention of Corruption) Ordin-",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      249,
+      715,
+      207,
+      17
+    ],
+    "text": "anos, from being elected, or",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      251,
+      732,
+      205,
+      17
+    ],
+    "text": "from sitting or voting, as a",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      250,
+      747,
+      206,
+      17
+    ],
+    "text": "member of a public body as",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      250,
+      763,
+      206,
+      16
+    ],
+    "text": "defined in that Ordinance, by",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      248,
+      779,
+      209,
+      16
+    ],
+    "text": "reason of a conviction, or of",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      249,
+      795,
+      244,
+      18
+    ],
+    "text": "afinding of a Commission of",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      250,
+      812,
+      207,
+      18
+    ],
+    "text": "Inquiry, referred to in that",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      202,
+      830,
+      147,
+      17
+    ],
+    "text": ". section; or;",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      162,
+      9,
+      346,
+      16
+    ],
+    "text": "& Local Authorities Llections (Amendment)",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      281,
+      25,
+      147,
+      16
+    ],
+    "text": "Act, No. 26 of 1953.",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      195,
+      52,
+      354,
+      17
+    ],
+    "text": "{2} by the insertion, immediately after aub-",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      243,
+      69,
+      306,
+      16
+    ],
+    "text": "section (1) of that section, of the following",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      243,
+      85,
+      139,
+      12
+    ],
+    "text": "new sub-section:",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      261,
+      102,
+      288,
+      16
+    ],
+    "text": "(LA) A person shall, at any time, be",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      244,
+      102,
+      305,
+      36
+    ],
+    "text": "dusqualified from being elected under this",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      244,
+      134,
+      305,
+      17
+    ],
+    "text": "Ordinance, or from sitting or voting, as a",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      243,
+      138,
+      317,
+      30
+    ],
+    "text": "member of any loenl sathority if such",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      244,
+      166,
+      156,
+      15
+    ],
+    "text": "Person at that time",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      245,
+      182,
+      303,
+      17
+    ],
+    "text": "(@) is incapable under any provision in",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      293,
+      187,
+      255,
+      44
+    ],
+    "text": "that behalf in the Ceylon Garis.",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      209,
+      214,
+      339,
+      17
+    ],
+    "text": ": mentary Elections) Order in Council,",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      293,
+      230,
+      256,
+      17
+    ],
+    "text": "1946, of being elected or appointed",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      293,
+      235,
+      256,
+      25
+    ],
+    "text": "8 a Senator or Member of Pa:lia-",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      292,
+      263,
+      257,
+      16
+    ],
+    "text": "ment, by reason of any conviction",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      293,
+      278,
+      256,
+      17
+    ],
+    "text": "referred to in such provision, or by",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      293,
+      295,
+      256,
+      16
+    ],
+    "text": "reason of the report of an election",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      293,
+      302,
+      256,
+      42
+    ],
+    "text": "judge in accordance with that",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      246,
+      327,
+      299,
+      38
+    ],
+    "text": "@) i ds nalified b h. (&) of aub-",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      273,
+      346,
+      277,
+      13
+    ],
+    "text": "is diequalified by paragraph (&) of aub-",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      294,
+      347,
+      256,
+      30
+    ],
+    "text": "section (8) of seeuion 19 of the Ceylon",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      294,
+      374,
+      255,
+      17
+    ],
+    "text": "(Constitution) Order in Council,",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      295,
+      390,
+      255,
+      18
+    ],
+    "text": "1948, for being elected or appointed",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      294,
+      406,
+      257,
+      14
+    ],
+    "text": "as a Senator or as a Member of the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      294,
+      422,
+      257,
+      19
+    ],
+    "text": "House of Representatives, or for",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      294,
+      440,
+      256,
+      12
+    ],
+    "text": "sitting or voting in the Senate or in",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      294,
+      444,
+      257,
+      28
+    ],
+    "text": "the House of Representatives, by",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      295,
+      471,
+      256,
+      17
+    ],
+    "text": "reason of an adjudgment referred to",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      295,
+      488,
+      77,
+      15
+    ],
+    "text": "therein. ;",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      199,
+      506,
+      165,
+      16
+    ],
+    "text": "(3) in sub-section (2)",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      247,
+      522,
+      303,
+      17
+    ],
+    "text": "(a) by the substitution, for the expression",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      295,
+      527,
+      256,
+      28
+    ],
+    "text": "provisions of sub-section i. of",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      295,
+      547,
+      255,
+      41
+    ],
+    "text": "the expression provisions of sub-",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      290,
+      563,
+      252,
+      37
+    ],
+    "text": "section (0) and eub-seetion (1A),5",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      247,
+      587,
+      303,
+      29
+    ],
+    "text": "(0) in paragraph (5), by the eubstitution.",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      302,
+      602,
+      249,
+      16
+    ],
+    "text": "for the words Ordinance; or , of",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      295,
+      619,
+      183,
+      16
+    ],
+    "text": "the word Ordinanca,;",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      248,
+      634,
+      303,
+      19
+    ],
+    "text": "() by the omission of paragraphs (c) and",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      296,
+      652,
+      58,
+      15
+    ],
+    "text": "@); and",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      249,
+      667,
+      302,
+      17
+    ],
+    "text": "(@ by the omission of the words or",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      295,
+      683,
+      242,
+      17
+    ],
+    "text": "conviction, as the case may be. *;",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      201,
+      703,
+      350,
+      18
+    ],
+    "text": "(4) by the repeal of sub-sections (8) to (5) (both",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      248,
+      720,
+      212,
+      16
+    ],
+    "text": "inclusive) of that section; and",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      201,
+      736,
+      274,
+      17
+    ],
+    "text": "(8) in sub-section (6) of that section",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      249,
+      752,
+      315,
+      23
+    ],
+    "text": "{@) by the substitution, in paragraph (2), -",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      298,
+      768,
+      255,
+      19
+    ],
+    "text": "for the expression provisions of",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      297,
+      785,
+      255,
+      17
+    ],
+    "text": "sub-section (1), , of the expression",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      299,
+      794,
+      254,
+      41
+    ],
+    "text": "provisions of sub-section (1) and",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      297,
+      819,
+      177,
+      16
+    ],
+    "text": "sub-section (1A), ; and",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      250,
+      834,
+      291,
+      18
+    ],
+    "text": "{b) by the omission of paragraph (B).",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      114,
+      11,
+      344,
+      19
+    ],
+    "text": "Local Authorities Elections (Amendment) 7",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      193,
+      28,
+      376,
+      16
+    ],
+    "text": "Act, No. 6 of 1958. : .",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      89,
+      54,
+      456,
+      19
+    ],
+    "text": "7, Section 18 of the principal enactment is hereby Aunmeat of",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      73,
+      59,
+      478,
+      42
+    ],
+    "text": "amended in paragraph (a) of sab section @ ofthat. foegpet",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      73,
+      85,
+      451,
+      20
+    ],
+    "text": "section, by the substitution, for the word May , of metic.",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72,
+      100,
+      228,
+      14
+    ],
+    "text": "the word * June. :",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      88,
+      125,
+      454,
+      20
+    ],
+    "text": "8. Section 15 of the principal enactaient is hereby Ameatmen of",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      73,
+      141,
+      477,
+      22
+    ],
+    "text": "amended in sub-section (2) of that section, by the ten. of the",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70,
+      156,
+      452,
+      19
+    ],
+    "text": "substitution, for the word May, of the word fucken.",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72,
+      171,
+      85,
+      13
+    ],
+    "text": "June,",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86,
+      196,
+      453,
+      20
+    ],
+    "text": "9. Section 16 of the principal enactment is hereby Ameoinen ot",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70,
+      202,
+      479,
+      31
+    ],
+    "text": "amended as follows: : foc",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      470,
+      234,
+      51,
+      9
+    ],
+    "text": "Sneeleat,",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      102,
+      240,
+      351,
+      19
+    ],
+    "text": "(1) hy the repeal of sub-section (8) and the subs-",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      150,
+      256,
+      302,
+      19
+    ],
+    "text": "titution therefor of the following new sub-",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      149,
+      273,
+      74,
+      12
+    ],
+    "text": "section:",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      167,
+      286,
+      289,
+      42
+    ],
+    "text": "(3) For the purpose of fociliteting",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      149,
+      308,
+      289,
+      17
+    ],
+    "text": "the preparation or revision of elector:",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      149,
+      324,
+      302,
+      16
+    ],
+    "text": "lists under this Ordinance, the Commis-",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      148,
+      340,
+      302,
+      18
+    ],
+    "text": "sioner of Parliamentary Elections shall",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      147,
+      357,
+      303,
+      15
+    ],
+    "text": "cause to be furnished to the Commissioner",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      148,
+      372,
+      302,
+      20
+    ],
+    "text": "from time to time all such information as",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      147,
+      388,
+      303,
+      31
+    ],
+    "text": "may have been obtained by or on behalf of",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      147,
+      404,
+      302,
+      19
+    ],
+    "text": "registering officers as to the places of resi-",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      147,
+      420,
+      301,
+      17
+    ],
+    "text": "dence of persons whose natties are entered",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      147,
+      436,
+      301,
+      19
+    ],
+    "text": "in the Parliamentary registers for the time",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      146,
+      452,
+      160,
+      17
+    ],
+    "text": "being in operation.",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      98,
+      473,
+      349,
+      19
+    ],
+    "text": "(2). by the re-numbering of sub-section (4) as sub-",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      145,
+      490,
+      113,
+      16
+    ],
+    "text": "section (7); and",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      97,
+      505,
+      410,
+      21
+    ],
+    "text": "(8) by the insertion, immediately after the new .",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      144,
+      523,
+      303,
+      19
+    ],
+    "text": "sub-section (3), of the following aew sub-",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      144,
+      539,
+      80,
+      13
+    ],
+    "text": "sections:",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      161,
+      559,
+      285,
+      18
+    ],
+    "text": "(4) For the purpose of preparing and",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      143,
+      564,
+      392,
+      33
+    ],
+    "text": "revising electoral Hite under this Ortun. vet",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      142,
+      592,
+      387,
+      17
+    ],
+    "text": "ance and of determining whether the name = * \"Vu.\"",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      142,
+      608,
+      395,
+      17
+    ],
+    "text": "of any person should be entered in or ahh",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      122,
+      612,
+      323,
+      30
+    ],
+    "text": "erased from the liste, an Elections Officer",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      141,
+      639,
+      303,
+      19
+    ],
+    "text": "shall have regerd to any information",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      141,
+      656,
+      303,
+      16
+    ],
+    "text": "furnished to the Commissioner under sub-",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      140,
+      672,
+      304,
+      18
+    ],
+    "text": "section (3), and may, in addition, make",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      140,
+      688,
+      303,
+      32
+    ],
+    "text": "such honse to house or other inquity ag he",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      140,
+      705,
+      303,
+      31
+    ],
+    "text": "may deem nevessary either by himself or",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      140,
+      721,
+      302,
+      19
+    ],
+    "text": "through person authorised by him in",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      140,
+      737,
+      83,
+      14
+    ],
+    "text": "that behalf:",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      155,
+      753,
+      287,
+      30
+    ],
+    "text": "For the porpose of such inquiry the",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139,
+      769,
+      302,
+      22
+    ],
+    "text": "Elections Officer may require any house-",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      138,
+      785,
+      304,
+      21
+    ],
+    "text": "holder or any person owning or occupying",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      138,
+      803,
+      303,
+      15
+    ],
+    "text": "any land or premises in his district or the",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68,
+      808,
+      372,
+      31
+    ],
+    "text": "' agent of auch person to-give in such form",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      137,
+      836,
+      303,
+      19
+    ],
+    "text": "ag may from time to time -be provided by",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      174,
+      11,
+      339,
+      15
+    ],
+    "text": "8 Local Authorities Elections (Amendment)",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      290,
+      27,
+      144,
+      15
+    ],
+    "text": "Act, No. 26 of 1953.",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90,
+      53,
+      465,
+      18
+    ],
+    "text": "BOE the Commissioner any information in the",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      123,
+      62,
+      432,
+      40
+    ],
+    "text": ": . osotsaion of such person or agent which",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      120,
+      85,
+      435,
+      16
+    ],
+    "text": "re Elections Officer may require. Any",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      252,
+      101,
+      303,
+      16
+    ],
+    "text": "notice requiring information under this",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      133,
+      117,
+      422,
+      28
+    ],
+    "text": "na sub-section may be sant by ordinary letter",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      116,
+      132,
+      438,
+      19
+    ],
+    "text": ".. post to the person from whom the informa-",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      121,
+      148,
+      433,
+      17
+    ],
+    "text": "fo tion is required or may be delivered to him",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      252,
+      164,
+      293,
+      18
+    ],
+    "text": "or to an adult member of his household. _",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      268,
+      181,
+      287,
+      17
+    ],
+    "text": "(6) Every person who, being in",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      133,
+      196,
+      422,
+      17
+    ],
+    "text": ". possession of any information required",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      251,
+      212,
+      304,
+      16
+    ],
+    "text": "under sub-section (4) of this section, fails",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      121,
+      228,
+      434,
+      16
+    ],
+    "text": "to give ench information to an Elections",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      251,
+      243,
+      304,
+      17
+    ],
+    "text": "Officer or to any person authorised in that",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      251,
+      259,
+      304,
+      18
+    ],
+    "text": "behalf by the Elections Officer or wilfully",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      250,
+      267,
+      305,
+      40
+    ],
+    "text": "gives any false information, shall be guilty",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      250,
+      291,
+      305,
+      15
+    ],
+    "text": "of an offence and shall, on conviction after",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      251,
+      306,
+      304,
+      17
+    ],
+    "text": "summary trial before a Magistrate, be",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      250,
+      322,
+      304,
+      17
+    ],
+    "text": "liable to a fine not exceeding one hundred",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      251,
+      342,
+      48,
+      12
+    ],
+    "text": "rupees.",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      268,
+      354,
+      287,
+      17
+    ],
+    "text": "(6) Every person who is authorised under",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      251,
+      369,
+      303,
+      17
+    ],
+    "text": "this section by an Elections Officer and",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      250,
+      385,
+      304,
+      17
+    ],
+    "text": "who wilfully suppresses, or wilfully",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      233,
+      402,
+      322,
+      17
+    ],
+    "text": ". Makes any incorrect representation or",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      251,
+      418,
+      304,
+      15
+    ],
+    "text": "communication or record ot return of, any",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      98,
+      433,
+      457,
+      17
+    ],
+    "text": ". information relevant for determining",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      251,
+      449,
+      304,
+      17
+    ],
+    "text": "whether the name of any person should or",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      252,
+      465,
+      303,
+      14
+    ],
+    "text": "should not be entered in or erased from the",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      251,
+      481,
+      304,
+      15
+    ],
+    "text": "electoral lists, after such information has",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      252,
+      496,
+      302,
+      18
+    ],
+    "text": "been furnished to or collected by him, shall",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      252,
+      513,
+      303,
+      18
+    ],
+    "text": "be guilty of an offence and shall, on con-",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      252,
+      529,
+      303,
+      16
+    ],
+    "text": "vietion after summary trial before o",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      251,
+      537,
+      304,
+      40
+    ],
+    "text": "Magistrate, be liable to & fine not exceeding",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      251,
+      561,
+      160,
+      16
+    ],
+    "text": "one hundred rupees..",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      73,
+      584,
+      482,
+      20
+    ],
+    "text": "Amenowot ol 40. Section 19 of the principal ensctment is hereby",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      74,
+      593,
+      482,
+      30
+    ],
+    "text": "principe amended, by the addition, immediately after sub-",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      73,
+      608,
+      482,
+      30
+    ],
+    "text": "votes, section (5) of that section, of the following new",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      71,
+      632,
+      209,
+      14
+    ],
+    "text": ". sub-sections:-",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      221,
+      652,
+      334,
+      18
+    ],
+    "text": "* (@) Every person who wilfully makes a false",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      204,
+      668,
+      352,
+      17
+    ],
+    "text": "statement or declaration in any claim or objection.",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      204,
+      684,
+      351,
+      16
+    ],
+    "text": "or at any inquiry held in connection therewith",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      204,
+      699,
+      351,
+      19
+    ],
+    "text": "shall be guilty of an offence and shall, on convie-",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      204,
+      715,
+      351,
+      19
+    ],
+    "text": "tion after summary trial before a Magistrate, be",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      205,
+      731,
+      349,
+      18
+    ],
+    "text": "liable to a fine not exceeding one hundred rupees.",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      206,
+      737,
+      349,
+      29
+    ],
+    "text": "_\"(), The Elections Over shall keep order af any",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      205,
+      763,
+      350,
+      19
+    ],
+    "text": "inquiry held ander this section into any claim",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      204,
+      779,
+      351,
+      19
+    ],
+    "text": "or objection, and shall regulate the number of",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      205,
+      795,
+      350,
+      19
+    ],
+    "text": "persons to he admitted at a time, and may exclude",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      205,
+      810,
+      350,
+      20
+    ],
+    "text": "all persons; except the claimant and persons who",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      204,
+      826,
+      349,
+      19
+    ],
+    "text": "desire to oppose the claim or, as the.case may be,",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      116,
+      8,
+      344,
+      17
+    ],
+    "text": "Local Authorities Elections (Amendment) 9",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      195,
+      26,
+      146,
+      15
+    ],
+    "text": "Act, No. 26 of 1958.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      109,
+      52,
+      351,
+      29
+    ],
+    "text": "the objector and the person in regard to whom",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      109,
+      68,
+      382,
+      29
+    ],
+    "text": "the, objection is made, the potice ofcars on duly, ~",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      109,
+      84,
+      351,
+      18
+    ],
+    "text": "and other persons officially employed for the",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      109,
+      101,
+      172,
+      17
+    ],
+    "text": "purposes of the inquiry.",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      126,
+      106,
+      334,
+      27
+    ],
+    "text": "@ If any person misconduots himself at any",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      109,
+      131,
+      351,
+      20
+    ],
+    "text": "inquiry held under this section into any claim ot",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      109,
+      144,
+      351,
+      21
+    ],
+    "text": "objection, ot fails to obey the lawful orders of the",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      109,
+      163,
+      351,
+      27
+    ],
+    "text": "Elections Officer, the Elections Officer may canse",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      109,
+      178,
+      351,
+      16
+    ],
+    "text": "him to be removed forthwith from the place at",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      110,
+      194,
+      350,
+      17
+    ],
+    "text": "which the inquiry is being held by any police",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      109,
+      200,
+      351,
+      27
+    ],
+    "text": "officer or by any other person authorised in writing",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      109,
+      227,
+      169,
+      16
+    ],
+    "text": "by the Elections Oficer.",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      126,
+      241,
+      334,
+      18
+    ],
+    "text": "(8) Any person removed from a, place at which",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      110,
+      257,
+      319,
+      18
+    ],
+    "text": "an inguity is being held under this seetion",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      126,
+      275,
+      334,
+      17
+    ],
+    "text": "{a} shall not, except with the permission of the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      158,
+      291,
+      302,
+      16
+    ],
+    "text": "Elections Officer, be allowed to enter that",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      149,
+      307,
+      267,
+      17
+    ],
+    "text": ". place again during the inquiry; and",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      126,
+      324,
+      334,
+      18
+    ],
+    "text": "{b) may, if he is charged with the commission of",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      158,
+      340,
+      301,
+      18
+    ],
+    "text": "any offence in that place, be kept in custody",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      158,
+      356,
+      302,
+      17
+    ],
+    "text": "until he can be bronght before a",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      158,
+      374,
+      97,
+      16
+    ],
+    "text": "Magistrate.,",
+    "mean_p_confidence": 0.08
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      93,
+      400,
+      451,
+      14
+    ],
+    "text": "44. Seotion 28 of the principal enactment is hereby Amodmert ot",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      77,
+      404,
+      478,
+      29
+    ],
+    "text": "amended ae follows: y fae",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      110,
+      434,
+      417,
+      20
+    ],
+    "text": "{1) in eub-section (2), by the substitution, for the =e\"",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      158,
+      453,
+      301,
+      14
+    ],
+    "text": "word March, of the word",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      159,
+      470,
+      133,
+      16
+    ],
+    "text": "February '\"; and",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      110,
+      486,
+      349,
+      18
+    ],
+    "text": "(2) by the addition, immediately after sub-section",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      159,
+      503,
+      300,
+      17
+    ],
+    "text": "(4) of that section, of the following new",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      158,
+      510,
+      401,
+      32
+    ],
+    "text": "sub-section: .",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      175,
+      537,
+      285,
+      29
+    ],
+    "text": "() Nothing in thie Qniinance shall be",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      158,
+      553,
+      300,
+      29
+    ],
+    "text": "deemed to. prohibit oa, Elections Ofer,",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      158,
+      569,
+      301,
+      29
+    ],
+    "text": "before certifying any electoral lista, from",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      157,
+      585,
+      303,
+      17
+    ],
+    "text": "correcting any clerical error which appears",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      158,
+      601,
+      262,
+      14
+    ],
+    "text": "to him to have been made therein..",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      93,
+      623,
+      453,
+      16
+    ],
+    "text": "42, Section 24 of the principal enactment is hereby Amepsrent of",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      77,
+      625,
+      479,
+      37
+    ],
+    "text": "amended, by the substitution, for the expression foe",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      78,
+      657,
+      450,
+      17
+    ],
+    "text": "section 28 (3), of the expression section 23\". scien.",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      93,
+      681,
+      458,
+      17
+    ],
+    "text": "418. Section 26 of the principal enactinent is hereby Amigest, of",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      76,
+      686,
+      479,
+      29
+    ],
+    "text": "amended in sub-section (hot that section as follows: Saget",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      110,
+      715,
+      418,
+      30
+    ],
+    "text": "(1) im paragraph (o), by the substitution, for al] Sessimeet.",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      158,
+      732,
+      301,
+      13
+    ],
+    "text": "the words from be held to the end of",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      157,
+      748,
+      264,
+      17
+    ],
+    "text": "that paragraph, of the following:",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      159,
+      766,
+      300,
+      17
+    ],
+    "text": "be held within the period of three months",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      68,
+      782,
+      391,
+      30
+    ],
+    "text": ": preceding the, date on which the",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90,
+      799,
+      369,
+      13
+    ],
+    "text": ". tarm of office of the members who are",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      88,
+      815,
+      371,
+      15
+    ],
+    "text": ": to be elected is due to commence;",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      138,
+      832,
+      134,
+      14
+    ],
+    "text": ": or; and",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      165,
+      5,
+      338,
+      16
+    ],
+    "text": "19 Local Authorities Elections (Amendment)",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      278,
+      22,
+      145,
+      15
+    ],
+    "text": "Act, No. 25 of 1953.",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      220,
+      48,
+      324,
+      15
+    ],
+    "text": "in paragraph (), by the substitution, for all",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      195,
+      49,
+      349,
+      37
+    ],
+    "text": "a The words Qu ig be held ** to the end of",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      240,
+      80,
+      260,
+      16
+    ],
+    "text": "that paragraph, of the following :",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      242,
+      99,
+      302,
+      17
+    ],
+    "text": "* he held within the period of five months",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      288,
+      112,
+      256,
+      36
+    ],
+    "text": "preceding. the date on which the",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      288,
+      131,
+      256,
+      13
+    ],
+    "text": "term of office of the members who are",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      288,
+      146,
+      255,
+      14
+    ],
+    "text": "to be elected is due to commence.",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      68,
+      178,
+      476,
+      21
+    ],
+    "text": "Ammiocs ot 14, _ Section 27 of the principal enactment is hereby",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      68,
+      193,
+      436,
+      19
+    ],
+    "text": "pundpat amended in sub-section (1) thereof as follaws:",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      63,
+      205,
+      481,
+      30
+    ],
+    "text": "soactueat, (1) in paragraph (a) of that sub-section, by the",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      239,
+      229,
+      305,
+      15
+    ],
+    "text": "substitution, for all the words from The",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      239,
+      245,
+      305,
+      13
+    ],
+    "text": "notice shall state to the end of that",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      239,
+      261,
+      226,
+      17
+    ],
+    "text": "paragraph, of the following:",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      240,
+      281,
+      303,
+      17
+    ],
+    "text": "The notice shall state, as respects each",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      287,
+      298,
+      256,
+      16
+    ],
+    "text": "ward of the area, the date on which,",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      287,
+      315,
+      257,
+      17
+    ],
+    "text": "and the place at which, candidates",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      288,
+      331,
+      255,
+      14
+    ],
+    "text": "for election must be nominated.",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      288,
+      349,
+      125,
+      13
+    ],
+    "text": "Such date shall",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      289,
+      368,
+      255,
+      17
+    ],
+    "text": "(i) where the area is a municipality",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      335,
+      386,
+      209,
+      14
+    ],
+    "text": "or a town, be a date not",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      335,
+      402,
+      209,
+      15
+    ],
+    "text": "earlier than fourteen days or",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      336,
+      418,
+      208,
+      17
+    ],
+    "text": "later than twenty-one days",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      336,
+      434,
+      207,
+      17
+    ],
+    "text": "from the date of the publi-",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      336,
+      453,
+      164,
+      13
+    ],
+    "text": "cation of the notice; or",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      289,
+      472,
+      254,
+      16
+    ],
+    "text": "(ii) where the area is a village area,",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      336,
+      488,
+      208,
+      14
+    ],
+    "text": "be a date not earlier than",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      336,
+      505,
+      207,
+      17
+    ],
+    "text": "fourteen days or later than",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      336,
+      522,
+      208,
+      18
+    ],
+    "text": "twenty-eight days from the",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      73,
+      539,
+      471,
+      18
+    ],
+    "text": ": date of the publication of the",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      336,
+      558,
+      95,
+      14
+    ],
+    "text": "notice. ; and",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      193,
+      576,
+      351,
+      18
+    ],
+    "text": "(2) in paragraph () (ii) of that sub-section, by",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      241,
+      593,
+      303,
+      16
+    ],
+    "text": "the substitution, for the word ' March \",",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      241,
+      611,
+      200,
+      16
+    ],
+    "text": "of the word February.",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      63,
+      638,
+      481,
+      25
+    ],
+    "text": "Awendiaent of 15, Section 44 of the principal enactment is",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      64,
+      643,
+      481,
+      39
+    ],
+    "text": "tacmi' hereby amended by the sobstitation, for the first",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      63,
+      675,
+      460,
+      17
+    ],
+    "text": "tment. - Proviso thereto, of the following new Proviso:",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      109,
+      699,
+      435,
+      16
+    ],
+    "text": ": Provided that if any person, who by reason",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      194,
+      714,
+      350,
+      17
+    ],
+    "text": "of his conviction of a corrupt practice or",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      194,
+      715,
+      350,
+      37
+    ],
+    "text": "an illegal practice or by reason of the report. of",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      195,
+      746,
+      349,
+      18
+    ],
+    "text": "an election judge, or by reason of his conviction",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      194,
+      761,
+      350,
+      15
+    ],
+    "text": "of an offence under Section 52 or Section 63 of",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      180,
+      777,
+      364,
+      19
+    ],
+    "text": "the Ceylon (Parliamentary Elections) Order it",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      196,
+      793,
+      349,
+      19
+    ],
+    "text": "Council, 1946, or by reason of the operation of",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      196,
+      795,
+      349,
+      36
+    ],
+    "text": "Section 44 of that Order, is incapable of voting",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      194,
+      826,
+      350,
+      16
+    ],
+    "text": "at any election under that Order, votes at any",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108,
+      13,
+      344,
+      16
+    ],
+    "text": "Local Authorities Elections (Amendment) 11",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      187,
+      29,
+      146,
+      15
+    ],
+    "text": "Act, No. 25 of 1958.",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      100,
+      56,
+      352,
+      16
+    ],
+    "text": "election under this Ordinance, +he shall be guilty",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      100,
+      72,
+      352,
+      15
+    ],
+    "text": "of an offence and shall, on conviction after",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      100,
+      88,
+      352,
+      16
+    ],
+    "text": "summary trial before a Magistrate, be liable to",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      47,
+      104,
+      405,
+      27
+    ],
+    "text": ", a fine tot exceeding five hundved Tupess or, to",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      100,
+      119,
+      352,
+      17
+    ],
+    "text": "imprisonment of either description for a period",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      100,
+      135,
+      189,
+      16
+    ],
+    "text": "not exceeding six months:.",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      84,
+      170,
+      453,
+      17
+    ],
+    "text": "16, Section 48 of the principal enactment is hereby Ameaduen: of",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      68,
+      181,
+      477,
+      22
+    ],
+    "text": "amended by the substitution, for paragraph (@), of uote",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      67,
+      202,
+      453,
+      16
+    ],
+    "text": "the following new paragraph : Enacient,",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      102,
+      221,
+      349,
+      16
+    ],
+    "text": "\"(@) shall contain a list of the candidates in",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      149,
+      236,
+      302,
+      17
+    ],
+    "text": "English, Sinhalese and Tamil, described,",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      149,
+      253,
+      303,
+      28
+    ],
+    "text": "subject to the provisions of section 60, at",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      149,
+      268,
+      302,
+      29
+    ],
+    "text": "in their respective nomination paper, end",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      149,
+      284,
+      302,
+      19
+    ],
+    "text": "arvanged alphabetically in English in the",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      148,
+      300,
+      302,
+      16
+    ],
+    "text": "order of their surnames or ge names, and,",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      149,
+      315,
+      302,
+      14
+    ],
+    "text": "if there are two or more candidates with",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      149,
+      331,
+      302,
+      17
+    ],
+    "text": "the same surname or ge name, of their",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      149,
+      348,
+      114,
+      14
+    ],
+    "text": "other names; .",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      85,
+      383,
+      460,
+      20
+    ],
+    "text": "17, Section 58 of the principal enactment is hereby Apindment ut",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      68,
+      397,
+      465,
+      19
+    ],
+    "text": "amended in sub-section (3), by the substitution in precml",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      48,
+      415,
+      472,
+      17
+    ],
+    "text": "paragraph (a), for the words either embossed *, of fmcimest,",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      68,
+      432,
+      281,
+      16
+    ],
+    "text": "the words either stamped, embossed\",",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      69,
+      467,
+      456,
+      28
+    ],
+    "text": "smth the following new section is hereby invented, tee",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      69,
+      479,
+      454,
+      21
+    ],
+    "text": "immediately after section 694, and shall have effect ty \"ES",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      68,
+      500,
+      451,
+      19
+    ],
+    "text": "as section 698, of the principal enactment: paced",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      68,
+      511,
+      383,
+      32
+    ],
+    "text": "Names of 69e, Immediately before the adjourn-",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      118,
+      535,
+      326,
+      17
+    ],
+    "text": "7 ment of any election on nomination day",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      131,
+      551,
+      320,
+      17
+    ],
+    "text": ". toenable a poll to be taken, any candidate",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      118,
+      567,
+      333,
+      17
+    ],
+    "text": ". | may, by writing under his hand, indicate",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      163,
+      583,
+      288,
+      17
+    ],
+    "text": "to the returning officer which of his names",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      164,
+      598,
+      310,
+      17
+    ],
+    "text": "mentioned in the nomination paper he",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      164,
+      614,
+      286,
+      15
+    ],
+    "text": "desires should be omitted and which",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      164,
+      631,
+      286,
+      17
+    ],
+    "text": "should be specified by initial only; and",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      164,
+      647,
+      287,
+      30
+    ],
+    "text": "for the puzposes ofthe election the names",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      163,
+      663,
+      288,
+      16
+    ],
+    "text": "which the candidate desires to omit may",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      163,
+      679,
+      304,
+      17
+    ],
+    "text": "be omitted and an initial may be used in,",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      163,
+      695,
+      287,
+      18
+    ],
+    "text": "place of each name which he desires",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      163,
+      712,
+      209,
+      17
+    ],
+    "text": "should be specified by initial.",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      83,
+      743,
+      460,
+      16
+    ],
+    "text": "49, Section 78 of the principal enactment is hereby Augodment, of",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      67,
+      748,
+      480,
+      28
+    ],
+    "text": "amended es follows: ree",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      100,
+      775,
+      436,
+      43
+    ],
+    "text": "(@) by the repeal of sub-section (2) of that section; \"\"*",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      74,
+      792,
+      436,
+      32
+    ],
+    "text": ". an .",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      100,
+      819,
+      350,
+      18
+    ],
+    "text": "() by the re-numbering of sub-section (1) of that",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      148,
+      837,
+      150,
+      13
+    ],
+    "text": "section as section 78.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      167,
+      9,
+      340,
+      16
+    ],
+    "text": "42 Local Authorities Elections (Amendment)",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      283,
+      26,
+      144,
+      15
+    ],
+    "text": "Act, No. 6 of 1958.",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      73,
+      52,
+      475,
+      18
+    ],
+    "text": "Replacimest of 20, Section 81 of the principal enactment is hereby",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      73,
+      68,
+      475,
+      21
+    ],
+    "text": "see tal he repealed, and the following new section substituted",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      68,
+      79,
+      179,
+      30
+    ],
+    "text": "Srectment. therefor :",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      165,
+      103,
+      379,
+      21
+    ],
+    "text": "Inearcty fr 81. Any person who is convicted of",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      106,
+      112,
+      440,
+      31
+    ],
+    "text": "- Sietios. an offence under the provisions of any of",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      260,
+      135,
+      287,
+      16
+    ],
+    "text": "the following sections of this Ordinance,",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      206,
+      150,
+      342,
+      19
+    ],
+    "text": ". namely, sections 75 to 80 (both inclusive)",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      259,
+      167,
+      289,
+      16
+    ],
+    "text": "shalt, in addition to any other penalty to",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      119,
+      182,
+      428,
+      17
+    ],
+    "text": ". which he may be liable for that offence,",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      141,
+      199,
+      407,
+      16
+    ],
+    "text": ". he disqualified for a period of five years",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      259,
+      214,
+      289,
+      19
+    ],
+    "text": "reckoned from the date of such convic-",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      259,
+      221,
+      289,
+      40
+    ],
+    "text": "tion, from being elected or from sitting",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      259,
+      246,
+      284,
+      16
+    ],
+    "text": "or voting, as a member of any local",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      259,
+      262,
+      70,
+      16
+    ],
+    "text": "authority.",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      67,
+      287,
+      480,
+      24
+    ],
+    "text": "Amendunent of 24, Section 88 of the principal enactment is horeby",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      71,
+      294,
+      471,
+      30
+    ],
+    "text": "waintate amended as follows: :",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      70,
+      317,
+      478,
+      30
+    ],
+    "text": "seta, (1) by the insertion, immediately after the",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      243,
+      340,
+      305,
+      14
+    ],
+    "text": "definition of the term district. of the",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      243,
+      357,
+      201,
+      16
+    ],
+    "text": "following new definition:",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      244,
+      378,
+      303,
+      13
+    ],
+    "text": "electoral district *' has the same mean-",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      292,
+      394,
+      255,
+      29
+    ],
+    "text": "ing ae inthe Ceylon (Parlianentasy",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      292,
+      410,
+      255,
+      15
+    ],
+    "text": "Elections) Order in Council, 19463\";",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      292,
+      426,
+      26,
+      13
+    ],
+    "text": "and",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      196,
+      444,
+      352,
+      18
+    ],
+    "text": "(2) by the insertion, immediately after the defini-",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      244,
+      460,
+      304,
+      18
+    ],
+    "text": "tion of the term municipality \", of the",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      244,
+      478,
+      200,
+      16
+    ],
+    "text": "following new definition :",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      245,
+      497,
+      303,
+      17
+    ],
+    "text": "parliamentary register for the time",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      292,
+      514,
+      256,
+      16
+    ],
+    "text": "being in operation means any",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      293,
+      529,
+      255,
+      17
+    ],
+    "text": "register of electors for the time being",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      293,
+      545,
+      255,
+      19
+    ],
+    "text": "in operation under the Ceyton",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      293,
+      561,
+      255,
+      16
+    ],
+    "text": "{Parliamentary Elections) Order in",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      293,
+      578,
+      113,
+      14
+    ],
+    "text": "Council, 1946;.",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      67,
+      605,
+      481,
+      19
+    ],
+    "text": "Ropbemtot 22. The First Schedule to the principal enactment",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      68,
+      620,
+      480,
+      17
+    ],
+    "text": "he Ries is hereby repealed and the following new Schedule",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      64,
+      621,
+      376,
+      33
+    ],
+    "text": "Schndule to 4 the iB",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      68,
+      637,
+      264,
+      16
+    ],
+    "text": "the pineipat aubstituted therefor :",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      67,
+      655,
+      52,
+      7
+    ],
+    "text": "seinen.",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      299,
+      669,
+      112,
+      11
+    ],
+    "text": "Finer Somzouts.",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      304,
+      691,
+      225,
+      13
+    ],
+    "text": "{Section 29 (4) ) .",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      275,
+      712,
+      160,
+      14
+    ],
+    "text": "Form of Nemination Paper.",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      178,
+      732,
+      154,
+      14
+    ],
+    "text": "Nomination paper for the csccssseessnetennsesesncssetnsntrs",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      165,
+      746,
+      382,
+      15
+    ],
+    "text": "vweard of the alectoral area of the arrcaccn senses (Municipal",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      166,
+      759,
+      342,
+      15
+    ],
+    "text": "Council/Urbsn Council/Town Council/Village Conmitteo.",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      179,
+      776,
+      181,
+      13
+    ],
+    "text": "1. Name of candidate in full: sesenenncanesecneennantt",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      216,
+      790,
+      140,
+      14
+    ],
+    "text": "Give name, Christian",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      215,
+      805,
+      142,
+      22
+    ],
+    "text": "4 geo other nomen in",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      239,
+      820,
+      279,
+      12
+    ],
+    "text": "5 sumame or ge .",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      215,
+      831,
+      64,
+      13
+    ],
+    "text": "tame frst) sesnesnepasgnenanatte",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      107,
+      20,
+      342,
+      15
+    ],
+    "text": "Local Authorities Elections (Amendment) 18",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      185,
+      36,
+      146,
+      14
+    ],
+    "text": "Act, No. 25 of 1958.",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      78,
+      63,
+      75,
+      10
+    ],
+    "text": "2 Address: esas aeepspenenennnnee",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      78,
+      81,
+      95,
+      13
+    ],
+    "text": "3. Ocoupation: tbereereeaetherntcnenannaes",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      78,
+      103,
+      177,
+      13
+    ],
+    "text": "4. Name of proposer in full: coereentseneevrtesousanonsane",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      79,
+      125,
+      433,
+      13
+    ],
+    "text": "5. Proposers No. and Ward .",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      116,
+      135,
+      371,
+      21
+    ],
+    "text": "in electoral list: see ceacemmeseenaneacaneneteass .",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      78,
+      152,
+      177,
+      11
+    ],
+    "text": "6. Name of seconder in full: ans ceeen cane nen enanenranentant",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      79,
+      173,
+      179,
+      10
+    ],
+    "text": "7. Seconder's No. and Ward",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      117,
+      186,
+      97,
+      11
+    ],
+    "text": "in electorel list: see rtessannanesenanemeaeeneaes",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      311,
+      214,
+      125,
+      19
+    ],
+    "text": "Signature of Proposer.",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      66,
+      245,
+      167,
+      13
+    ],
+    "text": "Signed by the above-named 1... cscs ecene nee etsareneeneens",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      66,
+      258,
+      383,
+      24
+    ],
+    "text": "{proposer} in my presence Un vnvnone nomen GAG Ob",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      281,
+      314,
+      168,
+      13
+    ],
+    "text": "{3 Justica of the Pence ot",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      296,
+      327,
+      153,
+      11
+    ],
+    "text": "Commissioner for Oaths or",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      319,
+      340,
+      222,
+      13
+    ],
+    "text": "Notary Public). .",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      305,
+      387,
+      129,
+      13
+    ],
+    "text": "Signature of Seconder.",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      49,
+      408,
+      184,
+      17
+    ],
+    "text": "> Sigued by the above-named ....ccscscsessssseecencneenestegne",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      66,
+      425,
+      382,
+      14
+    ],
+    "text": "(seoonder) in my presence Eis vioscsseresccsccscrecseersenes Bay Of",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      280,
+      467,
+      168,
+      19
+    ],
+    "text": "(A Tustion of the Beace or",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      294,
+      486,
+      155,
+      11
+    ],
+    "text": "Commissioner for Onthe or",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      304,
+      500,
+      92,
+      13
+    ],
+    "text": "Notary Public).",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      77,
+      519,
+      372,
+      37
+    ],
+    "text": "The above artioglara must be printed also in",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      66,
+      538,
+      161,
+      14
+    ],
+    "text": "Sinhalese and Tamil.",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      83,
+      567,
+      457,
+      22
+    ],
+    "text": "28. The Third Schedule to the principal enact- Berens ot",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      65,
+      581,
+      481,
+      21
+    ],
+    "text": "ment is hereby repealed and the following new Schedule sd, Setus,",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      66,
+      599,
+      453,
+      14
+    ],
+    "text": "substituted therefor: toncteeat.",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      200,
+      624,
+      251,
+      16
+    ],
+    "text": "Tan Scprpuis. .",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      222,
+      642,
+      73,
+      13
+    ],
+    "text": "(Section 48)",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      174,
+      663,
+      168,
+      13
+    ],
+    "text": "Porm of front of ballot paper.",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      63,
+      687,
+      388,
+      18
+    ],
+    "text": "Counterfoil No. \") AMARASINGHE, JAMES *",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      73,
+      705,
+      376,
+      32
+    ],
+    "text": "Note: Pe Gounterfoll is rr",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      128,
+      724,
+      323,
+      9
+    ],
+    "text": "ave & number tol +",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      120,
+      728,
+      265,
+      22
+    ],
+    "text": "correspond with that JANSZ, HECTOR",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      120,
+      749,
+      330,
+      13
+    ],
+    "text": "on the back of the) <<",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      120,
+      763,
+      261,
+      17
+    ],
+    "text": "ballot paper. MAKEEN, M. M.",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      53,
+      779,
+      201,
+      14
+    ],
+    "text": "~ Candidates names must be]",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      76,
+      794,
+      372,
+      12
+    ],
+    "text": "printed algo in Sinhalese and) _",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      76,
+      807,
+      294,
+      12
+    ],
+    "text": "Tam, RUTNAM, K.",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      74,
+      832,
+      303,
+      12
+    ],
+    "text": "* Hero print distinetiva symbol allotted to the candidate..",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      173,
+      20,
+      343,
+      15
+    ],
+    "text": "14 Local Authorities Elections (Amendment)",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      290,
+      36,
+      230,
+      15
+    ],
+    "text": "Act, No. 25 of 1968. .",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      78,
+      54,
+      478,
+      37
+    ],
+    "text": "Sains a 25, Where, in the case of any person who is a",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      78,
+      78,
+      478,
+      19
+    ],
+    "text": "sealieaton of member of any locel authority at the date of the com-",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      78,
+      83,
+      478,
+      28
+    ],
+    "text": "iat Tnencement of this Act, any question arises, at any",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      78,
+      100,
+      479,
+      32
+    ],
+    "text": "antbevitey time during the term of office of the members of that.",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      78,
+      117,
+      478,
+      31
+    ],
+    "text": "rote, local authority in office at the date aforesaid, as to",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      132,
+      141,
+      424,
+      17
+    ],
+    "text": "+ whether or not such person is qualified to be a member",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      172,
+      149,
+      384,
+      41
+    ],
+    "text": "of thet authority, then, notwithstanding anything in",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      172,
+      173,
+      384,
+      28
+    ],
+    "text": "the proceding provisions ofthis Act, that question shall",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      172,
+      189,
+      384,
+      17
+    ],
+    "text": "be determined in all respects under and in accordance",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      171,
+      205,
+      385,
+      17
+    ],
+    "text": "with the written law in force immediately prior to the",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      172,
+      221,
+      384,
+      13
+    ],
+    "text": "date of the commencement of this Act and in like",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      171,
+      237,
+      361,
+      16
+    ],
+    "text": "manner as though this Act had not been enacted.",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72,
+      268,
+      484,
+      27
+    ],
+    "text": "Teanaiionel 28. Notwithstanding anything in this Act, sections",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      76,
+      285,
+      480,
+      21
+    ],
+    "text": "Wie'ecion. 6, 7, 8, 44, 78, 81 and 88 Of the principal enactment",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      170,
+      304,
+      386,
+      17
+    ],
+    "text": "shall, in the case of avery election of a member for any",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      170,
+      320,
+      386,
+      18
+    ],
+    "text": "ward of a local authority which may be held prior ta",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      171,
+      336,
+      385,
+      14
+    ],
+    "text": "the date on which the electoral list of that ward is",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      77,
+      352,
+      479,
+      14
+    ],
+    "text": ". first certified after the date of the commencement of",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      170,
+      368,
+      386,
+      18
+    ],
+    "text": "this Act, apply as though those sections had not been",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      170,
+      385,
+      156,
+      16
+    ],
+    "text": "amended by this Act.",
+    "mean_p_confidence": 0.74
+  }
+]

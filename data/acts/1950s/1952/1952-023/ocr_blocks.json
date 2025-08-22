@@ -1,0 +1,3577 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      87,
+      13,
+      415,
+      35
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      200,
+      60,
+      324,
+      31
+    ],
+    "text": "Ist Session 1952 cite",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      294,
+      86,
+      222,
+      25
+    ],
+    "text": "; Le,",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      293,
+      111,
+      214,
+      29
+    ],
+    "text": "a Shan. +",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      221,
+      136,
+      336,
+      27
+    ],
+    "text": "mcrae RO ie oT Mod 13-",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      232,
+      152,
+      324,
+      21
+    ],
+    "text": "Eom E",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      240,
+      236,
+      116,
+      22
+    ],
+    "text": "eae",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      217,
+      250,
+      157,
+      23
+    ],
+    "text": "RESIGNS",
+    "mean_p_confidence": 0.02
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      85,
+      309,
+      426,
+      32
+    ],
+    "text": "Food Subsidies Temporary Taxes",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      160,
+      356,
+      267,
+      30
+    ],
+    "text": "Act, No. 23 -of 1952",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      185,
+      504,
+      226,
+      14
+    ],
+    "text": "Date of Assent : September 27, 1952",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      175,
+      634,
+      247,
+      15
+    ],
+    "text": "Printed on the Orders of Government",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      117,
+      768,
+      361,
+      23
+    ],
+    "text": "Dante. Son, fem Senge",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      117,
+      790,
+      361,
+      28
+    ],
+    "text": "Annual Subscription {Including Bills) Hs. 25, payable in",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      118,
+      805,
+      361,
+      10
+    ],
+    "text": "fe, Whe eal, sbaattnn Pier",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      117,
+      816,
+      361,
+      11
+    ],
+    "text": "Sinn Rost\" Gena \"Bon\"Wio, Pecan, Galeseen",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      117,
+      835,
+      360,
+      12
+    ],
+    "text": "Price #20 conte . Postage & cents",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      146,
+      8,
+      308,
+      17
+    ],
+    "text": "Food Subsidies Temporary Taxes 3",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      196,
+      25,
+      139,
+      16
+    ],
+    "text": "det, Na, #3 of 1652",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      49,
+      96,
+      14
+    ],
+    "text": "1. DOOR, 8/82",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      70,
+      378,
+      13
+    ],
+    "text": "AN AcT TO PROVIDE FoR THR LEVY OF CRRTAIN",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      123,
+      86,
+      284,
+      13
+    ],
+    "text": "TRMPORARY TAXES Fo Foon Sunsipres,",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      125,
+      109,
+      281,
+      17
+    ],
+    "text": "[Date of Assent; September 27, 1952]",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93,
+      133,
+      363,
+      17
+    ],
+    "text": "WHEREAS a sum of Rupees One hundred and",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      149,
+      380,
+      18
+    ],
+    "text": "sixty-one millions has heen provided by Parliament",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      165,
+      380,
+      18
+    ],
+    "text": "for the purchase and distribution of food and other",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      181,
+      380,
+      30
+    ],
+    "text": "essential conmmovtities including subsidies on essential",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      199,
+      379,
+      17
+    ],
+    "text": "foodstuffs and for loans and guarantees to non-",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      210,
+      380,
+      37
+    ],
+    "text": "Government agencies for the Purpose of maintaining",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      229,
+      380,
+      18
+    ],
+    "text": "buffer stocks and for any agreed loss arising there-",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      247,
+      262,
+      16
+    ],
+    "text": "under in the financial year, 1952-58:",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93,
+      266,
+      364,
+      15
+    ],
+    "text": "AND whereas it is deemed desirable, in the con-",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      282,
+      381,
+      18
+    ],
+    "text": "ditions now obtaining, that all persons shonld be",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      298,
+      381,
+      18
+    ],
+    "text": "required to make a special contribution proportionate",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      316,
+      109,
+      13
+    ],
+    "text": "to their means:",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      94,
+      334,
+      364,
+      17
+    ],
+    "text": "AND whereas it is expedient that such contribution",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      350,
+      382,
+      28
+    ],
+    "text": "ghoald be made by way of w temporary surcharge",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      366,
+      381,
+      14
+    ],
+    "text": "based on the amount of income tax leviable from tax-",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      382,
+      380,
+      20
+    ],
+    "text": "payers, and a temporary surcharge on import duty on",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      399,
+      256,
+      17
+    ],
+    "text": "imports of a non-essential character:",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      94,
+      418,
+      365,
+      29
+    ],
+    "text": "BE it enacted by: the Queen's Most Excellent",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      425,
+      383,
+      43
+    ],
+    "text": "Majesty, by and with the advice end consent of the",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      450,
+      382,
+      16
+    ],
+    "text": "Senate and the House of Representatives of Ceylon",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      465,
+      382,
+      18
+    ],
+    "text": "in this present Parliament essembled, and by the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      482,
+      349,
+      18
+    ],
+    "text": "authority of the same, as follows : .",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      94,
+      505,
+      440,
+      17
+    ],
+    "text": "1, This Act may be cited as the Food Subsidies sion Title",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      522,
+      285,
+      17
+    ],
+    "text": "Temporary Taxes Act, No. 23 of 1952.",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93,
+      549,
+      458,
+      17
+    ],
+    "text": "2. (1) A tax (hereinafter referred to as the Temporars tnx",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      559,
+      467,
+      40
+    ],
+    "text": "temporary tex\") shall, notwithstanding anything 2,Ue ra",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      582,
+      442,
+      16
+    ],
+    "text": "contained in any other written law or in any conven: labk'to",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      597,
+      458,
+      17
+    ],
+    "text": "tion, grant or agreement, be charged, levied and om!",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      613,
+      384,
+      17
+    ],
+    "text": "recovered from and paid by every person who is",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      630,
+      385,
+      16
+    ],
+    "text": "chargeable with income tax for the year of assessment",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      646,
+      385,
+      16
+    ],
+    "text": "commencing on April 1, 1952, and the temporary tax",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      662,
+      385,
+      16
+    ],
+    "text": "to be levied from each such person shall be of",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      678,
+      385,
+      18
+    ],
+    "text": "an amount equal to ten per centum of the amount of",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      693,
+      385,
+      17
+    ],
+    "text": "the income tax payable by him for that year of",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      711,
+      103,
+      11
+    ],
+    "text": "assessment. *",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      723,
+      390,
+      41
+    ],
+    "text": "- @ Notwithstanding anything in the provisions of",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      748,
+      454,
+      16
+    ],
+    "text": "sections 48, 44 and 44 of the Income Tax Ordinance, cap. 180.",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      763,
+      386,
+      17
+    ],
+    "text": "the amount of income tax which would be payable by",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      779,
+      385,
+      16
+    ],
+    "text": "any person if no account were taken of any set-off or",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      795,
+      386,
+      16
+    ],
+    "text": "relief under any of the aforesaid sections of that",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      811,
+      385,
+      17
+    ],
+    "text": "Ordinance shall he deemed for the purposes of this",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      827,
+      385,
+      18
+    ],
+    "text": "Act to be the amount of the income tax payable by him,",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      847,
+      136,
+      11
+    ],
+    "text": "Ig naa 20 98)",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      159,
+      12,
+      309,
+      17
+    ],
+    "text": "4 Food Subsidies Temporary Tases",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      279,
+      28,
+      139,
+      16
+    ],
+    "text": "Act, No, #3 of 1952",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      176,
+      54,
+      362,
+      18
+    ],
+    "text": "(8) For the purposes of the assessment, payment nnd",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      160,
+      60,
+      378,
+      40
+    ],
+    "text": "recovery of the temporary tax, the provisions, of",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      160,
+      87,
+      378,
+      16
+    ],
+    "text": "Chapters X, XI, XII and XUM of the Income Tox",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      160,
+      102,
+      378,
+      19
+    ],
+    "text": "Ordinance shalt apply in ail vespects as though the",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      160,
+      118,
+      401,
+      19
+    ],
+    "text": "temporary tax were income tax payable for the your of *",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      160,
+      135,
+      291,
+      16
+    ],
+    "text": "assessment commencing on April , 1952.",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      176,
+      151,
+      362,
+      17
+    ],
+    "text": "(4) Where any person is under section 8 of the",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      160,
+      167,
+      377,
+      18
+    ],
+    "text": "Income Tax Ordinance entitled to have refunded,",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161,
+      182,
+      377,
+      18
+    ],
+    "text": "(otherwise than on account of any set-off or relief",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      62,
+      198,
+      477,
+      19
+    ],
+    "text": ". under section 48 or section 44 or section 46 of that",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      160,
+      214,
+      379,
+      29
+    ],
+    "text": "Ordinance), any amount paid by him a inoome tax in",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      160,
+      230,
+      379,
+      17
+    ],
+    "text": "excess of the amount with which he was properly",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      160,
+      245,
+      379,
+      29
+    ],
+    "text": "changeable for the year of ecsosutent commencing on",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      160,
+      259,
+      379,
+      19
+    ],
+    "text": "April 1, 1952, such person shell, if he has paid the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      160,
+      278,
+      379,
+      15
+    ],
+    "text": "temporary tax, be in addition entitled to have refunded",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      160,
+      288,
+      379,
+      37
+    ],
+    "text": "an amount representing ten per centum of the amount",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      159,
+      308,
+      205,
+      14
+    ],
+    "text": "refunded under that section.",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      176,
+      326,
+      364,
+      17
+    ],
+    "text": "(5) Save as otherwise expressly provided in this",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      160,
+      331,
+      380,
+      28
+    ],
+    "text": "section, the temporary tax chall not for any purpose",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      160,
+      357,
+      380,
+      18
+    ],
+    "text": "be deemed to be or treated as income tax or the profits",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      111,
+      373,
+      428,
+      17
+    ],
+    "text": ". tax charged and levied under the Profits Tax Act,",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      160,
+      389,
+      100,
+      13
+    ],
+    "text": "No. 5 of 1948.",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      177,
+      410,
+      285,
+      15
+    ],
+    "text": "(6) In this section .",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      194,
+      427,
+      347,
+      18
+    ],
+    "text": "income tax means the tax charged and levied.",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      240,
+      443,
+      325,
+      15
+    ],
+    "text": "under the Income Tax Ordinance; and =>",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      194,
+      459,
+      347,
+      17
+    ],
+    "text": "year of assessment has the same meaning as",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      241,
+      475,
+      136,
+      13
+    ],
+    "text": "in that Ordinance.",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      61,
+      488,
+      481,
+      32
+    ],
+    "text": "SFempocaey 3. (1) An import duty (hereinafter referred to a",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      65,
+      513,
+      477,
+      20
+    ],
+    "text": "imet itty the ** temporary import duty) shall be levied and",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      66,
+      524,
+      475,
+      24
+    ],
+    "text": "frei in --spaid upon goods of any class or description specified",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      67,
+      534,
+      475,
+      33
+    ],
+    "text": "Sind. in the Schedule to this Act which are imported into",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      163,
+      551,
+      379,
+      39
+    ],
+    "text": "Geylon during the potiod beginning on the date of",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      163,
+      576,
+      379,
+      31
+    ],
+    "text": "the commencement of this Act and ending on Septem-",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      163,
+      592,
+      379,
+      19
+    ],
+    "text": "ber 30, 1958, and the temporary import duty to he so",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      164,
+      608,
+      379,
+      29
+    ],
+    "text": "levied and paid upon any sucls goods shall be at a rate",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      164,
+      624,
+      379,
+      18
+    ],
+    "text": "equal to one-tenth part of the rate of the existing",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      164,
+      640,
+      261,
+      18
+    ],
+    "text": "import duty leviable upon such goods.",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      181,
+      657,
+      363,
+      30
+    ],
+    "text": "(2) Subsection (1) shell have efiet as thoogh it",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      69,
+      673,
+      475,
+      17
+    ],
+    "text": "xp, 186 formed part of the Customs Ordinance, and the",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      165,
+      689,
+      379,
+      30
+    ],
+    "text": "temporary import duty, sball be levied and paid",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      165,
+      705,
+      379,
+      28
+    ],
+    "text": "together with and in addition to the existing import",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      174,
+      723,
+      27,
+      14
+    ],
+    "text": "uty.",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      208,
+      739,
+      337,
+      17
+    ],
+    "text": "Nothing in the preceding provisions of this Act",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      166,
+      735,
+      379,
+      49
+    ],
+    "text": "asl 1 prevent or be deemed to prevent the passing by",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      166,
+      771,
+      379,
+      29
+    ],
+    "text": "the Houge of Represnotatives of any resolution under",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      166,
+      787,
+      378,
+      28
+    ],
+    "text": "section 9 of the Customs Ordinance increasing,",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      167,
+      803,
+      378,
+      17
+    ],
+    "text": "reducing, abolishing or otherwise altering the",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      166,
+      819,
+      358,
+      17
+    ],
+    "text": "temporary import duty or any existing import. duty.",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      159,
+      13,
+      311,
+      17
+    ],
+    "text": "Fond Subsidies Temporary Facer 8",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      209,
+      30,
+      140,
+      16
+    ],
+    "text": "Act, Na, #4 of 1962",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      107,
+      57,
+      363,
+      18
+    ],
+    "text": "(4) In this soction, * exiating import duty meana",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      91,
+      73,
+      380,
+      18
+    ],
+    "text": "any import duty which was, immediately prior to",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      91,
+      89,
+      380,
+      30
+    ],
+    "text": "inidnighe of Septembor 19/20, 152, leviable upon any",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      91,
+      104,
+      380,
+      21
+    ],
+    "text": "goods by virtue of the Customs Ordinance or of any",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      92,
+      122,
+      204,
+      16
+    ],
+    "text": "resolution passed thereunder.",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86,
+      155,
+      227,
+      17
+    ],
+    "text": ": Souroura",
+    "mean_p_confidence": -0.0
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      253,
+      180,
+      64,
+      20
+    ],
+    "text": "(Section 8)",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      169,
+      211,
+      233,
+      13
+    ],
+    "text": "Goode Hable to temporary import duly",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93,
+      241,
+      59,
+      11
+    ],
+    "text": "Aninnals",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      105,
+      258,
+      10,
+      10
+    ],
+    "text": "D",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      106,
+      262,
+      38,
+      20
+    ],
+    "text": "Hose",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93,
+      301,
+      44,
+      10
+    ],
+    "text": "Arme",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      106,
+      318,
+      56,
+      10
+    ],
+    "text": "Firearms:",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      119,
+      335,
+      35,
+      10
+    ],
+    "text": "Guns:",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      133,
+      352,
+      72,
+      13
+    ],
+    "text": "Single-barrel",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      132,
+      365,
+      78,
+      11
+    ],
+    "text": "Dauble-barvel",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      119,
+      390,
+      43,
+      10
+    ],
+    "text": "Phatola:",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      133,
+      407,
+      101,
+      14
+    ],
+    "text": "Single-barrel, not",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      146,
+      421,
+      114,
+      14
+    ],
+    "text": "magesing",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      133,
+      437,
+      95,
+      16
+    ],
+    "text": "Double-barrel or",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      146,
+      454,
+      54,
+      10
+    ],
+    "text": "magasive",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      121,
+      468,
+      56,
+      10
+    ],
+    "text": "Revolvers",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      121,
+      493,
+      125,
+      10
+    ],
+    "text": "Biles ond sarbinee",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      135,
+      509,
+      163,
+      24
+    ],
+    "text": "Bingl-barel with magesioe",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      135,
+      523,
+      181,
+      11
+    ],
+    "text": "Single-barral without magazine",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      135,
+      523,
+      158,
+      34
+    ],
+    "text": "Double-barrel",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      123,
+      557,
+      32,
+      11
+    ],
+    "text": "Other",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      110,
+      573,
+      303,
+      15
+    ],
+    "text": "Air gons, sie rifles ond oie pistols, not being toys",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      97,
+      591,
+      201,
+      13
+    ],
+    "text": "Aromatic chemicals and sguthetie",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      110,
+      604,
+      217,
+      14
+    ],
+    "text": "essential oils, not elsewhere specified",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      98,
+      621,
+      301,
+      13
+    ],
+    "text": "Artificial leather oloth not elsowhare specified =",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      99,
+      642,
+      260,
+      14
+    ],
+    "text": "Bath room Gittings, not elsewhere specified",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      111,
+      657,
+      33,
+      10
+    ],
+    "text": "Brass",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      98,
+      673,
+      251,
+      14
+    ],
+    "text": "Beer, ale & porter ond all olber malt Jiguors",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      99,
+      695,
+      280,
+      14
+    ],
+    "text": "Boots and shoes .",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      112,
+      715,
+      147,
+      13
+    ],
+    "text": "Canvas, mbber-soled -",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      113,
+      729,
+      33,
+      11
+    ],
+    "text": "Other",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      100,
+      747,
+      45,
+      10
+    ],
+    "text": "Brooms",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      100,
+      771,
+      61,
+      11
+    ],
+    "text": "Brosheo",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      113,
+      788,
+      88,
+      11
+    ],
+    "text": "Artiota",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      113,
+      802,
+      32,
+      10
+    ],
+    "text": "Cloth",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      114,
+      815,
+      74,
+      13
+    ],
+    "text": "Dental plate",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      81,
+      828,
+      60,
+      11
+    ],
+    "text": "- Hic",
+    "mean_p_confidence": 0.05
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89,
+      845,
+      133,
+      11
+    ],
+    "text": "LP Rtas",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      179,
+      11,
+      313,
+      16
+    ],
+    "text": "6 Food Subsidies Temporary Taxes",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      300,
+      27,
+      141,
+      16
+    ],
+    "text": "Act, No, 23 of 1952",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      193,
+      55,
+      35,
+      10
+    ],
+    "text": "Todine",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      192,
+      68,
+      57,
+      10
+    ],
+    "text": "Jewellers?",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      193,
+      81,
+      23,
+      10
+    ],
+    "text": "Nail",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      192,
+      94,
+      126,
+      14
+    ],
+    "text": "Painters (decorators)",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      193,
+      108,
+      57,
+      13
+    ],
+    "text": "Scrubbing",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      149,
+      121,
+      90,
+      13
+    ],
+    "text": "+ Shaving",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      193,
+      134,
+      27,
+      10
+    ],
+    "text": "Shoo",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      193,
+      147,
+      39,
+      10
+    ],
+    "text": "Stenall",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      193,
+      160,
+      115,
+      11
+    ],
+    "text": "Throat and medical",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      193,
+      173,
+      33,
+      11
+    ],
+    "text": "Tooth",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      193,
+      186,
+      32,
+      11
+    ],
+    "text": "Other",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      180,
+      210,
+      268,
+      14
+    ],
+    "text": "Cables, cordage, rope and trrine, not elsetrbere",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      193,
+      224,
+      62,
+      13
+    ],
+    "text": "speaifie@",
+    "mean_p_confidence": 0.0
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      206,
+      241,
+      35,
+      13
+    ],
+    "text": "Hemp",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      205,
+      255,
+      26,
+      10
+    ],
+    "text": "Jute",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      205,
+      268,
+      44,
+      10
+    ],
+    "text": "Monilla",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      206,
+      281,
+      27,
+      10
+    ],
+    "text": "Sisal",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      206,
+      294,
+      32,
+      10
+    ],
+    "text": "Other",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      180,
+      315,
+      52,
+      13
+    ],
+    "text": "Camphor",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      180,
+      329,
+      105,
+      10
+    ],
+    "text": "Gones'and rattans",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      180,
+      341,
+      84,
+      14
+    ],
+    "text": "Coeds, pinging",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      180,
+      355,
+      30,
+      10
+    ],
+    "text": "Cider",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      180,
+      368,
+      77,
+      10
+    ],
+    "text": "Gotton waste",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      180,
+      397,
+      56,
+      13
+    ],
+    "text": "Cuttery",
+    "mean_p_confidence": 0.01
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      193,
+      413,
+      263,
+      13
+    ],
+    "text": "Knives, saissors, razors nnd other cutleryware",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      206,
+      426,
+      258,
+      24
+    ],
+    "text": "Jodlnding spoons and forks, but not insluding",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      206,
+      439,
+      303,
+      14
+    ],
+    "text": "gold ond silverware",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      180,
+      461,
+      58,
+      11
+    ],
+    "text": "Diamonds",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      181,
+      474,
+      101,
+      14
+    ],
+    "text": "Dry battery cells",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      181,
+      499,
+      194,
+      15
+    ],
+    "text": "Dyes and dye stufts .",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      194,
+      517,
+      259,
+      14
+    ],
+    "text": "For dyeing textiles, wearing apparel and soap",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      193,
+      532,
+      53,
+      12
+    ],
+    "text": "inir dye",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      194,
+      545,
+      46,
+      10
+    ],
+    "text": "Other",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      182,
+      569,
+      224,
+      13
+    ],
+    "text": "Earthenware nob sleewhere specified",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      194,
+      587,
+      33,
+      10
+    ],
+    "text": "Other",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      182,
+      599,
+      254,
+      13
+    ],
+    "text": "Essential cils, not elsewhere specified (other",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      194,
+      612,
+      289,
+      14
+    ],
+    "text": "than Yiang-ylang oll, votyner oil and geranium oil)",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      181,
+      642,
+      76,
+      13
+    ],
+    "text": "Bsplosives",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      195,
+      659,
+      157,
+      14
+    ],
+    "text": "Cortridges, filled or empty",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      195,
+      671,
+      281,
+      14
+    ],
+    "text": "Gun powder, fine (passing No. 10 standard mesh)",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      182,
+      685,
+      225,
+      24
+    ],
+    "text": "Hloor covering, not slsewhare speed",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      184,
+      697,
+      294,
+      15
+    ],
+    "text": "Furniture and parts thereof, not elsewhere specified",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      196,
+      716,
+      201,
+      13
+    ],
+    "text": "(exoluding upholstery materialo)",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      208,
+      717,
+      113,
+      25
+    ],
+    "text": "Some",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      208,
+      742,
+      45,
+      11
+    ],
+    "text": "Parts",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      222,
+      759,
+      33,
+      11
+    ],
+    "text": "Other",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      183,
+      784,
+      362,
+      15
+    ],
+    "text": "Glass and manufnotures wholly or mainly thereof, .",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      196,
+      799,
+      149,
+      13
+    ],
+    "text": "not elsetwhore specified",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      209,
+      807,
+      332,
+      29
+    ],
+    "text": "Other .",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      184,
+      829,
+      272,
+      14
+    ],
+    "text": "Golf aad tennis belle",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      147,
+      17,
+      308,
+      17
+    ],
+    "text": "Fook Subsidies Temporary Vanes 7",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      197,
+      33,
+      139,
+      16
+    ],
+    "text": "Act, No. 23 of 195%",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      79,
+      58,
+      244,
+      15
+    ],
+    "text": "Gums nnd resins, not slaewhore specified",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      91,
+      75,
+      54,
+      14
+    ],
+    "text": "Bovjemin",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      78,
+      92,
+      376,
+      15
+    ],
+    "text": "Haberdeshery and millinery, tied, collars, corseta, brassierss and",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      91,
+      105,
+      363,
+      15
+    ],
+    "text": "boot taoes {excluding maniifactiren of natural sifk and artificial",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90,
+      118,
+      364,
+      16
+    ],
+    "text": "silk, and uny adtnixtures whore the natural silk and/or",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90,
+      132,
+      364,
+      16
+    ],
+    "text": "artificial sll content is not Jess than 60 per sent, by weight)",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      78,
+      148,
+      376,
+      24
+    ],
+    "text": "Hosiery (excluding menuteotuces, of atural xi and articit",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90,
+      161,
+      363,
+      26
+    ],
+    "text": "ik nd any admixhuror where the natural sil anor artificial",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90,
+      174,
+      312,
+      17
+    ],
+    "text": "silk contend is not leas thn 50 por cont. by weight)",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      77,
+      191,
+      124,
+      13
+    ],
+    "text": "Incandescent mantles",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      77,
+      212,
+      317,
+      16
+    ],
+    "text": "Tenther and leather goods, not elsewhere specified~",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      89,
+      229,
+      246,
+      15
+    ],
+    "text": "Hames and sadiley .",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      76,
+      249,
+      73,
+      15
+    ],
+    "text": "Machinery",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      88,
+      266,
+      94,
+      14
+    ],
+    "text": "Reftigerator*",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      101,
+      284,
+      352,
+      15
+    ],
+    "text": "Domestio (10 cu. ft enpacity and under) snd component",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      110,
+      298,
+      77,
+      22
+    ],
+    "text": "Paris theteot",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      101,
+      310,
+      207,
+      14
+    ],
+    "text": "Other, and component parts thereof",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      75,
+      323,
+      86,
+      14
+    ],
+    "text": "Malt ond hope",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      75,
+      347,
+      51,
+      11
+    ],
+    "text": "Motals",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      87,
+      368,
+      96,
+      12
+    ],
+    "text": "Jron and steel",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      100,
+      386,
+      345,
+      16
+    ],
+    "text": "Manufactures wholly or mainly of, not elsewhere specified",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      75,
+      408,
+      376,
+      16
+    ],
+    "text": "Motor vehicles, trailers snd tramcors and epare ports and",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      83,
+      412,
+      220,
+      30
+    ],
+    "text": "aeceasorion :",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      100,
+      438,
+      351,
+      15
+    ],
+    "text": "Motor ears and motor station wagons (not including motor",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      112,
+      451,
+      239,
+      14
+    ],
+    "text": "lorriea) and engines and chestis thereat:",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      125,
+      468,
+      167,
+      14
+    ],
+    "text": "(0) 12 horse powar and under",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      123,
+      482,
+      328,
+      15
+    ],
+    "text": "(it) Over 32 hore power and up to and including",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      138,
+      495,
+      86,
+      13
+    ],
+    "text": "18 horse power",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      119,
+      509,
+      144,
+      14
+    ],
+    "text": "(il) Over 18 horse power",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      98,
+      529,
+      352,
+      16
+    ],
+    "text": "Bnolosed splach-proof sccuraulators and batteries and parta,",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      111,
+      543,
+      104,
+      11
+    ],
+    "text": "for motor vehicles",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72,
+      563,
+      131,
+      11
+    ],
+    "text": "Musical inetromente",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      85,
+      580,
+      365,
+      16
+    ],
+    "text": "Gromopbonea, phonographs and xadiogeams, and component",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      97,
+      594,
+      122,
+      12
+    ],
+    "text": "ports and socessories",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      85,
+      606,
+      214,
+      15
+    ],
+    "text": "Gramophone snd phonogeaph records.",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      85,
+      620,
+      365,
+      15
+    ],
+    "text": "Other, imoluding automatic pienos aud organs and component",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      96,
+      634,
+      123,
+      12
+    ],
+    "text": "paris and accessories",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71,
+      650,
+      51,
+      11
+    ],
+    "text": "Oit cloth",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66,
+      671,
+      275,
+      15
+    ],
+    "text": "-Oila, fate and gresses, not elsewhero epecified",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      83,
+      688,
+      65,
+      16
+    ],
+    "text": "Linseed oil",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70,
+      709,
+      353,
+      15
+    ],
+    "text": "Paper and manufactures thoreot, not elsewhere specified",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      83,
+      726,
+      366,
+      15
+    ],
+    "text": "Lelter paper with printed or emboated headings, printed or",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      96,
+      740,
+      113,
+      13
+    ],
+    "text": "embossed envelopes",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      83,
+      753,
+      366,
+      15
+    ],
+    "text": "Paper and cardboard, mmuufactures wholly or mainly of, not",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      96,
+      766,
+      109,
+      14
+    ],
+    "text": "elsewhere specified",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69,
+      783,
+      380,
+      17
+    ],
+    "text": "Perlamery, eoametios, powder and toilet preparations inslading",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      82,
+      797,
+      191,
+      14
+    ],
+    "text": "bate oils (axoept perfumed spirits)",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69,
+      810,
+      101,
+      14
+    ],
+    "text": "Pioture postearda",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69,
+      823,
+      246,
+      15
+    ],
+    "text": "Piofures and prints, not elsewhere specified",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      125,
+      21,
+      312,
+      17
+    ],
+    "text": "8 Food Subsidies Temporary Taces",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      246,
+      38,
+      141,
+      16
+    ],
+    "text": "Act, No. 23 of 1952",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      127,
+      65,
+      380,
+      14
+    ],
+    "text": "Precious and semi-precious stones, oxoaps Ceylon atonen and",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      139,
+      78,
+      68,
+      10
+    ],
+    "text": "diamonde",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      152,
+      89,
+      128,
+      26
+    ],
+    "text": "Cut .",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      165,
+      110,
+      338,
+      22
+    ],
+    "text": "Genuine .",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      127,
+      143,
+      355,
+      14
+    ],
+    "text": "Precious and semi-precions slones, except Ceylon stones",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      140,
+      160,
+      40,
+      11
+    ],
+    "text": "Un-eut",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      123,
+      174,
+      406,
+      22
+    ],
+    "text": "Roain ~",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      128,
+      193,
+      119,
+      12
+    ],
+    "text": "Ainfes, iron and steel",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      128,
+      225,
+      382,
+      14
+    ],
+    "text": "Spivite (not being sweetened or mixed with any article so that",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      141,
+      239,
+      368,
+      14
+    ],
+    "text": "the degree of strength thereof ennnot be ascertained by Sykes",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      140,
+      254,
+      83,
+      13
+    ],
+    "text": "hrdrometer}",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      154,
+      271,
+      93,
+      10
+    ],
+    "text": "Gin .",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      153,
+      285,
+      28,
+      10
+    ],
+    "text": "Rom",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      129,
+      315,
+      382,
+      17
+    ],
+    "text": "Spirits being sweetened or mixed so that the strengih cannot",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      110,
+      332,
+      258,
+      13
+    ],
+    "text": "+ be ascertained as sforesaid, namely",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      154,
+      353,
+      127,
+      13
+    ],
+    "text": "Liqueurs and cordials",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      154,
+      367,
+      86,
+      10
+    ],
+    "text": "Unenumerated",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      129,
+      392,
+      383,
+      13
+    ],
+    "text": "Spirits denatured to the satisisction of the Principal Collector",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      141,
+      406,
+      67,
+      10
+    ],
+    "text": "of Customs:",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      129,
+      419,
+      290,
+      13
+    ],
+    "text": "Stone, manufactures of, not elsewhore specified",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      129,
+      434,
+      199,
+      13
+    ],
+    "text": "Stoneware not elsewhere apecified",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      128,
+      448,
+      160,
+      11
+    ],
+    "text": "Tallow and wax for candles",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      129,
+      462,
+      378,
+      14
+    ],
+    "text": "Tallow (ather then tallow for candles) .",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      129,
+      487,
+      298,
+      11
+    ],
+    "text": "Textiles aud manufactures af testile materisle",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143,
+      507,
+      358,
+      14
+    ],
+    "text": "Mixed material and other textiles no elsewhere specified",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      155,
+      523,
+      132,
+      14
+    ],
+    "text": "Carpeta and floor rugs",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143,
+      540,
+      371,
+      31
+    ],
+    "text": "Natural sil and mauvfactures thereof including any admixtures",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      156,
+      557,
+      358,
+      14
+    ],
+    "text": "thereof where the natural silk and/or artificial silk content",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      156,
+      571,
+      230,
+      13
+    ],
+    "text": "in not less than 50 per cent. by weight",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      169,
+      593,
+      61,
+      10
+    ],
+    "text": "Broadstuit",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      170,
+      606,
+      33,
+      11
+    ],
+    "text": "Other",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143,
+      639,
+      359,
+      14
+    ],
+    "text": "Woollen and worsted, manutectures wholly or mainly of",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      157,
+      658,
+      131,
+      14
+    ],
+    "text": "Copets ond floor rigs",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      157,
+      671,
+      215,
+      13
+    ],
+    "text": "Manufactures not elsewhere specified",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      131,
+      697,
+      60,
+      11
+    ],
+    "text": "\"Tobacoo",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      140,
+      711,
+      341,
+      22
+    ],
+    "text": "Manufaotured .",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      157,
+      733,
+      58,
+      14
+    ],
+    "text": "Cigarettes",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      153,
+      738,
+      254,
+      31
+    ],
+    "text": "Gigara :",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      158,
+      762,
+      30,
+      10
+    ],
+    "text": "Sauft",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      157,
+      773,
+      359,
+      14
+    ],
+    "text": "Manufactured tobacco not elsewhere specified, other than",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      170,
+      788,
+      200,
+      14
+    ],
+    "text": "hooka and beedy tobacco and stu",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      131,
+      813,
+      235,
+      14
+    ],
+    "text": "Toilet requisites, uot elsewhere specified",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      133,
+      828,
+      56,
+      11
+    ],
+    "text": "Varnishes,",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      133,
+      842,
+      64,
+      12
+    ],
+    "text": "Wattleberk:",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      168,
+      42,
+      303,
+      17
+    ],
+    "text": "Food Subsidies Temporary Taxes 9",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      215,
+      59,
+      139,
+      15
+    ],
+    "text": "Act, No. 28 of 1958",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      99,
+      85,
+      300,
+      13
+    ],
+    "text": "Wax othat thua for cundles, nut elsewheru wpacified",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      110,
+      94,
+      222,
+      30
+    ],
+    "text": "Bosewax",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      110,
+      118,
+      74,
+      13
+    ],
+    "text": "Botling wax",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      110,
+      132,
+      72,
+      10
+    ],
+    "text": "Porettin we",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      110,
+      145,
+      63,
+      11
+    ],
+    "text": "Motch wax",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      99,
+      165,
+      185,
+      13
+    ],
+    "text": "Wine, othor than Sustomental",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      111,
+      180,
+      53,
+      13
+    ],
+    "text": "Spovkling",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      112,
+      204,
+      44,
+      11
+    ],
+    "text": "Othor",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      124,
+      221,
+      46,
+      11
+    ],
+    "text": "Tn wood",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      124,
+      235,
+      56,
+      11
+    ],
+    "text": "Tn bottles",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      101,
+      253,
+      376,
+      15
+    ],
+    "text": "Wood und timber, maunfastures wholly ot mainly of, not",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      113,
+      269,
+      107,
+      13
+    ],
+    "text": "elsewhere specified",
+    "mean_p_confidence": 0.55
+  }
+]

@@ -1,0 +1,365 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      116,
+      22,
+      397,
+      25
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      91,
+      67,
+      320,
+      46
+    ],
+    "text": "gee & Ist Session 1952",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      54,
+      111,
+      159,
+      22
+    ],
+    "text": "PEP Ra. merce NR",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72,
+      138,
+      304,
+      20
+    ],
+    "text": "LE HOV Gd ties",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      91,
+      175,
+      297,
+      46
+    ],
+    "text": "Se) A",
+    "mean_p_confidence": 0.06
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      249,
+      233,
+      123,
+      23
+    ],
+    "text": "Ese,",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      111,
+      317,
+      406,
+      23
+    ],
+    "text": "Post Office Security Fund (Amendment)",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      213,
+      349,
+      203,
+      20
+    ],
+    "text": "Act, No. 36 of 1952",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      206,
+      515,
+      284,
+      13
+    ],
+    "text": "Date of Assent : November 13, 1952 -",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      184,
+      617,
+      255,
+      29
+    ],
+    "text": ". Printed on the Orders of Government",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      149,
+      751,
+      380,
+      44
+    ],
+    "text": "Pochnsed Ska rad Bed .",
+    "mean_p_confidence": 0.07
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      151,
+      780,
+      290,
+      11
+    ],
+    "text": "Annus! Subsecriy ineluding :. 25, pay!",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80,
+      781,
+      403,
+      32
+    ],
+    "text": "Pe Se",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      147,
+      805,
+      335,
+      35
+    ],
+    "text": "Price 2 10 conte, Postage : 5 cente.",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      107,
+      24,
+      294,
+      18
+    ],
+    "text": "Post Office Security Fund (Amendment)",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      182,
+      42,
+      144,
+      15
+    ],
+    "text": "Act, No. 36 of 1952.",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      66,
+      94,
+      15
+    ],
+    "text": "EDO. 99/02.",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      92,
+      456,
+      21
+    ],
+    "text": "AN Acr To AMEND THe Post Opeica Secunrry Funn fheviey .",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211,
+      100,
+      296,
+      32
+    ],
+    "text": "Onpinance, are 58.",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      116,
+      133,
+      277,
+      17
+    ],
+    "text": "[Date of Assent: November 13, 1952]",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      156,
+      361,
+      17
+    ],
+    "text": "BE it enacted by the Queens Most Excellent",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      171,
+      378,
+      17
+    ],
+    "text": "Majesty, by and with the advics and consent of the",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      187,
+      377,
+      18
+    ],
+    "text": "Senate and the House of Representatives of Ceylon",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      204,
+      379,
+      17
+    ],
+    "text": "in this present Parliament assembled, and by the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      219,
+      258,
+      21
+    ],
+    "text": "anthority of the same, as follows:",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      245,
+      432,
+      19
+    ],
+    "text": "1. This Act may be cited as the Post Office shan dim",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      262,
+      349,
+      18
+    ],
+    "text": "Security Fund (Amendment) Act, No, 36 of 1952.",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      294,
+      450,
+      23
+    ],
+    "text": "2. Section 8 of the Post Office Security Fund amtnmut",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      310,
+      457,
+      20
+    ],
+    "text": "Ordinance is hereby amended, in paragraph @) of S232",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      326,
+      380,
+      18
+    ],
+    "text": "sub-section (1) of that section, by the substitution, for",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      342,
+      380,
+      18
+    ],
+    "text": "the words * seven thousand five hundred rupees \", of",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      358,
+      259,
+      17
+    ],
+    "text": "the words ' fiftoen thousand rupees *.",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      845,
+      374,
+      13
+    ],
+    "text": "7-H. N1508-9,0490/82) .",
+    "mean_p_confidence": 0.21
+  }
+]

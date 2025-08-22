@@ -1,0 +1,662 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      81,
+      24,
+      407,
+      25
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      190,
+      78,
+      341,
+      30
+    ],
+    "text": "Ist Session 1953 .",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      275,
+      135,
+      233,
+      26
+    ],
+    "text": "yn PN",
+    "mean_p_confidence": 0.08
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      220,
+      251,
+      305,
+      19
+    ],
+    "text": "AOS Frees SN wie gas",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      75,
+      306,
+      458,
+      34
+    ],
+    "text": "Labour Inspections (Maintenance",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      126,
+      344,
+      320,
+      32
+    ],
+    "text": "of Secrecy) Act, No. 17",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      235,
+      382,
+      101,
+      25
+    ],
+    "text": "of 1953",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      189,
+      524,
+      205,
+      14
+    ],
+    "text": "Date of Assent : March 27, 1953",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      166,
+      651,
+      252,
+      13
+    ],
+    "text": "Printed on the Orders of Government",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      122,
+      778,
+      344,
+      27
+    ],
+    "text": "rites MACUST AMY Sate TB",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      124,
+      848,
+      341,
+      17
+    ],
+    "text": "Price: 10 cents. Postage: 5 cents.",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      105,
+      27,
+      430,
+      17
+    ],
+    "text": "Labour Inspections (Maintenance of Seorecy) 3 .",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      190,
+      44,
+      148,
+      15
+    ],
+    "text": "Act, No. 17 of 1953.",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      71,
+      93,
+      13
+    ],
+    "text": "L. D0. 8/61.",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      92,
+      381,
+      13
+    ],
+    "text": "An AcT 70 GIVE ERFECT TO A PROVISION OF THE",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      109,
+      348,
+      16
+    ],
+    "text": "INrgewaTiONAL Lasour Convention (No. 81)",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      107,
+      129,
+      317,
+      10
+    ],
+    "text": "RELATING TO THE MAINTENANCE OF SECRECY BY",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      196,
+      146,
+      139,
+      9
+    ],
+    "text": "LABOUR INSPECTORS.",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      144,
+      166,
+      243,
+      16
+    ],
+    "text": "[Date of Assent: March 27, 1953]",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      190,
+      367,
+      17
+    ],
+    "text": "BE it enacted by the Queens Most Excellent",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      206,
+      383,
+      17
+    ],
+    "text": "Majesty by and with the advice and consent of the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      223,
+      383,
+      16
+    ],
+    "text": "Senate and the House of Representatives of Ceylon in",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      239,
+      382,
+      17
+    ],
+    "text": "this present Parliament assembled, and by the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      256,
+      262,
+      15
+    ],
+    "text": "authority of the same, as follows :",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      279,
+      437,
+      17
+    ],
+    "text": "4, This Act may be cited as the Labour Inspections Sheri i.",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      295,
+      332,
+      17
+    ],
+    "text": "(Maintenance of Secreoy) Act, No. 17 of 1953.",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      319,
+      446,
+      17
+    ],
+    "text": "2. (1) No officer who, in the exercise or perform- xmainicesce",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      334,
+      448,
+      21
+    ],
+    "text": "ance of his powers, functions or duties under any \"2",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      353,
+      434,
+      16
+    ],
+    "text": "written law to which this section applies, acquires or sevieg",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      367,
+      452,
+      21
+    ],
+    "text": "obtains knowledge of or information concerning any Tc",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      386,
+      386,
+      16
+    ],
+    "text": "mannfacturing oz commercial secret, shall, either",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      403,
+      385,
+      16
+    ],
+    "text": "while he is holding office or after he has ceased to hold",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      419,
+      386,
+      16
+    ],
+    "text": "attice, disclose or communicate such secret to any other",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      436,
+      385,
+      16
+    ],
+    "text": "person except with the consent of the person carrying",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      453,
+      386,
+      15
+    ],
+    "text": "on the business to which such secret relates, or where",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      468,
+      385,
+      18
+    ],
+    "text": "such person is a company with the consent of the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      486,
+      353,
+      16
+    ],
+    "text": "manager or other similar officer of the company.",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      504,
+      369,
+      17
+    ],
+    "text": "(2) Sub-section (1) shall apply to any written law",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      508,
+      387,
+      28
+    ],
+    "text": "by which power is ronferred on any officer to enter",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      535,
+      387,
+      29
+    ],
+    "text": "ghd ingpect any premises, or. io call for or obtain",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      551,
+      241,
+      17
+    ],
+    "text": "information, for the purpose of",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      106,
+      569,
+      354,
+      19
+    ],
+    "text": "(@) ascertaining whether the provisions of that",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      153,
+      585,
+      307,
+      19
+    ],
+    "text": "law relating to the conditions of work and",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      154,
+      600,
+      306,
+      18
+    ],
+    "text": "the protection of workers while engaged in",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      153,
+      616,
+      232,
+      17
+    ],
+    "text": "their work are complied with, or",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      105,
+      632,
+      356,
+      17
+    ],
+    "text": "() supplying technical information and advice to",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      153,
+      648,
+      307,
+      18
+    ],
+    "text": "employers and workers as regards the most",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      152,
+      664,
+      308,
+      18
+    ],
+    "text": "effective means of complying with such",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      678,
+      310,
+      32
+    ],
+    "text": ". provisions, & the",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      110,
+      696,
+      350,
+      16
+    ],
+    "text": "() bringing to notices 0: competent",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      105,
+      695,
+      355,
+      48
+    ],
+    "text": "@ authority defects and abuses not specifically,",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      152,
+      727,
+      193,
+      16
+    ],
+    "text": "covered by such provisions.",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      745,
+      370,
+      18
+    ],
+    "text": "(8) Every officer who acts in contravention of the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      761,
+      387,
+      28
+    ],
+    "text": "provisions of sub-section (1) of this section shall be",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      777,
+      387,
+      19
+    ],
+    "text": "guilty of an offence and shall be liable on conviction",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      792,
+      387,
+      20
+    ],
+    "text": "after summary trial before Magistrate to a fine not",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      809,
+      387,
+      19
+    ],
+    "text": "exceeding five hundred rupees or to imprisonment of",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      825,
+      387,
+      18
+    ],
+    "text": "cither description for a term not exceeding six months",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      840,
+      272,
+      17
+    ],
+    "text": "er to both such fine and imprisonment.",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      861,
+      116,
+      9
+    ],
+    "text": "J. snane 2.068 (12/08)",
+    "mean_p_confidence": 0.31
+  }
+]

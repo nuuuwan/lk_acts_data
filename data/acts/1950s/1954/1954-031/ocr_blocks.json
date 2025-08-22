@@ -1,0 +1,651 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      88,
+      29,
+      407,
+      25
+    ],
+    "text": "PARLIAMENT OF. CEYLON",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      193,
+      71,
+      191,
+      18
+    ],
+    "text": "3rd Session 1954-55",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      270,
+      176,
+      53,
+      9
+    ],
+    "text": "ais",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      258,
+      230,
+      83,
+      30
+    ],
+    "text": "om 7,",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      238,
+      247,
+      115,
+      32
+    ],
+    "text": "Wee",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      109,
+      319,
+      362,
+      31
+    ],
+    "text": "Muslim Marriage and Divorce",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      175,
+      358,
+      232,
+      31
+    ],
+    "text": "(Amendment) Act,",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      199,
+      398,
+      182,
+      22
+    ],
+    "text": "No. 31 of 1954",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      202,
+      527,
+      184,
+      13
+    ],
+    "text": "Date of Assent: July 8, 1954",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      172,
+      629,
+      247,
+      14
+    ],
+    "text": "Printed on the Orders of Government",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      120,
+      769,
+      357,
+      31
+    ],
+    "text": "Beni CR Sem, xen Be, be",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      120,
+      802,
+      357,
+      12
+    ],
+    "text": "Annual Subscription (including Bills) Re ble in",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      120,
+      804,
+      357,
+      33
+    ],
+    "text": "ke GP Seed, eee ae",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      122,
+      841,
+      356,
+      26
+    ],
+    "text": "Price: 15 cents, . Postage: 2 conts,",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115,
+      21,
+      346,
+      17
+    ],
+    "text": "Muslim Marriage and Divorce (Amendment) 3",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      200,
+      37,
+      146,
+      16
+    ],
+    "text": "Act, No. 82 of 1954.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      63,
+      97,
+      14
+    ],
+    "text": "L. DO. 5/54",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      79,
+      379,
+      15
+    ],
+    "text": "An Act 70 awn raz Must Manrrace ann Drvorce",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      194,
+      96,
+      157,
+      14
+    ],
+    "text": "Act, No. 18 oF 195%.",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      161,
+      126,
+      225,
+      18
+    ],
+    "text": "(Date of Assent; July 8, 1954.]",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      100,
+      157,
+      364,
+      29
+    ],
+    "text": "BE it enacted by the Queen's Most Excallent",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      173,
+      381,
+      16
+    ],
+    "text": "Majesty, by and with the advice and consent of the",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      178,
+      380,
+      29
+    ],
+    "text": "Sonate and the House of Representatives of Ceylon",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      204,
+      381,
+      19
+    ],
+    "text": "in this present Parliament assembled, and by the",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      220,
+      268,
+      16
+    ],
+    "text": "authority of the same, as follows :",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99,
+      248,
+      433,
+      19
+    ],
+    "text": "4, This Act may be cited as the Muslim Marriage shor site.",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      264,
+      335,
+      17
+    ],
+    "text": "and Divorce (Amendment) Act, No. 81 of 1954,",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      100,
+      291,
+      460,
+      20
+    ],
+    "text": "2. Section 1 of the Muslim Marriage and Divorcs smentmant of",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      298,
+      476,
+      42
+    ],
+    "text": "Act, No 38 ot Ee (hereinafter referred to as the EOE,",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      323,
+      421,
+      17
+    ],
+    "text": "* principal Act), is hereby amende substi- ii,",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      325,
+      382,
+      30
+    ],
+    "text": "talion far all the words from\" and shall seme , to",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      354,
+      371,
+      21
+    ],
+    "text": "the ond of that section, of the following : :",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      133,
+      379,
+      333,
+      17
+    ],
+    "text": "and the provisions of this Act, other than",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      116,
+      395,
+      350,
+      17
+    ],
+    "text": "section 94, shall come into operation on such date",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      116,
+      411,
+      350,
+      30
+    ],
+    "text": "{hereinafter referred to as the appointed date )",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      116,
+      427,
+      350,
+      18
+    ],
+    "text": "as the Minister may appoint by Order published",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64,
+      443,
+      403,
+      16
+    ],
+    "text": ". in the Gazette, and section 64 shall come into",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115,
+      459,
+      352,
+      28
+    ],
+    "text": "gperation when this Act becomes an Act of",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      127,
+      475,
+      197,
+      15
+    ],
+    "text": "arliament. *, :",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99,
+      502,
+      454,
+      19
+    ],
+    "text": "8. Section 94 of the principal Act is hereby amaineat of",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      518,
+      448,
+      20
+    ],
+    "text": "amended by the addition, at the end thereof, of the 72",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      534,
+      465,
+      17
+    ],
+    "text": "following sub-section : priced Act.",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      133,
+      554,
+      373,
+      18
+    ],
+    "text": "a tions may be made by the Minis",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      111,
+      554,
+      356,
+      45
+    ],
+    "text": "ter, poll a the Gazette, and approved by",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115,
+      586,
+      351,
+      18
+    ],
+    "text": "the Senate and the House of Representatives,",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115,
+      602,
+      351,
+      18
+    ],
+    "text": "under this section before the appointed date,",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115,
+      618,
+      352,
+      18
+    ],
+    "text": "but any regulations so made, published, and",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115,
+      635,
+      352,
+      18
+    ],
+    "text": "approved shall not come into operation until the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115,
+      651,
+      130,
+      16
+    ],
+    "text": "appointed date,",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98,
+      678,
+      441,
+      19
+    ],
+    "text": "4. Section 29 of the principal Act is horeby smcotmea:",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      694,
+      447,
+      19
+    ],
+    "text": "amended in sub-section (1), by the substitution, for the \"7",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      710,
+      469,
+      16
+    ],
+    "text": "words Second Schedule, of the words Second isos! Aa.",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      723,
+      232,
+      18
+    ],
+    "text": "Schedule or the Third Schedule ,",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98,
+      754,
+      441,
+      22
+    ],
+    "text": "5, The Fifth Schedule to the principal Act is Anesium",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      769,
+      427,
+      20
+    ],
+    "text": "hereby amended in rule 1, by the substitution, in para- figs",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      786,
+      463,
+      25
+    ],
+    "text": "graph (a) of that rule,\" for the words and figures irik to,",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88,
+      802,
+      426,
+      21
+    ],
+    "text": "wnder section 47 (2),\", of the words and figures 4s.\"",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      817,
+      385,
+      30
+    ],
+    "text": "e under sub-section (3) or sub-section (3) of section",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98,
+      844,
+      109,
+      21
+    ],
+    "text": "Sax nsomesaet sn",
+    "mean_p_confidence": 0.18
+  }
+]

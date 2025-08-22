@@ -1,0 +1,541 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      114,
+      91,
+      387,
+      26
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      187,
+      130,
+      211,
+      30
+    ],
+    "text": "_ 5th Session 1951",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      230,
+      177,
+      289,
+      46
+    ],
+    "text": "pepGmars oP.",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      271,
+      236,
+      261,
+      37
+    ],
+    "text": "i ee ea",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      102,
+      350,
+      409,
+      42
+    ],
+    "text": "Companies (Donations) Act,",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      190,
+      392,
+      222,
+      26
+    ],
+    "text": "No. 26 of 1951",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      210,
+      522,
+      189,
+      13
+    ],
+    "text": "Date of Assent: August 13, 1951",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62,
+      650,
+      353,
+      15
+    ],
+    "text": ". Printed on the Ordere of Gavernment",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      154,
+      769,
+      306,
+      21
+    ],
+    "text": "Petetad' atthe Gore, Soncscarions Gonznt, CooMee",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      154,
+      792,
+      307,
+      20
+    ],
+    "text": "oor blgrpien Gets,",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155,
+      812,
+      305,
+      10
+    ],
+    "text": "Se Be Omar nae ase Baa",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      153,
+      830,
+      306,
+      10
+    ],
+    "text": "ces acta PuregesSonte",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      259,
+      857,
+      301,
+      20
+    ],
+    "text": ". os",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      105,
+      30,
+      344,
+      18
+    ],
+    "text": "Companies (Donations) Act, No. 26 of 1951. 1",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      59,
+      146,
+      10
+    ],
+    "text": "b, D0, 26/81, .",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      81,
+      377,
+      14
+    ],
+    "text": "AN Act 70 auruortsz Companies 70 Make DONATIONS",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      103,
+      98,
+      312,
+      13
+    ],
+    "text": "on SUBSCRIPTIONS FOR SPECIFIED PURPOSES.",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      45,
+      127,
+      342,
+      18
+    ],
+    "text": "[Date of Assent: August 13, 1951.)",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88,
+      159,
+      361,
+      29
+    ],
+    "text": "BE it enacted by the Kings Most Excellent",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      174,
+      376,
+      18
+    ],
+    "text": "Majesty, by and with the advice and consent of the",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      180,
+      376,
+      27
+    ],
+    "text": "Senaie and the House of Representatives of Ceylon",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      205,
+      376,
+      18
+    ],
+    "text": "in this present Parliament assembled, and by the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      222,
+      398,
+      16
+    ],
+    "text": "authority of the same, as follows: :",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88,
+      252,
+      430,
+      17
+    ],
+    "text": "4. Thig Act may be cited as the Companies gioc aie",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      268,
+      231,
+      16
+    ],
+    "text": "(Donations) Act, No. 26 of 1951.",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88,
+      299,
+      422,
+      29
+    ],
+    "text": "2. @) Every company shall have the power to rome of",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      314,
+      433,
+      18
+    ],
+    "text": "make donations or subscriptions of money for any SSF",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      329,
+      461,
+      18
+    ],
+    "text": "national, public, educational, charitable, benevolent, dasa, am",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      346,
+      205,
+      16
+    ],
+    "text": "political or religions purpose.",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      53,
+      368,
+      408,
+      17
+    ],
+    "text": "+ @) Any donation or subscription of any deserip- ,",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      384,
+      375,
+      27
+    ],
+    "text": "tion mentioned in sub-section (1) may be made by eny",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      399,
+      374,
+      17
+    ],
+    "text": "company in purenance of an ordinary resolution",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      414,
+      375,
+      19
+    ],
+    "text": "passed at a general meeting of the company of which",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      430,
+      316,
+      17
+    ],
+    "text": "not Jess than seven days prior notices is given.",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      45,
+      451,
+      403,
+      20
+    ],
+    "text": "1} () Every donation or subscription of any descrip-",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      454,
+      374,
+      48
+    ],
+    "text": "tion mentioned in sub-section Gh etic has hereto-",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      485,
+      375,
+      17
+    ],
+    "text": "fore been made by any company shall, whether or not",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      500,
+      433,
+      17
+    ],
+    "text": "it was made in pursuance of a resolution of the com- :",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      515,
+      375,
+      28
+    ],
+    "text": "any, be deemed to have been valid for all purposes in",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      531,
+      373,
+      17
+    ],
+    "text": "all respects as though that sub-section had been in",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      547,
+      210,
+      13
+    ],
+    "text": "force at the time it was made,",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      569,
+      358,
+      18
+    ],
+    "text": "(4) The preceding provisions of this section shall",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      574,
+      375,
+      25
+    ],
+    "text": "have effoot and be decmed to have had effect notwith-",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      600,
+      374,
+      18
+    ],
+    "text": "standing anything im the memorandum of association",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      45,
+      616,
+      261,
+      17
+    ],
+    "text": "bof a company or in any other law.",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      639,
+      358,
+      17
+    ],
+    "text": "(5) In this section company has, the. same",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      654,
+      374,
+      18
+    ],
+    "text": "meaning as in the Companies Ordinance, No. 51 of",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      671,
+      503,
+      14
+    ],
+    "text": "1938. :",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      834,
+      495,
+      43
+    ],
+    "text": "2 &. sagen Gt ~",
+    "mean_p_confidence": 0.18
+  }
+]

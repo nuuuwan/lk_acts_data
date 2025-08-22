@@ -1,0 +1,3995 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      82,
+      21,
+      397,
+      28
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161,
+      61,
+      220,
+      18
+    ],
+    "text": "> Qnd Session 1953-54",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      419,
+      84,
+      90,
+      18
+    ],
+    "text": "ERIE",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      267,
+      122,
+      208,
+      43
+    ],
+    "text": "> Me see wees ae",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      263,
+      147,
+      268,
+      13
+    ],
+    "text": "So Lorie",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      245,
+      139,
+      289,
+      59
+    ],
+    "text": "fE> cn ear)",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      244,
+      180,
+      287,
+      19
+    ],
+    "text": "Sey = ed",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      243,
+      178,
+      280,
+      51
+    ],
+    "text": "(ayy ee",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      432,
+      215,
+      58,
+      14
+    ],
+    "text": "~~",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      73,
+      320,
+      433,
+      29
+    ],
+    "text": "Milk Board Act, No. 12 of 1954",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      179,
+      481,
+      226,
+      16
+    ],
+    "text": "Date of Assent: February 26, 1954",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      175,
+      625,
+      242,
+      14
+    ],
+    "text": "Printed on the Orders of Government",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      128,
+      763,
+      339,
+      14
+    ],
+    "text": "Printed st the Govmungor Paras, Cexi0N. To, be",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      129,
+      772,
+      340,
+      26
+    ],
+    "text": "purchased at the Gove. PUBLICATIONS Buseav, CouoMEc",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      130,
+      789,
+      340,
+      25
+    ],
+    "text": "dead ines, ees ae",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      129,
+      809,
+      340,
+      16
+    ],
+    "text": "Fee ee ee eeeniat, Colombe |",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      131,
+      830,
+      338,
+      15
+    ],
+    "text": "Price: 30 cents, ~ Postage: 10 cents.",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      149,
+      11,
+      303,
+      18
+    ],
+    "text": "Mik Board Act, No. 18 of 1964. - 3",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      37,
+      96,
+      14
+    ],
+    "text": "L. DO. 64/49.",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      61,
+      375,
+      16
+    ],
+    "text": "AN ACT TO PROVIDE FOR THE CONSTITUTION OF a BOARD",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      109,
+      81,
+      345,
+      11
+    ],
+    "text": "TO ZSTABLISH AND MAINTAIN FACILITIES AND",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      109,
+      97,
+      345,
+      12
+    ],
+    "text": "SERVICES FOR THE EFFICIENT AND CHEAP PRODUCTION",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108,
+      114,
+      346,
+      11
+    ],
+    "text": "AND MARKETING OF MILK, TO PROMOTE THE RSTAB-",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108,
+      130,
+      346,
+      10
+    ],
+    "text": "LISHMENT AND MAINTENANCE OF SUCH PACILITIES",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108,
+      146,
+      347,
+      9
+    ],
+    "text": "AND SERVICES BY LOCAL AUTHORITIES AND OTHER",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108,
+      162,
+      346,
+      9
+    ],
+    "text": "BODIES AND PERSONS AND TO PROVIDE FOR MATTERS",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108,
+      177,
+      291,
+      10
+    ],
+    "text": "INCIDENTAL TO OR CONNECTED THEREWITH.",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      131,
+      205,
+      266,
+      17
+    ],
+    "text": "(Date of Assent: February 26, 1954]",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92,
+      237,
+      363,
+      28
+    ],
+    "text": "BE it enacted by the Queen's Most Excellent",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      253,
+      378,
+      16
+    ],
+    "text": "Majesty, by and with the advice and consent of the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      268,
+      379,
+      17
+    ],
+    "text": "Senate and the House of Representatives of Ceylon in",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      284,
+      379,
+      17
+    ],
+    "text": "thia present Parliament assembled, and by the autho-",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      300,
+      332,
+      16
+    ],
+    "text": "rity of the same, as followe: :",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      332,
+      436,
+      25
+    ],
+    "text": "4. This Act may be cited as the Milk Boord Act, Se iii,",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      349,
+      441,
+      20
+    ],
+    "text": "No. 12 of 1954, and shali come into operation on Sande,",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      367,
+      380,
+      17
+    ],
+    "text": "such date as the Minister may appoint by Order",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      383,
+      178,
+      16
+    ],
+    "text": "published in the Gazette,",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      228,
+      439,
+      68,
+      14
+    ],
+    "text": "PART I.",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      148,
+      467,
+      229,
+      14
+    ],
+    "text": "EStaBLiseMent oF Mick BOARD,",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88,
+      495,
+      448,
+      29
+    ],
+    "text": "2. (1) A Board to be called the Mill Board (in this bane,",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      511,
+      470,
+      17
+    ],
+    "text": "Act referred to aa the Board) is hereby established of Milt Baars,",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      526,
+      203,
+      17
+    ],
+    "text": "for the purposes of this Act.",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88,
+      553,
+      400,
+      19
+    ],
+    "text": "(2) The Board shall be @ body corporate with per.",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      571,
+      381,
+      28
+    ],
+    "text": "petal euocession and common seal and may sxe and",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      587,
+      208,
+      17
+    ],
+    "text": "e sued in ite corporate name,",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      627,
+      458,
+      17
+    ],
+    "text": "3, Tho common seal of the Board shall be officially coomea sal at",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      642,
+      449,
+      20
+    ],
+    "text": "and judicially noticed and shall be kept by such person te Board.",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      648,
+      382,
+      28
+    ],
+    "text": "and in sach manner as the Board may from thie to",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      674,
+      383,
+      18
+    ],
+    "text": "time determine. The seal shall not be used except by",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      690,
+      382,
+      18
+    ],
+    "text": "the authority of the Board and in the presenoe of at",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      706,
+      382,
+      18
+    ],
+    "text": "least two members thereof who shall sign the",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      722,
+      363,
+      21
+    ],
+    "text": "document to which the seal is affixed. .",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      762,
+      443,
+      17
+    ],
+    "text": "& (1) The Board shall consist of five members coastinten",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      777,
+      443,
+      19
+    ],
+    "text": "appointed by the Minister. The Minister shail. % 3",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64,
+      790,
+      387,
+      36
+    ],
+    "text": "gppoint one of the members to be the Chairman of the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      820,
+      133,
+      20
+    ],
+    "text": "Te Rsargeno 0,",
+    "mean_p_confidence": 0.06
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      169,
+      8,
+      301,
+      16
+    ],
+    "text": "+ Milk Board Act, No. 12 of 1964.",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      187,
+      34,
+      358,
+      20
+    ],
+    "text": "(2) A person shall be disqualified for appointment",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      171,
+      50,
+      375,
+      16
+    ],
+    "text": "asa member of the Board or for continuing as &",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      171,
+      68,
+      167,
+      13
+    ],
+    "text": "member of the Board",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      167,
+      85,
+      379,
+      19
+    ],
+    "text": "~~ @ if he is a Senator or a Member of Parliament;",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      220,
+      107,
+      236,
+      9
+    ],
+    "text": "OF :",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      204,
+      120,
+      343,
+      19
+    ],
+    "text": "() if he-has, directly or indirectly, any interest",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      251,
+      135,
+      296,
+      18
+    ],
+    "text": "in a subsisting contract with, or in any",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      250,
+      152,
+      298,
+      17
+    ],
+    "text": "work being done for, the Board except a8",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      251,
+      166,
+      297,
+      19
+    ],
+    "text": "shareholder (other than director) in an",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      251,
+      182,
+      297,
+      29
+    ],
+    "text": "Incorporated company consisting of more",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      251,
+      200,
+      182,
+      16
+    ],
+    "text": "than twenty-five members.",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      186,
+      224,
+      362,
+      34
+    ],
+    "text": "{ Here 2 membor of the Board is a shareholder",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      174,
+      241,
+      375,
+      29
+    ],
+    "text": "(other than a director) in an Sneorporated company",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      173,
+      255,
+      376,
+      19
+    ],
+    "text": "referred to in sub-section.(2) (2) which has entered",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      172,
+      271,
+      377,
+      33
+    ],
+    "text": "{nto any contract with ot 2 doing any work for, the",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      174,
+      287,
+      375,
+      20
+    ],
+    "text": "Board, he shall disclose to the Minister the nature and",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      174,
+      304,
+      370,
+      17
+    ],
+    "text": "the extent of the shares held by him in such company",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      191,
+      331,
+      359,
+      20
+    ],
+    "text": "(4) The Minister may, if he thinks it expedient to",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      174,
+      347,
+      376,
+      27
+    ],
+    "text": "do 20, temore, by Order published in the Gasette, any",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      174,
+      363,
+      375,
+      16
+    ],
+    "text": "metber of the Rosrd from office without reason stated.",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      191,
+      389,
+      360,
+      33
+    ],
+    "text": "Any member of the Board in respect of whom",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      175,
+      405,
+      376,
+      18
+    ],
+    "text": "an Order under sub-section (4) is made by the Minister",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      175,
+      420,
+      389,
+      18
+    ],
+    "text": "shall vacate his office on the date of the publication of ,",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      175,
+      439,
+      246,
+      18
+    ],
+    "text": "such Order in the Gazette. .",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      192,
+      463,
+      360,
+      21
+    ],
+    "text": "(8) Any member of the Board who has been removed",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      175,
+      480,
+      378,
+      18
+    ],
+    "text": "from office shall not be eligible for re-appointment as",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      176,
+      496,
+      377,
+      16
+    ],
+    "text": "a member of the Board or to serve the Board in any",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      176,
+      515,
+      104,
+      16
+    ],
+    "text": "other capacity.",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      193,
+      538,
+      360,
+      31
+    ],
+    "text": "(7) If the Chairman or any member of the Board",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      176,
+      554,
+      378,
+      30
+    ],
+    "text": "i tamporarily unable to discherge the duties oF bis",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      176,
+      570,
+      378,
+      17
+    ],
+    "text": "office on account of ill-health or absence from Ceylon",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      176,
+      587,
+      378,
+      28
+    ],
+    "text": "or for any other cause, the Minister may appoint some",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      177,
+      603,
+      378,
+      17
+    ],
+    "text": "other member to act in his place as Chairman or, a",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      177,
+      619,
+      378,
+      18
+    ],
+    "text": "the case may be, may appoint some other person to act",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      178,
+      635,
+      177,
+      18
+    ],
+    "text": "in his place as a member.",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      195,
+      661,
+      361,
+      22
+    ],
+    "text": "(8) Every momber of the Board hall, unless he",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      179,
+      677,
+      376,
+      18
+    ],
+    "text": "eather vacates office by death, resignation or removal,",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      179,
+      691,
+      377,
+      20
+    ],
+    "text": "hold office for 2 period of five yexrs. Any such member",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      179,
+      698,
+      377,
+      31
+    ],
+    "text": "who vacates office by effluxion of time tall be eligible",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      181,
+      728,
+      369,
+      15
+    ],
+    "text": "for re-appointment. .",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      182,
+      752,
+      376,
+      32
+    ],
+    "text": "inlt}Ne, tt of, Proconding of the Board shall be",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      181,
+      769,
+      377,
+      20
+    ],
+    "text": "invalid by reason only of the existence of any vacancy",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      180,
+      785,
+      378,
+      18
+    ],
+    "text": "among ite members or any defect in the appointment",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      180,
+      802,
+      150,
+      14
+    ],
+    "text": "of member thereof.",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66,
+      7,
+      376,
+      17
+    ],
+    "text": ". Mik Board Act, No. 12 of 1954. 5",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      78,
+      34,
+      446,
+      20
+    ],
+    "text": "5, The members of the Board shall be remunerated enuogation",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      63,
+      51,
+      461,
+      16
+    ],
+    "text": "in such manner and at such rates as may be determined %e\"bana,",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      63,
+      67,
+      386,
+      18
+    ],
+    "text": "by rules made under this Act, .",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      80,
+      105,
+      440,
+      15
+    ],
+    "text": "6. (1) The Board may appoint such officers and Aprintmat",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      60,
+      104,
+      464,
+      39
+    ],
+    "text": "vot an ea ft considers neosesery for the eficient te",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      64,
+      138,
+      295,
+      17
+    ],
+    "text": "discharge of its functions under this Act:",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      80,
+      162,
+      364,
+      18
+    ],
+    "text": "Provided that a person who is not a citizen of Ceylon,",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      64,
+      178,
+      382,
+      28
+    ],
+    "text": "aceording wo the Lewy for the time being in foree relating",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      64,
+      185,
+      382,
+      42
+    ],
+    "text": "to vitizenship of Ceylon, shall not be appointed an",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      64,
+      210,
+      382,
+      16
+    ],
+    "text": "officer or servant of the Board without the prior",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      64,
+      226,
+      175,
+      13
+    ],
+    "text": "sanction of the Minister.",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      81,
+      253,
+      365,
+      17
+    ],
+    "text": "(2) The officers and servants of the Board shall be",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      65,
+      270,
+      381,
+      14
+    ],
+    "text": "remunerated in such manner and at such rates, and",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      64,
+      286,
+      383,
+      16
+    ],
+    "text": "shall be subject to such conditions of service, as may",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      65,
+      301,
+      318,
+      17
+    ],
+    "text": "be determined by rules made under this Act.",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      81,
+      329,
+      365,
+      17
+    ],
+    "text": "(8) The Board may, in accordance with rules made",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      64,
+      345,
+      383,
+      16
+    ],
+    "text": "under this Act, establish and vegulate a provident",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      65,
+      361,
+      382,
+      13
+    ],
+    "text": "fund for the benefit of its officers and servants and",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      64,
+      377,
+      383,
+      16
+    ],
+    "text": "make contributions to the fund out of the moneys of",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      64,
+      393,
+      78,
+      13
+    ],
+    "text": "the Board.",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      82,
+      421,
+      366,
+      16
+    ],
+    "text": "(# No person who has directly or indirectly, by",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      52,
+      436,
+      396,
+      17
+    ],
+    "text": "+ himself or his partuer or agent, any share or interest",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      65,
+      441,
+      383,
+      28
+    ],
+    "text": "in any contract made by of of behalf of the Board",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      62,
+      453,
+      387,
+      37
+    ],
+    "text": "shall \"eoome or remain an officer or servant, of the",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66,
+      485,
+      47,
+      12
+    ],
+    "text": "Board.",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      82,
+      525,
+      433,
+      16
+    ],
+    "text": "7. Contracts on behalf of the Board may be made Contrasts.",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66,
+      541,
+      98,
+      12
+    ],
+    "text": "as follows:",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      99,
+      565,
+      352,
+      16
+    ],
+    "text": "(a) a contract which if made between private per-",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      148,
+      580,
+      304,
+      17
+    ],
+    "text": "sons would be by law required to be in",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      148,
+      597,
+      304,
+      18
+    ],
+    "text": "writing, may be made on behalf of the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      148,
+      613,
+      304,
+      16
+    ],
+    "text": "Board in writing under the common seal",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      148,
+      629,
+      100,
+      15
+    ],
+    "text": "of the Board;",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      100,
+      653,
+      353,
+      17
+    ],
+    "text": "() a contract which if made between private per-",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      148,
+      669,
+      305,
+      18
+    ],
+    "text": "sons would be by law required to be in",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      147,
+      685,
+      307,
+      29
+    ],
+    "text": "writing signed by the parties to be charged",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      148,
+      701,
+      306,
+      18
+    ],
+    "text": "therewith, may be made on bebalf-of the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      148,
+      717,
+      306,
+      17
+    ],
+    "text": "Board in writing, signed by any person or",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      144,
+      730,
+      310,
+      36
+    ],
+    "text": "perso duly authorised thereto by the",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      51,
+      749,
+      180,
+      15
+    ],
+    "text": "jand",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      101,
+      772,
+      354,
+      18
+    ],
+    "text": "(c) a contract which if made between private per-",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      149,
+      774,
+      305,
+      38
+    ],
+    "text": "sons would in law be valid eltbough made",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      148,
+      805,
+      305,
+      18
+    ],
+    "text": "by parol only and not reduced into writing,",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86,
+      824,
+      115,
+      10
+    ],
+    "text": "RT 6)",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      152,
+      4,
+      333,
+      20
+    ],
+    "text": "a) Milk Board Act, No. 12 of 1964.",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      129,
+      30,
+      432,
+      22
+    ],
+    "text": ". may b-made by parol on behalf of the",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      204,
+      51,
+      356,
+      17
+    ],
+    "text": ". Board by any person duly authorised",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      261,
+      67,
+      152,
+      16
+    ],
+    "text": "thereto by the Board.",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      84,
+      98,
+      477,
+      13
+    ],
+    "text": "Dolagntion of 8. The Board may delegate any of its functions or",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      80,
+      97,
+      497,
+      49
+    ],
+    "text": "Ses ua, any of its powers (olner hen the ower to make rules *",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      180,
+      129,
+      381,
+      18
+    ],
+    "text": "or to appoint officers) to any member or officer of the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      181,
+      145,
+      380,
+      17
+    ],
+    "text": "Board, and may from time to time revoke any such",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      181,
+      161,
+      380,
+      17
+    ],
+    "text": "delegation sither wholly or in part and either as to",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      180,
+      177,
+      381,
+      19
+    ],
+    "text": "persons or purposes; but, every auch member or officer",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      102,
+      192,
+      458,
+      30
+    ],
+    "text": ". shall, in the discharge of the fanctions or exercise of",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      180,
+      208,
+      381,
+      18
+    ],
+    "text": "the powers delegated to him, conform to all such.",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      109,
+      224,
+      452,
+      28
+    ],
+    "text": ". Aireotions as are given by the Board, All acte done by",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      180,
+      229,
+      356,
+      27
+    ],
+    "text": "any such member or offer, in conformity with 3",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      180,
+      255,
+      381,
+      29
+    ],
+    "text": "directions and in fulfilment of the porposes of his",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      180,
+      271,
+      381,
+      18
+    ],
+    "text": "appointment, but not otherwiee, shall have the Jike",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      180,
+      288,
+      282,
+      18
+    ],
+    "text": "foree and effect se if done by the Board,",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      330,
+      324,
+      75,
+      13
+    ],
+    "text": "PART IT.",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      226,
+      348,
+      286,
+      13
+    ],
+    "text": "Funcrona ano Powsrs or tHe Boann.",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      78,
+      363,
+      483,
+      31
+    ],
+    "text": "Bonations of 9, (1) The functions of the Board shall be to",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      82,
+      386,
+      478,
+      17
+    ],
+    "text": "te Zorn. - establish and maintain efficient and cheap milk pro-",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      178,
+      402,
+      383,
+      18
+    ],
+    "text": "duction and marketing services, and to promote the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      178,
+      418,
+      383,
+      17
+    ],
+    "text": "establishment and maintenance of such services by local",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      97,
+      434,
+      476,
+      30
+    ],
+    "text": ". authorities, end by other bodies and persons approved",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      178,
+      451,
+      383,
+      17
+    ],
+    "text": "by the Minister, for the purpose of ensuring that ax",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      158,
+      466,
+      403,
+      30
+    ],
+    "text": "* adequate aapply of mill of good quality at reasonable",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      177,
+      483,
+      362,
+      17
+    ],
+    "text": "prices is available to consumers of milk in Ceylon.",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      194,
+      510,
+      366,
+      18
+    ],
+    "text": "(2) For the purposes of this Act, milk production",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      177,
+      526,
+      383,
+      18
+    ],
+    "text": "and marketing services mean facilities and services",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      177,
+      543,
+      382,
+      17
+    ],
+    "text": "for the production and marketing of mill, including--",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      209,
+      565,
+      204,
+      18
+    ],
+    "text": "(a) dairies and dairy farms;",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      209,
+      586,
+      338,
+      17
+    ],
+    "text": "(0) the breeding, sale and purchase of livestock:",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      209,
+      606,
+      351,
+      17
+    ],
+    "text": "() the purchase, sale and distribution of mille;",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      209,
+      626,
+      352,
+      17
+    ],
+    "text": "(@) the grading, packing, storage, adaptation for",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      256,
+      631,
+      305,
+      27
+    ],
+    "text": "vele, insurance aud advertisement of milk",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      167,
+      661,
+      394,
+      30
+    ],
+    "text": "\"-(@) the purchase, storage, sale and distribution of",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      263,
+      682,
+      43,
+      12
+    ],
+    "text": "orage;",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      208,
+      698,
+      352,
+      17
+    ],
+    "text": "(A depots end establishments for the storage,",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      256,
+      701,
+      305,
+      30
+    ],
+    "text": "sale, distribution and marketing of mall",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      256,
+      730,
+      83,
+      17
+    ],
+    "text": "and forage;",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      209,
+      749,
+      364,
+      20
+    ],
+    "text": "(g) the acquisition and maintenance of alls",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      186,
+      766,
+      379,
+      18
+    ],
+    "text": "... Sach livestock, land, buildings, plant,",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      255,
+      783,
+      306,
+      17
+    ],
+    "text": "machinery, vehicles and other equipment",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      196,
+      799,
+      365,
+      18
+    ],
+    "text": ": as may be necessary for the purposes",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      213,
+      815,
+      252,
+      16
+    ],
+    "text": "aforessid; and",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139,
+      7,
+      306,
+      17
+    ],
+    "text": "iMith Board Act, No. 12 of 1984. 7",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      89,
+      35,
+      356,
+      18
+    ],
+    "text": "(#) all such other matters and things a may be",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      147,
+      51,
+      298,
+      17
+    ],
+    "text": "anoillary to the matters or things referred",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      146,
+      67,
+      225,
+      17
+    ],
+    "text": "to in the preceding paragraphs.",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      84,
+      102,
+      420,
+      17
+    ],
+    "text": "410. The Board may establish its own departments zowerot",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68,
+      116,
+      473,
+      19
+    ],
+    "text": "or agencies for the purpose of the discharge of its Bat,",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68,
+      133,
+      455,
+      17
+    ],
+    "text": "functions and the exercise of its powers under this Act, Saarresns,",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68,
+      148,
+      411,
+      18
+    ],
+    "text": "or make contracts or other arrangements for such",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68,
+      165,
+      379,
+      29
+    ],
+    "text": "Purpom with Government departments, local antho-",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68,
+      182,
+      278,
+      16
+    ],
+    "text": "rities or any person or body of persons.",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      84,
+      216,
+      423,
+      17
+    ],
+    "text": "44. The Board may sell or otherwise dispose of any power of",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68,
+      232,
+      459,
+      29
+    ],
+    "text": "movable ot immovable property belonging to the Board Fa mt",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68,
+      244,
+      437,
+      21
+    ],
+    "text": "which in its opinion is not required for the proper *\"",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68,
+      265,
+      191,
+      16
+    ],
+    "text": "discharge of ite functions.",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      84,
+      300,
+      429,
+      19
+    ],
+    "text": "12, The Board may, subject to such conditions or Amistans",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68,
+      313,
+      445,
+      20
+    ],
+    "text": "restrictions as may be prescribed by rules made under 2.",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      67,
+      332,
+      444,
+      21
+    ],
+    "text": "this Act, aad other",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      100,
+      355,
+      348,
+      18
+    ],
+    "text": "{o) grant a loan to any local authority or to any",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      147,
+      371,
+      301,
+      29
+    ],
+    "text": "ather body or person approved by the",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      147,
+      386,
+      301,
+      29
+    ],
+    "text": "Minister for the purpose of aasisting euch",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      148,
+      403,
+      300,
+      29
+    ],
+    "text": "authority, body of petaon ta defray the cost",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      147,
+      418,
+      302,
+      17
+    ],
+    "text": "of establishing and maintaining milk",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      55,
+      435,
+      343,
+      17
+    ],
+    "text": ": production and marketing services;",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      100,
+      454,
+      349,
+      18
+    ],
+    "text": "{) make a grant of money to such authority, body",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      147,
+      470,
+      262,
+      18
+    ],
+    "text": "or person for the purpose aforesaid;",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      100,
+      490,
+      349,
+      29
+    ],
+    "text": "(@) sell or let for hire to ouch sutbovity, body or",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      147,
+      506,
+      302,
+      19
+    ],
+    "text": "person any plant, machinery, vebicles and",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      147,
+      522,
+      302,
+      17
+    ],
+    "text": "other equipment required for the establish",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      147,
+      538,
+      302,
+      14
+    ],
+    "text": "ment or maintenance of auch services: and",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      100,
+      558,
+      349,
+      17
+    ],
+    "text": "(2), make available, whether for feo or otherwise,",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      147,
+      574,
+      303,
+      17
+    ],
+    "text": "to such authority, body or person any milk",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      147,
+      590,
+      302,
+      17
+    ],
+    "text": "production and marketing services main-",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      67,
+      606,
+      231,
+      17
+    ],
+    "text": "tained by the Board.",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      84,
+      634,
+      424,
+      29
+    ],
+    "text": "48, The Bonrd may, with the spproval of the Fre",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      67,
+      646,
+      452,
+      21
+    ],
+    "text": "Minister given with the concurrence of the Minister \"!-",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      67,
+      666,
+      384,
+      16
+    ],
+    "text": "of Finance, raise loans from the Government or any",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      67,
+      682,
+      383,
+      19
+    ],
+    "text": "person ot body of persons for the purpose of discharg-",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      67,
+      698,
+      232,
+      16
+    ],
+    "text": "ing its functions under this Act.",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      83,
+      733,
+      426,
+      17
+    ],
+    "text": "45, (1) The Board may make rules in respect of all Persea",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      55,
+      732,
+      466,
+      41
+    ],
+    "text": "+ or sny of the following attere:- pest ake ral.",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      62,
+      771,
+      388,
+      20
+    ],
+    "text": "* (@) any matter which is required to be prescribed;",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      84,
+      795,
+      366,
+      19
+    ],
+    "text": "~ ( any matter which has to be determined under",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      146,
+      812,
+      290,
+      17
+    ],
+    "text": "section 5 or sub-section (2) of section. 6;",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      174,
+      1,
+      391,
+      22
+    ],
+    "text": "8 Milk Board Act, No. 18 of 1964. :",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      207,
+      35,
+      351,
+      17
+    ],
+    "text": "(e} the matters referred to in sub-section (8) of",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      255,
+      51,
+      302,
+      17
+    ],
+    "text": "section 8, including in the caee of a provi-",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      255,
+      67,
+      303,
+      14
+    ],
+    "text": "dent fund the contributions to be made",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      138,
+      82,
+      420,
+      17
+    ],
+    "text": "- thereto by officers and servants of the",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      130,
+      98,
+      428,
+      17
+    ],
+    "text": ": Board and the deduction of such contri-",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      255,
+      114,
+      303,
+      14
+    ],
+    "text": "butions from the salaries of euch officers",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      255,
+      131,
+      98,
+      14
+    ],
+    "text": "and servants;",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      208,
+      147,
+      350,
+      20
+    ],
+    "text": "(@) the appointment, promotion, dismissal and",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      255,
+      163,
+      303,
+      18
+    ],
+    "text": "disciplinary control of its officers and",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      255,
+      182,
+      63,
+      13
+    ],
+    "text": "servants;",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      208,
+      196,
+      348,
+      18
+    ],
+    "text": "(). the meetings of the Board and the quorum for,",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      255,
+      212,
+      302,
+      20
+    ],
+    "text": "and the procedure to be followed at, such",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      254,
+      231,
+      66,
+      15
+    ],
+    "text": "meetings.",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      69,
+      252,
+      488,
+      18
+    ],
+    "text": ". (2) No rule made under sub-section (1) shall have",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      175,
+      268,
+      381,
+      29
+    ],
+    "text": "oft until it ge been approved by the Miniter,",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      175,
+      284,
+      381,
+      17
+    ],
+    "text": "confirmed by the Senate and the House of Representa",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      175,
+      300,
+      256,
+      17
+    ],
+    "text": "tives, and published in the Gasette.",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108,
+      321,
+      450,
+      38
+    ],
+    "text": "aa () The Minister eball not, without the concurrence",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      175,
+      340,
+      382,
+      29
+    ],
+    "text": "of the Minister of Finance, approve of eny rule made",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      175,
+      356,
+      382,
+      18
+    ],
+    "text": "by the Board in respect of any matter referred to in",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      175,
+      373,
+      325,
+      17
+    ],
+    "text": "paragraphs (6), (c) and (d) of sub-section (1).",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      191,
+      396,
+      366,
+      29
+    ],
+    "text": "(t) Every tule, made under aub-soption, (1) ond",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      174,
+      412,
+      382,
+      30
+    ],
+    "text": "approved by the Mjnister and confirmed by the Senate",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      210,
+      428,
+      346,
+      18
+    ],
+    "text": "the House of Representatives shall, upon its",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      173,
+      444,
+      382,
+      17
+    ],
+    "text": "publication in the Gazette, be as valid and effectual",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      174,
+      461,
+      197,
+      13
+    ],
+    "text": "as if it wore herein enacted.",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      323,
+      509,
+      80,
+      13
+    ],
+    "text": "PART IIL.",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      277,
+      531,
+      173,
+      13
+    ],
+    "text": "Fiance ann Accouwrs.",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      73,
+      544,
+      483,
+      36
+    ],
+    "text": "Bai wt 18, (1) The Board shall have ity own Fund and a",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      73,
+      564,
+      434,
+      28
+    ],
+    "text": "geo e General Reserve. 7",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      73,
+      585,
+      483,
+      39
+    ],
+    "text": "Se Bowed, All moneys received by the Board, including",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      174,
+      610,
+      382,
+      17
+    ],
+    "text": "such sums as may be voted by Parliament for the use",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      174,
+      626,
+      381,
+      16
+    ],
+    "text": "of the Board, shall be credited to the Fund, and all",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      174,
+      643,
+      380,
+      17
+    ],
+    "text": "payments made by the Board shall be made thorefrom.",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      191,
+      666,
+      365,
+      20
+    ],
+    "text": "(8) Save as otherwiee provided in section 21, the",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      174,
+      683,
+      381,
+      30
+    ],
+    "text": "auiount standing to the credit of the Genaral Reserve",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      174,
+      699,
+      339,
+      14
+    ],
+    "text": "shall not be ex; for eny pur except wil",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      174,
+      700,
+      310,
+      32
+    ],
+    "text": "por pond of keine",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      73,
+      735,
+      492,
+      36
+    ],
+    "text": "dees 16, (1) The Board shall cause its accounts to be _",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      174,
+      761,
+      381,
+      17
+    ],
+    "text": "kept in such form and in such manner as may",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      174,
+      777,
+      146,
+      17
+    ],
+    "text": "he prescribed,",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      191,
+      801,
+      365,
+      30
+    ],
+    "text": "@ The books of aecount of the Board sball be kept",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      174,
+      818,
+      222,
+      15
+    ],
+    "text": "at the head office of the Board.",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      137,
+      15,
+      303,
+      16
+    ],
+    "text": "Milk Board Act, No. 12 of 1964. 9",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      82,
+      39,
+      359,
+      36
+    ],
+    "text": "(9) The Board shall cause its booke to be balanced",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      65,
+      58,
+      377,
+      28
+    ],
+    "text": "on the thirty-Sxst day of Decewber in each year and",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      65,
+      74,
+      377,
+      28
+    ],
+    "text": "shall, before the fit day, of July of the followmg",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      65,
+      90,
+      377,
+      16
+    ],
+    "text": "year, cause to be prepared a profit and loss account",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      48,
+      105,
+      394,
+      17
+    ],
+    "text": "anda balance sheet containing a summery of the",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      65,
+      121,
+      377,
+      16
+    ],
+    "text": "agsete and Habilities of the Board made up to date",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      64,
+      136,
+      379,
+      14
+    ],
+    "text": "aforesaid. The profit and loss account and the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      64,
+      141,
+      378,
+      40
+    ],
+    "text": "Balance, sheet: shall be signed by the Accountant and",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      64,
+      168,
+      347,
+      17
+    ],
+    "text": "such other officer as may be named by the Board.",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      81,
+      200,
+      407,
+      14
+    ],
+    "text": "17. The Board shall have its accounts audited each suas.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      64,
+      216,
+      208,
+      16
+    ],
+    "text": "year by the Auditor-General.",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      80,
+      248,
+      423,
+      15
+    ],
+    "text": "18. (1) The Anditor-General shall examine the Auiie's",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      64,
+      262,
+      426,
+      16
+    ],
+    "text": "accounts of the Board, and ascertain the correctness \"?*",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      64,
+      279,
+      373,
+      17
+    ],
+    "text": "of the balance sheet and furnish a report stating",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      97,
+      311,
+      348,
+      16
+    ],
+    "text": "{@) whether he hes or has not obtained all the",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      144,
+      327,
+      301,
+      17
+    ],
+    "text": "information and explanations required by",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      145,
+      343,
+      63,
+      15
+    ],
+    "text": "him; and",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      97,
+      363,
+      364,
+      19
+    ],
+    "text": "() whether the accounts referred to in the report",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      145,
+      379,
+      300,
+      17
+    ],
+    "text": "are properly drawn up go as to exhibit a",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      145,
+      395,
+      300,
+      13
+    ],
+    "text": "true and correct view of the Boards",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      144,
+      411,
+      48,
+      13
+    ],
+    "text": "affairs.",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      47,
+      443,
+      398,
+      17
+    ],
+    "text": "* @) The report of the Auditor-General shall be",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      63,
+      459,
+      382,
+      17
+    ],
+    "text": "transmitted by him to the Board and a copy thereof",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      63,
+      460,
+      383,
+      37
+    ],
+    "text": "aball be furnished by him to the Permanent",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      63,
+      491,
+      70,
+      16
+    ],
+    "text": "Secretary.",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      80,
+      511,
+      366,
+      17
+    ],
+    "text": "(8) The Board shall, on receipt of the Auditor-",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      64,
+      527,
+      381,
+      17
+    ],
+    "text": "Generals report in each year, transuit the report,",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      63,
+      543,
+      383,
+      17
+    ],
+    "text": "together with the profit and -loss account and",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      63,
+      559,
+      383,
+      17
+    ],
+    "text": "the balance sheet to which the veport relates, to the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      63,
+      575,
+      384,
+      17
+    ],
+    "text": "Minister who shall cease copies thereof to be laid",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      63,
+      591,
+      374,
+      17
+    ],
+    "text": "before the Senate and the House of Representatives.",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      80,
+      623,
+      423,
+      17
+    ],
+    "text": "19. A receipt signed by two members of the Board Becaips",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      63,
+      639,
+      443,
+      30
+    ],
+    "text": "or by an officer xpressly enthorised by the Board to or Bol.",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      63,
+      656,
+      384,
+      17
+    ],
+    "text": "give receipts shall be on effectual discharge for moneys",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      62,
+      671,
+      380,
+      17
+    ],
+    "text": "paid to the Board. .",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      79,
+      702,
+      454,
+      33
+    ],
+    "text": "20. The nett annual profita of the Board for each Agfatin o",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      59,
+      710,
+      436,
+      39
+    ],
+    "text": "financial foot mey be eppliod to such purporee, in- 7B",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      45,
+      726,
+      471,
+      43
+    ],
+    "text": "; cluding e payment of a bonus to members of the .",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      45,
+      752,
+      403,
+      20
+    ],
+    "text": "* staff of the Board, ae may be determined by the Board",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      62,
+      767,
+      385,
+      30
+    ],
+    "text": "with the approval of the Minisier given with the com",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      62,
+      785,
+      386,
+      18
+    ],
+    "text": "currence of the Minister of Finance; and all gums not",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      63,
+      800,
+      385,
+      18
+    ],
+    "text": "80 applied for any purpose shall be carried to the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      63,
+      815,
+      119,
+      15
+    ],
+    "text": "General Reserve.",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      173,
+      4,
+      304,
+      18
+    ],
+    "text": "10 Milk Board Act, No. 12 of 1984.",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      70,
+      27,
+      484,
+      32
+    ],
+    "text": "pverimest 21. The ainount standing to the oredit of the",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      73,
+      48,
+      481,
+      19
+    ],
+    "text": "fame General Reserve niay be invested in securities of any",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      173,
+      55,
+      381,
+      29
+    ],
+    "text": "deseription referred to in section 90 of the Trasts",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      125,
+      81,
+      429,
+      20
+    ],
+    "text": ". Ordinance; and the mosieys rezlised from the sale of",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      172,
+      97,
+      383,
+      19
+    ],
+    "text": "any such seourities may be re-invested in securities of",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      173,
+      115,
+      311,
+      15
+    ],
+    "text": "the like desorintion.",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      89,
+      144,
+      437,
+      17
+    ],
+    "text": "_ PART IV. * :",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      209,
+      167,
+      208,
+      12
+    ],
+    "text": "MISCELLANEOUS.",
+    "mean_p_confidence": 0.09
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      74,
+      185,
+      480,
+      19
+    ],
+    "text": "isa 22, (1) The public. services which any local",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      70,
+      197,
+      484,
+      28
+    ],
+    "text": "sathortion, authority is authorised to establish.and maintain by",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      171,
+      218,
+      383,
+      30
+    ],
+    "text": "or nde? any written law regulating ite powors and",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      171,
+      222,
+      383,
+      29
+    ],
+    "text": "duties ebell be deemed to inclede milk production, and",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      170,
+      250,
+      384,
+      18
+    ],
+    "text": "marketing services; and the provisions of euch written",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      171,
+      266,
+      366,
+      17
+    ],
+    "text": "law shall be construed accordingly. :",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      187,
+      286,
+      367,
+      18
+    ],
+    "text": "(2) The powers vested in any local authority by or",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      170,
+      291,
+      384,
+      28
+    ],
+    "text": "under any? written law regulating its powers end",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      171,
+      306,
+      384,
+      30
+    ],
+    "text": "duties shall be deemed to clude the power to make",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      170,
+      334,
+      385,
+      18
+    ],
+    "text": "any contracts or other arrangements with the Board",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      170,
+      350,
+      385,
+      20
+    ],
+    "text": "for the purpose of establishing and maintaining milk",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      169,
+      367,
+      386,
+      29
+    ],
+    "text": "Produgtion and marketing services; and the provisions",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      169,
+      383,
+      376,
+      16
+    ],
+    "text": "of such written law shall be construed accordingly.",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      73,
+      400,
+      482,
+      37
+    ],
+    "text": "Migs 2. Tn, the discharge of ite fonstions and the",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      73,
+      419,
+      481,
+      22
+    ],
+    "text": "eMart. exercise of its powers the Board shell be subject to,",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      170,
+      439,
+      385,
+      30
+    ],
+    "text": "and act in accordance with, euch general or special",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      169,
+      456,
+      385,
+      17
+    ],
+    "text": "directions as the Minister may issue from time to time.",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      68,
+      476,
+      487,
+      25
+    ],
+    "text": "Toterpretation., 24, In this Act unless the context otherwise",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      166,
+      488,
+      220,
+      32
+    ],
+    "text": "requires -",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      111,
+      517,
+      444,
+      17
+    ],
+    "text": ". Chairman means the petson appointed by or",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      218,
+      533,
+      338,
+      16
+    ],
+    "text": "under this Act to be or to act as the Chairman.",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      218,
+      549,
+      96,
+      16
+    ],
+    "text": "of the Board;",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      186,
+      569,
+      368,
+      17
+    ],
+    "text": "local authority means any Municipal Council,",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      233,
+      574,
+      321,
+      30
+    ],
+    "text": "Urban Council, Town Council, Village Com.",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      233,
+      598,
+      322,
+      38
+    ],
+    "text": "mittee, or any other authority designated as",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      233,
+      618,
+      321,
+      19
+    ],
+    "text": "such for the purposes of this Act by thie",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      233,
+      634,
+      312,
+      18
+    ],
+    "text": "Minister by Order published in the Gazette.",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      187,
+      654,
+      367,
+      15
+    ],
+    "text": "milk means the milk of the cow or the buffalo,",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      233,
+      670,
+      322,
+      30
+    ],
+    "text": "or the goat, of auy article manufactated oF",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      219,
+      686,
+      229,
+      17
+    ],
+    "text": "+ produced from such milk; and",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      188,
+      698,
+      368,
+      43
+    ],
+    "text": "Permanent Beoretany means the. Permanent",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      214,
+      718,
+      341,
+      37
+    ],
+    "text": "Seoretary to the Ministry in charge of the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      233,
+      743,
+      215,
+      11
+    ],
+    "text": "iinister. :",
+    "mean_p_confidence": 0.06
+  }
+]

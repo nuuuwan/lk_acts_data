@@ -1,0 +1,464 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      86,
+      11,
+      444,
+      30
+    ],
+    "text": "PARLIAMENT OF CEYLON .-",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      180,
+      56,
+      341,
+      36
+    ],
+    "text": "5th Session 1951 27th =.",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      150,
+      81,
+      391,
+      24
+    ],
+    "text": ". . OE Te",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      276,
+      102,
+      279,
+      52
+    ],
+    "text": "ah elo. tp ibs \"eh",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      251,
+      139,
+      295,
+      23
+    ],
+    "text": "em 8 tS",
+    "mean_p_confidence": 0.08
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      159,
+      179,
+      373,
+      52
+    ],
+    "text": ". Yan | QS",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      211,
+      201,
+      298,
+      47
+    ],
+    "text": "iN",
+    "mean_p_confidence": 0.08
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      60,
+      317,
+      480,
+      48
+    ],
+    "text": "Companies (Amendment) Act,",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      175,
+      363,
+      238,
+      31
+    ],
+    "text": "No. 35 of 1951",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      190,
+      525,
+      274,
+      16
+    ],
+    "text": "Dote of Asent : September i, 1851 .",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      193,
+      622,
+      214,
+      40
+    ],
+    "text": "Printod on the Onders of Goperement",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      156,
+      777,
+      295,
+      23
+    ],
+    "text": "Pista 0ae aba Saal",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      39,
+      792,
+      411,
+      35
+    ],
+    "text": "r Teer nein Cte Bah Be, ie",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      156,
+      816,
+      295,
+      22
+    ],
+    "text": "2 CS ee ee",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      151,
+      842,
+      300,
+      21
+    ],
+    "text": "Price: 10 cents. Postage: & cents.",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      97,
+      10,
+      338,
+      17
+    ],
+    "text": "Companies (Ameniment) Act, No. 85 of 1951.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      39,
+      96,
+      13
+    ],
+    "text": "1, DO. 9781.",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      39,
+      59,
+      395,
+      18
+    ],
+    "text": ". An Acr To AMEND Taz Companies ORDINANCE,",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      38,
+      79,
+      286,
+      27
+    ],
+    "text": "| No. 51 or 1838.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      38,
+      102,
+      365,
+      25
+    ],
+    "text": "i [Date of Assent: September 1, 1951.]",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      38,
+      126,
+      420,
+      27
+    ],
+    "text": "| gBE, it enacted by the Kings Most Excellent",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      142,
+      383,
+      17
+    ],
+    "text": "Majesty, by and with the advice and consent of the",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      38,
+      158,
+      419,
+      16
+    ],
+    "text": ": Senate and the House of Representatives of Ceylon",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      174,
+      383,
+      17
+    ],
+    "text": "jn this present Parliament. assembled, and hy the",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      190,
+      270,
+      17
+    ],
+    "text": "authority of the same, as follows:",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      221,
+      436,
+      17
+    ],
+    "text": "4. This Act may be cited as the Companies stor ti.",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      238,
+      236,
+      16
+    ],
+    "text": "(Amendment) Act, No. 35 of 1951.",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      269,
+      462,
+      19
+    ],
+    "text": "2. The following new section is hereby inserted Tetion of,",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      37,
+      285,
+      498,
+      16
+    ],
+    "text": "immediately after section 951, and shall have effect as [brittany",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      301,
+      471,
+      16
+    ],
+    "text": "section 851A, of the Companies Ordinance, No. 51 of Ne #1 ot ite",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      318,
+      56,
+      12
+    ],
+    "text": "1938:",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      37,
+      331,
+      419,
+      25
+    ],
+    "text": "| w-Decumentnia Ba, Any document purporting to",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      37,
+      344,
+      419,
+      40
+    ],
+    "text": "| SESE geimade or furnished for the Bnposes of",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      170,
+      372,
+      286,
+      16
+    ],
+    "text": "this Ordinance by or on bebalf of a com-",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      170,
+      388,
+      285,
+      16
+    ],
+    "text": "pany or by any person shall for all pur-",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      37,
+      399,
+      417,
+      22
+    ],
+    "text": "! poses be, until the contrary is proved,",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      169,
+      419,
+      286,
+      15
+    ],
+    "text": "deemed to have been made or furnished by",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      169,
+      435,
+      286,
+      16
+    ],
+    "text": "such company or person, as the case may",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140,
+      450,
+      315,
+      17
+    ],
+    "text": "- be. Any person signing any such doct-",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      169,
+      466,
+      286,
+      16
+    ],
+    "text": "tient shall be deemed to be cognizant of",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      170,
+      482,
+      151,
+      13
+    ],
+    "text": "all matters therein..",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      832,
+      141,
+      21
+    ],
+    "text": "al wanroneant eas",
+    "mean_p_confidence": 0.12
+  }
+]

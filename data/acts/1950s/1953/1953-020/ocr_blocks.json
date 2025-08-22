@@ -1,0 +1,2015 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      90,
+      26,
+      407,
+      25
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      200,
+      79,
+      198,
+      29
+    ],
+    "text": "ist Session 1953",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      285,
+      207,
+      73,
+      18
+    ],
+    "text": "Teese }",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      242,
+      245,
+      208,
+      21
+    ],
+    "text": "Pe EELS IE NY .",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      118,
+      300,
+      360,
+      41
+    ],
+    "text": "Requisitioning of Land",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      159,
+      340,
+      283,
+      40
+    ],
+    "text": "(Amendment) Act,",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      184,
+      381,
+      228,
+      29
+    ],
+    "text": "No. 20 of 1953",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      211,
+      519,
+      187,
+      15
+    ],
+    "text": "Date of Assent : April 7, 1953",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      183,
+      633,
+      245,
+      14
+    ],
+    "text": "Printed on the Orders of Government",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      53,
+      773,
+      454,
+      28
+    ],
+    "text": "~ RB gree gree tas",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      139,
+      795,
+      338,
+      34
+    ],
+    "text": "pi rtp, eg is, gr",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      140,
+      819,
+      338,
+      22
+    ],
+    "text": "aes Ge Geren cyanea",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      141,
+      848,
+      338,
+      14
+    ],
+    "text": "Price: 15 cents, Postage: 8 cents.",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      121,
+      25,
+      354,
+      28
+    ],
+    "text": "Requisitioning of Land (Amendment) dat,",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      40,
+      259,
+      16
+    ],
+    "text": ". . 0. 20 of 1983.",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      65,
+      236,
+      16
+    ],
+    "text": "L.D,0. 15/82. .",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93,
+      91,
+      381,
+      16
+    ],
+    "text": "An Acr To AMBND TRE Raquisitionine of Lanp Act,",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      225,
+      108,
+      116,
+      12
+    ],
+    "text": "No. 88 or 1950.",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      163,
+      131,
+      241,
+      17
+    ],
+    "text": "[Date of Assent: April 7, 1953.]",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      107,
+      154,
+      368,
+      16
+    ],
+    "text": "BE it enacted by the Queens Most Excellent",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      159,
+      384,
+      27
+    ],
+    "text": "Majesty, by and with the advice and consent of the",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      186,
+      384,
+      17
+    ],
+    "text": "Senate and the House of Representatives of Ceylon",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92,
+      202,
+      383,
+      17
+    ],
+    "text": "in this present Parliament assembled, and by. the",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      218,
+      267,
+      16
+    ],
+    "text": "authority of the same, aa follows:",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      107,
+      245,
+      443,
+      18
+    ],
+    "text": "4, This Act may be cited as the Requisitioning of short iin.",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      261,
+      290,
+      16
+    ],
+    "text": "Land (Amendment) Act, No. 20 of 1953.",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      107,
+      289,
+      456,
+      18
+    ],
+    "text": "2. Section 8 of the Requisitioning of Land Act, Amsodnent of",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      305,
+      470,
+      20
+    ],
+    "text": "No. 38 of 1950 (hereinafter referred to gs the princi- foe\" 3.2t,",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      321,
+      426,
+      17
+    ],
+    "text": "pal Act ) ia hereby amended in the Proviso to aub- 1m,",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      337,
+      282,
+      16
+    ],
+    "text": "section (3) of that section, ea follows:",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      123,
+      361,
+      349,
+      16
+    ],
+    "text": "(1) by the substitution for the words this Act.",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      171,
+      368,
+      302,
+      43
+    ],
+    "text": "at the end of Raragraph ) of the words",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      172,
+      394,
+      164,
+      15
+    ],
+    "text": "\"this Act; and\"; and",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      123,
+      413,
+      350,
+      18
+    ],
+    "text": "(2) by the addition after paragraph (6) of the",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      170,
+      430,
+      209,
+      17
+    ],
+    "text": "following new paragraph:",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      171,
+      451,
+      302,
+      17
+    ],
+    "text": "( the procedure eet out in sections 9 to",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      219,
+      467,
+      253,
+      29
+    ],
+    "text": "12 of this Act and in any regula:",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      218,
+      483,
+      254,
+      14
+    ],
+    "text": "tions made under this Act shall",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      218,
+      500,
+      287,
+      18
+    ],
+    "text": "apply in relation to any claim for",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      214,
+      512,
+      258,
+      36
+    ],
+    "text": "any compensation referred to in",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      218,
+      532,
+      254,
+      28
+    ],
+    "text": "paregraph (@) of, thie Proviso in",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      223,
+      548,
+      282,
+      16
+    ],
+    "text": "like manner as though the claim = -",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      217,
+      564,
+      255,
+      16
+    ],
+    "text": "were a claim for compensation",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      217,
+      580,
+      112,
+      13
+    ],
+    "text": "under this Act. .",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      105,
+      607,
+      456,
+      17
+    ],
+    "text": "8. (1) Section 6 of the principal Act is hereby amesdmens of",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88,
+      607,
+      464,
+      39
+    ],
+    "text": "amend ae follows oP 7 nee",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      121,
+      646,
+      389,
+      18
+    ],
+    "text": "(@) by the repeal of sub-section (4), and the sube- 4%",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      168,
+      664,
+      302,
+      18
+    ],
+    "text": "titution therefor of the following new sub-",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      168,
+      680,
+      73,
+      13
+    ],
+    "text": "section:",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      147,
+      704,
+      324,
+      18
+    ],
+    "text": ". (@ Notwithstanding anything in the",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      168,
+      709,
+      303,
+      28
+    ],
+    "text": "preceding provisions of this section, the",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      731,
+      390,
+      41
+    ],
+    "text": ". maxinum amount of he compensation",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      167,
+      755,
+      304,
+      16
+    ],
+    "text": "payable in any case under paragraph (8)",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      167,
+      754,
+      303,
+      38
+    ],
+    "text": "of sub-section (1) shall be an amannt equal",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      149,
+      785,
+      321,
+      17
+    ],
+    "text": "~ to the market value which the land would",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      167,
+      801,
+      303,
+      20
+    ],
+    "text": "have bad on the date of the termination",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      167,
+      817,
+      304,
+      20
+    ],
+    "text": "of the period for which possession of the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      166,
+      834,
+      305,
+      19
+    ],
+    "text": "land is retained by virtue of this Act, if",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      166,
+      850,
+      305,
+      18
+    ],
+    "text": "until that date it had remained in the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      147,
+      15,
+      349,
+      40
+    ],
+    "text": "4 Requisitioning, of Lund (Amendment) Act,",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      283,
+      39,
+      116,
+      15
+    ],
+    "text": "0. 20 of 1958.",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      226,
+      66,
+      302,
+      16
+    ],
+    "text": "original condition in which it was on the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      226,
+      83,
+      302,
+      16
+    ],
+    "text": "date on which possession thereof was first",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      226,
+      100,
+      302,
+      16
+    ],
+    "text": "taken by a competent authority under this",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      226,
+      117,
+      302,
+      16
+    ],
+    "text": "Act, or on which possession thereof was",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      226,
+      133,
+      302,
+      17
+    ],
+    "text": "deemed to be taken by virtue of section 2",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      225,
+      150,
+      87,
+      13
+    ],
+    "text": "of this Act:",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      241,
+      186,
+      286,
+      16
+    ],
+    "text": "Provided, however, that where the",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      225,
+      204,
+      310,
+      16
+    ],
+    "text": "competent authority is of opinion .",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      225,
+      228,
+      302,
+      16
+    ],
+    "text": "{@) that, if the land had remained in such",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      272,
+      245,
+      256,
+      17
+    ],
+    "text": "original condition, its market",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      272,
+      262,
+      255,
+      17
+    ],
+    "text": "value at any time during the period",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      273,
+      279,
+      254,
+      17
+    ],
+    "text": "for which possession thereof was",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      273,
+      296,
+      255,
+      16
+    ],
+    "text": "retained by virtue of this Act",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      273,
+      313,
+      254,
+      16
+    ],
+    "text": "would have been higher than such",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      273,
+      330,
+      254,
+      14
+    ],
+    "text": "maximum amount as aforesaid,",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      273,
+      347,
+      26,
+      12
+    ],
+    "text": "and",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      226,
+      369,
+      302,
+      17
+    ],
+    "text": "(6) that, having regard to the",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      273,
+      387,
+      255,
+      16
+    ],
+    "text": "circumstances referred to in para-",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      273,
+      403,
+      255,
+      17
+    ],
+    "text": "graph. (@). the limitation of the",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      274,
+      421,
+      253,
+      16
+    ],
+    "text": "compensation to such maximum",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      273,
+      438,
+      214,
+      16
+    ],
+    "text": "amount would be inequitable,",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      221,
+      463,
+      306,
+      38
+    ],
+    "text": "the competent authority may in his dis-",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      225,
+      484,
+      302,
+      15
+    ],
+    "text": "cretion determine that, in addition to the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      225,
+      494,
+      302,
+      41
+    ],
+    "text": "compensation payable under Paragraph",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      226,
+      518,
+      302,
+      17
+    ],
+    "text": "(0) of sub-section (1). there shall be",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      225,
+      535,
+      303,
+      17
+    ],
+    "text": "awarded as special additional compen-",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      225,
+      551,
+      302,
+      17
+    ],
+    "text": "sation an amount not exceeding the",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      225,
+      568,
+      303,
+      18
+    ],
+    "text": "difference between (i} the highest market",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      225,
+      585,
+      303,
+      14
+    ],
+    "text": "value which the land would have had",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      225,
+      602,
+      303,
+      18
+    ],
+    "text": "during the period mentioned in paragraph",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      226,
+      620,
+      302,
+      16
+    ],
+    "text": "@, and (ii) such maximum amount as",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      225,
+      637,
+      70,
+      13
+    ],
+    "text": "aforesaid.",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      241,
+      666,
+      287,
+      18
+    ],
+    "text": "No appeal shall lie against a deter-",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      225,
+      683,
+      303,
+      17
+    ],
+    "text": "mination by the competent authority of the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      226,
+      700,
+      302,
+      17
+    ],
+    "text": "amount of the special additional compen-",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      225,
+      717,
+      303,
+      14
+    ],
+    "text": "sation to be awarded under the Proviso to",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      149,
+      733,
+      379,
+      18
+    ],
+    "text": ". this eub-section; and in any case where the",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      226,
+      751,
+      302,
+      20
+    ],
+    "text": "amount of the compensation payable under",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      142,
+      755,
+      386,
+      46
+    ],
+    "text": ": : perageaph (of sub-section iy increased",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      142,
+      784,
+      386,
+      21
+    ],
+    "text": ": or reduced upon any appel, the competent",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      170,
+      801,
+      358,
+      16
+    ],
+    "text": ". authority may in, his discretion reduce or",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      226,
+      817,
+      302,
+      15
+    ],
+    "text": "increase the amount to be awarded under",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      226,
+      834,
+      302,
+      17
+    ],
+    "text": "the Proviso as special additional com-",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      225,
+      851,
+      282,
+      16
+    ],
+    "text": "pensation.; and ane",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      110,
+      11,
+      353,
+      17
+    ],
+    "text": "Requisitioning of Land (Amendment) Act, 5",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      203,
+      24,
+      193,
+      19
+    ],
+    "text": "No. 20 of 1988. :",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      175,
+      47,
+      286,
+      40
+    ],
+    "text": "(8) by the insertion, immediately after",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      158,
+      71,
+      303,
+      16
+    ],
+    "text": "the new sub-section (4), of the following",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157,
+      87,
+      138,
+      13
+    ],
+    "text": "new sub-section :",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      175,
+      110,
+      286,
+      40
+    ],
+    "text": "{aa) Whore in the case of any land",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      158,
+      131,
+      303,
+      19
+    ],
+    "text": "of which possession is deemed to be taken",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      158,
+      148,
+      303,
+      17
+    ],
+    "text": "by virtue of seotion 2 of this Act, compen-",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157,
+      163,
+      305,
+      28
+    ],
+    "text": "sation is payable under sub-paragraph 2",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157,
+      179,
+      273,
+      17
+    ],
+    "text": "of paragraph (1) of regulation 2 of",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      158,
+      179,
+      303,
+      39
+    ],
+    "text": "Dofonee (Compensation) Regulations, 1941,",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      158,
+      210,
+      304,
+      17
+    ],
+    "text": "in respect of any damage to the land which",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      158,
+      226,
+      304,
+      20
+    ],
+    "text": "may hove occurred during the period for",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      158,
+      242,
+      305,
+      16
+    ],
+    "text": "which the land was in the occupation of a",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      158,
+      258,
+      304,
+      16
+    ],
+    "text": "competent authority or of any other person",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      144,
+      274,
+      318,
+      16
+    ],
+    "text": ". under or by virtue of the Defence",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      159,
+      282,
+      303,
+      40
+    ],
+    "text": "(fisosllaneoos) Regulations as having",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      158,
+      305,
+      303,
+      16
+    ],
+    "text": "effect whether before or after February 24,",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      159,
+      321,
+      304,
+      16
+    ],
+    "text": "1946, nothing in this Act shall confer or be",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      158,
+      337,
+      305,
+      16
+    ],
+    "text": "deemed or construed to confer any right to",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      158,
+      353,
+      305,
+      16
+    ],
+    "text": "compensation in respect of such damage in",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      158,
+      369,
+      305,
+      16
+    ],
+    "text": "any amount exceeding the amount payable",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      158,
+      384,
+      305,
+      17
+    ],
+    "text": "under that sub-paragraph; and the amount",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      158,
+      389,
+      305,
+      28
+    ],
+    "text": "of such compensation Shalt accordingly be",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      158,
+      416,
+      305,
+      17
+    ],
+    "text": "computed seperately from the compen-",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      158,
+      432,
+      305,
+      17
+    ],
+    "text": "sation, if any, which may be payable under",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      158,
+      433,
+      305,
+      38
+    ],
+    "text": "this Act in respect of any damage to the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      127,
+      463,
+      336,
+      19
+    ],
+    "text": "_ land which may have occurred during the",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      158,
+      479,
+      305,
+      16
+    ],
+    "text": "period for which possession thereof is",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      158,
+      484,
+      233,
+      27
+    ],
+    "text": "Tetained by virtue of this Act.",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      95,
+      523,
+      368,
+      18
+    ],
+    "text": "(2) The amendments set out in sub-section (1) of",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      78,
+      541,
+      386,
+      13
+    ],
+    "text": "this section shall be deemed to have had effect on and",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      78,
+      557,
+      385,
+      17
+    ],
+    "text": "after the date on which the principal Act came into",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      77,
+      575,
+      71,
+      16
+    ],
+    "text": "operation.",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93,
+      610,
+      450,
+      18
+    ],
+    "text": "4, The following new section is hereby inserted tnsenion",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      77,
+      626,
+      478,
+      20
+    ],
+    "text": "in Part II of the principal Act immediately after 20% setion",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      77,
+      644,
+      473,
+      15
+    ],
+    "text": "section 12 of that Act and shall have effect as section ttincipal Act.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      78,
+      661,
+      106,
+      13
+    ],
+    "text": "12a thereof :-",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      77,
+      685,
+      387,
+      22
+    ],
+    "text": "Petar 2a. (1) Tf, at the time when the",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      79,
+      702,
+      384,
+      18
+    ],
+    "text": "Tngmatien _Defenos (Compensation) Regulations,",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      76,
+      718,
+      388,
+      21
+    ],
+    "text": "gnistDerore 1941, expire ot are revoked, there is",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      133,
+      734,
+      331,
+      18
+    ],
+    "text": "* pending eny claim for any compensation",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      172,
+      751,
+      292,
+      18
+    ],
+    "text": "payable under those Regulations, in",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      173,
+      768,
+      291,
+      20
+    ],
+    "text": "Teapect of any land of which possession",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      173,
+      785,
+      292,
+      19
+    ],
+    "text": "and occupation was not continued after",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      172,
+      801,
+      293,
+      20
+    ],
+    "text": "the appointed date under section 3 of",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      172,
+      818,
+      293,
+      22
+    ],
+    "text": "this Act, the procedure set out in sections",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      173,
+      836,
+      369,
+      23
+    ],
+    "text": "11 and 12 of this Act shall apply in .",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161,
+      8,
+      354,
+      37
+    ],
+    "text": "6 Requisitioning of Land (Amendment) Act,",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      157,
+      29,
+      260,
+      15
+    ],
+    "text": ". Yo. 20 of 1958.",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      258,
+      55,
+      289,
+      14
+    ],
+    "text": "relation to such claim in like manner as",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      258,
+      71,
+      288,
+      17
+    ],
+    "text": "though it were a claim for compensation",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      258,
+      87,
+      288,
+      28
+    ],
+    "text": "under this Act; and accordingly any pe",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      257,
+      103,
+      315,
+      17
+    ],
+    "text": "ceedings in respect of any such claim .",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      257,
+      119,
+      290,
+      17
+    ],
+    "text": "which are pending at the aforesaid time",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      257,
+      134,
+      291,
+      17
+    ],
+    "text": "of expiration or revocation before a",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      258,
+      150,
+      289,
+      14
+    ],
+    "text": "tribunal constituted under the Defence",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      258,
+      157,
+      288,
+      42
+    ],
+    "text": "(Compensation) Regulations, 1941, shalt,",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      258,
+      182,
+      290,
+      16
+    ],
+    "text": "in accordance with regulations which",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      258,
+      198,
+      289,
+      16
+    ],
+    "text": "are herehy authorised to be made in that",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      257,
+      214,
+      290,
+      14
+    ],
+    "text": "behalf under section 20 of this Act, be",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      257,
+      229,
+      290,
+      17
+    ],
+    "text": "transferred to and disposed of by the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      257,
+      246,
+      290,
+      13
+    ],
+    "text": "Board of Review constituted under",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      257,
+      262,
+      289,
+      16
+    ],
+    "text": "section 17 of the Land Acquisition Act,",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      257,
+      278,
+      106,
+      13
+    ],
+    "text": "No, 9 of 1950.",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      274,
+      301,
+      273,
+      17
+    ],
+    "text": "(2) For the purposes of enabling the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      258,
+      317,
+      289,
+      17
+    ],
+    "text": "provisions of sub-section (1) of this",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      258,
+      333,
+      289,
+      16
+    ],
+    "text": "section and of snb-section (3) of section",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      258,
+      350,
+      290,
+      15
+    ],
+    "text": "8 and of sub-section (4a) of section 6 to",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      257,
+      365,
+      290,
+      16
+    ],
+    "text": "have effect, but subject to the aforesaid",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      178,
+      381,
+      369,
+      17
+    ],
+    "text": "cop. provisions, section 6 (3) of the Inter-",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      257,
+      397,
+      290,
+      17
+    ],
+    "text": "pretation Ordinance shall, notwith-",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      257,
+      404,
+      314,
+      42
+    ],
+    "text": "standing that the Defence {Compen-",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      254,
+      420,
+      294,
+      42
+    ],
+    "text": "sation) egulations, 4941, may expire or",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      258,
+      446,
+      290,
+      16
+    ],
+    "text": "be revoked, apply in all respects as",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      258,
+      461,
+      289,
+      19
+    ],
+    "text": "though those Regulations are, on the date",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      258,
+      478,
+      288,
+      16
+    ],
+    "text": "of their expiration or revocation,",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      259,
+      494,
+      175,
+      16
+    ],
+    "text": "repealed by written law. *.",
+    "mean_p_confidence": 0.62
+  }
+]

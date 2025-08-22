@@ -1,0 +1,937 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      98,
+      35,
+      397,
+      27
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      198,
+      81,
+      189,
+      19
+    ],
+    "text": "3rd Session 1954-55",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      276,
+      157,
+      37,
+      23
+    ],
+    "text": "Seay",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      257,
+      180,
+      67,
+      20
+    ],
+    "text": "ASS",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      245,
+      248,
+      93,
+      23
+    ],
+    "text": "RO",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      235,
+      253,
+      118,
+      36
+    ],
+    "text": "SEP",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      111,
+      330,
+      354,
+      34
+    ],
+    "text": "Monetary Law (Amendment)",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      164,
+      374,
+      249,
+      27
+    ],
+    "text": "Act, No. 33 of 1954",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      198,
+      514,
+      189,
+      22
+    ],
+    "text": "Date of Assent: July 3, 1954",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      169,
+      653,
+      242,
+      14
+    ],
+    "text": "Printed on the Orders of Government",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      124,
+      782,
+      334,
+      33
+    ],
+    "text": "he un Summer congresses",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      123,
+      816,
+      335,
+      12
+    ],
+    "text": "Annual Subscription (including Bills) Rs. ble in",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      124,
+      817,
+      335,
+      36
+    ],
+    "text": "Stee ba Gee eae",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      125,
+      857,
+      332,
+      16
+    ],
+    "text": "Price: 15 cents, Postage: 10 cents.",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      146,
+      11,
+      312,
+      17
+    ],
+    "text": "Monetury Law (Amendment) 4et, 4",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211,
+      28,
+      113,
+      15
+    ],
+    "text": "No. 83 of 1955,",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88,
+      57,
+      101,
+      13
+    ],
+    "text": "L. DOR. 4/54,",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      105,
+      80,
+      323,
+      16
+    ],
+    "text": "An Act To AMEND Tae Monzrany Law Act,",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      209,
+      97,
+      116,
+      12
+    ],
+    "text": "No. 58 or 1949.",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      153,
+      125,
+      229,
+      17
+    ],
+    "text": "[Date of Assent: July 8, 3084.]",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      148,
+      450,
+      17
+    ],
+    "text": "BE it enacted by the Queen's Most Excellent",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      165,
+      385,
+      17
+    ],
+    "text": "Majesty, by and with the advice and consent of the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      181,
+      384,
+      16
+    ],
+    "text": "Senate and the House of Representatives of Ceylon in",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      197,
+      385,
+      17
+    ],
+    "text": "this present Parliament assembled, end by tho",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      213,
+      265,
+      17
+    ],
+    "text": "authority of the same, as follows:",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      241,
+      438,
+      17
+    ],
+    "text": "4. This Act may be cited as tho Monetary Law stor tle",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      257,
+      248,
+      16
+    ],
+    "text": "(Amendment) Act, No. 33 of 1954,",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      285,
+      429,
+      17
+    ],
+    "text": "2, The following new section is hereby inserted . tmesions",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      301,
+      455,
+      19
+    ],
+    "text": "immediately after section 58, and shall have effect a5 of, ag,",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      317,
+      472,
+      17
+    ],
+    "text": "section 58a, of the Monetary Law Act, No. 58 of 1949, in Act No. 59",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      333,
+      440,
+      17
+    ],
+    "text": "(hereinafter referred to as * the principal Act '*):' of 188.",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      357,
+      385,
+      17
+    ],
+    "text": "Sooctenive 38a. (1) Where in any proceedings in",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      365,
+      386,
+      38
+    ],
+    "text": "ination any court it hns to be determined whether",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      390,
+      386,
+      19
+    ],
+    "text": "of x enrreney nt purporting to be a currency",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      51,
+      406,
+      407,
+      16
+    ],
+    "text": "_ note is an imitation of a currency note,",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      128,
+      422,
+      331,
+      13
+    ],
+    "text": ". certificate under the hand of the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122,
+      438,
+      423,
+      15
+    ],
+    "text": ". Governor of the Central Bank or, if the :",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      170,
+      454,
+      290,
+      18
+    ],
+    "text": "Governor is temporarily absent from duty",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      169,
+      470,
+      290,
+      19
+    ],
+    "text": "or temporarily unable to perform his",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      169,
+      486,
+      290,
+      15
+    ],
+    "text": "functions and duties, a certificate ander",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      169,
+      502,
+      290,
+      18
+    ],
+    "text": "the hand of the Deputy Governor for the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      169,
+      518,
+      290,
+      17
+    ],
+    "text": "time being acting aa the chief executive",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      169,
+      534,
+      290,
+      15
+    ],
+    "text": "officer of the Central Bank, to the effect",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      169,
+      550,
+      291,
+      13
+    ],
+    "text": "that such document is an imitation of a",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      168,
+      567,
+      291,
+      16
+    ],
+    "text": "currency note and is not a currency note",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      141,
+      582,
+      318,
+      15
+    ],
+    "text": "issued or deemed to be iseued by the",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      169,
+      598,
+      290,
+      18
+    ],
+    "text": "Central Bank of Ceylon shall be received",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      168,
+      614,
+      291,
+      17
+    ],
+    "text": "in those proceedings as conclusive evid-",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      168,
+      630,
+      291,
+      14
+    ],
+    "text": "ence of the fact that such document is an",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      168,
+      647,
+      209,
+      15
+    ],
+    "text": "imitation of a currency note.",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      185,
+      670,
+      274,
+      16
+    ],
+    "text": "(2) The Governor or the Depnty",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      168,
+      686,
+      291,
+      14
+    ],
+    "text": "Governor of the Central Bank who issues",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      168,
+      702,
+      291,
+      14
+    ],
+    "text": "@ certificate under this section shall not",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      167,
+      717,
+      292,
+      14
+    ],
+    "text": "be examined or cross-examined with",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      168,
+      734,
+      185,
+      17
+    ],
+    "text": "Tespect to that certificate.",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      184,
+      757,
+      275,
+      17
+    ],
+    "text": "(8) Every certificate issued under this",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      167,
+      773,
+      292,
+      17
+    ],
+    "text": "section shall be in the following form :---",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      162,
+      797,
+      297,
+      17
+    ],
+    "text": "Ty sussaseseeene, Governor of the",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      128,
+      813,
+      331,
+      17
+    ],
+    "text": ". Central Bank of Ceylon,*/Deputy",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      184,
+      829,
+      275,
+      17
+    ],
+    "text": "Governor for the time being acting as",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      183,
+      845,
+      277,
+      15
+    ],
+    "text": "the chief execntive ailiear af the",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88,
+      866,
+      111,
+      9
+    ],
+    "text": "LBs a6",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      157,
+      26,
+      313,
+      16
+    ],
+    "text": "4 Monetary Law (Amendment) Act,",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      290,
+      42,
+      111,
+      15
+    ],
+    "text": "No. 83 of 1854.",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      267,
+      72,
+      268,
+      16
+    ],
+    "text": "Central Bank of Ceylon, do hereby",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      266,
+      88,
+      269,
+      17
+    ],
+    "text": "certify that I have examined the doou-",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      267,
+      104,
+      268,
+      16
+    ],
+    "text": "ment marked ........ which purports",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      266,
+      119,
+      269,
+      16
+    ],
+    "text": "to be a currency note of the denomina-",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      266,
+      135,
+      269,
+      16
+    ],
+    "text": "tion ......., beating number ........, and.",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      266,
+      150,
+      269,
+      14
+    ],
+    "text": "dated .17..0..., and that each doeu-",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      73,
+      165,
+      462,
+      16
+    ],
+    "text": "* ment is an imitation of a currency note",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      265,
+      181,
+      269,
+      17
+    ],
+    "text": "and is not-a eurrenoy note issued or",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      265,
+      197,
+      269,
+      17
+    ],
+    "text": "deemed to be issued by the Central",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      265,
+      213,
+      114,
+      16
+    ],
+    "text": "Bank of Ceylon.",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      323,
+      245,
+      74,
+      16
+    ],
+    "text": "Signature: 0...",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      340,
+      269,
+      39,
+      12
+    ],
+    "text": "Datos vessessesessessssestoee",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144,
+      292,
+      289,
+      17
+    ],
+    "text": "-. (\"Delete inapplicable words). .",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      58,
+      319,
+      477,
+      20
+    ],
+    "text": "Alien 3. Section 58a inserted in the principal Act by",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      58,
+      336,
+      339,
+      24
+    ],
+    "text": "futieres section 2 of this Act shall apply",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      58,
+      359,
+      476,
+      17
+    ],
+    "text": "Peal det (@) to proceedings in of all offences",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      59,
+      363,
+      475,
+      25
+    ],
+    "text": "br tie dat Uhether committed before om after the",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      232,
+      391,
+      227,
+      15
+    ],
+    "text": "commencement of this Act, and",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      185,
+      414,
+      350,
+      17
+    ],
+    "text": "{B) to proceedings pending before ov awaiting",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      233,
+      419,
+      301,
+      28
+    ],
+    "text": "Fiquity of trfal in any court on the date",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      112,
+      446,
+      355,
+      13
+    ],
+    "text": ": of the commencement of this Act.",
+    "mean_p_confidence": 0.74
+  }
+]

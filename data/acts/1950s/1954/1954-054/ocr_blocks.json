@@ -1,0 +1,695 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      102,
+      29,
+      405,
+      26
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      199,
+      84,
+      207,
+      17
+    ],
+    "text": "Brd Session 1954-55",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      290,
+      179,
+      32,
+      13
+    ],
+    "text": "Ane;",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      272,
+      243,
+      68,
+      10
+    ],
+    "text": "OF ME",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      103,
+      337,
+      401,
+      31
+    ],
+    "text": "Anuradhapura Preservation Act,",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      200,
+      375,
+      204,
+      23
+    ],
+    "text": "No. 54 of 1954",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      191,
+      499,
+      225,
+      14
+    ],
+    "text": "Date of Azsent : November 25, 1954",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      177,
+      614,
+      252,
+      14
+    ],
+    "text": "Printed on the Orders of Government",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      135,
+      741,
+      336,
+      14
+    ],
+    "text": "Printed st the Govmmemra Pass, Crrion. To be",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      134,
+      755,
+      337,
+      13
+    ],
+    "text": "Parchased at the Gove, Pymcariows Buagau, Cotommo",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      134,
+      772,
+      336,
+      14
+    ],
+    "text": "Annual Subseription (including Billa) Rs. 25, payable in",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      134,
+      785,
+      336,
+      14
+    ],
+    "text": "advance to the Guream tannin, Gohmartecer Purscansoey",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      134,
+      799,
+      336,
+      14
+    ],
+    "text": "Bomas, Poor Orvice Bor $0), Sourtariat, Calosbo iL",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      135,
+      820,
+      334,
+      17
+    ],
+    "text": "Price: 15 cents. Postage ; 10 cents.",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      165,
+      27,
+      310,
+      28
+    ],
+    "text": "Anuredhapura Preseraation Act, 3",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      243,
+      44,
+      136,
+      15
+    ],
+    "text": "0. 54 of 1955 .",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      107,
+      70,
+      104,
+      13
+    ],
+    "text": "L. D0, 51/66.",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      94,
+      93,
+      379,
+      14
+    ],
+    "text": "AN Acr 10 PROVIDR FOR THE CONTINUANCE OF THE",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      110,
+      108,
+      364,
+      17
+    ],
+    "text": "AnuRapaaruRA (Pueservation) ORDINANCE, No. 34",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      110,
+      124,
+      363,
+      14
+    ],
+    "text": "oF 1942, NOTWITHETANDING THE EXPIRY THEREOF",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      110,
+      143,
+      363,
+      10
+    ],
+    "text": "AND FOR THE VALIDATION RENDERED NECESSARY BY",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      110,
+      156,
+      325,
+      13
+    ],
+    "text": "SUCH EXPIRY, AND TO AMEND THAT ORDINANCE.",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      147,
+      178,
+      274,
+      18
+    ],
+    "text": "[Date of Assent: November 25, 1954}",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      110,
+      201,
+      364,
+      15
+    ],
+    "text": "BE it enacted by the Queens Most Excellent",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93,
+      198,
+      381,
+      41
+    ],
+    "text": "Majesty, by and wih the we and consent of the",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      94,
+      221,
+      380,
+      30
+    ],
+    "text": "Bette and the House of Representatives of Ceylon",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93,
+      248,
+      381,
+      19
+    ],
+    "text": "in this present Parliament assembled, and by the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93,
+      263,
+      264,
+      17
+    ],
+    "text": "authority of the sate, as follows:",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      109,
+      287,
+      432,
+      19
+    ],
+    "text": "4. This Act may be cited as the Anuradhspura sien vue.",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92,
+      302,
+      243,
+      16
+    ],
+    "text": "Preservation Act, No. 54 of 1954.",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108,
+      326,
+      438,
+      18
+    ],
+    "text": "2, The Anuradhepura (Preservation) Ordinance, contazance",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93,
+      323,
+      458,
+      40
+    ],
+    "text": "No. 84 of 1942, Tee ae referred to ea the $,Opiinence",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      95,
+      357,
+      418,
+      21
+    ],
+    "text": "principal enactment, shell, notwithstanding 02",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92,
+      372,
+      382,
+      29
+    ],
+    "text": "anything in section 2 of the Anuzadhapura Presar-",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92,
+      388,
+      382,
+      20
+    ],
+    "text": "vation Ordinanee (Continuation) Ordinance, No. 38",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92,
+      404,
+      382,
+      21
+    ],
+    "text": "of 1947, be deamed to have been in force during the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92,
+      419,
+      382,
+      21
+    ],
+    "text": "period commencing on the twenty-second day of",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92,
+      436,
+      382,
+      23
+    ],
+    "text": "November, 1949, and ending on the day immediately",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92,
+      452,
+      381,
+      20
+    ],
+    "text": "preceding the date of the commencement of this Act,",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92,
+      457,
+      382,
+      31
+    ],
+    "text": "bad shaif continue to be in farce as provided in sub-",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      483,
+      383,
+      29
+    ],
+    "text": "section (1) of section 1 of the principal enactment as",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      499,
+      240,
+      17
+    ],
+    "text": "amended by section 4 of this Act.",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      106,
+      523,
+      435,
+      21
+    ],
+    "text": ". All regulations made under the principal Veliaion,",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      528,
+      385,
+      31
+    ],
+    "text": "enactment and in force immediately prior to the",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      555,
+      384,
+      21
+    ],
+    "text": "twenty-second day of November, 1949, and all permits",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      570,
+      383,
+      22
+    ],
+    "text": "granted, and all orders and decisions made or given,",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      586,
+      384,
+      20
+    ],
+    "text": "and all acts done or caused to be done, under the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      601,
+      375,
+      21
+    ],
+    "text": "Principal enactment during the period commencin:",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      612,
+      385,
+      26
+    ],
+    "text": "on, the twenty-second day of November, 1949, and",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      632,
+      385,
+      23
+    ],
+    "text": "ending on the day immediately preceding the date of",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      648,
+      385,
+      20
+    ],
+    "text": "the commencement of this Act shall be deemed to have",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      663,
+      385,
+      24
+    ],
+    "text": "been and shall he, for all purposes, as valid and",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88,
+      680,
+      386,
+      30
+    ],
+    "text": "effectual as though the principal enactment had been",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      696,
+      202,
+      19
+    ],
+    "text": "in foree during that period.",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      104,
+      719,
+      441,
+      23
+    ],
+    "text": "4. Scotion 1 of the principal enactment is hereby Ameodmeas",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      735,
+      487,
+      23
+    ],
+    "text": ". amended, in sub-section (i) of that section, by the <% foe 1",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88,
+      751,
+      441,
+      20
+    ],
+    "text": "substitution, for all the words from and shall fice!",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      768,
+      453,
+      20
+    ],
+    "text": "continue in force to the end of that sub-section, of =.",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      782,
+      375,
+      21
+    ],
+    "text": "the following : .",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      120,
+      802,
+      353,
+      20
+    ],
+    "text": "and shall continue to be in force until such date",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      167,
+      820,
+      306,
+      25
+    ],
+    "text": "as may he determined by the Minister and",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      166,
+      835,
+      182,
+      17
+    ],
+    "text": "notified in the Gazette,",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      104,
+      858,
+      117,
+      10
+    ],
+    "text": "a Ramessraine",
+    "mean_p_confidence": 0.14
+  }
+]

@@ -1,0 +1,475 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      89,
+      18,
+      400,
+      25
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      194,
+      70,
+      191,
+      18
+    ],
+    "text": "3rd Session 1954-55",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      276,
+      142,
+      37,
+      23
+    ],
+    "text": "<>",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      276,
+      164,
+      27,
+      12
+    ],
+    "text": "Qaine",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      87,
+      309,
+      408,
+      32
+    ],
+    "text": "Tea Control (Amendment) Act,",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      189,
+      359,
+      204,
+      22
+    ],
+    "text": "No. 27 of 1954",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      197,
+      484,
+      193,
+      14
+    ],
+    "text": "Date of Assent : June 22, 1954",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      170,
+      615,
+      248,
+      13
+    ],
+    "text": "Printed on the Orders of Government",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      126,
+      744,
+      339,
+      12
+    ],
+    "text": "Printed. st the Govamggcs Pest, Crom, To be",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      126,
+      752,
+      339,
+      25
+    ],
+    "text": "purchased at the Govr, Pusucartons Buerav, Covommo",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      126,
+      770,
+      340,
+      23
+    ],
+    "text": "pra tein Cee) eH er",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      125,
+      790,
+      340,
+      16
+    ],
+    "text": "Buxsav, Post Orrics Box 560, Secretariat, Colombo I",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      127,
+      818,
+      378,
+      18
+    ],
+    "text": "Price : 15 cents, Postage: 10 cents, .",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      147,
+      19,
+      305,
+      20
+    ],
+    "text": "Tea Control (Amendment) Act, 8",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      205,
+      40,
+      108,
+      15
+    ],
+    "text": "No. #7 of 1954.",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      62,
+      101,
+      16
+    ],
+    "text": "L. D.0. 6/64.",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108,
+      85,
+      301,
+      15
+    ],
+    "text": "An Acr 70 amznp Tus Tea Conrnon Act,",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      169,
+      103,
+      143,
+      12
+    ],
+    "text": "~ No. 28 of 1949.",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      135,
+      128,
+      250,
+      16
+    ],
+    "text": "(Date of Assent: June 22, 1964.]",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      154,
+      370,
+      18
+    ],
+    "text": "BE it enacted by the Queens Most Excellent",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      161,
+      387,
+      27
+    ],
+    "text": "Majesty, by and with the advice and consent of the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      185,
+      387,
+      19
+    ],
+    "text": "Senate and the House of Representatives of Ceylon in",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      201,
+      388,
+      20
+    ],
+    "text": "this present Parliament assembled, and by the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64,
+      217,
+      257,
+      17
+    ],
+    "text": "authority of the aame aa follows:",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      248,
+      444,
+      15
+    ],
+    "text": "4, This Act may he cited as the Tea Control shot tite",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      255,
+      249,
+      27
+    ],
+    "text": "(Amendment) Act, No. 27 of 1954.",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      296,
+      446,
+      19
+    ],
+    "text": "2, Sub-section (1) of section 17 of the Tea Control Amenament",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64,
+      308,
+      459,
+      29
+    ],
+    "text": "Act, No. 28 of 1949, is hereby amended as follows: jt a",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      105,
+      335,
+      389,
+      21
+    ],
+    "text": "(1) in paragraph (0) of that sub-section, by the 12.",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99,
+      337,
+      353,
+      43
+    ],
+    "text": "Biatiation or dhe works under this",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      148,
+      371,
+      304,
+      17
+    ],
+    "text": "Act, and, of the words under this",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      148,
+      389,
+      53,
+      14
+    ],
+    "text": "Ra",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      104,
+      411,
+      349,
+      17
+    ],
+    "text": "(2) in paragraph (d) of that sub-section, by the",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99,
+      411,
+      357,
+      49
+    ],
+    "text": ") im Pibstlttion for the. words. appriniad",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      148,
+      443,
+      304,
+      17
+    ],
+    "text": "date.', of the words appointed dato,",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      149,
+      459,
+      80,
+      15
+    ],
+    "text": "and; and",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      148,
+      482,
+      305,
+      16
+    ],
+    "text": "the addition, immediately aftor paragraph",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99,
+      482,
+      358,
+      39
+    ],
+    "text": "b {Gof that aub-eoction, of the follbwing new",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      149,
+      515,
+      100,
+      17
+    ],
+    "text": "paragraph :",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      150,
+      538,
+      303,
+      18
+    ],
+    "text": "< () all expenses of the administration of",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      197,
+      543,
+      256,
+      25
+    ],
+    "text": "the Tee. Thefts Prevention Act.",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      197,
+      570,
+      109,
+      14
+    ],
+    "text": "No. 48 of 1963. .",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      841,
+      247,
+      10
+    ],
+    "text": "I. Regios OHO .",
+    "mean_p_confidence": 0.2
+  }
+]

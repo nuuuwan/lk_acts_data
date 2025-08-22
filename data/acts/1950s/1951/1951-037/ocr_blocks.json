@@ -1,0 +1,3170 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      72,
+      24,
+      511,
+      31
+    ],
+    "text": ". PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      39,
+      61,
+      448,
+      33
+    ],
+    "text": "a _ 5th Session 191 :",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      39,
+      94,
+      544,
+      31
+    ],
+    "text": "a 1 ABE",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      49,
+      118,
+      523,
+      17
+    ],
+    "text": ". , fy",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      38,
+      128,
+      539,
+      24
+    ],
+    "text": "i Bie S Kay",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      226,
+      151,
+      348,
+      37
+    ],
+    "text": "opens TRL gusty 190) st",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      232,
+      179,
+      350,
+      40
+    ],
+    "text": "Vets (@ SKY",
+    "mean_p_confidence": 0.07
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      255,
+      186,
+      326,
+      60
+    ],
+    "text": "yes \\i X Seif ff",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      57,
+      313,
+      526,
+      40
+    ],
+    "text": "Appropriation Act, No. .37 :",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      284,
+      346,
+      299,
+      22
+    ],
+    "text": ". \" i",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      96,
+      358,
+      258,
+      32
+    ],
+    "text": ". of 1951 7",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      579,
+      396,
+      3,
+      18
+    ],
+    "text": "{",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      580,
+      448,
+      2,
+      16
+    ],
+    "text": "i",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93,
+      506,
+      310,
+      25
+    ],
+    "text": ". . Date of Assent: Sopteraber 22, 1951",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      191,
+      637,
+      290,
+      16
+    ],
+    "text": "Printod on the Ordera of Government",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      141,
+      652,
+      320,
+      15
+    ],
+    "text": "and published aa a Supplament to Cevlon Government",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      182,
+      666,
+      236,
+      13
+    ],
+    "text": "Guvetle Pert Hof Sepiember 8, 1952",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      43,
+      792,
+      442,
+      13
+    ],
+    "text": "a Prittad at tho Gernow Govt. Tress. Coumieo. fo ba ~",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      158,
+      806,
+      290,
+      12
+    ],
+    "text": "id ego Ge re es",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      158,
+      820,
+      290,
+      21
+    ],
+    "text": "Hr in eT",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      159,
+      843,
+      424,
+      10
+    ],
+    "text": "vices Se Roa, mgmt, Pent .",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      110,
+      10,
+      335,
+      21
+    ],
+    "text": "Appropriation Act, No. 87 of 1952. 3",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64,
+      42,
+      380,
+      15
+    ],
+    "text": "An ACT TO MAKE FHOVISION FOR THE SERVICE OF THE",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      59,
+      364,
+      14
+    ],
+    "text": "FINANCIAL YEAR 1951-52, 70 AUTHORISE THE PAYMENT",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      72,
+      363,
+      16
+    ],
+    "text": "BY WAY OF ADVANCE OUT OF THE CONSOLIDATED FUND",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      91,
+      364,
+      13
+    ],
+    "text": "OF MONEYS REQUIRED DURING THAT FINANCIAL YEAR",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      106,
+      362,
+      14
+    ],
+    "text": "yor Loan Funp EXxPeNDITure, AND TO PROVIDE FOR",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      121,
+      363,
+      15
+    ],
+    "text": "THB REFUND OF SUCH MONEYS 70 THE CONSOLIDATED",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      140,
+      52,
+      17
+    ],
+    "text": "_ Fup.",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      117,
+      160,
+      422,
+      19
+    ],
+    "text": "[Date of Assent: September 22, 1951.] .",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      187,
+      472,
+      19
+    ],
+    "text": "BE it enacted by the Kings Moat Excellent Majesty, .",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      204,
+      379,
+      15
+    ],
+    "text": "by and with the advice and consent of the Senate and",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64,
+      211,
+      378,
+      27
+    ],
+    "text": "the House of Representatives of Ceylon in this present",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64,
+      235,
+      378,
+      18
+    ],
+    "text": "Parliament assembled, and by the authority of the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64,
+      254,
+      137,
+      15
+    ],
+    "text": "same, as follows:",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      271,
+      438,
+      18
+    ],
+    "text": "4. This Act may be cited as the Appropriation ses tit,",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      290,
+      163,
+      14
+    ],
+    "text": "Act, No. 87 of 1951, -",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      308,
+      442,
+      18
+    ],
+    "text": "2, Without prejudice to any other law authorising appropriation",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      323,
+      457,
+      31
+    ],
+    "text": "gay expenditure, sums not exceeding rupees nine 6.%",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      340,
+      432,
+      14
+    ],
+    "text": "hondred and nineteen million three hundred and toa",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      356,
+      376,
+      15
+    ],
+    "text": "nineteen thousand two hundred and thirty-seven",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      372,
+      378,
+      27
+    ],
+    "text": "in the aggregate are hereby declared to be payable ont",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      387,
+      377,
+      15
+    ],
+    "text": "of the Consolidated Fund for the service of the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      403,
+      434,
+      17
+    ],
+    "text": "financial year beginning on October 1, 1951, and 1",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      419,
+      378,
+      17
+    ],
+    "text": "eoding on September 30, 1932, and the said sums",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      434,
+      377,
+      18
+    ],
+    "text": "may be expended as specified in the First Schedule",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      44,
+      450,
+      68,
+      14
+    ],
+    "text": "+ hereto.",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      469,
+      447,
+      23
+    ],
+    "text": "B. (1) In addition to the sums mentioned in raymec) trom",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      484,
+      463,
+      19
+    ],
+    "text": "section 2, sums not exceeding rupees thres hundred #4, lead,",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      490,
+      432,
+      28
+    ],
+    "text": "and forty-five million three Fundved and thivty-two eae",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      515,
+      455,
+      19
+    ],
+    "text": "thousand nine hundred and thirteen in the aggregate penx. for",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      533,
+      453,
+      28
+    ],
+    "text": "are hereby declared to be payable by way of advance Hej",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      548,
+      376,
+      16
+    ],
+    "text": "out. of the Consolidated Fund, during the financial",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      564,
+      377,
+      18
+    ],
+    "text": "year referred to in that section, for Loan Fund",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      579,
+      376,
+      19
+    ],
+    "text": "Expenditure, and the said sums may be expended as",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      595,
+      278,
+      18
+    ],
+    "text": "specified in the Second Schedule hereto.",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      612,
+      362,
+      17
+    ],
+    "text": "{2) Where the total sum paid under sub-section (1) by",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      628,
+      377,
+      17
+    ],
+    "text": "way of advance during the financial year heginning on",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      51,
+      644,
+      393,
+      17
+    ],
+    "text": ". Ostober 1, 1951, and ending on September 30, 1952.",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      659,
+      376,
+      19
+    ],
+    "text": "has not been refunded to the Consolidated Fuad out of",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      675,
+      376,
+      16
+    ],
+    "text": "the proceeds of any loan authorised to be raised under",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      691,
+      377,
+      17
+    ],
+    "text": "any written law, that sum or so much thereof as has",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      707,
+      378,
+      17
+    ],
+    "text": "not been 20 refunded shail be, and is hereby declared to",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      722,
+      479,
+      18
+    ],
+    "text": "be, chargeable ws if it were expenditure out of the ~",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      738,
+      402,
+      19
+    ],
+    "text": "Consolidated Fand for the service of the financial year *",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      755,
+      379,
+      18
+    ],
+    "text": "heyinning on October 1, 1956, and ending on Septeraber",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      770,
+      465,
+      18
+    ],
+    "text": "30, 1957, in addition to any other sums that may by .",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      786,
+      379,
+      18
+    ],
+    "text": "jaw bo payable, or may by any written law hereafter",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      47,
+      801,
+      399,
+      20
+    ],
+    "text": "iy enacted he declared to be payable, for the service of",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      818,
+      131,
+      16
+    ],
+    "text": "ant Gnancial year,",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      823,
+      296,
+      30
+    ],
+    "text": "1.3 erent 400 AN) ,",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      82,
+      14,
+      474,
+      33
+    ],
+    "text": "TMA RPT ACE NE BY Of BT .",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      272,
+      50,
+      281,
+      9
+    ],
+    "text": "Foss Scaruus .",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      217,
+      69,
+      299,
+      12
+    ],
+    "text": "Sums payable for the Gencrat Services he",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      103,
+      88,
+      432,
+      14
+    ],
+    "text": "Heed 1, Hi Bscalency the Govemor-Generet Vote 1 ey",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      103,
+      100,
+      429,
+      14
+    ],
+    "text": "Hood 3; Paine Minisar Vote 1 Sl appa",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      103,
+      112,
+      429,
+      14
+    ],
+    "text": "Hicad 8 Supreme Court Vote 1. x Sl geitaas",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      103,
+      124,
+      450,
+      14
+    ],
+    "text": "Head 4, Cabinet Ofine Vote L -. x ete",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      103,
+      135,
+      430,
+      15
+    ],
+    "text": "Head , Sonate Vole ws x labman",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      103,
+      147,
+      451,
+      14
+    ],
+    "text": "Head 5, Home of Reprasentalves Vote 1 geolea =",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      103,
+      159,
+      430,
+      14
+    ],
+    "text": "Hand ~ , Fudieil Service Commision Vote 1 ea Ys",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      103,
+      171,
+      429,
+      14
+    ],
+    "text": "Feed &, Publi Sareice Comminian Vote}. eat",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      103,
+      183,
+      430,
+      14
+    ],
+    "text": "Hed 8! avait Ofice Yete 3. = Tl aaelads",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      104,
+      194,
+      429,
+      15
+    ],
+    "text": "Heed Jt iGditer ef Delesee and xtoral Affi Voto 1,840,565",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      104,
+      206,
+      430,
+      14
+    ],
+    "text": "HESG3 [ft Monitor of Delonce und Bsternel Affi Vote 2. 95,000",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      105,
+      218,
+      429,
+      14
+    ],
+    "text": "Bled 1s, Mosler of Delcgee snd Bxtoroal Affairs Vote 8. 36,800",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      105,
+      229,
+      429,
+      15
+    ],
+    "text": "Head 35, Ceylon Datance Vots 1 se wee 18,988,740",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      105,
+      241,
+      429,
+      15
+    ],
+    "text": "Hong 1s; Goyion Detence Vote 2 x cy Baniote",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      105,
+      253,
+      451,
+      15
+    ],
+    "text": "Head 15) Coyion Defence Vole & Z abweee",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      105,
+      264,
+      450,
+      16
+    ],
+    "text": "Hed 16, Sebortment of Extoraat Adaira Abroad Vote 1. e876",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      105,
+      276,
+      450,
+      16
+    ],
+    "text": "Tieed 16; Debactwent of Tneroal Adair Abroad Vote 2 M48.749 |",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      105,
+      288,
+      430,
+      15
+    ],
+    "text": "BE 16; Dektstmont of External Afters Abroad Vote 3 2.008",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      105,
+      300,
+      450,
+      15
+    ],
+    "text": "FSG 16 Defertment of Reteroal Ati Abresd Vote 4 S782,",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      106,
+      311,
+      430,
+      16
+    ],
+    "text": "HIGG 16! Department of Bxtaraa! Asi abroad Voto 6.179.578",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      106,
+      323,
+      430,
+      16
+    ],
+    "text": "Heed 48; Degortnest of Eateraal Ateirs abroad Voto 6 106,728",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      106,
+      335,
+      430,
+      15
+    ],
+    "text": "Head 16: Department af Exteroal ABaire Abroad Vote 7 1se00",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      99,
+      346,
+      437,
+      16
+    ],
+    "text": "HEA] e! Debertment of External Affe Abrosa Vota 8. 193,854",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      106,
+      358,
+      430,
+      16
+    ],
+    "text": "Hand 18, Depottment of Bsteroal Affairs Abroad Vole 9 ti3.070",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      107,
+      369,
+      430,
+      26
+    ],
+    "text": "Hed 16, Depunent of Brora Abin Abed Vote 10, 010",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      107,
+      381,
+      429,
+      16
+    ],
+    "text": "Heed 17, Poles Vole Pm : > anon",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      107,
+      393,
+      430,
+      27
+    ],
+    "text": "Beal 1 Pale Yo Be 2 8.900",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      159,
+      405,
+      377,
+      16
+    ],
+    "text": ") Eomipraten and Bialgestion Departsint Voto 2. ot",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108,
+      411,
+      447,
+      21
+    ],
+    "text": "Heed 10! Miowter of Fingaoe Voto 1 m geet",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108,
+      428,
+      429,
+      17
+    ],
+    "text": "Hood 20, Troseury Vote 2 x 2 ban6e0",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108,
+      440,
+      430,
+      16
+    ],
+    "text": "Heed 20. eowry Vola 2 x x ne",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108,
+      451,
+      430,
+      17
+    ],
+    "text": "Heed 0 Pension Vote 2 = 10,590-768",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      109,
+      463,
+      429,
+      17
+    ],
+    "text": "Heed 22, Public Debt Voto 2... 7 35,600,",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      109,
+      475,
+      428,
+      16
+    ],
+    "text": "Heed 28, Lou Boerd Yon 2. a a0 66",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      109,
+      486,
+      427,
+      17
+    ],
+    "text": "Head 24, Government Stores Voie 1 x Sl 1166736",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      109,
+      498,
+      429,
+      17
+    ],
+    "text": "Heed 21 Government Stores Volo 2 x x 100",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      110,
+      510,
+      428,
+      17
+    ],
+    "text": "Head 24, Government Stores Vate 3 ee . 100",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      110,
+      524,
+      353,
+      15
+    ],
+    "text": "HiEad SE Bepertment of Income Tex, Fatate Duty and Stamos",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      183,
+      533,
+      354,
+      15
+    ],
+    "text": "ote 2 a * aangese",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      110,
+      545,
+      428,
+      17
+    ],
+    "text": "Heed 25, Cuntome Vole En Z Est",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      111,
+      556,
+      427,
+      18
+    ],
+    "text": "Heed af Wiiowe! and. Orphan\" Pension OWics Vote 1 198,008",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      111,
+      559,
+      425,
+      32
+    ],
+    "text": "Fieed 28, Gil Sacvion Volo 1s . maa",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      112,
+      580,
+      426,
+      18
+    ],
+    "text": "Heed 39, feopuntanle Garvie Vole 10 \"aio",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      112,
+      591,
+      426,
+      18
+    ],
+    "text": "Heed 0; Geral Service Voto 1 -- x Stools",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      112,
+      603,
+      426,
+      18
+    ],
+    "text": "BEG A Steaoqapbers Service Vota 1 3e.ee0",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      113,
+      610,
+      426,
+      23
+    ],
+    "text": "Head 32, Typlgta Bervice Vote I on . 18,010",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      112,
+      627,
+      429,
+      28
+    ],
+    "text": "Eel 8, Safe: Sara Vole} :",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      124,
+      642,
+      340,
+      14
+    ],
+    "text": "aed BF, Quast Clerical Service includiog Temporary Certs",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      186,
+      646,
+      354,
+      20
+    ],
+    "text": "Vote 1 im 8 30,000",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      114,
+      662,
+      425,
+      18
+    ],
+    "text": "Head 5, Deyartutct of Censue end Sialntioe Vota 1. 380.74",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      114,
+      673,
+      427,
+      19
+    ],
+    "text": "Weed 58, Department of Information Vote 1. : Tieans",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115,
+      685,
+      426,
+      18
+    ],
+    "text": "Head $7, Goremment Prese Vote 1 x ch sa B84",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115,
+      697,
+      427,
+      18
+    ],
+    "text": "Head 87; Governmeut Press Voto 3 a : \"109",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      116,
+      704,
+      429,
+      23
+    ],
+    "text": "Head 97, Government Press Vote 3 a 7 130,824",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      116,
+      718,
+      427,
+      21
+    ],
+    "text": "Heed 38, Miscellansous Berviess Vote 1 wee 482,000",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      113,
+      730,
+      429,
+      33
+    ],
+    "text": "Bead 28, Miscellaneous Servicer Vote 2 kee eae",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      132,
+      750,
+      390,
+      11
+    ],
+    "text": "ed 86, Micelancms Services Vole 8 oa,",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      118,
+      755,
+      424,
+      17
+    ],
+    "text": "Head 09 Minellncave Services Yate 4, i Zenlove",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      173,
+      10,
+      365,
+      19
+    ],
+    "text": "Appropriation Act, No. 97 of 1951. 8",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      372,
+      36,
+      139,
+      13
+    ],
+    "text": ". . Be",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66,
+      55,
+      478,
+      16
+    ],
+    "text": "Hand 88, Miscollaneous Sorvices Vote 5... sex 9,800,000 -",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66,
+      68,
+      471,
+      16
+    ],
+    "text": "Hond 40, Minister of Justice Vote 1 = 7 'gus\\967",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66,
+      81,
+      471,
+      15
+    ],
+    "text": "Hend 40, Minister of Justice Vote 2 x co esg7e",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66,
+      94,
+      472,
+      15
+    ],
+    "text": "Hoad 42, Attoray-General Vote 1 x Tl ae,6an",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66,
+      107,
+      472,
+      16
+    ],
+    "text": "Hoad 42, Legal Drofteman Vote 1 m ager",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66,
+      119,
+      503,
+      17
+    ],
+    "text": "Head 43, Pobiie Trustee Voto 1 = Tl aonge0 +",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67,
+      133,
+      472,
+      15
+    ],
+    "text": "Head 44, Judicin] Service Vote 2 a Tl 55,896",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67,
+      146,
+      472,
+      16
+    ],
+    "text": "Head 44, Judicial Sorvice Vote 2 = TZ 90,000",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67,
+      159,
+      472,
+      16
+    ],
+    "text": "Head 45, Diettict Court Vote 1 ~ Cl 9081138",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      68,
+      172,
+      471,
+      16
+    ],
+    "text": "Head 46, Courts of Hequesta and Magistrates Courts Vote 1. 1,709,585",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67,
+      185,
+      472,
+      16
+    ],
+    "text": "Head 47, Roral Courts Vote 2... ~ Cl prnsea",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67,
+      198,
+      472,
+      16
+    ],
+    "text": "Bead 48, Fisenls Vote 1 x = <r alver.z02",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      68,
+      213,
+      391,
+      15
+    ],
+    "text": "fiend 49, Compensation Claims and Compensation Tribunals",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      148,
+      225,
+      392,
+      13
+    ],
+    "text": "Yate 1 - - ve 64,080",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      68,
+      239,
+      480,
+      15
+    ],
+    "text": "Head 49, Compensation , Claims and Compensation Tribunals .",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      148,
+      251,
+      392,
+      13
+    ],
+    "text": "Vote 3 we a a 5,980",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      69,
+      265,
+      391,
+      14
+    ],
+    "text": "Head 50, Minister of Home Alfairs and Rural Development",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      148,
+      277,
+      392,
+      13
+    ],
+    "text": "Vote 1 se a 884,707",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      69,
+      292,
+      391,
+      13
+    ],
+    "text": "Head 50, Miniter of Home AGairs- and Ruri Development",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      148,
+      303,
+      392,
+      13
+    ],
+    "text": "Vata 3 os a <= _, 990,000",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      68,
+      317,
+      472,
+      14
+    ],
+    "text": "Head 51, Provincial Administration Vote 11.) 16,858,689",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      69,
+      330,
+      471,
+      15
+    ],
+    "text": "Hiend 52, ixeise Departiment Vote 1 = 3,664,900",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      68,
+      342,
+      490,
+      16
+    ],
+    "text": "Head 52; Excise Department Vote 4 = 2 10",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      69,
+      356,
+      472,
+      15
+    ],
+    "text": "Head 52, Bxaiee Department Vote 9 2 m 10",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      69,
+      369,
+      472,
+      15
+    ],
+    "text": "Head 63, Depnriment of Prisons und Probation Vote 1... 6,829,600",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70,
+      382,
+      471,
+      15
+    ],
+    "text": "Head 53, Department of Prisons and Probation Vole 2... 100",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      69,
+      395,
+      473,
+      15
+    ],
+    "text": "Head 54, Government Analyst Vole 1... Tl 499,950",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      69,
+      408,
+      472,
+      15
+    ],
+    "text": "Head 55, Zoological Gardens Voio 1 = > 330.877",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70,
+      421,
+      472,
+      16
+    ],
+    "text": "Head 58, Regisirer-Generol Vote 1 = ct %,801,080",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      69,
+      434,
+      473,
+      15
+    ],
+    "text": "Head 51, Department of Purliamentary Blections Vote 1. 374,600",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70,
+      447,
+      472,
+      17
+    ],
+    "text": "Head 58, Department of Rural Development Vote 1 3,078,604",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70,
+      461,
+      390,
+      14
+    ],
+    "text": "Head 69, Commissioner for the. Registration of Tadian and",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      146,
+      474,
+      396,
+      12
+    ],
+    "text": "Pakistani Residents Votes 1 - 754,368",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70,
+      486,
+      472,
+      15
+    ],
+    "text": "Heed 06, Minintor of Agriculture and Lends Vote 1 Xl yaa7as",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70,
+      499,
+      471,
+      15
+    ],
+    "text": "Heed 07, Land Commissioner Vote 1 o Cl 2,868,681",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70,
+      512,
+      472,
+      15
+    ],
+    "text": "Head 87, Land Commissioner Vole 3 2 ~ aaiaes; 120",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70,
+      525,
+      472,
+      15
+    ],
+    "text": "Head 68, Lond Seitlement Department Vote 1 -.. sagen",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71,
+      538,
+      471,
+      16
+    ],
+    "text": "Head 69, Department of Meteorology Vote 1. 1,880,481",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70,
+      551,
+      472,
+      16
+    ],
+    "text": "Hand 70, Survey Department Vote 1 a graded",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70,
+      564,
+      471,
+      16
+    ],
+    "text": "Head TL, Department of Agrioulbure Vote 1 *.. Sl aeig775a0",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70,
+      577,
+      472,
+      15
+    ],
+    "text": "Head 72, Forest Deportment Vote 1 om 8,657,182",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71,
+      590,
+      472,
+      15
+    ],
+    "text": "Head 72, Foreat Depariment Vote 2 om a 100",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      65,
+      603,
+      478,
+      15
+    ],
+    "text": "+Head 72, Forest Department Vote 8 x = 300",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70,
+      606,
+      473,
+      31
+    ],
+    "text": "Mend 7%, Irrigation Department Vote 2 am 9,206,339",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71,
+      629,
+      472,
+      17
+    ],
+    "text": "Head 78, Irrigotion Department Volo 3 |. <i _$:080,000",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71,
+      642,
+      472,
+      16
+    ],
+    "text": "oad 78; Irvigation Department Vote 8 *.. Tl 18,692,600",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73,
+      655,
+      469,
+      15
+    ],
+    "text": "Head 74, Valuation Department Vote 1. \"605,62",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71,
+      668,
+      471,
+      15
+    ],
+    "text": "Hes! 75, Commissioner Agricultural Corps Voto 1 So iga\\sor",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72,
+      680,
+      471,
+      26
+    ],
+    "text": "Rent 75, Gommiaianee Ageaaltral Corps Vote 2 .\"e90'000",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72,
+      693,
+      469,
+      17
+    ],
+    "text": "Head 76. Department of Land Development Vote 1 4,998,541",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72,
+      706,
+      471,
+      17
+    ],
+    "text": "Head 77, Debs Conciliation Board Vote 1... 50,668",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72,
+      719,
+      471,
+      17
+    ],
+    "text": "Mead 78, Department of Wild Lite Vata 1... Tl. 876.0",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72,
+      732,
+      471,
+      16
+    ],
+    "text": "ond 70, Minister of Food and Co-operative Undertakings Vote 1 182.839",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73,
+      736,
+      470,
+      35
+    ],
+    "text": "Hand 60, Food Commiowioner (Contral snd Diotribaiion) Vote 1 2,136.560",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73,
+      757,
+      470,
+      18
+    ],
+    "text": "Hlend 81, Food Commissionor (Supplies) Vote 1... - ev 161,000,000",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73,
+      770,
+      470,
+      17
+    ],
+    "text": "Tlond \"BL: Food Commissioner (Supplies) Vote 2 2 \"5,091,508",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73,
+      783,
+      470,
+      18
+    ],
+    "text": "Head 81, Food Commissioner (Guppliaa) Vote 8 TZ \"soq000",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      74,
+      795,
+      469,
+      19
+    ],
+    "text": "Head 82, Registrar of Co-operotive Societies Vote 1 I 5,078,908",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      49,
+      808,
+      494,
+      19
+    ],
+    "text": "Hond 62, Registrar of Co-operative Societies Vote 2 = 100",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      74,
+      821,
+      469,
+      19
+    ],
+    "text": "Hlend 82; Registrar of Co-operation Bocioties Vote 8 = 300",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      96,
+      12,
+      347,
+      21
+    ],
+    "text": "Appropriation Tet, No. 97 of 1657.",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      252,
+      42,
+      277,
+      11
+    ],
+    "text": ": Re.",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      96,
+      58,
+      453,
+      14
+    ],
+    "text": "Heod 88, Gomtnimioner of Co-operative Development Vote 1. 681,604",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      96,
+      71,
+      453,
+      13
+    ],
+    "text": "Heed 88, Commissioner af Co-operative Development Vote 3 -.. 100",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      91,
+      83,
+      459,
+      14
+    ],
+    "text": "<Head 88, Commissioner of Co-operative Development Vate $<, 1,688,000",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      96,
+      96,
+      453,
+      13
+    ],
+    "text": "Heed 87, Minister of Health and Local Government Vole 1. 205,022",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      96,
+      108,
+      454,
+      14
+    ],
+    "text": "Head 68, Metical and Sanitary Services Yoto 1 \"88,880,585",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      96,
+      121,
+      454,
+      13
+    ],
+    "text": "Head 68, Medical and Sanitary Services Vote 2 \"68571000",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      96,
+      133,
+      454,
+      14
+    ],
+    "text": "Hoad 88, Mediosl and Sanitary Services Vote 8 \"970,080",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      96,
+      146,
+      454,
+      14
+    ],
+    "text": "Head 9, Quarantine Vote 1. a 1,288,839",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      97,
+      158,
+      454,
+      15
+    ],
+    "text": "Head 90, Indigenous Medicine Vote 1 I Less.ees",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      97,
+      170,
+      454,
+      14
+    ],
+    "text": "Heed @1, Commissioner of Local Government Vote 1 2 Leer7es",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      97,
+      183,
+      454,
+      14
+    ],
+    "text": "eed 91, Commissioner af Local Government Yate 2 \"981845, 750",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      97,
+      195,
+      454,
+      15
+    ],
+    "text": "Heed 2; Depariment of Town and Country Planning Vole 1... 807.248",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      97,
+      208,
+      454,
+      15
+    ],
+    "text": "Head 88, Department of Elections (Local Bodies) Vote 1 <:. 3,368,689",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      97,
+      220,
+      454,
+      14
+    ],
+    "text": "Yeod $4, Local Goverament Service Commision Vote 1. 260,187",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      97,
+      232,
+      454,
+      15
+    ],
+    "text": "Head 99, Mivister of Eduostion Vote 1 sigs",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      98,
+      245,
+      454,
+      14
+    ],
+    "text": "Head 90, Minister of Eduoation Vote 2001. gees",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      98,
+      257,
+      453,
+      15
+    ],
+    "text": "Hisad 09, Minister of Evcstion Vote 8. lo 1o9'gs1",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      98,
+      270,
+      454,
+      14
+    ],
+    "text": "Heed 100, Grant to the University of Ceylon Vote 1 5,500,000",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      98,
+      282,
+      455,
+      15
+    ],
+    "text": "Head 101, Education Department Vote 1. cl 4,981,288",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      98,
+      294,
+      454,
+      15
+    ],
+    "text": "Head 101, Education Department Vote 2 0 .. I es'g7riase",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      98,
+      306,
+      455,
+      15
+    ],
+    "text": "Head YOL, Education Department Yots $0. Il 49,676,070",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      98,
+      319,
+      455,
+      15
+    ],
+    "text": "Weed 101, Education Department Vote 2 11}66.485",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      99,
+      325,
+      454,
+      22
+    ],
+    "text": "Heed 102, Department of National Museums Voie 1 Mgt 266",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      99,
+      343,
+      455,
+      16
+    ],
+    "text": "Heed 108; Depertment of Government Archivist Vote 1 9... + | 257,168",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      98,
+      356,
+      456,
+      15
+    ],
+    "text": "Head 104, Arebeological Department Vate 1... ve 208,738",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      99,
+      368,
+      455,
+      16
+    ],
+    "text": "Head 105, Ceplon Technical College Department Vote 1 \" arudoe9",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      100,
+      380,
+      454,
+      16
+    ],
+    "text": "Heed 106, Educational Publicstious Board Vote 7\" 9.454",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      99,
+      393,
+      453,
+      16
+    ],
+    "text": "Head 107, Department of Examinations Vote J ... Cl 4,ganga1",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      100,
+      405,
+      454,
+      16
+    ],
+    "text": "Heed 108, Certified Schools Vote 1 n cl \"g4s.190",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      100,
+      418,
+      454,
+      15
+    ],
+    "text": "Heed 109, Minister of Labour and Sovisl Services Vote 1: 161,244",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      99,
+      430,
+      481,
+      16
+    ],
+    "text": "Head 110, Commissioner of Labour Vota 1. Tl ses092 4",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      100,
+      442,
+      454,
+      17
+    ],
+    "text": "Head 121, Department of Social Services Vote T Sl 18,239)671",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      101,
+      454,
+      454,
+      17
+    ],
+    "text": "Heed 116, Minister of Commeres nnd Trade Vote 1 Cr r95.880,",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      100,
+      467,
+      455,
+      17
+    ],
+    "text": "Heed 117, Department of Commerce Vote 1... Tl 456,000",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      100,
+      479,
+      455,
+      17
+    ],
+    "text": "Heed 118, Depertment of Registrar of Companies Vole 1 9... 201,157",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      100,
+      491,
+      455,
+      17
+    ],
+    "text": "Head 119, Government Tourist Bureau Vote 1... Sl 4asiago",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      101,
+      504,
+      454,
+      17
+    ],
+    "text": "Head 120, Department of The Rubber Commissioner Vote 1. 80,600",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      101,
+      516,
+      454,
+      18
+    ],
+    "text": "Hood 121; Department of Control of Imporia and Exports Vote 1 265,487",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      101,
+      528,
+      455,
+      18
+    ],
+    "text": "Head 122, Marketing Department Vole 1. ve 822,580",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      101,
+      541,
+      455,
+      17
+    ],
+    "text": "Heed 122; Marketing Department Vote 3. Ty 164,300",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      101,
+      555,
+      375,
+      15
+    ],
+    "text": "Hond 181, Minister of Industries, Industrial Research and",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      179,
+      565,
+      377,
+      16
+    ],
+    "text": "Fisheries Vote 1... oe me 7 87.870",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      102,
+      578,
+      460,
+      18
+    ],
+    "text": "Heed 182, Dopartment of Industries Vote 1. Tl 9,776,805 -",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      102,
+      590,
+      455,
+      18
+    ],
+    "text": "Head 182, Departmant of Industries Vote 2 =. + OD \"va6.en0",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      102,
+      602,
+      455,
+      19
+    ],
+    "text": "Head 188, Depariment of Fisheries Vote 2 =. TI 1,803,008",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      102,
+      615,
+      455,
+      18
+    ],
+    "text": "Hend 188, Department of Fisheries Vote 2. n 200",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      103,
+      627,
+      454,
+      18
+    ],
+    "text": "Head 109, Minister of Posts and Telocommunicationa Vote I ::. 160,648",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      104,
+      640,
+      452,
+      17
+    ],
+    "text": "Seed 140, Postal wad Telecommunication Services Voto 2... 99,888,561",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      103,
+      652,
+      454,
+      17
+    ],
+    "text": "Head 140, Postal apd Telecommunication Services Voie 2. 180",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      104,
+      664,
+      453,
+      18
+    ],
+    "text": "Head 140, Postal and Teleoommounicetion Services Vote 5 -.. S7.200",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      104,
+      677,
+      454,
+      17
+    ],
+    "text": "Head 140, Postal ond Telecomaueication Services Vote 4 <.. 3,038,800",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      104,
+      689,
+      453,
+      18
+    ],
+    "text": "Heed 141, Nations! Savings Movement Volo 1... Il Varo.esa",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      105,
+      701,
+      453,
+      19
+    ],
+    "text": "Heed 142, Department of Broadeatting Vote 1. CD 1,968.687",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      105,
+      714,
+      453,
+      18
+    ],
+    "text": "Head 142, Department of Broadossting Vote 2... Sl npa.ere",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      106,
+      726,
+      452,
+      18
+    ],
+    "text": "Head 143, Department of Broadoasting Vote 8 ... oe 10",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      105,
+      738,
+      453,
+      19
+    ],
+    "text": "lend 142; Department af Brondcasting Vole 4... x 100",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      106,
+      751,
+      452,
+      26
+    ],
+    "text": "Head 142, Depactmans, of Brondcasting, Vote 6 lo aao2n",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      106,
+      763,
+      471,
+      18
+    ],
+    "text": "Head 144, Minister of Transport and Works Vote 1 gas",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      78,
+      775,
+      502,
+      20
+    ],
+    "text": "| Head 145, Boblio Works Department Vole 1. I 4,002,688 ~",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108,
+      788,
+      451,
+      17
+    ],
+    "text": "lead 145, Publi Works Depariment Vote 2. cn 2,978,860",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      186,
+      25,
+      335,
+      18
+    ],
+    "text": "Apprnpriation Act, No, 87 of 1951. 7",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      479,
+      51,
+      16,
+      9
+    ],
+    "text": ".",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90,
+      66,
+      429,
+      15
+    ],
+    "text": "Feud 145, Publio Works Deparkient Vote & |. a 95,520,068",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90,
+      78,
+      429,
+      14
+    ],
+    "text": "Heed 148, Comiesioner of Motor Transporb Vole 1 gone",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      89,
+      90,
+      430,
+      14
+    ],
+    "text": "Hond 147, Cie Aviation Vole Z-.. i Tl pe7.168",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      88,
+      102,
+      429,
+      14
+    ],
+    "text": "Head 148, Colombo Port Commission Vote 1... Th 183487761",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      89,
+      114,
+      429,
+      14
+    ],
+    "text": "Hleed 148, Borta otber than Colombo Vote 1, co aeal ay",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90,
+      125,
+      429,
+      15
+    ],
+    "text": "Hend 250, Coast Lights Vate 1 ... on - 186,338",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      89,
+      137,
+      430,
+      15
+    ],
+    "text": "Head 161, Runniog Expenses of Salvage Schame Vote 2 ~ 100",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      89,
+      149,
+      430,
+      15
+    ],
+    "text": "Heod 182, Baafo Teobmicel Trainiog Tastitute Vote 1 Tl 309.988",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      89,
+      161,
+      430,
+      15
+    ],
+    "text": "Head 169, Roilwey Voto 1 w ae Tl yes77.080",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90,
+      173,
+      429,
+      15
+    ],
+    "text": "Head 153, Beitwey Voie 2. n mT ersdo0",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      89,
+      185,
+      430,
+      15
+    ],
+    "text": "Head 188, Hoilway Volo 31, x m i",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      89,
+      197,
+      430,
+      14
+    ],
+    "text": "Head 164; Blectrizal Department Vole 1. assa440",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90,
+      209,
+      429,
+      14
+    ],
+    "text": "Head 167, Minister of State Vote 1 oe 68,507",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      384,
+      232,
+      136,
+      11
+    ],
+    "text": "TOTAL ... 919,810,207",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      258,
+      262,
+      96,
+      9
+    ],
+    "text": "row Somous",
+    "mean_p_confidence": 0.0
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      243,
+      278,
+      126,
+      11
+    ],
+    "text": "Lean Fund Reponditura",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90,
+      295,
+      429,
+      15
+    ],
+    "text": "Volo 4, Minitny of Defence and External Affi v= 2,800,000",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      91,
+      307,
+      428,
+      14
+    ],
+    "text": "Vola 2, Ministry of Finance. -- TL avessolo",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      91,
+      319,
+      428,
+      14
+    ],
+    "text": "Vote 8 Ministry of Home Afaire and Roral Development . 8.099.296",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90,
+      330,
+      429,
+      15
+    ],
+    "text": "Vote 4 Ministey of Tustin. = Tl 3ioa0900",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      91,
+      342,
+      428,
+      15
+    ],
+    "text": "Vole 6, Miaitry of Agriculture asd Tends TT rgolata, sea",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      91,
+      354,
+      428,
+      15
+    ],
+    "text": "Yolo 8 Mivistry of Health ond Losal Government cS aa48%",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      91,
+      366,
+      428,
+      15
+    ],
+    "text": "Vote 1, Minutry of Edueetian ... a I aai2zeeo0",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      91,
+      378,
+      428,
+      14
+    ],
+    "text": "Vole 8, Minitey of Commercs sod Trade. Tease",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      91,
+      390,
+      428,
+      14
+    ],
+    "text": "Vote 9! Miniotey of Inductries, Induetvial Rosearch end Fisheries 2,006,223",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      91,
+      401,
+      428,
+      15
+    ],
+    "text": "Yote 10) Minintey of Posts and Telecommunications ce 705,420",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      91,
+      413,
+      428,
+      15
+    ],
+    "text": "Vote i, Miniotry of Transport and Worka Sr adinos'st0",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      91,
+      425,
+      428,
+      15
+    ],
+    "text": "Velo 13,\" Ministry of Labour aad octal Servioes X elao/o00",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      91,
+      437,
+      428,
+      15
+    ],
+    "text": "Vote 1m, Ministry of Food end Co-operative Undertakings 1,161,200",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      75,
+      460,
+      445,
+      11
+    ],
+    "text": ". TOTAL ... 046,008,018",
+    "mean_p_confidence": 0.4
+  }
+]

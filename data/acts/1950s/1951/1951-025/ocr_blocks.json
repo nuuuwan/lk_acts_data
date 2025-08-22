@@ -1,0 +1,2290 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      35,
+      14,
+      506,
+      29
+    ],
+    "text": ". PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      32,
+      58,
+      520,
+      56
+    ],
+    "text": ": 5th Session 1951 Von eo:",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      33,
+      98,
+      535,
+      14
+    ],
+    "text": ": KEE a.",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      32,
+      109,
+      540,
+      37
+    ],
+    "text": "& RE ee NE",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      306,
+      123,
+      271,
+      22
+    ],
+    "text": "Rpver pat ee 2",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      240,
+      133,
+      337,
+      29
+    ],
+    "text": "Peary 2 yells",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      34,
+      141,
+      542,
+      88
+    ],
+    "text": ": roa a",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      254,
+      187,
+      284,
+      69
+    ],
+    "text": "Dee Dan Nera",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      141,
+      309,
+      361,
+      34
+    ],
+    "text": "Soil Conservation Act,",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      196,
+      355,
+      247,
+      29
+    ],
+    "text": "No. 25 of 1951",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      32,
+      458,
+      9,
+      22
+    ],
+    "text": "{",
+    "mean_p_confidence": 0.08
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      218,
+      498,
+      350,
+      16
+    ],
+    "text": "Date of Assent : August 13, 1951 .",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      203,
+      635,
+      362,
+      16
+    ],
+    "text": "Printed on the Orders of Government .",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      141,
+      766,
+      356,
+      19
+    ],
+    "text": "Printed at the Cron Govr. Press, Covomuo, To be",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      151,
+      785,
+      346,
+      12
+    ],
+    "text": "Pied Jie, Coen Gor. Pe: Soc, tbe",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      50,
+      799,
+      429,
+      22
+    ],
+    "text": "Rael en tes ie 2 get",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      32,
+      814,
+      465,
+      19
+    ],
+    "text": ", Somme, Post Ovviez Bon 860, Secretariat, Colombe",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      159,
+      842,
+      339,
+      12
+    ],
+    "text": "Price 18 cent Postager ent",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      95,
+      14,
+      371,
+      17
+    ],
+    "text": ". Soil Conservation Act, No, 26 of 1951. 1",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      42,
+      102,
+      11
+    ],
+    "text": "EDO. 25/60,",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      36,
+      56,
+      430,
+      22
+    ],
+    "text": "| Ax Act 10 MAKE PROVISION FOR THE CONSERVATION OF",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      36,
+      83,
+      429,
+      13
+    ],
+    "text": "1 SOIL RESOURCES, FOR THE PREVENTION OR MITIGA-",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      109,
+      100,
+      356,
+      15
+    ],
+    "text": "TION OF SOIL EROSION AND FOR THE PROTECTION OF",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      109,
+      117,
+      362,
+      11
+    ],
+    "text": "LAND AGAINST DAMAGE BY FLOODS AND DROUGHT,",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      37,
+      144,
+      365,
+      20
+    ],
+    "text": "H . (Date of Assent: August 13, 1051.}",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93,
+      175,
+      371,
+      37
+    ],
+    "text": "BE* it enacted by the Kings Most Excellent",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      186,
+      387,
+      42
+    ],
+    "text": "Majeaty, by and with the advice and consent of the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      36,
+      210,
+      427,
+      19
+    ],
+    "text": "; Senate and the House of Representatives of Ceyion",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      226,
+      386,
+      19
+    ],
+    "text": "in this present Parliament essembled, and by the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      243,
+      259,
+      17
+    ],
+    "text": "authority of the same, as follows :",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92,
+      275,
+      440,
+      18
+    ],
+    "text": "4, This Act may be cited as the Soil Conservation short title,",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      36,
+      291,
+      189,
+      15
+    ],
+    "text": "' Aet, No. 25 of 1981.",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      324,
+      446,
+      23
+    ],
+    "text": "2. (1) It shall be the duty of the Director to cause Sorveye end",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      332,
+      484,
+      42
+    ],
+    "text": "sutveys and investigations to be made for the porpooes ipreainntions es",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      355,
+      466,
+      18
+    ],
+    "text": "of ascertaining the nature end extent of soil erosion exteat of soil",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      371,
+      439,
+      19
+    ],
+    "text": "and of damage to land by foods and droughts, and of \"=",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      388,
+      385,
+      14
+    ],
+    "text": "enabling the Minister to determine the areas which",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      392,
+      384,
+      26
+    ],
+    "text": "should be declared under this Act. to be erodible areas.",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118,
+      427,
+      412,
+      18
+    ],
+    "text": "For the purposes of any survey or investigation .",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      36,
+      424,
+      423,
+      43
+    ],
+    "text": "f calrled out under sub-section (2), it shall be Tewful",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      40,
+      459,
+      419,
+      19
+    ],
+    "text": "- for any officer authorised in writing by the Director",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      476,
+      384,
+      18
+    ],
+    "text": "in that behalf to enter and inspect any land at any",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      482,
+      385,
+      28
+    ],
+    "text": "reasonable time, together with such other persons as",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      507,
+      496,
+      19
+    ],
+    "text": "he may require, and to carry out thereon all such .",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      524,
+      346,
+      18
+    ],
+    "text": "examinations and inquiries as may be necessary.",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      561,
+      454,
+      29
+    ],
+    "text": "8 The Minister may by Order published in the Desteratin of",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      566,
+      470,
+      44
+    ],
+    "text": "Gazette declare any aren dened in the Order to be on beste",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      592,
+      312,
+      18
+    ],
+    "text": "erodible area for the purposes of this Act.",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88,
+      629,
+      463,
+      22
+    ],
+    "text": "4. The Minister may make regulations, to be Raguatons for",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      630,
+      471,
+      37
+    ],
+    "text": "applicable either generally in all erodible areas, or eres",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      661,
+      287,
+      18
+    ],
+    "text": "specially in any specified erodible area",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      105,
+      684,
+      351,
+      17
+    ],
+    "text": "(@) requiring the owners of land to take measures",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      152,
+      700,
+      303,
+      17
+    ],
+    "text": "designed to prevent or control soil erosion,",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      152,
+      716,
+      304,
+      17
+    ],
+    "text": "including measures for the afforestation of",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      152,
+      732,
+      303,
+      14
+    ],
+    "text": "aonrees of streams and of the banks of",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      151,
+      748,
+      304,
+      17
+    ],
+    "text": "streams, for the reservation of a prescribed",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      151,
+      764,
+      304,
+      17
+    ],
+    "text": "width of land free of cultivation along the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      151,
+      780,
+      304,
+      16
+    ],
+    "text": "banke of streams, for the conservation of",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      150,
+      796,
+      305,
+      17
+    ],
+    "text": "vegetation along the banks of atreams, for",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      151,
+      812,
+      303,
+      18
+    ],
+    "text": "the training of streams by means of check",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      150,
+      828,
+      305,
+      17
+    ],
+    "text": "dams or otherwise, and for the erection of",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      150,
+      845,
+      435,
+      17
+    ],
+    "text": "contour ridges or terraces; :",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      97,
+      863,
+      75,
+      10
+    ],
+    "text": "Jo seca ony",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      151,
+      12,
+      330,
+      16
+    ],
+    "text": "2 Soil Cansercation Act. No. 25 of 1951.",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      184,
+      34,
+      354,
+      40
+    ],
+    "text": "prohibiting or restricting the clean weeding",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      230,
+      57,
+      309,
+      19
+    ],
+    "text": "of land or other agricultural practices",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      231,
+      74,
+      181,
+      13
+    ],
+    "text": "conducive to soil erosion:",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      183,
+      98,
+      403,
+      18
+    ],
+    "text": "(1 restricting the use of land for agricultural or",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      231,
+      111,
+      308,
+      37
+    ],
+    "text": "pastoral purposes, where such restriction",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      232,
+      131,
+      308,
+      17
+    ],
+    "text": "is necessary for the purpose of preventing",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      231,
+      148,
+      309,
+      17
+    ],
+    "text": "or controlling soil erosion or of protecting",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      232,
+      163,
+      236,
+      16
+    ],
+    "text": "the sources and banks of streams;",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      184,
+      188,
+      356,
+      17
+    ],
+    "text": "(@) prohibiting or controlling the exploitation of",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      233,
+      204,
+      307,
+      17
+    ],
+    "text": "forest and grass land resources in the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      233,
+      216,
+      353,
+      37
+    ],
+    "text": "interests of soil conservation or, for the '",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      233,
+      237,
+      353,
+      16
+    ],
+    "text": "purpose of reducing the danger of fires or =|",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      233,
+      241,
+      195,
+      29
+    ],
+    "text": "Ef damage caused thereby;",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      186,
+      277,
+      355,
+      17
+    ],
+    "text": "() authorising any prescribed officer or person to",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      233,
+      293,
+      308,
+      18
+    ],
+    "text": "give directions for seasonal or periodical",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      234,
+      305,
+      307,
+      37
+    ],
+    "text": "changes in the type or nature of crops culti-",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      233,
+      325,
+      309,
+      17
+    ],
+    "text": "vated. or for the adoption or alteration of",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      234,
+      342,
+      308,
+      18
+    ],
+    "text": "cultivation practics for the purpose of",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      234,
+      358,
+      204,
+      16
+    ],
+    "text": "promoting soil conservation.",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      56,
+      395,
+      486,
+      22
+    ],
+    "text": "Asani of 5. Where the Minister is satisfied that any land in",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      56,
+      409,
+      486,
+      21
+    ],
+    "text": "jean awed any eradible area should be withdrawn from cultiva-",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      56,
+      427,
+      529,
+      18
+    ],
+    "text": "eu mere tion or that any measures designed to prevent or reduce",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      56,
+      437,
+      530,
+      40
+    ],
+    "text": "Peer arene. erosion should be taken on or with respect to any auch |",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      154,
+      460,
+      389,
+      17
+    ],
+    "text": "land by the Government, the Minister may declare",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      155,
+      476,
+      388,
+      17
+    ],
+    "text": "that the land is needed for a public purpose; and upon",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      154,
+      477,
+      389,
+      37
+    ],
+    "text": "such declaration being made, the \"Tend shall be",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      155,
+      508,
+      388,
+      16
+    ],
+    "text": "acquired under the Land Acquisition Act, No. 9 of",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      156,
+      513,
+      387,
+      29
+    ],
+    "text": "1950, and the provisions of hat Act (other than the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      156,
+      540,
+      388,
+      17
+    ],
+    "text": "provisions of sections 2 and 3 thereof) shail apply",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      156,
+      557,
+      85,
+      16
+    ],
+    "text": "accordingly.",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      58,
+      582,
+      486,
+      35
+    ],
+    "text": "Seer 6. The Minister may make regulations for or in",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      68,
+      606,
+      438,
+      21
+    ],
+    "text": "@ 7 respect of all or any of the following matters:",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      191,
+      635,
+      354,
+      18
+    ],
+    "text": "(a) the measures to be taken by owners of land",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      239,
+      651,
+      306,
+      18
+    ],
+    "text": "for the purposos of the preservation and",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      239,
+      668,
+      306,
+      17
+    ],
+    "text": "promotion of soil fertility and of facili-",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      239,
+      684,
+      307,
+      29
+    ],
+    "text": "tating the absorption of moisture by the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      240,
+      704,
+      29,
+      11
+    ],
+    "text": "soil;",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      193,
+      724,
+      353,
+      19
+    ],
+    "text": "() the measures to be taken by owners of land",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      36,
+      733,
+      511,
+      41
+    ],
+    "text": "for the pizpose of preventing or reducing",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      240,
+      757,
+      264,
+      17
+    ],
+    "text": "or remedying damage by soil erosion;",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      193,
+      780,
+      354,
+      19
+    ],
+    "text": "{c) the control of the grazing of animals in so far",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      35,
+      797,
+      551,
+      29
+    ],
+    "text": "1 ag grazing interferes with the cultivation}",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      36,
+      806,
+      512,
+      40
+    ],
+    "text": "t of land or ia likely to reduce soil fertility",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      241,
+      829,
+      301,
+      19
+    ],
+    "text": "or to be conducive to damage by soil",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      241,
+      849,
+      55,
+      12
+    ],
+    "text": "erosion;",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      117,
+      21,
+      335,
+      17
+    ],
+    "text": "Soil Conservation Act, No. 25 af 1961. 3",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      97,
+      50,
+      355,
+      19
+    ],
+    "text": "(2) the control of floods and of the effects of",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      145,
+      67,
+      307,
+      28
+    ],
+    "text": "drought by means of provision requiring",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      145,
+      72,
+      299,
+      27
+    ],
+    "text": "the diversion of water or the storage o",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      38,
+      99,
+      531,
+      21
+    ],
+    "text": ", water, and the correlation of measures .",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      43,
+      116,
+      408,
+      17
+    ],
+    "text": "- designed to control fioods and conserve",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      144,
+      132,
+      306,
+      16
+    ],
+    "text": "water with measures taken by local",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      145,
+      148,
+      199,
+      17
+    ],
+    "text": "authorities for the purpose;",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      97,
+      172,
+      353,
+      18
+    ],
+    "text": "() the prohibition or restriction of the burning",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      144,
+      188,
+      306,
+      20
+    ],
+    "text": "of grass Iand and of the spread of fire",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      145,
+      205,
+      208,
+      17
+    ],
+    "text": "during the burning of chenes;",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      97,
+      233,
+      353,
+      19
+    ],
+    "text": "(f) the specification of the times of tillage and",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      145,
+      249,
+      304,
+      17
+    ],
+    "text": "irrigation and of the methods of irrigation",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      145,
+      265,
+      305,
+      17
+    ],
+    "text": "in specified areas in order to ensure the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      144,
+      282,
+      227,
+      14
+    ],
+    "text": "economic use of available water;",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      97,
+      309,
+      352,
+      17
+    ],
+    "text": "(g) the authorisation of any prescribed officer or",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      145,
+      326,
+      304,
+      17
+    ],
+    "text": "person, to give directions for seasonal or",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      38,
+      342,
+      411,
+      28
+    ],
+    "text": ". Periodical changes in the type or nature",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      144,
+      358,
+      305,
+      17
+    ],
+    "text": "of crops cultivated, or for the adoption or",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      145,
+      373,
+      303,
+      30
+    ],
+    "text": "alteration of cultivation practices for the",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      145,
+      390,
+      287,
+      17
+    ],
+    "text": "purpose of promoting eoil conservation;",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      97,
+      418,
+      351,
+      17
+    ],
+    "text": "{h) the cambering and cross-draining of roads and",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      145,
+      434,
+      304,
+      29
+    ],
+    "text": "paths undior the control of any Government",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      38,
+      447,
+      410,
+      36
+    ],
+    "text": ", : epartment or local authority and the",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      38,
+      466,
+      421,
+      17
+    ],
+    "text": "- prohibition or control of the scouring of -",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      145,
+      482,
+      199,
+      15
+    ],
+    "text": "drains and water-channels;",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      98,
+      510,
+      351,
+      17
+    ],
+    "text": "( any matter in this Act stated or required to",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      145,
+      527,
+      96,
+      16
+    ],
+    "text": "be prescribed.",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      81,
+      566,
+      457,
+      17
+    ],
+    "text": "7. (1) Where the owner of any land is required by tesa te eveer",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      65,
+      580,
+      478,
+      21
+    ],
+    "text": "any regulation made under this Act to take any Nawed'te the",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      60,
+      596,
+      479,
+      33
+    ],
+    "text": "Measures \"pon or with respect to that land, the Diree- pensar wader",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      65,
+      610,
+      403,
+      39
+    ],
+    "text": "tor may, if authorised thereto by regulations made in \"",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      65,
+      632,
+      384,
+      18
+    ],
+    "text": "that behalf aod subject to such conditions or restric.",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      65,
+      649,
+      385,
+      18
+    ],
+    "text": "tions as may be prescribed by such regulations, grant",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      65,
+      664,
+      385,
+      18
+    ],
+    "text": "aloan to the owner for the purpose of assisting him to",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      65,
+      680,
+      228,
+      17
+    ],
+    "text": "defray the coat of such mesaures.",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73,
+      705,
+      376,
+      38
+    ],
+    "text": "_(% No lean shall be made under the receding provi-",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      65,
+      726,
+      385,
+      17
+    ],
+    "text": "sions of this section except out of moneys provided by",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66,
+      741,
+      196,
+      18
+    ],
+    "text": "Parliament for the purpose.",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      82,
+      770,
+      368,
+      19
+    ],
+    "text": "(3) Regulations may be made prescribing the",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      65,
+      787,
+      385,
+      17
+    ],
+    "text": "security upon which loans may be granted under this",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      65,
+      803,
+      384,
+      18
+    ],
+    "text": "seution and the rate of interest payable upon such",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      65,
+      819,
+      385,
+      18
+    ],
+    "text": "Joans, and providing for the time and manner of the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66,
+      836,
+      385,
+      18
+    ],
+    "text": "Tepaynient or revovery af the principat and interest",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66,
+      851,
+      517,
+      15
+    ],
+    "text": "due on such loans, ?",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      157,
+      14,
+      334,
+      17
+    ],
+    "text": "4 Soil Conservation Act, No. 25 of 1961:",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      62,
+      42,
+      494,
+      18
+    ],
+    "text": "Authority for 8. (1) In any case where any owner of any land",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      61,
+      49,
+      487,
+      29
+    ],
+    "text": "Berries fails to take on or with respect to the land any measures",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      60,
+      75,
+      489,
+      21
+    ],
+    "text": "fuciie? specified in that behalf in any regulation made under",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      158,
+      96,
+      425,
+      23
+    ],
+    "text": "this Act, it shall be awful for the Director, after |",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      157,
+      114,
+      391,
+      18
+    ],
+    "text": "giving to the owner notice of such duration as may be",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      157,
+      132,
+      392,
+      16
+    ],
+    "text": "prescribed, to cause such measures to be taken on ot",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      157,
+      149,
+      391,
+      17
+    ],
+    "text": "with respect to that {and by an officer authorised in",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      79,
+      167,
+      470,
+      17
+    ],
+    "text": ": writing by the Director in that behalf; and it shall be",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      157,
+      185,
+      390,
+      17
+    ],
+    "text": "lawful for any officer so authorised to enter the land,",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      157,
+      203,
+      391,
+      18
+    ],
+    "text": "together with such other persons as he may require, and",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      157,
+      221,
+      392,
+      17
+    ],
+    "text": "to carry ont thereon all such work as may be necessary",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      158,
+      233,
+      426,
+      25
+    ],
+    "text": "for the purpose of taking the required measures. |",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      175,
+      271,
+      373,
+      17
+    ],
+    "text": "(2) The cost of carrying out acy work on or with",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      158,
+      289,
+      390,
+      17
+    ],
+    "text": "respect to any land in pursuance of the powers con-",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      158,
+      306,
+      391,
+      18
+    ],
+    "text": "ferred by sub-section (1) shall be payable by the owner",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      158,
+      324,
+      391,
+      17
+    ],
+    "text": "in such instalments as may be prescribed; and the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      157,
+      341,
+      392,
+      17
+    ],
+    "text": "amount of any such instalment, if unpaid, shall be",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      158,
+      359,
+      389,
+      16
+    ],
+    "text": "recoverable by civil action as a debt due to the Crown.",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      55,
+      386,
+      494,
+      32
+    ],
+    "text": "Geant 8. (1) Every regulation made by the Minister under",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      59,
+      411,
+      490,
+      21
+    ],
+    "text": "Bevpimst' this Act shali be brought before the Senate and the",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      157,
+      430,
+      392,
+      17
+    ],
+    "text": "House of Representatives for approval, and if 60",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      158,
+      448,
+      391,
+      17
+    ],
+    "text": "approved shall be published in the Gazette and come",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      158,
+      465,
+      351,
+      17
+    ],
+    "text": "into operation apon the date of such publication.",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      175,
+      498,
+      373,
+      17
+    ],
+    "text": "(2) Any regalations made under this Act may em-",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      158,
+      515,
+      391,
+      17
+    ],
+    "text": "power any such officer or person as may be specified",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      158,
+      532,
+      391,
+      14
+    ],
+    "text": "therein to make such orders or issue auch directions",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      158,
+      551,
+      391,
+      18
+    ],
+    "text": "to owners of land, cultivators or other persons as may",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      158,
+      568,
+      391,
+      17
+    ],
+    "text": "be necessary for securing compliance with or carrying",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      159,
+      584,
+      390,
+      18
+    ],
+    "text": "out the objects and purposes of this Act or of any",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      159,
+      602,
+      313,
+      17
+    ],
+    "text": "regalations made thereunder, .",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      60,
+      633,
+      524,
+      27
+    ],
+    "text": "sgginmsat 40, There may be appointed all such officers and |",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      159,
+      644,
+      390,
+      30
+    ],
+    "text": "sorvents ax may bo necessary for earrying out or giving",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      159,
+      674,
+      334,
+      18
+    ],
+    "text": "effect to the principles and purposes of this Act.",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      61,
+      701,
+      488,
+      33
+    ],
+    "text": "Omens snd 44. Any person who contravenes or fails to comply",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      57,
+      719,
+      492,
+      30
+    ],
+    "text": "ena, with any regulation made under this Act or any order",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      159,
+      745,
+      389,
+      18
+    ],
+    "text": "or direction made or given under any such regulation,",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      159,
+      762,
+      390,
+      17
+    ],
+    "text": "or who resists or obstructs the Director or any other",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      160,
+      780,
+      389,
+      17
+    ],
+    "text": "officer in the exercise or performance of any function",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      160,
+      796,
+      424,
+      19
+    ],
+    "text": "or duty conferred or imposed on the Director or auch",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      160,
+      814,
+      424,
+      19
+    ],
+    "text": "officer by or under thia Act, shall be guilty of an offence =<",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      160,
+      832,
+      389,
+      18
+    ],
+    "text": "and liable on conviction after summary trial before a",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      160,
+      849,
+      388,
+      18
+    ],
+    "text": "Magistrate to a fine not exceeding five hundred rupees.",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      117,
+      56,
+      344,
+      18
+    ],
+    "text": "Soil Conservation Act, No. 25 of 1951. 5",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      80,
+      82,
+      470,
+      22
+    ],
+    "text": "42, In this Act, unless the context otherwise ttrpetaton.",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      64,
+      105,
+      415,
+      21
+    ],
+    "text": "requites~ .",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      97,
+      130,
+      361,
+      17
+    ],
+    "text": "* Dizeotor means the Director of Agriculture;",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      97,
+      147,
+      361,
+      17
+    ],
+    "text": "Minister means the Minister of Agriculture",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      144,
+      164,
+      83,
+      15
+    ],
+    "text": "and Lands;",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      96,
+      189,
+      361,
+      16
+    ],
+    "text": "owner in relation to any land includes the",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      144,
+      206,
+      313,
+      17
+    ],
+    "text": "lesueo or vaufructuary mortgagee of tbe",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      144,
+      223,
+      37,
+      15
+    ],
+    "text": "land;",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      96,
+      247,
+      360,
+      18
+    ],
+    "text": "* prescribed means prescribed by regulation",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      143,
+      264,
+      153,
+      13
+    ],
+    "text": "made under this Act.",
+    "mean_p_confidence": 0.76
+  }
+]

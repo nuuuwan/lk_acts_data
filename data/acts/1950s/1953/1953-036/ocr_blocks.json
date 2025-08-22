@@ -1,0 +1,2983 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      116,
+      17,
+      400,
+      26
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      208,
+      59,
+      213,
+      32
+    ],
+    "text": "2nd Session 1953",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      236,
+      156,
+      129,
+      35
+    ],
+    "text": "Eo",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      237,
+      163,
+      151,
+      77
+    ],
+    "text": "( re (",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      118,
+      334,
+      411,
+      31
+    ],
+    "text": "Rubber Re-planting Subsidy Act,",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      224,
+      373,
+      197,
+      23
+    ],
+    "text": "No. 36 of 1953",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      204,
+      499,
+      222,
+      13
+    ],
+    "text": "Date of Assent: September 3, 1953",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      188,
+      611,
+      249,
+      36
+    ],
+    "text": "Printed on the Orders of Government",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      147,
+      756,
+      334,
+      23
+    ],
+    "text": "hie Oyen Son Dam, gas, te",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      148,
+      782,
+      333,
+      33
+    ],
+    "text": "ESS Garena Gat",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155,
+      822,
+      318,
+      14
+    ],
+    "text": "Price: 25 cents, Postage: 15 cents.",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      138,
+      15,
+      317,
+      18
+    ],
+    "text": "Rubber Re-planting Subsidy Act, 3",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      207,
+      20,
+      110,
+      28
+    ],
+    "text": "No. 36 of 1953",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      59,
+      105,
+      14
+    ],
+    "text": "L. D0. 18/58.",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      87,
+      386,
+      13
+    ],
+    "text": "AN AcT 10 PROVIDE FOR THE ESTABLISHMENT OF A",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      103,
+      370,
+      13
+    ],
+    "text": "FonD FOR THE PURPOSE OF SUZSIDISING THE",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      122,
+      370,
+      12
+    ],
+    "text": "RE-PLANTING OF RUBBER PLANTS, FOR THE IMPOSITION",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      137,
+      370,
+      11
+    ],
+    "text": "OF AN EXPORT DUTY ON RUABER TO BE FAID INTO SUCH",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      150,
+      371,
+      14
+    ],
+    "text": "FUND AND FOR THE VALIDATION OF BXPENDITURE",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      169,
+      371,
+      11
+    ],
+    "text": "HITHERTO INCURRED ON WORK PREPARATORY TO THE",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      185,
+      339,
+      11
+    ],
+    "text": "INTRODUCTION O A SCHEME FOR EUCH PURPOSE.",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      121,
+      207,
+      285,
+      17
+    ],
+    "text": "[Date of Assent: September 3, 1953.]",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      231,
+      371,
+      19
+    ],
+    "text": "BE it enacted by the Queen's Most Excellent",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      247,
+      387,
+      18
+    ],
+    "text": "Majesty, by and with the advice and consent of the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      264,
+      386,
+      19
+    ],
+    "text": "Senate and the House of Representatives of Ceylon",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      282,
+      386,
+      17
+    ],
+    "text": "in this present Parliament assembled, and by the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      298,
+      263,
+      17
+    ],
+    "text": "authority of the same, as followa:",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      323,
+      439,
+      23
+    ],
+    "text": "4. This Act may be cited as the Rubber shor sta",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      342,
+      459,
+      22
+    ],
+    "text": "Re-planting Subsidy Act, No. 36 of 1953, and shall s24 ate ot",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      360,
+      385,
+      18
+    ],
+    "text": "come into operation on such date as the Minister may",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      376,
+      310,
+      17
+    ],
+    "text": "appoint by Order published in the Gazette.",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      400,
+      458,
+      42
+    ],
+    "text": "Repent shall be established a Fund called the aot Re",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      421,
+      428,
+      17
+    ],
+    "text": "tabber Re-planting Subsidy Fund for the pur] of Gentes",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      425,
+      438,
+      29
+    ],
+    "text": "sabsidising in accordance, with such regulations 23 Bast",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      452,
+      385,
+      18
+    ],
+    "text": "may be made in that behalf, the re-planting of rubber",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      467,
+      48,
+      16
+    ],
+    "text": "plants,",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      499,
+      432,
+      24
+    ],
+    "text": "8 (1) There shall be paid into the Fund Perma",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      105,
+      523,
+      416,
+      21
+    ],
+    "text": "(@) such sum as may be deterimined by the Minister gig",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      152,
+      540,
+      304,
+      17
+    ],
+    "text": "out of the monies retained by the Rubber",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      153,
+      556,
+      303,
+      17
+    ],
+    "text": "Commissioner from the proceeda of the",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      152,
+      572,
+      304,
+      17
+    ],
+    "text": "sale of sheet, rabber purchased by him",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      152,
+      589,
+      304,
+      29
+    ],
+    "text": "during the | period commencing \"on",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      153,
+      605,
+      303,
+      17
+    ],
+    "text": "January 1, 1958, and ending on the",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      153,
+      621,
+      148,
+      16
+    ],
+    "text": "appointed date; and",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      104,
+      642,
+      352,
+      31
+    ],
+    "text": "@) the prooweds ofall export duties levied wider",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      168,
+      660,
+      47,
+      13
+    ],
+    "text": "is Act.",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88,
+      683,
+      298,
+      18
+    ],
+    "text": "2) There shall be paid out of the Fand",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      104,
+      696,
+      353,
+      42
+    ],
+    "text": "{@) such amounts as are authorised ty rogolations",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      152,
+      721,
+      303,
+      18
+    ],
+    "text": "to be paid for the purpose of subsidising",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      152,
+      736,
+      236,
+      18
+    ],
+    "text": "the re-planting of rubber plants;",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      105,
+      757,
+      350,
+      30
+    ],
+    "text": "@) the expenses of the adminisiration of this",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      172,
+      776,
+      11,
+      13
+    ],
+    "text": "ts",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      104,
+      795,
+      351,
+      30
+    ],
+    "text": "() the preseribed contributions to any provident",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      159,
+      812,
+      296,
+      29
+    ],
+    "text": "und of scheme established for, the pay-",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      151,
+      828,
+      288,
+      17
+    ],
+    "text": "ment of gratuities to any or all of ti",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      848,
+      115,
+      9
+    ],
+    "text": "Jam sreaoen ny",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      173,
+      16,
+      316,
+      22
+    ],
+    "text": "Rubber Re-planting Subsidy Acs,",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      313,
+      25,
+      108,
+      27
+    ],
+    "text": "Na, 36 Of 1953",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      254,
+      63,
+      307,
+      19
+    ],
+    "text": "officers and servants employed for the",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      255,
+      79,
+      305,
+      28
+    ],
+    "text": "Purposes of this Act and their dependants;",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      254,
+      98,
+      17,
+      9
+    ],
+    "text": "an",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      207,
+      114,
+      353,
+      19
+    ],
+    "text": "(@ such remuneration as. may be payable to",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      255,
+      121,
+      305,
+      30
+    ],
+    "text": "members of the Rubber Hey lanting",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      255,
+      137,
+      304,
+      38
+    ],
+    "text": "Advisory Booed established umder thie",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79,
+      185,
+      480,
+      19
+    ],
+    "text": "Aiuiiintion 4, (1) The Rubber Controller shall, subject to the",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      126,
+      198,
+      432,
+      31
+    ],
+    "text": "on Givection and control of the Minister, administer the",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      184,
+      220,
+      31,
+      9
+    ],
+    "text": "und.",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      190,
+      236,
+      368,
+      18
+    ],
+    "text": "@) There may be appointed such officers and",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      173,
+      253,
+      385,
+      18
+    ],
+    "text": "servants as may be necessaty for the edministration of",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      173,
+      268,
+      68,
+      13
+    ],
+    "text": "the Fund.",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72,
+      281,
+      485,
+      31
+    ],
+    "text": "Tovertmeat 3. Any monies of the Fund may be invested in such",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      76,
+      309,
+      481,
+      17
+    ],
+    "text": "of the Bund. mauler as may be approved by the Minister with the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      173,
+      309,
+      290,
+      38
+    ],
+    "text": "concurrence of the Minister of Finance.",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72,
+      341,
+      484,
+      31
+    ],
+    "text": "Asean, of 6. (1) The Rubber Controller shall cause full",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      173,
+      368,
+      229,
+      18
+    ],
+    "text": "accounts of the Fund to be kept.",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      190,
+      387,
+      366,
+      17
+    ],
+    "text": "(2) The zccounts of the Fund shall be andited by",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      173,
+      402,
+      150,
+      15
+    ],
+    "text": "the Auditor-General.",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      190,
+      422,
+      366,
+      19
+    ],
+    "text": "(8) The Rubber Controller ahall, as soon as possible",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      174,
+      438,
+      382,
+      19
+    ],
+    "text": "after December 31 of each year, issue a report on the",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      173,
+      454,
+      383,
+      19
+    ],
+    "text": "administration of the Fand together with a statement",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      173,
+      470,
+      383,
+      18
+    ],
+    "text": "of the income and expenditure of the Fund and of the",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      174,
+      486,
+      382,
+      19
+    ],
+    "text": "investments of monies of the Fund during the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      174,
+      502,
+      107,
+      17
+    ],
+    "text": "preceding year,",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      191,
+      522,
+      365,
+      17
+    ],
+    "text": "( Every report and statement. of the Rubber",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      175,
+      537,
+      380,
+      20
+    ],
+    "text": "Controlier under sub-section (8) shall be transmitted",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      175,
+      553,
+      380,
+      17
+    ],
+    "text": "by him to the Minister who hall cause them to be laid",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      175,
+      569,
+      134,
+      14
+    ],
+    "text": "before Parliament.",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79,
+      592,
+      477,
+      21
+    ],
+    "text": "Speci 7. (i) There shall be charged, levied and paid a0",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79,
+      597,
+      477,
+      40
+    ],
+    "text": "ima, export duty of ten conte pia pound of sheet",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79,
+      624,
+      305,
+      20
+    ],
+    "text": "ibe Fd with rubber exported from Ceylon.",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      193,
+      639,
+      363,
+      42
+    ],
+    "text": "(2) Where the amount deemed under the provisions",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      176,
+      660,
+      380,
+      21
+    ],
+    "text": "of sub-section (8) to be the price per of crepe",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      177,
+      669,
+      379,
+      28
+    ],
+    "text": "rubber of any description for any work excesds by &",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      173,
+      683,
+      383,
+      42
+    ],
+    "text": "preseribed amount. the rica paid per pound by the",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      189,
+      696,
+      366,
+      38
+    ],
+    "text": "ubber Commissioner for Pa Ne. 1 sheet rubber,",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      177,
+      724,
+      379,
+      31
+    ],
+    "text": "there shall be charged, levied and paid an export duly",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      177,
+      740,
+      378,
+      19
+    ],
+    "text": "of an amount equal to such excess or ten cents, which-",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      177,
+      757,
+      378,
+      20
+    ],
+    "text": "ever is less, for every pound of crepe rubber of that",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      177,
+      772,
+      369,
+      21
+    ],
+    "text": "description exported from Ceylon during that week.",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      193,
+      792,
+      362,
+      21
+    ],
+    "text": "(8) The amount which shail for the purposes of",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      176,
+      808,
+      379,
+      21
+    ],
+    "text": "sob-section (2) be deemed to be the price per pound of",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      176,
+      826,
+      378,
+      18
+    ],
+    "text": "erepe rubber of any description for any week",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      129,
+      20,
+      316,
+      16
+    ],
+    "text": "Rubber Re-planting Subsidy Act, 5",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      197,
+      36,
+      109,
+      15
+    ],
+    "text": "No. 86 of 1953",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      59,
+      63,
+      386,
+      16
+    ],
+    "text": "commencing Monday shall be an amount which shall",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      59,
+      78,
+      387,
+      19
+    ],
+    "text": "be computed by the Principal Collector of Cuatoma to",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      59,
+      95,
+      387,
+      19
+    ],
+    "text": "he the average (calculated to the nearest cent) of the",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      59,
+      112,
+      387,
+      18
+    ],
+    "text": "daily Colombo market prices per pound, as",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      59,
+      129,
+      387,
+      18
+    ],
+    "text": "estimated by him, for the sale, during the last week",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      60,
+      145,
+      387,
+      19
+    ],
+    "text": "but one immediately preceding, of crepe rubber of that",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      59,
+      163,
+      83,
+      17
+    ],
+    "text": "description.",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      76,
+      183,
+      371,
+      21
+    ],
+    "text": "(4) The question whether any crepe rabber is of any",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      59,
+      203,
+      387,
+      16
+    ],
+    "text": "particular description shall be determined by the",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      59,
+      208,
+      356,
+      25
+    ],
+    "text": "Rubber Controller and his decision shall be final.",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      77,
+      242,
+      369,
+      19
+    ],
+    "text": "(5) The amount of any export duty imposed by this",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      59,
+      260,
+      387,
+      16
+    ],
+    "text": "section may be varied or any such export duty may be",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      61,
+      276,
+      386,
+      17
+    ],
+    "text": "rescinded by resolution of the House of",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      60,
+      292,
+      116,
+      17
+    ],
+    "text": "Representatives.",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      77,
+      317,
+      369,
+      17
+    ],
+    "text": "{6} This section shall have effect aa though it formed",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      61,
+      334,
+      447,
+      17
+    ],
+    "text": "part of the Customa Ordinance, and the provisions of Cs 26",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      61,
+      350,
+      368,
+      18
+    ],
+    "text": "that Ordinance shall apply accordingly : :",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      78,
+      373,
+      369,
+      18
+    ],
+    "text": "Provided that the export duties imposed by this",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      61,
+      390,
+      385,
+      18
+    ],
+    "text": "Act shell be in addition to any export duty imposed",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      45,
+      407,
+      400,
+      20
+    ],
+    "text": ", by or under that Ordinance or any other written law.",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      79,
+      429,
+      368,
+      18
+    ],
+    "text": "(7) The proceeds of all export duties imposed by'this",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      61,
+      447,
+      386,
+      17
+    ],
+    "text": "Act sball be paid monthly to the Rubber Controller by",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      62,
+      463,
+      385,
+      18
+    ],
+    "text": "the Principal Collector of Customs and shall be",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      62,
+      482,
+      152,
+      13
+    ],
+    "text": "credited to the Fund.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      79,
+      517,
+      444,
+      19
+    ],
+    "text": "8. (1) The Minister may make regulations for the Regulation.",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      63,
+      535,
+      385,
+      18
+    ],
+    "text": "purpose of carrying out or giving effect to the provi-",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      63,
+      553,
+      126,
+      14
+    ],
+    "text": "sions of this Act.",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      80,
+      572,
+      369,
+      18
+    ],
+    "text": "(2) In particular, and without prejudice to the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      63,
+      589,
+      385,
+      19
+    ],
+    "text": "generality of the powers conferred by sub-section (1},",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      64,
+      606,
+      384,
+      18
+    ],
+    "text": "the Minister may make regulations in respect of all",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      64,
+      625,
+      258,
+      16
+    ],
+    "text": "or any of the following matters:",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      98,
+      644,
+      351,
+      18
+    ],
+    "text": "(@) a acheme of subsidising with monies of the",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      146,
+      661,
+      287,
+      17
+    ],
+    "text": "Fund the re-planting of rubber plants;",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      98,
+      682,
+      351,
+      17
+    ],
+    "text": "() all matters stated or required in this Act to",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      145,
+      699,
+      100,
+      16
+    ],
+    "text": "be prescribed;",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      99,
+      710,
+      350,
+      41
+    ],
+    "text": "() the establishment and regulation of @ provi-",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      147,
+      725,
+      303,
+      42
+    ],
+    "text": "dent fund or scheme for the Payment of",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      147,
+      750,
+      303,
+      18
+    ],
+    "text": "gratuities to any or all of the officers and",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      147,
+      766,
+      303,
+      18
+    ],
+    "text": "servante employed for the purposes of this",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      147,
+      782,
+      303,
+      17
+    ],
+    "text": "Act and their dependants, and the",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      147,
+      798,
+      303,
+      17
+    ],
+    "text": "determination of the amounts to be paid",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      147,
+      807,
+      303,
+      41
+    ],
+    "text": "such provident fund or scheme from the",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      158,
+      835,
+      31,
+      9
+    ],
+    "text": "und.",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      181,
+      18,
+      318,
+      15
+    ],
+    "text": "8 Rubber Re-planting Subsidy Act,",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      321,
+      22,
+      140,
+      28
+    ],
+    "text": "Ne. 30 of 1950\"",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      198,
+      60,
+      372,
+      19
+    ],
+    "text": "(8) Regulations in respect of the scheme referred",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      182,
+      78,
+      333,
+      17
+    ],
+    "text": "to in paragraph (@) of sub-section (2) may",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      215,
+      100,
+      355,
+      19
+    ],
+    "text": "@ contain such conditions, prohibitions and",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      263,
+      117,
+      307,
+      18
+    ],
+    "text": "other provisions as may be necessary for",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      264,
+      134,
+      306,
+      18
+    ],
+    "text": "securing the due operation and. enfores-",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      263,
+      153,
+      185,
+      15
+    ],
+    "text": "ment of the scheme, and",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      215,
+      174,
+      355,
+      19
+    ],
+    "text": "{) declare the contravention of, or the failure",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      263,
+      191,
+      307,
+      19
+    ],
+    "text": "to comply with, any prescribed provisions",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      263,
+      207,
+      307,
+      20
+    ],
+    "text": "of the regulations, and the furnishing of",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      264,
+      225,
+      305,
+      15
+    ],
+    "text": "false information or returns to be en",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      263,
+      242,
+      306,
+      18
+    ],
+    "text": "offence triable summarily by a Magistrate",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      263,
+      259,
+      306,
+      18
+    ],
+    "text": "and specify as punishment for such offence",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      263,
+      275,
+      306,
+      16
+    ],
+    "text": "a fine of an amount not exceeding one",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      264,
+      291,
+      304,
+      19
+    ],
+    "text": "thousand rupees or a term of imprison-",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      263,
+      308,
+      306,
+      19
+    ],
+    "text": "ment of either description not exceeding",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      263,
+      324,
+      306,
+      17
+    ],
+    "text": "six months or both such fine and such",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      263,
+      345,
+      102,
+      16
+    ],
+    "text": "imprisonment.",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      199,
+      375,
+      369,
+      31
+    ],
+    "text": "All regulations shall be published in the Gazette",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      182,
+      390,
+      386,
+      19
+    ],
+    "text": "and shall come into operation on a date specified in",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      183,
+      408,
+      386,
+      15
+    ],
+    "text": "that behalf in the lations or, if no date is 80",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      182,
+      409,
+      387,
+      39
+    ],
+    "text": "specified, npon such paolication, and shall, as soon as",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      182,
+      433,
+      387,
+      41
+    ],
+    "text": "Practioable after their publication in the Gazette, be",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      154,
+      455,
+      415,
+      19
+    ],
+    "text": "+ brought before the Senate and the House of Repre-",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      182,
+      471,
+      386,
+      31
+    ],
+    "text": "sentatives for approval. | Where any vegulation is",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      182,
+      485,
+      387,
+      33
+    ],
+    "text": "tot approved sither by the Senate or by the House of",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      179,
+      500,
+      389,
+      38
+    ],
+    "text": "Representatives, it shall be deemed to be rescinded",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      183,
+      517,
+      385,
+      17
+    ],
+    "text": "and the rescission shall take effect on the date on which",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      183,
+      537,
+      230,
+      17
+    ],
+    "text": "the regulation is not approved.",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      200,
+      555,
+      368,
+      20
+    ],
+    "text": "(6) The validity of anything done under a regule-",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      183,
+      572,
+      385,
+      18
+    ],
+    "text": "tion shall not be affected by the subsequent rescission",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      183,
+      579,
+      287,
+      28
+    ],
+    "text": "of the Tegulation under sub-section (H).",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      200,
+      611,
+      368,
+      19
+    ],
+    "text": "(6) Notification of the date on which the rescission",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      184,
+      627,
+      384,
+      21
+    ],
+    "text": "of a regulation under sub-section (4) takes effect shall",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      184,
+      648,
+      203,
+      16
+    ],
+    "text": "be published in the Gazette.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86,
+      677,
+      482,
+      29
+    ],
+    "text": "Tinting oe 9 The Minister may, in such manner as may be",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      147,
+      696,
+      421,
+      19
+    ],
+    "text": ". approved by the House of Representatives, wind up",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      185,
+      714,
+      366,
+      19
+    ],
+    "text": "the Fund and dispose of any monies left therein.",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      87,
+      745,
+      481,
+      28
+    ],
+    "text": "Bee 40, (1) There shall be established a Board",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      84,
+      756,
+      485,
+      31
+    ],
+    "text": "Rope (hereinafter referred to as the Board '} which",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      88,
+      778,
+      481,
+      23
+    ],
+    "text": "Bond. shall be called the Rubber Replanting Advisory Board",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      186,
+      795,
+      383,
+      18
+    ],
+    "text": "and which shell consist of the Rubber Controller, who",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      186,
+      813,
+      383,
+      19
+    ],
+    "text": "shall be the Chairman of the Board, and such other",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      186,
+      832,
+      272,
+      18
+    ],
+    "text": "members as the Minister may appoint,",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      132,
+      14,
+      316,
+      18
+    ],
+    "text": "Rubber Re-planting Subsidy Act, 7",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      201,
+      16,
+      109,
+      35
+    ],
+    "text": "No. 86 of 1953",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      80,
+      58,
+      369,
+      18
+    ],
+    "text": "@) Every member of the Board, other than the",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      63,
+      76,
+      386,
+      16
+    ],
+    "text": "Chairman of the Board, shall, unless his appointment",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      62,
+      92,
+      387,
+      17
+    ],
+    "text": "is revoked earlier under sub-section (8), hold offics for",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      62,
+      108,
+      387,
+      18
+    ],
+    "text": "such period as may be specified in the letter of",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      63,
+      126,
+      321,
+      17
+    ],
+    "text": "appointment issued to him by the Minister.",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      80,
+      154,
+      369,
+      18
+    ],
+    "text": "(8) The Minister may revoke any appointment of",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      63,
+      173,
+      173,
+      13
+    ],
+    "text": "a member of the Board.",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      80,
+      199,
+      369,
+      18
+    ],
+    "text": "(4) It shall be the duty of the Board to advise the",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      64,
+      217,
+      385,
+      15
+    ],
+    "text": "Minister on the administration of this Act and on",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      64,
+      234,
+      386,
+      17
+    ],
+    "text": "any such matter to which this Act relates as may be",
+    "mean_p_confidence": 0.88
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65,
+      252,
+      353,
+      17
+    ],
+    "text": "teferred by the Minister to the Board for advice.",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      80,
+      281,
+      369,
+      17
+    ],
+    "text": "(8) The members of the Board may be paid such",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      63,
+      298,
+      386,
+      17
+    ],
+    "text": "remuneration as the Minister may determine with the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      63,
+      316,
+      305,
+      14
+    ],
+    "text": "concurrence of the Minister of Finance. ~",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      79,
+      358,
+      436,
+      19
+    ],
+    "text": "44. All expenditure hitherto incurred on work Yeti",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      63,
+      375,
+      457,
+      23
+    ],
+    "text": "Preparatory to tho introduction of a scheme of sub- srpnitue",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      63,
+      390,
+      444,
+      19
+    ],
+    "text": "sidising the replanting of rubber plants shall be %",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      63,
+      408,
+      385,
+      18
+    ],
+    "text": "deemed to have been as valid as though auch expendi-",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      64,
+      426,
+      384,
+      17
+    ],
+    "text": "ture had been authorised by law, notwithstanding",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      63,
+      442,
+      385,
+      18
+    ],
+    "text": "that such expenditure had been incarred without",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      63,
+      460,
+      385,
+      17
+    ],
+    "text": "compliance with the provisions of the Ceylon",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      64,
+      476,
+      384,
+      18
+    ],
+    "text": "(Constitution) Order in Council, 1946, relating to the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      63,
+      494,
+      204,
+      17
+    ],
+    "text": "expenditure of public funds.",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      80,
+      535,
+      427,
+      18
+    ],
+    "text": "12, This Act shall expire on such date as may be Duration",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      63,
+      551,
+      437,
+      19
+    ],
+    "text": "appointed by the Minister by Order published in the 4+",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      64,
+      568,
+      60,
+      14
+    ],
+    "text": "Gazette:",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      79,
+      598,
+      369,
+      19
+    ],
+    "text": "Provided, however, that the expiration of this Act",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      63,
+      614,
+      385,
+      20
+    ],
+    "text": "shall not affect any fine, penalty, forfeiture or",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      63,
+      632,
+      385,
+      18
+    ],
+    "text": "punishment previously incurred under this Act or",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      63,
+      649,
+      386,
+      19
+    ],
+    "text": "under any regulation, or affect eny legal proceeding or",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      63,
+      666,
+      385,
+      19
+    ],
+    "text": "Temedy in respect of any such fine, penalty, forfeiture",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      63,
+      683,
+      385,
+      18
+    ],
+    "text": "or punishment, and any such legal proceeding may",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      64,
+      689,
+      383,
+      27
+    ],
+    "text": "be instituted, continued or enforced and suck fine,",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      64,
+      714,
+      384,
+      20
+    ],
+    "text": "penalty, forfeiture or punishment may be imposed as",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      64,
+      730,
+      202,
+      18
+    ],
+    "text": "if this Act had not expired.",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      80,
+      763,
+      455,
+      19
+    ],
+    "text": "18. In this Act, unless the context otherwiso Taterpretation,",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      63,
+      783,
+      75,
+      13
+    ],
+    "text": "requires",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      96,
+      804,
+      351,
+      20
+    ],
+    "text": "* appointed date means the date appointed by",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      144,
+      822,
+      212,
+      18
+    ],
+    "text": "the Minister under section 1;",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      183,
+      9,
+      317,
+      21
+    ],
+    "text": "8 Rubber Re-plunting Subsidy Act,",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      323,
+      29,
+      110,
+      16
+    ],
+    "text": "No. 36 of 1953",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      206,
+      52,
+      366,
+      23
+    ],
+    "text": "\"Fund ? means the Rubber Re-ptanting Subsidy",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      264,
+      62,
+      247,
+      27
+    ],
+    "text": "Fund established under this Acts",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      216,
+      89,
+      349,
+      21
+    ],
+    "text": "prescribed means prescribed by regulation;",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      232,
+      106,
+      342,
+      17
+    ],
+    "text": "regulation means a regulation made under",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      265,
+      121,
+      64,
+      15
+    ],
+    "text": "this Act;",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      217,
+      145,
+      129,
+      17
+    ],
+    "text": "replanting \"",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      266,
+      178,
+      307,
+      17
+    ],
+    "text": "() means planting rubber plants in an",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      315,
+      195,
+      258,
+      13
+    ],
+    "text": "area in which there are rabber",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      314,
+      211,
+      251,
+      18
+    ],
+    "text": "plants on the appointed date, and",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      267,
+      236,
+      306,
+      18
+    ],
+    "text": "( includes planting rubber plants in any",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      315,
+      253,
+      258,
+      17
+    ],
+    "text": "other area, if but only if the rubber",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      315,
+      271,
+      258,
+      16
+    ],
+    "text": "plants in an aren equal in extent 10",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      315,
+      286,
+      258,
+      15
+    ],
+    "text": "such other area are eradicated after",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      316,
+      305,
+      144,
+      17
+    ],
+    "text": "the appointed date;",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      219,
+      331,
+      354,
+      20
+    ],
+    "text": "Rubber Commissioner means the Commis-",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      266,
+      350,
+      307,
+      17
+    ],
+    "text": "sioner who purchases sheet rubber in",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      268,
+      365,
+      305,
+      19
+    ],
+    "text": "Ceylon on behalf of the Government of",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      268,
+      385,
+      54,
+      16
+    ],
+    "text": "Ceylon;",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      220,
+      411,
+      354,
+      15
+    ],
+    "text": "Rubber Controller means the Rubber",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      268,
+      428,
+      306,
+      19
+    ],
+    "text": "Controller appointed under the Rubber",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      269,
+      447,
+      292,
+      15
+    ],
+    "text": "Control Ordinance, No. 63 of 1938; -",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      221,
+      474,
+      354,
+      18
+    ],
+    "text": "yubber plant means a plant, tree, shrub or",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      268,
+      490,
+      305,
+      19
+    ],
+    "text": "vine and includes any leaf, flower, seed,",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      268,
+      508,
+      307,
+      19
+    ],
+    "text": "bud, twig, branch, root or any living",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      269,
+      526,
+      306,
+      18
+    ],
+    "text": "portion of any plant, tree, shrub or vine",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      269,
+      541,
+      306,
+      20
+    ],
+    "text": "which may be used to propagate any of the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      270,
+      561,
+      92,
+      17
+    ],
+    "text": "following:",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      270,
+      588,
+      276,
+      19
+    ],
+    "text": "{@) Hevea Braziliensis (Para Rubber),",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      271,
+      608,
+      278,
+      19
+    ],
+    "text": "() Manihot Glaziovii (Ceara Rabber),",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      271,
+      631,
+      150,
+      16
+    ],
+    "text": "() Castilloa elation,",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      223,
+      650,
+      335,
+      20
+    ],
+    "text": "+ @) Ficns elastica (Rambong), ;",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      272,
+      670,
+      304,
+      18
+    ],
+    "text": "(@) any other plant, tree, shrab or vine",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      320,
+      676,
+      256,
+      28
+    ],
+    "text": "which the Rubber Controller may",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      206,
+      700,
+      370,
+      21
+    ],
+    "text": ": by notification published in the",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      321,
+      717,
+      255,
+      17
+    ],
+    "text": "Gazette declare to be a rubber plant",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      321,
+      735,
+      207,
+      18
+    ],
+    "text": "for the purposes of this Act.",
+    "mean_p_confidence": 0.79
+  }
+]

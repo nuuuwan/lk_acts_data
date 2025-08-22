@@ -1,0 +1,805 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      105,
+      15,
+      401,
+      26
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      141,
+      61,
+      261,
+      32
+    ],
+    "text": "_ Ist Session 1952",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      82,
+      145,
+      247,
+      21
+    ],
+    "text": "Bigg, OD PERE",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      84,
+      147,
+      292,
+      75
+    ],
+    "text": "A WBNG Esa J ron",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      89,
+      191,
+      210,
+      23
+    ],
+    "text": "aw SUG a",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      81,
+      196,
+      295,
+      52
+    ],
+    "text": "aicnred Rees",
+    "mean_p_confidence": 0.09
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      137,
+      316,
+      329,
+      32
+    ],
+    "text": "Stamp (Amendment) Act,",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      199,
+      361,
+      202,
+      26
+    ],
+    "text": "No. 32 of 1952",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      118,
+      505,
+      298,
+      26
+    ],
+    "text": ": Date of Assent : November 13, 1952",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      183,
+      629,
+      240,
+      14
+    ],
+    "text": "Printed on the Orders of Government",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      134,
+      756,
+      336,
+      22
+    ],
+    "text": "Tritt ne Sr, te Soave",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      134,
+      781,
+      336,
+      11
+    ],
+    "text": "Knowrl Subscription (ialoding Bil). Ra 25 oavobie in",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      134,
+      781,
+      337,
+      32
+    ],
+    "text": "2 een ee",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      131,
+      814,
+      338,
+      23
+    ],
+    "text": "Pries : 40 cents. Postage : 5 cents.",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      116,
+      17,
+      332,
+      17
+    ],
+    "text": "Stump (Amendment) Act, No. 88 of 1958, 3",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      44,
+      84,
+      11
+    ],
+    "text": "LL DHo, sw",
+    "mean_p_confidence": 0.07
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      110,
+      62,
+      412,
+      30
+    ],
+    "text": "Aw Acr 10 AMEND THE Stamp ORDINANCE. valet",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      467,
+      86,
+      42,
+      8
+    ],
+    "text": "bea",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      121,
+      95,
+      277,
+      17
+    ],
+    "text": "[Date of Assent: November 13, 1952]",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      122,
+      362,
+      16
+    ],
+    "text": "BE it enected by the Queens Most Excellent",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      128,
+      378,
+      39
+    ],
+    "text": "Majesty, by and with the advice and consent of the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      153,
+      378,
+      19
+    ],
+    "text": "Senate and the Houso of Representatives of Ceylon",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      169,
+      379,
+      18
+    ],
+    "text": "in this present Parliament assembled, and by the",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      185,
+      256,
+      17
+    ],
+    "text": "authority of the same, as followa:",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      224,
+      432,
+      17
+    ],
+    "text": "4. This Act may he cited as the Stamp (Amend- Stor ssh.",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      241,
+      186,
+      15
+    ],
+    "text": "ment) Act, No, 32 of 1952.",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      274,
+      450,
+      19
+    ],
+    "text": "2. Schedule A of the Stamp Ordinance is hereby Amettorstar",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      292,
+      471,
+      24
+    ],
+    "text": "amended, in Part II thereof, as follows: weap 10",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      101,
+      314,
+      346,
+      20
+    ],
+    "text": "(@) under the heading IN THE DISTRICT",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      148,
+      330,
+      300,
+      17
+    ],
+    "text": "COURTS.\", in the provisions under",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      147,
+      346,
+      300,
+      17
+    ],
+    "text": "the sub-heading AIn Civil Pro-",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      147,
+      363,
+      95,
+      16
+    ],
+    "text": "c5edings.*",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      148,
+      382,
+      299,
+      16
+    ],
+    "text": "@ in item 9, by the omission of the words",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      196,
+      397,
+      251,
+      17
+    ],
+    "text": "for parposes of execution; and",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      145,
+      417,
+      301,
+      16
+    ],
+    "text": "(ii) by the insertion, immediately after",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      194,
+      432,
+      252,
+      17
+    ],
+    "text": "item 9, of the following new",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      194,
+      449,
+      56,
+      12
+    ],
+    "text": "item:",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211,
+      468,
+      235,
+      16
+    ],
+    "text": "9x. Every application for",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      192,
+      472,
+      158,
+      25
+    ],
+    "text": "execntion of decree.",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98,
+      507,
+      346,
+      21
+    ],
+    "text": "() under the heading IN THE COURTS OF",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      145,
+      523,
+      300,
+      28
+    ],
+    "text": "REQUESTS., in paragraph 1. by the",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      145,
+      527,
+      299,
+      28
+    ],
+    "text": "insertion, immediataly after item Q), of",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      145,
+      554,
+      190,
+      16
+    ],
+    "text": "the following new item:",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      162,
+      574,
+      282,
+      16
+    ],
+    "text": "(Yf) Every application for execation",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      145,
+      589,
+      84,
+      15
+    ],
+    "text": "of deatee.;",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98,
+      614,
+      347,
+      16
+    ],
+    "text": "under tho heading Miscellaneous, in",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      144,
+      629,
+      119,
+      17
+    ],
+    "text": "parageaph () (i",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      145,
+      650,
+      300,
+      17
+    ],
+    "text": "@ by the omission of the following",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      191,
+      666,
+      67,
+      13
+    ],
+    "text": "words:",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      208,
+      689,
+      237,
+      17
+    ],
+    "text": "No party shall be allowed to",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      191,
+      705,
+      253,
+      17
+    ],
+    "text": "take any proceedings on or by virtae",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      191,
+      721,
+      254,
+      16
+    ],
+    "text": "of any deoree or judgment without",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      191,
+      736,
+      208,
+      17
+    ],
+    "text": "fret taking a oopy thereof:;",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      142,
+      760,
+      281,
+      16
+    ],
+    "text": "(ii) by the omission of the following:",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      192,
+      779,
+      300,
+      15
+    ],
+    "text": "Provided also that\"; :",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      136,
+      799,
+      308,
+      21
+    ],
+    "text": "Gi) hy the substitution, for the expression",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      169,
+      814,
+      235,
+      19
+    ],
+    "text": "(@) no, of the word No;",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      834,
+      108,
+      10
+    ],
+    "text": "2a nauisseadne",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      130,
+      39,
+      338,
+      18
+    ],
+    "text": "4 Stamp (Amendment) Act, No. 32 of 1952.",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      204,
+      65,
+      309,
+      20
+    ],
+    "text": "(iv) by the substitution, for the expression",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      261,
+      82,
+      253,
+      17
+    ],
+    "text": "(6) And no; of the word",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      260,
+      100,
+      57,
+      14
+    ],
+    "text": "Nos",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      209,
+      117,
+      305,
+      20
+    ],
+    "text": "(v) by the substitution, for all the words",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      260,
+      133,
+      255,
+      15
+    ],
+    "text": "from * Provided further that to",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      262,
+      149,
+      253,
+      16
+    ],
+    "text": "discretion of the court;, of the",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      260,
+      168,
+      94,
+      16
+    ],
+    "text": "following:",
+    "mean_p_confidence": 0.04
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      277,
+      189,
+      238,
+      17
+    ],
+    "text": "Any summons to a witness may",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      260,
+      203,
+      256,
+      16
+    ],
+    "text": "he re-issued at the discretion of the",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      146,
+      222,
+      173,
+      14
+    ],
+    "text": ". court.;",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      164,
+      239,
+      26,
+      12
+    ],
+    "text": "and",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      205,
+      251,
+      311,
+      19
+    ],
+    "text": "(vi) by the substitution, for the words",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      262,
+      264,
+      253,
+      29
+    ],
+    "text": "* Provided also; that in appeals \"",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      260,
+      284,
+      215,
+      17
+    ],
+    "text": "of the words In appeals.",
+    "mean_p_confidence": 0.67
+  }
+]

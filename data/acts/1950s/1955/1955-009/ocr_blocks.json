@@ -1,0 +1,2510 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      117,
+      25,
+      414,
+      27
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      217,
+      68,
+      209,
+      21
+    ],
+    "text": "3rd Session, 195455",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      392,
+      95,
+      49,
+      26
+    ],
+    "text": "es.",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      305,
+      139,
+      231,
+      26
+    ],
+    "text": "Ee asa 7",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      290,
+      163,
+      239,
+      21
+    ],
+    "text": "Los, 8\" ff",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      212,
+      175,
+      312,
+      34
+    ],
+    "text": ". Si ( ZO) ree",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      166,
+      185,
+      311,
+      58
+    ],
+    "text": ". ra) | ee",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      272,
+      237,
+      83,
+      18
+    ],
+    "text": "ON UU ZEN",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      269,
+      239,
+      112,
+      33
+    ],
+    "text": "Veo",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      97,
+      318,
+      453,
+      34
+    ],
+    "text": "Imports and Exports (Control) Act,",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      230,
+      355,
+      177,
+      24
+    ],
+    "text": "No. 9 of 1955",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      224,
+      504,
+      189,
+      15
+    ],
+    "text": "Date of Assent : April 8, 1955",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      190,
+      626,
+      352,
+      23
+    ],
+    "text": "Printed on the Orders of Government a",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      81,
+      658,
+      24,
+      7
+    ],
+    "text": "a",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      216,
+      748,
+      175,
+      11
+    ],
+    "text": "4 3",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      136,
+      765,
+      358,
+      25
+    ],
+    "text": "Putchaea tt ai Govern? Pome Boreny, Coons",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      136,
+      791,
+      360,
+      24
+    ],
+    "text": "Sivance ig the utes means, Ble Re, 25, payable,",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      136,
+      811,
+      358,
+      16
+    ],
+    "text": "Boman, Boer Grercr \"Bow seh, Searctan, amckao ny",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      137,
+      831,
+      359,
+      17
+    ],
+    "text": "Price :'25 cents. . Postage: 10 cents,",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      95,
+      8,
+      379,
+      17
+    ],
+    "text": "Imports and Exports (Control) Act, No. 9 of 1965. 3",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      34,
+      290,
+      14
+    ],
+    "text": "\"1 DG, F. 458. .",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      53,
+      456,
+      13
+    ],
+    "text": "An Ac? T0 PROVIDE FOR THE CONTROL OF THE .",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      121,
+      72,
+      353,
+      12
+    ],
+    "text": "IMPORTATION AND BEPORTATION OF GOODS, TRADING",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      121,
+      88,
+      353,
+      12
+    ],
+    "text": "IN IMPORTED GOODS, STANDARDS OF EXPORTABILE",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      121,
+      104,
+      352,
+      11
+    ],
+    "text": "GOODS, AND THE CARRYING ON OF BUSINESS AS AN",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122,
+      120,
+      352,
+      11
+    ],
+    "text": "INDENT AGENT, AND FOR THE VALIDATION OF THE",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122,
+      134,
+      352,
+      12
+    ],
+    "text": "REFUSAL OF LICENCES UNDER THE DEFENCE",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122,
+      148,
+      352,
+      17
+    ],
+    "text": "{Conrrot oF Imports) REGULATIONS 0 CERTAIN",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122,
+      168,
+      62,
+      9
+    ],
+    "text": "PERSONS.",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157,
+      192,
+      250,
+      18
+    ],
+    "text": "[Date of Assent: April 8, 1955.]",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      106,
+      216,
+      368,
+      36
+    ],
+    "text": "BE it enacted by the Queen's Most Excellent",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      236,
+      385,
+      16
+    ],
+    "text": "Majesty, by and with the advice and consent of the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      251,
+      384,
+      18
+    ],
+    "text": "Senate and the House of Representatives of Ceylon in",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      267,
+      383,
+      18
+    ],
+    "text": "this present Parliament assembled, and by the",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      283,
+      264,
+      16
+    ],
+    "text": "authority of the same, as follows:",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      106,
+      311,
+      439,
+      17
+    ],
+    "text": "4. This Act may be cited as the Imports and shoe stl",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      328,
+      274,
+      16
+    ],
+    "text": "Exports (Control) Act, No. 9 of 1956.",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      106,
+      360,
+      439,
+      17
+    ],
+    "text": "% (1) The Minister may, with the approval of sepulstion",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      360,
+      453,
+      37
+    ],
+    "text": "the Cabinet of Ministers, by Teguleleas make cube",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      381,
+      459,
+      35
+    ],
+    "text": "provisions Sdsee,",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122,
+      415,
+      408,
+      17
+    ],
+    "text": "(a) probibiting or regulating, subject to such imped",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      170,
+      426,
+      364,
+      22
+    ],
+    "text": "exceptions, if any, as may be made by or tadacus",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      169,
+      447,
+      383,
+      22
+    ],
+    "text": "under the regulations, the importation or ql gpye",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      169,
+      463,
+      377,
+      17
+    ],
+    "text": "exportation of goods of any description Seriag ox",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      169,
+      479,
+      382,
+      19
+    ],
+    "text": "specified in the regulations; at hea",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122,
+      498,
+      416,
+      18
+    ],
+    "text": "(b) fegulating trading in imported goods of any et.",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      165,
+      499,
+      285,
+      37
+    ],
+    "text": "description epeniged in the regulations;",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      121,
+      534,
+      350,
+      20
+    ],
+    "text": "(0) regulating the standards of exportable goods",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      168,
+      551,
+      302,
+      18
+    ],
+    "text": "of any description specified in the",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      168,
+      567,
+      84,
+      16
+    ],
+    "text": "regulations;",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      121,
+      586,
+      350,
+      18
+    ],
+    "text": "@ regulating the carrying on of business as an",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      168,
+      602,
+      128,
+      17
+    ],
+    "text": "indent agent; and",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      120,
+      621,
+      349,
+      18
+    ],
+    "text": "(e) prescribing fees for the issue of any licences",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      167,
+      638,
+      303,
+      17
+    ],
+    "text": "or for any matter provided for in any",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      167,
+      654,
+      302,
+      14
+    ],
+    "text": "acheme of control contained in the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      167,
+      670,
+      83,
+      16
+    ],
+    "text": "regulations.",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      104,
+      697,
+      365,
+      19
+    ],
+    "text": "(2) Without prejudice to the generality of the",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      699,
+      382,
+      38
+    ],
+    "text": "powers conferred by eub-section ay any ulations",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      716,
+      383,
+      37
+    ],
+    "text": "made by the Minister, with the approval of the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88,
+      746,
+      336,
+      20
+    ],
+    "text": "Cabinet of Ministers, under this section may",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      120,
+      770,
+      350,
+      20
+    ],
+    "text": "(a) provide for the introduction and operation of",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      167,
+      788,
+      302,
+      18
+    ],
+    "text": "a aystem of quotas for the purposes of the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      167,
+      803,
+      302,
+      15
+    ],
+    "text": "scheme of control contained in the",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      167,
+      819,
+      85,
+      16
+    ],
+    "text": "regulations;",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      112,
+      837,
+      114,
+      11
+    ],
+    "text": "FRB ts 6 NH)",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      173,
+      8,
+      378,
+      20
+    ],
+    "text": "4 Imports and Exports (Control) Act, No. 9 of 1055. ....",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      213,
+      34,
+      356,
+      20
+    ],
+    "text": "(8) provide for the prohibition or restriction of",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      208,
+      39,
+      371,
+      32
+    ],
+    "text": "P the importation or exportation of goods _",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      254,
+      68,
+      321,
+      19
+    ],
+    "text": "which are pot of a prescribed standard or,",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      255,
+      84,
+      327,
+      21
+    ],
+    "text": "quality, or in any quantity exceeding a:",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      255,
+      102,
+      141,
+      17
+    ],
+    "text": "prescribed quantity;",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      213,
+      121,
+      341,
+      17
+    ],
+    "text": "(c) prohibit or late the importation or",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      209,
+      122,
+      373,
+      37
+    ],
+    "text": "@P exportation of goods from or to prescribed =",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      256,
+      154,
+      67,
+      15
+    ],
+    "text": "countries;",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      214,
+      172,
+      340,
+      18
+    ],
+    "text": "(2) prohibit the importation or exportation of",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      209,
+      174,
+      345,
+      37
+    ],
+    "text": "@p goods (omhether from or to any country",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      255,
+      201,
+      298,
+      37
+    ],
+    "text": "whatsoever or any presepibed country) by",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      256,
+      220,
+      298,
+      19
+    ],
+    "text": "any person, other than the Government of",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      257,
+      238,
+      297,
+      16
+    ],
+    "text": "Ceylon and such corporate or unincorporate",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      256,
+      242,
+      298,
+      28
+    ],
+    "text": "bodies of persons, if any, as may be",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      257,
+      270,
+      75,
+      16
+    ],
+    "text": "prescribed;",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      211,
+      289,
+      344,
+      18
+    ],
+    "text": "(6) restrict the issue of Hcences required by the",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      257,
+      304,
+      316,
+      19
+    ],
+    "text": "scheme of control contained in the ~",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      257,
+      320,
+      297,
+      18
+    ],
+    "text": "regulations to persons of any prescribed",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      257,
+      337,
+      139,
+      17
+    ],
+    "text": "class or deseription;",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      202,
+      356,
+      352,
+      17
+    ],
+    "text": "- Y) specify the persons or authorities by whom and",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      257,
+      372,
+      298,
+      13
+    ],
+    "text": "the circumstances in which licences under",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      257,
+      388,
+      298,
+      16
+    ],
+    "text": "the regulations may be issned, refused,",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      257,
+      389,
+      192,
+      37
+    ],
+    "text": "cancelled or suapendeds and",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      213,
+      423,
+      343,
+      17
+    ],
+    "text": "(g) provide for a right of appeal to the Minister",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      258,
+      428,
+      298,
+      30
+    ],
+    "text": "against any decision of the. Controller of",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      254,
+      447,
+      303,
+      41
+    ],
+    "text": "Imports and Exports appointed under this",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      180,
+      494,
+      377,
+      29
+    ],
+    "text": "ad ANY, eBtlations made under this setion may",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      195,
+      511,
+      362,
+      17
+    ],
+    "text": "eclare the contravention of, or the failure to comply",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      182,
+      525,
+      375,
+      19
+    ],
+    "text": "with, any prescribed provisions of the regulations to bs",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      182,
+      541,
+      375,
+      19
+    ],
+    "text": "an offence triable summarily by a Magistrate, and",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      182,
+      557,
+      375,
+      17
+    ],
+    "text": "specify as punishment for such offence fine of an",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      183,
+      574,
+      374,
+      18
+    ],
+    "text": "amount not exceeding two thousand rupees or a term",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      182,
+      588,
+      376,
+      19
+    ],
+    "text": "of imprisonment of either description not exceeding",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      183,
+      605,
+      359,
+      18
+    ],
+    "text": "six months or both such fine and such imprisonment.",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      184,
+      624,
+      374,
+      19
+    ],
+    "text": "__ Any punishment imposed by any regulation made",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      183,
+      641,
+      375,
+      18
+    ],
+    "text": "in pursuance of the powers conferred by the preceding",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      183,
+      643,
+      375,
+      37
+    ],
+    "text": "provisions of thie sub-section shell be in addition wo",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      183,
+      671,
+      375,
+      18
+    ],
+    "text": "any fine, penalty, forfeiture or other lishment to",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      184,
+      678,
+      375,
+      38
+    ],
+    "text": "whioh a Berson inay be or became Tiable under. the",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      184,
+      702,
+      138,
+      14
+    ],
+    "text": "Customs Ordinanca.",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      182,
+      726,
+      376,
+      17
+    ],
+    "text": "- (4 All regulations made under this section shall be",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      179,
+      722,
+      379,
+      40
+    ],
+    "text": "wpultichot in the Gazeite and shall come into force on",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      183,
+      758,
+      374,
+      36
+    ],
+    "text": "the date specified in that behalf in the segulations or,",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      183,
+      774,
+      399,
+      19
+    ],
+    "text": "if no date is so specified, upon svch publication, and",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      182,
+      781,
+      378,
+      37
+    ],
+    "text": "shall, as goon as precicable after euch publication, be",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      182,
+      806,
+      377,
+      19
+    ],
+    "text": "brought before the Senate and the House of Repre-",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      182,
+      822,
+      377,
+      20
+    ],
+    "text": "sentatives for approval. Where any such regulation",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      58,
+      35,
+      375,
+      17
+    ],
+    "text": "Imports and Eaparts (Contra!) Act, No. of 1955. 5",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      54,
+      63,
+      381,
+      17
+    ],
+    "text": "is not approved either by the Senate or by the House",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      53,
+      80,
+      381,
+      15
+    ],
+    "text": "of Representatives, it shall be deemed to be rescinded",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      53,
+      84,
+      381,
+      25
+    ],
+    "text": "and the rescission shall take effect on the dato on which",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      54,
+      112,
+      223,
+      16
+    ],
+    "text": "the regulation is not approved.",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70,
+      139,
+      364,
+      17
+    ],
+    "text": "(6) The validity of anything done under a regulation",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      49,
+      141,
+      385,
+      31
+    ],
+    "text": "ads and published under the preceding provisions of",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      53,
+      171,
+      380,
+      16
+    ],
+    "text": "this section shall not be affected by the subsequent",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      53,
+      187,
+      342,
+      16
+    ],
+    "text": "resoission of the regulation under sub-section (4).",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70,
+      215,
+      362,
+      15
+    ],
+    "text": "(@) Notification of the date on which the rescission",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      54,
+      230,
+      378,
+      29
+    ],
+    "text": "of a regulation under enbsection (4) takes ect shell",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      55,
+      246,
+      192,
+      16
+    ],
+    "text": "be published in the Gazette.",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      69,
+      273,
+      363,
+      29
+    ],
+    "text": "(2, Where regulations made under this seation",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      53,
+      289,
+      379,
+      17
+    ],
+    "text": "provide for a right of appeal to the Minister against",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      54,
+      294,
+      377,
+      27
+    ],
+    "text": "buy decision of the Controlter of Iimporty and Exports",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      53,
+      321,
+      378,
+      15
+    ],
+    "text": "appointed under this Act, the decision of the Minister",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      52,
+      337,
+      379,
+      18
+    ],
+    "text": "on any such gppeal shall be final and conclusive and",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      53,
+      341,
+      378,
+      28
+    ],
+    "text": "shall not be subyect to neview or called sa question in",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      53,
+      369,
+      70,
+      14
+    ],
+    "text": "any court.",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      69,
+      407,
+      439,
+      16
+    ],
+    "text": "3. There may be appointed, for the purposes of Apprinunet",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      53,
+      407,
+      459,
+      37
+    ],
+    "text": "this Act, a. Controller 5f Imports and Peports and SS tenata,",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      53,
+      438,
+      377,
+      16
+    ],
+    "text": "such Deputies and Assistants to him and such other",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      52,
+      453,
+      292,
+      17
+    ],
+    "text": "officers and servants as may be necessary.",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      47,
+      474,
+      10,
+      13
+    ],
+    "text": "nN",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      48,
+      488,
+      444,
+      24
+    ],
+    "text": "* 4% (1) For the purposes of any regulations made fom,",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      51,
+      494,
+      450,
+      37
+    ],
+    "text": "under section 2 (O) (oy of this Act, the Controller of infarmatian",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      53,
+      524,
+      448,
+      29
+    ],
+    "text": "Imports and Exports may direct any person, inelud- ji",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      52,
+      531,
+      446,
+      36
+    ],
+    "text": "ing the manager of any bank in eyloa, to furnieh to one.",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      52,
+      556,
+      377,
+      17
+    ],
+    "text": "such officer, and within such time, as may be epecified",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      52,
+      571,
+      377,
+      17
+    ],
+    "text": "jn the direction, information regarding such matters",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      52,
+      586,
+      378,
+      18
+    ],
+    "text": "relevant to those purposes as may be a0 specified and",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      51,
+      603,
+      377,
+      29
+    ],
+    "text": "%o eause to be producid for ingpection by euch officer,",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      52,
+      618,
+      377,
+      17
+    ],
+    "text": "within such time, and at place as may he so",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      51,
+      634,
+      378,
+      15
+    ],
+    "text": "specified, such books, accounts and other documents",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      52,
+      649,
+      378,
+      30
+    ],
+    "text": "relevant to thoee purposes as may be so specified, in-",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      51,
+      664,
+      378,
+      18
+    ],
+    "text": "cluding certified copies of entries in books,",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      50,
+      681,
+      208,
+      14
+    ],
+    "text": "accounts, or other documents.",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66,
+      709,
+      363,
+      16
+    ],
+    "text": "(2) If any person who is directed to. furnish",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      49,
+      724,
+      380,
+      19
+    ],
+    "text": "information under sub-section (1), furnishes any",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      49,
+      740,
+      379,
+      18
+    ],
+    "text": "information which to his knowledge ie untrue, he",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      49,
+      755,
+      379,
+      19
+    ],
+    "text": "shall be guilty of an offence and shall, on conviction",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      48,
+      771,
+      379,
+      30
+    ],
+    "text": "after summery trial before a Magistrate, be liable to",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      48,
+      787,
+      380,
+      19
+    ],
+    "text": "axfine not exceeding ane thousand five hundred rapees",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      48,
+      803,
+      379,
+      18
+    ],
+    "text": "or to imprisonment of ither description for a term",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      48,
+      808,
+      379,
+      26
+    ],
+    "text": "not excseding six mouthe or fo both such fine and",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      47,
+      824,
+      316,
+      32
+    ],
+    "text": "imprisonment. :",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      74,
+      5,
+      503,
+      17
+    ],
+    "text": ". 6 Imports and Exports (Control) Act, No. 9 of 1965.",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      92,
+      24,
+      494,
+      33
+    ],
+    "text": "appiction 3, The provisions of this Act shall be read and",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      88,
+      44,
+      498,
+      27
+    ],
+    "text": "Ordiaanee- construed as one with the Customs Ordinance, and",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      92,
+      65,
+      495,
+      17
+    ],
+    "text": "Cap. 185. for the purpose of the application of the Customs",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      194,
+      72,
+      191,
+      32
+    ],
+    "text": "Ordinance .",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      233,
+      112,
+      353,
+      14
+    ],
+    "text": "(a) goods the importation of which is probibited",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      228,
+      113,
+      361,
+      37
+    ],
+    "text": "@ Boy regulation made under thia Act shall",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      277,
+      144,
+      308,
+      17
+    ],
+    "text": "be deemed to be goods the importation of",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      277,
+      160,
+      253,
+      17
+    ],
+    "text": "which is prohibited by Ordinance;",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      229,
+      187,
+      356,
+      18
+    ],
+    "text": "{8) goods the exportation of which is prohibited",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      278,
+      204,
+      307,
+      16
+    ],
+    "text": "by tegulation made under this Act shall",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      278,
+      219,
+      307,
+      17
+    ],
+    "text": "ba deemed to be goods the exportation of",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      279,
+      236,
+      251,
+      16
+    ],
+    "text": "which is prohibited by Ordinance;",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      231,
+      263,
+      354,
+      16
+    ],
+    "text": "@ the importation, of which is restricted",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      242,
+      260,
+      343,
+      42
+    ],
+    "text": "? soe regalation made under this Act shall be",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      279,
+      295,
+      306,
+      17
+    ],
+    "text": "deemed to be goods the importation of",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      279,
+      311,
+      310,
+      20
+    ],
+    "text": "which is restricted by Ordinance; and:",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      258,
+      338,
+      325,
+      17
+    ],
+    "text": "goods the exportation of which is restricted",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      231,
+      339,
+      358,
+      32
+    ],
+    "text": "@ by regulation made wnder this Act shall be!",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      279,
+      370,
+      310,
+      17
+    ],
+    "text": "deemed to be goods the exportation of;",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      268,
+      386,
+      254,
+      17
+    ],
+    "text": "* which is restricted by Ordinance.",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      99,
+      390,
+      490,
+      62
+    ],
+    "text": "Often by 6. Where & person convicted of an offence val",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      99,
+      443,
+      490,
+      21
+    ],
+    "text": "Coreratins. thia Act or under any regulation made under this Act!",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      198,
+      461,
+      391,
+      17
+    ],
+    "text": "is a body corporate, every person who, at the time oP!",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      198,
+      466,
+      391,
+      27
+    ],
+    "text": "the commission of such aflence, was director or aa",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      198,
+      492,
+      391,
+      31
+    ],
+    "text": "officer of such body shell be deemed to be guilty of such i",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      198,
+      509,
+      384,
+      17
+    ],
+    "text": "offence unless he proves that such offence was com-",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      197,
+      525,
+      384,
+      17
+    ],
+    "text": "mitted without hig knowledge or that he exercised all",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      197,
+      541,
+      384,
+      17
+    ],
+    "text": "due diligence to prevent the commission of such",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      197,
+      557,
+      50,
+      13
+    ],
+    "text": "offence,",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      97,
+      588,
+      492,
+      27
+    ],
+    "text": "Validation 7. The refusal by the Controller of Imports, at!",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      101,
+      597,
+      488,
+      38
+    ],
+    "text": "oes, any time after March 91. 1949, and prior to the date?",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      101,
+      630,
+      488,
+      20
+    ],
+    "text": "uaier Defence of the commencement of this Act, to grant a licence),",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      96,
+      635,
+      493,
+      41
+    ],
+    "text": "fees of any description under the Defenos (Control at",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      97,
+      656,
+      483,
+      42
+    ],
+    "text": "Penictens ports Regulations to any person on the ground thet:",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      96,
+      665,
+      490,
+      40
+    ],
+    "text": "Pesooe. such person was not a citizen of Ceylon or a Ceplonse |",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      197,
+      697,
+      382,
+      18
+    ],
+    "text": "company or a Ceylonese partnership or on thi groun!",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      197,
+      713,
+      382,
+      21
+    ],
+    "text": "that such person did not employ for the purposes of",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      197,
+      726,
+      385,
+      40
+    ],
+    "text": "his business as an importer or as a trader in imported",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      194,
+      739,
+      384,
+      43
+    ],
+    "text": "geod a sufficient percentage of citizens of Ceylon.",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      197,
+      763,
+      381,
+      17
+    ],
+    "text": "shail be deemed for all purposes to have been as valid",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      198,
+      780,
+      380,
+      18
+    ],
+    "text": "as though at the time of such refusal those Regulatios:",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      198,
+      797,
+      380,
+      19
+    ],
+    "text": "had authorised such refusal on any of the ground",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      194,
+      808,
+      311,
+      31
+    ],
+    "text": "aforesaid. :",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      582,
+      858,
+      2,
+      8
+    ],
+    "text": "i",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      61,
+      867,
+      528,
+      10
+    ],
+    "text": "ee",
+    "mean_p_confidence": 0.01
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      58,
+      20,
+      382,
+      23
+    ],
+    "text": "Imports and Exports (Control) Act, No.9 of 1985. 7",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65,
+      52,
+      462,
+      15
+    ],
+    "text": "8. In this Act unless the context otherwise Interpretation.",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      48,
+      57,
+      204,
+      33
+    ],
+    "text": "requires i.",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      83,
+      91,
+      355,
+      19
+    ],
+    "text": "exportation , with its grammatical variations",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      46,
+      108,
+      391,
+      20
+    ],
+    "text": ". and cognate expressions, means the",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      48,
+      124,
+      389,
+      20
+    ],
+    "text": "e carrying and taking out of Ceylon, or",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      132,
+      141,
+      304,
+      15
+    ],
+    "text": "causing to be carried or taken out of",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      133,
+      155,
+      241,
+      18
+    ],
+    "text": "Ceylon, whether by sea or by air;",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      83,
+      174,
+      352,
+      19
+    ],
+    "text": "goods includes any article, animal, sub-",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      132,
+      192,
+      225,
+      17
+    ],
+    "text": "atence or property whatsoever;",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      82,
+      210,
+      353,
+      18
+    ],
+    "text": "importation, with its grammatical variations",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      132,
+      227,
+      302,
+      17
+    ],
+    "text": "and cognate expressions, means the",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      132,
+      243,
+      302,
+      18
+    ],
+    "text": "importing or bringing into Ceylon, or",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      131,
+      259,
+      302,
+      18
+    ],
+    "text": "causing to be imported or brought into",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      132,
+      274,
+      246,
+      18
+    ],
+    "text": "Ceylon, whether by sea or by air;",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      82,
+      293,
+      350,
+      19
+    ],
+    "text": "indent agent means @ person who canvasses",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      131,
+      310,
+      301,
+      18
+    ],
+    "text": "orders in Ceylon for any goods from other",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      131,
+      327,
+      300,
+      17
+    ],
+    "text": "persons and places or auses to be placed",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      131,
+      341,
+      301,
+      29
+    ],
+    "text": "With his principals ins country of export",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      131,
+      347,
+      208,
+      26
+    ],
+    "text": "indents for such orders; and",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      81,
+      375,
+      349,
+      20
+    ],
+    "text": "* prescribed \" means prescribed by regulation",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      131,
+      375,
+      268,
+      42
+    ],
+    "text": "made under this Act. el",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      46,
+      457,
+      12,
+      8
+    ],
+    "text": "&",
+    "mean_p_confidence": -0.01
+  }
+]

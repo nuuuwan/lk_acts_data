@@ -1,0 +1,453 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      86,
+      17,
+      424,
+      25
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      178,
+      59,
+      362,
+      35
+    ],
+    "text": "sth Session 1951 4% iy",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      445,
+      87,
+      114,
+      15
+    ],
+    "text": "Sy eos",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      426,
+      94,
+      144,
+      34
+    ],
+    "text": "<a 2A",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      291,
+      127,
+      280,
+      25
+    ],
+    "text": "lath. a SEv Ibo 2",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      231,
+      132,
+      337,
+      52
+    ],
+    "text": "poem",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      240,
+      183,
+      295,
+      54
+    ],
+    "text": ": rc. , SagNee",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      269,
+      214,
+      105,
+      21
+    ],
+    "text": "NESS Oi",
+    "mean_p_confidence": -0.0
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      235,
+      248,
+      148,
+      26
+    ],
+    "text": "REISE.",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      85,
+      305,
+      418,
+      45
+    ],
+    "text": "Profits Tax (Amendment) Act,",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      186,
+      359,
+      206,
+      22
+    ],
+    "text": "No. 33 of 1951",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      81,
+      524,
+      319,
+      17
+    ],
+    "text": ". Date of Asscnt : September 1, 1951",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      185,
+      648,
+      213,
+      14
+    ],
+    "text": "Printed on the Ondeva nf Gorernweat",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      147,
+      771,
+      380,
+      16
+    ],
+    "text": "Prinled at the Cextox Govt, Perse, Couoxno. Tr br .",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      146,
+      786,
+      294,
+      14
+    ],
+    "text": "Pele She Oa, Gators owas cea",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      146,
+      801,
+      293,
+      12
+    ],
+    "text": "sere cian cdi Wi Uo. 2 pagan",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      146,
+      812,
+      294,
+      11
+    ],
+    "text": "oman Sei, ee Ba aaa",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      147,
+      823,
+      293,
+      12
+    ],
+    "text": "ee ee Scena. Come T",
+    "mean_p_confidence": 0.09
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      150,
+      843,
+      283,
+      12
+    ],
+    "text": "Prion 10 cents Postage :F oente",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      48,
+      868,
+      525,
+      9
+    ],
+    "text": "ee",
+    "mean_p_confidence": 0.05
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      13,
+      360,
+      17
+    ],
+    "text": "Profits Tax (Amendment) Act, No. 83 of 1961.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      53,
+      43,
+      104,
+      13
+    ],
+    "text": "1, D.O, 82/51,",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93,
+      75,
+      312,
+      15
+    ],
+    "text": "An Act 10 amznD THE Prorits Tax Act,",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      195,
+      92,
+      106,
+      13
+    ],
+    "text": "No. 5 oF 1948.",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      110,
+      122,
+      279,
+      18
+    ],
+    "text": "[Date of Assent: September 1, 1951.]",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      151,
+      375,
+      17
+    ],
+    "text": "BE it enacted by the Kings Most Excellent",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      54,
+      166,
+      391,
+      20
+    ],
+    "text": "Majesty, by and with the advice and consent of the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      55,
+      184,
+      390,
+      17
+    ],
+    "text": "Senate and the House of Representatives of Ceyton",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      55,
+      200,
+      390,
+      18
+    ],
+    "text": "in this present Parliament assembled, and by the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      55,
+      217,
+      265,
+      17
+    ],
+    "text": "authority of the same, as follows :",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      245,
+      443,
+      14
+    ],
+    "text": "4. This Act may be cited as the Profits Tax shor tue.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      55,
+      259,
+      254,
+      20
+    ],
+    "text": "(Amendment) Act, No. 33 of 1951.",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      294,
+      460,
+      20
+    ],
+    "text": "2. Section 10 of the Profits Tax Act, No. 5 of Amenment of",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      56,
+      307,
+      464,
+      23
+    ],
+    "text": "1948, is hereby amended by the addition, at the end of Aa'ne. sat",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      55,
+      327,
+      431,
+      16
+    ],
+    "text": "that section, of the following : 1088,",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      351,
+      372,
+      16
+    ],
+    "text": "Provided. however, that the rate of such tax pay-",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      55,
+      367,
+      389,
+      17
+    ],
+    "text": "able in respect of the profits tax year commencing on",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      56,
+      383,
+      389,
+      17
+    ],
+    "text": "the first dey of January, 1951, and of each subsequent",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      56,
+      399,
+      389,
+      18
+    ],
+    "text": "profits tax year shall be twenty-five per centum of such",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      55,
+      416,
+      139,
+      17
+    ],
+    "text": "chargeable surplus. .",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      41,
+      853,
+      539,
+      23
+    ],
+    "text": "t Ds BH ATSR-BNTT ROIS '",
+    "mean_p_confidence": 0.25
+  }
+]

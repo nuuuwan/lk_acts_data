@@ -1,0 +1,596 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      102,
+      37,
+      391,
+      24
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      196,
+      74,
+      200,
+      26
+    ],
+    "text": "3rd Session, 1954-55",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      279,
+      149,
+      36,
+      26
+    ],
+    "text": "ee",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      274,
+      176,
+      53,
+      17
+    ],
+    "text": "ANTIAN",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      249,
+      221,
+      89,
+      23
+    ],
+    "text": "aeurmt ey",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68,
+      327,
+      459,
+      34
+    ],
+    "text": "Municipal Councils (Amendment) Act,",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      203,
+      367,
+      224,
+      30
+    ],
+    "text": "No. 44 of 1954 ~",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      190,
+      502,
+      215,
+      14
+    ],
+    "text": "Date of Assent : September 8, 1954",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      177,
+      616,
+      242,
+      14
+    ],
+    "text": "Printed on the Orders of Government",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      124,
+      748,
+      346,
+      23
+    ],
+    "text": "purchased ui the Goveuanaatt Fumae aks Serene, Coane",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      124,
+      773,
+      346,
+      12
+    ],
+    "text": "Annual Subscription (including Bilis} Re. 25, payable in",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      124,
+      781,
+      346,
+      25
+    ],
+    "text": "BE Bont So Ero ea,",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      120,
+      805,
+      350,
+      27
+    ],
+    "text": "Price: 15 cents. Postage: 10 cents.",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140,
+      32,
+      323,
+      16
+    ],
+    "text": "Municipal Councils (Amendment) Act, 8",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      225,
+      47,
+      104,
+      14
+    ],
+    "text": "No. 44 of 1054",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      66,
+      206,
+      21
+    ],
+    "text": "L. DoF, ys * .",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      114,
+      101,
+      328,
+      13
+    ],
+    "text": "AN Act 70 AMEND THE Municipal, Counemts",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      180,
+      116,
+      196,
+      15
+    ],
+    "text": "Onpmanes, No. 28 oF 1947.",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      146,
+      147,
+      266,
+      17
+    ],
+    "text": "[Date of Assent: September 8, 1954]",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      106,
+      174,
+      362,
+      29
+    ],
+    "text": "BE it enacted by the Queen's, Most Excellent.",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      190,
+      378,
+      29
+    ],
+    "text": "Majesty, by and with the advice and consant of the",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      206,
+      378,
+      16
+    ],
+    "text": "Senate and the House of Representatives of Ceylon",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      221,
+      379,
+      17
+    ],
+    "text": "in this present Parliament assembled, and by the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      237,
+      257,
+      17
+    ],
+    "text": "authority of the same, as follows:",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      107,
+      268,
+      423,
+      17
+    ],
+    "text": "1, Thig Act may be cited as the Municipal sen sie",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      285,
+      309,
+      15
+    ],
+    "text": "Councils (Amendment) Act, No. 44 of 1954.",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      107,
+      316,
+      429,
+      16
+    ],
+    "text": "2, Part VIII of the Municipal Councils Ordi- tnanisn ot",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      331,
+      442,
+      18
+    ],
+    "text": "nance, No. 20 of 1947, is hereby amended, by the ey ston",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      336,
+      433,
+      28
+    ],
+    "text": "Insertion, immediately after scttion 184,\" of the Sana",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      362,
+      461,
+      18
+    ],
+    "text": "following new section which shall have effect as section No 2 ef 1017",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92,
+      379,
+      160,
+      15
+    ],
+    "text": "1844, in that Part:",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93,
+      403,
+      396,
+      16
+    ],
+    "text": "\"Be gratia 1844. (1) A Municipal Council may, ,",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92,
+      418,
+      380,
+      21
+    ],
+    "text": "great of with the approval of the Minister given",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      431,
+      383,
+      26
+    ],
+    "text": "grotnity, after consultation with the Minister of",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93,
+      450,
+      379,
+      28
+    ],
+    "text": "Sitmaf Finance, grant out of the Municipal",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139,
+      466,
+      333,
+      17
+    ],
+    "text": "7 Fund to any person who retires or has",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      187,
+      482,
+      286,
+      13
+    ],
+    "text": "retired from service as an officer or",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      186,
+      493,
+      286,
+      37
+    ],
+    "text": "servant of that Councit @ pension,",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      186,
+      513,
+      234,
+      17
+    ],
+    "text": "gratuity, or retiring allowance in",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      151,
+      517,
+      322,
+      29
+    ],
+    "text": "- Suny Geriod of tbat, service for which",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      186,
+      545,
+      288,
+      17
+    ],
+    "text": "no pension, gratuity, or retiring",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      187,
+      549,
+      285,
+      28
+    ],
+    "text": "allowznee, ar ap. adequate pension,",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      186,
+      576,
+      288,
+      18
+    ],
+    "text": "gratuity, or retiring allowance, is",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      187,
+      592,
+      290,
+      17
+    ],
+    "text": "payable under any by-laws or rules of",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      187,
+      608,
+      287,
+      17
+    ],
+    "text": "that Council or under any pension",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      186,
+      624,
+      288,
+      14
+    ],
+    "text": "gcheme established under the Local",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      187,
+      640,
+      287,
+      15
+    ],
+    "text": "Government Service Ordinance, No. 43",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      186,
+      657,
+      59,
+      12
+    ],
+    "text": "of 1945,",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      168,
+      679,
+      338,
+      17
+    ],
+    "text": "+ () Nothing in sub-section (1) shall be ~",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      187,
+      676,
+      287,
+      41
+    ],
+    "text": "deemed or construed to oni on any",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      177,
+      711,
+      296,
+      19
+    ],
+    "text": "- person any right to any pension,",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      186,
+      715,
+      288,
+      42
+    ],
+    "text": "graimity, or, retiring allowance under",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      210,
+      743,
+      110,
+      13
+    ],
+    "text": ". sub-seotion.'*.",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      131,
+      857,
+      120,
+      10
+    ],
+    "text": "1B 100-901 (40",
+    "mean_p_confidence": 0.19
+  }
+]

@@ -1,0 +1,3709 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      104,
+      6,
+      428,
+      26
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      203,
+      47,
+      309,
+      48
+    ],
+    "text": "2nd Session 1953-54 _~",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      299,
+      80,
+      229,
+      38
+    ],
+    "text": "o af S oe",
+    "mean_p_confidence": 0.05
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      234,
+      129,
+      297,
+      25
+    ],
+    "text": "pea Ea",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      247,
+      131,
+      283,
+      45
+    ],
+    "text": "a re",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      259,
+      160,
+      260,
+      53
+    ],
+    "text": "a",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      99,
+      286,
+      407,
+      31
+    ],
+    "text": "Ceylon Development Loans Act,",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      214,
+      329,
+      271,
+      28
+    ],
+    "text": "No. 6 of 1954 ,",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      194,
+      428,
+      221,
+      34
+    ],
+    "text": "Date of Assent: February 2a, 1954",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      182,
+      578,
+      246,
+      15
+    ],
+    "text": "Printed on the Orders of Government",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      73,
+      768,
+      404,
+      27
+    ],
+    "text": "Ee og ne",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      162,
+      795,
+      315,
+      13
+    ],
+    "text": "us] Subscription (including Wills) Rs. payable in",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      138,
+      796,
+      357,
+      38
+    ],
+    "text": "PN ee a",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      90,
+      837,
+      383,
+      15
+    ],
+    "text": ". Price; 30 cents. Postage: 10 cents,",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      148,
+      8,
+      305,
+      24
+    ],
+    "text": "Ceylon Development Loans Act, 3",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      215,
+      32,
+      99,
+      15
+    ],
+    "text": "No. 6 of 1054.",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      55,
+      239,
+      18
+    ],
+    "text": "* YD.0.'61/68, oa",
+    "mean_p_confidence": 0.06
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      80,
+      378,
+      13
+    ],
+    "text": "Aw Act 70 PROVIDE FOR THE RAISING OF LOANS THE",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      99,
+      381,
+      13
+    ],
+    "text": "TOTAL AMOUNT OF WHICH GHALL NOT EXCEED SIX.",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      106,
+      373,
+      24
+    ],
+    "text": "Vaonpred MILLION RUPEES FOR EXPENDITUES ON THE",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      128,
+      363,
+      14
+    ],
+    "text": "DEVELOPMENT OF CEYLON, FOR THE RAIBING OF ANY",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      146,
+      375,
+      11
+    ],
+    "text": "_ FURTHER LOAN WHICH MAY BE NECESGARY FOR DEFRAY-",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      162,
+      365,
+      10
+    ],
+    "text": "ING THR EXPENSES OF RAISING TRE AFOREGAID SUM",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      178,
+      364,
+      11
+    ],
+    "text": "OR ANY PART THEREOF, AND TO MARE PROVISIONS",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      190,
+      366,
+      15
+    ],
+    "text": "REOARDING THE RAISING, IN TRE Unren KincpoM on",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      206,
+      366,
+      13
+    ],
+    "text": "FROM THE INTERNATIONAL BaNx OR RECONSTRUCTION",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      222,
+      378,
+      15
+    ],
+    "text": ";, 4ND DEVELOPMENT, OF ANY LOAN AUTHORISED BY THIS",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      238,
+      260,
+      13
+    ],
+    "text": "Act OR BY ANY OTHtER Act. :",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      131,
+      265,
+      279,
+      17
+    ],
+    "text": "[Date of Assent: February 22; 1954]",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      292,
+      366,
+      30
+    ],
+    "text": "BE it enacted by them s Most Excellent",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      293,
+      381,
+      44
+    ],
+    "text": "Majesty, by and with the adie cad consent of the",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      324,
+      382,
+      17
+    ],
+    "text": "Senate and the House of Representatives of Ceylon",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      340,
+      382,
+      17
+    ],
+    "text": "in this present Parliament assembled, and by the",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      356,
+      261,
+      17
+    ],
+    "text": "authority of the same, as follows :",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      388,
+      437,
+      17
+    ],
+    "text": "4, This Act may be cited as the Ceylon Development sheet tite,",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      404,
+      339,
+      15
+    ],
+    "text": "Loans Act, No. 6 of 1954.",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      228,
+      449,
+      87,
+      12
+    ],
+    "text": "PART I.",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      472,
+      367,
+      17
+    ],
+    "text": "Proitions relating to loans authorised by this Aot.",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      493,
+      444,
+      23
+    ],
+    "text": "2, (1) The Monetary Board is hereby authorised Aviary to",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      512,
+      383,
+      16
+    ],
+    "text": "to raise for the Government of Ceylon loans the total",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      527,
+      383,
+      14
+    ],
+    "text": "amoont of which shall not exosed six hundred million",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      543,
+      383,
+      18
+    ],
+    "text": "rupees for expenditure on any work connected with or",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      559,
+      409,
+      20
+    ],
+    "text": "incidental to the development of Ceylon. .",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      583,
+      367,
+      29
+    ],
+    "text": "(2) In addition to the sum specified in. sub-section",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      599,
+      383,
+      17
+    ],
+    "text": "(1), the Monetary Board is hereby anthorised to raise",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      615,
+      383,
+      17
+    ],
+    "text": "by way of loan, for the Government of Ceylon, such",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      631,
+      384,
+      29
+    ],
+    "text": "further sume a6 may be necessary for the purposes of",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      647,
+      385,
+      17
+    ],
+    "text": "defraying the expenses incurred in raising loans under",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      663,
+      265,
+      20
+    ],
+    "text": "that sub-section. '",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      694,
+      457,
+      22
+    ],
+    "text": "3. A loab authorised by this Act may be raised in atusser ot |",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      714,
+      471,
+      18
+    ],
+    "text": "such one or more of the following modes as the \"sing kane",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      731,
+      293,
+      17
+    ],
+    "text": "Government of Ceylon may determine:",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      104,
+      755,
+      352,
+      17
+    ],
+    "text": "(@) by the issue of stock or securities in acoord-",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      151,
+      771,
+      305,
+      18
+    ],
+    "text": "ance with the provisions of the Registered",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      788,
+      449,
+      18
+    ],
+    "text": "++. +. Stock and Securities Ordinance; cap. 00.",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      807,
+      381,
+      18
+    ],
+    "text": "- + @) by-the issue of stock in accordance with the",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96,
+      824,
+      361,
+      17
+    ],
+    "text": ": provisions of Part II of this Act; .",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      844,
+      135,
+      9
+    ],
+    "text": "1s Hep aenesssocuse",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      166,
+      2,
+      308,
+      17
+    ],
+    "text": "Ceylon Development Loans Act,",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      306,
+      18,
+      100,
+      15
+    ],
+    "text": "No. 6 of 1864",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      199,
+      43,
+      349,
+      21
+    ],
+    "text": "(@ from the International Bank for Reconstruc-",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      170,
+      58,
+      378,
+      32
+    ],
+    "text": "c 1+ Hom and. Development in accordance -with",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      127,
+      75,
+      391,
+      23
+    ],
+    "text": "| Hia~ the provisions of Part ITT of this Act.",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      62,
+      102,
+      487,
+      20
+    ],
+    "text": "Aypliation ot \"K, * All. moneys raised by way of loan under sab-",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72,
+      118,
+      478,
+      34
+    ],
+    "text": "Bears rien section 1) of section 2 may be expended on the work",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71,
+      135,
+      479,
+      17
+    ],
+    "text": "taderwcion mentioned in that sub-section, but no such expenditure",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      73,
+      152,
+      478,
+      19
+    ],
+    "text": "a. shall be finally charged to such loan except upon a",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      167,
+      166,
+      383,
+      19
+    ],
+    "text": "resolution, in that bebalf passed by the House of",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      163,
+      183,
+      353,
+      26
+    ],
+    "text": "Representatives: oo te,",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      171,
+      206,
+      380,
+      20
+    ],
+    "text": "2 \"Provided, howsver, that where a loan authorised by",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      168,
+      222,
+      382,
+      19
+    ],
+    "text": "this Act is raised in accordance with the provisions of",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      168,
+      240,
+      382,
+      18
+    ],
+    "text": "Part IL or Part IIT of this Act for eny purpose or",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      110,
+      255,
+      441,
+      31
+    ],
+    "text": ": purposes epeciied in any prospocias issued or aly Toan",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      168,
+      271,
+      383,
+      21
+    ],
+    "text": "agreement entered into by or on behalf of the Govern-",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      168,
+      286,
+      383,
+      21
+    ],
+    "text": "ment of Ceylon, the moneys raised by such loan shall",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      168,
+      304,
+      383,
+      30
+    ],
+    "text": "not be expended ob, any purpose other than the purpose",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      168,
+      319,
+      384,
+      20
+    ],
+    "text": "or.all.or any of the purposes specified in such",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      168,
+      336,
+      322,
+      20
+    ],
+    "text": "prospectus or agreement, as the case may be.",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      131,
+      370,
+      267,
+      23
+    ],
+    "text": "eet +. PART IL",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      126,
+      388,
+      409,
+      19
+    ],
+    "text": ". Provisions relating to the-raising of loons in the",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      296,
+      406,
+      125,
+      16
+    ],
+    "text": "United Kingdom.",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      68,
+      428,
+      484,
+      28
+    ],
+    "text": "Teams ta be 6. Where by this Act or any other Act authority",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72,
+      444,
+      480,
+      23
+    ],
+    "text": "Bit Siosion is given to raise @ loan, then, if the Government of",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72,
+      461,
+      481,
+      24
+    ],
+    "text": "iyimect Ceylon o determines, guch loan may be raised by",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72,
+      477,
+      481,
+      30
+    ],
+    "text": "Seamar 5: the issue of stook of the Government of Ceylon (heroin",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72,
+      493,
+      489,
+      19
+    ],
+    "text": "ot Geyer. after referred to as Ceylon Government stock )\\in",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      167,
+      509,
+      386,
+      32
+    ],
+    "text": "the United Kingdom in accordance with the provisions",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      166,
+      514,
+      387,
+      33
+    ],
+    "text": "of this Part of this Act and the conditions of the iseue",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      167,
+      542,
+      386,
+      19
+    ],
+    "text": "detailed in the prospectus of that stock epproved by",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      167,
+      560,
+      197,
+      19
+    ],
+    "text": "the Government of Ceylon.",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71,
+      586,
+      483,
+      20
+    ],
+    "text": "Auak 12 &,_ The Morietary Board shall appoint an Agent in",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71,
+      583,
+      484,
+      43
+    ],
+    "text": "jnogent the. United Kingdom to issue Ceylon Govceament",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71,
+      619,
+      484,
+      20
+    ],
+    "text": "oF Getlon stock and shall appoint such Agent to be the Registrar",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      67,
+      633,
+      488,
+      30
+    ],
+    "text": "Sovarnment of Ceylon Government stock, such appointments being",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      168,
+      653,
+      387,
+      30
+    ],
+    "text": "shade with the approval of, and upon auch terms 3",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      168,
+      669,
+      356,
+      18
+    ],
+    "text": "may be determined by, the Government of Ceylon.",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71,
+      697,
+      484,
+      26
+    ],
+    "text": "fewer\" =F, Ceylon Government stodk ahall be ianied under",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70,
+      713,
+      484,
+      32
+    ],
+    "text": "Ginans the provitions of the Colonial Stock Acts 1877 jo 1048",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      168,
+      731,
+      387,
+      17
+    ],
+    "text": "of the United Kingdom or. any Acts amending them or",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      167,
+      735,
+      328,
+      28
+    ],
+    "text": "substituted therefor. y me",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70,
+      776,
+      484,
+      18
+    ],
+    "text": "Gopton 8: (1) Regulations relating to Ceylon Government",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      69,
+      777,
+      485,
+      45
+    ],
+    "text": "giro\" lock may be made by the hb scrar aoder section 16",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      69,
+      797,
+      485,
+      31
+    ],
+    "text": "Fegustion GE the Colonial Stock Act TBY7T, as extended by the",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      101,
+      825,
+      454,
+      17
+    ],
+    "text": ": Colonial Stock: Act 1948, of the. United-Kingdom or",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      134,
+      10,
+      309,
+      18
+    ],
+    "text": "Ceylon Development Loans Act, 5",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      202,
+      28,
+      99,
+      15
+    ],
+    "text": "No. 6 of 1964",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      63,
+      53,
+      381,
+      19
+    ],
+    "text": "any Acts amending them or substituted therefor, and",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      63,
+      69,
+      381,
+      18
+    ],
+    "text": "the regulations may include provision that Ceylon",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      64,
+      86,
+      381,
+      15
+    ],
+    "text": "Government stock shall be transferable by instrument",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      64,
+      100,
+      381,
+      19
+    ],
+    "text": "in writing in accordance with the regulations and in",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      55,
+      116,
+      391,
+      20
+    ],
+    "text": ", no other manner and that certificates of title relating",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      65,
+      133,
+      302,
+      17
+    ],
+    "text": "to Ceylon Government stock may be issued.",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      84,
+      152,
+      362,
+      18
+    ],
+    "text": "@) Regulations made by the Registrar shall not",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67,
+      153,
+      379,
+      37
+    ],
+    "text": "come ino foree until they have been submitted to",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67,
+      184,
+      309,
+      18
+    ],
+    "text": "and approved by the Government of Ceylon.",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83,
+      212,
+      437,
+      29
+    ],
+    "text": "9, Gl) The Government of Ceylon shall pay to riabtty of",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67,
+      225,
+      465,
+      22
+    ],
+    "text": "each holder of any Ceylon Government atock the ~ Gore=nem",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      68,
+      240,
+      443,
+      36
+    ],
+    "text": "principal sum of his holding and the interest due respet of",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      68,
+      258,
+      454,
+      19
+    ],
+    "text": "thereon; on the dates and at the rates specified in the G'S seas",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67,
+      275,
+      424,
+      19
+    ],
+    "text": "prospectus of the stock, and the premium, if any, stock.",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      68,
+      291,
+      380,
+      18
+    ],
+    "text": "payable on the relemption or conversion of his holding",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      68,
+      309,
+      95,
+      12
+    ],
+    "text": "of such stock.",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86,
+      327,
+      363,
+      17
+    ],
+    "text": "(2) The Minister of Finance shail from time to time",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70,
+      342,
+      379,
+      18
+    ],
+    "text": "authorise by warrant under his hand the withdrawal",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71,
+      355,
+      401,
+      36
+    ],
+    "text": "from the Consolidated Fand of Ceylon of sums eufi- -",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70,
+      374,
+      380,
+      18
+    ],
+    "text": "cient to make the payments required by sub-section. (1)",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71,
+      376,
+      379,
+      36
+    ],
+    "text": "to be made by the Government of Ceylon and shall",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71,
+      406,
+      380,
+      16
+    ],
+    "text": "cause those sims to be transmitted to the Registrar",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      63,
+      422,
+      451,
+      17
+    ],
+    "text": "in such time ag will enable the Registrar to make .",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72,
+      439,
+      271,
+      18
+    ],
+    "text": "those payments on the due dates.",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      55,
+      455,
+      397,
+      22
+    ],
+    "text": "} @&) The principal of, the interest om, and any pre-",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71,
+      473,
+      380,
+      20
+    ],
+    "text": "minm payable on the redemption or conversion of,",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72,
+      489,
+      380,
+      20
+    ],
+    "text": "Ceylon Government stock are hereby charged on the",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72,
+      507,
+      212,
+      16
+    ],
+    "text": "Consolidated Fund of Ceyton.",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89,
+      533,
+      431,
+      19
+    ],
+    "text": "40, Interest shall not acerne on any Ceylon Govern-\" Cesstin.",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73,
+      547,
+      450,
+      31
+    ],
+    "text": "ment stock after the earliest date on which the Pay e Cad",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73,
+      565,
+      477,
+      20
+    ],
+    "text": "ment of the principal amount due on that atock could _ interes. :",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      74,
+      583,
+      434,
+      18
+    ],
+    "text": "lawfnlly have been demanded. :",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      80,
+      609,
+      434,
+      17
+    ],
+    "text": ". 44, A separate sinking fund shall be established arate.",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      75,
+      612,
+      461,
+      32
+    ],
+    "text": "fon ine sete Tt cod sesue of Ceylon Govern. a5!",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      75,
+      644,
+      473,
+      20
+    ],
+    "text": "ment stock. deaf Gates",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      474,
+      666,
+      27,
+      8
+    ],
+    "text": "sock",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      91,
+      674,
+      438,
+      18
+    ],
+    "text": "42.. The Monetary Board shall, with the approval - traces of",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      75,
+      684,
+      469,
+      40
+    ],
+    "text": "of the Government of Ceylon, appoint a trustee or sinking fonda,",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      75,
+      707,
+      383,
+      18
+    ],
+    "text": "trustees of each sinking fund established under section",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      77,
+      723,
+      382,
+      19
+    ],
+    "text": "11, and such trustee or trustees need not be a resident",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      76,
+      741,
+      163,
+      16
+    ],
+    "text": "or residents of Ceylon.",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      57,
+      766,
+      4,
+      10
+    ],
+    "text": "1",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93,
+      772,
+      449,
+      18
+    ],
+    "text": "18. .(1) In the half-year ending on the date cuitriputions",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      77,
+      771,
+      449,
+      45
+    ],
+    "text": "speaidod a the prospecting as the daterof the frst half.. ess",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      77,
+      803,
+      430,
+      37
+    ],
+    "text": "yearly contribution to the sinking fund established .",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      84,
+      821,
+      377,
+      18
+    ],
+    "text": "or the redemption of any Ceylon Government stock",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      85,
+      830,
+      416,
+      30
+    ],
+    "text": "15 BR donee CB) :",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      176,
+      10,
+      305,
+      17
+    ],
+    "text": "4 Ceylon Development Loans Act,",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      316,
+      27,
+      167,
+      15
+    ],
+    "text": "No. 6 of 1954 .",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      179,
+      53,
+      377,
+      17
+    ],
+    "text": "and thereafter in cach half-year ending on the date",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108,
+      62,
+      448,
+      41
+    ],
+    "text": ": for the payment of the half- ently, interest, on such",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      179,
+      75,
+      377,
+      28
+    ],
+    "text": "stock, there shall be paid out of the Consolidated Fund",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      179,
+      102,
+      378,
+      17
+    ],
+    "text": "of Ceylon the amount of the half-yearly contribution",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      175,
+      105,
+      398,
+      46
+    ],
+    "text": "to mach sinking fund caloulated at the rate specified. .",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      180,
+      134,
+      375,
+      18
+    ],
+    "text": "for such contributions in the prospectus of such stock.",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      195,
+      150,
+      362,
+      44
+    ],
+    "text": "{2) All contributions aider sub-section , are",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      179,
+      174,
+      377,
+      20
+    ],
+    "text": "hereby charged on the Consolidated Fund of Ceylon.",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      83,
+      206,
+      474,
+      28
+    ],
+    "text": "Inesinent of 44. (i) All sums required by section 18 to be pai",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      83,
+      216,
+      474,
+      39
+    ],
+    "text": "anhiog hd as contributions to the sinking fund established for",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      83,
+      238,
+      474,
+      19
+    ],
+    "text": "of Gayton the redemption of any Ceylon Government stock shall",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      83,
+      254,
+      475,
+      22
+    ],
+    "text": "Goymet | he paid to the trustee or trustees of that fund so as",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      83,
+      261,
+      474,
+      24
+    ],
+    "text": "HOESSES!, to Be in his o thei hands on the due date, and any",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      179,
+      286,
+      379,
+      18
+    ],
+    "text": "sum 90 paid may by such trustee or trustees be invested",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      100,
+      301,
+      457,
+      18
+    ],
+    "text": ". in euch stock or in any other securities in which",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      178,
+      318,
+      380,
+      15
+    ],
+    "text": "trastees are from time to time authorised to invest",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      178,
+      335,
+      281,
+      17
+    ],
+    "text": "trust moneys under the lew in England.",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      140,
+      358,
+      417,
+      18
+    ],
+    "text": ". (2) The trustee or trustees of a sinking fund may",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      178,
+      374,
+      381,
+      16
+    ],
+    "text": "in his or their discretion from time to time vary or",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      74,
+      389,
+      484,
+      19
+    ],
+    "text": ". transpose any investments made under this section for",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      177,
+      405,
+      382,
+      21
+    ],
+    "text": "or into any other investments authorised by this",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      117,
+      425,
+      112,
+      11
+    ],
+    "text": ": section.",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      168,
+      446,
+      405,
+      20
+    ],
+    "text": ". _ @) The trustee or trustees may in his or their dis- 4",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      178,
+      462,
+      381,
+      29
+    ],
+    "text": "cretion cancel any Ceylon Government stock acquired",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      179,
+      478,
+      380,
+      17
+    ],
+    "text": "for the sinking fund established for the redemption",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      178,
+      495,
+      94,
+      16
+    ],
+    "text": "of that stock.",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      83,
+      521,
+      477,
+      40
+    ],
+    "text": "Teveatmeot of i The dividends, interest, bonus and other profits",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      83,
+      544,
+      477,
+      20
+    ],
+    "text": "iplareet om of any investment of any part of any sinking fund",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      83,
+      549,
+      477,
+      40
+    ],
+    "text": "Ok feos. may be invested by the trustee or trustees of thet fund",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      180,
+      576,
+      380,
+      17
+    ],
+    "text": "in like manner as moneys paid under section 13 as",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      127,
+      592,
+      434,
+      16
+    ],
+    "text": ". contributions to that fond are invested, and the same",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      180,
+      609,
+      315,
+      16
+    ],
+    "text": "when invested shall form part of that fund.",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      78,
+      635,
+      482,
+      32
+    ],
+    "text": "Canstion of 16. Notwithstanding anything to the contrary in",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      83,
+      645,
+      478,
+      40
+    ],
+    "text": "Gre! any other provision of his Acts if ot any time the",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      84,
+      662,
+      477,
+      37
+    ],
+    "text": "tunds. trustee or trustees of the sinking fund established for",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      181,
+      693,
+      380,
+      19
+    ],
+    "text": "the redemption of any Ceylon Government stock is",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      180,
+      709,
+      381,
+      19
+    ],
+    "text": "or are satisfied that such fund will be sufficient with",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      119,
+      725,
+      443,
+      20
+    ],
+    "text": ": further accumulations, but without further payments",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      180,
+      730,
+      381,
+      30
+    ],
+    "text": "of contributions, to enable such stock to be Fedeomed",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      181,
+      757,
+      380,
+      19
+    ],
+    "text": "at the time fixed for its redemption, he or they shall",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      181,
+      773,
+      381,
+      20
+    ],
+    "text": "inform the Minister of Finance accordingly, and the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      181,
+      786,
+      382,
+      38
+    ],
+    "text": "Minister of nance is hereby authorised in such event",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      200,
+      806,
+      362,
+      18
+    ],
+    "text": "suspend further payments of half-yearly contribu-",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      74,
+      812,
+      417,
+      37
+    ],
+    "text": "\\ tions to auch fund: veny",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      142,
+      13,
+      307,
+      16
+    ],
+    "text": "Ceyloi, Development Loans Act, 7",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      132,
+      18,
+      248,
+      27
+    ],
+    "text": ": No. 8 of 1954 :",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      87,
+      56,
+      362,
+      17
+    ],
+    "text": "Provided, however, that the half-yearly contribu-",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71,
+      72,
+      378,
+      17
+    ],
+    "text": "tions aa provided by section 18 to auch fund ghall be",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70,
+      88,
+      378,
+      14
+    ],
+    "text": "tecommenced if the trustee or trustees of such fund",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71,
+      104,
+      378,
+      15
+    ],
+    "text": "at any time thereafter informs or inform the Minister",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      57,
+      117,
+      391,
+      17
+    ],
+    "text": "of Finance that such trustes or trustees is or are 0",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70,
+      135,
+      378,
+      16
+    ],
+    "text": "longer satisfied that such fond with further accumula.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70,
+      151,
+      377,
+      18
+    ],
+    "text": "tions will be sufficient for the redemption of such stock.",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86,
+      171,
+      437,
+      30
+    ],
+    "text": "47, There shall be paid out of the sinki ing fund Esyaws",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      67,
+      186,
+      452,
+      22
+    ],
+    "text": "established for the redemption of any Ceylon Govern- ts Bisa",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70,
+      202,
+      425,
+      18
+    ],
+    "text": "ment stock all expenses specifically incurred in, or tana",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69,
+      209,
+      379,
+      42
+    ],
+    "text": "ineidental to, the investment and management of such",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      76,
+      238,
+      31,
+      9
+    ],
+    "text": "rund,",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      85,
+      262,
+      434,
+      18
+    ],
+    "text": "48. The Government of Ceylon may from time to Gmreion,",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69,
+      264,
+      462,
+      35
+    ],
+    "text": "time authorise the iasue, on euch terms as'that Govern- % ent\"",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69,
+      295,
+      453,
+      17
+    ],
+    "text": "ment may approve, of other Ceylon Government stock Government",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69,
+      309,
+      423,
+      19
+    ],
+    "text": "for such amount aa may be necessary for the purpose",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68,
+      326,
+      397,
+      28
+    ],
+    "text": "of redesming or converting any Ceylon Government",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68,
+      343,
+      424,
+      11
+    ],
+    "text": "stock. :",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      84,
+      366,
+      438,
+      19
+    ],
+    "text": "19, The Government of Ceylon is hereby em- Penom",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      67,
+      382,
+      450,
+      28
+    ],
+    "text": "Powered to authorize any person or persons on its Tint",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      76,
+      398,
+      449,
+      17
+    ],
+    "text": "half to approve any instrument or other document inset,",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68,
+      414,
+      382,
+      18
+    ],
+    "text": "relating to or connected with Ceylon Government",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      67,
+      430,
+      40,
+      13
+    ],
+    "text": "stock.",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      55,
+      449,
+      452,
+      28
+    ],
+    "text": "? 90, (1) () Whenever by the final judgment, using",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66,
+      473,
+      445,
+      28
+    ],
+    "text": "decree, rule or order of any Court of competent juria- Biegiom,",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66,
+      485,
+      462,
+      39
+    ],
+    "text": "diction in the United Kingdom any sum of money is fguus",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      62,
+      497,
+      443,
+      43
+    ],
+    "text": "adliudged or declared to be payable by the Government :",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65,
+      522,
+      383,
+      18
+    ],
+    "text": "of Ceylon in respect of any Ceylon Government stock,",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      67,
+      531,
+      383,
+      42
+    ],
+    "text": "the Minister of Finance shall, notwithatanding aay:",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65,
+      554,
+      384,
+      19
+    ],
+    "text": "thing to the contrary in any other law, forthwith pay",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      67,
+      570,
+      383,
+      17
+    ],
+    "text": "the um out of the Ceylon Government Account in",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66,
+      586,
+      57,
+      13
+    ],
+    "text": "London.",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      81,
+      607,
+      368,
+      18
+    ],
+    "text": "() For the purposes of this sub-section, the expres-",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65,
+      622,
+      384,
+      17
+    ],
+    "text": "gion final judgment, deoree, rule or order means",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65,
+      631,
+      383,
+      41
+    ],
+    "text": "incase of appeal the final judgmeni, decree, rule or",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      64,
+      644,
+      339,
+      29
+    ],
+    "text": "order of the witimate Court hearing the appeal.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      81,
+      674,
+      367,
+      19
+    ],
+    "text": "() Without in any way limiting the foregoing pro-",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      64,
+      675,
+      385,
+      40
+    ],
+    "text": "vigions of this sab-seztion it ia horeby declared that the",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      63,
+      707,
+      400,
+      18
+    ],
+    "text": "Minister of Finance shall, notwithstending anything",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65,
+      723,
+      385,
+      18
+    ],
+    "text": "to the contrary in any other law, forthwith pay out",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65,
+      739,
+      384,
+      17
+    ],
+    "text": "of the Coylon Government Account in London what",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      49,
+      756,
+      400,
+      17
+    ],
+    "text": "y ever sums may from time to time be required in order",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      64,
+      768,
+      386,
+      38
+    ],
+    "text": "to enable the Registrar forthwith to comply. with any",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      64,
+      787,
+      385,
+      19
+    ],
+    "text": "judgment, decree, rule or order with which under",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      62,
+      804,
+      387,
+      15
+    ],
+    "text": "seotion 20 of the Colonial Stock Act. 1877 of the",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      63,
+      820,
+      384,
+      18
+    ],
+    "text": "United Kingdom the Registrar is required to comply.",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      85,
+      9,
+      399,
+      16
+    ],
+    "text": ": 8 Ceylon Development Loans Act,",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      80,
+      25,
+      337,
+      16
+    ],
+    "text": ". : No.6 of 1964",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      183,
+      51,
+      375,
+      29
+    ],
+    "text": "~-@) In order to enable every payment under sub-",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      182,
+      52,
+      377,
+      36
+    ],
+    "text": "ae (1) to be made out of ihe eylon Government",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      182,
+      83,
+      377,
+      15
+    ],
+    "text": "Account in London the warrant of the Minister of",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      80,
+      100,
+      478,
+      18
+    ],
+    "text": ": Finance specifying the eum to be paid pursuant to",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      182,
+      105,
+      387,
+      27
+    ],
+    "text": "that eub-section shall be sufficient authority to the",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      181,
+      131,
+      378,
+      19
+    ],
+    "text": "person having control of that Account to cause the",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      181,
+      148,
+      361,
+      18
+    ],
+    "text": "Fequisite money to be issued out of that Account.",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      190,
+      167,
+      369,
+      42
+    ],
+    "text": "(8) All sums which are required by this section to",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143,
+      192,
+      415,
+      18
+    ],
+    "text": ": be paid out of the Ceylon Government Account in",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      179,
+      206,
+      379,
+      19
+    ],
+    "text": "London are hereby-charged on the Consolidated Fund",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      178,
+      225,
+      73,
+      16
+    ],
+    "text": "of Ceylon.",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      83,
+      259,
+      475,
+      29
+    ],
+    "text": "Payments to 24. (1) The principel of, the interest on, and any",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      83,
+      272,
+      475,
+      37
+    ],
+    "text": "getein perene premium pevab le on the redemption or conversion of,",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      83,
+      288,
+      476,
+      21
+    ],
+    "text": "Sefee' Gee such Ceylon Government stock as is in the ownership",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      82,
+      299,
+      477,
+      42
+    ],
+    "text": "weet sled to of persons ot corporations neither resident nor domi-",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      83,
+      323,
+      476,
+      17
+    ],
+    "text": "tries ciled in Ceylon shall be paid without deduction for",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      85,
+      339,
+      474,
+      16
+    ],
+    "text": "or die, and free from all taxes, levies or duties now or here-",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      178,
+      354,
+      381,
+      21
+    ],
+    "text": "after imposed by or under any law of Ceylon, notwith-",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      84,
+      371,
+      434,
+      18
+    ],
+    "text": "oo standing anything in such law to the contrazy.",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      194,
+      403,
+      365,
+      20
+    ],
+    "text": "(2) For the purposes of sub-section (1), the question",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      177,
+      420,
+      382,
+      17
+    ],
+    "text": "whether a person or corporation is or is not resident in",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      178,
+      437,
+      381,
+      17
+    ],
+    "text": "Ceylon shail be determined in accordance with the",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      82,
+      450,
+      489,
+      21
+    ],
+    "text": "cxp. 18, = provisions of section 38 of the Income Tax Ordinance. *",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      82,
+      488,
+      477,
+      20
+    ],
+    "text": "Goats, \"29,\" AN costs, charges and expenses incurred in",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      81,
+      505,
+      478,
+      21
+    ],
+    "text": "sega sot connection with the issue, management, redemption or",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      177,
+      524,
+      382,
+      17
+    ],
+    "text": "conversion of any Ceylon Government stock are hereby",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      177,
+      541,
+      316,
+      17
+    ],
+    "text": "charged on the Consolidated Fund of Ceylon.",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      269,
+      585,
+      141,
+      14
+    ],
+    "text": ". PART IIl.",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      186,
+      609,
+      366,
+      18
+    ],
+    "text": "Provisions relating to loans from the International,",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      215,
+      625,
+      304,
+      18
+    ],
+    "text": "Bank for Reconstruction and Development.",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      78,
+      643,
+      481,
+      31
+    ],
+    "text": "Persoa _ 28. Where by this Act or any other Act authority",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      81,
+      651,
+      478,
+      37
+    ],
+    "text": "frpeeed is given to raise a loan and the Government of Ceylon",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      82,
+      681,
+      477,
+      19
+    ],
+    "text": "Yeon agreement Gotermines that such Joan shall be raised from the",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      82,
+      697,
+      477,
+      21
+    ],
+    "text": "wii Ing. | International Bank for Reconatruction and Develop-",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      81,
+      713,
+      478,
+      21
+    ],
+    "text": "forHaomtee Ment (hereinafter referred to as the International",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      82,
+      729,
+      476,
+      23
+    ],
+    "text": "gona, _Bank),:then, for the purpose of raising each loan,",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      178,
+      735,
+      393,
+      30
+    ],
+    "text": "the Governor-General of Ceylon. may .",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      163,
+      767,
+      408,
+      21
+    ],
+    "text": ">; (@) enter into and sign, in the ame and en behalf",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      214,
+      786,
+      346,
+      19
+    ],
+    "text": ": \"of the Government of Ceylon, Loan",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      252,
+      795,
+      307,
+      41
+    ],
+    "text": "-Agreement with the International Ban,",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139,
+      15,
+      309,
+      16
+    ],
+    "text": "Ceylon Development Loane Act, %",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      209,
+      31,
+      98,
+      15
+    ],
+    "text": "No. 6 of 1964",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      107,
+      58,
+      342,
+      16
+    ],
+    "text": "0) do all auch other acts as may be necessary for",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      102,
+      58,
+      338,
+      32
+    ],
+    "text": "giving full effect to ouch Loan Agreatent.",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      85,
+      101,
+      446,
+      17
+    ],
+    "text": "28, Any Loan Agreement entered into by the Batovosbilty",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      57,
+      115,
+      462,
+      22
+    ],
+    "text": "+ Government of Ceylon with the International Bonk 30m,",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      69,
+      132,
+      379,
+      14
+    ],
+    "text": "shall be valid and enforceable in accordance with its",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      69,
+      148,
+      379,
+      17
+    ],
+    "text": "terms, notwithstanding anything to the contrary in",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      69,
+      164,
+      313,
+      18
+    ],
+    "text": "any other law. . .",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      84,
+      192,
+      444,
+      14
+    ],
+    "text": "25, AH sums due to the International Bank under Sum dus to",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      58,
+      204,
+      475,
+      20
+    ],
+    "text": "_ a Loan Agreement between such Bank and the Govern- pissteaal",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      69,
+      223,
+      475,
+      28
+    ],
+    "text": "ment of Caylon are hereby changed on the Consolidated ft Avtitt",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      69,
+      236,
+      472,
+      19
+    ],
+    "text": "Fund of Ceylon. 4 ee eoeras",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      467,
+      257,
+      77,
+      9
+    ],
+    "text": "Bond of Capa.",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      85,
+      257,
+      443,
+      27
+    ],
+    "text": "26. The principal of, and the interest, premium Eeywe",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      69,
+      282,
+      449,
+      29
+    ],
+    "text": "and other charges on, loan obtained by the Govern- Gri,",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      68,
+      298,
+      460,
+      18
+    ],
+    "text": "ment of Ceylon from the International Bank shal] be Inverostoes)",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      68,
+      314,
+      455,
+      28
+    ],
+    "text": "paid without deduction for and free from all taxes, Fata",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      73,
+      330,
+      452,
+      17
+    ],
+    "text": "levies or duties now or hereafter iroposed by or ander thiwe tris",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      68,
+      346,
+      445,
+      17
+    ],
+    "text": "any law of Ceylon, notwithstanding anything in such * doe.",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      68,
+      361,
+      142,
+      17
+    ],
+    "text": "law to the contrary,",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      215,
+      388,
+      85,
+      13
+    ],
+    "text": "PART Iv.",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      228,
+      409,
+      59,
+      12
+    ],
+    "text": "General.",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      84,
+      429,
+      406,
+      29
+    ],
+    "text": "27, | Every determination, approval or authorisation zee",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      67,
+      445,
+      476,
+      29
+    ],
+    "text": "made by the Goverament of Ceylon for the purposes of tanahas,",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      68,
+      456,
+      473,
+      33
+    ],
+    "text": "Shis Act shal be signified io writing wnder the hand Srl el Can",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      67,
+      476,
+      447,
+      23
+    ],
+    "text": "of the Minister of Finance. : Fata",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      64,
+      494,
+      461,
+      12
+    ],
+    "text": "pera",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83,
+      503,
+      453,
+      18
+    ],
+    "text": "28. In this Act unless the context otherwise tatepreatic.",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      63,
+      512,
+      254,
+      31
+    ],
+    "text": "requires .",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      101,
+      540,
+      348,
+      16
+    ],
+    "text": "Ceylon Government Account in London",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      147,
+      556,
+      304,
+      14
+    ],
+    "text": "means the account or accounts in London",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      147,
+      572,
+      304,
+      16
+    ],
+    "text": "in which moneys of the Government of",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      148,
+      588,
+      256,
+      17
+    ],
+    "text": "Coylon are for the time being held;",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      74,
+      605,
+      377,
+      17
+    ],
+    "text": ". holder of any Ceylon Government stock \" means",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      147,
+      622,
+      304,
+      28
+    ],
+    "text": "any person or, in the case of a joint",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      147,
+      638,
+      304,
+      17
+    ],
+    "text": "holding, the persons registered in the",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      148,
+      642,
+      303,
+      29
+    ],
+    "text": "boots of the Registrar as the holder ot",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      146,
+      670,
+      381,
+      17
+    ],
+    "text": "holders of any Ceylon Government stock; .",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      100,
+      688,
+      373,
+      13
+    ],
+    "text": "Minister of Finance means the Minister of",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      147,
+      704,
+      274,
+      17
+    ],
+    "text": "Finance for the time being of Ceylon;",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      100,
+      722,
+      351,
+      28
+    ],
+    "text": "* Monetary Board \" means the Mouetary Bourd",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      146,
+      738,
+      385,
+      16
+    ],
+    "text": "of the Central Bank of Ceylon constituted .",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      146,
+      754,
+      300,
+      17
+    ],
+    "text": "by the Monetary Law Act, No. 58 of 1949;",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      99,
+      772,
+      352,
+      17
+    ],
+    "text": "Registrar means the Registrar appointed",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      146,
+      789,
+      150,
+      15
+    ],
+    "text": "undar section 6; and",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      99,
+      806,
+      353,
+      18
+    ],
+    "text": "** United Kingdom meane the United Kingdom",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      146,
+      823,
+      290,
+      14
+    ],
+    "text": "of Great Britain and Northern Ireland,",
+    "mean_p_confidence": 0.68
+  }
+]

@@ -1,0 +1,893 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      110,
+      28,
+      397,
+      26
+    ],
+    "text": "PARLIAMENT. OF CEYLON",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      212,
+      76,
+      191,
+      18
+    ],
+    "text": "3rd Session 1954-55",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      290,
+      151,
+      40,
+      26
+    ],
+    "text": "=",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      279,
+      177,
+      64,
+      10
+    ],
+    "text": "EID",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      267,
+      180,
+      82,
+      26
+    ],
+    "text": "fren",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      265,
+      198,
+      89,
+      19
+    ],
+    "text": "fs [Se",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      82,
+      317,
+      444,
+      36
+    ],
+    "text": "Civil Procedure Code (Amendment)",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      180,
+      360,
+      248,
+      27
+    ],
+    "text": "Act, No. 48 of 1954.",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      192,
+      509,
+      224,
+      13
+    ],
+    "text": "Date of Assent : September 27, 1954",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      114,
+      637,
+      316,
+      19
+    ],
+    "text": ". Printed on the Orders of Government",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      127,
+      760,
+      418,
+      28
+    ],
+    "text": "Biches ue bo RE Ee SE nt",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      127,
+      791,
+      357,
+      12
+    ],
+    "text": "Annual Subscription (including Bills} Rs. 25, payable in",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      127,
+      802,
+      356,
+      11
+    ],
+    "text": "ee Rg er",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      127,
+      810,
+      357,
+      15
+    ],
+    "text": "Bumcav, Post Orrice Box S00, Secretariat, Colorabe 1",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      127,
+      832,
+      358,
+      15
+    ],
+    "text": "Price: 15 cents, Postage: 20 cents.",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93,
+      19,
+      409,
+      17
+    ],
+    "text": "Civit Procedure Code (Amendment) Act, 3 :",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      181,
+      35,
+      112,
+      15
+    ],
+    "text": "No. 48 of 1964.",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      62,
+      101,
+      13
+    ],
+    "text": "L. DO. 84/54.",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64,
+      85,
+      434,
+      22
+    ],
+    "text": "An Aor 70 AMEND THR Crvi Procepune Conn. Shays a4",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      40,
+      108,
+      454,
+      22
+    ],
+    "text": "[Date of Assent: September 27, 1954.] mee i",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64,
+      140,
+      366,
+      28
+    ],
+    "text": "BE it enacted by tho Queen's Most Bxodlent",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      48,
+      156,
+      382,
+      28
+    ],
+    "text": "Majesty, by and with the advice and consent of the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      49,
+      171,
+      381,
+      19
+    ],
+    "text": "Senate and the House of Representatives of Ceylon",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      48,
+      187,
+      382,
+      17
+    ],
+    "text": "in this present Parliament assembled, and by the",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      49,
+      204,
+      260,
+      16
+    ],
+    "text": "authority of the same, as followe:-",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      234,
+      437,
+      16
+    ],
+    "text": "4. This Act may be cited as the Civil Procedure shat site",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      50,
+      250,
+      297,
+      16
+    ],
+    "text": "Code (Amendment) Act, No. 48 of 1954.",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      279,
+      456,
+      19
+    ],
+    "text": "2. The heading of Carmen xxxt of the Civil Anepinst of",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      49,
+      292,
+      458,
+      20
+    ],
+    "text": "Procedure Code (hereinafter referred to as the stourmt",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      50,
+      311,
+      458,
+      31
+    ],
+    "text": "principal enactment \") is hereby amended by the sata te,",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      48,
+      325,
+      476,
+      19
+    ],
+    "text": "substitution, for the words ' Pupuic Orricers, Code",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      48,
+      344,
+      384,
+      16
+    ],
+    "text": "of the words MrwisTeRs, PARLIAMENTARY SCRE.",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      48,
+      359,
+      456,
+      17
+    ],
+    "text": "TARIES, OR Pusiic OFFICERS \". :",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      390,
+      456,
+      18
+    ],
+    "text": "8. Seotion 481 of the principal enactment is hereby Amenineat of",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      50,
+      404,
+      464,
+      21
+    ],
+    "text": "amended as follows : fection ih",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      42,
+      426,
+      459,
+      24
+    ],
+    "text": ". @) by the substitution, for the words against SS\"",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      130,
+      447,
+      303,
+      19
+    ],
+    "text": "a public officer *, of the words against",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      130,
+      463,
+      304,
+      17
+    ],
+    "text": "a Minister, Parliamentary Secretary, or",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      130,
+      481,
+      112,
+      17
+    ],
+    "text": "public officer \";",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      499,
+      352,
+      28
+    ],
+    "text": "@) by the substitution, for che words Attorney-",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      130,
+      516,
+      305,
+      14
+    ],
+    "text": "General or officer, of the words",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      130,
+      531,
+      305,
+      18
+    ],
+    "text": "Attorney-General, Minister, Parliamen-",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      130,
+      548,
+      230,
+      18
+    ],
+    "text": "tary Secretary, or officer ; and",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      567,
+      352,
+      22
+    ],
+    "text": "() in the marginal note to that section by the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      130,
+      585,
+      305,
+      15
+    ],
+    "text": "substitution, for the words Attorney-",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      131,
+      601,
+      305,
+      16
+    ],
+    "text": "General and\", of the words Attorney-",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      53,
+      617,
+      383,
+      20
+    ],
+    "text": ". General, Minister, Parliamentary Seore-",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      130,
+      635,
+      405,
+      18
+    ],
+    "text": "tary, and, . :",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      663,
+      458,
+      31
+    ],
+    "text": "4. Section 489 ofthe principal enactment is hereby Anentment of",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      49,
+      678,
+      469,
+      21
+    ],
+    "text": "amended by the substitution, for the words in any maar",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      49,
+      696,
+      455,
+      18
+    ],
+    "text": "case., of the words or in any action in which the endmest",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      48,
+      712,
+      388,
+      19
+    ],
+    "text": "Attommey-General is substituted as a party defendant",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      48,
+      731,
+      147,
+      13
+    ],
+    "text": "ander section 468..",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      44,
+      759,
+      480,
+      19
+    ],
+    "text": "* 6. Seotion 483 of the principal enactment is hereby Amgnduest of",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      49,
+      766,
+      473,
+      27
+    ],
+    "text": "emended ae follows: iS pricapel",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      794,
+      422,
+      27
+    ],
+    "text": "(@ by the substitution, for the words '* Govern.",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      130,
+      816,
+      305,
+      16
+    ],
+    "text": "ment undertake, of the words",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      132,
+      833,
+      274,
+      19
+    ],
+    "text": "Attorney-General undertakes\"; and",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      856,
+      419,
+      9
+    ],
+    "text": "Lux maneweorT wb :",
+    "mean_p_confidence": 0.09
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      173,
+      20,
+      342,
+      15
+    ],
+    "text": "4 Civil Procedure Code (Amendment) Act,",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      311,
+      36,
+      115,
+      15
+    ],
+    "text": "No. 48 of 1954.",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      208,
+      62,
+      355,
+      18
+    ],
+    "text": "(0) by the substitution, for the words a public",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      257,
+      78,
+      304,
+      15
+    ],
+    "text": "officer, of the words a Minister,",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143,
+      94,
+      432,
+      17
+    ],
+    "text": ": Parliamentary Secretary, or public ,",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83,
+      110,
+      492,
+      19
+    ],
+    "text": ". offeer '. \"",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      78,
+      142,
+      485,
+      19
+    ],
+    "text": "Aueoiment of 6, Section 465 of the principal enactment is hereby",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79,
+      159,
+      260,
+      30
+    ],
+    "text": "Sigs! emended a fellows:",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      78,
+      181,
+      486,
+      20
+    ],
+    "text": "saciment. (@) by the substitution, for the words ' a public",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      258,
+      198,
+      304,
+      15
+    ],
+    "text": "officer, of the words a Minister,",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      258,
+      214,
+      306,
+      18
+    ],
+    "text": "Pazliamntary Secretary, or public",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      258,
+      232,
+      63,
+      14
+    ],
+    "text": "officer \"\"5",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      210,
+      250,
+      353,
+      18
+    ],
+    "text": "() by the substitution, for the words without",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      258,
+      266,
+      305,
+      18
+    ],
+    "text": "detriment to the public service., of the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      258,
+      283,
+      305,
+      14
+    ],
+    "text": "words without detriment to the transac-",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      258,
+      299,
+      305,
+      17
+    ],
+    "text": "tion of any business of the Senate, House",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      258,
+      315,
+      305,
+      17
+    ],
+    "text": "of Representatives, or Cabinet of Minis-",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      258,
+      332,
+      252,
+      16
+    ],
+    "text": "ters, or to the public service.; and",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      211,
+      347,
+      352,
+      37
+    ],
+    "text": "() im the marginal note to that section yy the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      258,
+      367,
+      306,
+      16
+    ],
+    "text": "substitution, for the words Public",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      258,
+      383,
+      305,
+      16
+    ],
+    "text": "officer, of the words Minister, Parlia-",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      258,
+      400,
+      253,
+      17
+    ],
+    "text": "mentary Secretary, or public officer **.",
+    "mean_p_confidence": 0.65
+  }
+]

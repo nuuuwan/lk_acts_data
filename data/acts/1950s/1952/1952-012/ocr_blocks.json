@@ -1,0 +1,6492 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      110,
+      17,
+      413,
+      28
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      210,
+      66,
+      217,
+      33
+    ],
+    "text": "5th Session 1952",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      425,
+      103,
+      127,
+      64
+    ],
+    "text": "an we,",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      447,
+      122,
+      108,
+      17
+    ],
+    "text": "in",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      308,
+      137,
+      257,
+      22
+    ],
+    "text": "d ys; weet",
+    "mean_p_confidence": 0.05
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      229,
+      131,
+      311,
+      55
+    ],
+    "text": "mg on AG rate abe Es",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      240,
+      174,
+      330,
+      64
+    ],
+    "text": "aera a EN af",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      230,
+      193,
+      318,
+      26
+    ],
+    "text": "Ercan amis (4 wa fe",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      100,
+      328,
+      429,
+      36
+    ],
+    "text": "Health Services Act, No. 12",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      256,
+      370,
+      183,
+      31
+    ],
+    "text": "of 1952 .",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      215,
+      511,
+      256,
+      14
+    ],
+    "text": "Date of Assent : March 8, 1952 7",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      189,
+      642,
+      243,
+      14
+    ],
+    "text": "Printed on the Orders of Government",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144,
+      745,
+      355,
+      25
+    ],
+    "text": "poche Poase das. Samora",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144,
+      771,
+      334,
+      23
+    ],
+    "text": "ae Se, Gann oe poe",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144,
+      782,
+      333,
+      23
+    ],
+    "text": "Some, Poar Orvis Box oe, Sree, Coal t",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      107,
+      818,
+      416,
+      15
+    ],
+    "text": "Prices 35 come Pastage: 10 conte",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122,
+      15,
+      326,
+      15
+    ],
+    "text": "Hoatth Services Act, No, 12 of 1958, 3",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      44,
+      85,
+      11
+    ],
+    "text": "1. D0. 641",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      66,
+      383,
+      13
+    ],
+    "text": "AN AcT To PROVIDE Fok THE CONSTITUTION AND",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      81,
+      365,
+      14
+    ],
+    "text": "RMApoNAIDILITIRG oF Tie Deranrsext or Heart",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      97,
+      364,
+      14
+    ],
+    "text": "AND FOR THE -RATAUIISTMENT OF REGIONAL",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      113,
+      366,
+      14
+    ],
+    "text": "Hoserrazs Boanpe ano Hoserrat Coustitrzes,",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      132,
+      367,
+      11
+    ],
+    "text": "AND TO EECURE MOUR EFFICIENT ADMINISTRATION",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      145,
+      366,
+      14
+    ],
+    "text": "ay Tae Loca, AUTIONITIRN IN RELATION To Puuutc",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      162,
+      58,
+      13
+    ],
+    "text": "HRavcit.",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      132,
+      189,
+      253,
+      18
+    ],
+    "text": "[Date of Assont: March 8, 1952}",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      217,
+      454,
+      16
+    ],
+    "text": "BE it enacted by the Queen's Most Txceltent .",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      231,
+      381,
+      19
+    ],
+    "text": "Majesty, by and with the advice and consent of the",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      248,
+      381,
+      20
+    ],
+    "text": "Senate and the House of Representatives of Ceylon",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      264,
+      381,
+      18
+    ],
+    "text": "in this present Parliament assembled, and by the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      281,
+      266,
+      17
+    ],
+    "text": "authority of the same, as follows:",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      312,
+      462,
+      20
+    ],
+    "text": "4, This Act may be cited as the Health Services Sher isle ant",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      326,
+      444,
+      19
+    ],
+    "text": "Act, No. 12 of 1952, and shall come into operation on Sperutioo.",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      335,
+      386,
+      42
+    ],
+    "text": "such date (hereinafter referred to as the appointed",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64,
+      353,
+      386,
+      38
+    ],
+    "text": "date ae may be sppointed by the Minister by Order",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      378,
+      179,
+      16
+    ],
+    "text": "published in the Gazette.",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      235,
+      426,
+      55,
+      12
+    ],
+    "text": "Parr I.",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      456,
+      343,
+      18
+    ],
+    "text": ". The Department of Health: Its Constitution",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      188,
+      473,
+      143,
+      17
+    ],
+    "text": "and responsibilities.",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      496,
+      463,
+      18
+    ],
+    "text": "2. (1) There ghall be a Department of Health th Dpsriment",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      494,
+      447,
+      40
+    ],
+    "text": "craven her referred to as the Department which fet",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      528,
+      384,
+      15
+    ],
+    "text": "shall be administered in accordance with the",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      545,
+      247,
+      18
+    ],
+    "text": "succeeding provisions of this Act.",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      570,
+      365,
+      18
+    ],
+    "text": "(2) The Department shall consist of three divisions.",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      586,
+      384,
+      18
+    ],
+    "text": "that, ia to say, the division of Medical Services, the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      602,
+      383,
+      15
+    ],
+    "text": "division of Public Health Services and the division of",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      620,
+      146,
+      17
+    ],
+    "text": "Laboratory Services.",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      651,
+      466,
+      22
+    ],
+    "text": "8. (1) There may be appointed : Spptarnn of",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      102,
+      665,
+      424,
+      24
+    ],
+    "text": "(@) 2 person to be or to act as Director of Health **\"*",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      150,
+      686,
+      304,
+      23
+    ],
+    "text": "Services (hereinafter referred to as the",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      151,
+      704,
+      85,
+      16
+    ],
+    "text": "Director \");",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      104,
+      726,
+      351,
+      19
+    ],
+    "text": "() 2 person to be or to act as Deputy Director",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      151,
+      743,
+      212,
+      17
+    ],
+    "text": "of Health (Medical Services);",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      104,
+      766,
+      352,
+      19
+    ],
+    "text": "(0) & person to be or to act as Deputy Director of",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      151,
+      782,
+      233,
+      18
+    ],
+    "text": "Health (Public Health Services) ;",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      103,
+      806,
+      352,
+      19
+    ],
+    "text": "(@) & person to be or to act as Deputy Director",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      150,
+      822,
+      273,
+      18
+    ],
+    "text": "of Health (Laboratory Services); and",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88,
+      845,
+      116,
+      9
+    ],
+    "text": "A Reo sBaLED",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      160,
+      12,
+      328,
+      15
+    ],
+    "text": "4 Health Services Act, No. 12 of 1958.",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      192,
+      39,
+      353,
+      17
+    ],
+    "text": "() such medical officers, matrons, nurses, apothe-",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      240,
+      56,
+      306,
+      13
+    ],
+    "text": "caries and other olticers and servants a8",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      96,
+      71,
+      450,
+      18
+    ],
+    "text": ". may be necessary for carrying out the",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      240,
+      85,
+      305,
+      20
+    ],
+    "text": "objects and purposes referred to in",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      241,
+      105,
+      66,
+      12
+    ],
+    "text": "section 5.",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      177,
+      132,
+      369,
+      17
+    ],
+    "text": "(2) Each Deputy Director shall, subject to the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      160,
+      148,
+      386,
+      17
+    ],
+    "text": "general supervision and control of the Dicector, be",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161,
+      164,
+      386,
+      17
+    ],
+    "text": "responsible for the administration of the division of",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161,
+      180,
+      386,
+      17
+    ],
+    "text": "the Department to which he is appointed and for the",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      160,
+      196,
+      387,
+      17
+    ],
+    "text": "exercise and performance of the powers, functions and",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161,
+      212,
+      369,
+      17
+    ],
+    "text": "duties conferred on him by any other written law.",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      66,
+      245,
+      482,
+      17
+    ],
+    "text": "Feat Oosneil. 4. (1) There shall be a consultative Council to be",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      162,
+      261,
+      387,
+      14
+    ],
+    "text": "known ag the Health Council which shall consist",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      162,
+      277,
+      387,
+      17
+    ],
+    "text": "of the Director, the three Deputy Directors, and not",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      162,
+      293,
+      386,
+      17
+    ],
+    "text": "more than five other officers of the Department nomi-",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      162,
+      309,
+      387,
+      17
+    ],
+    "text": "nated by the Minister, three of whom must be",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      163,
+      325,
+      386,
+      18
+    ],
+    "text": "respectively officers of the medical, surgicat and",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      162,
+      343,
+      278,
+      16
+    ],
+    "text": "obstetrical sections of the Department.",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      180,
+      374,
+      369,
+      17
+    ],
+    "text": "(2) It shall be the function of the Health",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      164,
+      387,
+      382,
+      26
+    ],
+    "text": "Council .",
+    "mean_p_confidence": 0.03
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      197,
+      413,
+      354,
+      17
+    ],
+    "text": "(a) from time to time to make recommendations",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      244,
+      429,
+      307,
+      14
+    ],
+    "text": "with a view to securing the improvement of",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      245,
+      434,
+      305,
+      41
+    ],
+    "text": "the, services provided by the Department,",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      245,
+      467,
+      17,
+      8
+    ],
+    "text": "ant",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      198,
+      488,
+      354,
+      16
+    ],
+    "text": "{b) to tender advice to the Minister on matters",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      246,
+      502,
+      305,
+      15
+    ],
+    "text": "referred to the Council for such advice.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      183,
+      531,
+      370,
+      19
+    ],
+    "text": "(8) The Director shall preside at the meetings of",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      167,
+      549,
+      386,
+      16
+    ],
+    "text": "the Health Couneil; and in the absence of the Director",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      167,
+      565,
+      387,
+      19
+    ],
+    "text": "the members present shall elect one of their number",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      167,
+      582,
+      387,
+      19
+    ],
+    "text": "to preside at the meeting, The Director shall not be",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      167,
+      601,
+      266,
+      17
+    ],
+    "text": "entitled to vote at any such meeting.",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      185,
+      619,
+      369,
+      26
+    ],
+    "text": "(4) The Health Council shall be summoned by the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      168,
+      641,
+      387,
+      17
+    ],
+    "text": "Director to meet at least once in every month; and",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      168,
+      657,
+      387,
+      21
+    ],
+    "text": "a report of the proceedings at each meeting shall be",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      169,
+      674,
+      386,
+      18
+    ],
+    "text": "transmitted to the Permanent Secretary to the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      89,
+      695,
+      306,
+      17
+    ],
+    "text": ". Ministry through the Director.",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      186,
+      717,
+      370,
+      20
+    ],
+    "text": "(8) Any member of the Health Council who dissents",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      170,
+      734,
+      386,
+      20
+    ],
+    "text": "from any decision of the Council shall be entitled to",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      170,
+      751,
+      386,
+      20
+    ],
+    "text": "record in writing the reasons for his dissent; and it",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      170,
+      770,
+      386,
+      17
+    ],
+    "text": "shall be the duty of the Director to transmit",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      170,
+      785,
+      386,
+      18
+    ],
+    "text": "guch record to the Permanent Secretary to the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      171,
+      803,
+      386,
+      19
+    ],
+    "text": "Ministry together with any auch report in relation to",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      171,
+      820,
+      353,
+      17
+    ],
+    "text": "the decision as the Director may desire to make.",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      126,
+      24,
+      325,
+      15
+    ],
+    "text": "Health Services Act, No. 12 of 1952, 5",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      85,
+      51,
+      460,
+      17
+    ],
+    "text": "3. Subject to auch general or special directions a8 test sven",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      69,
+      67,
+      476,
+      21
+    ],
+    "text": "may be isstied by the Minister, and to the availability inetutine <n",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      69,
+      82,
+      443,
+      20
+    ],
+    "text": "of moneys granted from the Consolidated Fund in fives.",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70,
+      99,
+      382,
+      18
+    ],
+    "text": "conformity with the provisions of scction 67 of the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71,
+      115,
+      381,
+      17
+    ],
+    "text": "Ceylon (Constitution) Order in Council, 1946, the",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67,
+      123,
+      386,
+      40
+    ],
+    "text": "Department shail be responsible for carrying out. the",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      35,
+      146,
+      379,
+      19
+    ],
+    "text": "following objevs and purposes, that is ta say",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      103,
+      171,
+      350,
+      17
+    ],
+    "text": "(@) the provision of establishments and sorvices",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      147,
+      180,
+      306,
+      41
+    ],
+    "text": "{including courses of training) novessary",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115,
+      201,
+      338,
+      36
+    ],
+    "text": "i for the Prevention and treatment of",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      151,
+      214,
+      302,
+      39
+    ],
+    "text": "disease and generally for the preservation",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      151,
+      237,
+      302,
+      16
+    ],
+    "text": "and promotion of the health of the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      35,
+      252,
+      171,
+      17
+    ],
+    "text": ": people;,",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      104,
+      276,
+      349,
+      29
+    ],
+    "text": "@) the encouragement of stdy and research in",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      147,
+      288,
+      307,
+      37
+    ],
+    "text": "subjects relating to health, by the grant of",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      101,
+      309,
+      353,
+      16
+    ],
+    "text": ": scholarships and other facilities to persons",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      151,
+      317,
+      303,
+      41
+    ],
+    "text": "employed or proposed to be employed in the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      153,
+      337,
+      302,
+      36
+    ],
+    "text": "Department and by the grant of financial",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      152,
+      357,
+      303,
+      13
+    ],
+    "text": "aid and other assistance to institutions",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      153,
+      373,
+      302,
+      18
+    ],
+    "text": "providing courses of study or engaged in",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      35,
+      389,
+      331,
+      18
+    ],
+    "text": ": Tesearch in auch subjects; and",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      35,
+      408,
+      421,
+      37
+    ],
+    "text": "t (c) the taking, development or encouragement of",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      36,
+      429,
+      420,
+      16
+    ],
+    "text": ": measures for the investigation or preven-",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      36,
+      445,
+      421,
+      16
+    ],
+    "text": "i tion of disease and for the improvement of",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      36,
+      461,
+      421,
+      18
+    ],
+    "text": "H the public health, including research and",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      37,
+      477,
+      420,
+      16
+    ],
+    "text": ". epidemiologicel investigations and the",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      154,
+      493,
+      404,
+      13
+    ],
+    "text": "dissemination of information. .",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      91,
+      513,
+      417,
+      40
+    ],
+    "text": "8. (1) The Minister ay by Order published inthe gars",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      76,
+      537,
+      443,
+      13
+    ],
+    "text": "Gazette divide the Island into Ith Districts in Distrite.",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      76,
+      552,
+      383,
+      17
+    ],
+    "text": "such manner as he may consider best conducive to the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      75,
+      569,
+      311,
+      16
+    ],
+    "text": "efficient administration of the Department.",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93,
+      592,
+      366,
+      17
+    ],
+    "text": "(2) There may be appointed for each Health",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      37,
+      608,
+      422,
+      17
+    ],
+    "text": "1 District such supervisory and other officers of any",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      37,
+      624,
+      423,
+      17
+    ],
+    "text": ": appropriate division of the Department as may be",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      76,
+      640,
+      383,
+      17
+    ],
+    "text": "necessary for the purposes of efficient administration.",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      39,
+      664,
+      514,
+      40
+    ],
+    "text": ": 7. (1) It shall be the daty of the Registrar- Deain stataie",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      77,
+      688,
+      454,
+      16
+    ],
+    "text": "General not later than the month of February in each \\. soul",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      37,
+      701,
+      473,
+      21
+    ],
+    "text": "| year to furnish to the Director a statistical analysis?",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      38,
+      719,
+      424,
+      29
+    ],
+    "text": "OF the causes of deaths ooourring in, the preceding",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      38,
+      735,
+      424,
+      17
+    ],
+    "text": "4 year where such causes have been certified in accord-",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      38,
+      751,
+      424,
+      19
+    ],
+    "text": "ance with the requirements of any other written law",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      38,
+      752,
+      424,
+      48
+    ],
+    "text": ": | in that behalf by persons registered ag medical",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      38,
+      783,
+      479,
+      17
+    ],
+    "text": "; practitioners under the Medical Ordinance. cop.",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      38,
+      806,
+      425,
+      29
+    ],
+    "text": "i (2) Je shall be the duty of the Director to furnish",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      35,
+      822,
+      428,
+      19
+    ],
+    "text": "3 before-such date in each year as the Permanent Secre-",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      35,
+      836,
+      429,
+      20
+    ],
+    "text": "1 tary to the Ministry may determine, o report upon the",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      109,
+      26,
+      386,
+      16
+    ],
+    "text": ". 6 Health Services Act, No. 12 of 1952.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      166,
+      53,
+      386,
+      18
+    ],
+    "text": "atate of the public health of the Island during the",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      166,
+      69,
+      386,
+      17
+    ],
+    "text": "preceding year, and such report shall include a atate-",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      166,
+      84,
+      386,
+      19
+    ],
+    "text": "ment of conclusions and recommendations of the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      167,
+      101,
+      385,
+      17
+    ],
+    "text": "Director with respect to the information disclosed by",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      166,
+      117,
+      322,
+      15
+    ],
+    "text": "the statistics furnished under sub-section (1).",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      69,
+      157,
+      484,
+      22
+    ],
+    "text": "Sowal ., 8 (1) In any ease where the Minister is satisfiod",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      66,
+      175,
+      487,
+      28
+    ],
+    "text": "Airwetry Pevicr (@) that there has been a failure on the part of",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      71,
+      197,
+      482,
+      17
+    ],
+    "text": "Yeeal any local authority to exercise any power",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      69,
+      205,
+      484,
+      30
+    ],
+    "text": "wolhrtin, or to perform any duty or take any",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      248,
+      229,
+      306,
+      17
+    ],
+    "text": "measure which that local authority is",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      248,
+      242,
+      305,
+      36
+    ],
+    "text": "authorised or required to exercise, perform",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      248,
+      261,
+      306,
+      17
+    ],
+    "text": "or take by any provision contained in that.",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      248,
+      276,
+      267,
+      17
+    ],
+    "text": "behalf in any other written law, and",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      201,
+      301,
+      353,
+      18
+    ],
+    "text": "(b) thet such failure is or is likely to be pre-",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      247,
+      317,
+      308,
+      18
+    ],
+    "text": "judicial to the public health generally or",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      249,
+      333,
+      305,
+      19
+    ],
+    "text": "to the health of persons resident in areas",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      249,
+      350,
+      306,
+      13
+    ],
+    "text": "outside the administrative limits of that",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      249,
+      365,
+      109,
+      17
+    ],
+    "text": "local authority,",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      169,
+      392,
+      386,
+      18
+    ],
+    "text": "the Director may, if authorised so to do by the Minis-",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      168,
+      408,
+      387,
+      18
+    ],
+    "text": "ter, by written notice given by registered post require",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      169,
+      424,
+      387,
+      18
+    ],
+    "text": "the tocal authority to exercise, perform or take any",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      169,
+      440,
+      386,
+      18
+    ],
+    "text": "such power, duty or measure (authorised or required",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      169,
+      456,
+      387,
+      18
+    ],
+    "text": "by the provision of written law aforesaid) as may be",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      169,
+      472,
+      387,
+      18
+    ],
+    "text": "specified in the notice, and to make such appointments",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      169,
+      478,
+      387,
+      42
+    ],
+    "text": "or employ such officers or servants as may te necessary",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      170,
+      504,
+      386,
+      18
+    ],
+    "text": "for effectively carrying out the objects or purposes of",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      170,
+      519,
+      103,
+      17
+    ],
+    "text": "that provision.",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      187,
+      545,
+      369,
+      20
+    ],
+    "text": "(2) Where any local authority fails to comply",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      170,
+      558,
+      385,
+      36
+    ],
+    "text": "with the requirements of any notice under sub-section",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      170,
+      567,
+      386,
+      40
+    ],
+    "text": "9 before the expiration of a petiod of thirty days",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      178,
+      593,
+      378,
+      14
+    ],
+    "text": "rom the date of the notice or of such longer period as",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      171,
+      599,
+      385,
+      27
+    ],
+    "text": "may be specified by the Director in that behdlf in the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      171,
+      625,
+      385,
+      17
+    ],
+    "text": "same or a subsequent notice, it shall be lawful for the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      171,
+      641,
+      386,
+      18
+    ],
+    "text": "Director to cause any person or persons acting under",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      171,
+      656,
+      385,
+      19
+    ],
+    "text": "his authority to exercise, perform or take any power,",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      172,
+      673,
+      385,
+      16
+    ],
+    "text": "duty or medeure to which the notice relates; and for",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      141,
+      679,
+      415,
+      42
+    ],
+    "text": "+ the arpoces of the exercise of the rights conferred by",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      172,
+      704,
+      385,
+      18
+    ],
+    "text": "this sub-section the Director and any such person or",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      172,
+      720,
+      385,
+      18
+    ],
+    "text": "persons shall be deemed to have the same powers as are",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      172,
+      736,
+      385,
+      18
+    ],
+    "text": "conferred on the local authority by any provision of",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      172,
+      752,
+      257,
+      14
+    ],
+    "text": "written law referred to in the notice.",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      189,
+      776,
+      369,
+      20
+    ],
+    "text": "All expenses incurred by the Director or by any",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      173,
+      788,
+      385,
+      36
+    ],
+    "text": "person or Persons acting under his authority in the",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      172,
+      807,
+      386,
+      18
+    ],
+    "text": "exercise of the rights conferred by the preceding",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      173,
+      819,
+      385,
+      36
+    ],
+    "text": "propisions of this section shall be recoverable from the",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      178,
+      839,
+      295,
+      16
+    ],
+    "text": "local authority as a debt due to the Crown.",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      140,
+      26,
+      323,
+      15
+    ],
+    "text": "Health Soreives Act, Na. 12 af 1958, 7",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      101,
+      53,
+      362,
+      16
+    ],
+    "text": "(3) The provisions of sub-section (2) shall bo in addi-",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86,
+      67,
+      377,
+      21
+    ],
+    "text": "tion ta and not in substitution or derogation of any",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      85,
+      85,
+      378,
+      26
+    ],
+    "text": "per conferred on the Director by any other written",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90,
+      103,
+      23,
+      9
+    ],
+    "text": "av,",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      101,
+      125,
+      362,
+      27
+    ],
+    "text": "(1) Tho Ministor may Jroun time to time by notice",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      85,
+      140,
+      378,
+      20
+    ],
+    "text": "published in the Gaeesa require every local anthority",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      85,
+      156,
+      377,
+      19
+    ],
+    "text": "to furnish to the Director annual or other poriodical",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      85,
+      173,
+      378,
+      29
+    ],
+    "text": "reports with respect to any, matter or subject",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      84,
+      188,
+      379,
+      18
+    ],
+    "text": "concerning the state of the public health in the arer.",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      84,
+      203,
+      346,
+      19
+    ],
+    "text": "within the administrative limits of that authority.",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      101,
+      220,
+      362,
+      41
+    ],
+    "text": "(8) The Director may by written- notice sent by",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      85,
+      237,
+      362,
+      36
+    ],
+    "text": "registered est require any jocal authority to furni:",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      85,
+      257,
+      378,
+      20
+    ],
+    "text": "to him within time specified in the notice a report",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      84,
+      273,
+      379,
+      19
+    ],
+    "text": "with respect to any outhreak of disease or elher speci-",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      84,
+      288,
+      379,
+      20
+    ],
+    "text": "fied matter relating to or affecting the health of persons",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      85,
+      304,
+      378,
+      17
+    ],
+    "text": "resident in the area within the administrative limits",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      84,
+      320,
+      122,
+      17
+    ],
+    "text": "of that authority.",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      101,
+      344,
+      363,
+      19
+    ],
+    "text": "(G) Tt shall be the duty of any local authority to",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      84,
+      360,
+      379,
+      19
+    ],
+    "text": "comply with any such notice under sub-section (4) or",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      84,
+      375,
+      378,
+      19
+    ],
+    "text": "sub-section (6) as may be applicable to that local",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      84,
+      387,
+      379,
+      26
+    ],
+    "text": "authority. .",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      101,
+      414,
+      363,
+      20
+    ],
+    "text": "(7) In this seotion, local authority means any",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      84,
+      430,
+      380,
+      17
+    ],
+    "text": "Municipal Council, Urban Council, Town Council or",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      80,
+      442,
+      384,
+      36
+    ],
+    "text": "Silage Committee, and includes the Gal Oya",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      84,
+      462,
+      143,
+      16
+    ],
+    "text": "Development Board,",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      241,
+      511,
+      62,
+      13
+    ],
+    "text": "Parr II.",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      110,
+      538,
+      449,
+      22
+    ],
+    "text": ". Hospitals Boards and Committees. .",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      99,
+      561,
+      452,
+      20
+    ],
+    "text": "5, - (1) The Minister may by Order published in voouratioact",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      83,
+      575,
+      442,
+      29
+    ],
+    "text": "the Gazette constitute for any area specified in the Poe",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      82,
+      592,
+      429,
+      20
+    ],
+    "text": "Order & Regional Hospitals Board consisting of at\"",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115,
+      614,
+      348,
+      36
+    ],
+    "text": "(@) a member of the teaching ataft of the Faculty",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      161,
+      632,
+      302,
+      19
+    ],
+    "text": "of Medicine of the University of Ceylon",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      161,
+      644,
+      303,
+      33
+    ],
+    "text": "appointed af the Minister on the recom-",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      161,
+      664,
+      241,
+      17
+    ],
+    "text": "mendation of the Vice-Chancellor;",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      114,
+      687,
+      349,
+      20
+    ],
+    "text": "() either the Deputy Director of Health (Medical",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      161,
+      703,
+      302,
+      19
+    ],
+    "text": "Seryices) or any other officer of the division",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      160,
+      719,
+      304,
+      20
+    ],
+    "text": "of Medical Services of the Department",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      161,
+      735,
+      309,
+      17
+    ],
+    "text": "appointed by the Minister; and :",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      113,
+      758,
+      350,
+      18
+    ],
+    "text": "{) not less than five other persons appointed by",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      160,
+      762,
+      300,
+      26
+    ],
+    "text": "the Minister. pe s",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      92,
+      792,
+      370,
+      41
+    ],
+    "text": "@) An officer of the Department shall not be quali-",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      80,
+      816,
+      388,
+      22
+    ],
+    "text": "fied for appointment to a Board under paragraph (c}'",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      80,
+      832,
+      124,
+      18
+    ],
+    "text": "of sub-section (1).",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      170,
+      22,
+      327,
+      19
+    ],
+    "text": "8 Health Services Act, No, 12 of 1958.",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      185,
+      50,
+      367,
+      15
+    ],
+    "text": "48) In the cass of each Brard constituted under",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      170,
+      65,
+      382,
+      16
+    ],
+    "text": "this section, the Minister shall nominate one of the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      169,
+      81,
+      383,
+      17
+    ],
+    "text": "members to be the Chairman of the Board; and the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      169,
+      96,
+      383,
+      19
+    ],
+    "text": "Board shail elect one of their number to be the Deputy",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      169,
+      111,
+      382,
+      20
+    ],
+    "text": "Chairman who shall presido at meetings of the Board",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      169,
+      128,
+      228,
+      15
+    ],
+    "text": "in the absence of the Chairman.",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      186,
+      152,
+      365,
+      16
+    ],
+    "text": "(4) The term of office of a member of o Board shail",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      169,
+      167,
+      383,
+      20
+    ],
+    "text": "he specified by the Minister at the time of the appoint-",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      169,
+      184,
+      382,
+      18
+    ],
+    "text": "ment; and different terms may bo so specified",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      169,
+      199,
+      154,
+      14
+    ],
+    "text": "for different members.",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      185,
+      223,
+      366,
+      17
+    ],
+    "text": "(5) A member of any such Board who vacates his",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      168,
+      238,
+      383,
+      20
+    ],
+    "text": "office by effluxion of time shall be eligible for re-",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      168,
+      257,
+      93,
+      14
+    ],
+    "text": "appointment.",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      175,
+      278,
+      376,
+      19
+    ],
+    "text": "_ 6) Im the event of the death, resignation or vaca-",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      169,
+      294,
+      382,
+      20
+    ],
+    "text": "tion of office of any member of a Board, the Minister",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      168,
+      310,
+      383,
+      19
+    ],
+    "text": "may by notice published in the Gazette appoint another",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      168,
+      315,
+      383,
+      29
+    ],
+    "text": "peron to hold office daring the remaiader of the term",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      167,
+      341,
+      179,
+      15
+    ],
+    "text": "of office of such member.",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      184,
+      364,
+      367,
+      19
+    ],
+    "text": "(7) The Minister shall in every Order made under",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      167,
+      374,
+      384,
+      40
+    ],
+    "text": "sub-section (1) specif the date on which the Board",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      167,
+      386,
+      358,
+      28
+    ],
+    "text": "constituted thereby shall commence to bold office",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      66,
+      419,
+      484,
+      30
+    ],
+    "text": "Bepianal 10. (1) It shall be the function of a Regional",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      65,
+      424,
+      486,
+      44
+    ],
+    "text": "pone Hospitals Board from time to time to make the",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      68,
+      459,
+      482,
+      20
+    ],
+    "text": "Wactons ond Director such recommendations as will in the opinion",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      65,
+      466,
+      485,
+      30
+    ],
+    "text": "Prmuedare, of the Board secure co-ordination in the provision of",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      166,
+      491,
+      385,
+      18
+    ],
+    "text": "services at Government hospitals in the area for which",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      166,
+      506,
+      384,
+      19
+    ],
+    "text": "the Board is constituted or secure improvement in the",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      166,
+      524,
+      385,
+      17
+    ],
+    "text": "nature or extent of the services so provided, including",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      166,
+      539,
+      384,
+      18
+    ],
+    "text": "recommendations for the provision of buildings or",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      166,
+      554,
+      384,
+      21
+    ],
+    "text": "equipment, for fulfilling the needs of any such hospital",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      137,
+      570,
+      413,
+      17
+    ],
+    "text": "- im respeet of personnel, and for the admission or denial",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      166,
+      585,
+      384,
+      19
+    ],
+    "text": "of admission to any such hospital of patients suffering",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      166,
+      601,
+      188,
+      17
+    ],
+    "text": "from any specified disease.",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      80,
+      625,
+      470,
+      18
+    ],
+    "text": ": @) A Board shall meet at least once in every two",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      166,
+      641,
+      384,
+      18
+    ],
+    "text": "months and at such other times as the Chairman may",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      167,
+      656,
+      73,
+      13
+    ],
+    "text": "determine.",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      184,
+      681,
+      366,
+      17
+    ],
+    "text": "(3) The Medical Superintendent or other officer in",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      167,
+      694,
+      382,
+      36
+    ],
+    "text": "charge of each Government hospital in the area for",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      167,
+      701,
+      382,
+      27
+    ],
+    "text": "which 0, Board 3s constituted shall bo entitled to be",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      167,
+      729,
+      382,
+      17
+    ],
+    "text": "Present but not to vote at any meeting of that Board;",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      167,
+      744,
+      382,
+      17
+    ],
+    "text": "and any such Superintendent or other officer shall be",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      177,
+      761,
+      372,
+      17
+    ],
+    "text": "resent at any such mesting if he is summoned by the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      167,
+      764,
+      143,
+      25
+    ],
+    "text": "Gitstrman to attend.",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      184,
+      801,
+      365,
+      18
+    ],
+    "text": "(4) A member of the Department nominated by the",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      164,
+      806,
+      386,
+      43
+    ],
+    "text": "Director for the purpose shall be the Secretary of a",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      187,
+      836,
+      28,
+      9
+    ],
+    "text": "ard,",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      128,
+      21,
+      325,
+      16
+    ],
+    "text": "Health Serviews Acts No, 12 of 1952, a",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      89,
+      49,
+      363,
+      16
+    ],
+    "text": "(6) It shall he the duty of the Secretary of a Board",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      73,
+      65,
+      380,
+      15
+    ],
+    "text": "to transmit to the Pormanent Secretary to the Minia-",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      73,
+      80,
+      381,
+      18
+    ],
+    "text": "try and to the Director copies of the minutes of every",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      73,
+      97,
+      156,
+      15
+    ],
+    "text": "meeting of the Board.",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      89,
+      124,
+      422,
+      16
+    ],
+    "text": "44, (1) Tho Ministor may by Ordor published in Hovis",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      73,
+      137,
+      455,
+      21
+    ],
+    "text": "the Gazette constitute for any Government hospital or\".",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      73,
+      155,
+      382,
+      17
+    ],
+    "text": "hospitals specified in the Order a Hospital Committee",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      73,
+      172,
+      105,
+      16
+    ],
+    "text": "consisting of -",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      106,
+      191,
+      348,
+      17
+    ],
+    "text": "(a) either the Deputy Director of Health",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      153,
+      207,
+      302,
+      17
+    ],
+    "text": "{Medical Services) or any other offiver of",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      153,
+      223,
+      302,
+      13
+    ],
+    "text": "the division of Medical Services of the",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      153,
+      239,
+      302,
+      29
+    ],
+    "text": "Department appointed by the Ministers",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      153,
+      259,
+      16,
+      9
+    ],
+    "text": "an",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      106,
+      275,
+      349,
+      16
+    ],
+    "text": "() not less than four other persons appointed by",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      153,
+      291,
+      93,
+      12
+    ],
+    "text": "the Minister.",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      91,
+      310,
+      365,
+      18
+    ],
+    "text": "(2) An officer of the Department shall not be",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      74,
+      318,
+      381,
+      40
+    ],
+    "text": "qualified for eppointment to a Hospital Committee",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      74,
+      342,
+      273,
+      16
+    ],
+    "text": "under paragraph (6) of sub-section (1).",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90,
+      365,
+      366,
+      19
+    ],
+    "text": "(8) In the case of each Committee constituted under",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      75,
+      381,
+      381,
+      15
+    ],
+    "text": "this section, the Minister shail nominate one of the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      74,
+      397,
+      382,
+      14
+    ],
+    "text": "members to be the Chairman of the Committee; and the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      75,
+      412,
+      381,
+      14
+    ],
+    "text": "Committee shall elect one of their number to be the",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      74,
+      428,
+      382,
+      19
+    ],
+    "text": "Deputy Chairman who shall preside at meetings of the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      40,
+      444,
+      340,
+      15
+    ],
+    "text": "+ Committee in the absence of the Chairman.",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      91,
+      464,
+      365,
+      16
+    ],
+    "text": "(@ The term of office of a member of a Hospital",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      75,
+      479,
+      382,
+      17
+    ],
+    "text": "Committee shall be specified by the Minister at the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      75,
+      495,
+      382,
+      17
+    ],
+    "text": "time of the appointment; and different terms may be",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      75,
+      511,
+      237,
+      17
+    ],
+    "text": "so specified for different members.",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      91,
+      530,
+      366,
+      18
+    ],
+    "text": "(5) A member of any such Committee who vacates his",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      75,
+      546,
+      382,
+      20
+    ],
+    "text": "office by effluxion of time shall be eligible for",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      75,
+      565,
+      111,
+      15
+    ],
+    "text": "re-appointment.",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      92,
+      582,
+      366,
+      30
+    ],
+    "text": ", In the event of the death, resignation or vacation",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      75,
+      597,
+      384,
+      18
+    ],
+    "text": "of office of any member of a Hospital Committee, the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      76,
+      614,
+      383,
+      17
+    ],
+    "text": "Minister may by notice published in the Gazette",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      75,
+      619,
+      384,
+      28
+    ],
+    "text": "appoint, anolber person to hold office during the",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      76,
+      645,
+      336,
+      14
+    ],
+    "text": "remainder of the term of office of such member.",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      92,
+      665,
+      367,
+      17
+    ],
+    "text": "(7) The Minister shall in every Order made under",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      75,
+      673,
+      385,
+      39
+    ],
+    "text": "sub-section (1) specify the date on which the Hospital",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      76,
+      696,
+      384,
+      16
+    ],
+    "text": "Committee constituted thereby shall commence to hold",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      75,
+      713,
+      38,
+      13
+    ],
+    "text": "office.",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      92,
+      739,
+      461,
+      18
+    ],
+    "text": "42 (1) A Hospital Committee shall be charged Power, duis,",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      76,
+      737,
+      480,
+      51
+    ],
+    "text": "with the Doilowine powers, duties and Tesponsibilibies Pati taal",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      76,
+      771,
+      385,
+      17
+    ],
+    "text": "in relation to each hospital for which it is",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      71,
+      781,
+      278,
+      30
+    ],
+    "text": "constituted : *",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      109,
+      807,
+      352,
+      18
+    ],
+    "text": "(@ the power to make determinations as to the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      156,
+      823,
+      305,
+      18
+    ],
+    "text": "utilisation of such part of the sums",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      157,
+      838,
+      412,
+      24
+    ],
+    "text": "appropriated by law or bg resolution of the +",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      163,
+      21,
+      326,
+      15
+    ],
+    "text": "40 Health Services Act, No. 12 af 1952.",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      164,
+      49,
+      382,
+      16
+    ],
+    "text": ". House of Representatives for the purposes",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      242,
+      65,
+      304,
+      16
+    ],
+    "text": "Of the Department as are allocated by the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      243,
+      71,
+      303,
+      42
+    ],
+    "text": "Director for the purpose of poooting",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      242,
+      96,
+      299,
+      16
+    ],
+    "text": "expenses incurred during each Snancial",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      242,
+      112,
+      304,
+      15
+    ],
+    "text": "year in the maintenance or administration",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      242,
+      128,
+      304,
+      16
+    ],
+    "text": "of the hospital, other than expenses upon",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      242,
+      144,
+      305,
+      16
+    ],
+    "text": "salaries, wages and the provision of diet",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      242,
+      159,
+      90,
+      16
+    ],
+    "text": "for patients;",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      194,
+      178,
+      353,
+      17
+    ],
+    "text": "(8) the power to make determinations as to the",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      242,
+      195,
+      305,
+      16
+    ],
+    "text": "description and quantity of digs or",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      242,
+      211,
+      305,
+      16
+    ],
+    "text": "equipment to be purchased from time to",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      242,
+      227,
+      305,
+      13
+    ],
+    "text": "time out of the sums referred to in",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      242,
+      242,
+      107,
+      17
+    ],
+    "text": "paragraph (a);",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      195,
+      262,
+      353,
+      17
+    ],
+    "text": "(e) the power to issue directions with respact to",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      243,
+      284,
+      296,
+      17
+    ],
+    "text": "(i) the admission or discharge of patients;",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      239,
+      305,
+      309,
+      16
+    ],
+    "text": "(ii} the admission of visitors to the wards",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      291,
+      321,
+      214,
+      17
+    ],
+    "text": "or other places in the hospital ;",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      233,
+      342,
+      315,
+      16
+    ],
+    "text": "(iii) the maintenance of order, decency and",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      291,
+      358,
+      257,
+      16
+    ],
+    "text": "cleanliness among the inmates of and",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      291,
+      374,
+      166,
+      16
+    ],
+    "text": "visitors to the hospital;",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      233,
+      394,
+      315,
+      16
+    ],
+    "text": "(iv) the maintenance of order and the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      291,
+      410,
+      257,
+      17
+    ],
+    "text": "regulation of traffic in the hospital",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      291,
+      426,
+      66,
+      16
+    ],
+    "text": "premises;",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      200,
+      446,
+      348,
+      13
+    ],
+    "text": "(@) the responsibility of supervising the provision",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      195,
+      446,
+      353,
+      37
+    ],
+    "text": "@ of diet for patients in the Teapital for the",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      209,
+      477,
+      339,
+      17
+    ],
+    "text": ". purpose of securing that the diets are of",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      242,
+      493,
+      306,
+      17
+    ],
+    "text": "the standard and value prescribed in that",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      243,
+      509,
+      304,
+      16
+    ],
+    "text": "behalf by the Director and that the sums",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      242,
+      521,
+      306,
+      37
+    ],
+    "text": "expended for the Provision of diet are",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      242,
+      541,
+      154,
+      16
+    ],
+    "text": "economically utilised;",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      195,
+      560,
+      353,
+      17
+    ],
+    "text": "(@) the function of making such recommendations",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      242,
+      576,
+      305,
+      16
+    ],
+    "text": "to the Director in relation to the hospital",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      242,
+      592,
+      306,
+      17
+    ],
+    "text": "as will in the opinion of the Committee",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      242,
+      609,
+      306,
+      16
+    ],
+    "text": "secure improvement in the nature or extent",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      242,
+      624,
+      304,
+      16
+    ],
+    "text": "of the services provided in the hospital,",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      242,
+      640,
+      305,
+      16
+    ],
+    "text": "including recommendations for the pro-",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      243,
+      644,
+      305,
+      28
+    ],
+    "text": "vision of new buildings or equipment, for",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      243,
+      671,
+      304,
+      17
+    ],
+    "text": "fulfilling the needa of the hospital in",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      242,
+      687,
+      305,
+      17
+    ],
+    "text": "respect of personnel, and for the admission",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      242,
+      703,
+      305,
+      18
+    ],
+    "text": "or denial of admission to the hospital of",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      242,
+      719,
+      305,
+      17
+    ],
+    "text": "patients suffering from any specified",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      242,
+      735,
+      55,
+      15
+    ],
+    "text": "disease;",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      195,
+      754,
+      352,
+      17
+    ],
+    "text": "(f) the duty to prepare and transmit to the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      243,
+      770,
+      304,
+      16
+    ],
+    "text": "Director, before the first day of February",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      243,
+      786,
+      304,
+      18
+    ],
+    "text": "in each year, an estimate of sums which in",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      242,
+      802,
+      305,
+      18
+    ],
+    "text": "the opinion of the Committee will be",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      242,
+      818,
+      304,
+      28
+    ],
+    "text": "necessary for the purpose of meeting ex.",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      242,
+      833,
+      304,
+      17
+    ],
+    "text": "Penditure during the succeeding financial",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      124,
+      21,
+      323,
+      16
+    ],
+    "text": "Hontth Sevoices Act, No, 12 of 1988, i",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      147,
+      49,
+      302,
+      16
+    ],
+    "text": "year in the maintenance and administra-",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      148,
+      65,
+      301,
+      16
+    ],
+    "text": "tion of the hospital, other than expenditure.",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      147,
+      81,
+      191,
+      16
+    ],
+    "text": "on selaries and wages; .and",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      101,
+      100,
+      349,
+      17
+    ],
+    "text": "(g) the duty to advise and assist the Director, if",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      148,
+      116,
+      302,
+      17
+    ],
+    "text": "0 required by him, in the examination of",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      148,
+      132,
+      302,
+      16
+    ],
+    "text": "tenders for diets for patients in the",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      148,
+      148,
+      60,
+      17
+    ],
+    "text": "hospital.",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      86,
+      168,
+      364,
+      16
+    ],
+    "text": "(2} The Medical Superintendent or other officer in",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      69,
+      184,
+      382,
+      16
+    ],
+    "text": "charge of a hospital for which a Hospital Committee",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      70,
+      200,
+      381,
+      16
+    ],
+    "text": "is constituted shall be consulted before any determina-",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      70,
+      216,
+      381,
+      16
+    ],
+    "text": "tion is made by the Committee under paragraph (2)",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      70,
+      222,
+      382,
+      42
+    ],
+    "text": "or paragraph (8) of eub-section (1); and in any case",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      71,
+      247,
+      381,
+      16
+    ],
+    "text": "where the Medical Superintendent or such other officer",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      71,
+      263,
+      381,
+      16
+    ],
+    "text": "does not concur with any such determination, it shail",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72,
+      279,
+      381,
+      15
+    ],
+    "text": "be referred to the Director, and his decision on the",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72,
+      295,
+      381,
+      16
+    ],
+    "text": "question whether or not the determination should be",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72,
+      311,
+      174,
+      13
+    ],
+    "text": "carried out shall be final.",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      89,
+      330,
+      365,
+      17
+    ],
+    "text": "(8) Subject to the provisions of sub-section (2), it",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      73,
+      347,
+      381,
+      16
+    ],
+    "text": "shall be the duty of the Medical Superintendent or",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      73,
+      348,
+      381,
+      36
+    ],
+    "text": "other officer in change of a hospital to carry out all",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      73,
+      374,
+      382,
+      37
+    ],
+    "text": "Lr of the Hospital Commities under",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      74,
+      394,
+      381,
+      17
+    ],
+    "text": "paragraph (a) or paragraph (b) of sub-section (1),",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      69,
+      394,
+      387,
+      39
+    ],
+    "text": "Plating to Ge Hospital exept in so far as any fi",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      74,
+      425,
+      382,
+      17
+    ],
+    "text": "determination is contrary to or in conflict with any",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      74,
+      441,
+      382,
+      18
+    ],
+    "text": "Financial Regulation of the Government or instrue-",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      74,
+      457,
+      383,
+      17
+    ],
+    "text": "tions issued by or on behalf of the Permanent Secretary",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      75,
+      473,
+      349,
+      17
+    ],
+    "text": "to the Ministry or the Secretary to the Treasury.",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      91,
+      492,
+      367,
+      18
+    ],
+    "text": "(@ It shall be the daty of the Medical Superinten-",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      75,
+      508,
+      383,
+      18
+    ],
+    "text": "dent or other officer in charge of a hospital for which",
+    "mean_p_confidence": 0.88
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      75,
+      524,
+      384,
+      18
+    ],
+    "text": "a Hospital Committee ia constituted ta carry out and",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      75,
+      540,
+      384,
+      18
+    ],
+    "text": "to cause or require personnel employed in the hospital",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      75,
+      556,
+      384,
+      18
+    ],
+    "text": "to carry out all such directions with respect to the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      75,
+      572,
+      385,
+      19
+    ],
+    "text": "hospital which may be issued under paragraph () of",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      76,
+      589,
+      312,
+      17
+    ],
+    "text": "sub-section (1) by the Hospital Committee.",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      93,
+      600,
+      368,
+      41
+    ],
+    "text": "@) It shall be lawful for any member of a Hospital",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      77,
+      620,
+      384,
+      37
+    ],
+    "text": "Committee constituted for any hospital at any time to",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      76,
+      640,
+      368,
+      19
+    ],
+    "text": "visit and inspect the hospital or any ward thereof.",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      94,
+      668,
+      453,
+      15
+    ],
+    "text": "48. (1) Every Hospital Committee shall meet at Meetings. ete.",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      77,
+      670,
+      455,
+      30
+    ],
+    "text": "leant once fa'sada mowth and et such other times a2 Zep",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      77,
+      701,
+      211,
+      17
+    ],
+    "text": "the Chairman may determine.",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      94,
+      720,
+      369,
+      19
+    ],
+    "text": "(2) At any meeting of a Hospital Committee three",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      77,
+      737,
+      386,
+      17
+    ],
+    "text": "members shall constitute a quorum; and.any question",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      78,
+      743,
+      385,
+      42
+    ],
+    "text": "arising, for decision shall be decided by & majority",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      78,
+      768,
+      385,
+      18
+    ],
+    "text": "of the members present and voting, the Chairman",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      78,
+      785,
+      360,
+      19
+    ],
+    "text": "having a deliberative vote but not.a casting vote.",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      95,
+      804,
+      369,
+      19
+    ],
+    "text": "(8) The Medical Superintendent ot other officer",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      79,
+      820,
+      385,
+      21
+    ],
+    "text": "in charge of each hospital for which a Hospital Com-",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      78,
+      836,
+      388,
+      17
+    ],
+    "text": "mittes 18 constituted shall be entitled to be present but",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      167,
+      27,
+      325,
+      17
+    ],
+    "text": "12 Health Services Act, No. 12 of 1953,",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      55,
+      56,
+      492,
+      16
+    ],
+    "text": ": not to vote at any meeting of the Committee; and any",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      165,
+      69,
+      382,
+      35
+    ],
+    "text": "such Superintendent or other officer shall be prevent",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      165,
+      88,
+      382,
+      16
+    ],
+    "text": "at any such meeting if he is summoned by the",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      165,
+      102,
+      141,
+      15
+    ],
+    "text": "Chairman to attend.",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      181,
+      122,
+      366,
+      20
+    ],
+    "text": "(4) Any member of the professional staf? of any",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      165,
+      138,
+      381,
+      18
+    ],
+    "text": "hospital for which a Hospital Committee is consti-",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      164,
+      155,
+      383,
+      17
+    ],
+    "text": "tuted may be consulted, whether at a meeting or other-",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      85,
+      162,
+      462,
+      42
+    ],
+    "text": ". wise, by the Hopital Committee with respect to any",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      164,
+      187,
+      383,
+      17
+    ],
+    "text": "matter connected with the powers, functions and",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      165,
+      203,
+      360,
+      16
+    ],
+    "text": "responsibilities of the Committee. .",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      180,
+      223,
+      367,
+      17
+    ],
+    "text": "(5) A member of the Department nominated by the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      163,
+      239,
+      384,
+      17
+    ],
+    "text": "Director for the purpose shall be the Secretary of @",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      163,
+      254,
+      146,
+      17
+    ],
+    "text": "Hospital Committee,",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      179,
+      274,
+      368,
+      18
+    ],
+    "text": "(6) It shall be the duty of the Secretary of a",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      163,
+      290,
+      384,
+      19
+    ],
+    "text": "Hospital Committee to transmit to the Permanent",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      123,
+      306,
+      424,
+      18
+    ],
+    "text": ".. Secretary to the Ministry and to the Director copies",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      162,
+      322,
+      360,
+      18
+    ],
+    "text": "of the minutes of each meeting of the Committes.",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      67,
+      350,
+      480,
+      21
+    ],
+    "text": "apoeui spot 44... Every Hospital Committee shall in the month",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      66,
+      363,
+      481,
+      32
+    ],
+    "text": "&,Howiul of December in each year prepare avd furnish to the",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      161,
+      379,
+      385,
+      37
+    ],
+    "text": "Permanent Secretary to the Ministry a report open",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      161,
+      398,
+      386,
+      19
+    ],
+    "text": "the exercise and performance during the preceding",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      160,
+      414,
+      386,
+      17
+    ],
+    "text": "financial year of its powers, functions and responaibi-",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      160,
+      415,
+      152,
+      37
+    ],
+    "text": "lities under this Act.",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      65,
+      455,
+      482,
+      36
+    ],
+    "text": "Limitation of 18. A Hospital Committee constituted under this",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      65,
+      467,
+      381,
+      29
+    ],
+    "text": "Sued = Act shall not be deemed or construed",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      61,
+      488,
+      486,
+      27
+    ],
+    "text": "Cormenites, (@) to be authorised or permitted to incur or",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      242,
+      511,
+      305,
+      28
+    ],
+    "text": "undertake any expenditure or liability or",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      242,
+      527,
+      304,
+      16
+    ],
+    "text": "to enter into any contract or other obliga-",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      242,
+      542,
+      305,
+      18
+    ],
+    "text": "tion, whether by itself or as an agent of",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      242,
+      559,
+      275,
+      15
+    ],
+    "text": "the Government or of the Director; or",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      194,
+      578,
+      352,
+      17
+    ],
+    "text": "() to be the employer of any person employed at",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      242,
+      594,
+      290,
+      17
+    ],
+    "text": "auy hospital in any capacity whatsoever.",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      58,
+      623,
+      488,
+      31
+    ],
+    "text": "Representation 16. Where a Hospital Committee is constituted",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      61,
+      642,
+      486,
+      19
+    ],
+    "text": "ofuspial for any hospital situated in any area for which a",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      58,
+      649,
+      488,
+      31
+    ],
+    "text": "feast Regional Hospitals Board is constituted under section",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      59,
+      665,
+      487,
+      33
+    ],
+    "text": "Godpiale 9, one of the members of the Committee selected by",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      91,
+      690,
+      456,
+      29
+    ],
+    "text": "the Minister shal be appointed under paragraph () of",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      160,
+      706,
+      387,
+      16
+    ],
+    "text": "sub-section (1) of that section as a member of the",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      161,
+      722,
+      385,
+      17
+    ],
+    "text": "Regional Hospitals Board to represent the Com-",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      160,
+      739,
+      49,
+      13
+    ],
+    "text": "mittee.",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      63,
+      766,
+      484,
+      30
+    ],
+    "text": "Brorcis of 47. The Minister may, in lieu of constituting a",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      62,
+      790,
+      485,
+      19
+    ],
+    "text": "functioesct Hospital Committee for any hospital, by Order pub-",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      62,
+      803,
+      485,
+      20
+    ],
+    "text": "Zornes by dished in the Gazette declars that the Regional Hos-",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      62,
+      817,
+      485,
+      38
+    ],
+    "text": "eee pitals Board constituted for the area in which the",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      58,
+      836,
+      490,
+      24
+    ],
+    "text": "Board, ospital is situated shall have and exercise in relation",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      128,
+      13,
+      324,
+      16
+    ],
+    "text": "Ueulth Services Act, No, 12 of 1952, MW",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      70,
+      41,
+      381,
+      17
+    ],
+    "text": "to the hospital all the powers, functions and responsi-",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      70,
+      57,
+      382,
+      16
+    ],
+    "text": "bilities of a Hospital Committee; and while such Order",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      70,
+      73,
+      380,
+      17
+    ],
+    "text": "is in force the provisions of sections 12 to 15 shall",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      70,
+      85,
+      382,
+      37
+    ],
+    "text": "apply metetts mutandis in all Teapots ag though the",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      70,
+      101,
+      382,
+      36
+    ],
+    "text": "Regional Hospitals Board were a Hospital Committes",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      70,
+      121,
+      244,
+      16
+    ],
+    "text": "duly constituted under section 11:",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      85,
+      141,
+      366,
+      18
+    ],
+    "text": "Provided, however, that any person who has been",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      70,
+      158,
+      381,
+      17
+    ],
+    "text": "appointed as a member of a Regional Hospitals Board",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      70,
+      174,
+      381,
+      16
+    ],
+    "text": "in accordance with section 16 to represent a Hospital",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      70,
+      189,
+      382,
+      17
+    ],
+    "text": "Commitice for any hospital, shall not function as a",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      69,
+      205,
+      381,
+      17
+    ],
+    "text": "member of the Board when it ia exercising the powers,",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      70,
+      221,
+      382,
+      18
+    ],
+    "text": "functions or responsibilities of a Hospital Committee",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      70,
+      238,
+      237,
+      16
+    ],
+    "text": "in relation to any other hospital.",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      86,
+      263,
+      436,
+      16
+    ],
+    "text": "18, A member of a Regional Hospitals Board or Vacation of",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      69,
+      267,
+      453,
+      27
+    ],
+    "text": "Hospital Committee shall vacate his ffve as auch Mle",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      102,
+      297,
+      408,
+      18
+    ],
+    "text": "(@) if, having been adjudged an insolvent or 2",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      114,
+      298,
+      399,
+      37
+    ],
+    "text": "a bankeupt, he has Sot heen granted by [safher",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      149,
+      328,
+      373,
+      21
+    ],
+    "text": "a competent court a certificate to the effect Gopal",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      149,
+      346,
+      302,
+      17
+    ],
+    "text": "that his insolvency or bankruptcy has arisen",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      149,
+      351,
+      303,
+      28
+    ],
+    "text": "wholly or partly by mnavoidable losses or",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      149,
+      379,
+      111,
+      15
+    ],
+    "text": "misfortunes; or",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      102,
+      398,
+      350,
+      17
+    ],
+    "text": "@) if he is adjudged by a competent court to be",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      149,
+      414,
+      174,
+      15
+    ],
+    "text": "of unsound mind; or =~",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      102,
+      434,
+      350,
+      17
+    ],
+    "text": "(e) if he absents himself, without leave of the",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      149,
+      450,
+      302,
+      16
+    ],
+    "text": "Board or Committee, as the case may be,",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      150,
+      466,
+      302,
+      16
+    ],
+    "text": "from three consecntive meetings of the",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      149,
+      483,
+      174,
+      14
+    ],
+    "text": "Board or Committee; or",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      107,
+      502,
+      346,
+      16
+    ],
+    "text": "(2) if he resigns office by writing under his hand",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      102,
+      502,
+      276,
+      37
+    ],
+    "text": "@ addressed to the Minister, or,",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      103,
+      538,
+      350,
+      17
+    ],
+    "text": "if he is removed from office by the Minister",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      150,
+      553,
+      303,
+      18
+    ],
+    "text": "pen a recommendation made in that behalf",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      151,
+      569,
+      303,
+      17
+    ],
+    "text": "by the Board or Committee, as the case",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      151,
+      586,
+      56,
+      16
+    ],
+    "text": "may be.",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      87,
+      608,
+      453,
+      18
+    ],
+    "text": "49. (1) The Minister may by Order published in slawanws",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      71,
+      619,
+      479,
+      29
+    ],
+    "text": "the Gazette provide for the payment in such cases and Sanat Saas",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      71,
+      640,
+      479,
+      18
+    ],
+    "text": "circumstances as may be specified in the Order of ani Cammitcce.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      70,
+      654,
+      385,
+      36
+    ],
+    "text": "remuneration and travelling ox other allowances",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      70,
+      672,
+      384,
+      18
+    ],
+    "text": "to members of Hospital Boards or of Hospital",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      71,
+      690,
+      85,
+      13
+    ],
+    "text": "Committess.",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      88,
+      707,
+      367,
+      19
+    ],
+    "text": "(2) No Order made under sub-section (1) shall have",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      71,
+      723,
+      384,
+      18
+    ],
+    "text": "effect unless it is approved by the Senate and the",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      71,
+      741,
+      364,
+      17
+    ],
+    "text": "House of Representatives. .",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      87,
+      763,
+      453,
+      22
+    ],
+    "text": "20, The Minister may make rules prescribing the | Prestur fr",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      71,
+      779,
+      443,
+      30
+    ],
+    "text": "procedure tobe followed im the transaction of business (at",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      78,
+      795,
+      377,
+      18
+    ],
+    "text": "yy Regional Hospitals Boards and Hospital Commit-",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      70,
+      810,
+      385,
+      19
+    ],
+    "text": "tees. Subject to auch rules, if any, any such Board or",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      71,
+      827,
+      312,
+      18
+    ],
+    "text": "Committee may regulate its own procedure.",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      172,
+      20,
+      330,
+      20
+    ],
+    "text": "14 Health Sercices Art, No. 19 of 1962.",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      331,
+      50,
+      70,
+      15
+    ],
+    "text": "Paet Ik.",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      207,
+      71,
+      317,
+      20
+    ],
+    "text": "Amendment and Construction of other law.",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      77,
+      95,
+      480,
+      19
+    ],
+    "text": "Aiaendeent of 24. (1) Sections 3 and 5 of the Medical Ordinanee",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      77,
+      93,
+      479,
+      49
+    ],
+    "text": "Sinner are hereby repealed with effect from the appointed",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      183,
+      128,
+      25,
+      10
+    ],
+    "text": "late.",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      191,
+      146,
+      366,
+      19
+    ],
+    "text": "2) Sections 8 ond 9 of the Medical Ordinance (as",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      174,
+      162,
+      383,
+      19
+    ],
+    "text": "amended by Ordinance No. 35 of 1939} are hereby",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      175,
+      177,
+      382,
+      18
+    ],
+    "text": "further amended, by the substitution, in each of those",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      174,
+      193,
+      382,
+      18
+    ],
+    "text": "sections, for the expression Assistant Director of",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      175,
+      208,
+      381,
+      20
+    ],
+    "text": "Medical Services , of the expression * Deputy Direc-",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      175,
+      224,
+      330,
+      19
+    ],
+    "text": "tor of Health (Medical Services) . :",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      78,
+      254,
+      479,
+      18
+    ],
+    "text": "artiauation fn 22. Notwithstanding the change of designation of",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      78,
+      262,
+      479,
+      29
+    ],
+    "text": "RERTG. te Department heretofore called the Departmont of",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      80,
+      282,
+      477,
+      41
+    ],
+    "text": "Summpat Medical and Sanitary Services, all persons holding",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      75,
+      297,
+      472,
+      26
+    ],
+    "text": "Honitary office as members of that Department at the appointe",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      79,
+      308,
+      477,
+      30
+    ],
+    "text": "Sesion, date or otherwise employed in that Department at that",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      177,
+      334,
+      379,
+      22
+    ],
+    "text": "date shall continue in office or employment in the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      177,
+      349,
+      325,
+      20
+    ],
+    "text": "Department of Health constituted by this Act.",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      80,
+      381,
+      477,
+      29
+    ],
+    "text": "Seeingas! 28.) Wherever, in any provision of any other",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      79,
+      392,
+      476,
+      24
+    ],
+    "text": "Se. cn? wwritten law or of any notice, permit, communication,",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      178,
+      412,
+      378,
+      20
+    ],
+    "text": "form or other document issued, made, required of",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      177,
+      428,
+      379,
+      19
+    ],
+    "text": "authorised by or under any other written law, the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      176,
+      444,
+      380,
+      19
+    ],
+    "text": "expression Director of Medical and Sanitary Ser-",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      177,
+      459,
+      379,
+      17
+    ],
+    "text": "vices * occurs, there shall be substituted therefor the",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      177,
+      476,
+      379,
+      21
+    ],
+    "text": "expression Director of Health; and accordingly",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      177,
+      490,
+      379,
+      19
+    ],
+    "text": "wherever in any such provision the abbreviation",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      178,
+      506,
+      378,
+      17
+    ],
+    "text": "Director is used to denote the Director of Medical",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      177,
+      522,
+      379,
+      17
+    ],
+    "text": "and Sanitary Services, such abbreviation shall be read",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      177,
+      538,
+      378,
+      16
+    ],
+    "text": "and construed as a reference to the Director of Health.",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      194,
+      561,
+      362,
+      20
+    ],
+    "text": "(2) Ef the designation of any office in the Depart-",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      178,
+      564,
+      378,
+      37
+    ],
+    "text": "ment of Medicel and Sanitary Services {as constituted",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      178,
+      593,
+      277,
+      17
+    ],
+    "text": "prior to the appointed date) is altered",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      210,
+      616,
+      346,
+      22
+    ],
+    "text": "(@) the Minister may by Order published in the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      256,
+      633,
+      300,
+      18
+    ],
+    "text": "Gaxetie declare that the previsions of this",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      256,
+      649,
+      300,
+      18
+    ],
+    "text": "sub-section shall apply in relation to that",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      256,
+      665,
+      120,
+      16
+    ],
+    "text": "designation; and",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      210,
+      684,
+      345,
+      19
+    ],
+    "text": "() upon such declaration being made, then,",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      256,
+      697,
+      300,
+      37
+    ],
+    "text": "wherever that designation occurs in any",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      256,
+      716,
+      300,
+      20
+    ],
+    "text": "provision of any other written law or of",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      252,
+      727,
+      304,
+      36
+    ],
+    "text": "any notice, permit, communication, form or",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      256,
+      748,
+      300,
+      17
+    ],
+    "text": "other document issued, made, required or",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      256,
+      763,
+      300,
+      20
+    ],
+    "text": "authorised by any othet written law, there",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      256,
+      779,
+      299,
+      17
+    ],
+    "text": "shall be substitated for that designation",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      256,
+      791,
+      300,
+      36
+    ],
+    "text": "the new designation assigned to the corres-",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      256,
+      801,
+      300,
+      41
+    ],
+    "text": "ponding office in the Department of",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      257,
+      826,
+      51,
+      12
+    ],
+    "text": "Health.",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      146,
+      46,
+      327,
+      16
+    ],
+    "text": "Heulth Services Act, No. 12 0f i952, Wb",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      106,
+      72,
+      451,
+      20
+    ],
+    "text": "24, Every contract, agreement or other instrument Brings",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      90,
+      90,
+      383,
+      16
+    ],
+    "text": "or document whatavever made, issued or executed prior",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      92,
+      106,
+      381,
+      18
+    ],
+    "text": "lo the appointed date by or in favour of the Director",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      91,
+      122,
+      382,
+      17
+    ],
+    "text": "of Medical and Sanitary Scrvives or any aflicer of that",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      93,
+      136,
+      379,
+      22
+    ],
+    "text": "Departient in his capacity as such, shall be deemed",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      91,
+      154,
+      381,
+      17
+    ],
+    "text": "on and after the appointed date to be and to have been",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      92,
+      170,
+      381,
+      17
+    ],
+    "text": "made, issued, or executed by or in favour of the Direc-",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      92,
+      186,
+      381,
+      16
+    ],
+    "text": "tor of Health or of the officer holding the corresponding",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      91,
+      202,
+      382,
+      17
+    ],
+    "text": "office in the Department of Health in his capacity as",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      92,
+      218,
+      381,
+      18
+    ],
+    "text": "such; and any reference in any such contract, agree-",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      92,
+      233,
+      381,
+      17
+    ],
+    "text": "iment op other instrument or document to any officer in",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      93,
+      249,
+      380,
+      17
+    ],
+    "text": "the Department of Medical and Sanitary Services (as",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      92,
+      266,
+      380,
+      16
+    ],
+    "text": "constituted prior to the appointed date) shall be read",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      93,
+      281,
+      380,
+      16
+    ],
+    "text": "and construed aa a reference to the officer holding the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      92,
+      297,
+      344,
+      17
+    ],
+    "text": "corresponding office in the Department of Health.",
+    "mean_p_confidence": 0.8
+  }
+]

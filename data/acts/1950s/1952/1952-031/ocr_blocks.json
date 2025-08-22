@@ -1,0 +1,365 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      104,
+      20,
+      400,
+      28
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      90,
+      67,
+      312,
+      40
+    ],
+    "text": "iain, It Session 1952",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      79,
+      140,
+      281,
+      21
+    ],
+    "text": "Et SNOT ihe SS prea SERN oan",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      90,
+      178,
+      242,
+      26
+    ],
+    "text": "PN ee pees. (4",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      234,
+      236,
+      138,
+      22
+    ],
+    "text": "este |",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      98,
+      314,
+      407,
+      35
+    ],
+    "text": "Control of Prices (Amendment)",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      169,
+      360,
+      263,
+      26
+    ],
+    "text": "Act, No. 31 of 1952",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      191,
+      517,
+      224,
+      15
+    ],
+    "text": "Date of Assent : November 13, 1952",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      64,
+      628,
+      359,
+      15
+    ],
+    "text": ". Printed on the Orders of Government",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      136,
+      754,
+      334,
+      13
+    ],
+    "text": "Printed at tne Ceviow Gove, Pasa, Covonsa, To be",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      136,
+      765,
+      334,
+      14
+    ],
+    "text": "PURE SeCgiee Sor. Pass Gover, To be",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      136,
+      779,
+      334,
+      14
+    ],
+    "text": "Annual Subsert; Gneluding Bills) Rs, 25, payable in",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      136,
+      780,
+      334,
+      34
+    ],
+    "text": "sae Gers",
+    "mean_p_confidence": 0.06
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      134,
+      819,
+      334,
+      14
+    ],
+    "text": "Prices 0 conte. Postage :5 cents.",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      121,
+      9,
+      269,
+      17
+    ],
+    "text": "Control of Prices (Amendment) Act,",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      201,
+      26,
+      108,
+      15
+    ],
+    "text": "No. 81 of 1962.",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      48,
+      103,
+      15
+    ],
+    "text": "L. D.O. 20/60.",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      68,
+      350,
+      15
+    ],
+    "text": "AN Act To amenp THE ContRoL or Prices Act,",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      197,
+      86,
+      115,
+      13
+    ],
+    "text": "No. 29 oF 1950.",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115,
+      116,
+      281,
+      18
+    ],
+    "text": "(Date of Agsent: November 13, 1952]",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      147,
+      367,
+      20
+    ],
+    "text": "BE jit enacted by the Queen's Most Excellent",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      154,
+      383,
+      27
+    ],
+    "text": "Majesty, by and with the advice and consent of the",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      179,
+      382,
+      20
+    ],
+    "text": "Senate and the House of Representatives of Ceylon in",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      195,
+      384,
+      18
+    ],
+    "text": "this present Parliament assembled, and by the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      212,
+      265,
+      17
+    ],
+    "text": "authority of the same, as follows:",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      229,
+      436,
+      40
+    ],
+    "text": "4. This Act may be cited as the Control of Prices stom tite,",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      253,
+      244,
+      16
+    ],
+    "text": "{Amendment) Act, No. 81 of 1952.",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      276,
+      456,
+      20
+    ],
+    "text": "2, Section 8 (9) of the Control of Prices Act, amendment to",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      290,
+      470,
+      20
+    ],
+    "text": "No. 29 of 1950, is hereby amended, in the Proviso sa %o",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      307,
+      439,
+      18
+    ],
+    "text": "thereto, by the substitution, for the words without 1980.\"",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      323,
+      384,
+      19
+    ],
+    "text": "his Knowledge or , of the words without his",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      341,
+      105,
+      17
+    ],
+    "text": "Knowledge and.",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      831,
+      207,
+      30
+    ],
+    "text": "J Raa 28880789",
+    "mean_p_confidence": 0.17
+  }
+]

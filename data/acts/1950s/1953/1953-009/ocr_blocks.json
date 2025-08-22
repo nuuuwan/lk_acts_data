@@ -1,0 +1,1872 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      100,
+      7,
+      409,
+      30
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      205,
+      48,
+      199,
+      28
+    ],
+    "text": "ist. Session 1953",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      252,
+      149,
+      126,
+      47
+    ],
+    "text": "ac st (",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      267,
+      194,
+      112,
+      19
+    ],
+    "text": "MP Seccusiat ig St",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115,
+      288,
+      386,
+      41
+    ],
+    "text": "Parliamentary Staffs Act,",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      198,
+      334,
+      323,
+      31
+    ],
+    "text": "No. 9 of 1953.",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      210,
+      465,
+      301,
+      29
+    ],
+    "text": "Date of Assent: March 14, 1959 ,",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      187,
+      608,
+      329,
+      14
+    ],
+    "text": "Printed on the Orders of Government",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      148,
+      783,
+      341,
+      23
+    ],
+    "text": "ia ats, rma Gore Pees, Gourno,, To, be",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      149,
+      808,
+      340,
+      12
+    ],
+    "text": "Fo tna tac aes eee",
+    "mean_p_confidence": 0.04
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      149,
+      809,
+      341,
+      34
+    ],
+    "text": "2S pa Senne gcormaing aane",
+    "mean_p_confidence": 0.03
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      149,
+      821,
+      341,
+      44
+    ],
+    "text": "Pee ag ae Tpes eat",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      112,
+      41,
+      326,
+      17
+    ],
+    "text": "Parliamentary Staffs Act, No. 9 of 1958 8",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      69,
+      96,
+      13
+    ],
+    "text": "L. DO. 8/60.",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      86,
+      409,
+      15
+    ],
+    "text": "AN, Act 10 MAKE PROVISION WITH RESPECT TO TEE",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      105,
+      356,
+      13
+    ],
+    "text": "CADRE, CONDITIONS OF SERVICE AND ADMINISTRATION",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      118,
+      357,
+      13
+    ],
+    "text": "OF THE STAFFS OF THE SENATE AND THE Hovss oF",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      135,
+      125,
+      12
+    ],
+    "text": "REPRESENTATIVES.",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      129,
+      156,
+      250,
+      18
+    ],
+    "text": "[Date of Assent: March 14, 1958]",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      179,
+      356,
+      28
+    ],
+    "text": "BE it enacted by the Queen's Most Exoellept",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      194,
+      372,
+      17
+    ],
+    "text": "Majesty, by and with the advice and consont of the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      209,
+      372,
+      17
+    ],
+    "text": "Senate end the House of Representatives of Ceylon-in",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      213,
+      372,
+      29
+    ],
+    "text": "this pretent Parliament assembled, and by. the",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      241,
+      253,
+      16
+    ],
+    "text": "authority of the same, as followa:",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      263,
+      427,
+      14
+    ],
+    "text": "1. This Act may be cited as the Parliament ine,",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      264,
+      440,
+      33
+    ],
+    "text": "Staite Act, No. 8 of 1958. : ary tare",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      301,
+      429,
+      19
+    ],
+    "text": "2. The staff of the Clerk to each Chamber of grsttdion",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      314,
+      434,
+      19
+    ],
+    "text": "Parliament, that is to say, to the Senate and the fetter",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      332,
+      458,
+      17
+    ],
+    "text": "House of Representatives tively, shall constitute ik unter.",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      337,
+      373,
+      30
+    ],
+    "text": "& soparate service which shall be subject to the provie",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      365,
+      125,
+      12
+    ],
+    "text": "sions of this Act.",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      385,
+      396,
+      19
+    ],
+    "text": "3, There shall be for each Chamber a Stall sv",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      398,
+      446,
+      21
+    ],
+    "text": "Advisory Committee which shall Canales.",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      421,
+      359,
+      17
+    ],
+    "text": "yi (@) in the case of the Senate, consist of the Presi-",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      437,
+      373,
+      15
+    ],
+    "text": ". dont, the Leader of the Senate, and one",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      452,
+      354,
+      16
+    ],
+    "text": ": other Senator nominated by the Minister",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      148,
+      469,
+      113,
+      14
+    ],
+    "text": "of Finance; and",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      487,
+      403,
+      18
+    ],
+    "text": ".. @) in the case of the House of Representatives, -",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      148,
+      491,
+      297,
+      40
+    ],
+    "text": "consist of the Speaker, the Toeder of the",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92,
+      518,
+      352,
+      16
+    ],
+    "text": ". Honse, and the Minister of Finance or, if",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      534,
+      368,
+      18
+    ],
+    "text": ". > the Minister of Finance is also the Leader",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      148,
+      549,
+      297,
+      16
+    ],
+    "text": "of the House, one other Member of the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      149,
+      564,
+      287,
+      17
+    ],
+    "text": "House nominated by the Prime Miniter.",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      587,
+      427,
+      28
+    ],
+    "text": "4. The number and designation of the posts in the Gunn",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      593,
+      458,
+      27
+    ],
+    "text": "cadre of the stall of the Clerk of each Chamber and fet",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      618,
+      420,
+      31
+    ],
+    "text": "the salary ot scale of salaries to be attached to anch ate.",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      634,
+      376,
+      17
+    ],
+    "text": "poste shall be such as may be determined by the Staff",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      650,
+      376,
+      18
+    ],
+    "text": "Advisory Committee for that Chamber and approved",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      656,
+      475,
+      26
+    ],
+    "text": "by the Cabinet. ..",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      688,
+      421,
+      18
+    ],
+    "text": "B. The Staff Advisory Committee for each Cham- Finsoaat",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      703,
+      452,
+      30
+    ],
+    "text": "her may make financial regulations applicable to the Seguin.",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      49,
+      718,
+      395,
+      22
+    ],
+    "text": ", members of the ataff of the Clerk to that Chamber",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      49,
+      737,
+      180,
+      16
+    ],
+    "text": "! containing provision",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      102,
+      753,
+      345,
+      19
+    ],
+    "text": "(@) for the conditions of service of sach members,.",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      48,
+      769,
+      396,
+      21
+    ],
+    "text": ": including conditions as to the payment of",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      148,
+      784,
+      321,
+      18
+    ],
+    "text": "salaries, rent allowances and other allow-",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      133,
+      799,
+      310,
+      20
+    ],
+    "text": "_ ances, the grant of increments and leave,",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      147,
+      807,
+      386,
+      28
+    ],
+    "text": "the age of compulsory retirement and on",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      147,
+      835,
+      372,
+      16
+    ],
+    "text": "pensions; and : :",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88,
+      848,
+      360,
+      21
+    ],
+    "text": "AL, B 30GH1-2,280 26/809 mo",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      864,
+      470,
+      13
+    ],
+    "text": "A = . OO 7 1",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      540,
+      1,
+      12,
+      10
+    ],
+    "text": "il",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      169,
+      13,
+      377,
+      17
+    ],
+    "text": "4 Parliamentary Stuffs Act, No. 9 of 1983 *",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      203,
+      41,
+      354,
+      18
+    ],
+    "text": "() for the payment of salary or other remunera-",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      250,
+      56,
+      308,
+      14
+    ],
+    "text": "tion to those who act or officiate for such",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      246,
+      70,
+      292,
+      25
+    ],
+    "text": "members. .",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      68,
+      95,
+      490,
+      24
+    ],
+    "text": "Departmental 6, The Clerk to each Chamber, in consultation with",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      73,
+      111,
+      484,
+      18
+    ],
+    "text": "Regolsiions. the Staff Advisory Committee for that Chamber, may",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      168,
+      124,
+      389,
+      21
+    ],
+    "text": "Jn respect of his stafi, make departmental",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      170,
+      145,
+      95,
+      16
+    ],
+    "text": "regulations",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      177,
+      166,
+      380,
+      20
+    ],
+    "text": "_ @) for all matters relating to the disciptine.of",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      250,
+      172,
+      307,
+      27
+    ],
+    "text": "members of the sia and for disciplinary",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      250,
+      200,
+      213,
+      17
+    ],
+    "text": "action against such members;",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      203,
+      218,
+      353,
+      19
+    ],
+    "text": "(8) for the interdiction, punishment and dis-",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      250,
+      234,
+      306,
+      15
+    ],
+    "text": "missal of such members for contraventions",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      250,
+      251,
+      298,
+      18
+    ],
+    "text": "of departmental regulations; and . :",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      203,
+      270,
+      353,
+      19
+    ],
+    "text": "generally for the administration of the office",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      251,
+      277,
+      306,
+      27
+    ],
+    "text": "and the regulation and control of the work",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      251,
+      303,
+      219,
+      14
+    ],
+    "text": "and.conduct of such members.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70,
+      320,
+      487,
+      30
+    ],
+    "text": "Dinsptioery 7. The power to take disciplinary action against",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      69,
+      341,
+      487,
+      24
+    ],
+    "text": "action. any member of the staff of the Clerk to each Chamber,",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      170,
+      356,
+      387,
+      20
+    ],
+    "text": "including the interdiction, punishment and dismissal",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      169,
+      373,
+      388,
+      18
+    ],
+    "text": "of such member, shall be vested in the Clerk to that",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      170,
+      389,
+      387,
+      19
+    ],
+    "text": "Chamber, acting in consultation with the President",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      169,
+      404,
+      388,
+      20
+    ],
+    "text": "or the Speaker, as the case may be, and shall be",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77,
+      421,
+      480,
+      18
+    ],
+    "text": ". exercised in accordance with departmental regulations",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      169,
+      440,
+      155,
+      12
+    ],
+    "text": "nade under section 6.",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      68,
+      460,
+      489,
+      24
+    ],
+    "text": "Retirement 8. The Clerk to each Chamber and the members of",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      73,
+      477,
+      485,
+      20
+    ],
+    "text": "#, Sink 202 his staif shall have the option to retire from office upon",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      171,
+      493,
+      387,
+      19
+    ],
+    "text": "attaining the age of fifty years or at any time there-",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      171,
+      510,
+      387,
+      18
+    ],
+    "text": "after; and such option sall be exercised by notice",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      171,
+      524,
+      388,
+      16
+    ],
+    "text": "which must be delivered to the President or the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      154,
+      541,
+      405,
+      19
+    ],
+    "text": "* Speaker, as the case way be, not less than six months",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      171,
+      559,
+      284,
+      17
+    ],
+    "text": "before the proposed date of retirement.",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71,
+      575,
+      488,
+      32
+    ],
+    "text": "arigts, 9, (1) The President of the Senate or the Speaker",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      74,
+      598,
+      485,
+      22
+    ],
+    "text": "SUM fiw of the House of Representatives may, with the oon-",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      75,
+      611,
+      488,
+      35
+    ],
+    "text": "Fenien currence of the Minister of Finance declare any Post",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      76,
+      630,
+      483,
+      21
+    ],
+    "text": "ieee.\" on the staf of the Clerk to the Senate or the House",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      76,
+      637,
+      484,
+      34
+    ],
+    "text": "Sah! of Representatives, as the case may be, to be a",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      76,
+      659,
+      484,
+      37
+    ],
+    "text": "pot, _ Pensionable Fest with effect from such date as may be",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77,
+      678,
+      483,
+      17
+    ],
+    "text": "fe weras: specified in the declaration; the date so specified may",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      99,
+      694,
+      438,
+      18
+    ],
+    "text": ": be any date prior to the commencement of this Act,",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77,
+      718,
+      484,
+      17
+    ],
+    "text": "Gap. 208, The Minutes on Pensions and the Widows end",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      175,
+      734,
+      386,
+      17
+    ],
+    "text": "Orphars Pension Fund Ordinance shall, aubject. to",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      176,
+      751,
+      385,
+      18
+    ],
+    "text": "any matter provided by or under any of the other",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      176,
+      767,
+      385,
+      18
+    ],
+    "text": "provisions of this Act relating to retirement or",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      172,
+      778,
+      381,
+      38
+    ],
+    "text": "pensions, apply to and in relation to the holder of an:",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      177,
+      786,
+      385,
+      42
+    ],
+    "text": "Dost dedlared tnder sub-section (1} to be a pevsionable",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      177,
+      815,
+      385,
+      17
+    ],
+    "text": "post in ike manner as though such holder were a public",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      177,
+      831,
+      328,
+      18
+    ],
+    "text": "servant or a public officer, as the case may be.",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      128,
+      26,
+      332,
+      16
+    ],
+    "text": "Parliamentary Stajfe Act, No. 9 of 1958 &",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      99,
+      53,
+      361,
+      16
+    ],
+    "text": "{8) Where the holder of post on the staff of the",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      84,
+      68,
+      376,
+      13
+    ],
+    "text": "Clerk to each Chamber which is declared under sub-",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83,
+      80,
+      378,
+      36
+    ],
+    "text": "section (1) to be a Rensionable post was, prior to his",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83,
+      100,
+      195,
+      16
+    ],
+    "text": "appointment to that post",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115,
+      123,
+      347,
+      28
+    ],
+    "text": "(0) the holder of & post under the Government",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      79,
+      139,
+      382,
+      12
+    ],
+    "text": ". which was declared under the Minutes on",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      162,
+      154,
+      300,
+      17
+    ],
+    "text": "Pensions to be pensionable (notwithstand-",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      162,
+      170,
+      299,
+      13
+    ],
+    "text": "ing that it was 60 declared after he ceased",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      162,
+      174,
+      284,
+      27
+    ],
+    "text": "totbold it); or :",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90,
+      207,
+      372,
+      16
+    ],
+    "text": "_ @) the holder of a post on the staff of the State",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      162,
+      222,
+      80,
+      15
+    ],
+    "text": "Council; or",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115,
+      243,
+      346,
+      16
+    ],
+    "text": "() the holder of a post referred to in paragraph",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      126,
+      243,
+      335,
+      32
+    ],
+    "text": "a (e) and thereafter of a post referred to in",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      161,
+      274,
+      104,
+      17
+    ],
+    "text": "paragraph (5),",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      82,
+      297,
+      379,
+      17
+    ],
+    "text": "and his service in such post or posts and his servios",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      81,
+      302,
+      380,
+      24
+    ],
+    "text": "on the stall of the Clerk to the Chamber wore con.",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      82,
+      328,
+      431,
+      16
+    ],
+    "text": "tinuous, then the service of such holder in each such .",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      98,
+      345,
+      363,
+      28
+    ],
+    "text": "st shal be deemed to be servics ina panstonable post",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      81,
+      348,
+      428,
+      29
+    ],
+    "text": "Bor the purposes of the Minutes on Pensions; and those .",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      81,
+      376,
+      234,
+      17
+    ],
+    "text": "Minutes shall apply accordingly.",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      98,
+      399,
+      420,
+      17
+    ],
+    "text": "{4} Where any post on the staff of the Clerk to each .",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      82,
+      415,
+      379,
+      17
+    ],
+    "text": "Chamber has been declared ander sub-section (1) to be",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      82,
+      421,
+      379,
+      43
+    ],
+    "text": "& pensionable post, the > Provisions of sub-seotions (2)",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      82,
+      447,
+      379,
+      16
+    ],
+    "text": "and (8) of this section shall apply to and in relation",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      82,
+      463,
+      379,
+      16
+    ],
+    "text": "to every person who had held that post notwithstand-",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      82,
+      478,
+      380,
+      17
+    ],
+    "text": "ing that he may have retired therefrom before the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      82,
+      495,
+      304,
+      15
+    ],
+    "text": "commencement of this Act. .",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      99,
+      514,
+      363,
+      37
+    ],
+    "text": "(5) The word Bost ** in section 23 of the Public",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      82,
+      533,
+      379,
+      16
+    ],
+    "text": "Service Provident Fand Ordinance, No. 18 of 1942,",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      82,
+      549,
+      380,
+      18
+    ],
+    "text": "shall be deemed to include any post in the cadre of the",
+    "mean_p_confidence": 0.88
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      82,
+      551,
+      394,
+      37
+    ],
+    "text": "staft of the Clerk to each Chamber; and where the ~",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      82,
+      580,
+      380,
+      20
+    ],
+    "text": "Secretary to the Treasury, by Order under that section",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      81,
+      597,
+      382,
+      14
+    ],
+    "text": "Taade with the concurrence of the Clerk to that",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      82,
+      612,
+      381,
+      18
+    ],
+    "text": "Chamber, adds any post in the cadre of sach staff to",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      82,
+      618,
+      381,
+      40
+    ],
+    "text": "the Schedule ta that Orinanoo, the provisions of that",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      82,
+      641,
+      381,
+      37
+    ],
+    "text": "Ordinance shall spply in the case of the holder of the",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      82,
+      661,
+      381,
+      17
+    ],
+    "text": "post, so added as though he were a non-pensionable",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      82,
+      676,
+      309,
+      16
+    ],
+    "text": "employee in the service of the Government.",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      99,
+      708,
+      365,
+      29
+    ],
+    "text": "(in this section, references to a post on the staff",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      82,
+      710,
+      382,
+      37
+    ],
+    "text": "of the Clerk to each Chamber shall. be deemed to",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      82,
+      740,
+      437,
+      18
+    ],
+    "text": "include references to the office of Clerk to each .",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83,
+      755,
+      65,
+      14
+    ],
+    "text": "Chamber.",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      98,
+      788,
+      445,
+      17
+    ],
+    "text": "10. The estimates of expenditure of each Chamber Bevinste of",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83,
+      794,
+      453,
+      30
+    ],
+    "text": "for each financial year chall be prepared by the Stat Se",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83,
+      807,
+      443,
+      37
+    ],
+    "text": "Advisory Committee for that Chamber, and shal] be Chamber.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83,
+      837,
+      381,
+      18
+    ],
+    "text": "sent to the Minister of Finance not later than the",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      119,
+      857,
+      35,
+      10
+    ],
+    "text": "asl",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      154,
+      10,
+      339,
+      16
+    ],
+    "text": "@ Parliamentary Stafls Act, No. 9 of 1058",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      154,
+      38,
+      386,
+      28
+    ],
+    "text": "fifteenth day of April proceding the commenosment",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      68,
+      53,
+      472,
+      19
+    ],
+    "text": ". of that financial year. Those estimates shall, subject",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      154,
+      69,
+      385,
+      17
+    ],
+    "text": "to such alterations as may be mde by the Cabinet,",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      154,
+      73,
+      386,
+      29
+    ],
+    "text": "be included in the Appropriation SBI for that",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      154,
+      102,
+      101,
+      16
+    ],
+    "text": "financial year.",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      171,
+      123,
+      369,
+      29
+    ],
+    "text": "Th this section finanetat year \"* means the period",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      154,
+      139,
+      386,
+      18
+    ],
+    "text": "of twelve months commencing on the first day of",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      154,
+      155,
+      386,
+      21
+    ],
+    "text": "October in any year and ending on the thirtieth day",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      154,
+      173,
+      262,
+      16
+    ],
+    "text": "of September in the succeeding year.",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      54,
+      191,
+      485,
+      32
+    ],
+    "text": "Repel 44, The State Council (General Staff) Ordinance,",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      154,
+      217,
+      252,
+      16
+    ],
+    "text": "No. 23 of 1944, is hereby repealed.",
+    "mean_p_confidence": 0.8
+  }
+]

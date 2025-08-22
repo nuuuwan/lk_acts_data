@@ -1,0 +1,805 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      107,
+      23,
+      396,
+      30
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      54,
+      70,
+      346,
+      70
+    ],
+    "text": "e Zy, Ist Session 1952",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68,
+      106,
+      114,
+      12
+    ],
+    "text": "g ee",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      61,
+      114,
+      136,
+      21
+    ],
+    "text": "[5 f Osa ose NE,",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      53,
+      100,
+      275,
+      74
+    ],
+    "text": "ai Egy",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      55,
+      154,
+      312,
+      48
+    ],
+    "text": "M&S ay ye ey",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      87,
+      182,
+      286,
+      45
+    ],
+    "text": "Cian yer TAN",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83,
+      187,
+      272,
+      68
+    ],
+    "text": "LES ves .",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      75,
+      319,
+      450,
+      29
+    ],
+    "text": "Public Service. Provident Fund {Amendment}",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      198,
+      353,
+      200,
+      21
+    ],
+    "text": "Act, No. 33 of 1952",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      189,
+      519,
+      349,
+      15
+    ],
+    "text": "Date of Assent : November 13, 1952 7",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      180,
+      629,
+      357,
+      17
+    ],
+    "text": "Printed on the Orders of Government :",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      131,
+      758,
+      332,
+      24
+    ],
+    "text": "ban h,Pe Sones Gana tm",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      131,
+      783,
+      401,
+      13
+    ],
+    "text": "tual Suiperipton (ichading Bs) Rar 3, payne ix .",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      129,
+      784,
+      334,
+      32
+    ],
+    "text": "ih ee ees",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      129,
+      822,
+      333,
+      13
+    ],
+    "text": "Price 10 cont, Pooiage : & vente.",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      103,
+      8,
+      352,
+      17
+    ],
+    "text": "Public Service Provident Fund (Amendment)",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      190,
+      26,
+      147,
+      15
+    ],
+    "text": "Act, No. 33 of 1052.",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      47,
+      483,
+      15
+    ],
+    "text": "L, DO, 8/bi. .",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      79,
+      366,
+      14
+    ],
+    "text": "AW Acr ro amen tHe Punic Service PROVIDENT",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      96,
+      296,
+      19
+    ],
+    "text": "Funp Onpinancs, No. 18 oF 1042.",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      125,
+      124,
+      280,
+      17
+    ],
+    "text": "[Date of Assent: November 13, 1952]",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      140,
+      399,
+      41
+    ],
+    "text": "BE it enacted by the Queens Most Excellent",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      164,
+      383,
+      17
+    ],
+    "text": "Majesty, by and with the advice and consent of the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      180,
+      383,
+      19
+    ],
+    "text": "Senate and the House of Representatives of Ceylon in",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      197,
+      384,
+      17
+    ],
+    "text": "in this present Parliament assembled, and by the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      213,
+      259,
+      17
+    ],
+    "text": "authority of the same, as follows :",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      242,
+      438,
+      17
+    ],
+    "text": "4. This Act may be cited as the Public Service her tt,",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      258,
+      432,
+      16
+    ],
+    "text": "Provident Fund (Amendment) Act, No. 33 of 1952. :",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      285,
+      453,
+      19
+    ],
+    "text": "2. Section 18 of the Public Service Provident Fund Amepdmentot",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      302,
+      449,
+      17
+    ],
+    "text": "Ordinance, No. 18 of 1949, (hereinofter referred to as Scisnme",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      317,
+      478,
+      18
+    ],
+    "text": "the ' prinoipal enactment), is hereby amended a 18 of 196.",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      334,
+      75,
+      13
+    ],
+    "text": "follows :",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      107,
+      359,
+      440,
+      17
+    ],
+    "text": "(a) by the renumbering of that section as .",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      155,
+      375,
+      208,
+      17
+    ],
+    "text": "sab-section {1) of section 18;",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      107,
+      399,
+      352,
+      18
+    ],
+    "text": "(8) by the insertion after the re-numbered",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      155,
+      415,
+      304,
+      18
+    ],
+    "text": "sub-section (1), of the following new",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      155,
+      433,
+      103,
+      12
+    ],
+    "text": "sub-section :",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122,
+      455,
+      337,
+      18
+    ],
+    "text": ". _ *@) Where contributor to the Fund",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      155,
+      471,
+      304,
+      30
+    ],
+    "text": "4s appointed to a pensionable ofc in the",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      155,
+      488,
+      304,
+      18
+    ],
+    "text": "public service and enters on the duties of",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      155,
+      504,
+      304,
+      17
+    ],
+    "text": "such office, then, notwithstanding that his",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      520,
+      376,
+      17
+    ],
+    "text": ": service as a scheduled employes is not",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      155,
+      536,
+      304,
+      17
+    ],
+    "text": "continuous with his service in the pension-",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      155,
+      553,
+      304,
+      17
+    ],
+    "text": "able office, the provisions of sub-section (1)",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      155,
+      570,
+      241,
+      17
+    ],
+    "text": "shall apply if, but only if -",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      156,
+      588,
+      304,
+      19
+    ],
+    "text": "(a) his service as a scheduled employee is",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      203,
+      605,
+      260,
+      18
+    ],
+    "text": "terminated by resignation made",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      203,
+      621,
+      257,
+      17
+    ],
+    "text": "with the consent of the prescribed",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      203,
+      637,
+      257,
+      30
+    ],
+    "text": "affcer or authority given for the",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      203,
+      655,
+      257,
+      17
+    ],
+    "text": "purpose of enabling him to accept",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      203,
+      670,
+      193,
+      18
+    ],
+    "text": "the pensionable office; and",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      156,
+      690,
+      304,
+      19
+    ],
+    "text": "(8) the period intervening between the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      203,
+      706,
+      257,
+      15
+    ],
+    "text": "date of the termination of his",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      203,
+      723,
+      257,
+      16
+    ],
+    "text": "service as scheduled employee and",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      203,
+      738,
+      257,
+      17
+    ],
+    "text": "the date of his entering on the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      203,
+      754,
+      257,
+      18
+    ],
+    "text": "duties of the pensionable office is",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      203,
+      770,
+      257,
+      19
+    ],
+    "text": "nob more than thirty.one days",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      202,
+      787,
+      258,
+      28
+    ],
+    "text": "exclusive of any, period daring",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      202,
+      803,
+      241,
+      16
+    ],
+    "text": "which he is actually being train",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      202,
+      820,
+      103,
+      14
+    ],
+    "text": "for each office:",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      842,
+      119,
+      9
+    ],
+    "text": "ARNE.",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161,
+      42,
+      353,
+      16
+    ],
+    "text": "4 Public Service Provident Fund (Amendment)",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      279,
+      58,
+      148,
+      16
+    ],
+    "text": "Act, No. 88 of 1952.",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      259,
+      85,
+      286,
+      17
+    ],
+    "text": "Provided, however, that in any such",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      242,
+      101,
+      303,
+      14
+    ],
+    "text": "case the account of that contributor in the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      243,
+      117,
+      302,
+      18
+    ],
+    "text": "Fund shall be closed on the day of the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      243,
+      134,
+      302,
+      14
+    ],
+    "text": "termination of his service as a scheduled",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      242,
+      151,
+      83,
+      16
+    ],
+    "text": "employes.",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      61,
+      171,
+      484,
+      31
+    ],
+    "text": "Retconpetive %. The amendment made in the principal",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      61,
+      185,
+      485,
+      27
+    ],
+    "text": "effect. enactment by section 2 of this Act shall be deemed for",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      162,
+      210,
+      384,
+      18
+    ],
+    "text": "all purposes to have come into operation on the first",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      162,
+      228,
+      166,
+      17
+    ],
+    "text": "day of January, 1946. :",
+    "mean_p_confidence": 0.68
+  }
+]

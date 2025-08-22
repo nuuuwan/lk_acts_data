@@ -1,0 +1,673 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      97,
+      16,
+      411,
+      32
+    ],
+    "text": "PARLIAMENT OF CEYLON .,",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      201,
+      65,
+      355,
+      19
+    ],
+    "text": "3rd Session 1954.55 .",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      280,
+      163,
+      46,
+      16
+    ],
+    "text": "anton",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      157,
+      188,
+      404,
+      51
+    ],
+    "text": "yD",
+    "mean_p_confidence": 0.08
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77,
+      326,
+      441,
+      39
+    ],
+    "text": "Food Supplies (Amendment)",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      151,
+      372,
+      401,
+      34
+    ],
+    "text": "Act, No. 7 of 1955 .",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      56,
+      514,
+      343,
+      24
+    ],
+    "text": ". Date of Assent: March 10, 1955",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62,
+      641,
+      489,
+      23
+    ],
+    "text": "7 Printed on the Orders of Government 2",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      94,
+      751,
+      402,
+      19
+    ],
+    "text": ". *",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      120,
+      769,
+      387,
+      25
+    ],
+    "text": "FoR to RTE Es SE Rial",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      120,
+      795,
+      409,
+      25
+    ],
+    "text": "Annual Subsgription (including Bills) Rs. 25, payable in*",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      120,
+      812,
+      402,
+      23
+    ],
+    "text": "Sint far GRE a",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      58,
+      838,
+      429,
+      15
+    ],
+    "text": "\" Price: 13 cents. Postage: 10 cents.",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      51,
+      866,
+      505,
+      10
+    ],
+    "text": "eee eee ee",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      128,
+      31,
+      316,
+      17
+    ],
+    "text": "Food Supplice (Amendment) Act, 8",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      181,
+      32,
+      332,
+      32
+    ],
+    "text": "a 1 of 1965 . *",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      73,
+      400,
+      17
+    ],
+    "text": "L. DO. 60/54. af",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      92,
+      420,
+      17
+    ],
+    "text": "An Acr 10 AMEND THz Foon Supriius ORDINANCE, = +",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      195,
+      110,
+      271,
+      13
+    ],
+    "text": "No. 30 oF 1947. oe",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      125,
+      126,
+      333,
+      21
+    ],
+    "text": "[Date of Assent: March 10, 1955] ~\"7",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      142,
+      367,
+      42
+    ],
+    "text": "BE it enacted by the Queens Most Excellent",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      165,
+      383,
+      19
+    ],
+    "text": "Majesty, by and with the advice and consent of the",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      182,
+      383,
+      18
+    ],
+    "text": "Senate aud the House of Representatives of- Ceylon",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      199,
+      400,
+      18
+    ],
+    "text": "in this present Parliament assembled, and by the ,",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      217,
+      266,
+      17
+    ],
+    "text": "authority of the same, as follows :",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      243,
+      437,
+      19
+    ],
+    "text": "4. This Act may be cited as the Food Supplies Stor tie,",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      262,
+      247,
+      17
+    ],
+    "text": "(Amendment) Act, No. 7 of 1955.",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      289,
+      458,
+      19
+    ],
+    "text": "2, Section 6 of the Food Supplies Ordinance, Assiyentot",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      301,
+      456,
+      21
+    ],
+    "text": "No. 80 of 1947, is hereby amended, in sub-section (3) setetset",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      323,
+      451,
+      21
+    ],
+    "text": "of that section, as follows: Sepals",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      95,
+      346,
+      443,
+      21
+    ],
+    "text": "(@) by the substitution, for sub-paragraph (ii) of _*- Sof 47.",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      143,
+      365,
+      303,
+      19
+    ],
+    "text": "paragraph (a) of that sub-section, of the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      143,
+      383,
+      205,
+      17
+    ],
+    "text": "following sub-paragraph :",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      143,
+      398,
+      378,
+      22
+    ],
+    "text": "** Gi) such amount, not exceeding ten &",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      192,
+      407,
+      254,
+      29
+    ],
+    "text": "per centum of the cost referred to in",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      188,
+      426,
+      258,
+      43
+    ],
+    "text": "sub-paragraph (i) of paragraph (2)",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      191,
+      452,
+      255,
+      17
+    ],
+    "text": "of this sub-section, as may be deter-",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      192,
+      469,
+      254,
+      17
+    ],
+    "text": "mined by the competent authority",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      192,
+      486,
+      255,
+      17
+    ],
+    "text": "as the profit which such owner",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      192,
+      502,
+      255,
+      17
+    ],
+    "text": "might reasonably have been expected",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      192,
+      519,
+      255,
+      14
+    ],
+    "text": "to make on @ sale of that article",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      192,
+      536,
+      255,
+      17
+    ],
+    "text": "immediately before the requisition",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      193,
+      553,
+      254,
+      16
+    ],
+    "text": "if the supply of, and the demand",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      193,
+      570,
+      254,
+      15
+    ],
+    "text": "for, that article were then nor-",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      193,
+      587,
+      85,
+      15
+    ],
+    "text": "mal; 7; and",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96,
+      596,
+      351,
+      44
+    ],
+    "text": "(2) by the substitution, for sub-paragreph (ii) of",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      144,
+      623,
+      303,
+      16
+    ],
+    "text": "paragraph (5) of that sub-section, of the",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      145,
+      639,
+      204,
+      17
+    ],
+    "text": "following sub-paragraph :",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      146,
+      659,
+      302,
+      18
+    ],
+    "text": "(i) such amount, not exceeding ten",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      135,
+      676,
+      313,
+      19
+    ],
+    "text": ". per centum of the price referred to",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      131,
+      693,
+      317,
+      18
+    ],
+    "text": ",.- in sub-paragraph (i) of paragraph",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      145,
+      710,
+      303,
+      17
+    ],
+    "text": ": () of this sub-section, as may be",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      193,
+      727,
+      255,
+      17
+    ],
+    "text": "determined by the competent",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      193,
+      743,
+      302,
+      18
+    ],
+    "text": "authority as the profit which such *",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      192,
+      761,
+      256,
+      17
+    ],
+    "text": "owner might reasonably have heen",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      192,
+      777,
+      255,
+      20
+    ],
+    "text": "expected to make on a sale of that",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      192,
+      795,
+      255,
+      17
+    ],
+    "text": "article immediately before the",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      56,
+      811,
+      391,
+      17
+    ],
+    "text": ". requisition if the supply of, and the",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      192,
+      828,
+      255,
+      16
+    ],
+    "text": "demand for, that article were then",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      184,
+      845,
+      76,
+      15
+    ],
+    "text": "-normal,.",
+    "mean_p_confidence": 0.04
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      94,
+      861,
+      338,
+      13
+    ],
+    "text": "2.1 285-2548 118) . e",
+    "mean_p_confidence": 0.22
+  }
+]

@@ -1,0 +1,387 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      98,
+      18,
+      402,
+      26
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      200,
+      65,
+      197,
+      21
+    ],
+    "text": "3rd Session, 1954-55",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      256,
+      194,
+      90,
+      22
+    ],
+    "text": "Bk",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77,
+      236,
+      279,
+      18
+    ],
+    "text": ". Ra,",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      243,
+      238,
+      110,
+      34
+    ],
+    "text": "We",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      84,
+      318,
+      427,
+      35
+    ],
+    "text": "Municipal Councils (Amendment)",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      164,
+      357,
+      269,
+      27
+    ],
+    "text": "Act, No. 26 of 1954",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      206,
+      501,
+      188,
+      14
+    ],
+    "text": "Date of Assent : Moy 14, 1954",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      180,
+      638,
+      241,
+      15
+    ],
+    "text": "Printed on the Orders of Government",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      131,
+      776,
+      344,
+      24
+    ],
+    "text": "Erie fg Gover rer Ga 2a Panes",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      131,
+      802,
+      355,
+      13
+    ],
+    "text": "Annual Subscription {including Bills} Re, payable in *",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      130,
+      804,
+      341,
+      32
+    ],
+    "text": "Er Ge Gao Ero ee",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      132,
+      843,
+      340,
+      14
+    ],
+    "text": "Price: 15 cents Postage : 10 cents",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115,
+      50,
+      321,
+      16
+    ],
+    "text": "Municipal Councils (Amendment) Act, 3",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      200,
+      66,
+      101,
+      15
+    ],
+    "text": "No, 86 of 1954",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      92,
+      105,
+      14
+    ],
+    "text": "L. DOF, 19/88",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      95,
+      112,
+      312,
+      13
+    ],
+    "text": "An Act TO AMEND THB MuntcrraL CouNcILs",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      156,
+      128,
+      192,
+      15
+    ],
+    "text": "Onpmancs, No. 29 oF 1047.",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      138,
+      156,
+      231,
+      16
+    ],
+    "text": "(Date of Assent: May 14, 1954}",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      179,
+      358,
+      36
+    ],
+    "text": "BE it enacted by the Queens Most Excellent",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      198,
+      374,
+      17
+    ],
+    "text": "Majesty, by and with the advice and consent of the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      214,
+      374,
+      16
+    ],
+    "text": "Senate and the House of Representatives of Ceylon in",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      230,
+      374,
+      16
+    ],
+    "text": "this present Parliament assembled, and by the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      246,
+      255,
+      16
+    ],
+    "text": "authority of the same, as follows:",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      272,
+      428,
+      17
+    ],
+    "text": "4. This Act may ba cited as the Municipal Councils Stes tile.",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      289,
+      245,
+      16
+    ],
+    "text": "(Amendment) Act, No. 26 of 1954,",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      314,
+      445,
+      19
+    ],
+    "text": "2. Section 10 of the Municipal Councils Ordinance, Amez2aeat ot",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      332,
+      439,
+      28
+    ],
+    "text": "No. 29 of 1947, as amended by the Local Authorities Ondinanoa",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      345,
+      465,
+      19
+    ],
+    "text": "(Term of Office) Act, No. 38 of 1953, is hereby further * 3 of 19.",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      363,
+      376,
+      17
+    ],
+    "text": "amended in sub-section (2) of that section, by the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      379,
+      377,
+      17
+    ],
+    "text": "substitution, in paragraph (8) of that sub-section, for",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      395,
+      377,
+      21
+    ],
+    "text": "the words \" the last day of any month in any year",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      411,
+      376,
+      17
+    ],
+    "text": "subsequent to the year specified in that Order:*, of",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      427,
+      195,
+      13
+    ],
+    "text": "the words a later date:'.",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      112,
+      857,
+      110,
+      9
+    ],
+    "text": "3.8. Tato 800 EE)",
+    "mean_p_confidence": 0.26
+  }
+]

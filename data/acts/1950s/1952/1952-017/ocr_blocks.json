@@ -1,0 +1,992 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      87,
+      20,
+      418,
+      32
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      188,
+      70,
+      361,
+      42
+    ],
+    "text": "sth Session 1952 * gga",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      456,
+      103,
+      98,
+      12
+    ],
+    "text": "SL",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      261,
+      129,
+      315,
+      34
+    ],
+    "text": "pre Deer Fiennes",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      222,
+      145,
+      354,
+      45
+    ],
+    "text": "oo a",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      231,
+      168,
+      341,
+      47
+    ],
+    "text": ": eh q KON vA",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      220,
+      219,
+      287,
+      38
+    ],
+    "text": "if Coie eey ~",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      101,
+      325,
+      394,
+      47
+    ],
+    "text": "Co-operative Societies (Special",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143,
+      371,
+      334,
+      33
+    ],
+    "text": "Provisions) Act, No. 17 |",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      246,
+      411,
+      266,
+      23
+    ],
+    "text": "of 1952 :",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      194,
+      517,
+      201,
+      39
+    ],
+    "text": "Date of Ansent: March 22, 1952",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      173,
+      643,
+      245,
+      27
+    ],
+    "text": "Printed om the Orders of Government",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      128,
+      752,
+      337,
+      36
+    ],
+    "text": "Peni at haSuae Six ee Sune,",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      128,
+      791,
+      338,
+      20
+    ],
+    "text": "Heel lg, ein ie Be",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      97,
+      808,
+      368,
+      23
+    ],
+    "text": "| Bomay, Post Orrict Box 860, Secretariat, Colombo 1",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      128,
+      831,
+      338,
+      12
+    ],
+    "text": "Prise 10 conte Postage? 8 vents",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122,
+      28,
+      344,
+      19
+    ],
+    "text": "Co-opurutine Socictivs (Special Provisions) 3",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      201,
+      45,
+      147,
+      17
+    ],
+    "text": "Act, No. 17 of 1952",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96,
+      73,
+      253,
+      13
+    ],
+    "text": "L. DO. 57/61. .",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      97,
+      383,
+      13
+    ],
+    "text": "AAN ACT TO MAKE HPECIAS PROVISION WITH RESPECT TO",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      100,
+      112,
+      367,
+      13
+    ],
+    "text": "THE APPLICATION OF SECTION 45 or-THE CO-OPERATIVE",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      100,
+      127,
+      367,
+      14
+    ],
+    "text": "Socterms OnoINANCR AND TU AMEND SECTION 54",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      100,
+      145,
+      142,
+      12
+    ],
+    "text": "OF THAT ORDINANCE,",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      148,
+      171,
+      421,
+      17
+    ],
+    "text": "[Date of Assent: March 21, 1952.] :",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      101,
+      198,
+      367,
+      29
+    ],
+    "text": "BE it enacted by the Queen's Most Excellent",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      214,
+      383,
+      18
+    ],
+    "text": "Majesty, by and with the advice and consent of the",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      230,
+      381,
+      17
+    ],
+    "text": "Senate and the House of Representatives of Ceylon",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      245,
+      383,
+      18
+    ],
+    "text": "in this present Parliament assembled, and hy the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      262,
+      256,
+      17
+    ],
+    "text": "authority of the same, as follows :",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      101,
+      285,
+      434,
+      36
+    ],
+    "text": "4, This Act may be cited as the Co-operative hore title.",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      305,
+      352,
+      17
+    ],
+    "text": "Societies (Special Provisions) Act, No. 17 of 1952.",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      101,
+      332,
+      450,
+      18
+    ],
+    "text": "2.. (1) Section 45 of the Co-operative Societies Appliceiox of",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      348,
+      473,
+      20
+    ],
+    "text": "Ordinance (hereinafter referred to as ' the principal 8 sp,",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      356,
+      382,
+      41
+    ],
+    "text": "enactment \") shail apply in the case of every dispute",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      372,
+      383,
+      41
+    ],
+    "text": "of any description referred to in that section as",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      396,
+      382,
+      17
+    ],
+    "text": "amended by Act No. 21 of 1949 notwithstanding that",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      411,
+      382,
+      18
+    ],
+    "text": "the dispute may have arisen prior to the date on which",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      428,
+      212,
+      16
+    ],
+    "text": "that Act came into operation:",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      101,
+      447,
+      366,
+      16
+    ],
+    "text": "Provided, however, that where any matter which.",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      463,
+      383,
+      17
+    ],
+    "text": "by reason only of the preceding provisions of this sub-",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      479,
+      382,
+      16
+    ],
+    "text": "section, constitutes a dispute to which the aforesaid",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      494,
+      382,
+      18
+    ],
+    "text": "section 45 applies, is a matter in issue in any action",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      510,
+      383,
+      14
+    ],
+    "text": "which at the date of the commencement of this Act ie",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      526,
+      382,
+      17
+    ],
+    "text": "pending in any court of competent jurisdiction,",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      541,
+      383,
+      18
+    ],
+    "text": "nothing in the preceding provisions of this sub-section",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      547,
+      383,
+      28
+    ],
+    "text": "shall prevent or be held or construed to prevent the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      573,
+      383,
+      18
+    ],
+    "text": "hearing and determination by the court of the said",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      589,
+      384,
+      16
+    ],
+    "text": "matter in issue or to affect the validity or operation of",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      603,
+      359,
+      16
+    ],
+    "text": "the order or decree made or entered in the action.",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      102,
+      624,
+      366,
+      20
+    ],
+    "text": "(2) Every reference of a dispute of any description",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      640,
+      384,
+      16
+    ],
+    "text": "mentioned in section 45 of the principal enactment, as",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      656,
+      384,
+      17
+    ],
+    "text": "amended by Act No. 21 of 1949, which may heretofore",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      671,
+      384,
+      17
+    ],
+    "text": "have been made in purported pursnance of the provi-",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      687,
+      384,
+      14
+    ],
+    "text": "sions of that section as so amended shall be and be",
+    "mean_p_confidence": 0.88
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      698,
+      388,
+      37
+    ],
+    "text": "deemed to have been as valid and effectual as though",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      719,
+      358,
+      17
+    ],
+    "text": "sub-section (1) of this section had been in force at",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      734,
+      384,
+      16
+    ],
+    "text": "time the reference was made; and the provisions of",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      750,
+      385,
+      18
+    ],
+    "text": "sub-sections (2) to (5) of the aforesaid section 45 shall",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      748,
+      359,
+      40
+    ],
+    "text": "apply and be ecned to have applied accordingly :",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      101,
+      790,
+      369,
+      16
+    ],
+    "text": "Provided, however, thatsin any caso where any eourt",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      805,
+      386,
+      18
+    ],
+    "text": "of competent jurisdiction has prior to the date of the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      822,
+      416,
+      18
+    ],
+    "text": "commencement of this Actmade order or entered _",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      837,
+      385,
+      18
+    ],
+    "text": "judgment holdifig that any. dispute: was not daly",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      100,
+      855,
+      450,
+      18
+    ],
+    "text": "San aamo-gsis ene) > . re",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      167,
+      23,
+      345,
+      18
+    ],
+    "text": "4 Co-operatine Societies (Special Provisions)",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      287,
+      40,
+      147,
+      15
+    ],
+    "text": "det, No. 17 of 1952",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      168,
+      65,
+      384,
+      18
+    ],
+    "text": "referred, or that any matter in iseue in the action did",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      158,
+      81,
+      394,
+      18
+    ],
+    "text": "- nob constitute a dispute which could have been duly",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      146,
+      97,
+      405,
+      19
+    ],
+    "text": "_ referred, for decision under the aforesaid section 45,",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      167,
+      113,
+      384,
+      18
+    ],
+    "text": "nothing in the preceding provisions of this snb-section",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      167,
+      125,
+      398,
+      20
+    ],
+    "text": "shail be construed to ailect the validity of the order or -",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      167,
+      144,
+      385,
+      16
+    ],
+    "text": "decree made or entered in that case, or to authorise",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      167,
+      160,
+      385,
+      15
+    ],
+    "text": "or enable the said matter in issue to be referred for",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      167,
+      178,
+      199,
+      13
+    ],
+    "text": "decision under that section.",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72,
+      203,
+      480,
+      19
+    ],
+    "text": "Amzinet ot 8. (1) Sevtion 54 of the principal enactment is",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70,
+      219,
+      482,
+      21
+    ],
+    "text": "sion hereby amended, by the substitution, for the definition",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      66,
+      228,
+      456,
+      37
+    ],
+    "text": "con of officer , af the following new definition :",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      200,
+      258,
+      352,
+      18
+    ],
+    "text": "officer includes every person who is the chair-",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      247,
+      274,
+      306,
+      18
+    ],
+    "text": "man, eecretary, treasurer or manager of a",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      248,
+      290,
+      305,
+      17
+    ],
+    "text": "society or a member of the Committee of a",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      248,
+      306,
+      305,
+      18
+    ],
+    "text": "society, and any other person who is em-",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      248,
+      321,
+      305,
+      18
+    ],
+    "text": "powered by the roles or by-laws of a society",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      248,
+      337,
+      305,
+      18
+    ],
+    "text": "ta give directions in regard to the business",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      248,
+      355,
+      179,
+      15
+    ],
+    "text": "of the society.",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      184,
+      376,
+      370,
+      19
+    ],
+    "text": "(@) The principal enactment shall have and be",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      135,
+      392,
+      419,
+      28
+    ],
+    "text": "| deomed always to have had effect os though the",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      168,
+      408,
+      386,
+      16
+    ],
+    "text": "definition of * officer inserted in section 54 thereof",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      168,
+      423,
+      386,
+      33
+    ],
+    "text": "by sub-section (1) of this section hed been inserted",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      205,
+      439,
+      349,
+      16
+    ],
+    "text": "in on the date. of the commencement of that",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      167,
+      457,
+      256,
+      22
+    ],
+    "text": "enactment. .",
+    "mean_p_confidence": 0.42
+  }
+]
