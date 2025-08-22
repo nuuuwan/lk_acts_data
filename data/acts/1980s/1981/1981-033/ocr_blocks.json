@@ -1,0 +1,651 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      271,
+      71,
+      87,
+      15
+    ],
+    "text": "AS eam",
+    "mean_p_confidence": 0.09
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      302,
+      79,
+      27,
+      20
+    ],
+    "text": "at",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      264,
+      125,
+      98,
+      13
+    ],
+    "text": "Sa",
+    "mean_p_confidence": 0.06
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      101,
+      199,
+      391,
+      18
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      145,
+      231,
+      289,
+      24
+    ],
+    "text": "_ SOCTALIST REPUBLIC OF",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      240,
+      263,
+      119,
+      18
+    ],
+    "text": "SRI LANKA",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      96,
+      356,
+      407,
+      23
+    ],
+    "text": "MUNICIPAL COUNCILS (AMENDMENT)",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      191,
+      398,
+      213,
+      20
+    ],
+    "text": "ACT, No. 33 OF 1981",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62,
+      505,
+      479,
+      16
+    ],
+    "text": ". [Certified on 29th May, 1551] note",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      162,
+      560,
+      277,
+      14
+    ],
+    "text": "Printed on the Orders of the Government",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      64,
+      677,
+      477,
+      14
+    ],
+    "text": "Published as a Supplement to Part Il of the Gazette of the Democratic",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      63,
+      703,
+      389,
+      16
+    ],
+    "text": "_ Gactallst Republic of Sil Lanka of June 6, 1961",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      119,
+      782,
+      370,
+      23
+    ],
+    "text": "um trae 6 te Ye",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      67,
+      811,
+      475,
+      19
+    ],
+    "text": "yo ae FUNCHASID AT nun GOVT. PUBICATIDWE BUREAB, COLOMBO",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      89,
+      837,
+      470,
+      26
+    ],
+    "text": "Prico: 35 cenis Postage : 50 cents 4",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      185,
+      23,
+      218,
+      14
+    ],
+    "text": "Muncipal Councils (Amendment)",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      235,
+      40,
+      121,
+      14
+    ],
+    "text": "Act, No. 38 of 1981",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      200,
+      72,
+      193,
+      15
+    ],
+    "text": "[Certified on 29th May, 29387",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      105,
+      103,
+      104,
+      12
+    ],
+    "text": "L, DO, 11/80,",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115,
+      118,
+      414,
+      30
+    ],
+    "text": "AR Act To AMEND THE MumicrraL Counerts ORDINANCE. :",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      106,
+      150,
+      382,
+      16
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic Socialist",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      106,
+      169,
+      243,
+      14
+    ],
+    "text": "Republic of Sri Lanka as follows:",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119,
+      196,
+      446,
+      16
+    ],
+    "text": "1. This Act may be cited og the Municipal Councils short title",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      109,
+      215,
+      218,
+      13
+    ],
+    "text": "(Amendment) Act, No, 33 of 1981.",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      120,
+      242,
+      455,
+      14
+    ],
+    "text": "2 Section 327 of the Municipal Councils Ordinance is Amendment",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108,
+      254,
+      453,
+      21
+    ],
+    "text": "hereby amended in subsection (1) of that section by the of secon",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      107,
+      274,
+      476,
+      14
+    ],
+    "text": "substitution for the definition of annual value, of the Chapter 252,,",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108,
+      290,
+      474,
+      17
+    ],
+    "text": "following definition : : *",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      121,
+      318,
+      167,
+      11
+    ],
+    "text": "annual value means",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      163,
+      341,
+      420,
+      15
+    ],
+    "text": "(o) where any premises are not let, the annual :",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      199,
+      357,
+      293,
+      14
+    ],
+    "text": "rent which a tenant might reasonably be",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      200,
+      374,
+      292,
+      15
+    ],
+    "text": "expected, taking one year with another, to",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      200,
+      391,
+      293,
+      15
+    ],
+    "text": "pay for asy house, building, land, or tene-",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      200,
+      407,
+      293,
+      15
+    ],
+    "text": "ment, if the tenant undertook to pay all public",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      200,
+      424,
+      293,
+      14
+    ],
+    "text": "rates and taxes, and if the landlord under-",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      201,
+      441,
+      292,
+      14
+    ],
+    "text": "took to bear the cost of repairs, maintenance",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      201,
+      458,
+      292,
+      14
+    ],
+    "text": "and upkeep, if any, necessary to maintain",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      200,
+      474,
+      293,
+      14
+    ],
+    "text": "the house, building, land, or tenement in a",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      201,
+      491,
+      195,
+      13
+    ],
+    "text": "state to command that rent;",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      164,
+      515,
+      329,
+      15
+    ],
+    "text": "(b) where any premises are let, the annual rent",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      201,
+      532,
+      382,
+      15
+    ],
+    "text": "which a tenant muy reasonably be expected :",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      201,
+      549,
+      382,
+      14
+    ],
+    "text": "taking one year with another, to pay for any i",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      201,
+      565,
+      293,
+      15
+    ],
+    "text": "house, building, Yand, ot tenement, if the",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      201,
+      581,
+      382,
+      15
+    ],
+    "text": "tenant undertook to pay all public rates and :",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      202,
+      599,
+      292,
+      13
+    ],
+    "text": "taxes, and {f the landlord undertook to bear",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      202,
+      615,
+      292,
+      15
+    ],
+    "text": "the cost of repairs, maintenance and upkeep,",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      201,
+      632,
+      293,
+      14
+    ],
+    "text": "it any, necessary to maintain the house,",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      202,
+      649,
+      293,
+      14
+    ],
+    "text": "building, land, or tenement in a state to",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      201,
+      665,
+      294,
+      13
+    ],
+    "text": "commend that rent, or the actual annual rent",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      203,
+      681,
+      291,
+      15
+    ],
+    "text": "paid where the tenant undertook to pay the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      201,
+      698,
+      293,
+      14
+    ],
+    "text": "public rates end taxes and the landlord",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      201,
+      715,
+      328,
+      13
+    ],
+    "text": "undertook to bear the cost of repairs, maine",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      202,
+      731,
+      292,
+      14
+    ],
+    "text": "tenanes and upkeep, if any, necessary to",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      202,
+      747,
+      292,
+      14
+    ],
+    "text": "meintain the house, huilding, land or tene-",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      202,
+      763,
+      290,
+      13
+    ],
+    "text": "ment, in a state to command that rent,",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      203,
+      780,
+      134,
+      15
+    ],
+    "text": "whichever is higher :",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      215,
+      804,
+      277,
+      14
+    ],
+    "text": "Provided that in the computation of annual",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      203,
+      820,
+      380,
+      17
+    ],
+    "text": "value no allowance or reduction shall be made i",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      203,
+      836,
+      380,
+      17
+    ],
+    "text": "for any period of non-tenancy whatsoever ;\". '",
+    "mean_p_confidence": 0.66
+  }
+]

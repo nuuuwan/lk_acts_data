@@ -1,0 +1,937 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      265,
+      143,
+      89,
+      27
+    ],
+    "text": "Voy",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      34,
+      209,
+      3,
+      12
+    ],
+    "text": "i",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      34,
+      264,
+      456,
+      17
+    ],
+    "text": "| PARLIAMENT OF THE DEMOCRATIC",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      34,
+      284,
+      402,
+      53
+    ],
+    "text": "| SOCIALIST REPUBLIC OF",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      34,
+      328,
+      326,
+      43
+    ],
+    "text": "| SRI LANKA",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      126,
+      399,
+      343,
+      17
+    ],
+    "text": "EMPLOYEES PROVIDENT FUND",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      226,
+      439,
+      155,
+      22
+    ],
+    "text": "(AMENDMENT)",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      196,
+      474,
+      212,
+      20
+    ],
+    "text": "ACT, No. 26 OF 1981",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      211,
+      561,
+      179,
+      15
+    ],
+    "text": "{Certified on Sth May, 1981)",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      175,
+      615,
+      412,
+      17
+    ],
+    "text": "Printed on the Orders of Government :",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77,
+      709,
+      448,
+      14
+    ],
+    "text": "Published az a Supplement to Part II of the Gazette of the Democratic",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      146,
+      730,
+      307,
+      14
+    ],
+    "text": "Socialist Republic of Sri Lanka of May 08, 1981",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      113,
+      802,
+      375,
+      11
+    ],
+    "text": "roe 8 Ee GP ore EN Be LEA",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      98,
+      819,
+      460,
+      25
+    ],
+    "text": "YO BE PURCHASED AT THE GOVT. PUBLICATIONS BUREAU, COLOMBO 7 I",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      89,
+      852,
+      421,
+      12
+    ],
+    "text": "Price: 35 cants Postage : 5 conts",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      121,
+      17,
+      285,
+      15
+    ],
+    "text": "Employees Provident Fund (Amendment)",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      200,
+      35,
+      128,
+      14
+    ],
+    "text": "Act, No. 26 of 1881",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      169,
+      68,
+      191,
+      15
+    ],
+    "text": "[Certified on Sth May, 1981]",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      98,
+      98,
+      13
+    ],
+    "text": "LDO. 103/20,",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92,
+      132,
+      344,
+      11
+    ],
+    "text": "Ax Aer to anenp mae Enpiovess Provipenr Fuso",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      195,
+      150,
+      137,
+      13
+    ],
+    "text": "Act, No, 15 or 1958,",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      187,
+      396,
+      14
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic Soctalist",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      204,
+      246,
+      14
+    ],
+    "text": "Republic of Sri Lanka as follows :",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      234,
+      465,
+      15
+    ],
+    "text": "1 This Act may be cited as the Ezaployees Provident Short title.",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64,
+      252,
+      488,
+      14
+    ],
+    "text": "Fund (Amendment) Act, No. 28 of 1981. .",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      294,
+      473,
+      16
+    ],
+    "text": "2 Section 10 of the Employees Provident Fund Act, Amendment",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      308,
+      473,
+      21
+    ],
+    "text": "No. 18 of 1958 (hereinafter referred to az the principal of section",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      328,
+      482,
+      15
+    ],
+    "text": "enactment) as amended by Act No. 8 of 1971, is hereby Act No, 18",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      343,
+      462,
+      14
+    ],
+    "text": "further amended ss follows: of 1558,",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      375,
+      381,
+      14
+    ],
+    "text": "(2) In subsection (1) of that section, by the substitution",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      120,
+      392,
+      342,
+      14
+    ],
+    "text": "for the words six per centum\", of the words",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      120,
+      409,
+      173,
+      14
+    ],
+    "text": "eight per centum; and",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      439,
+      381,
+      14
+    ],
+    "text": "(2) in subsection (2) of that section, by the substitution",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      120,
+      456,
+      342,
+      14
+    ],
+    "text": "for the words nine per centum, of the words",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      120,
+      473,
+      152,
+      14
+    ],
+    "text": "twelve per contum,",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      515,
+      475,
+      17
+    ],
+    "text": "3. Section 16 of the principal enactment is hereby Replacement",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      530,
+      489,
+      21
+    ],
+    "text": "repesled and the following section substituted therefor : of section 16",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      479,
+      553,
+      53,
+      12
+    ],
+    "text": "principal",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      566,
+      476,
+      14
+    ],
+    "text": "Imposition 1. Where contributions payable under enactment,",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      579,
+      394,
+      23
+    ],
+    "text": "oy marcharee thia Act in respect of any month have not",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      601,
+      394,
+      13
+    ],
+    "text": "on fallure been made to the Fund before the last day",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      614,
+      394,
+      21
+    ],
+    "text": "EP ations of the succeeding month and the employer",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      635,
+      394,
+      15
+    ],
+    "text": "on due is unable to explain to the satisfaction of the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      644,
+      398,
+      30
+    ],
+    "text": "date. Commissioner that the failure to pay such",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      165,
+      670,
+      295,
+      12
+    ],
+    "text": "contributions was due to circumstances",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      165,
+      687,
+      295,
+      14
+    ],
+    "text": "beyond his control, he shall be Hable to pay",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      166,
+      704,
+      294,
+      15
+    ],
+    "text": "to the Fund, in addition to the amount of",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      165,
+      721,
+      295,
+      14
+    ],
+    "text": "the contributions due, # surcharge on such",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      165,
+      739,
+      295,
+      13
+    ],
+    "text": "amount caleulated in the following",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      166,
+      760,
+      73,
+      8
+    ],
+    "text": "manner :",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      182,
+      792,
+      278,
+      14
+    ],
+    "text": "(@) where the contributions are in arrear",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      220,
+      809,
+      240,
+      15
+    ],
+    "text": "for a period not exceeding ten days,",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      220,
+      826,
+      354,
+      16
+    ],
+    "text": "a surcharge of five per centum of",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      217,
+      844,
+      243,
+      13
+    ],
+    "text": "the amount of the contributions",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      220,
+      852,
+      353,
+      25
+    ],
+    "text": "due;",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      68,
+      55,
+      409,
+      14
+    ],
+    "text": "2 Employees? Provident Fund (Amendment) .",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      194,
+      72,
+      141,
+      13
+    ],
+    "text": "Act, No, 26 of 1982: .",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      177,
+      104,
+      271,
+      14
+    ],
+    "text": "() where the contributions are in arrear",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      213,
+      118,
+      337,
+      18
+    ],
+    "text": "for a period exceeding ten days but a",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      213,
+      138,
+      235,
+      13
+    ],
+    "text": "not exceeding one month, a sur-",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      213,
+      155,
+      235,
+      13
+    ],
+    "text": "charge of filteen per centum of the",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      213,
+      172,
+      222,
+      13
+    ],
+    "text": "amount of the contributions due;",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      177,
+      200,
+      271,
+      14
+    ],
+    "text": "( where the contributions are in arrear",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      213,
+      217,
+      236,
+      14
+    ],
+    "text": "for a period exceeding one month",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      213,
+      234,
+      235,
+      13
+    ],
+    "text": "but not exceeding three months, a",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      213,
+      251,
+      236,
+      13
+    ],
+    "text": "surcharge of twenty per centum of",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      214,
+      268,
+      234,
+      13
+    ],
+    "text": "the amount of the contributions due ;",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      177,
+      296,
+      272,
+      13
+    ],
+    "text": "(@) where the contributions are in arrear",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      213,
+      313,
+      236,
+      14
+    ],
+    "text": "for a period exeseding three months",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      214,
+      330,
+      235,
+      13
+    ],
+    "text": "but not exceeding six months, a",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      214,
+      347,
+      235,
+      13
+    ],
+    "text": "surcharge of thirty per centum of the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      215,
+      364,
+      220,
+      13
+    ],
+    "text": "amount of the contributions due;",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      178,
+      392,
+      271,
+      13
+    ],
+    "text": "() where the contributions are in arrear",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      215,
+      409,
+      234,
+      13
+    ],
+    "text": "for a period exceeding six months",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      216,
+      426,
+      232,
+      13
+    ],
+    "text": "but not exceeding twelve months, a",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      215,
+      442,
+      234,
+      14
+    ],
+    "text": "surcharge of forty per centum of the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      215,
+      459,
+      220,
+      13
+    ],
+    "text": "amount of the contributions due ;",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      178,
+      488,
+      271,
+      13
+    ],
+    "text": "(f) where the contributions are in arrear",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      215,
+      504,
+      233,
+      14
+    ],
+    "text": "for a period exceeding twelve",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      215,
+      521,
+      234,
+      14
+    ],
+    "text": "months, a surcharge of fifty per",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      215,
+      538,
+      233,
+      11
+    ],
+    "text": "centum of the amount of the",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      215,
+      555,
+      125,
+      10
+    ],
+    "text": "contributions due.",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83,
+      595,
+      462,
+      14
+    ],
+    "text": "4, The amendments made to the principal enactment by Retrospective",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70,
+      610,
+      431,
+      13
+    ],
+    "text": "sections 2 ond 3 af this Act shall be deemed to have come effect.",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71,
+      628,
+      189,
+      13
+    ],
+    "text": "into force on January 1, 1881.",
+    "mean_p_confidence": 0.77
+  }
+]

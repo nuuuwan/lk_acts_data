@@ -1,0 +1,937 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      177,
+      53,
+      241,
+      24
+    ],
+    "text": ". oa eee",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      255,
+      128,
+      179,
+      28
+    ],
+    "text": "rer },",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      328,
+      155,
+      88,
+      23
+    ],
+    "text": "ae",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      97,
+      153,
+      385,
+      60
+    ],
+    "text": "PARLIAMENT OF TANDENGE ATIC",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      157,
+      215,
+      265,
+      18
+    ],
+    "text": "SOCIALIST REPUBLIC OF",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      232,
+      246,
+      117,
+      18
+    ],
+    "text": "SRI LANKA",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      92,
+      361,
+      395,
+      23
+    ],
+    "text": "LICENSING OF CLUBS. (AMENDMENT)",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      185,
+      397,
+      209,
+      21
+    ],
+    "text": "ACT, No. 14 OF 1980",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      196,
+      517,
+      185,
+      15
+    ],
+    "text": "[Certified on 4th March, 1980]",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      56,
+      546,
+      353,
+      37
+    ],
+    "text": "_ Printed on the Orders of Government",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      56,
+      656,
+      469,
+      15
+    ],
+    "text": "Published as Supplement to Part II of the Gazette of the Democratic",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      55,
+      674,
+      388,
+      14
+    ],
+    "text": ". Socialist Republic of Sri Lanka of March 07, 1980",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      103,
+      753,
+      377,
+      30
+    ],
+    "text": "Ist 1 mt NEON epee r,s LE",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      54,
+      787,
+      416,
+      23
+    ],
+    "text": "{Fe we Puncaato nF Hat cove PUBLICATIONS BUTEA, DOLORES",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59,
+      811,
+      441,
+      29
+    ],
+    "text": "4 Pelee 85 conts Postage: 26 conte",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      162,
+      27,
+      210,
+      15
+    ],
+    "text": "Licensing of Clubs (Amendments",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      208,
+      48,
+      120,
+      13
+    ],
+    "text": "Act, No, 74 of 1980",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140,
+      77,
+      225,
+      17
+    ],
+    "text": "\"(Certified on 4th March, 1980)",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      113,
+      96,
+      13
+    ],
+    "text": "DO. 67/18.",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      134,
+      375,
+      14
+    ],
+    "text": "AN Act to amenp tHe Licensiva of Chuns Law, No, 17 or",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96,
+      153,
+      29,
+      11
+    ],
+    "text": "1975.",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      177,
+      374,
+      16
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic Socialist",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      193,
+      234,
+      14
+    ],
+    "text": "Republic of Sri Lanka as follows :",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      97,
+      212,
+      438,
+      19
+    ],
+    "text": "1. This Act may be cited as the Licensing of Clubs Short tlle.",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      233,
+      217,
+      14
+    ],
+    "text": "(Amendment) Act, No, 14 of 1986.",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98,
+      258,
+      442,
+      27
+    ],
+    "text": "2. Section 2 of the Licensing of Clubs Law, No. 17 of Amendment",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      279,
+      461,
+      16
+    ],
+    "text": "1975 (hereinafter referred to as the principal enactment) of Law No. 17",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      293,
+      430,
+      18
+    ],
+    "text": "ts hereby amended as follows :~ of 1078,",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      101,
+      319,
+      357,
+      16
+    ],
+    "text": "(1) -Ly the insertion, immediately after subsection (1) of",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      138,
+      336,
+      303,
+      15
+    ],
+    "text": "that section, of the following new subsection :",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      152,
+      356,
+      306,
+      15
+    ],
+    "text": "(1a) Notwithstanding anything in subsection",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      141,
+      372,
+      318,
+      15
+    ],
+    "text": "(2), no club formed on or after the specified date",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      138,
+      388,
+      321,
+      13
+    ],
+    "text": "shall be maintained within the administrative",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139,
+      404,
+      320,
+      16
+    ],
+    "text": "limits of any local authority except under the",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139,
+      420,
+      320,
+      16
+    ],
+    "text": "authority of a licence issued by the Chairman of",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      138,
+      439,
+      130,
+      13
+    ],
+    "text": "such local authority,",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      152,
+      456,
+      307,
+      16
+    ],
+    "text": "In this subsection, specified date means such",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139,
+      473,
+      320,
+      15
+    ],
+    "text": "date as may be specified by the Minister for the",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139,
+      489,
+      321,
+      15
+    ],
+    "text": "purposes of this subsection by Order published in",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140,
+      507,
+      124,
+      13
+    ],
+    "text": "the Gazette.; and",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      103,
+      530,
+      358,
+      14
+    ],
+    "text": "(2) by the substitution, in subsection (8) of that section,",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140,
+      544,
+      321,
+      14
+    ],
+    "text": "for the words maintained in contravention of",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140,
+      561,
+      322,
+      15
+    ],
+    "text": "subsection (1)\", of the words maintained in",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      141,
+      577,
+      319,
+      15
+    ],
+    "text": "contravention of the provisions of subsection (1}",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      141,
+      595,
+      129,
+      13
+    ],
+    "text": "or subsection (1a) ,",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      102,
+      624,
+      444,
+      19
+    ],
+    "text": "3. Section 4 of the principal enactment is hereby Ameniment",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      635,
+      443,
+      21
+    ],
+    "text": "amended by the substitution, for the proviso to that section, of session",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      656,
+      449,
+      20
+    ],
+    "text": "of the folowing proviso : principe)",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      116,
+      681,
+      348,
+      14
+    ],
+    "text": "Provided, however, that the fees so prescribed shall",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      103,
+      699,
+      221,
+      13
+    ],
+    "text": "not exceed the following limits :",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      427,
+      715,
+      18,
+      10
+    ],
+    "text": "Rs.",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118,
+      731,
+      292,
+      15
+    ],
+    "text": "{a) in the case of the Colombo Municipal",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      156,
+      748,
+      296,
+      13
+    ],
+    "text": "Counell . a +. 5,000",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      120,
+      768,
+      333,
+      14
+    ],
+    "text": "(b) in the case of any other Municipal Council 5,000",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      120,
+      788,
+      333,
+      14
+    ],
+    "text": "(@) in the case of any Urban Council a 1800",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      120,
+      808,
+      291,
+      14
+    ],
+    "text": "(4) in the case of any Town Counell or Village",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      156,
+      824,
+      310,
+      12
+    ],
+    "text": "Counelt ve BBO",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      101,
+      845,
+      91,
+      11
+    ],
+    "text": "2A a7ta5 (905)",
+    "mean_p_confidence": 0.07
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      171,
+      16,
+      296,
+      14
+    ],
+    "text": "2 Licensing of Clubs (Amendment)",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      297,
+      37,
+      123,
+      14
+    ],
+    "text": "Act, No, 14 of 1980",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79,
+      68,
+      467,
+      20
+    ],
+    "text": "Amendment 4, Seation 7 of .the principal enactment is bereby",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      80,
+      79,
+      454,
+      29
+    ],
+    "text": "? ei amended by the substitution, for the words two weeks\",",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      80,
+      99,
+      269,
+      21
+    ],
+    "text": "Enrctoent, of the words four weeks,",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      80,
+      140,
+      468,
+      20
+    ],
+    "text": "Revlagement 6, Section 24 of the principal enactment is hereby",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      76,
+      150,
+      473,
+      37
+    ],
+    "text": "cd a Tepealed and the following section substituted therefor :-",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      78,
+      180,
+      470,
+      31
+    ],
+    "text": "enactment, Offences 24 (1) Every person who commits an",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      175,
+      205,
+      372,
+      15
+    ],
+    "text": "Detalties, offence under this Law or under any regula-",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      268,
+      221,
+      281,
+      14
+    ],
+    "text": "tion made thereunder shall, on conviction",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      268,
+      237,
+      281,
+      14
+    ],
+    "text": "after trinl before a Magistrate, be liable,",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      268,
+      253,
+      281,
+      15
+    ],
+    "text": "notwithstanding the provisions of the Code",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      269,
+      269,
+      281,
+      14
+    ],
+    "text": "of Criminal Procedure Act, No. 15 of 1979 or",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      269,
+      285,
+      281,
+      15
+    ],
+    "text": "any other law, to imprisonment of elther",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      269,
+      301,
+      281,
+      15
+    ],
+    "text": "description for a perlod not exceeding six",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      270,
+      317,
+      279,
+      14
+    ],
+    "text": "months or to a fine not exceeding five",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      200,
+      332,
+      350,
+      16
+    ],
+    "text": ": thousand rupees or to both such fine and",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      271,
+      350,
+      89,
+      13
+    ],
+    "text": "imprisonment.",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      287,
+      377,
+      264,
+      15
+    ],
+    "text": "(2) Where a fine imposed under this Law",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      271,
+      392,
+      281,
+      16
+    ],
+    "text": "fa recovered the court may direct that such",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      272,
+      409,
+      279,
+      14
+    ],
+    "text": "Ane or such part of the fine as is equivalent",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      273,
+      425,
+      278,
+      14
+    ],
+    "text": "to the fees payable to the local authority as",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      273,
+      441,
+      278,
+      14
+    ],
+    "text": "ia prescribed by the Minister under section",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      273,
+      457,
+      278,
+      15
+    ],
+    "text": "4 of this Law, be paid to the fund of the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      274,
+      473,
+      277,
+      14
+    ],
+    "text": "Joos authority within the administrative",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      275,
+      489,
+      276,
+      13
+    ],
+    "text": "Umits of which the club in relation to which",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      61,
+      505,
+      458,
+      13
+    ],
+    "text": "the offence was committed is situate..",
+    "mean_p_confidence": 0.64
+  }
+]

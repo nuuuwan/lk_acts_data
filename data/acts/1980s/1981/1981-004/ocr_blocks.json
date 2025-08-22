@@ -1,0 +1,2884 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      119,
+      216,
+      392,
+      19
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      180,
+      248,
+      271,
+      18
+    ],
+    "text": "SOCIALIST REPUBLIC OF",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      255,
+      280,
+      120,
+      18
+    ],
+    "text": "SRI LANKA",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      184,
+      382,
+      254,
+      19
+    ],
+    "text": "CONSULAR FUNCTIONS",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      213,
+      415,
+      202,
+      21
+    ],
+    "text": "ACT, No. 4 OF 1981",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      205,
+      530,
+      217,
+      15
+    ],
+    "text": "[Certified on 11th February, 4981]",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      193,
+      576,
+      242,
+      13
+    ],
+    "text": "Printed on the Orders of Government",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77,
+      688,
+      478,
+      16
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the Democratic",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143,
+      711,
+      346,
+      15
+    ],
+    "text": "Soclalist Republic of Sri Lanka of February 13, 1981",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      111,
+      805,
+      408,
+      14
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRE LANKA",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      122,
+      822,
+      430,
+      21
+    ],
+    "text": "ao be Funsunany Ar Hix GWE, Fonaestiows Buuiae, coupe",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      105,
+      849,
+      424,
+      25
+    ],
+    "text": "Price: 65 cents Postage: 50 cents",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      144,
+      30,
+      245,
+      14
+    ],
+    "text": "Consular Functions Act, No. 4 of 1981",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      138,
+      59,
+      307,
+      19
+    ],
+    "text": "* | {Certified on 11th February, 1981} not",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      86,
+      90,
+      13
+    ],
+    "text": "L,D.0.69/80,",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      120,
+      381,
+      11
+    ],
+    "text": "Axt Act 70 PROVIDE FOR THE PERFORMANCE OF CERTAIN CONSULAR",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92,
+      137,
+      367,
+      11
+    ],
+    "text": "FUNCTIONS BY DIPLOMATIC AND CONSULAR OFFICERS oF SmI",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92,
+      153,
+      367,
+      13
+    ],
+    "text": "LANKA Uv FOREIGN COUNTRIES, TO FRESCRIGE ANU LEVY YEES",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92,
+      172,
+      368,
+      11
+    ],
+    "text": "FOR THE PERFORMANCE GF SUCH FUNCTIONS, AND 90 PROVIDE",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93,
+      189,
+      468,
+      9
+    ],
+    "text": "YOR MASTERS CONNECTED THEREWITH OR INCIDENTAL THERETO. .",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      214,
+      380,
+      18
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      235,
+      377,
+      14
+    ],
+    "text": "Sorislist Republic of Sri Lanks, as follows : :",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      94,
+      259,
+      441,
+      14
+    ],
+    "text": "1. This Act may be cited as the Consular Functions Act,- Short title",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      276,
+      85,
+      10
+    ],
+    "text": "No. 4 of 1981.",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      95,
+      310,
+      424,
+      21
+    ],
+    "text": "2 Hvery diplomatic or consular officer is hereby Perfor",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      328,
+      456,
+      29
+    ],
+    "text": "authorized to perform, in accordance with any written law gieonmater",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      353,
+      448,
+      21
+    ],
+    "text": "of Sri Lanke, any consular function in any foreign country by",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      367,
+      456,
+      22
+    ],
+    "text": "to which he is accredited or appointed : . oreensulor",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98,
+      401,
+      364,
+      14
+    ],
+    "text": "Provided however, that the performance of such function",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      422,
+      377,
+      14
+    ],
+    "text": "1s not prohibited by the written laws of the country in",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      439,
+      228,
+      17
+    ],
+    "text": "which such function is performed.",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99,
+      475,
+      449,
+      20
+    ],
+    "text": "3 Upon the application of, a person who ia a citizen of Vajidation",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      495,
+      430,
+      13
+    ],
+    "text": "Sri Lanka, or any other person, @ diplomatic or consular tion of",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      507,
+      456,
+      18
+    ],
+    "text": "officer may Hocuments,",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      103,
+      535,
+      361,
+      15
+    ],
+    "text": "() certify, attest, authenticate or do any other such act",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139,
+      552,
+      170,
+      14
+    ],
+    "text": "to validate any document ;",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      100,
+      576,
+      364,
+      15
+    ],
+    "text": "(GD translate any document from the Sinhala or Tamil",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140,
+      593,
+      223,
+      15
+    ],
+    "text": "language inte any other language;",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      97,
+      617,
+      368,
+      15
+    ],
+    "text": "Gi) translate any document from any other language",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140,
+      634,
+      235,
+      14
+    ],
+    "text": "into the Sinhala or Tamil language ;",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      97,
+      658,
+      368,
+      15
+    ],
+    "text": "iv) certity the accuracy of a translation from the Sinhala",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140,
+      675,
+      307,
+      14
+    ],
+    "text": "or Tamil language into any other language ; or",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      101,
+      699,
+      365,
+      16
+    ],
+    "text": "() certity the accurmcy of translation from any other",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      141,
+      716,
+      286,
+      15
+    ],
+    "text": "language to the Sinhala or Tamil language.",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      102,
+      752,
+      465,
+      16
+    ],
+    "text": "4 (1) Every diplomatic or consular officer shall ba Adiminfsterin:",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      765,
+      457,
+      20
+    ],
+    "text": "deemed to be ex officio a Justice of the Peace for the ofouther",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      785,
+      469,
+      15
+    ],
+    "text": "Republic of Sri Lanka snd accordingly may administer any and taking ot",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      798,
+      476,
+      19
+    ],
+    "text": "cath or effirmation or take any affidavit and such oath or *ldavit",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      819,
+      379,
+      13
+    ],
+    "text": "affirmation of such affidavit ahall be deemed to have been",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      836,
+      477,
+      14
+    ],
+    "text": "administered or taken, as the case may be, in Stl Lanka, -",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      861,
+      139,
+      13
+    ],
+    "text": "BHA tay9210,200 gn/10y",
+    "mean_p_confidence": 0.08
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      175,
+      20,
+      320,
+      14
+    ],
+    "text": "2 Consular Functions Act, No. 4 of 1987",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      191,
+      53,
+      371,
+      14
+    ],
+    "text": "(2) Any diplomatic or consular officer administering an",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      176,
+      70,
+      386,
+      14
+    ],
+    "text": "cath or affirmation or taking an affidavit under the provi-",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      176,
+      87,
+      387,
+      14
+    ],
+    "text": "sions of subsection (1) shall not be held responsible for the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      177,
+      104,
+      385,
+      13
+    ],
+    "text": "truth of the contents, or the accuracy, of any statement",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      178,
+      120,
+      384,
+      12
+    ],
+    "text": "made under such oath or affirmation or recorded in such",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      178,
+      138,
+      55,
+      11
+    ],
+    "text": "affidavit.",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      81,
+      169,
+      483,
+      21
+    ],
+    "text": "Solemaization , (1) Every diplomatic or consular officer shall be",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      67,
+      186,
+      495,
+      16
+    ],
+    "text": "Myistration deemed to be an Additional Distriet Registrar for any",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83,
+      202,
+      480,
+      14
+    ],
+    "text": "olmarrigges- district in Sti Lanka within the meaning of the Marriage",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      180,
+      219,
+      383,
+      16
+    ],
+    "text": "Registration Ordinance (Chapter 112) and the Kandyan",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      181,
+      236,
+      382,
+      15
+    ],
+    "text": "Marriage and Divorce Act (Chapter 113) and accordingly",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      181,
+      253,
+      382,
+      14
+    ],
+    "text": "such diplomatic or consular officer may, notwithstanding",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      68,
+      269,
+      495,
+      18
+    ],
+    "text": ": the provisions of section 23 of that Ordinance and section",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      182,
+      285,
+      380,
+      14
+    ],
+    "text": "16 of that Act, solemnize and register, in the Sinhala, Tami",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      181,
+      302,
+      383,
+      14
+    ],
+    "text": "or English. language, any matriage under that Ordinance",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      182,
+      318,
+      381,
+      14
+    ],
+    "text": "or Act, a3 the case may be, in the foreign country to which",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      182,
+      334,
+      382,
+      15
+    ],
+    "text": "he Js appointed or accredited, where at least one of the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      182,
+      351,
+      381,
+      15
+    ],
+    "text": "parties to the marriage is a effizen of Sri Lanka, ax though",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      183,
+      368,
+      382,
+      14
+    ],
+    "text": "such marriage was solemnized and registered in any district",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      183,
+      385,
+      88,
+      11
+    ],
+    "text": "in Sri Lanka.",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      200,
+      413,
+      364,
+      15
+    ],
+    "text": "(2) Notwithstanding the provisions of the Muslim",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      184,
+      429,
+      381,
+      15
+    ],
+    "text": "Marriage end Divorce Act (Chapter 115), other than the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      185,
+      446,
+      380,
+      15
+    ],
+    "text": "Provisions of subsection (1) of section 8 of that Act",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      185,
+      462,
+      380,
+      15
+    ],
+    "text": "relating to capacity, every diplomatic or consulat",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      185,
+      478,
+      380,
+      15
+    ],
+    "text": "officer shall be deemed to be a Registrar within the",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      185,
+      495,
+      380,
+      15
+    ],
+    "text": "meaning of that Act, and accordingly such diplomatic",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      186,
+      512,
+      380,
+      14
+    ],
+    "text": "or consular officer may register in the Sinhala, Tamil or",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      186,
+      528,
+      380,
+      15
+    ],
+    "text": "English language, any marriage under that Act, in the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      187,
+      545,
+      378,
+      15
+    ],
+    "text": "foreign country to which he 1s appointed or accredited,",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      187,
+      563,
+      378,
+      13
+    ],
+    "text": "where at least one of the parties to the marriage is a citizen",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      187,
+      579,
+      378,
+      14
+    ],
+    "text": "of Sri Lanka end whether the partles are inhabitants of Srt",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      187,
+      596,
+      378,
+      13
+    ],
+    "text": "Lanka or not, as though such marriage were registered in",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      187,
+      613,
+      162,
+      13
+    ],
+    "text": "any district in Srl Lanka.",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      203,
+      644,
+      364,
+      15
+    ],
+    "text": "(8) The provisions of the Marrlage Registration Ordi-",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      188,
+      661,
+      378,
+      15
+    ],
+    "text": "nance, the Kandyan Marriage and Divorce Act, and the",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      187,
+      678,
+      380,
+      15
+    ],
+    "text": "Muslim Marrlage and Divorce Act shall, mutatis mutandis,",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      188,
+      695,
+      379,
+      16
+    ],
+    "text": "apply to and in relation to the solemnization and registra-",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      187,
+      711,
+      379,
+      16
+    ],
+    "text": "tion, or registration as the case may be, of a marriage",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      187,
+      728,
+      242,
+      13
+    ],
+    "text": "referred to in subsections (1) and (2).",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      50,
+      747,
+      1,
+      9
+    ],
+    "text": "i",
+    "mean_p_confidence": 0.09
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      166,
+      758,
+      401,
+      17
+    ],
+    "text": "* \"'(4y Every diplomatic or consular officer shell, in the",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      188,
+      776,
+      379,
+      17
+    ],
+    "text": "performance of his functiona under subsection (2), comply",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      166,
+      793,
+      401,
+      16
+    ],
+    "text": "* with the provisions of the Marriage Registration Ordinance,",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      50,
+      802,
+      516,
+      23
+    ],
+    "text": "l the Kandyan Martiege and Divoree Act and the Muslim",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      188,
+      826,
+      376,
+      20
+    ],
+    "text": "Marriage and Divorce Act, as the ease may be. :",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      156,
+      33,
+      315,
+      16
+    ],
+    "text": "Consular Functions Act, No, 4 of 1981 3",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      102,
+      65,
+      452,
+      19
+    ],
+    "text": "6. (1) Where a marriage is forbidden under section 29, or Proceedings",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      87,
+      77,
+      467,
+      22
+    ],
+    "text": "a caveat is entered under section 30, of the Marriage Regis- Panama",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89,
+      90,
+      470,
+      28
+    ],
+    "text": "tration Ordinance, the diplomatic or consular offer shall, oben or",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89,
+      116,
+      443,
+      16
+    ],
+    "text": "notwithstanding the provisions of subsection (1) of section Ghtered.",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89,
+      133,
+      382,
+      15
+    ],
+    "text": "1 of that Ordinance, refuse to issue a certificate for the",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      88,
+      149,
+      383,
+      16
+    ],
+    "text": "solemnization of the marriage intended to be had, and shall",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89,
+      167,
+      382,
+      15
+    ],
+    "text": "forthwith make report of the objection to the District Judge",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89,
+      184,
+      382,
+      14
+    ],
+    "text": "of the district of Colombo, Such report shall be in the form",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89,
+      201,
+      383,
+      14
+    ],
+    "text": "in the First Schedule to the said Ordinance, and shall be",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90,
+      216,
+      381,
+      17
+    ],
+    "text": "accompanied by a copy of the notice of marriage and of the",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      88,
+      233,
+      363,
+      16
+    ],
+    "text": "notice forbidding the marriage or of the caveat entered.",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      105,
+      261,
+      382,
+      17
+    ],
+    "text": "(2) The provisions of subsections (2), (8), (4) and } |",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      87,
+      278,
+      384,
+      15
+    ],
+    "text": "of section 31 of the Marriage Registration Ordinance shall,",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      88,
+      296,
+      383,
+      14
+    ],
+    "text": "mutatis mutandis, apply to and in relation to any report",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      88,
+      313,
+      274,
+      13
+    ],
+    "text": "made under subsection (1) of this section,",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      102,
+      343,
+      437,
+      17
+    ],
+    "text": "7 (1) Every diplomatic or consular officer shall be Regisire-",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89,
+      356,
+      435,
+      20
+    ],
+    "text": "deemed to be an Additional District Registrar for any #e0,0f",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      88,
+      377,
+      462,
+      14
+    ],
+    "text": "district in Sri Lanka within the meaning of the Birth and and deaths",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90,
+      394,
+      382,
+      15
+    ],
+    "text": "Deaths Registration Act (Chapter 110) and accordingly",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89,
+      411,
+      383,
+      15
+    ],
+    "text": "such diptomatic or consular officer may register the birth",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89,
+      428,
+      383,
+      14
+    ],
+    "text": "or death of a citizen of Sri Lanka occurring in the foreign",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      88,
+      444,
+      384,
+      15
+    ],
+    "text": "country to which he is appointed or accredited, as though",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      87,
+      462,
+      280,
+      13
+    ],
+    "text": "such registration were made in Sri Lanka.",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      105,
+      490,
+      367,
+      15
+    ],
+    "text": "(2) The provisions of the Births and Deaths Registration",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89,
+      506,
+      384,
+      15
+    ],
+    "text": "Act shall, mutatia mutandis, apply to and in relation to the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90,
+      523,
+      383,
+      15
+    ],
+    "text": "registration of any birth or death referred to in subsection",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90,
+      541,
+      360,
+      13
+    ],
+    "text": "4). fe oebes",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      106,
+      568,
+      368,
+      15
+    ],
+    "text": "(3) Every diplomatic or consulex officer shall, in the per-",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      91,
+      585,
+      383,
+      14
+    ],
+    "text": "formanes of his functions under subsection (1}, comply",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89,
+      602,
+      440,
+      27
+    ],
+    "text": "with tho provisions af the Bletbs and Deaths Registration .",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      97,
+      607,
+      456,
+      30
+    ],
+    "text": "et. .",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      103,
+      655,
+      443,
+      15
+    ],
+    "text": "8. The Minister may from time to time prescribe by Fees tobe",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90,
+      666,
+      471,
+      22
+    ],
+    "text": "Notification published in the Gazette, the fees to be levied forformance",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      91,
+      687,
+      463,
+      16
+    ],
+    "text": "by @ diplomatic or consular officer for the performance of pf consular",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89,
+      699,
+      452,
+      21
+    ],
+    "text": "consular functions specified in such Notification. fanction.",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      105,
+      740,
+      459,
+      17
+    ],
+    "text": "% (1) Any person who fraudulently or by wilful act or OHences aud",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      92,
+      752,
+      455,
+      22
+    ],
+    "text": "omission knowingly misleads a diplomatic or consular \"He",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      91,
+      774,
+      386,
+      16
+    ],
+    "text": "oflcer to perform any consular function shall be guilty of",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93,
+      791,
+      383,
+      17
+    ],
+    "text": "fn offenes and shall he liable, on conviction by the Righ",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93,
+      806,
+      385,
+      19
+    ],
+    "text": "Court, to imprisonment of efther description for a term not",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93,
+      825,
+      385,
+      17
+    ],
+    "text": "exceeding five years, or to a fine not exceeding fifty thousand",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93,
+      842,
+      300,
+      17
+    ],
+    "text": "Tupees or to both such imprisonment and fine.",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      564,
+      0,
+      2,
+      7
+    ],
+    "text": "a",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      153,
+      13,
+      413,
+      20
+    ],
+    "text": "4 Consular Funetions Act, No, of 1982 :",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161,
+      51,
+      381,
+      19
+    ],
+    "text": "_(@) Any person who fraudulently alters the sesl or",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      154,
+      69,
+      389,
+      14
+    ],
+    "text": "signature of any diplomatic or consular officer shall bo",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      155,
+      85,
+      387,
+      16
+    ],
+    "text": "guilty of an offence and shall be liable, on conviction by",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      155,
+      102,
+      388,
+      16
+    ],
+    "text": "the High Court, to imprisonment. of either description for",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      155,
+      120,
+      362,
+      14
+    ],
+    "text": "a term not exceeding five years. .",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      172,
+      148,
+      371,
+      14
+    ],
+    "text": "(8) Any offence referred to in this section shall be",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      157,
+      165,
+      387,
+      16
+    ],
+    "text": "aeemed to be an extraditable offence within the meaning",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      157,
+      182,
+      327,
+      14
+    ],
+    "text": "of section 6 of the Extradition Law, No. 8 of 1977.",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      60,
+      215,
+      485,
+      15
+    ],
+    "text": "Regulations. 1 (1) The Minister may make regulations in respect",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      158,
+      232,
+      26,
+      11
+    ],
+    "text": "ot",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      174,
+      257,
+      327,
+      14
+    ],
+    "text": "{a) matters required by this Act to be prescribed ;",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      175,
+      281,
+      371,
+      15
+    ],
+    "text": "(b) the procedure to be followed in making any applica",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      212,
+      298,
+      136,
+      14
+    ],
+    "text": "tion under this Act ;",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      176,
+      323,
+      370,
+      14
+    ],
+    "text": "(c) giving effect to the consular functions get out in the",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      213,
+      340,
+      108,
+      11
+    ],
+    "text": "Schedule hereto.",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      176,
+      368,
+      370,
+      15
+    ],
+    "text": "(2) Every regulation made by the Minister under sub-",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161,
+      386,
+      386,
+      13
+    ],
+    "text": "section (1} shall be published in the Gazette and shall come",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161,
+      401,
+      386,
+      14
+    ],
+    "text": "into operation on the date of such publication or on stich",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161,
+      418,
+      309,
+      13
+    ],
+    "text": "later date as may he specified in the regulation.",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      178,
+      449,
+      370,
+      15
+    ],
+    "text": "(3) Every regulation made by the Minister under sub-",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      163,
+      466,
+      385,
+      14
+    ],
+    "text": "section (1) shall, as soon as convenient after its publication",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      163,
+      482,
+      385,
+      15
+    ],
+    "text": "in the Gazette, be brought before Parliament for approval.",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      164,
+      499,
+      384,
+      15
+    ],
+    "text": "Any regulation which is not so approved shall be deemed",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      164,
+      516,
+      385,
+      14
+    ],
+    "text": "to be rescinded as trom the date of disapproval but without",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      165,
+      532,
+      385,
+      14
+    ],
+    "text": "prejudice to anything previously Gone thereunder, Notifica-",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      166,
+      548,
+      383,
+      15
+    ],
+    "text": "tion of the date on which a regulation fs deemed to be",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      166,
+      565,
+      282,
+      14
+    ],
+    "text": "rescinded shall be published in the Gazette.",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65,
+      596,
+      479,
+      21
+    ],
+    "text": "Interpreta- 11. In this Act, unless the context otherwise requires",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      69,
+      613,
+      25,
+      10
+    ],
+    "text": "tion.",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      181,
+      622,
+      370,
+      14
+    ],
+    "text": "consular function means any function referred to in",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      220,
+      639,
+      331,
+      14
+    ],
+    "text": "sections 3, 4, 5, 6 and 7 of this Act and includes",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      220,
+      656,
+      272,
+      15
+    ],
+    "text": "any act specified in the Schedule hereto ;",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      44,
+      674,
+      508,
+      21
+    ],
+    "text": "; consular officer shall mean any pergon including the",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      221,
+      697,
+      331,
+      15
+    ],
+    "text": "head of a consular post entrusted in that capacity",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      221,
+      715,
+      264,
+      13
+    ],
+    "text": "with the exercise of consular functions ;",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      181,
+      739,
+      371,
+      15
+    ],
+    "text": "diplomatic officer means the head of a mission or &",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      221,
+      755,
+      331,
+      16
+    ],
+    "text": "member of the diplomatic staff of such mission ; and",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      183,
+      780,
+      370,
+      15
+    ],
+    "text": "document means a commercial ot shipping document",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      160,
+      797,
+      393,
+      16
+    ],
+    "text": ": and includes every document by which any right",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      222,
+      814,
+      331,
+      16
+    ],
+    "text": "or liability is, or purports to be, created, transferred,",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      222,
+      831,
+      291,
+      15
+    ],
+    "text": "Iiralted, extended, extinguished or recorded,",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      152,
+      26,
+      318,
+      13
+    ],
+    "text": "Consular Functions Act, No. 4 of 1981 3",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      252,
+      59,
+      53,
+      9
+    ],
+    "text": "Snaeoos",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      132,
+      80,
+      291,
+      12
+    ],
+    "text": "Artlote V of the Vienne, Convention a Consular",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      227,
+      96,
+      101,
+      12
+    ],
+    "text": "Relations of 1968",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      221,
+      117,
+      112,
+      11
+    ],
+    "text": "Consular functions,",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      95,
+      143,
+      338,
+      11
+    ],
+    "text": "Consular functions consist in",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      96,
+      164,
+      374,
+      13
+    ],
+    "text": "(a) protecting in the receiving State the taterests of ihe send-",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      130,
+      178,
+      340,
+      13
+    ],
+    "text": "Ing State and of ita nationals, both individuals, and bodies",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      130,
+      192,
+      339,
+      13
+    ],
+    "text": "corporate, within the limits permitted by international",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      130,
+      207,
+      27,
+      11
+    ],
+    "text": "law 3",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      96,
+      227,
+      372,
+      13
+    ],
+    "text": "(2) furthering the development of commercial, econornis,",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      130,
+      241,
+      338,
+      11
+    ],
+    "text": "cultural and sciuntife relations between the sending Stata",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      130,
+      255,
+      338,
+      12
+    ],
+    "text": "and the receiving State and otherwise promoting friendly",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      130,
+      269,
+      338,
+      11
+    ],
+    "text": "relations between them in accordance with the provisions",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      129,
+      283,
+      227,
+      11
+    ],
+    "text": "of the above-mentioned Convention;",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      95,
+      304,
+      372,
+      13
+    ],
+    "text": "(e) amertaining by all lawful means conditions and develop-",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      129,
+      318,
+      338,
+      12
+    ],
+    "text": "menta in the commerelal, economic, cultural and scientific",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      130,
+      332,
+      337,
+      12
+    ],
+    "text": "life of the receiving State, reporting thereon to the",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      129,
+      345,
+      338,
+      12
+    ],
+    "text": "Government of the sending State and giving information",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      130,
+      360,
+      131,
+      11
+    ],
+    "text": "to perpons interested ;",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      94,
+      384,
+      373,
+      13
+    ],
+    "text": "4) tsoulng passports and travel documents to nationals of the",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      129,
+      398,
+      338,
+      13
+    ],
+    "text": "nending State and visas or appropriate documents to",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      129,
+      412,
+      294,
+      12
+    ],
+    "text": "persons wishing to travel to the sending State;",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      94,
+      437,
+      372,
+      13
+    ],
+    "text": "(@) helping and assisting natlonals, both individuals end bodles",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      128,
+      452,
+      192,
+      12
+    ],
+    "text": "sorporate, of the sending State ;",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93,
+      477,
+      374,
+      12
+    ],
+    "text": "@) acting aa notary and clvil registrer and in .capatitiea of",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      129,
+      491,
+      337,
+      12
+    ],
+    "text": "f timilar kind, and performing certain functions of an",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      129,
+      504,
+      338,
+      13
+    ],
+    "text": "administrative nature, provided that there 1s nothing",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      128,
+      518,
+      338,
+      12
+    ],
+    "text": "contrary thereto in the laws and regulations of the",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      128,
+      532,
+      95,
+      12
+    ],
+    "text": "recelving State;",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93,
+      557,
+      373,
+      13
+    ],
+    "text": "{g) safeguarding the interests of nationals, both individuals and",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      128,
+      571,
+      338,
+      12
+    ],
+    "text": "bodies corporate, of the sending State in cases of succes",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      128,
+      585,
+      338,
+      12
+    ],
+    "text": "sion mortis causa in the territory of the roceiving State,",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      128,
+      599,
+      338,
+      12
+    ],
+    "text": "jin accordance with the laws and regulations of the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      128,
+      614,
+      94,
+      11
+    ],
+    "text": "receiving State;",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93,
+      638,
+      374,
+      13
+    ],
+    "text": "{h) safeguarding, within the Houits imposed by the lava ane",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      127,
+      653,
+      340,
+      12
+    ],
+    "text": "regulations of the receiving State, the interests of minors",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      128,
+      666,
+      339,
+      13
+    ],
+    "text": "and other petsans lacking full capacity who are nationals",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      128,
+      680,
+      339,
+      13
+    ],
+    "text": "of the sending State, particularly where any guardianship",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      127,
+      694,
+      328,
+      13
+    ],
+    "text": "or teuteeship 1s requlred vith respect to such persons;",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93,
+      719,
+      373,
+      14
+    ],
+    "text": "4W) subject to the practices and procedures obtaining in the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      128,
+      733,
+      339,
+      14
+    ],
+    "text": "recelving Stata, representing or arranging appropriate",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      128,
+      747,
+      338,
+      14
+    ],
+    "text": "representation for nationala of the sending Sinte bafore",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      127,
+      760,
+      339,
+      14
+    ],
+    "text": "the tribunals and other authorities of the receiving State,",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      127,
+      774,
+      339,
+      16
+    ],
+    "text": "for the purpose of obtaining, in aceordanea with the laws",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      127,
+      787,
+      339,
+      15
+    ],
+    "text": "and regulations of the receiving State, provisional",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      127,
+      801,
+      339,
+      15
+    ],
+    "text": "mensuren for the proservation of the rights and interests",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      127,
+      814,
+      339,
+      18
+    ],
+    "text": "cof these nationals, where, because of absanos at any other",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      127,
+      829,
+      339,
+      14
+    ],
+    "text": "Feaanel, such nationsla sre unable at the proper time to",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      127,
+      842,
+      282,
+      15
+    ],
+    "text": "sssume the defence of thelr righte and interests ;",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      167,
+      26,
+      348,
+      15
+    ],
+    "text": "6 Consular Functions Act, No, 4 of 1981",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      184,
+      62,
+      404,
+      14
+    ],
+    "text": "G) tronsmitting judicial and extra-judicial documenta or",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      221,
+      77,
+      366,
+      13
+    ],
+    "text": "executing letters rogatory or commissions to take evidence",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      221,
+      92,
+      367,
+      13
+    ],
+    "text": "for the courts of the sending State in pocordance with",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      222,
+      107,
+      365,
+      13
+    ],
+    "text": "international agreements in force or, in the absence of such",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      222,
+      122,
+      365,
+      13
+    ],
+    "text": "international agreements, in any other manner compatible",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      222,
+      137,
+      331,
+      12
+    ],
+    "text": "with the Jaws and regulations of the receiving State;",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      185,
+      161,
+      403,
+      12
+    ],
+    "text": "(s) exercising rights of supervision and inspection provided",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      222,
+      175,
+      365,
+      13
+    ],
+    "text": "for in the laws and regulations of the sending State in",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      223,
+      190,
+      365,
+      13
+    ],
+    "text": "respect of vessels having the nationality of the sending",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      222,
+      204,
+      366,
+      14
+    ],
+    "text": "State, and of aircrafts registered in that State, and in",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      222,
+      219,
+      254,
+      14
+    ],
+    "text": "respect of their crews ; :",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      186,
+      242,
+      402,
+      13
+    ],
+    "text": ") extending assistance to vessels and aircrafts mentioned in",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      222,
+      257,
+      367,
+      14
+    ],
+    "text": "sub-paragraph (k) and to their crews, taking statements",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      222,
+      272,
+      367,
+      14
+    ],
+    "text": "regarding the voyage,ot s vessel, examining and stamping",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      223,
+      288,
+      365,
+      12
+    ],
+    "text": "the ships papers, and, without prejudice to the powers",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      223,
+      302,
+      366,
+      14
+    ],
+    "text": "of the authorities of the receiving State, conducting",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      223,
+      317,
+      366,
+      13
+    ],
+    "text": "investigations into any incidents which occurred during",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      224,
+      332,
+      364,
+      12
+    ],
+    "text": "the voyage, and seitling disputes of any kind betweet",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      224,
+      347,
+      365,
+      13
+    ],
+    "text": "the master, the offers and the seamen in ao far as this",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      224,
+      361,
+      364,
+      13
+    ],
+    "text": "may be authorized by the lawa and regulations of the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      224,
+      376,
+      202,
+      15
+    ],
+    "text": "sending State; 4",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      187,
+      400,
+      402,
+      12
+    ],
+    "text": "(om) performing any other functions entrusied to = consular",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      224,
+      414,
+      364,
+      13
+    ],
+    "text": "post by the sending State which are not prohibited by",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      225,
+      429,
+      364,
+      13
+    ],
+    "text": "the laws and regulations of the receiving State or te",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      225,
+      444,
+      363,
+      12
+    ],
+    "text": "which no ebjection is taken by the receiving State ot",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      227,
+      459,
+      362,
+      12
+    ],
+    "text": "which are referted to in the international agreements",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      227,
+      473,
+      361,
+      13
+    ],
+    "text": "in force between the sending State and the receiving",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      227,
+      489,
+      34,
+      9
+    ],
+    "text": "State.",
+    "mean_p_confidence": 0.35
+  }
+]

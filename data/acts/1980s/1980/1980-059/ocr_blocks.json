@@ -1,0 +1,354 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      121,
+      197,
+      393,
+      22
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      182,
+      240,
+      272,
+      19
+    ],
+    "text": "SOCIALIST REPUBLIC OF",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      257,
+      280,
+      119,
+      19
+    ],
+    "text": "SRI LANKA",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      149,
+      383,
+      341,
+      23
+    ],
+    "text": "APPROPRIATION (AMENDMENT)",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      202,
+      424,
+      217,
+      22
+    ],
+    "text": "ACT, No. 59 OF 1980",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      74,
+      521,
+      352,
+      24
+    ],
+    "text": "me. [Certified on 29th December, 1880]",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      187,
+      575,
+      252,
+      14
+    ],
+    "text": "Printed on the Orders of Government",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88,
+      675,
+      449,
+      14
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the Democratic",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144,
+      696,
+      356,
+      17
+    ],
+    "text": "Socialist Republic of Srl Lanke of, January 02, 1981",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      126,
+      781,
+      366,
+      11
+    ],
+    "text": "[PRIAED At TH DEPABTMCIN? OP GOVERNACRN ENINTING, AAT LANRA",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      131,
+      807,
+      352,
+      10
+    ],
+    "text": "TO RE PURCHASED AT THE OOVE. PUBLICATIONS BUREAU, COLORNO",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      85,
+      829,
+      433,
+      13
+    ],
+    "text": "Prico : 20 conta Postage : 5 cents",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      47,
+      312,
+      14
+    ],
+    "text": "Appropriation (Amendment) Act, No. 59 of 1980",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122,
+      72,
+      233,
+      21
+    ],
+    "text": "[Certified on 29th December, 1980]",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57,
+      103,
+      93,
+      13
+    ],
+    "text": "LDO. 78/80.",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57,
+      128,
+      375,
+      17
+    ],
+    "text": "Aw AGT TO AMEND THE APPROPRIATION Acr, No, 71 oF 1978,",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      56,
+      164,
+      378,
+      14
+    ],
+    "text": "BE it enaeted by the Parliament of the Democratic Socialist",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      56,
+      184,
+      232,
+      14
+    ],
+    "text": "Republic of Sri Lanka as follows :-",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      213,
+      444,
+      13
+    ],
+    "text": "1. This Act may be cited as the Appropriation (Amend Short utle,",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      56,
+      233,
+      516,
+      12
+    ],
+    "text": "tent) Act, No. 88 of 1880, .",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      261,
+      449,
+      21
+    ],
+    "text": "2 Section 2 of the Appropriation Act No, 71 of .919, i8. Amendment",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      56,
+      276,
+      446,
+      19
+    ],
+    "text": "hereby amended in paragraph (b) of subsection (1) of that or Act,",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      55,
+      296,
+      434,
+      19
+    ],
+    "text": "section, by the substitution for the words rupees eleven Misty",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      56,
+      322,
+      378,
+      12
+    ],
+    "text": "thousand two hundred and one million,, of the words",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      55,
+      342,
+      287,
+      14
+    ],
+    "text": "rupees fifteen thousand and nine million. .",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      53,
+      843,
+      114,
+      17
+    ],
+    "text": "A paToT18 108 OLD",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71,
+      772,
+      519,
+      17
+    ],
+    "text": "Annual aubscription of Bills and Laws of the Partiament Rs 30 (Local). ~",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71,
+      787,
+      504,
+      16
+    ],
+    "text": "Aa @ (Foreign), payable to the Sureeurrmuces, Govenwnaet Pusiscatiors",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71,
+      800,
+      502,
+      19
+    ],
+    "text": "Buxzas, P. G. Box 500, Covomeo 1, before 15th December each year in respect",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71,
+      814,
+      502,
+      17
+    ],
+    "text": "at the year following. Late subscriptions will be accepted on the condition that",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      96,
+      831,
+      450,
+      15
+    ],
+    "text": "Bills and Laws tured betore the date of payment will not be eupplied",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      166,
+      849,
+      384,
+      11
+    ],
+    "text": ": f",
+    "mean_p_confidence": 0.36
+  }
+]

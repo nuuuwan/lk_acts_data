@@ -1,0 +1,849 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      403,
+      4,
+      73,
+      20
+    ],
+    "text": "je dt a",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      386,
+      16,
+      121,
+      71
+    ],
+    "text": "a N",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      284,
+      45,
+      105,
+      26
+    ],
+    "text": "ie eo",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      256,
+      55,
+      221,
+      46
+    ],
+    "text": "om. ae",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      247,
+      92,
+      258,
+      26
+    ],
+    "text": "(fey V\\ y",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      247,
+      105,
+      169,
+      20
+    ],
+    "text": "cetera ..",
+    "mean_p_confidence": -0.0
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      248,
+      104,
+      240,
+      50
+    ],
+    "text": "Ce rs",
+    "mean_p_confidence": 0.09
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      97,
+      209,
+      386,
+      18
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      156,
+      245,
+      267,
+      18
+    ],
+    "text": "SOCIALIST REPUBLIC OF",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      229,
+      281,
+      117,
+      18
+    ],
+    "text": "SRI LANKA",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93,
+      369,
+      389,
+      24
+    ],
+    "text": "PASSPORT (REGULATION) AND EXIT",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      48,
+      416,
+      361,
+      28
+    ],
+    "text": "; PERMIT (AMENDMENT)",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      188,
+      470,
+      199,
+      21
+    ],
+    "text": "ACT, No. 1 OF 1980",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      183,
+      563,
+      207,
+      14
+    ],
+    "text": "[Certified on 20th January, 1980)",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      165,
+      613,
+      248,
+      14
+    ],
+    "text": "Printed on the Orders of Government",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69,
+      693,
+      445,
+      15
+    ],
+    "text": "Published as a Supplement to Part U of the Gazette of the Democratic",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      55,
+      713,
+      407,
+      13
+    ],
+    "text": ". Socialist Republic of Sri Lanka of January 11, 1980",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      58,
+      797,
+      464,
+      22
+    ],
+    "text": "TENT AT TE DREAIEDAT OF SOVEEWAEENT FETING) SRE KMA",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      102,
+      817,
+      382,
+      19
+    ],
+    "text": "30 BE PONGRAGGD am Tin GOVE, PURICATIONG BUREN, COLORED",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71,
+      841,
+      446,
+      17
+    ],
+    "text": "Price: 35 cents Postage; 25 cents",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      28,
+      361,
+      17
+    ],
+    "text": "Passport (Regulation) aad Zxit Permit (Amendment)",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      198,
+      45,
+      122,
+      15
+    ],
+    "text": "Act, No, 2 of 2980",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      73,
+      300,
+      19
+    ],
+    "text": ". [Certified on 10th Jenuary,, 1680)",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      98,
+      316,
+      16
+    ],
+    "text": "tp-o.ism@ 5+ . :",
+    "mean_p_confidence": 0.06
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      121,
+      376,
+      15
+    ],
+    "text": "AN Acr 70 AMEND 1HE Passpoar (REGULATION) aND Sarr",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      167,
+      138,
+      182,
+      12
+    ],
+    "text": "Pearart Act, No. 53 o 1971.",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      161,
+      377,
+      16
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic Socialiat",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      47,
+      178,
+      262,
+      18
+    ],
+    "text": "; Republic of Sri Lanka ax follows :",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      47,
+      197,
+      477,
+      21
+    ],
+    "text": "| - Lo-this Act may be cited as the Passport (Regulation) short ttle,",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      47,
+      218,
+      402,
+      15
+    ],
+    "text": "] and Exit Permit (Amendment) Act, Np. 1 of 1960, .",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      245,
+      450,
+      16
+    ],
+    "text": "2 Section 5 of the Passport (Regulation) and Exit Permit Replacement",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      256,
+      467,
+      26
+    ],
+    "text": "Act, No. 53 of 1971 (hereinafter referred to as the Se et No &",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      278,
+      420,
+      16
+    ],
+    "text": "prinelpal enactment) is hereby repented and the {mii",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      296,
+      298,
+      15
+    ],
+    "text": "Following new section substituted therefor :",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      311,
+      485,
+      34
+    ],
+    "text": "Prod at %& @) The duration of validity of a .",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      332,
+      376,
+      22
+    ],
+    "text": "yallaity of passport shall be a period not exceeding five",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      350,
+      380,
+      22
+    ],
+    "text": "and years. The competent authority may from",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      366,
+      376,
+      19
+    ],
+    "text": "smergeney me to time renew the validity af such",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      163,
+      385,
+      283,
+      15
+    ],
+    "text": "passport for a further period not exceeding",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      47,
+      401,
+      399,
+      15
+    ],
+    "text": "i five years, so however that the total period",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      163,
+      418,
+      283,
+      14
+    ],
+    "text": "of validity of such passport shall not exceed",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      164,
+      435,
+      225,
+      13
+    ],
+    "text": "ten years from the dete of its issue,",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      179,
+      455,
+      266,
+      14
+    ],
+    "text": "(2) The duration of validity of an",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      164,
+      471,
+      282,
+      15
+    ],
+    "text": "emergency certifieste shall be # period not",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      164,
+      487,
+      367,
+      15
+    ],
+    "text": "exceeding two years, The competent autho- :",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      164,
+      504,
+      282,
+      14
+    ],
+    "text": "rity may froma tims to time renew the validity",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57,
+      520,
+      389,
+      14
+    ],
+    "text": ". of such emergency certificate for a further",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      164,
+      536,
+      282,
+      15
+    ],
+    "text": "period not excedieng two years from the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      164,
+      553,
+      212,
+      14
+    ],
+    "text": "date of expiry af such certificate.",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      180,
+      573,
+      267,
+      14
+    ],
+    "text": "(3) The competent authority, in fixing the",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      590,
+      362,
+      13
+    ],
+    "text": "- duration of validity of such passport or",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      165,
+      606,
+      282,
+      14
+    ],
+    "text": "emergency certificate ot renewal thereof,",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      164,
+      623,
+      283,
+      13
+    ],
+    "text": "shall have regard ta the requirements and",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      165,
+      639,
+      182,
+      11
+    ],
+    "text": "circumstances of each case..",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      664,
+      452,
+      13
+    ],
+    "text": "& Section $ of the principal enactment is hereby repealed Replacement _",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      675,
+      472,
+      25
+    ],
+    "text": "and the following new section substituted therefor : gf section 9 of",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      683,
+      452,
+      42
+    ],
+    "text": "tea for the 9, (1) The fee for the issue af a passport seca",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      721,
+      378,
+      14
+    ],
+    "text": "Fenewal'c shall be rupees one hundred and the fee for",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      737,
+      379,
+      19
+    ],
+    "text": "sasporta, its renewal shall be rupees twenty per",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      753,
+      147,
+      27
+    ],
+    "text": "pessperta end annum,",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      765,
+      381,
+      29
+    ],
+    "text": "pertibeates, (2) The fee for the issue of a diplomatic",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      792,
+      379,
+      18
+    ],
+    "text": ". passport shall be rupees one hundred and the",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      809,
+      376,
+      15
+    ],
+    "text": "at fee for Ste renewal ehall be rupeca: twenty",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      842,
+      362,
+      17
+    ],
+    "text": "2-6 artte-15,s00 s20/00)",
+    "mean_p_confidence": 0.09
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      171,
+      26,
+      367,
+      15
+    ],
+    "text": "2 Passport (Regulation) and Exit Permit (Amendment)",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      301,
+      43,
+      124,
+      14
+    ],
+    "text": "Act, No. 1 of 1980",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      284,
+      70,
+      268,
+      20
+    ],
+    "text": "(8) The fee for the issue of an emergency",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      268,
+      91,
+      294,
+      15
+    ],
+    "text": "certificate shall be rupees twenty five and the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      268,
+      109,
+      285,
+      13
+    ],
+    "text": "fee for itz renewal shall be rupees ten per",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      268,
+      128,
+      47,
+      8
+    ],
+    "text": "enmum.",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      283,
+      153,
+      271,
+      14
+    ],
+    "text": "{4) The fee for the alteration of # passport",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      268,
+      170,
+      144,
+      13
+    ],
+    "text": "shall he rupees twenty.",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      285,
+      198,
+      268,
+      13
+    ],
+    "text": "(5) The fee for the alteration of an",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      269,
+      214,
+      278,
+      14
+    ],
+    "text": "emergency certificate shall be rupees ten.",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      80,
+      246,
+      474,
+      16
+    ],
+    "text": "Retrospective 4, The amendments made to the principal enactment by",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      80,
+      259,
+      474,
+      19
+    ],
+    "text": "qMect of ig sections 2 and 3 of this Act shall be deemed for all purposes",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      175,
+      279,
+      301,
+      13
+    ],
+    "text": "to have come into force on November 16, 1979.",
+    "mean_p_confidence": 0.77
+  }
+]

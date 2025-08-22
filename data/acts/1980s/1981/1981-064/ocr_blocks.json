@@ -1,0 +1,508 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      272,
+      85,
+      88,
+      22
+    ],
+    "text": "bey",
+    "mean_p_confidence": 0.07
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      276,
+      127,
+      80,
+      13
+    ],
+    "text": "ee",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      276,
+      157,
+      46,
+      14
+    ],
+    "text": "py",
+    "mean_p_confidence": 0.09
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      127,
+      201,
+      391,
+      18
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      186,
+      235,
+      267,
+      19
+    ],
+    "text": "SOCIALIST REPUBLIC OF",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      261,
+      271,
+      118,
+      18
+    ],
+    "text": "SRI LANKA",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      176,
+      382,
+      292,
+      18
+    ],
+    "text": "STATE GEM CORPORATION",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      243,
+      414,
+      154,
+      22
+    ],
+    "text": "(AMENDMENT)",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      212,
+      449,
+      212,
+      20
+    ],
+    "text": "ACT, No. 64 OF 1981",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80,
+      564,
+      349,
+      14
+    ],
+    "text": ": [Cetified on 28th September, 1981)",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83,
+      613,
+      354,
+      13
+    ],
+    "text": ": . Printed on the Orders of Government",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      90,
+      709,
+      458,
+      13
+    ],
+    "text": "Published ay a Supplement to Part II of the Gazette of the Democree",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      160,
+      726,
+      319,
+      14
+    ],
+    "text": "Soclalist Republic of Sri Lanka of October 02, 198t",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      137,
+      784,
+      362,
+      9
+    ],
+    "text": "FRORTED 47 \"Nn DEPARTMENT OF GOVEKINENT FRIIETING, Mat LAYIEA",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      137,
+      809,
+      360,
+      9
+    ],
+    "text": "\"FO Me FORCHAGD AT TEE OOFE, PUBLICATIONS BUREAV, COLOMBO",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      96,
+      835,
+      441,
+      13
+    ],
+    "text": "Palee: 28 conta Postage : 50 eenta",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      542,
+      858,
+      10,
+      10
+    ],
+    "text": "s",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      144,
+      20,
+      247,
+      16
+    ],
+    "text": "State Gem Corporation (Amendment)",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      207,
+      39,
+      122,
+      18
+    ],
+    "text": "Act, No. 64 of 198%",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      151,
+      72,
+      232,
+      16
+    ],
+    "text": "[Certified on 28th September, 1961]",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      103,
+      103,
+      13
+    ],
+    "text": "L, D-O, 3/79.",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96,
+      126,
+      343,
+      14
+    ],
+    "text": "Aw Act ro auno ru Stare Gene Conroration Act,",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      220,
+      148,
+      95,
+      11
+    ],
+    "text": "No. 18 oF 1971.",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      176,
+      381,
+      15
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      197,
+      302,
+      15
+    ],
+    "text": "Socialist Republic of Srl Lanka as follows :",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      226,
+      444,
+      14
+    ],
+    "text": "LL This Act may be cited as the State Gem Corporation Short tltia,",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      248,
+      226,
+      14
+    ],
+    "text": "(Amendment) Act, No. 64 of 198.",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      277,
+      457,
+      21
+    ],
+    "text": "2, Section 42 of the State Gem Corporation Act, No, 13 Replacement",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      300,
+      450,
+      20
+    ],
+    "text": "of 4971, 1s hereby repealed and the following new section 420tAct,",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      318,
+      424,
+      15
+    ],
+    "text": "substituted therefor : 19%,",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      345,
+      446,
+      27
+    ],
+    "text": "Disposal 42, (1) Any article forfeited to the Repub-",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      363,
+      380,
+      20
+    ],
+    "text": "Sivan? se under this Act or under any by-law or",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      374,
+      384,
+      30
+    ],
+    "text": "te the regulation made thereunder shalt be deli-",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      395,
+      258,
+      20
+    ],
+    "text": "Corparstion. ered to the Corporation.",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      189,
+      430,
+      269,
+      13
+    ],
+    "text": "(2) Any article delivered to the",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      173,
+      450,
+      285,
+      14
+    ],
+    "text": "Corporation under subsection (1) shall be",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      173,
+      471,
+      285,
+      14
+    ],
+    "text": "disposed of as soon 9s convenlently may be",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      173,
+      491,
+      284,
+      14
+    ],
+    "text": "after the delivery thereof, in accordance",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      174,
+      512,
+      283,
+      14
+    ],
+    "text": "with such directions as may be issued in that",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      134,
+      533,
+      323,
+      14
+    ],
+    "text": ". behalf by the Minister in charge of the",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      174,
+      554,
+      120,
+      13
+    ],
+    "text": "subject of Finance, *",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      850,
+      120,
+      12
+    ],
+    "text": "4. ened 13,408 140",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      95,
+      790,
+      430,
+      12
+    ],
+    "text": "Annual subscription of Bille and Laws of the Parliament Ra 160 (Local),",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      95,
+      803,
+      430,
+      12
+    ],
+    "text": "Rs, 200 (Foreign), payeble to the Sureniwrenseer, Gormmmens PususcaTion",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      95,
+      815,
+      429,
+      14
+    ],
+    "text": "Buseac, P, 0. Box 500, Cotomso 1, before 15th Desombor each yoar in reapest",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      252,
+      829,
+      113,
+      10
+    ],
+    "text": "of the yeer following,",
+    "mean_p_confidence": 0.68
+  }
+]

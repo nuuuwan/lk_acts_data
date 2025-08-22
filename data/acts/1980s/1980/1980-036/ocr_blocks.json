@@ -1,0 +1,772 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      305,
+      11,
+      181,
+      38
+    ],
+    "text": "2, LER ED",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      277,
+      26,
+      240,
+      57
+    ],
+    "text": "y a",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      270,
+      71,
+      254,
+      25
+    ],
+    "text": "PEO Es yh i",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      118,
+      210,
+      384,
+      18
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIG",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      176,
+      242,
+      265,
+      17
+    ],
+    "text": "SOCIALIST REPUBLIC OF",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      252,
+      274,
+      118,
+      18
+    ],
+    "text": "SRI LANKA",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      140,
+      379,
+      333,
+      18
+    ],
+    "text": "LOCAL GOVERNMENT SERVICE",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      236,
+      415,
+      153,
+      22
+    ],
+    "text": "(AMENDMENT)",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      203,
+      454,
+      212,
+      20
+    ],
+    "text": "ACT, No. 36 OF 1980",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      199,
+      556,
+      219,
+      13
+    ],
+    "text": "[Certified on 25th September, 1980]",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      185,
+      605,
+      246,
+      13
+    ],
+    "text": "Printed on the Orders of Government",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      75,
+      688,
+      466,
+      15
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the Democratic",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88,
+      706,
+      385,
+      17
+    ],
+    "text": ". SociaHat Bepublic of Sri Lanka of October 10, 1980",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      129,
+      760,
+      359,
+      10
+    ],
+    "text": "peove At MARS GY",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      140,
+      776,
+      338,
+      19
+    ],
+    "text": "Fo WE PURCHASED AT THEE GOVE. PUBLICAZIONE BUREAU, cOLaias0",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      102,
+      809,
+      411,
+      13
+    ],
+    "text": "Price: 35 conte Postage: 35 cents",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      131,
+      39,
+      325,
+      17
+    ],
+    "text": "Local Government Service (Amendment) + -",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      208,
+      57,
+      153,
+      14
+    ],
+    "text": "Act No. 36 of 1930. 5",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      51,
+      85,
+      326,
+      19
+    ],
+    "text": "b [Certified on 25th September, 21980]",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      54,
+      110,
+      122,
+      14
+    ],
+    "text": "1. DO. 50/80.",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      129,
+      376,
+      13
+    ],
+    "text": "Aw Act To AMEND THE Loca: Goverment Seavice Law,",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      220,
+      147,
+      89,
+      11
+    ],
+    "text": "No. 16 or 1974.",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      177,
+      375,
+      16
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic Soctalist",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      196,
+      229,
+      13
+    ],
+    "text": "Republic of Sri Lanke as follows :",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      226,
+      439,
+      15
+    ],
+    "text": "1, This Act may be cited ss the Local Government Short title",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      243,
+      458,
+      14
+    ],
+    "text": "Service (Amendment) Act, No. 36 of 1980, .",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      276,
+      442,
+      16
+    ],
+    "text": "2, The following new section is hereby inserted imme- Insertionot",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      288,
+      455,
+      19
+    ],
+    "text": "diately after section 12 of the Local Government Services Tivivtase",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      308,
+      468,
+      15
+    ],
+    "text": "Law, No, 16 of 1974, and shall have effect as section 124 of No. 16 0f 1074.",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      325,
+      81,
+      12
+    ],
+    "text": "thst Law :",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      356,
+      378,
+      28
+    ],
+    "text": "aay lesation 124. (1) Notwithstanding the provisions of",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      378,
+      373,
+      16
+    ],
+    "text": "of powersof sections 6 to 12 {both inclusive) of this Law,",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      393,
+      374,
+      19
+    ],
+    "text": "Bente where the Minister is of opinion that",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      414,
+      374,
+      20
+    ],
+    "text": "Cireumstan- yeference from or to the Advisory Board or",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      171,
+      434,
+      280,
+      15
+    ],
+    "text": "the Disciplinary Board, as the case may be,",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      171,
+      454,
+      280,
+      14
+    ],
+    "text": "is Likely to delay or restrict in any manner",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      171,
+      471,
+      281,
+      14
+    ],
+    "text": "the administration of Local Government",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      172,
+      490,
+      280,
+      15
+    ],
+    "text": "affairs, the Minister may, subject to the",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      172,
+      510,
+      243,
+      15
+    ],
+    "text": "approval of the Cabinet of Ministers",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      187,
+      540,
+      265,
+      15
+    ],
+    "text": "(@) exercise his powers of appointment,",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      223,
+      556,
+      230,
+      14
+    ],
+    "text": "transfer, release, retirement, aboli-",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      223,
+      573,
+      230,
+      15
+    ],
+    "text": "tion of posts, dismissal and discipti-",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      223,
+      590,
+      230,
+      14
+    ],
+    "text": "maty control of members of the",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      223,
+      607,
+      230,
+      11
+    ],
+    "text": "services without reference from or to",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      224,
+      623,
+      229,
+      14
+    ],
+    "text": "the Advisory Board or the Discipli-",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      223,
+      640,
+      230,
+      14
+    ],
+    "text": "nary Board, as the case may be; ot",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      188,
+      668,
+      266,
+      14
+    ],
+    "text": "{b) delegate by Order published in the",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      225,
+      687,
+      229,
+      13
+    ],
+    "text": "Gazette to any public officer by",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      225,
+      705,
+      229,
+      15
+    ],
+    "text": "designation all or any of juch",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      225,
+      724,
+      229,
+      16
+    ],
+    "text": "powers in respect af all or any of",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      226,
+      744,
+      228,
+      14
+    ],
+    "text": "the categories of members of the",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      225,
+      762,
+      229,
+      15
+    ],
+    "text": "service, and in every case such",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      226,
+      781,
+      228,
+      16
+    ],
+    "text": "public officer shall exercise any such",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      226,
+      801,
+      228,
+      15
+    ],
+    "text": "power without reference from or to",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      226,
+      819,
+      229,
+      15
+    ],
+    "text": "the Advisory Board or the Disciph-",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      226,
+      839,
+      208,
+      15
+    ],
+    "text": "nary Board, as the case may be:",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      866,
+      455,
+      9
+    ],
+    "text": "pA soTa110.288 corer _",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      80,
+      33,
+      313,
+      18
+    ],
+    "text": "2 Local Government Service (Amendment)",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      199,
+      56,
+      138,
+      13
+    ],
+    "text": "Act, No, 36 of 1980 -",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      232,
+      88,
+      220,
+      13
+    ],
+    "text": "Provided however that any such",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      219,
+      105,
+      234,
+      14
+    ],
+    "text": "power s0 delegated shall be exercised",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      219,
+      121,
+      234,
+      14
+    ],
+    "text": "by such public officer subject to the",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      220,
+      137,
+      233,
+      15
+    ],
+    "text": "approval of the Cabinet of",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      219,
+      155,
+      62,
+      11
+    ],
+    "text": "Ministers.",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      183,
+      183,
+      269,
+      14
+    ],
+    "text": "(2) Any Order made and published under",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      167,
+      199,
+      285,
+      13
+    ],
+    "text": "subsection (1) shall remain in foree until",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      166,
+      215,
+      172,
+      14
+    ],
+    "text": "revoked by the Minister. ,",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      85,
+      248,
+      457,
+      11
+    ],
+    "text": "%. The amendment made to the Local Government Retrospective",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72,
+      260,
+      429,
+      18
+    ],
+    "text": "Service Law, No. 16 of 1974, by this Act shall be deemed to",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72,
+      280,
+      249,
+      14
+    ],
+    "text": "have come into force on July 17, 1980.",
+    "mean_p_confidence": 0.76
+  }
+]

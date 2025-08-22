@@ -1,0 +1,662 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      292,
+      12,
+      198,
+      34
+    ],
+    "text": "- fap",
+    "mean_p_confidence": 0.08
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      277,
+      40,
+      225,
+      31
+    ],
+    "text": "4",
+    "mean_p_confidence": 0.08
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      255,
+      67,
+      249,
+      37
+    ],
+    "text": "Le 1999 645",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      257,
+      123,
+      200,
+      35
+    ],
+    "text": "pie end LBs",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      258,
+      150,
+      78,
+      21
+    ],
+    "text": "oe)",
+    "mean_p_confidence": 0.08
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      100,
+      204,
+      386,
+      19
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161,
+      236,
+      267,
+      18
+    ],
+    "text": "SOCIALIST REPUBLIC OF",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      235,
+      268,
+      117,
+      17
+    ],
+    "text": "SRI LANKA",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      75,
+      381,
+      431,
+      18
+    ],
+    "text": "INSTITUTE OF CORPORATION LAWYERS",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      106,
+      420,
+      368,
+      23
+    ],
+    "text": "{AMENDMENT) ACT, No. 3 OF 1980",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      189,
+      524,
+      384,
+      14
+    ],
+    "text": "[Certified on 14th January, 1988] foo",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      169,
+      586,
+      244,
+      13
+    ],
+    "text": "Printed on the Orders of Government",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69,
+      669,
+      447,
+      14
+    ],
+    "text": "Publighed as a Supplement to Part II of the Gazette of the Democratic",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      136,
+      687,
+      314,
+      14
+    ],
+    "text": "Socialist Republic of Sri Lavke of Jenuary 18, 1980",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      102,
+      777,
+      382,
+      10
+    ],
+    "text": "[ROWED At THE BANOO OP COMRIDEENE FOONING, EE BANE",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      105,
+      793,
+      422,
+      19
+    ],
+    "text": "Wm renmam a a com Femmes aaa, eau",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69,
+      818,
+      463,
+      15
+    ],
+    "text": "Price : 20 conts Footage: 25 cents,",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      33,
+      348,
+      16
+    ],
+    "text": "+ nstitute of Corporation Lawyers (Amendment)",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      200,
+      50,
+      113,
+      14
+    ],
+    "text": "Act, Ho, 3 0f 1980",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      150,
+      81,
+      210,
+      16
+    ],
+    "text": "[Certified on 14th January, 1980]",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      101,
+      194,
+      31
+    ],
+    "text": "AxDnnO, 670. :",
+    "mean_p_confidence": -0.0
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      131,
+      378,
+      14
+    ],
+    "text": "Ax Bex 20 ane oe InstrruTe of Comonarion Lawxass",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      190,
+      148,
+      134,
+      14
+    ],
+    "text": "Law, No. 39 or 1978.",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      178,
+      378,
+      17
+    ],
+    "text": "1AM {6 enacted by the Parllament of the Democratic Socialist",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      201,
+      246,
+      15
+    ],
+    "text": "Republic of Sri Lenka as follows ;",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      231,
+      450,
+      16
+    ],
+    "text": "1. This Act may be cited an the Institute of Corporation Short ttle,",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      253,
+      274,
+      15
+    ],
+    "text": "Lawyer (Amendinent) Act, No. 9 of 1900.",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      283,
+      454,
+      22
+    ],
+    "text": "2, Section 5 of the lustitute of Corporation Lawyers Law, Amendment",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      296,
+      455,
+      23
+    ],
+    "text": "So, $3 of 1998, (herelnalter coferred to as the principal Siaf'iaw",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      317,
+      443,
+      23
+    ],
+    "text": "scactment) is hereby amended by the repeal of subsection | Mga,",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      344,
+      374,
+      16
+    ],
+    "text": "4S) of that section, and the substitution therefor, of the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      367,
+      184,
+      14
+    ],
+    "text": "tallowing new subsection :",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93,
+      393,
+      354,
+      15
+    ],
+    "text": "* (1) The affairs of the [rstltute chall be administered",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      408,
+      364,
+      17
+    ],
+    "text": "oy a Board of Management, {hereinafter reterred 10 a3",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      426,
+      365,
+      14
+    ],
+    "text": "the Board\"} which shall consist of the following",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      442,
+      365,
+      14
+    ],
+    "text": "metobers, who shalt be appointed by the Cabinet of",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      459,
+      344,
+      12
+    ],
+    "text": "Ministers on the recommendation of the Minister :",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      95,
+      487,
+      351,
+      14
+    ],
+    "text": "4a) tho Chairman, who shall be an attorney-atlaw of",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      132,
+      507,
+      243,
+      14
+    ],
+    "text": "aot less than ten years standing; and",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96,
+      530,
+      349,
+      15
+    ],
+    "text": "4} four other members, who shell be attorneye-st-law",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      131,
+      551,
+      269,
+      14
+    ],
+    "text": "cof not fess than seven years standing.",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      582,
+      459,
+      16
+    ],
+    "text": "& Section 6 of the principal ensetment is hereby repealed Replacement",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      597,
+      455,
+      21
+    ],
+    "text": "and the following new section substituted therefor : (fac",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      618,
+      468,
+      23
+    ],
+    "text": "s-Whe shat 6, (1) The Chairmen of the Board shall, it Snacthons,",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      641,
+      387,
+      22
+    ],
+    "text": "smmecide st present, preside at ali meetings of the Board.",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      660,
+      387,
+      14
+    ],
+    "text": "reBowe In. the absence of the Chairman trom any",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      163,
+      677,
+      285,
+      13
+    ],
+    "text": "such meeting, the members present shal} elect",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      159,
+      693,
+      289,
+      14
+    ],
+    "text": "que of the members to preside ot such",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      163,
+      711,
+      53,
+      12
+    ],
+    "text": "meeting,",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      178,
+      733,
+      269,
+      15
+    ],
+    "text": "(2) Any question for decision at any",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      163,
+      750,
+      340,
+      15
+    ],
+    "text": "meeting of the Board, shall be decided by",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      117,
+      766,
+      382,
+      18
+    ],
+    "text": "+ gr, the vote of the majority af the members",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      102,
+      783,
+      398,
+      16
+    ],
+    "text": "cogs present. In the ease of an. equallty-ef votes",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      111,
+      800,
+      380,
+      14
+    ],
+    "text": "1s. 71 the member presiing shall have s second\": *",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      816,
+      391,
+      16
+    ],
+    "text": "Fo tas ge eagting wate,\" Loy",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79,
+      764,
+      478,
+      13
+    ],
+    "text": "Annual subscription of Bills and Laws of ie Parliament Re 90 (Loci.",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79,
+      778,
+      479,
+      12
+    ],
+    "text": "Re. 40 (Foreign), payoble to the Stemeutromerr, Govennane Pouscavcer",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79,
+      792,
+      479,
+      13
+    ],
+    "text": "Bureau, P. 0. Hox 500, Couscro I,bafore 15th December each year in -rexpect",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      80,
+      805,
+      479,
+      15
+    ],
+    "text": "of the year following. Lest subscriptions will be sccepted qa the edition that",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      109,
+      819,
+      419,
+      13
+    ],
+    "text": "Billa and Laws issued before the date of payment will not he supalied.",
+    "mean_p_confidence": 0.74
+  }
+]

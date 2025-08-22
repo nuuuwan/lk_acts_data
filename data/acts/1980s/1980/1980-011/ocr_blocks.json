@@ -1,0 +1,695 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      135,
+      15,
+      238,
+      25
+    ],
+    "text": "Sal .",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      122,
+      30,
+      190,
+      28
+    ],
+    "text": "ys e, res",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      107,
+      35,
+      224,
+      60
+    ],
+    "text": "ky \\ >",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      126,
+      73,
+      215,
+      18
+    ],
+    "text": "anes te? SE ga",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      262,
+      83,
+      85,
+      26
+    ],
+    "text": "Caen)",
+    "mean_p_confidence": 0.03
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      100,
+      90,
+      245,
+      45
+    ],
+    "text": "\\ je",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      121,
+      198,
+      367,
+      17
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      179,
+      232,
+      253,
+      18
+    ],
+    "text": "SOCIALIST REPUBLIC OF",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      249,
+      266,
+      112,
+      18
+    ],
+    "text": "SRI LANKA",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      172,
+      358,
+      272,
+      17
+    ],
+    "text": "CO-OPERATIVE SOCIETIES",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      194,
+      391,
+      229,
+      22
+    ],
+    "text": "(SPECIAL PROVISIONS)",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      203,
+      425,
+      203,
+      19
+    ],
+    "text": "ACT, No. 11 OF 1980",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      84,
+      523,
+      319,
+      21
+    ],
+    "text": ". [Certified on 18th Febraary, 1990]",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      125,
+      574,
+      294,
+      15
+    ],
+    "text": "7 Printed on the Orders of Government",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76,
+      653,
+      451,
+      16
+    ],
+    "text": "Published a a Supplement t Part II of the Gazette wf the Demoeratie",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      149,
+      672,
+      310,
+      14
+    ],
+    "text": "Seciatist Republic of Sri Lanks of February 15, 1988",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      122,
+      760,
+      364,
+      13
+    ],
+    "text": "2m ae fee separ of covmaneeer FENG, O81 1AM",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80,
+      775,
+      447,
+      22
+    ],
+    "text": "a0 we poncase AF Rin Go FoalacaTaos DONA, LGR",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      103,
+      803,
+      402,
+      23
+    ],
+    "text": "Price: 20 cents , Postage: 25 cents",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115,
+      32,
+      363,
+      20
+    ],
+    "text": "Co-operative Societies (Special Provisions) .",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      195,
+      54,
+      117,
+      13
+    ],
+    "text": "Act, No, 11 of 1980",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      126,
+      82,
+      319,
+      15
+    ],
+    "text": ". [Certified on 13th February, 1980) :",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      105,
+      383,
+      15
+    ],
+    "text": "L. Do. sea.",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      132,
+      381,
+      11
+    ],
+    "text": "AN ACT TO PROVIDE FOR THE EXTENSION OF THE PERIOD OF",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      146,
+      369,
+      14
+    ],
+    "text": "OrEManion oF sue Co-opmanive Socrerms (Srectat, PRow-",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      163,
+      367,
+      15
+    ],
+    "text": "sions) Law, No. 12 or 1978, witicH ExPmep ow JANUARY 19,",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      182,
+      367,
+      11
+    ],
+    "text": "4980 ano POR Tie VALIDATION RENDERED NECESSARY 5 AUCH",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      221,
+      381,
+      15
+    ],
+    "text": "BE if enacted by the Parliament of the Democratic Socialist",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      239,
+      233,
+      13
+    ],
+    "text": "Republic of Sri Lanka as follows :",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      262,
+      444,
+      14
+    ],
+    "text": "1. This Act may be cited as the Co-operative Societies Short sitte,",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      280,
+      259,
+      13
+    ],
+    "text": "{Special Provisions) Act, No. 11 of 1980.",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      307,
+      451,
+      15
+    ],
+    "text": "2 (1) The Co-operative Societies (Special Provisions) Continuance",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      320,
+      459,
+      21
+    ],
+    "text": "Law, No. 12 of 1978 shall, notwithstanding the provisions of in force uf,",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      339,
+      440,
+      15
+    ],
+    "text": "section 0 of that Law, be deemed for ail purposes to be and of 107%",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      356,
+      380,
+      15
+    ],
+    "text": "to have been in operation for a period af twenty-four months",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64,
+      374,
+      274,
+      14
+    ],
+    "text": "commencing on the 2tth day of July, 1973",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      394,
+      365,
+      14
+    ],
+    "text": "{2) Notwithstanding the expiration of the Co-operative",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      410,
+      380,
+      14
+    ],
+    "text": "Societies (Special Provisions) Law, No, 12 of 1978, by reason",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      427,
+      380,
+      15
+    ],
+    "text": "of the operation of the provisions of section 9 of that Law",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      447,
+      365,
+      15
+    ],
+    "text": "(@) every person appointed by Order made by the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119,
+      464,
+      326,
+      14
+    ],
+    "text": "Minister under subsection (2) of section 2 or sub-",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119,
+      481,
+      327,
+      14
+    ],
+    "text": "section (4) of section 2 of that Law, to manage and",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119,
+      497,
+      327,
+      14
+    ],
+    "text": "administer the affairs of a registered society, shall",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      120,
+      514,
+      326,
+      14
+    ],
+    "text": "be deemed to have validly continued to act in such",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119,
+      531,
+      40,
+      13
+    ],
+    "text": "office ;",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      551,
+      364,
+      15
+    ],
+    "text": "() any power, right or privilege exercised by such",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119,
+      568,
+      327,
+      14
+    ],
+    "text": "person referred to in paragraph (a), under the",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      114,
+      580,
+      400,
+      25
+    ],
+    "text": "Provisions of paragraph (a) and paragraph (b) of .",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      602,
+      358,
+      14
+    ],
+    "text": ". mubsection (5) of section 2 of that Law, shall be",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119,
+      618,
+      262,
+      14
+    ],
+    "text": "deemed to have been validly exercised ;",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      639,
+      366,
+      14
+    ],
+    "text": "() any Unbility tneurred by such person referred to in",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118,
+      655,
+      329,
+      15
+    ],
+    "text": "paragraph (4), under the provislons of subsection",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      123,
+      672,
+      324,
+      14
+    ],
+    "text": "( af section 2 of that Law, shall be deemed to",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119,
+      688,
+      106,
+      14
+    ],
+    "text": "have continued ;",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      706,
+      367,
+      18
+    ],
+    "text": "(4) any allowances paid to such person referred to in",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119,
+      726,
+      329,
+      15
+    ],
+    "text": "paragraph (@), under the provisions of subsection",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      123,
+      742,
+      325,
+      15
+    ],
+    "text": "(8) of section 2 of that Law, shall be deemed to",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119,
+      758,
+      192,
+      15
+    ],
+    "text": "have been validly paid; and",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      779,
+      367,
+      16
+    ],
+    "text": "(e) all acts performed by such person referred to in",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119,
+      796,
+      353,
+      16
+    ],
+    "text": "paragraph (0), under the provisions of that Law, ~~",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119,
+      812,
+      311,
+      18
+    ],
+    "text": "shall be deemed to have been validly performed,",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      832,
+      382,
+      18
+    ],
+    "text": "during the period commencing on the 19th day of Ji a",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      837,
+      378,
+      28
+    ],
+    "text": "10 aod the date of commencement ef tas a",
+    "mean_p_confidence": 0.64
+  }
+]

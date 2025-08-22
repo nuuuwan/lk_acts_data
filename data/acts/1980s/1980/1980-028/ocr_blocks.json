@@ -1,0 +1,948 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      106,
+      196,
+      386,
+      19
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      165,
+      232,
+      267,
+      18
+    ],
+    "text": "SOCIALIST REPUBLIC OF",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      240,
+      264,
+      118,
+      18
+    ],
+    "text": "SRI LANKA",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      120,
+      346,
+      348,
+      17
+    ],
+    "text": "ROMAN CATHOLIC ARCHBISHOP",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      157,
+      381,
+      284,
+      18
+    ],
+    "text": "AND BISHOPS OF CEYLON",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      216,
+      416,
+      153,
+      24
+    ],
+    "text": "(AMENDMENT)",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      189,
+      452,
+      211,
+      20
+    ],
+    "text": "ACT, No. 28 OF 1980",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      200,
+      563,
+      293,
+      15
+    ],
+    "text": "[Certified on Tth August, 1980] .",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      172,
+      606,
+      247,
+      12
+    ],
+    "text": "Printed on the Orders of Government",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      61,
+      681,
+      468,
+      15
+    ],
+    "text": "Published as a Supplement to Part Il of the Gazette of the Democratic",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      128,
+      699,
+      335,
+      13
+    ],
+    "text": "Socialist Republic of Sri Lanka of September 19, 1980",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115,
+      786,
+      362,
+      9
+    ],
+    "text": "ROCTD AF TE DEEARTOGEN OF COVEENBIENE PRERTING, SRE LAIKA",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      65,
+      802,
+      462,
+      18
+    ],
+    "text": "qo BE FORGIAgED AT TAR GOV FUBLICATIONS ROWEAU, COLOMBO",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88,
+      828,
+      417,
+      22
+    ],
+    "text": "Price: 35 cents Postage : 35 cents",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119,
+      52,
+      257,
+      15
+    ],
+    "text": "Roman Catholic Archbishop and Bishope",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      105,
+      69,
+      287,
+      17
+    ],
+    "text": "of Ceylon (Amendment) Act, No. 28 of 1980",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      153,
+      101,
+      359,
+      16
+    ],
+    "text": "[Certified on 7th August, 1980] . .",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      139,
+      455,
+      17
+    ],
+    "text": "L. DO, 59/18. =",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      160,
+      471,
+      15
+    ],
+    "text": "(AN Act To AMEND THE RoMAN CATHOLIC ARCHBISHOP AND '",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      152,
+      179,
+      196,
+      12
+    ],
+    "text": "Brsnors of CeyiLoN ORDIYANCE.",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      204,
+      450,
+      18
+    ],
+    "text": "WHEREAS a portion of the area hitherto under the Preamble,",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      221,
+      379,
+      15
+    ],
+    "text": "Ecclesiastical Jurisdiction of the Roman Catholic Bishop of",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      234,
+      379,
+      23
+    ],
+    "text": "Kandy hee now been created into a new Diocese called the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      255,
+      377,
+      16
+    ],
+    "text": "Diocese of Badulla, and the Right Reverend Doctor Don",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      269,
+      378,
+      16
+    ],
+    "text": "Leo Nanayakkara, 0.S.B, hes been duly appointed Bishop",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      288,
+      224,
+      11
+    ],
+    "text": "of Badulla to administer the same:",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      314,
+      378,
+      15
+    ],
+    "text": "AND WHEREAS it is expedient to amend the Reman",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      331,
+      377,
+      15
+    ],
+    "text": "Catholic Archbishop and Bishops of Ceylon Ordinance to",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      347,
+      446,
+      16
+    ],
+    "text": "provide for the incorporation of the Bishop of Badulls, and :",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      366,
+      112,
+      13
+    ],
+    "text": "in other respects:",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64,
+      392,
+      377,
+      15
+    ],
+    "text": "BE ft, therefore, enacted by the Parliament of the",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64,
+      409,
+      364,
+      15
+    ],
+    "text": "Democratic Socialist Republic of Sri Lanka 2a follows :",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      444,
+      409,
+      15
+    ],
+    "text": "1. This Act may be cited as the Roman Catholic short",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      457,
+      416,
+      20
+    ],
+    "text": "Archbishop and Bishops of Ceylon (Amendment) Act, te.",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      480,
+      98,
+      11
+    ],
+    "text": "No. 2% of 1980.",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      513,
+      428,
+      15
+    ],
+    "text": "2. The Roman Catholic Archbishop and Bishops of Ceylon tnsertion",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      527,
+      431,
+      20
+    ],
+    "text": "Ordinance, (hereinafter referred to as the principal enact- of Rew",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      547,
+      420,
+      15
+    ],
+    "text": "ment\") is hereby amended by the insertion, immediately 3a in",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      560,
+      437,
+      20
+    ],
+    "text": "after section 9 thereof, of the following new section which upter",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      580,
+      379,
+      14
+    ],
+    "text": "shall have effect as section 3a of the principal enactment :",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      610,
+      379,
+      28
+    ],
+    "text": "Pes tala 3a, The Roman Catholic Bishop of Badulla,",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      622,
+      382,
+      26
+    ],
+    "text": "iw to wit, the Right Reverend Doctor Don Leo",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      645,
+      377,
+      21
+    ],
+    "text": "Bishop of Nanayakkara, O.S.B, and his successors duly",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      660,
+      369,
+      16
+    ],
+    "text": "jadulie. appointed according to the laws and usages",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      161,
+      677,
+      283,
+      13
+    ],
+    "text": "of the Roman Catholic Church, shall be a",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      694,
+      379,
+      15
+    ],
+    "text": "te body corporate and shell, for all the purposes",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      162,
+      710,
+      283,
+      14
+    ],
+    "text": "of this Ordinance, have the name of the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      161,
+      727,
+      283,
+      13
+    ],
+    "text": "Bishop of Badnlla, and by such name shall",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      161,
+      743,
+      283,
+      15
+    ],
+    "text": "have perpetual succession and shall have full",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      161,
+      760,
+      283,
+      15
+    ],
+    "text": "power to soquire, purchase, take, hold and",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      162,
+      776,
+      283,
+      15
+    ],
+    "text": "enjoy moveble and immovable property of",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      162,
+      793,
+      281,
+      14
+    ],
+    "text": "every description and to sell or otherwiee",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      162,
+      809,
+      281,
+      16
+    ],
+    "text": "dispose ot the same, and may sue or be sued",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      162,
+      826,
+      281,
+      15
+    ],
+    "text": "in respect of such property in all Courts of",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      162,
+      844,
+      59,
+      12
+    ],
+    "text": "Tustice.*,",
+    "mean_p_confidence": 0.08
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      865,
+      452,
+      11
+    ],
+    "text": "$4 a9q06 (80/0) a",
+    "mean_p_confidence": 0.09
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      170,
+      52,
+      321,
+      15
+    ],
+    "text": "2 Roman Catholic Archbishop and Bishops",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      218,
+      70,
+      289,
+      13
+    ],
+    "text": "of Ceylon (Amendment) Act, No. 28 of 1980",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      73,
+      91,
+      479,
+      36
+    ],
+    "text": "Tyeation % The following new section is hereby inserted",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      78,
+      116,
+      474,
+      20
+    ],
+    "text": "fiction 54 immediately after aection 5, and shall have effect os section",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      74,
+      132,
+      313,
+      30
+    ],
+    "text": "Ratpal 5a of the principal enactment :",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79,
+      158,
+      58,
+      8
+    ],
+    "text": "Enrctmment,",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      173,
+      178,
+      379,
+      14
+    ],
+    "text": "Vesting ba. All property, both movable and",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      173,
+      185,
+      379,
+      39
+    ],
+    "text": "pope immovable, slready acquired, held or",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      173,
+      208,
+      379,
+      27
+    ],
+    "text": "Ber possessed by the said Right Reverend Doctor",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      174,
+      223,
+      378,
+      19
+    ],
+    "text": "Baie Don Leo Nanayakkara, O.S.B, in his official",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      268,
+      244,
+      285,
+      14
+    ],
+    "text": "capacity shall, subject to any trust or",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      268,
+      260,
+      285,
+      14
+    ],
+    "text": "condition affecting the same, vest fm the said",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      268,
+      277,
+      132,
+      14
+    ],
+    "text": "Bishop of Badulla,,",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      81,
+      304,
+      472,
+      33
+    ],
+    "text": "Agnendiment 4 Section 6 of the principal enactment is hereby",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      81,
+      333,
+      242,
+      11
+    ],
+    "text": "mctim @ amended as follows :",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      81,
+      346,
+      35,
+      13
+    ],
+    "text": "oe he",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      82,
+      357,
+      60,
+      20
+    ],
+    "text": "Checkin,",
+    "mean_p_confidence": 0.06
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      192,
+      383,
+      359,
+      14
+    ],
+    "text": "2) by the renumbering of that section ax subsection (1)",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      228,
+      404,
+      131,
+      13
+    ],
+    "text": "of that section ; and",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      193,
+      439,
+      360,
+      15
+    ],
+    "text": "(2) by the insertion, immediately after the renumbered",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      229,
+      456,
+      324,
+      15
+    ],
+    "text": "subsection (1), of the following new subsection :",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      243,
+      472,
+      311,
+      15
+    ],
+    "text": "(2) Any instrument of conveyance, transfer or",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      230,
+      489,
+      323,
+      14
+    ],
+    "text": "sssignment executed by the Bishop of Kandy in",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      230,
+      505,
+      323,
+      14
+    ],
+    "text": "tavour of the Bishop of Badulla of all the property",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      230,
+      521,
+      323,
+      15
+    ],
+    "text": "movable or immovable which by reason of the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      230,
+      538,
+      324,
+      14
+    ],
+    "text": "exeation of the Diocese of Badulla becomes subject",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      231,
+      554,
+      323,
+      16
+    ],
+    "text": "to the administration of the Bishop of Badulla, shall",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      233,
+      570,
+      321,
+      16
+    ],
+    "text": "be deemed to be an instrument chargeable under",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      231,
+      587,
+      323,
+      13
+    ],
+    "text": "Part I, item 23 (7) of Schedule A to the Stamp",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      231,
+      603,
+      198,
+      18
+    ],
+    "text": "Ordinance. \". . sot",
+    "mean_p_confidence": 0.47
+  }
+]

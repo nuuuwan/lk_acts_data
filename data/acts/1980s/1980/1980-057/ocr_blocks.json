@@ -1,0 +1,3313 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      251,
+      156,
+      70,
+      22
+    ],
+    "text": "Orexaee",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      95,
+      206,
+      376,
+      23
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155,
+      237,
+      260,
+      22
+    ],
+    "text": "SOCIALIST REPUBLIC OF",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      228,
+      270,
+      246,
+      21
+    ],
+    "text": "SRI LANKA ;",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144,
+      361,
+      292,
+      22
+    ],
+    "text": "CENTRAL CULTURAL FUND",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      183,
+      392,
+      209,
+      23
+    ],
+    "text": "ACT, No. 57 OF 1980",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      180,
+      506,
+      217,
+      17
+    ],
+    "text": "{Certified on 18th December, 1080]",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      172,
+      551,
+      236,
+      15
+    ],
+    "text": "Printed on the Orders of Government",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      57,
+      648,
+      471,
+      27
+    ],
+    "text": "Published as a Supplement to Part Il of the Gazette of the Democratic",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      124,
+      670,
+      338,
+      23
+    ],
+    "text": "Soctalist Republic of Sri Lanka of December 19, 1980",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      117,
+      766,
+      356,
+      13
+    ],
+    "text": "ener Aa SEDLRZAIT OF UOVEINMEDET RC ENG, BBE TAWA",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      47,
+      786,
+      424,
+      28
+    ],
+    "text": ". TO kat PURCHARED AT TEE OT. FUBLIEATADNGS BUREAU, COLOMBO",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      91,
+      809,
+      409,
+      19
+    ],
+    "text": "Price: 65 conts Postage: 35 cents",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118,
+      29,
+      317,
+      17
+    ],
+    "text": "Central Cultural Fund Act, No. 57 of 1980 :",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      145,
+      64,
+      212,
+      13
+    ],
+    "text": "[Certified on 18th December, 1980]",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      92,
+      264,
+      12
+    ],
+    "text": "LDO. 48/80, .",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      116,
+      363,
+      11
+    ],
+    "text": "AN Act To PROVIDE FOR THE ESTAHLISHMENT OF A PUND CALLED",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      131,
+      349,
+      11
+    ],
+    "text": "Tre Centraal CULToRAL Fowp For THE PROVISION OF",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      145,
+      351,
+      15
+    ],
+    "text": "FONDS, FOR THE DEVELOPMENT OF CULTURAL AND RELICIONS",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      164,
+      350,
+      12
+    ],
+    "text": "MONUMENTS In Sar LANKA, TO MEET EXPENSES INCURRED Tt",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      181,
+      351,
+      11
+    ],
+    "text": "DEVELOPING, MESTORING, AND YRESMRVING CULTURAL MOWU-",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      197,
+      352,
+      9
+    ],
+    "text": "MENTS AND THE DEVELOPMENT OF RELLOIOUS AND. CULSURAL",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      212,
+      352,
+      11
+    ],
+    "text": "Acrummes rx Skt LANKA AND ABROAD, ARD TO PROVIDE",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      229,
+      353,
+      11
+    ],
+    "text": "FINANCIAL ASSISTANCE TO ARTISTS, CRAFTSMEN, WRIFERS,",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      245,
+      353,
+      11
+    ],
+    "text": "PACNTERS, MUSICIANS AND OTHERS WHO ARE ENGAGED OY",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      261,
+      354,
+      11
+    ],
+    "text": "PROMOTING CULTUNAL ACTIVITIES ; 10 PROVIDE FOR THE MARINO",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      277,
+      353,
+      9
+    ],
+    "text": "OF AWARDS TO PERSONS WHO HAVE SERVED THE NATION IN TE",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      294,
+      354,
+      10
+    ],
+    "text": "(CULTURAL AND RWLICIOUS FIELDS ; aif 10 PROVIDE FOR MATTERS",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      310,
+      278,
+      12
+    ],
+    "text": "CONNECTED THRREWATH OR INCIDENTAL THERETO,",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      335,
+      367,
+      13
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic Socia-",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      351,
+      251,
+      14
+    ],
+    "text": "Sist Republic of Sri Lanka as followa:",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      378,
+      425,
+      14
+    ],
+    "text": "1. This Act may: be cited as the Central Cultural Fund Shorttitie.",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      395,
+      329,
+      14
+    ],
+    "text": "Act, No: 87.af 1801, : vas *",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      422,
+      419,
+      28
+    ],
+    "text": "2 (1) There shall be established a Fund to he called Bstabitshe",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      439,
+      422,
+      19
+    ],
+    "text": "the Cemtrs! Chitural Fund * (heretiiafter referred to a8. Goteal",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      458,
+      412,
+      18
+    ],
+    "text": "the Fund). 8 TRU lg Bae",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      486,
+      351,
+      13
+    ],
+    "text": "(2) The Fund shall by the name assigned to tt by sub-",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      502,
+      366,
+      15
+    ],
+    "text": "section (1) be a body corporate and shall have perpetual",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      518,
+      378,
+      14
+    ],
+    "text": "succession and a common seal and may sue and be sued -",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      535,
+      82,
+      11
+    ],
+    "text": "in such name,",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      562,
+      350,
+      15
+    ],
+    "text": "(2) The Government may donate to the Fund fram time",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      578,
+      365,
+      14
+    ],
+    "text": "to time grants for the purpose of carrying out the aims and",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      589,
+      361,
+      26
+    ],
+    "text": "objects of the Fund. .",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      621,
+      415,
+      21
+    ],
+    "text": "&. (1) The administration, management and control of, Board of",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      640,
+      451,
+      19
+    ],
+    "text": "the Fund shall be vested in a Board of Governors consti, Gavernareat",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      658,
+      344,
+      15
+    ],
+    "text": "tated as hereinafter provided, . ~ .",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      681,
+      349,
+      19
+    ],
+    "text": "(2) \"The Board of Governors of the Fond (hereinafter",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      697,
+      372,
+      28
+    ],
+    "text": "Felerred to a6 the \" Board) shall consist of he",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      717,
+      362,
+      26
+    ],
+    "text": "(@ the Prime Minister who shall be the Cheirmen of *",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      113,
+      737,
+      320,
+      28
+    ],
+    "text": "the Board ; sca od",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      761,
+      437,
+      20
+    ],
+    "text": "Gy the Ministr sn charge of the anbject of Cultizal : #",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      101,
+      785,
+      328,
+      16
+    ],
+    "text": "Affaig see ee op oS",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      805,
+      329,
+      23
+    ],
+    "text": "te} the Minister. tr, Ciatae bf She subject of Binanee :",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      827,
+      238,
+      28
+    ],
+    "text": "Amizer agers oft .",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      172,
+      41,
+      310,
+      15
+    ],
+    "text": "2 Cautvat Cultural Fund Act, No. 57 of 1980",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      186,
+      54,
+      369,
+      41
+    ],
+    "text": "(@) tha Minister in charga of the subject of the United |",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      221,
+      88,
+      307,
+      15
+    ],
+    "text": "Natipns Educational, Selentific and Cultural",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      220,
+      107,
+      83,
+      13
+    ],
+    "text": "Organization 5",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      186,
+      121,
+      377,
+      23
+    ],
+    "text": "() the Minister in charge of the subject of Tourism; -",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      186,
+      144,
+      331,
+      15
+    ],
+    "text": "{f) Minister in charge of the subject of Hindu Affaira ;",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      186,
+      163,
+      343,
+      16
+    ],
+    "text": "(g) the Deputy Minister to the Minister in charge of the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      220,
+      179,
+      309,
+      15
+    ],
+    "text": "subject of Cultural Affairs where there is such &",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      221,
+      197,
+      106,
+      13
+    ],
+    "text": "Deputy Minister ;",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      186,
+      216,
+      253,
+      13
+    ],
+    "text": "'(h) the Secretary to the Prime Minister;",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      181,
+      234,
+      348,
+      15
+    ],
+    "text": "@ the Secretary to the Ministry of the Minisier in",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      221,
+      251,
+      254,
+      14
+    ],
+    "text": "charge of the subject of Cultural Affairs ;",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      186,
+      271,
+      262,
+      13
+    ],
+    "text": "G)- the Commissioner of Archaedlogy ; and",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      183,
+      290,
+      346,
+      14
+    ],
+    "text": "s(k) twa ather parsons appointed by the Prime Minister,",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      210,
+      305,
+      319,
+      14
+    ],
+    "text": "1 each of whom shall, enbject to provisions of sub-",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      220,
+      320,
+      309,
+      15
+    ],
+    "text": "section (8) und (4), hold office for euch period",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      220,
+      336,
+      309,
+      17
+    ],
+    "text": "an may be specified in the letter of appointment",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      185,
+      354,
+      263,
+      13
+    ],
+    "text": ". iesned to him by the Prime Minister,",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      163,
+      384,
+      366,
+      14
+    ],
+    "text": ". (3) The Prime Minister may revoke the eppointment of",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      117,
+      399,
+      411,
+      15
+    ],
+    "text": "*2 '-\"\" any member appointed by blea under paragraph (&) at sub-",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      171,
+      416,
+      68,
+      12
+    ],
+    "text": "section (2),",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      136,
+      438,
+      393,
+      18
+    ],
+    "text": "OT 2 Gy Aaj member ot the Boind! appointed under parar",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143,
+      457,
+      385,
+      17
+    ],
+    "text": ".* etaph (ke) of subsection (2) may at any time resign from",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      147,
+      474,
+      416,
+      13
+    ],
+    "text": "\"the Board by a letter in that bebalf addressed to the Pime +,",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      171,
+      487,
+      390,
+      16
+    ],
+    "text": "Ministers ce ee eet ~",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      186,
+      517,
+      343,
+      12
+    ],
+    "text": "( The Chatrman or in the absence of the Chairman",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      172,
+      532,
+      358,
+      14
+    ],
+    "text": "fro, any meeting, any member elected from among",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      172,
+      548,
+      294,
+      15
+    ],
+    "text": "members present, ehall preside at such meeting.",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      186,
+      574,
+      343,
+      16
+    ],
+    "text": "{6) \"The quorum for a mecting af the Board shall be four",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      168,
+      581,
+      322,
+      31
+    ],
+    "text": "members, : :",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      187,
+      618,
+      342,
+      15
+    ],
+    "text": "(7) Subject to the provisions of subsection (6), the",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      172,
+      634,
+      357,
+      15
+    ],
+    "text": "+z> - Board may regulate the procedure tn regard to ita meetings",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      106,
+      648,
+      363,
+      17
+    ],
+    "text": "er andthe transaction of business at auch meetings.",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      187,
+      676,
+      342,
+      14
+    ],
+    "text": "(2) Wo act of proceeding of the Board shall be deemed",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      168,
+      688,
+      365,
+      25
+    ],
+    "text": "to be invalid by reason only of the existence of a vacancy",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      171,
+      708,
+      358,
+      16
+    ],
+    "text": "among ita membors or any defect in the appointment af @",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      80,
+      748,
+      448,
+      22
+    ],
+    "text": "Powsrsetthe 4, The Board chall, in the name of the Fimd, have",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79,
+      761,
+      442,
+      30
+    ],
+    "text": "pea POWERS Gece et amber LA EE",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      184,
+      789,
+      344,
+      19
+    ],
+    "text": "(2) to recetva grant, gitte oF donations in cash or kind,",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      204,
+      810,
+      278,
+      20
+    ],
+    "text": "__ Rhsther from oval or foreign woareesy = :",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      146,
+      28,
+      324,
+      21
+    ],
+    "text": "Central Cultural Fund Act, No. 8 of 100 8",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108,
+      67,
+      364,
+      14
+    ],
+    "text": "(0) to take or hold any property, movable or. immovable,",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      145,
+      83,
+      327,
+      14
+    ],
+    "text": "which may become vested in it by this Act or by",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      144,
+      100,
+      327,
+      14
+    ],
+    "text": "virtue of any purchase, grant, gift, testamentary",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      144,
+      116,
+      327,
+      13
+    ],
+    "text": "disposition or otherwise, and to sell, mortgage,",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      143,
+      132,
+      327,
+      14
+    ],
+    "text": "lease, grant, convey, devise, assign, exchange, or",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      142,
+      148,
+      328,
+      14
+    ],
+    "text": "otherwise dispose of, any movable or immovable",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      143,
+      165,
+      326,
+      14
+    ],
+    "text": "Property to which the Fund may become entitled ;",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      106,
+      192,
+      363,
+      14
+    ],
+    "text": "() to give grants, endowments or scholarships for the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      142,
+      213,
+      267,
+      14
+    ],
+    "text": "furtheraace of the objects of the Funds;",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      105,
+      241,
+      363,
+      14
+    ],
+    "text": "(@) to enter into or perform, either directly or through",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      141,
+      262,
+      326,
+      14
+    ],
+    "text": "officers and servants or agents authorized in",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      140,
+      282,
+      327,
+      14
+    ],
+    "text": "writing in that behlf hy the Board, all such",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      141,
+      302,
+      325,
+      14
+    ],
+    "text": "contracts and agreements as may be necessary for",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      140,
+      322,
+      325,
+      14
+    ],
+    "text": "the exercise, performance and discharge of the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      140,
+      342,
+      325,
+      14
+    ],
+    "text": "powers, duties and functions, and in carrying out",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139,
+      362,
+      158,
+      14
+    ],
+    "text": "the objecta of the Fund;",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      102,
+      390,
+      361,
+      14
+    ],
+    "text": "() subject to the provisions of this Act to appoint,",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      138,
+      411,
+      367,
+      13
+    ],
+    "text": "employ and remunerate officers and servants of the",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      138,
+      431,
+      324,
+      14
+    ],
+    "text": "Fund and to make rules regarding the eppointment,",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      110,
+      451,
+      351,
+      14
+    ],
+    "text": "++ promotion, remuneration and disciplinary control",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      137,
+      471,
+      324,
+      14
+    ],
+    "text": "of its employees and the grant of leave and other",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      137,
+      491,
+      112,
+      14
+    ],
+    "text": "henefita to them ;",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      98,
+      519,
+      361,
+      14
+    ],
+    "text": "() to invest moneys belonging to the Fund, and to",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      136,
+      540,
+      323,
+      13
+    ],
+    "text": "recall, re-invest and vary such investments, at the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      135,
+      560,
+      324,
+      12
+    ],
+    "text": "discretion of tbe Board and to collect income",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      135,
+      580,
+      245,
+      14
+    ],
+    "text": "accuring from such investments; and",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      98,
+      608,
+      360,
+      14
+    ],
+    "text": "(g) to make rules in relation to matters connected with",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      130,
+      619,
+      341,
+      31
+    ],
+    "text": "the working of the Fund, So.",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      95,
+      668,
+      447,
+      19
+    ],
+    "text": "3. With effect from the date of commencement of this Transferring",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      81,
+      684,
+      459,
+      21
+    ],
+    "text": "Act, all moneya lying to the credit of gemeneys to",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      97,
+      717,
+      342,
+      14
+    ],
+    "text": "(2) the Apollo Circus Account ; : .",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      97,
+      741,
+      337,
+      15
+    ],
+    "text": "(2) the Kepilavastu Account; :",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      81,
+      763,
+      372,
+      17
+    ],
+    "text": "(@) the Dutugamunu Ashes Account *; ve",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      96,
+      789,
+      357,
+      15
+    ],
+    "text": "@) the Cultural Triangle Account; and",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      96,
+      813,
+      358,
+      20
+    ],
+    "text": "() the Contributions from Public Servants Account,",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      80,
+      836,
+      210,
+      15
+    ],
+    "text": "shall be traneterred to the Fund,",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      559,
+      31,
+      1,
+      7
+    ],
+    "text": "f",
+    "mean_p_confidence": 0.04
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      168,
+      44,
+      392,
+      16
+    ],
+    "text": "4 Central Cultural Fund Act, No. 87 of 1980 H",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      76,
+      77,
+      465,
+      22
+    ],
+    "text": "Decent) 6, The Board shall maintain an account called the",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      73,
+      86,
+      468,
+      30
+    ],
+    "text": "nay Central Cultural Fund Account at the Bank of Ceylon and",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      73,
+      101,
+      337,
+      30
+    ],
+    "text": "Account, there shall credited to such account",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      185,
+      134,
+      357,
+      15
+    ],
+    "text": "(@) any grant received from the Government under",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      221,
+      151,
+      62,
+      13
+    ],
+    "text": "section 25",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      187,
+      173,
+      356,
+      15
+    ],
+    "text": "() all moneys which sre transferred to the Fund by",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      223,
+      191,
+      233,
+      13
+    ],
+    "text": "virtue of the provisions of section 5;",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      188,
+      213,
+      350,
+      15
+    ],
+    "text": "() any gifts or donations of money made to the Fund;",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      189,
+      237,
+      355,
+      15
+    ],
+    "text": "(@ any income from investments or other receipts due",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      204,
+      254,
+      103,
+      13
+    ],
+    "text": "- to the Fund;",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      189,
+      277,
+      356,
+      14
+    ],
+    "text": "() say income derived from the levy of charges from",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      225,
+      293,
+      320,
+      14
+    ],
+    "text": "visitors and tourists entering the area depicted in",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      225,
+      309,
+      321,
+      14
+    ],
+    "text": "the plan set out in the Schedule hereto (hereinaiter",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      226,
+      325,
+      286,
+      14
+    ],
+    "text": "referred to as the Cultural Triangle; and",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      190,
+      348,
+      356,
+      14
+    ],
+    "text": "G) all moneys that may accrue to the Fund after the",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      197,
+      365,
+      253,
+      11
+    ],
+    "text": "\"date of commencement of this Act.",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      83,
+      400,
+      462,
+      15
+    ],
+    "text": "Chief 7. he Secrestry to the Ministry of the Minister in",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      84,
+      413,
+      462,
+      21
+    ],
+    "text": "Rye Salen charge of the subject of Cultural Affairs shall, subject to",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      84,
+      435,
+      462,
+      18
+    ],
+    "text": "ef the Fund the direction of the Board, be the Chief Administrative",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      177,
+      459,
+      383,
+      14
+    ],
+    "text": "Officer of the Fund. . .",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      81,
+      482,
+      465,
+      35
+    ],
+    "text": "Ovets & Tt shall be the duty of the Board to apply the moneys",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86,
+      511,
+      460,
+      22
+    ],
+    "text": "Tremoners belonging to the Fund mainly for the objects set out below",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      83,
+      521,
+      445,
+      38
+    ],
+    "text": "fant or in ruch other manner s the Board may determine",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      83,
+      544,
+      465,
+      29
+    ],
+    "text": "applied. (@ to meet all expenses incurred in developing cultural",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      229,
+      569,
+      319,
+      15
+    ],
+    "text": "monuments in the Cultural Triangle and such",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      231,
+      586,
+      317,
+      14
+    ],
+    "text": "other cultural monuments in any ares, other than",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      232,
+      601,
+      316,
+      15
+    ],
+    "text": "the Cultural Triangle, which in the cpinion of the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      214,
+      618,
+      334,
+      14
+    ],
+    "text": "Board need to be developed in the public interest ;",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      198,
+      640,
+      351,
+      15
+    ],
+    "text": "(b) to meet atl expenses of the Jetavana Dagobe Project",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      233,
+      657,
+      168,
+      14
+    ],
+    "text": "and other ainailar projects ;",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      98,
+      679,
+      451,
+      17
+    ],
+    "text": "st {) for the promotion of religious activities within Sri",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      116,
+      696,
+      425,
+      14
+    ],
+    "text": ": Lanka or abroad ; .",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      198,
+      719,
+      351,
+      16
+    ],
+    "text": "(a) for the advancement of religion. or the maintenance",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      232,
+      736,
+      286,
+      17
+    ],
+    "text": "of religious places, rites and practices;",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      198,
+      758,
+      350,
+      17
+    ],
+    "text": "(e) for the malcing of awards to persons who have served",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      234,
+      775,
+      284,
+      15
+    ],
+    "text": "the nation in the cultural and religlous fields ;",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      198,
+      799,
+      350,
+      14
+    ],
+    "text": "@) to provide financial assistance to artists, writers,",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      196,
+      813,
+      352,
+      18
+    ],
+    "text": "&.. painters, musicians, sculptors and others engaged",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      232,
+      832,
+      233,
+      15
+    ],
+    "text": "in promoting cultura? activities ; and",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      121,
+      33,
+      329,
+      16
+    ],
+    "text": "Centrat Cultural Fund Act, No. $7 of 1980 8",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      85,
+      66,
+      363,
+      16
+    ],
+    "text": "() tor any other religious or euiturel purpose which Ss,",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      121,
+      83,
+      327,
+      15
+    ],
+    "text": "in the opinion of the Board, of benefit or interest",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      121,
+      101,
+      85,
+      13
+    ],
+    "text": "to the public.",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      82,
+      140,
+      433,
+      14
+    ],
+    "text": "9. (1) The Board shall cause proper books of accounts Accounts,",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69,
+      151,
+      450,
+      20
+    ],
+    "text": "to be kept of the income and expenditure, and all other And audit.",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68,
+      174,
+      161,
+      11
+    ],
+    "text": "transactions of the Fund.",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      83,
+      200,
+      362,
+      15
+    ],
+    "text": "(2) The Auditor-General shall audit the accounts of the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      67,
+      216,
+      378,
+      15
+    ],
+    "text": "Fund every year. For the purpose of assisting him in the",
+    "mean_p_confidence": 0.88
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      67,
+      233,
+      378,
+      13
+    ],
+    "text": "audit of such accounts the Auditor-General may employ the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      67,
+      249,
+      378,
+      15
+    ],
+    "text": "services of any qualified auditor who shall act under his",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      67,
+      266,
+      138,
+      11
+    ],
+    "text": "Aireetion and control,",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      82,
+      297,
+      362,
+      15
+    ],
+    "text": "(B) For the purpose of meeting the expenses incurred by",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66,
+      313,
+      377,
+      13
+    ],
+    "text": "him in the audit of the accounts of the Fund, the Auditor",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66,
+      329,
+      377,
+      15
+    ],
+    "text": "General shall be paid out of the income of the Fund such",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66,
+      346,
+      377,
+      14
+    ],
+    "text": "Teinumeration as the Board may determine, Any remunera-",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66,
+      361,
+      376,
+      15
+    ],
+    "text": "tion received from the Fund by the Auditor-General shall,",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      59,
+      378,
+      383,
+      13
+    ],
+    "text": "alter the deduction therefrom of any sums paid by him to",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65,
+      394,
+      377,
+      14
+    ],
+    "text": "any qualified auditor or auditore employed by bim for the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65,
+      410,
+      377,
+      14
+    ],
+    "text": "Purpose of such audit, be credited to the Consolidated Fund.",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      81,
+      442,
+      361,
+      14
+    ],
+    "text": "{4 The Board shall ennually prepare a report on the",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65,
+      458,
+      377,
+      14
+    ],
+    "text": "administration of the affairs of Fund and a report of the",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65,
+      474,
+      377,
+      14
+    ],
+    "text": "finances during the year completed, which shall, together",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65,
+      490,
+      376,
+      14
+    ],
+    "text": "with the report of the Auditor-General, be tabled in",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65,
+      506,
+      376,
+      14
+    ],
+    "text": "Parliament and be published in the Gazette for general",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65,
+      523,
+      376,
+      13
+    ],
+    "text": "information before the end of the year eucceeding the year",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65,
+      539,
+      273,
+      13
+    ],
+    "text": "to which such report of the finances relate,",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      81,
+      571,
+      360,
+      14
+    ],
+    "text": "(6) In this section, the expression qualified auditor",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65,
+      589,
+      54,
+      8
+    ],
+    "text": "means",
+    "mean_p_confidence": 0.06
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      81,
+      611,
+      360,
+      14
+    ],
+    "text": "( an individual who, being a member of the Institute",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      117,
+      627,
+      324,
+      14
+    ],
+    "text": "of Chartered Accountants of Sri Lanka or of any",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      117,
+      643,
+      324,
+      15
+    ],
+    "text": "other Institute established by law, possesses a",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      116,
+      659,
+      325,
+      15
+    ],
+    "text": "certificate to practise as an Accountant issued by",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      117,
+      675,
+      210,
+      14
+    ],
+    "text": "the Council of such Institute; or",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      76,
+      690,
+      434,
+      30
+    ],
+    "text": "() a firm of Accountants each of the resident partners :",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      116,
+      711,
+      398,
+      17
+    ],
+    "text": "of which, being a member of the Institute of",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      116,
+      731,
+      322,
+      15
+    ],
+    "text": "Chartered Accountants of Sri Lanka or of any",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115,
+      747,
+      323,
+      14
+    ],
+    "text": "other Institute established by law, possesses a",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      116,
+      763,
+      321,
+      15
+    ],
+    "text": "certificate to practise as an Accountant issued by",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      64,
+      779,
+      238,
+      11
+    ],
+    "text": ": the Council of much Institute.",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      77,
+      814,
+      426,
+      15
+    ],
+    "text": "16. The fiaanclal year of the Fund shell be the calendar Fiosncial",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      59,
+      827,
+      431,
+      30
+    ],
+    "text": "year. | yeakot",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      452,
+      842,
+      71,
+      15
+    ],
+    "text": "BeFund",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      181,
+      36,
+      387,
+      37
+    ],
+    "text": "& Geatrat Cultural Fund Art, No. $2 of 1980 |",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      86,
+      78,
+      482,
+      32
+    ],
+    "text": "Sxeinption IL () The Minister in charge of the subject of Cultural",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      86,
+      101,
+      465,
+      24
+    ],
+    "text": "from Affaira may, -with. the concurrence of the Minister in",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      86,
+      115,
+      480,
+      24
+    ],
+    "text": "certain charge of the subject of Finance, exempt; the Fund from",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      85,
+      126,
+      466,
+      29
+    ],
+    "text": "ayes payment of any customs duty on any goods imported by",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      86,
+      146,
+      465,
+      23
+    ],
+    "text": "taxes. the Fund, if the import of such goods is considered to be",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      183,
+      162,
+      368,
+      14
+    ],
+    "text": "conducive for the advancement of the aims and objects of",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      179,
+      172,
+      216,
+      30
+    ],
+    "text": "the Fund, :",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      198,
+      211,
+      353,
+      14
+    ],
+    "text": "(2) The Fund shell be exempt from any income tax or",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      183,
+      225,
+      368,
+      16
+    ],
+    "text": "wealth tox payable under the Inland Revenue Act, No. 28",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      183,
+      244,
+      47,
+      11
+    ],
+    "text": "of 1979.",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      198,
+      268,
+      353,
+      16
+    ],
+    "text": "{8) Where any person makes a gift to the Fund, he shalt",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      184,
+      285,
+      367,
+      15
+    ],
+    "text": "be exempt from the payment of gifts tax under the Inland",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      183,
+      301,
+      368,
+      14
+    ],
+    "text": "Revenue Act, No. 28 of 1879, to the extent of the total valu:",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      179,
+      309,
+      238,
+      30
+    ],
+    "text": "of the gift, .",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      198,
+      344,
+      352,
+      15
+    ],
+    "text": "(4) Where any person makes 2 donation to the Fund such",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      183,
+      360,
+      367,
+      14
+    ],
+    "text": "donation shall be deemed to be an approved expenditure",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      182,
+      376,
+      367,
+      14
+    ],
+    "text": "for the purposes of the Inland Revenue Act, No. 28 of 1979,",
+    "mean_p_confidence": 0.88
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      183,
+      392,
+      366,
+      11
+    ],
+    "text": "and the donor shall be entitled to relief under that Act in",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      129,
+      409,
+      321,
+      12
+    ],
+    "text": ": respect of the total value of such donation.",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      197,
+      435,
+      352,
+      14
+    ],
+    "text": "(5) The Fund shall be exempt from the payment of",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      182,
+      451,
+      367,
+      12
+    ],
+    "text": "entertainment tax under the Entertainment Tax Ordinance",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      182,
+      467,
+      385,
+      14
+    ],
+    "text": "and other taxes and rates under the Municipal Councils -,",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      182,
+      482,
+      386,
+      14
+    ],
+    "text": "Ordinance, the Urban Councils Ordinance, the Town *",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      182,
+      499,
+      367,
+      13
+    ],
+    "text": "Councils Ordinance or the Village Councils Ordinance, as",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      178,
+      507,
+      167,
+      25
+    ],
+    "text": "the case may be. Le",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      197,
+      542,
+      352,
+      13
+    ],
+    "text": "(6) The provisions of this section shall have effect",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      182,
+      557,
+      367,
+      15
+    ],
+    "text": "notwithstanding anything to the contrary in the Inland",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      182,
+      573,
+      367,
+      14
+    ],
+    "text": "Revenue Act, No. 28 of 1979, and the Munieipsl Council",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      182,
+      588,
+      367,
+      15
+    ],
+    "text": "Ordinance, the Urban Councils Ordinance, the Town",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      183,
+      604,
+      366,
+      15
+    ],
+    "text": "Council Ordinance or the Village Councils Ordinance, as",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      183,
+      620,
+      104,
+      13
+    ],
+    "text": "the case may be.",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      87,
+      650,
+      461,
+      24
+    ],
+    "text": "Appointment 12, (1) At the request of the Board any officer In the",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      86,
+      664,
+      462,
+      28
+    ],
+    "text": "oepanle public pervice may, with the consent of that officer end the",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90,
+      679,
+      457,
+      30
+    ],
+    "text": "estat Secretary to the Ministry of the Minister in charge of the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      86,
+      694,
+      461,
+      30
+    ],
+    "text": "aur subject of Public Administration, be temporarily appointed",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      183,
+      717,
+      364,
+      16
+    ],
+    "text": "to the staff of the Fund for such period as may be deter-",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      182,
+      733,
+      365,
+      16
+    ],
+    "text": "amined by the Board, ot with like consent be permanently",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      182,
+      749,
+      142,
+      13
+    ],
+    "text": "appointed to such staff.",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      196,
+      776,
+      350,
+      16
+    ],
+    "text": "(2) Where any officer in the public service is temporarily,",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      182,
+      792,
+      364,
+      16
+    ],
+    "text": "appointed to the steff of the Fund, the provisions of sub-",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      181,
+      808,
+      365,
+      16
+    ],
+    "text": "section (2) of section 1 of the Transport Board Law, No. 19",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      177,
+      819,
+      368,
+      35
+    ],
+    "text": "Fa Mall, mutatis mutondis, apply to and in relation to",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      113,
+      64,
+      321,
+      31
+    ],
+    "text": "Centeat Culturat Pund Act, No. 87 of 1980 1",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      76,
+      106,
+      357,
+      13
+    ],
+    "text": "(8) Where any officer in the public service is permanent-",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      59,
+      122,
+      373,
+      13
+    ],
+    "text": "ly appointed to the staf# of the Fund, the provisions of sub-",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      59,
+      138,
+      373,
+      13
+    ],
+    "text": "section (2) of section 13 of the Transport Board Law No. 19",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      58,
+      153,
+      373,
+      14
+    ],
+    "text": "of 1978, shall, mutatiz mutandis, apply to and in relation",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      54,
+      165,
+      114,
+      23
+    ],
+    "text": "to him",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      75,
+      197,
+      356,
+      13
+    ],
+    "text": "(4) Where the Board employs any person who has enter",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      58,
+      212,
+      372,
+      14
+    ],
+    "text": "ed into a contract with the Government by which he has",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      58,
+      229,
+      372,
+      13
+    ],
+    "text": "agreed fo serve the Government for a specified period, any",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      57,
+      245,
+      373,
+      13
+    ],
+    "text": "Period of service to the Fund by that person shail he",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      57,
+      260,
+      372,
+      14
+    ],
+    "text": "regarded as service to the Government for the purpose of",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      57,
+      276,
+      282,
+      14
+    ],
+    "text": "discharging the obligations af such contract.",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      71,
+      304,
+      412,
+      11
+    ],
+    "text": "18. All officers and servants af the Fund shall be deemed. Ottears",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      57,
+      317,
+      430,
+      20
+    ],
+    "text": "to be public servants within the meaning and for the pur; onder",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      52,
+      332,
+      439,
+      22
+    ],
+    "text": "poses of the Penal Code. . the Fund",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      345,
+      349,
+      156,
+      11
+    ],
+    "text": ". deemed to",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      443,
+      360,
+      48,
+      11
+    ],
+    "text": "ibe pubite",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      328,
+      370,
+      159,
+      14
+    ],
+    "text": "v4 + secvanis",
+    "mean_p_confidence": 0.07
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      321,
+      382,
+      172,
+      12
+    ],
+    "text": "pen ee ede te",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      313,
+      393,
+      189,
+      10
+    ],
+    "text": "Penal Code",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      69,
+      417,
+      400,
+      15
+    ],
+    "text": "44, The Fund shall be deemed to be a sclduled institu- uma",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      54,
+      430,
+      440,
+      21
+    ],
+    "text": "Yon within the meaning af the Bribery Act and the pro. G#emedto",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      54,
+      444,
+      439,
+      18
+    ],
+    "text": "wisions of that Act chall accordingly apply. | Shute",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      339,
+      461,
+      156,
+      15
+    ],
+    "text": "Srutttaten",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      233,
+      474,
+      261,
+      22
+    ],
+    "text": "bee yiwooe",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      188,
+      496,
+      285,
+      10
+    ],
+    "text": "pe ee + ete",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      170,
+      507,
+      310,
+      10
+    ],
+    "text": "we t Shiberr",
+    "mean_p_confidence": 0.08
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      54,
+      517,
+      406,
+      21
+    ],
+    "text": ". Bae eee Act.",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      67,
+      542,
+      431,
+      15
+    ],
+    "text": "15, In this Act Bank of Ceylon means the Bank of Interpreta-",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      53,
+      555,
+      408,
+      19
+    ],
+    "text": "Coyion established by the Bank of Ceyton Ordinance. fom,",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      247,
+      77,
+      88,
+      12
+    ],
+    "text": "+ Semoun",
+    "mean_p_confidence": 0.09
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      268,
+      242,
+      215,
+      24
+    ],
+    "text": "eSochemetben seand.ceee",
+    "mean_p_confidence": -0.0
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      139,
+      262,
+      355,
+      19
+    ],
+    "text": "w Heaters ws6on ord",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      269,
+      279,
+      172,
+      17
+    ],
+    "text": "CULTURAL TRUNGLE",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      121,
+      326,
+      159,
+      42
+    ],
+    "text": "a aengce.",
+    "mean_p_confidence": -0.0
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      196,
+      363,
+      88,
+      15
+    ],
+    "text": "Bracing ugh",
+    "mean_p_confidence": -0.0
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      196,
+      379,
+      85,
+      8
+    ],
+    "text": "preterit a",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      376,
+      448,
+      48,
+      13
+    ],
+    "text": "8 eoS",
+    "mean_p_confidence": -0.0
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      323,
+      466,
+      128,
+      19
+    ],
+    "text": "Osreandragare",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      324,
+      486,
+      90,
+      12
+    ],
+    "text": "PRONNseUwN",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      243,
+      561,
+      59,
+      12
+    ],
+    "text": "201906",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      242,
+      574,
+      52,
+      15
+    ],
+    "text": "ners",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      245,
+      592,
+      49,
+      11
+    ],
+    "text": "Kenny",
+    "mean_p_confidence": 0.2
+  }
+]

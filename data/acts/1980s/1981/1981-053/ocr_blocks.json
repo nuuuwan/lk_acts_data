@@ -1,0 +1,574 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      121,
+      200,
+      402,
+      19
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      182,
+      233,
+      279,
+      19
+    ],
+    "text": "SOCIALIST REPUBLIC OF",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      260,
+      267,
+      124,
+      18
+    ],
+    "text": "SRI LANKA",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      146,
+      370,
+      355,
+      19
+    ],
+    "text": "SHOP AND OFFICE EMPLOYEES",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      99,
+      403,
+      430,
+      23
+    ],
+    "text": "- (REGULATION OF EMPLOYMENT AND",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      141,
+      436,
+      358,
+      24
+    ],
+    "text": "REMUNERATION) (AMENDMENT)",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      209,
+      469,
+      221,
+      20
+    ],
+    "text": "ACT, No. 53 OF 1981",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      211,
+      566,
+      216,
+      15
+    ],
+    "text": "[Certified on 28th August, 1981]",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72,
+      620,
+      492,
+      23
+    ],
+    "text": "7 Printed on the Orders of Government : .",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      75,
+      709,
+      489,
+      29
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the Democratic",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      145,
+      738,
+      348,
+      14
+    ],
+    "text": "Soctalist Republie of Sri Lanka of September 04, 1981",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      131,
+      810,
+      378,
+      9
+    ],
+    "text": "(MUVEED AF HIE DERARRBIENT OF OOFERAMEITE PRETEND, OR LANA",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77,
+      826,
+      486,
+      20
+    ],
+    "text": "\"Fe we vuncnaata Ab Rea Gove POWLICATIONE BUREAU, CoLOnmO",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      95,
+      855,
+      481,
+      22
+    ],
+    "text": "Prico: 20 cents Postage : 50 cents 7",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      12,
+      387,
+      16
+    ],
+    "text": "Shop and Office Employees (Regulation of Employment and",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      102,
+      30,
+      331,
+      15
+    ],
+    "text": "Remuneration) (Amendment) Act, No, $8 of 1982",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      166,
+      64,
+      204,
+      14
+    ],
+    "text": "[Certified on 28th August, 1981]",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      93,
+      106,
+      15
+    ],
+    "text": "L, DO, 26/80.",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      125,
+      387,
+      14
+    ],
+    "text": "AN Act To amen TH SHOP AND Orrice Exertovens (Reaua-",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115,
+      142,
+      306,
+      14
+    ],
+    "text": "g70N or EMeLoYMEN? an Reaaunmparton) Act.",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      175,
+      388,
+      14
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic Socia-",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      191,
+      276,
+      14
+    ],
+    "text": "list Republic of Sri Lanka as follows :",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      216,
+      423,
+      14
+    ],
+    "text": "2. This Act may be cited as the Shop and Office Short",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      229,
+      430,
+      18
+    ],
+    "text": "Employees (Regulation of Employment and Remuneration) 8*",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      249,
+      220,
+      14
+    ],
+    "text": "(Amendment) Act, No. 53 of 1981.",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      281,
+      462,
+      21
+    ],
+    "text": "2 Section 18 of the Shop and Office Employees (Regu- Amendment",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      299,
+      444,
+      15
+    ],
+    "text": "iation of Employment and Remuneration) Act, inserted by fae of",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      315,
+      478,
+      14
+    ],
+    "text": "Act No. 60 of 1957, is hereby amended es follows : Chapter 128,",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93,
+      345,
+      371,
+      14
+    ],
+    "text": "() by the repeal of subsection (1) of that section, and",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      130,
+      362,
+      335,
+      14
+    ],
+    "text": "the gubstitution therefor of the following cub-",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      130,
+      379,
+      67,
+      11
+    ],
+    "text": "section :",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      144,
+      403,
+      322,
+      15
+    ],
+    "text": "(1) Subject to the provisions of subsection (3),",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      131,
+      420,
+      335,
+      15
+    ],
+    "text": "a female employee to whom this Part applies shall,",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      131,
+      437,
+      336,
+      13
+    ],
+    "text": "upon giving notice to her employer that she ex-",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      131,
+      453,
+      336,
+      14
+    ],
+    "text": "ects to be confined within fourteen days fram the",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      131,
+      469,
+      336,
+      14
+    ],
+    "text": "date specified in the notice, be entitled to leave for",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      131,
+      485,
+      335,
+      15
+    ],
+    "text": "the period commencing on that date and ending on",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      131,
+      501,
+      335,
+      14
+    ],
+    "text": "the day immediately preceding the date of her con-",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      130,
+      518,
+      334,
+      14
+    ],
+    "text": "finement, and her employer shall allow such",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      130,
+      535,
+      84,
+      13
+    ],
+    "text": "leave. 5 and",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93,
+      563,
+      370,
+      15
+    ],
+    "text": "(b) by the insertion, immediately after subsection (2)",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      131,
+      580,
+      250,
+      13
+    ],
+    "text": "thereof, of the following subsection :",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99,
+      604,
+      365,
+      14
+    ],
+    "text": "+ (8) Where a female employee to whom this Part",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      130,
+      622,
+      334,
+      14
+    ],
+    "text": "applies hae worked for her employer on any number",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      131,
+      638,
+      334,
+      14
+    ],
+    "text": "of days during the period of fourteen days referred",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      131,
+      655,
+      446,
+      13
+    ],
+    "text": "to in subsection (1), she shall be entitled to take :",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      131,
+      672,
+      333,
+      13
+    ],
+    "text": "leave, for such number of days after her confine-",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      131,
+      688,
+      333,
+      14
+    ],
+    "text": "ment, commencing on the day immediately after",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      131,
+      704,
+      333,
+      14
+    ],
+    "text": "the date on which the period of leave referred to",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      130,
+      721,
+      332,
+      13
+    ],
+    "text": "in subsection (2) ends and the employer shall",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      129,
+      737,
+      128,
+      12
+    ],
+    "text": "allow such leave. .",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      855,
+      507,
+      22
+    ],
+    "text": "(A 07188-18,100 (07/81) f",
+    "mean_p_confidence": 0.34
+  }
+]

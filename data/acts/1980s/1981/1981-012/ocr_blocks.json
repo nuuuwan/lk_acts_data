@@ -1,0 +1,497 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      310,
+      31,
+      27,
+      17
+    ],
+    "text": "@.",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      279,
+      75,
+      237,
+      31
+    ],
+    "text": "Ce ia :",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      284,
+      129,
+      271,
+      41
+    ],
+    "text": "es |",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      127,
+      193,
+      390,
+      18
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      190,
+      224,
+      268,
+      18
+    ],
+    "text": "SOCIALIST REPUBLIC OF",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      263,
+      256,
+      119,
+      18
+    ],
+    "text": "SRI LANKA",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      165,
+      353,
+      320,
+      18
+    ],
+    "text": "TAX RESERVE CERTIFICATES",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      245,
+      377,
+      273,
+      42
+    ],
+    "text": "(AMENDMENT)",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      220,
+      433,
+      343,
+      21
+    ],
+    "text": "ACT, No. 12 OF 1982 ;",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      85,
+      518,
+      480,
+      18
+    ],
+    "text": ". (Certified on 27th February, 1981] boa",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      187,
+      568,
+      379,
+      15
+    ],
+    "text": "Printed on the Ordere of the Goverument =~,",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      87,
+      650,
+      477,
+      23
+    ],
+    "text": "Published as a Supplement to Part If of the Gazette of the Democratic",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      170,
+      673,
+      311,
+      13
+    ],
+    "text": "Socialist Republic of Sri Lanka of March 6, 1981",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      124,
+      741,
+      427,
+      27
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OP GOVERNMENT PRINTING, SRI LANKA a",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      129,
+      782,
+      391,
+      11
+    ],
+    "text": "TO BE PURCHASED AT THE GOVT. PUBLICATIONS BUREAU, COLOMBO",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      104,
+      803,
+      446,
+      16
+    ],
+    "text": "Price: 35 rents . Postage: 50 cents",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      104,
+      36,
+      363,
+      21
+    ],
+    "text": "\". tax Reserve Certificates (Amendment) .",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      214,
+      59,
+      122,
+      13
+    ],
+    "text": "Act, No. 12 of 1981",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      165,
+      87,
+      221,
+      14
+    ],
+    "text": "[Certified on 27th February, 1981)",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      122,
+      95,
+      12
+    ],
+    "text": "LDO. 45/80.",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      149,
+      382,
+      13
+    ],
+    "text": "AN AcT To AMEND THE Tax Resenve CervivicaTes Act,",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      225,
+      167,
+      97,
+      10
+    ],
+    "text": "No. 22 om 1957.",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      195,
+      380,
+      13
+    ],
+    "text": "BR it enacted by the Perliament of the Democratic",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      211,
+      303,
+      14
+    ],
+    "text": "Socialist Republic of Sri Lanka as follows :",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      97,
+      235,
+      463,
+      28
+    ],
+    "text": "i. This Act may be cited as the Tax Reserve Certificates gr ?",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      256,
+      220,
+      14
+    ],
+    "text": "(Amendment) Act, No. 12 of 1981.",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      97,
+      284,
+      431,
+      14
+    ],
+    "text": "2, The Tax Reserve Certificates Act, No, 22 of 1957, is Replace-",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      296,
+      458,
+      20
+    ],
+    "text": "hereby amended by the repeal of section 5 of that Act and OGL, a",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      318,
+      470,
+      21
+    ],
+    "text": "the substitution therefor of the following section: ~ Aa Neto",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      358,
+      382,
+      11
+    ],
+    "text": "Surrender 5A. certificate holder shall be entitled to",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      369,
+      384,
+      21
+    ],
+    "text": "Of scates surrender the cerlificate to the Commissioner",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      380,
+      383,
+      31
+    ],
+    "text": "it General of Inland Revenue in payment or",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      403,
+      383,
+      20
+    ],
+    "text": "peymentof part payment, with the surrender value of",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      413,
+      383,
+      31
+    ],
+    "text": "tax, the certificate under section , of any sum",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      432,
+      388,
+      28
+    ],
+    "text": "personal that may be due from the certifleate folder",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      450,
+      385,
+      26
+    ],
+    "text": "profits faa income tax, personal tax, profits tax,",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      470,
+      384,
+      19
+    ],
+    "text": "eh wealth tax, gifts tax or estate duty (here-",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      488,
+      382,
+      14
+    ],
+    "text": "Gx zits _inafter in this Act sometimes referred to ax",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      503,
+      165,
+      9
+    ],
+    "text": "te m",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      504,
+      384,
+      20
+    ],
+    "text": "Sriteguty, the fax). :",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      80,
+      755,
+      476,
+      12
+    ],
+    "text": "Ampuai subscription of Bills and Laws of tae Parliament Ra 20 (Local)~",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      81,
+      771,
+      473,
+      13
+    ],
+    "text": "fa. 40 (Forelem), payable to the Suvmnerexaner, Govaesoneyr PuRLICATiOs",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      81,
+      783,
+      474,
+      14
+    ],
+    "text": "Banean, P.O. Box $0, Cotosad |, before 15th December each year in respect",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      80,
+      798,
+      474,
+      13
+    ],
+    "text": "the year following. Late suteeriptions will be accepted on the condition tast",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      112,
+      812,
+      410,
+      13
+    ],
+    "text": "Nis and Lawa insued before the date of paymeot will aot be suppllet",
+    "mean_p_confidence": 0.61
+  }
+]

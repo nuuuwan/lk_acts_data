@@ -1,0 +1,816 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      372,
+      11,
+      62,
+      21
+    ],
+    "text": "fa? ax,",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      245,
+      75,
+      200,
+      19
+    ],
+    "text": "ree",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      243,
+      83,
+      201,
+      30
+    ],
+    "text": "(a",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      249,
+      135,
+      183,
+      29
+    ],
+    "text": "(wg it",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      95,
+      188,
+      384,
+      29
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      152,
+      232,
+      266,
+      18
+    ],
+    "text": "SOCIALIST REPUBLIC OF",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      228,
+      267,
+      131,
+      25
+    ],
+    "text": "SRI LANKA _",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77,
+      357,
+      421,
+      19
+    ],
+    "text": "STATE AGRICULTURAL CORPORATIONS",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      211,
+      402,
+      151,
+      23
+    ],
+    "text": "(AMENDMENT)",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      181,
+      446,
+      212,
+      22
+    ],
+    "text": "ACT, No. 20 OF 1980",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      194,
+      544,
+      270,
+      16
+    ],
+    "text": "(Certified on 18th April, 1980] .",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66,
+      593,
+      458,
+      25
+    ],
+    "text": ". . Printed on the Orders of Government .",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      56,
+      680,
+      468,
+      15
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the Democratic",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      133,
+      699,
+      314,
+      13
+    ],
+    "text": "Socialist Republic of Sri Lanka of April 25, 1980",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      103,
+      789,
+      377,
+      12
+    ],
+    "text": "oer so DEP cP eOUINKENE FRE, EA",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      114,
+      807,
+      382,
+      22
+    ],
+    "text": "FO HE PURCHASED AT THE GOVT FURLICATIONS BUREAU, EOLOBIDO ~~",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      84,
+      836,
+      477,
+      16
+    ],
+    "text": "Price: 35 cents Postage: 35 cents .",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      110,
+      29,
+      295,
+      13
+    ],
+    "text": "State Agricidtural Corporations (Amendment)",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      198,
+      45,
+      119,
+      13
+    ],
+    "text": "Act, No. 20 of 1980",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      163,
+      77,
+      189,
+      13
+    ],
+    "text": "[Certified on 18th April, 1980]",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      101,
+      88,
+      12
+    ],
+    "text": "LDO87/79.",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      128,
+      374,
+      11
+    ],
+    "text": "AN Act 10 aMinn mus Stare AckIcuutunal, ConroraTions",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      196,
+      145,
+      124,
+      12
+    ],
+    "text": "Act, No, 11 or 1972.",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      172,
+      372,
+      15
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic Socialist,",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      189,
+      231,
+      13
+    ],
+    "text": "Republic of Sti Lanka as follows :",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      221,
+      436,
+      13
+    ],
+    "text": "L. This Act may be cited as the State Agricultural Cor Short ttle,",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      237,
+      271,
+      13
+    ],
+    "text": "poration (Amendment) Act, No. 20 of 1980.",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      269,
+      441,
+      13
+    ],
+    "text": "2. Section 2 of the State Agricultural Corporations Act, Amaniment",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      281,
+      441,
+      21
+    ],
+    "text": "No. 11 of 1972 (hereinaiter referred to as the principal of seetion",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      302,
+      461,
+      12
+    ],
+    "text": "enactment) is hereby amended in subsection (1} of that No. 11 ef 1072,",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      318,
+      371,
+      13
+    ],
+    "text": "section by the omission of paragraphs (vii) and (viii) and",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      333,
+      411,
+      14
+    ],
+    "text": "the substitution therefor, of the following new para",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      350,
+      64,
+      12
+    ],
+    "text": "wraphs :",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      369,
+      368,
+      14
+    ],
+    "text": "(vii) appoint the members of the Board in accordance",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      124,
+      386,
+      208,
+      13
+    ],
+    "text": "with the provisions of this Act;",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      405,
+      358,
+      14
+    ],
+    "text": "(vis) appoint the Chairman of such Board in accordance",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      124,
+      422,
+      164,
+      13
+    ],
+    "text": "with such provisions ; and",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      441,
+      352,
+      14
+    ],
+    "text": "(x) appoint the Deputy Chairman of such Board in",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      124,
+      458,
+      214,
+      13
+    ],
+    "text": "accordance with such provisions.",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      493,
+      441,
+      14
+    ],
+    "text": "3. Section 10 of the principal enactment is hereby Amendment",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      507,
+      443,
+      20
+    ],
+    "text": "amended by the repeal of subsection (2) of that section and of seetlon",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      526,
+      437,
+      14
+    ],
+    "text": "the substitution therefor, of the following new subsection principal",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      485,
+      540,
+      34,
+      8
+    ],
+    "text": "rent.",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      111,
+      542,
+      373,
+      21
+    ],
+    "text": "* (2) The Minister shall appoint a Chatrman and may \"*\"",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98,
+      565,
+      345,
+      14
+    ],
+    "text": "appoint a Deputy Chairman of the Board of Directors",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98,
+      582,
+      178,
+      13
+    ],
+    "text": "from among the Directors.",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      613,
+      446,
+      16
+    ],
+    "text": "4. Section 18 of the principal enactment is hereby Replacement",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      628,
+      445,
+      20
+    ],
+    "text": "repealed and the following section substituted therefor : of section",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      649,
+      438,
+      13
+    ],
+    "text": "Chairman : principal",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      654,
+      449,
+      21
+    ],
+    "text": "{Chairman 6. \"The term of office of the Chairman or EMREIRH",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      670,
+      373,
+      14
+    ],
+    "text": "Guiveeey, the Deputy Chairman of the Board of Direc-",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      685,
+      373,
+      15
+    ],
+    "text": "Board'cf fore shall be the period of his membership",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      696,
+      191,
+      22
+    ],
+    "text": "Directors of such Board:",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      177,
+      730,
+      267,
+      13
+    ],
+    "text": "Provided, however, that the Chairman or",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      166,
+      747,
+      279,
+      13
+    ],
+    "text": "the Deputy Chairman may earlier resign his",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      166,
+      763,
+      280,
+      13
+    ],
+    "text": "offies by letter addressed to the Minister, or",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      166,
+      779,
+      280,
+      14
+    ],
+    "text": "the Minister may at any time, without",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      166,
+      796,
+      280,
+      14
+    ],
+    "text": "assigning a reason, terminate the appoint-",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      166,
+      812,
+      280,
+      15
+    ],
+    "text": "ment of the Chairman or the Deputy Chair",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      812,
+      364,
+      33
+    ],
+    "text": ". man :",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      847,
+      127,
+      15
+    ],
+    "text": "7-0 8886-14900 wofaey",
+    "mean_p_confidence": 0.07
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      168,
+      39,
+      331,
+      15
+    ],
+    "text": "2 State Agricultural Corporations (Amendment)",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      293,
+      56,
+      119,
+      13
+    ],
+    "text": "Act, No. 20 of 1980",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      74,
+      82,
+      465,
+      26
+    ],
+    "text": "Amendment 5 Section 17 of the principal enactment is hereby",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      78,
+      102,
+      460,
+      20
+    ],
+    "text": "of etion amended by the repeal of subsection (1) of that section and",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79,
+      119,
+      449,
+      25
+    ],
+    "text": "buinaind, the aubetitution therefor, of the following subsection :-",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      75,
+      132,
+      465,
+      33
+    ],
+    "text": "snactnent (Q) The Chairman of the Board of Directors shall",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      196,
+      157,
+      344,
+      16
+    ],
+    "text": "preside at every mecting of the Board at which he is",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      196,
+      175,
+      345,
+      15
+    ],
+    "text": "present. In the absence of the Chairman from any",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      197,
+      190,
+      344,
+      16
+    ],
+    "text": "meeting of such Board, the Deputy Chairman of the",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      197,
+      207,
+      344,
+      15
+    ],
+    "text": "Board of Directors, or in the absence of the Deputy",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      198,
+      224,
+      343,
+      15
+    ],
+    "text": "Chairman, or where no Deputy Chairman has been",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      198,
+      240,
+      344,
+      16
+    ],
+    "text": "appointed, a Director chosen by the majority of the",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      198,
+      257,
+      318,
+      15
+    ],
+    "text": "Directors present shall preside at such meeting.",
+    "mean_p_confidence": 0.68
+  }
+]

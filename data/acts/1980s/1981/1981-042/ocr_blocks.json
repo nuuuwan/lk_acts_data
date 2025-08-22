@@ -1,0 +1,838 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      285,
+      50,
+      70,
+      31
+    ],
+    "text": "fan",
+    "mean_p_confidence": 0.08
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      284,
+      75,
+      78,
+      28
+    ],
+    "text": "eae",
+    "mean_p_confidence": 0.05
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      289,
+      90,
+      73,
+      27
+    ],
+    "text": "Geos)",
+    "mean_p_confidence": 0.03
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      279,
+      127,
+      77,
+      37
+    ],
+    "text": "ice",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      124,
+      224,
+      390,
+      18
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      186,
+      256,
+      269,
+      18
+    ],
+    "text": "SOCIALIST REPUBLIC OF",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      259,
+      296,
+      119,
+      17
+    ],
+    "text": "SRI LANKA",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88,
+      391,
+      461,
+      24
+    ],
+    "text": "BUDDHIST TEMPORALITIES (AMENDMENT)",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      212,
+      431,
+      214,
+      20
+    ],
+    "text": "ACT, No. 42 OF 1981",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      228,
+      538,
+      179,
+      14
+    ],
+    "text": "[Certified on 2nd July, 1981)",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      179,
+      619,
+      277,
+      13
+    ],
+    "text": "Printed on the Orders of the Government",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78,
+      712,
+      478,
+      16
+    ],
+    "text": "Published 9s a Supplement to Part II of the Gozetio of the Democratic",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      168,
+      730,
+      295,
+      15
+    ],
+    "text": "Socialist Republic of Sri Lanka of July 8, 1931",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      132,
+      789,
+      370,
+      10
+    ],
+    "text": "snort At ue eran OF OOPS PRSPNG, 8 LASEA",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      146,
+      806,
+      405,
+      19
+    ],
+    "text": "\"70 WE PURCHASED AT THE GOVT. PUBLICATIONS BUREAU, COLOMGO",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      106,
+      835,
+      430,
+      21
+    ],
+    "text": "Price +f conte ornge: 50 conte",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      167,
+      32,
+      247,
+      13
+    ],
+    "text": "Buddhist Temporalities (Amendment)",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      229,
+      49,
+      122,
+      13
+    ],
+    "text": "Act, No, 42 of 1981",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      201,
+      74,
+      179,
+      14
+    ],
+    "text": "{Certified on 2nd July, 1981]",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99,
+      103,
+      93,
+      13
+    ],
+    "text": "L, DO. 9/80",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      106,
+      132,
+      371,
+      12
+    ],
+    "text": "AN AcT 70 AMEND THE BuppHist TEMPORALITIZS ORDINANCE",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99,
+      161,
+      385,
+      14
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic Socialist",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99,
+      178,
+      236,
+      14
+    ],
+    "text": "Republie of Sri Lanka aa follows :",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      113,
+      206,
+      449,
+      14
+    ],
+    "text": "1, This Act may be cited as the Buddhist Temporalitics Short title",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      103,
+      220,
+      467,
+      22
+    ],
+    "text": "(Amendment) Act, No, 42 of 1981, and shall come into snd Sete of",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      100,
+      240,
+      384,
+      14
+    ],
+    "text": "operation on such date as the Minister may appoint by Order",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      100,
+      257,
+      163,
+      13
+    ],
+    "text": "published in the Gazette.",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      113,
+      285,
+      456,
+      14
+    ],
+    "text": "2% The Buddhist Temporalities Ordinance (hereinafter Amendment",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      100,
+      298,
+      460,
+      20
+    ],
+    "text": "referred to as the principal enactment) is hereby SfChapter",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      100,
+      319,
+      194,
+      13
+    ],
+    "text": "amended by the substitution",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      116,
+      343,
+      369,
+      14
+    ],
+    "text": "(a) for the expression Public Trustee, wherever that",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      153,
+      360,
+      332,
+      14
+    ],
+    "text": "expression occurs in the principal enactment, other",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      155,
+      376,
+      330,
+      13
+    ],
+    "text": "than in sections 2, 9, 15(4), 48 and #8, of the expres-",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      153,
+      392,
+      312,
+      13
+    ],
+    "text": "sion Cornmissioner of Buddhist Affairs; and",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      116,
+      417,
+      370,
+      14
+    ],
+    "text": "{d) for the expression Registrar-Ganeral, wherever",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      154,
+      434,
+      332,
+      13
+    ],
+    "text": "that expression occurs in the principal enactment,",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      154,
+      450,
+      332,
+      15
+    ],
+    "text": "other than in section 2, of the expression Commis-",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      154,
+      466,
+      179,
+      12
+    ],
+    "text": "sioner of Buddhist Affaire \".",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      114,
+      495,
+      456,
+      14
+    ],
+    "text": "3. Section 2.of the principal enactment is hereby amend- Amendment",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      101,
+      510,
+      455,
+      13
+    ],
+    "text": "ed ag follows : of section",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      501,
+      521,
+      51,
+      20
+    ],
+    "text": "Toh the",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      117,
+      535,
+      446,
+      19
+    ],
+    "text": "(0) by the insertion, immediately after the definition of Enaciment.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      154,
+      556,
+      299,
+      15
+    ],
+    "text": "bhikiu, of the following new definition :",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      168,
+      573,
+      318,
+      12
+    ],
+    "text": "** Commissioner of Buddhist Aitairs means the",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      195,
+      589,
+      291,
+      15
+    ],
+    "text": "person for the time being holding the office at",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      195,
+      606,
+      292,
+      12
+    ],
+    "text": "the Commissioner of Buddhist Affairs and",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      194,
+      623,
+      273,
+      14
+    ],
+    "text": "includes any Deputy Commissioner; and",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118,
+      652,
+      369,
+      14
+    ],
+    "text": "() by_ the omission of the definition of Registrar",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      155,
+      669,
+      63,
+      11
+    ],
+    "text": "General \".",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115,
+      693,
+      456,
+      15
+    ],
+    "text": "4. Section 15 of the principal enactment is hereby Amendment",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      102,
+      705,
+      468,
+      20
+    ],
+    "text": "amended by the repeal of subsection (4) of that section and of eection 18",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      102,
+      726,
+      448,
+      13
+    ],
+    "text": "the substilution therefor of the following subsection : principal",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      501,
+      738,
+      60,
+      9
+    ],
+    "text": "Snactment,",
+    "mean_p_confidence": 0.04
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      142,
+      749,
+      343,
+      17
+    ],
+    "text": "(4) Proceedings may be taken under this section in",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      129,
+      765,
+      357,
+      19
+    ],
+    "text": "respeet of every alleged misfeasance, breach of trust or",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      129,
+      781,
+      356,
+      18
+    ],
+    "text": "neglect of duty by any trustee or Viharadhipathi",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      128,
+      798,
+      357,
+      18
+    ],
+    "text": "whether committed before or after the commencement",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      128,
+      813,
+      356,
+      18
+    ],
+    "text": "of this Ordinance and in respect of such proceedings,",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      129,
+      829,
+      355,
+      17
+    ],
+    "text": "the Commissioner of Buddhist Affates shall have all the",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      103,
+      857,
+      130,
+      10
+    ],
+    "text": "Lad SM aOT1 te (81 Mey",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      130,
+      32,
+      320,
+      14
+    ],
+    "text": "2 Buddhist Temporalities (Amendment)",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      265,
+      49,
+      122,
+      13
+    ],
+    "text": "Act, No, 42 of 1981",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      160,
+      82,
+      360,
+      15
+    ],
+    "text": "powers vested in the Public Trustee for the investiga-",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      160,
+      99,
+      360,
+      15
+    ],
+    "text": "tion of the conditions and accounts of trusta by the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      160,
+      116,
+      360,
+      13
+    ],
+    "text": "Public Trustee Ordinance, as amended from time to",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      160,
+      133,
+      44,
+      11
+    ],
+    "text": "time.",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      41,
+      155,
+      479,
+      31
+    ],
+    "text": "ransfer & (2) All rights, Liabilities and obligations of the Public",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      45,
+      174,
+      475,
+      28
+    ],
+    "text": "Bed Trustee and the Registear-General under the principal",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      45,
+      198,
+      476,
+      14
+    ],
+    "text": "a enactment immediately prior to the date of commencement",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      45,
+      211,
+      475,
+      17
+    ],
+    "text": "btigations, of this Act shall be deemed to be the rights, abilities and",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      134,
+      232,
+      341,
+      13
+    ],
+    "text": "cbligations of the Commissioner of Buddhist Affairs,",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      149,
+      256,
+      370,
+      14
+    ],
+    "text": "Q) Any act or proceeding commenced under the princi-",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      133,
+      272,
+      386,
+      15
+    ],
+    "text": "pal enactment by the Publle Truster or the Registrar",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      133,
+      288,
+      387,
+      15
+    ],
+    "text": "General and not completed before the commencement of",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      134,
+      305,
+      385,
+      14
+    ],
+    "text": "this Act may be continued and completed by the Commis-",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      134,
+      322,
+      169,
+      12
+    ],
+    "text": "sioner of Buddhist Affairs.",
+    "mean_p_confidence": 0.71
+  }
+]
