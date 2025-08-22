@@ -1,0 +1,442 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      138,
+      75,
+      350,
+      27
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      218,
+      125,
+      178,
+      20
+    ],
+    "text": "3rd Session 1958-59",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      301,
+      188,
+      35,
+      20
+    ],
+    "text": "Sey",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      283,
+      208,
+      73,
+      20
+    ],
+    "text": "fli",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      283,
+      222,
+      78,
+      19
+    ],
+    "text": "[SN",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      279,
+      235,
+      84,
+      16
+    ],
+    "text": "5 (teas",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      122,
+      344,
+      387,
+      32
+    ],
+    "text": "Income Tax (Amendment) Act,",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      219,
+      386,
+      194,
+      24
+    ],
+    "text": "No. 34 of 1958",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      219,
+      524,
+      291,
+      16
+    ],
+    "text": "Date of Assent : November 3, 1958 .",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      206,
+      636,
+      237,
+      39
+    ],
+    "text": "Printed on, te Orders of Government",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      152,
+      772,
+      355,
+      13
+    ],
+    "text": "Printed at the Govomnams Passe, Genioe, Tobe",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      152,
+      783,
+      355,
+      14
+    ],
+    "text": "Peete th de oR Somes Benels, Chtasns",
+    "mean_p_confidence": 0.07
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      153,
+      801,
+      354,
+      13
+    ],
+    "text": "Annual Sabseriptinn Cnclading Bila) Re 25, payable $0",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      151,
+      812,
+      357,
+      11
+    ],
+    "text": "Soon Seer ee actin eels",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      152,
+      819,
+      355,
+      16
+    ],
+    "text": "Se Baoan, Emule eae",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      164,
+      840,
+      332,
+      13
+    ],
+    "text": "Price: 10 cents. Postage: 10 cents.",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      37,
+      364,
+      16
+    ],
+    "text": "Income Tax (Amendment) Act, No. 34 of 1958 3",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      66,
+      101,
+      13
+    ],
+    "text": "L. D.0, 95/58.",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      86,
+      355,
+      14
+    ],
+    "text": "An Act ro amenD THE Income Tax ORDINANCE.",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      116,
+      114,
+      273,
+      17
+    ],
+    "text": "[Date of Assent: November 3, 1958]",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      142,
+      384,
+      17
+    ],
+    "text": "BE it enacted by the Queens Most Excellent Majesty,",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      158,
+      385,
+      18
+    ],
+    "text": "yy and with the advice and consent of the Senate and",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      174,
+      386,
+      17
+    ],
+    "text": "the Honse of Representatives of Ceylon in thia present",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57,
+      190,
+      389,
+      17
+    ],
+    "text": "Parliament assembled, and by the enthority of the",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      206,
+      142,
+      16
+    ],
+    "text": "seme, as follows :",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      234,
+      449,
+      17
+    ],
+    "text": "4. This Act may be cited as the Income Tax short tite.",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      251,
+      250,
+      18
+    ],
+    "text": "(Amendment) Act, No. 34 of 1858.",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      282,
+      465,
+      17
+    ],
+    "text": "2 Section 7 of the Income Tax Ordinance is hereby Amendimeat of",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      296,
+      470,
+      21
+    ],
+    "text": "amended, in sub-section (i) of that section, by the se 7,2f",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      303,
+      385,
+      41
+    ],
+    "text": "insertion, immediately atter pacagraph (/f) of that",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      316,
+      385,
+      37
+    ],
+    "text": "weotion as amended by Act Re. 8 of 1957, of the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      347,
+      204,
+      17
+    ],
+    "text": "following new paragraph :",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      371,
+      356,
+      17
+    ],
+    "text": "(fff) the profite and income derived by the",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      155,
+      388,
+      289,
+      16
+    ],
+    "text": "Government of any foreign country,",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      154,
+      403,
+      291,
+      17
+    ],
+    "text": "either directly or through any agency of",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      155,
+      408,
+      290,
+      28
+    ],
+    "text": "that Government, from aid grented in",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      154,
+      436,
+      291,
+      17
+    ],
+    "text": "money, goods, services or in any other",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      155,
+      452,
+      290,
+      17
+    ],
+    "text": "form by that Government to the",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      154,
+      468,
+      182,
+      16
+    ],
+    "text": "Government of Ceylon;.",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      114,
+      577,
+      365,
+      23
+    ],
+    "text": "i i",
+    "mean_p_confidence": 0.41
+  }
+]

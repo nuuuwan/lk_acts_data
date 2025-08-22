@@ -1,0 +1,574 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      82,
+      6,
+      395,
+      24
+    ],
+    "text": "| PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      194,
+      38,
+      364,
+      60
+    ],
+    "text": "2nd Session 1957-58 es",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      504,
+      79,
+      70,
+      24
+    ],
+    "text": "te",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      291,
+      121,
+      30,
+      31
+    ],
+    "text": "ap",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      263,
+      150,
+      79,
+      21
+    ],
+    "text": "fly,",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      255,
+      164,
+      93,
+      39
+    ],
+    "text": "ess",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      256,
+      181,
+      76,
+      42
+    ],
+    "text": "EC mee)",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      84,
+      297,
+      432,
+      33
+    ],
+    "text": "Suspension of Capital Punishment",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      163,
+      337,
+      268,
+      28
+    ],
+    "text": "Act, No. 20 of 1958",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      208,
+      476,
+      189,
+      14
+    ],
+    "text": "Date of Assent: May 9, 1958",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      170,
+      610,
+      269,
+      18
+    ],
+    "text": "Printed on the Orders of Government",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      123,
+      745,
+      368,
+      16
+    ],
+    "text": "Printed at the Govenenines _Pruss, Geuiox. To be",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      123,
+      757,
+      369,
+      17
+    ],
+    "text": "Print 4 Ate GoM irene Bunead, Covonise",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      123,
+      772,
+      369,
+      15
+    ],
+    "text": "Renurl Subscription (including ili) Re, 2 peyeble in",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      124,
+      783,
+      368,
+      14
+    ],
+    "text": "Annual, Subeetign (imeridies, Planter Pbatieurion",
+    "mean_p_confidence": 0.05
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      124,
+      793,
+      367,
+      16
+    ],
+    "text": "Bae eal One \"Bo ho, Becta, Colombo",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      125,
+      813,
+      372,
+      16
+    ],
+    "text": "Price: 10 cents Postage: 10 cents:",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      144,
+      58,
+      390,
+      17
+    ],
+    "text": "Suspension of Capital Punishment Act, 3 :",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      231,
+      74,
+      99,
+      14
+    ],
+    "text": "No. 20 of 1958",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      99,
+      119,
+      23
+    ],
+    "text": "4 Sy, DO. 19/88.",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      97,
+      123,
+      364,
+      18
+    ],
+    "text": "iy Act 10 SUSPEND THE TMEOSITION OF CAPITAL",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      140,
+      371,
+      11
+    ],
+    "text": "CP\" pumismmenr FOR MURDER AND TRE ABETMENT OF",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      126,
+      155,
+      335,
+      11
+    ],
+    "text": "SUICIDE AND TO PRESCRIBE OTHER PUNISHMENT FOK",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      125,
+      171,
+      113,
+      10
+    ],
+    "text": "THOSE OFFENCES.",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98,
+      193,
+      288,
+      20
+    ],
+    "text": ": (Date of Ascent: May 9, 1958]",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98,
+      220,
+      361,
+      17
+    ],
+    "text": "BE it enacted by the Queens Most Excellent Majesty,",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      116,
+      235,
+      343,
+      14
+    ],
+    "text": "and with the advice and consent of the Senate and",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      97,
+      240,
+      363,
+      26
+    ],
+    "text": "By House of Representatives of Ceylon in this pre-",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      97,
+      265,
+      363,
+      16
+    ],
+    "text": "gent Parliament assembled, and by the authority of",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      97,
+      281,
+      160,
+      18
+    ],
+    "text": "ihe same, as follows:-",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      110,
+      310,
+      415,
+      16
+    ],
+    "text": "4. This Act may be cited as tha Suspension of short tite",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96,
+      326,
+      280,
+      16
+    ],
+    "text": "Kapital Ponishment Act, No. 20 of 1958.",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      109,
+      356,
+      418,
+      16
+    ],
+    "text": "2 During the continuance in force of this Act suapeasis",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      475,
+      371,
+      43,
+      8
+    ],
+    "text": "steppiat",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      124,
+      372,
+      405,
+      34
+    ],
+    "text": "() capital punishment, shall not be imuosed imine",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      169,
+      392,
+      369,
+      18
+    ],
+    "text": "under section 296 of the Penal Code for [mest",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      170,
+      410,
+      368,
+      12
+    ],
+    "text": "the commission of murder and under Stuicde and",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      169,
+      423,
+      366,
+      18
+    ],
+    "text": "section 269 of the Penai Code for the pyiieest",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      169,
+      440,
+      370,
+      22
+    ],
+    "text": "abetment of suicide, and omens",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      123,
+      463,
+      419,
+      15
+    ],
+    "text": "(8) section 296 and section 290 of the Penal Code show tenes,",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      169,
+      478,
+      290,
+      15
+    ],
+    "text": "sheii have effect as if, for the word",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      170,
+      493,
+      289,
+      17
+    ],
+    "text": "death. oceurring in each of those",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      168,
+      509,
+      291,
+      15
+    ],
+    "text": "sections, there were substituted the words",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      170,
+      524,
+      252,
+      17
+    ],
+    "text": "rigorous imprisonment for life..",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      107,
+      555,
+      409,
+      15
+    ],
+    "text": "3. This Act shall continue in force for three years Decatiow",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93,
+      571,
+      409,
+      16
+    ],
+    "text": "and shall then expire: at et",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      107,
+      593,
+      352,
+      16
+    ],
+    "text": "Provided, however, that if the Senate and the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      94,
+      609,
+      417,
+      16
+    ],
+    "text": "House of Representatives by resolution so declare, this i",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      94,
+      624,
+      363,
+      16
+    ],
+    "text": "Act shall continue in force for such further period",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92,
+      640,
+      262,
+      16
+    ],
+    "text": "48 may he specified in such resolution.",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      106,
+      701,
+      402,
+      17
+    ],
+    "text": ", i i",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96,
+      854,
+      109,
+      9
+    ],
+    "text": "4X waer-a78 818",
+    "mean_p_confidence": 0.19
+  }
+]

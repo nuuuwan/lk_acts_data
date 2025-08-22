@@ -1,0 +1,717 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      84,
+      15,
+      370,
+      26
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      472,
+      50,
+      100,
+      22
+    ],
+    "text": "EQUE Sem",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      178,
+      63,
+      402,
+      27
+    ],
+    "text": "2nd Session 1957 Sy a",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      456,
+      81,
+      126,
+      30
+    ],
+    "text": "Pe rciany NA",
+    "mean_p_confidence": -0.0
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      273,
+      114,
+      310,
+      15
+    ],
+    "text": "Fe (i ac ee",
+    "mean_p_confidence": 0.08
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      266,
+      124,
+      320,
+      21
+    ],
+    "text": "Pas eB eg",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      255,
+      127,
+      329,
+      33
+    ],
+    "text": "Er 3) By",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      64,
+      148,
+      510,
+      24
+    ],
+    "text": "g : Pisin e cy",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      228,
+      151,
+      364,
+      50
+    ],
+    "text": "Kicer\\ SS 7 :",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      227,
+      181,
+      91,
+      49
+    ],
+    "text": "Say",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      299,
+      214,
+      293,
+      11
+    ],
+    "text": "S4 . . 1",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      159,
+      231,
+      433,
+      22
+    ],
+    "text": ";",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      38,
+      293,
+      314,
+      17
+    ],
+    "text": "hy. .",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      38,
+      301,
+      459,
+      35
+    ],
+    "text": "Director of Food Production (Change",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      91,
+      338,
+      344,
+      32
+    ],
+    "text": "of Designation) Act, No. 54",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      215,
+      375,
+      93,
+      23
+    ],
+    "text": "of 1957",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      54,
+      433,
+      538,
+      15
+    ],
+    "text": "N H",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      57,
+      451,
+      10,
+      11
+    ],
+    "text": ">",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      590,
+      461,
+      2,
+      34
+    ],
+    "text": "|",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      29,
+      499,
+      352,
+      51
+    ],
+    "text": "| Date of Assent: December 20, 1957",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      29,
+      543,
+      234,
+      23
+    ],
+    "text": "| .",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      131,
+      625,
+      461,
+      21
+    ],
+    "text": "Printed on the Onders of Government ;",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      87,
+      753,
+      352,
+      12
+    ],
+    "text": "Printed st the Govmmanr Puss, Coton. Toe",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86,
+      767,
+      353,
+      11
+    ],
+    "text": "urchaved tthe Govanncter runewitos Busses, Covonae",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86,
+      783,
+      352,
+      13
+    ],
+    "text": "fnmal Subseripion Geeludiog ils) R25, peyable in",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      87,
+      797,
+      351,
+      11
+    ],
+    "text": "Avance Wo the Sursanmerome, Corman Poecenon",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      29,
+      794,
+      408,
+      34
+    ],
+    "text": "| Bowne, Bort Ores \"Bertin, Goconiah Coes",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      29,
+      829,
+      428,
+      18
+    ],
+    "text": "| Price: 10 cents Postage: 10 cents",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      128,
+      28,
+      338,
+      19
+    ],
+    "text": "Director of Pood Production (Change of &",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      155,
+      47,
+      238,
+      16
+    ],
+    "text": "Designation) Act, No. 54 of 1957",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96,
+      75,
+      104,
+      14
+    ],
+    "text": "L. DO. 57/87.",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      99,
+      384,
+      13
+    ],
+    "text": "AN ACT 70 CHANGE THZ DESIGNATIONS OF THE DIRECTOR",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99,
+      115,
+      367,
+      14
+    ],
+    "text": "oF Foon Pronuction anp Tae Assistant DinzcToRS",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99,
+      133,
+      154,
+      12
+    ],
+    "text": "9 Foon PRopucrion.",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140,
+      156,
+      268,
+      17
+    ],
+    "text": "[Date of Assent: December 20, 1957]",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      180,
+      382,
+      17
+    ],
+    "text": "BE it enacted by the Queen's Most Excellent Majesty,",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      196,
+      383,
+      14
+    ],
+    "text": "by and with the advice and consent of the Senate and",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      197,
+      386,
+      39
+    ],
+    "text": "ihe House of Representatives of Ceylon in this",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      228,
+      382,
+      18
+    ],
+    "text": "present Parliament assembled, and by the authority",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      245,
+      196,
+      15
+    ],
+    "text": "of the same, ae follows:",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      100,
+      277,
+      440,
+      17
+    ],
+    "text": "4, This Act may be cited as the Director of Food tort sive,",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      293,
+      381,
+      17
+    ],
+    "text": "Production (Change of Designation) Act, No. 54 of",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      309,
+      35,
+      13
+    ],
+    "text": "1987,",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      100,
+      337,
+      461,
+      20
+    ],
+    "text": "2, The Director of Food Production and each of Chanze ot the",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      351,
+      475,
+      20
+    ],
+    "text": "the Assistant Directors of Food Production shall be ite Since a",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      370,
+      478,
+      19
+    ],
+    "text": "known and cited for all purposes by the designation Fast roauaton",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      383,
+      451,
+      19
+    ],
+    "text": "*\" Commissioner of Agrarian Services and the vistas.",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      401,
+      381,
+      19
+    ],
+    "text": "designation * Assistant. Commissioner of Agrarian",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      417,
+      380,
+      17
+    ],
+    "text": "Services, respectively; and, accordingly, in every",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      422,
+      381,
+      25
+    ],
+    "text": "context in'which tho Direotor of Food Prodagtion or",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      449,
+      379,
+      14
+    ],
+    "text": "an Assistant Director of Food Production is men-",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      465,
+      380,
+      17
+    ],
+    "text": "tioned (whether by that designation in full or by the",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      481,
+      380,
+      16
+    ],
+    "text": "abbreviated designation of Director or Assistant",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      497,
+      378,
+      28
+    ],
+    "text": "Diveotor) in any written law, or in any notioe,",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      513,
+      380,
+      15
+    ],
+    "text": "communication, form, or other document, required or",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      517,
+      379,
+      27
+    ],
+    "text": "authorised by any written law, there ball be sub.",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      544,
+      379,
+      15
+    ],
+    "text": "stituted, for the words Director of Food Produc-",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      560,
+      379,
+      14
+    ],
+    "text": "tion or Director or the words \" Assistant",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      576,
+      379,
+      18
+    ],
+    "text": "Director of Food Production or Assistant",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      591,
+      379,
+      19
+    ],
+    "text": "Director, the words Commissioner of Agrarian",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      607,
+      379,
+      19
+    ],
+    "text": "Services or Assistant Commissioner of Agrarian",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      622,
+      221,
+      18
+    ],
+    "text": "Services, as the case may be.",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      101,
+      658,
+      443,
+      17
+    ],
+    "text": "8 This Act shall be deemed to have come into Retromcive",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      673,
+      439,
+      20
+    ],
+    "text": "force on October 1, 1987. fect ot",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      112,
+      854,
+      112,
+      9
+    ],
+    "text": "2. RNS OND",
+    "mean_p_confidence": 0.17
+  }
+]

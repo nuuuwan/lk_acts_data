@@ -1,0 +1,882 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      113,
+      27,
+      376,
+      25
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      214,
+      66,
+      172,
+      18
+    ],
+    "text": "2nd Session 1957",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      394,
+      87,
+      103,
+      18
+    ],
+    "text": "SE eS,",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      401,
+      102,
+      82,
+      9
+    ],
+    "text": "5",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      378,
+      111,
+      29,
+      12
+    ],
+    "text": "BS rn",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      262,
+      196,
+      223,
+      45
+    ],
+    "text": "Gey \\ S",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      260,
+      211,
+      94,
+      50
+    ],
+    "text": "Coes)",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      267,
+      244,
+      84,
+      14
+    ],
+    "text": "3 'S",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      89,
+      323,
+      418,
+      27
+    ],
+    "text": "Overseas Telecommunication Act,",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      196,
+      363,
+      202,
+      22
+    ],
+    "text": "No. 61 of 1957",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      184,
+      500,
+      234,
+      14
+    ],
+    "text": "Date of Assent: December 21, 1957",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      175,
+      620,
+      250,
+      14
+    ],
+    "text": "Printed on the Orders of Government",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      120,
+      771,
+      359,
+      13
+    ],
+    "text": "Printed at ihe Government Press, Cxyon. To be purchased",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      121,
+      782,
+      358,
+      17
+    ],
+    "text": "TONGS M detect Boacteatons Bima? Masetares",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      120,
+      797,
+      359,
+      24
+    ],
+    "text": "Sra BR et nln, Rows aerate",
+    "mean_p_confidence": 0.05
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      120,
+      819,
+      358,
+      14
+    ],
+    "text": "Boneav, Post Orrice Box 500, Secreteriat, Colombo 2",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      119,
+      835,
+      360,
+      16
+    ],
+    "text": "Postage: 10 conts, Postage: 20 cents.",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      16,
+      366,
+      19
+    ],
+    "text": "Overseas Telecommunication Act, No. 61 uf 1957 3",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      50,
+      99,
+      13
+    ],
+    "text": "Ti, D0, 47/88.",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      74,
+      381,
+      13
+    ],
+    "text": "AX Act 10 VALIDATE THE PURCHASE MADE DY THE",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      91,
+      349,
+      13
+    ],
+    "text": "Government oF CEYLON OF PROPERTY BELONGING",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      106,
+      350,
+      15
+    ],
+    "text": "TO THE COMPANY KNOWN AS CABLE AND WIRELESS",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      125,
+      349,
+      13
+    ],
+    "text": "Listurep; 10 BAKE CERTAIN PROVISIONS REGARDING",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      140,
+      358,
+      14
+    ],
+    "text": "EMPLOYEES OF THAT COMPANY WHO WERE APPOINTED",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      157,
+      350,
+      14
+    ],
+    "text": "To THE STAFF oF THe Overseas TRLECOMMUNT-",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      174,
+      349,
+      14
+    ],
+    "text": "cation SERVICE OF THE Posts AND TELECOMMUNI-",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92,
+      190,
+      378,
+      15
+    ],
+    "text": "camion Departwzwr; to agTHORIsE tue Hicw -",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92,
+      207,
+      349,
+      14
+    ],
+    "text": "Comansstonge of Cevion in rar Unrren Kinc-",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93,
+      224,
+      349,
+      16
+    ],
+    "text": "DOM TO EXECUTE, ON BBITALE uF TRE GOVERNMENT",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93,
+      241,
+      348,
+      15
+    ],
+    "text": "OF CEYLON, ANY AGREEMENT THAT THE GOVERN:",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      259,
+      358,
+      13
+    ],
+    "text": "MENT OF CEYLON MAY HAVE TU ENTEN INTO WITH",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92,
+      274,
+      350,
+      14
+    ],
+    "text": "rae ComMONWEALTH TerEcomMUNICATIONS BOARD",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93,
+      290,
+      349,
+      13
+    ],
+    "text": "IN PURSUANCE oF THE ComnoxWRALTH TELE-",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93,
+      306,
+      349,
+      15
+    ],
+    "text": "GRarHs AGREEMENT DATED May iL, 1948; AND TO",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      94,
+      322,
+      427,
+      14
+    ],
+    "text": "PROVIDE FOR THE PAYMENT WUT OF THE CoNSOLI- .",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      94,
+      339,
+      348,
+      13
+    ],
+    "text": "DATED UND OF CEYLON OF ALL SUCH BUMS AS MAY",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      95,
+      357,
+      347,
+      12
+    ],
+    "text": "AB REQUIRED BY SUCH AGREEMENT TO BE PAID BY",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      94,
+      371,
+      209,
+      13
+    ],
+    "text": "THE GOVERNMENT OF CEYLON.",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      123,
+      402,
+      370,
+      18
+    ],
+    "text": "(Date of Asseut: December 21, 1957]",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      430,
+      378,
+      17
+    ],
+    "text": "BE it enacted by the Queen's Most Excellent Majesty,",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      443,
+      383,
+      37
+    ],
+    "text": "by anal with the advice and consent of the Senate and",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      462,
+      354,
+      17
+    ],
+    "text": "House of Representatives of Coylon in this present",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64,
+      477,
+      378,
+      17
+    ],
+    "text": "Parliament assembled, and by the authority of the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64,
+      495,
+      141,
+      15
+    ],
+    "text": "same, as followa:",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      521,
+      435,
+      17
+    ],
+    "text": "4, This Act may be cited as Ule Overseas Tele- Store ute.",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64,
+      537,
+      277,
+      18
+    ],
+    "text": "coutmunication Act, No. OL of 1957.",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      565,
+      449,
+      16
+    ],
+    "text": "2 All the movable and immovable property in yaistaioa of",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      48,
+      565,
+      479,
+      36
+    ],
+    "text": "~ Ceylon purchased by the Government of Certo Yeom MN",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      48,
+      597,
+      472,
+      17
+    ],
+    "text": "i th company knowa as Cable and Wireless Limited Soreness",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      610,
+      460,
+      32
+    ],
+    "text": "(aaueaftar inthis Act referred to as the Compeay *\") of Corin ot",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      613,
+      449,
+      37
+    ],
+    "text": "shall be deemed to have been validly transferred to, and Gable ead",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      48,
+      643,
+      457,
+      19
+    ],
+    "text": "_ become the property of, the Crown free from all encum- Sitsitt",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      660,
+      440,
+      18
+    ],
+    "text": "brances, notwithstanding any dofect in any instrument .",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      677,
+      263,
+      17
+    ],
+    "text": "by which such purchase was effected.",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      709,
+      461,
+      17
+    ],
+    "text": "3, Where the Company agrees to transfer to the Psymeut to thr",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      723,
+      478,
+      21
+    ],
+    "text": "Government of Ceylon any som lying in a pension or Seaisel",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      48,
+      742,
+      485,
+      17
+    ],
+    "text": ", superonnuation fund of the Company to the credit ot ss lying",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      757,
+      470,
+      21
+    ],
+    "text": "of any member of the staff of the Overseas Telecom. /5,2vneuton",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      776,
+      475,
+      21
+    ],
+    "text": "munication Service of the Posts and Telecommuni- sh! of Me",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      790,
+      449,
+      21
+    ],
+    "text": "cation Department who was an employee of the Cam- emis \"scr",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      808,
+      466,
+      21
+    ],
+    "text": "pany on May 31, 1951, that sum shall be paid to the {\",lcealug",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      48,
+      827,
+      494,
+      19
+    ],
+    "text": "' Deputy Secretary to the Treasury to he credited to the st the Ovesseoe",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      842,
+      469,
+      20
+    ],
+    "text": "Consolidated Fund of Ceylon. : eee gerne.",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      48,
+      851,
+      151,
+      26
+    ],
+    "text": "; Cumnmunencey",
+    "mean_p_confidence": -0.0
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      179,
+      27,
+      366,
+      19
+    ],
+    "text": "4 Oversees Telecommunication tot, No. ot of 1967",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83,
+      55,
+      478,
+      21
+    ],
+    "text": "Tioment oa of 4, Al sums required to be paid by the Government",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      82,
+      71,
+      479,
+      20
+    ],
+    "text": "ue\"Conehausd yf Ceylon by any agroment that may be entered into",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      82,
+      83,
+      478,
+      20
+    ],
+    "text": "Capaeof some by the Government of Ceyion with the Commonwealth",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83,
+      103,
+      477,
+      17
+    ],
+    "text": "terble'byTelecommunications Boatd in pursuance of the Com-",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      81,
+      115,
+      479,
+      22
+    ],
+    "text": "a Gyles monwealth Talographs Agreement dated May 11, 1948,",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      82,
+      135,
+      469,
+      20
+    ],
+    "text": "wader agreaneut shall be paid out of the Consolidated Fund of Ceylon.",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77,
+      152,
+      206,
+      33
+    ],
+    "text": "Suaiatiace vet",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      78,
+      164,
+      166,
+      32
+    ],
+    "text": "Berk :",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83,
+      195,
+      477,
+      17
+    ],
+    "text": "Autor for ~ +B. he High Commissioner of Ceylon in the United",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83,
+      195,
+      477,
+      50
+    ],
+    "text": "ihe Mah Com Cingdom is Pareby authorised to execute, goths in",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83,
+      226,
+      476,
+      18
+    ],
+    "text": "Gerierin we the name and on behalf of the Government of Coylon,",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83,
+      238,
+      477,
+      22
+    ],
+    "text": "Rhgim to BAY agreement that the Government of Ceylon may",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83,
+      252,
+      477,
+      25
+    ],
+    "text": "execute have to enter into with the Commonwealth Telecom-",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83,
+      271,
+      476,
+      20
+    ],
+    "text": "seul munications Board in pursuance of the Commonwealth",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      178,
+      289,
+      302,
+      19
+    ],
+    "text": "Telegraphs Agreement dated May 11, 1948.",
+    "mean_p_confidence": 0.73
+  }
+]

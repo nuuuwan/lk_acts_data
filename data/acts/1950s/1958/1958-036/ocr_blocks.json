@@ -1,0 +1,662 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      120,
+      78,
+      351,
+      22
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      204,
+      119,
+      184,
+      17
+    ],
+    "text": "3rd Session 1958-59",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      284,
+      189,
+      35,
+      22
+    ],
+    "text": "ey",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      263,
+      211,
+      66,
+      24
+    ],
+    "text": "Prssitny",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      258,
+      232,
+      86,
+      21
+    ],
+    "text": "eae",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      103,
+      353,
+      385,
+      29
+    ],
+    "text": "Income Tax (Amendment) Act,",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      200,
+      395,
+      192,
+      21
+    ],
+    "text": "No. 36 of 1958",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      198,
+      532,
+      207,
+      13
+    ],
+    "text": "Date of Assent : November 3, 1953",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      184,
+      662,
+      236,
+      13
+    ],
+    "text": "Printed on the Orders of Government",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      127,
+      795,
+      353,
+      22
+    ],
+    "text": "Path oS ti A, Rind",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      123,
+      815,
+      362,
+      30
+    ],
+    "text": "Aouad Subseriptlon Gocuaing Bul) Be payable in",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      126,
+      830,
+      353,
+      22
+    ],
+    "text": "BREE Bet naE ERT, Lacan, Cdombo",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      128,
+      855,
+      353,
+      13
+    ],
+    "text": "Price: 10 cents. Postage: 10 cents.",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      101,
+      30,
+      350,
+      37
+    ],
+    "text": "fone Tax (Amendment) Act, No. $6 of 1958 8",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      116,
+      67,
+      72,
+      13
+    ],
+    "text": "sO. 36/58.",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      97,
+      70,
+      336,
+      47
+    ],
+    "text": "Pact TO AMEND THE Income Tax ORDINANCE.",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99,
+      110,
+      295,
+      30
+    ],
+    "text": ": [Date of Assent: November 8, 1958]",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96,
+      133,
+      353,
+      19
+    ],
+    "text": "git enacted by the Queens Most Excellent Majesty,",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99,
+      149,
+      351,
+      18
+    ],
+    "text": "jod with the advice and consent of the Senate and",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      101,
+      165,
+      349,
+      19
+    ],
+    "text": "*House of Representatives of Ceylon in this",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      116,
+      181,
+      334,
+      16
+    ],
+    "text": "| Parliament assembled, and hy the authority",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98,
+      197,
+      161,
+      16
+    ],
+    "text": "ibe same, a3 follows :",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96,
+      213,
+      427,
+      40
+    ],
+    "text": "(i This Act may be cited as the Income Tax stot die.",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      94,
+      236,
+      223,
+      17
+    ],
+    "text": "lsendinent) Act, No. 86 of 1958.",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      95,
+      260,
+      429,
+      20
+    ],
+    "text": "1; The following new section is hereby inserted Torertion ot",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      116,
+      277,
+      425,
+      22
+    ],
+    "text": "liately after section 69 of the Income Tax S*oseian fet",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      101,
+      296,
+      348,
+      13
+    ],
+    "text": "nance and shall have effect as section 69a of that",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      101,
+      313,
+      65,
+      11
+    ],
+    "text": "linanve :",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      102,
+      330,
+      346,
+      19
+    ],
+    "text": "wi tte 60a. (1) The Commissioner may",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      348,
+      357,
+      17
+    ],
+    "text": "fae autborise any number of persons, besides",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      362,
+      355,
+      23
+    ],
+    "text": "gic Assistant Commissioners, to hear and",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      379,
+      356,
+      17
+    ],
+    "text": "ESeinen, determine appeals made to the Commis-",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      395,
+      239,
+      21
+    ],
+    "text": "aco! sioner under section 69.",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      417,
+      19,
+      7
+    ],
+    "text": "ir",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      179,
+      429,
+      268,
+      17
+    ],
+    "text": "(2) Every person authorised by the",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      163,
+      445,
+      284,
+      28
+    ],
+    "text": "Commissioner under sub-section (1) is",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      163,
+      461,
+      283,
+      13
+    ],
+    "text": "hereinafter referred to as an ' anthoris-",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      162,
+      477,
+      103,
+      16
+    ],
+    "text": "ed adjudicator .",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      179,
+      497,
+      266,
+      16
+    ],
+    "text": "(3) Each authorised adjudicator shall",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      162,
+      513,
+      284,
+      16
+    ],
+    "text": "hear and determine such appeals under",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      162,
+      517,
+      284,
+      28
+    ],
+    "text": "section 89.29 may be assigned to him by",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      162,
+      545,
+      126,
+      13
+    ],
+    "text": "the Commissioner.",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      179,
+      565,
+      266,
+      28
+    ],
+    "text": "(2) Where there ia or ane any",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      161,
+      581,
+      275,
+      17
+    ],
+    "text": "authorised adjudicator or authorise",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      161,
+      594,
+      283,
+      20
+    ],
+    "text": "adjudicators, sub-sections (3), (4), (5)",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      161,
+      613,
+      283,
+      29
+    ],
+    "text": "and (6) of section 69, sentions 71 And 72,",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      160,
+      629,
+      284,
+      17
+    ],
+    "text": "and sub-sections (4) and (8) of section 78,",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      160,
+      645,
+      284,
+      14
+    ],
+    "text": "shall have effect as if for the word",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      161,
+      662,
+      283,
+      13
+    ],
+    "text": "* Commissioner , wherever it oocurs in",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      160,
+      678,
+      284,
+      29
+    ],
+    "text": "those sub-sections ar section, thefe were",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      159,
+      694,
+      285,
+      13
+    ],
+    "text": "substituted the words Commissioner",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      159,
+      710,
+      284,
+      20
+    ],
+    "text": "or authorised adjudicator\". and sub-",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      159,
+      727,
+      285,
+      16
+    ],
+    "text": "section (8) of sectien 71 shall have effect",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      159,
+      743,
+      263,
+      13
+    ],
+    "text": "as if for the word. Commissioner's ,",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      159,
+      759,
+      284,
+      14
+    ],
+    "text": "there were substituted the words",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      160,
+      775,
+      283,
+      16
+    ],
+    "text": "Commissioner's or authorised adjudi-",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      158,
+      792,
+      67,
+      13
+    ],
+    "text": "oators **.",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      175,
+      812,
+      268,
+      17
+    ],
+    "text": "(8) Every authorised adjudicator shall",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      158,
+      828,
+      285,
+      17
+    ],
+    "text": "be paid such remuneration as may be",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      158,
+      844,
+      212,
+      17
+    ],
+    "text": "determined by the Minister.",
+    "mean_p_confidence": 0.57
+  }
+]

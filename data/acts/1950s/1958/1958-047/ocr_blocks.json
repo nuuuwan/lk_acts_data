@@ -1,0 +1,816 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      334,
+      92,
+      4,
+      8
+    ],
+    "text": "1",
+    "mean_p_confidence": 0.08
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      110,
+      109,
+      409,
+      50
+    ],
+    "text": "PARLIAMENT OF CEYLON &",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      190,
+      148,
+      342,
+      26
+    ],
+    "text": "3rd Session 1958-59 amet",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      227,
+      309,
+      102,
+      30
+    ],
+    "text": "Ey",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83,
+      375,
+      387,
+      28
+    ],
+    "text": "Ceylon Post Office Savings Bank",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      123,
+      411,
+      309,
+      27
+    ],
+    "text": "(Amendment) Act, No. 47",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      229,
+      447,
+      89,
+      20
+    ],
+    "text": "of 1958",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      177,
+      563,
+      202,
+      12
+    ],
+    "text": "Date of Assent ; December 31, 1958",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      165,
+      648,
+      227,
+      41
+    ],
+    "text": "Printed on the orders of froverament",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      317,
+      745,
+      2,
+      8
+    ],
+    "text": ":",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      110,
+      767,
+      332,
+      20
+    ],
+    "text": "Femittea \"tebe\" comune? Suecicnriee Bunn, Covons",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      110,
+      790,
+      332,
+      10
+    ],
+    "text": "aneatSubrepion cdg Bile) B25, payee ih",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      110,
+      800,
+      332,
+      20
+    ],
+    "text": "Boneac, Boat\" Genter \"Bor \"aby, \"Secretarink Colona",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      109,
+      827,
+      332,
+      12
+    ],
+    "text": "Price: 18 cents Postage: 10 sent",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      14,
+      304,
+      9
+    ],
+    "text": ": . a",
+    "mean_p_confidence": 0.08
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      94,
+      34,
+      345,
+      20
+    ],
+    "text": "Ceylon Post Office Savings Bank (Amendment)",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      196,
+      53,
+      138,
+      14
+    ],
+    "text": "Act, No. 47 of 1968",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      80,
+      104,
+      13
+    ],
+    "text": "L. D0, 23/58.",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      105,
+      390,
+      16
+    ],
+    "text": "Ax Act To aMann tax CeYton Post Orrice Savincs",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139,
+      123,
+      248,
+      15
+    ],
+    "text": "Bang Orpmance, No. 18 or 1941.",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      128,
+      147,
+      270,
+      19
+    ],
+    "text": "(Date of Assent: December 31, 1958.)",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      172,
+      387,
+      18
+    ],
+    "text": "BE it enacted by the Queens Most Excellent Majesty,",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      189,
+      389,
+      18
+    ],
+    "text": "by and with the advice and consent of the Senate and",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      206,
+      388,
+      18
+    ],
+    "text": "the House of Representatives of Ceylon in this present",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      223,
+      388,
+      16
+    ],
+    "text": "Parliament assembled, and by the authority of the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      241,
+      143,
+      15
+    ],
+    "text": "same, as follows:",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      275,
+      442,
+      18
+    ],
+    "text": "1, This Act may be cited as the Ceylon Post Office spor uve.",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      292,
+      345,
+      18
+    ],
+    "text": "Savings Bank (Amendment) Act, No. 47 of 1958.",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      328,
+      457,
+      20
+    ],
+    "text": "2, Section 10 of the Ceylon Post Office Savings Amtudmest ot",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      345,
+      453,
+      15
+    ],
+    "text": "Bank Ordinance, No. 18 of 1841, hereinafter referred Griincoee",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      361,
+      474,
+      18
+    ],
+    "text": "to as the * principal enactment, is hereby amended Ne Sat 1841",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      379,
+      96,
+      13
+    ],
+    "text": "as follows:",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98,
+      408,
+      353,
+      16
+    ],
+    "text": "(a) by the renumbering of that section as sub-",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      145,
+      425,
+      212,
+      16
+    ],
+    "text": "section (1) of section 10; and.",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      97,
+      452,
+      353,
+      17
+    ],
+    "text": "(0) by the addition, at the end of that section, of",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      144,
+      469,
+      210,
+      17
+    ],
+    "text": "the following sub-eections:",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      178,
+      497,
+      271,
+      18
+    ],
+    "text": "*' @) The Trustees shall be a body",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      160,
+      515,
+      288,
+      17
+    ],
+    "text": "corporate with the nama Trustees of",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      160,
+      533,
+      287,
+      16
+    ],
+    "text": "the Ceylon Post Office Savings Bank",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      160,
+      549,
+      287,
+      17
+    ],
+    "text": "and shall have perpetual succession and",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      160,
+      566,
+      287,
+      20
+    ],
+    "text": "may sue and be sued in suh name and",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      155,
+      576,
+      292,
+      41
+    ],
+    "text": "may adopt, alter, and usela corporate",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      159,
+      596,
+      265,
+      33
+    ],
+    "text": "seal which shall be Jadicially noticed.",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      175,
+      625,
+      269,
+      17
+    ],
+    "text": "{8) The Trustees may acquire, hold,",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      158,
+      642,
+      287,
+      17
+    ],
+    "text": "take or give on lease or hire any",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      158,
+      659,
+      287,
+      17
+    ],
+    "text": "immovable or movable prpperty, and",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      158,
+      676,
+      286,
+      17
+    ],
+    "text": "mortgage, pledge or sell $r otherwise",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157,
+      693,
+      287,
+      17
+    ],
+    "text": "dispose of any property of the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      153,
+      704,
+      202,
+      30
+    ],
+    "text": "Trastees.. |",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      744,
+      499,
+      20
+    ],
+    "text": "8, Section 11 of the principal enactment ia hereby ameniaset at",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      763,
+      444,
+      18
+    ],
+    "text": "amended as follows: seetion 11",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119,
+      783,
+      380,
+      13
+    ],
+    "text": "A . 5 principal",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92,
+      793,
+      417,
+      16
+    ],
+    "text": "(2) in sub-section (5) of that section, by the sub. semen.",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      138,
+      810,
+      438,
+      18
+    ],
+    "text": "stitution, for the words joint names of H",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      138,
+      827,
+      302,
+      17
+    ],
+    "text": "the Trustees:, of the words ' corporate",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      138,
+      842,
+      438,
+      18
+    ],
+    "text": "name of the Trustees: ; and U",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      852,
+      507,
+      25
+    ],
+    "text": "2. Beneas-25ue 10ice) oo",
+    "mean_p_confidence": 0.05
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      59,
+      17,
+      356,
+      14
+    ],
+    "text": "' : t",
+    "mean_p_confidence": 0.01
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      121,
+      36,
+      362,
+      17
+    ],
+    "text": "2 Ceylon Post Office Savings Bank (Amendment)",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      151,
+      34,
+      228,
+      40
+    ],
+    "text": "ov + Gh of 1058",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      152,
+      80,
+      370,
+      19
+    ],
+    "text": "(0) in sub-section (7) of thas section, by the sub.",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      198,
+      97,
+      308,
+      18
+    ],
+    "text": "stitation, in paragraph (a) of thet. sab.",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      198,
+      114,
+      321,
+      29
+    ],
+    "text": "section, for the words om nawes of the |",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      198,
+      130,
+      309,
+      14
+    ],
+    "text": "Trastess\", wherever those words occur",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      197,
+      146,
+      310,
+      30
+    ],
+    "text": "cilesieyn that paragraph ofthe words",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      198,
+      163,
+      249,
+      17
+    ],
+    "text": "corporate name cf the Prustees",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      22,
+      181,
+      485,
+      39
+    ],
+    "text": "ening ot 4. All property whateoever which, immediately",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      20,
+      212,
+      486,
+      19
+    ],
+    "text": "revo prior do tht date of commencement of this Act, wa",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      16,
+      226,
+      490,
+      23
+    ],
+    "text": "corporation vested in, held by, or in the possession of the Trustees",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      19,
+      233,
+      487,
+      30
+    ],
+    "text": "Ema, of the Ceylon Post Office Savings Bonk shall, with",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      14,
+      258,
+      492,
+      37
+    ],
+    "text": "Bin Capon het from that date, be doemed to be rested in, held",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      35,
+      278,
+      471,
+      15
+    ],
+    "text": "Gee... by, or in the possession of the corporation lenown as",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      114,
+      295,
+      369,
+      16
+    ],
+    "text": "rrastess-of the Ceylon Post Office Savings Bank *.",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      17,
+      282,
+      366,
+      25
+    ],
+    "text": "Sitma. oy, possession of the corpo",
+    "mean_p_confidence": 0.46
+  }
+]

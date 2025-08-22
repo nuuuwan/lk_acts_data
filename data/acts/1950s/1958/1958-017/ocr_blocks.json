@@ -1,0 +1,640 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      93,
+      20,
+      394,
+      26
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      187,
+      71,
+      356,
+      65
+    ],
+    "text": "2nd Session 1957-38 JE;",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      290,
+      119,
+      267,
+      15
+    ],
+    "text": ": Ie",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      272,
+      115,
+      268,
+      45
+    ],
+    "text": "& ott",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      255,
+      160,
+      70,
+      17
+    ],
+    "text": "ASD,",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      247,
+      171,
+      86,
+      21
+    ],
+    "text": "fScae\\",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      248,
+      186,
+      87,
+      20
+    ],
+    "text": "Ey eae SE)",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      232,
+      225,
+      115,
+      25
+    ],
+    "text": "PN OSEN",
+    "mean_p_confidence": 0.0
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      105,
+      301,
+      364,
+      31
+    ],
+    "text": "Ceylon State Mortgage Bank",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      118,
+      340,
+      339,
+      32
+    ],
+    "text": "(Amendment) Act, No. 17",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      236,
+      380,
+      97,
+      23
+    ],
+    "text": "of 1958",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      197,
+      510,
+      185,
+      13
+    ],
+    "text": "Date of Assent: May 9, 1958",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      417,
+      573,
+      2,
+      19
+    ],
+    "text": "i",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      114,
+      630,
+      300,
+      13
+    ],
+    "text": "- * Printed on the Orders of Government",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      417,
+      651,
+      1,
+      8
+    ],
+    "text": "i",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      417,
+      663,
+      2,
+      7
+    ],
+    "text": "|",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      157,
+      675,
+      262,
+      21
+    ],
+    "text": ". |",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      109,
+      745,
+      366,
+      14
+    ],
+    "text": "Printed al (he Govearseeng_Farss, Gavtox. To _be",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      109,
+      757,
+      366,
+      15
+    ],
+    "text": "Printed 41, fle go GOUaN ett Bonini, Covones",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      109,
+      775,
+      365,
+      15
+    ],
+    "text": "TRnnnal Subscription Cnetuding Bil) Xs. 25, payable in",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      110,
+      787,
+      365,
+      12
+    ],
+    "text": "Apna), Subesrptigy (ining at amtast Pease Ont",
+    "mean_p_confidence": 0.08
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      110,
+      797,
+      364,
+      14
+    ],
+    "text": "strane Bae pment, Ceara, \"Calorike \"t",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      109,
+      816,
+      420,
+      15
+    ],
+    "text": "Price: 10 cents Postage: 10 cents",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88,
+      11,
+      7,
+      13
+    ],
+    "text": "$",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      126,
+      20,
+      306,
+      19
+    ],
+    "text": "Cayton State Mortgage Bank (Amendment)",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      204,
+      38,
+      148,
+      14
+    ],
+    "text": "Act, No. 17 of 1958",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      102,
+      66,
+      97,
+      13
+    ],
+    "text": "L.D0.71/5.",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      105,
+      88,
+      443,
+      21
+    ],
+    "text": "AN Act 10 amenn tae CxyLon State MORTGAGE Ghepeer zr.",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      215,
+      101,
+      320,
+      21
+    ],
+    "text": "Bank ORDINANCE. Re ae",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      166,
+      133,
+      226,
+      18
+    ],
+    "text": "{Date of Assent: May 9, 1958]",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      161,
+      379,
+      19
+    ],
+    "text": "BE it enacted by the Queen's Most Excellent Majesty,",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      177,
+      380,
+      20
+    ],
+    "text": "by and with the advice and consent of the Senate and",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92,
+      193,
+      379,
+      18
+    ],
+    "text": "the House of Representatives of Ceylon in this present",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92,
+      209,
+      379,
+      17
+    ],
+    "text": "Parliament assembled, and by the authority of the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92,
+      227,
+      136,
+      15
+    ],
+    "text": "game, as follows:",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      106,
+      251,
+      432,
+      17
+    ],
+    "text": "4, This Act may be cited as the Ceylon State Shor tinle.",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92,
+      267,
+      370,
+      18
+    ],
+    "text": "Mortgage Bank (Amendment) Act, No. 17 of 1958.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      106,
+      293,
+      451,
+      18
+    ],
+    "text": "2, Section 84 of the Ceylon State Mortgage Buck Asssdmn of",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93,
+      296,
+      458,
+      31
+    ],
+    "text": "Ordinance, as amended by Act No. 31 1956, is Seater anit",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92,
+      326,
+      271,
+      18
+    ],
+    "text": "hereby further amended us follows:",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      123,
+      351,
+      348,
+      18
+    ],
+    "text": "(1) by the substitotion, for the words * No loan",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      170,
+      367,
+      301,
+      17
+    ],
+    "text": "shall be granted unless the Board shall",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      170,
+      382,
+      302,
+      15
+    ],
+    "text": "have firet satisfied itself , of the",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      170,
+      401,
+      91,
+      16
+    ],
+    "text": "following:",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      171,
+      424,
+      253,
+      16
+    ],
+    "text": "No loan shall be granted unless",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      218,
+      447,
+      254,
+      17
+    ],
+    "text": "{i) the title of the borrower to the",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      266,
+      463,
+      206,
+      20
+    ],
+    "text": "property offered as security",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      266,
+      479,
+      206,
+      17
+    ],
+    "text": "is, in the opinion of the",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      266,
+      495,
+      175,
+      16
+    ],
+    "text": "Board, satisfactory; and",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      214,
+      521,
+      220,
+      17
+    ],
+    "text": "(ii) the Board is satisfied;",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      546,
+      383,
+      21
+    ],
+    "text": "\" @) by the omission of paragraph (b) of that",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      171,
+      566,
+      115,
+      16
+    ],
+    "text": "section; andj",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      125,
+      588,
+      333,
+      18
+    ],
+    "text": "(8) by the re-lettering of paragraphs (c) and (",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      171,
+      604,
+      296,
+      17
+    ],
+    "text": "of that section, as paragraphs (b) and (",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      172,
+      621,
+      84,
+      17
+    ],
+    "text": "respectively.",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      284,
+      657,
+      1,
+      7
+    ],
+    "text": "i",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      283,
+      686,
+      2,
+      19
+    ],
+    "text": "|",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119,
+      838,
+      114,
+      8
+    ],
+    "text": "Sn nena 18",
+    "mean_p_confidence": 0.04
+  }
+]

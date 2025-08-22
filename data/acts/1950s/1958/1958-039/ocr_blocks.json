@@ -1,0 +1,563 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      119,
+      85,
+      342,
+      23
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      201,
+      137,
+      182,
+      17
+    ],
+    "text": "3rd Session 1958-39",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      470,
+      156,
+      60,
+      51
+    ],
+    "text": "Bee",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      266,
+      233,
+      68,
+      18
+    ],
+    "text": "ASDY,",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      262,
+      245,
+      78,
+      48
+    ],
+    "text": "Ge)",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      259,
+      260,
+      83,
+      14
+    ],
+    "text": "Sy tessa",
+    "mean_p_confidence": 0.06
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      95,
+      369,
+      400,
+      32
+    ],
+    "text": "Municipal Councils (Amendment)",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      171,
+      407,
+      250,
+      27
+    ],
+    "text": "Act, No. 39 of 1958",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      201,
+      540,
+      205,
+      15
+    ],
+    "text": "Date of Assent : November 3, 1958",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      205,
+      662,
+      203,
+      12
+    ],
+    "text": "Printed on tha Ordor of Government",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      133,
+      783,
+      349,
+      13
+    ],
+    "text": "Printed at the Govtmeuney Parse, Gpvaon. Tobe",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      133,
+      793,
+      349,
+      15
+    ],
+    "text": "Print 8h, {MY go AQT cleantna Borin, Conon",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      134,
+      807,
+      348,
+      23
+    ],
+    "text": "form tego eft",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      134,
+      826,
+      348,
+      16
+    ],
+    "text": "Bursac, Post Orvice Box 800, Seerelarit, Colombo 2",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      132,
+      846,
+      351,
+      13
+    ],
+    "text": "Price: 10 cents, Postage: 10 cents.",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      131,
+      54,
+      326,
+      17
+    ],
+    "text": "Municipal Councils (Amendment) Act, 3",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      218,
+      71,
+      104,
+      15
+    ],
+    "text": "No. 39 of 1958",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      94,
+      97,
+      101,
+      13
+    ],
+    "text": "L. D0. 19/58.",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      106,
+      117,
+      326,
+      13
+    ],
+    "text": "AN Act To AMEND THE MumiciraL Councus",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      168,
+      133,
+      202,
+      14
+    ],
+    "text": "Onpreance, No. 29 oF 1947.",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      137,
+      156,
+      414,
+      17
+    ],
+    "text": "(Date of Assent: November 3, 1958] .",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      183,
+      374,
+      18
+    ],
+    "text": "BE it enacted by the Queen's Most Excellent Majesty,",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      199,
+      374,
+      27
+    ],
+    "text": "by and with the advice and consent of the Senate and",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      214,
+      374,
+      18
+    ],
+    "text": "the House of Representatives of Ceylon in this present",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      230,
+      374,
+      18
+    ],
+    "text": "Parliament assembled, and by the authority of the",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      246,
+      137,
+      14
+    ],
+    "text": "same, as follows :",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      95,
+      277,
+      431,
+      18
+    ],
+    "text": "1. This Act may be cited aa the Municipal Gouncils shew sia,",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      293,
+      245,
+      15
+    ],
+    "text": "Amendment) Act. No. 39 of 1958.",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      95,
+      324,
+      444,
+      21
+    ],
+    "text": "2 Section 1844 of the Municipal Councils Ordi- dzesdurgr",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      340,
+      453,
+      18
+    ],
+    "text": "nance, No. 29 of 1947 (inserted by Act No. 44 of 1964 sf'Gqiasece",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      355,
+      468,
+      19
+    ],
+    "text": "and as amended by Act No. 15 of 1967), is hereby Na % of 17.",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      371,
+      374,
+      19
+    ],
+    "text": "further amended, in sub-section (1) of thab section, by",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      386,
+      376,
+      36
+    ],
+    "text": "the substitution, for all the words from grant out of",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      402,
+      375,
+      20
+    ],
+    "text": "ths Municipal Fond to in respect of , of the",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      418,
+      89,
+      17
+    ],
+    "text": "following :",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      111,
+      446,
+      273,
+      19
+    ],
+    "text": "grant out of the Municipal Fund",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157,
+      471,
+      297,
+      17
+    ],
+    "text": "(@) to any person who retires or hes retired",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      204,
+      488,
+      250,
+      14
+    ],
+    "text": "from service as an officer or a",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      203,
+      504,
+      200,
+      16
+    ],
+    "text": "servant of that Council, and",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157,
+      527,
+      296,
+      18
+    ],
+    "text": "(8) to any person who, not being a citizen",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      202,
+      543,
+      251,
+      16
+    ],
+    "text": "of Ceylon, ceases or has ceased. to be",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      203,
+      560,
+      251,
+      14
+    ],
+    "text": "an officer or a servant of that",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      203,
+      575,
+      250,
+      18
+    ],
+    "text": "Council by xason of his inability to",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      202,
+      585,
+      254,
+      41
+    ],
+    "text": "continue to femaia in Ceylon owing",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      202,
+      607,
+      235,
+      29
+    ],
+    "text": "to the expiry of the period for whi",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      202,
+      623,
+      251,
+      15
+    ],
+    "text": "he has been authorised under the",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      203,
+      639,
+      249,
+      18
+    ],
+    "text": "Homigrants' and Emigrants Act,",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      202,
+      655,
+      250,
+      16
+    ],
+    "text": "No. 20 of 1948, to remain in",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      202,
+      665,
+      86,
+      23
+    ],
+    "text": "Ceylon, |",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      102,
+      689,
+      350,
+      24
+    ],
+    "text": "a pension, gratuity, or| retiring allowance in",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      107,
+      710,
+      181,
+      22
+    ],
+    "text": "respect of . :",
+    "mean_p_confidence": 0.4
+  }
+]

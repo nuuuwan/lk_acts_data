@@ -1,0 +1,2180 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      102,
+      26,
+      402,
+      27
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      185,
+      69,
+      194,
+      19
+    ],
+    "text": ". 2nd Session 1957",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      222,
+      125,
+      251,
+      19
+    ],
+    "text": ". A, SST",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      264,
+      184,
+      219,
+      37
+    ],
+    "text": "(): eae",
+    "mean_p_confidence": 0.08
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      250,
+      238,
+      200,
+      38
+    ],
+    "text": "SUE SET",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      114,
+      317,
+      376,
+      34
+    ],
+    "text": "Electricity (Amendment) Act,",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      201,
+      362,
+      199,
+      24
+    ],
+    "text": "No. 59 of 1957",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      189,
+      497,
+      231,
+      13
+    ],
+    "text": "Date of Assent: December 21, 1957",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      179,
+      619,
+      248,
+      16
+    ],
+    "text": "Printed on the Qirders of Government",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      137,
+      760,
+      329,
+      11
+    ],
+    "text": "Printed at the Govanntmer Pause, Crr10%. To be",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      135,
+      774,
+      331,
+      34
+    ],
+    "text": "eraal Seecipton nang Bil) Be 24 pagebie i",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      90,
+      799,
+      376,
+      22
+    ],
+    "text": ". Banat, boot Ganee \"Box Ge, Searouriat, Colombe",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      136,
+      828,
+      327,
+      13
+    ],
+    "text": "Price; 15 cents, . Postage: 10 cents.",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      21,
+      360,
+      19
+    ],
+    "text": "Electricity (Amendment) Act, No. 59 of 1957 3",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      52,
+      170,
+      13
+    ],
+    "text": "L. D.O. 12/56. .",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      101,
+      67,
+      300,
+      14
+    ],
+    "text": "Aw Act 70 ANenn ite Exgorricrry Act,",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      195,
+      84,
+      116,
+      13
+    ],
+    "text": "No. 19 oF 1950.",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122,
+      103,
+      264,
+      18
+    ],
+    "text": "[Date of Assent: Decamber 21, 1957]",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      123,
+      386,
+      17
+    ],
+    "text": "BE it enacted by the Queen's Most Excellent Majesty,",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      139,
+      388,
+      17
+    ],
+    "text": "By and with the advice and consent of the Senate and",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      154,
+      387,
+      19
+    ],
+    "text": "the House of Representatives of Cayton in this present",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      171,
+      387,
+      17
+    ],
+    "text": "Parliament assembled, and by the authority of the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      190,
+      143,
+      14
+    ],
+    "text": "same, as follows:",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      212,
+      444,
+      16
+    ],
+    "text": "1. This Act may be cited as the Llectricity short ts.",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      217,
+      251,
+      29
+    ],
+    "text": "(Artendmont) Act, No. 89 of 1057.",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      252,
+      447,
+      17
+    ],
+    "text": "2 The Electricity Act, No. 19 of 1980, (herein- neiton of",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      266,
+      471,
+      19
+    ],
+    "text": "after referred to as the principal enactment ), is Ga\" sestens,",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      282,
+      465,
+      20
+    ],
+    "text": "hereby amended by the insertion, under the heading and, ton, in",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      297,
+      471,
+      20
+    ],
+    "text": "General., immediately after section 60, of the {te 19 of",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      315,
+      426,
+      19
+    ],
+    "text": "following new sections which shall have effect as",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      333,
+      336,
+      15
+    ],
+    "text": "sections 594, 598, 50 and 59D, of that Act:",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      352,
+      382,
+      16
+    ],
+    "text": "+ Miser to 80a. The Minister may by notifi-",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      366,
+      349,
+      22
+    ],
+    "text": "fe te ioe cation published in the Gasette",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      384,
+      358,
+      27
+    ],
+    "text": "the apply (@) in respect of the supply of enet",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      391,
+      383,
+      29
+    ],
+    "text": "of sents: wo\" local authority who nd",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      420,
+      380,
+      26
+    ],
+    "text": "3 licensee, fix, with the con-",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      237,
+      435,
+      205,
+      14
+    ],
+    "text": "currence of the Minister of",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      237,
+      451,
+      205,
+      14
+    ],
+    "text": "Finance and the Minister of",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      236,
+      458,
+      206,
+      41
+    ],
+    "text": "Leal , Government, the",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      237,
+      487,
+      196,
+      13
+    ],
+    "text": "charges for such supply; an",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      189,
+      499,
+      253,
+      17
+    ],
+    "text": "{B) in respect of the supply of",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      237,
+      515,
+      203,
+      17
+    ],
+    "text": "energy to any other person,",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      236,
+      530,
+      205,
+      16
+    ],
+    "text": "fix, with the conerrrence of",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      236,
+      546,
+      205,
+      15
+    ],
+    "text": "the Minister of Finance, the",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      236,
+      562,
+      170,
+      17
+    ],
+    "text": "charges for such supply.",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      575,
+      380,
+      31
+    ],
+    "text": "Gencest 50. If there ie any doubt a8 to which",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      598,
+      380,
+      20
+    ],
+    "text": "Manuerto change specified in a notification made",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      614,
+      378,
+      29
+    ],
+    "text": "tn'garea under section 504 is to apply in any case,",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      630,
+      380,
+      22
+    ],
+    "text": "Jat Be the General Manager shall determine the",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      644,
+      381,
+      19
+    ],
+    "text": "creepy that charge that shall apply in that case, and",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      651,
+      378,
+      31
+    ],
+    "text": "reall aory hig. etermination thereon shail be final.",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      670,
+      91,
+      32
+    ],
+    "text": "doubt :",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      693,
+      379,
+      28
+    ],
+    "text": "Priesimon 606. (1) Where a bill of charges for",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      710,
+      380,
+      21
+    ],
+    "text": "ot tee ~ shergy supplied by the General Manager",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      55,
+      712,
+      386,
+      35
+    ],
+    "text": "rig'ths Goecal tO. Teal authority is not disputed by the",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      740,
+      380,
+      22
+    ],
+    "text": "Mavaser trom = Chairman of that authority within",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      756,
+      378,
+      19
+    ],
+    "text": "others twenty-one days after the date of the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      772,
+      378,
+      22
+    ],
+    "text": "tor the receipt of that bill at the office of that",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      782,
+      379,
+      30
+    ],
+    "text": "amg. authority, the amount specified in that",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      156,
+      794,
+      284,
+      25
+    ],
+    "text": "Bill shall! be the emount due to the",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      120,
+      819,
+      320,
+      18
+    ],
+    "text": ". General Manager from that authority",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      838,
+      154,
+      15
+    ],
+    "text": ": on that bill.",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      858,
+      101,
+      8
+    ],
+    "text": "ty we mamas",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      187,
+      19,
+      355,
+      17
+    ],
+    "text": "4 Electricity (Amendment) Act, No. 59 of 1957",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      286,
+      47,
+      271,
+      17
+    ],
+    "text": "@) A bill of charges for energy",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      265,
+      47,
+      292,
+      48
+    ],
+    "text": "supplied shall, when sent Wy post to the",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      269,
+      79,
+      288,
+      17
+    ],
+    "text": "office of @ local authority, be deemed to",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      269,
+      95,
+      288,
+      14
+    ],
+    "text": "have been received at that office on the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      270,
+      111,
+      287,
+      17
+    ],
+    "text": "day sucoseding that on which it would",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      270,
+      126,
+      287,
+      20
+    ],
+    "text": "have been veceived in the ordinary",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      270,
+      143,
+      254,
+      17
+    ],
+    "text": "couree by post.",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      287,
+      163,
+      270,
+      16
+    ],
+    "text": "(3) Where the Chairman of a local",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      271,
+      179,
+      287,
+      17
+    ],
+    "text": "authority informs the General Manager",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      272,
+      195,
+      286,
+      17
+    ],
+    "text": "in writing, within twenty-one days",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      271,
+      211,
+      287,
+      17
+    ],
+    "text": "after the date of the receipt at the office",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      271,
+      227,
+      319,
+      18
+    ],
+    "text": "of that authority of a bill of charges for",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      271,
+      243,
+      319,
+      17
+    ],
+    "text": "energy supplied to that authority, that = *",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      271,
+      259,
+      287,
+      17
+    ],
+    "text": "such Chairman is disputing the amount",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      267,
+      260,
+      291,
+      46
+    ],
+    "text": "specified in that bill, such Chairman and",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      286,
+      291,
+      272,
+      16
+    ],
+    "text": "fanager shall, within fourteen days",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      272,
+      305,
+      286,
+      15
+    ],
+    "text": "after the date of the termination of the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      271,
+      322,
+      286,
+      18
+    ],
+    "text": "said period of twenty-one days, select an",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      272,
+      338,
+      286,
+      14
+    ],
+    "text": "arbitrator to determine the amount duc",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      271,
+      353,
+      84,
+      13
+    ],
+    "text": "on that bill.",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      288,
+      373,
+      269,
+      15
+    ],
+    "text": "(4) Where an arbitrator is selected",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      271,
+      389,
+      286,
+      30
+    ],
+    "text": "under sub-section & by the General",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      271,
+      404,
+      285,
+      17
+    ],
+    "text": "Menager and the Chairman of a local",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      272,
+      420,
+      285,
+      18
+    ],
+    "text": "authority, such Manager and Chaitman",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      272,
+      435,
+      285,
+      19
+    ],
+    "text": "shall, within seven days after the date of",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      272,
+      451,
+      285,
+      19
+    ],
+    "text": "the selection of the arbitrator, refer the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      272,
+      467,
+      285,
+      16
+    ],
+    "text": "disputed bill to him for determination of",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      273,
+      483,
+      284,
+      17
+    ],
+    "text": "the amount due thereon, and be shall,",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      273,
+      499,
+      285,
+      18
+    ],
+    "text": "within fourteen days after the date of",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      273,
+      515,
+      285,
+      18
+    ],
+    "text": "the reference of such bill to him, report",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      273,
+      530,
+      284,
+      19
+    ],
+    "text": "his determination in writing to such",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      273,
+      546,
+      285,
+      17
+    ],
+    "text": "Manager and Chairman. If the arbi-",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      274,
+      563,
+      284,
+      17
+    ],
+    "text": "trator determines that any amount is due",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      274,
+      578,
+      284,
+      16
+    ],
+    "text": "on such bill, such amount shal] be tho",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      274,
+      595,
+      284,
+      16
+    ],
+    "text": "amount due to the General Manager",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      276,
+      609,
+      282,
+      18
+    ],
+    "text": "from the local authority to whom the",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      274,
+      626,
+      284,
+      15
+    ],
+    "text": "energy referred to in such bill was",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      275,
+      641,
+      63,
+      15
+    ],
+    "text": "supplied,",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      263,
+      663,
+      132,
+      17
+    ],
+    "text": "@) Where~",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      355,
+      685,
+      203,
+      17
+    ],
+    "text": "(@) the General Manager and",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      196,
+      701,
+      363,
+      16
+    ],
+    "text": ". the Chairman of a",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      401,
+      717,
+      161,
+      17
+    ],
+    "text": "local authority are an-,",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      401,
+      733,
+      162,
+      13
+    ],
+    "text": "able to select an arbi--",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      304,
+      749,
+      254,
+      13
+    ],
+    "text": ": . trator to determine",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      402,
+      764,
+      156,
+      13
+    ],
+    "text": "the amount. dae on a",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      402,
+      780,
+      113,
+      16
+    ],
+    "text": "disputed Bill, or",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      356,
+      795,
+      202,
+      16
+    ],
+    "text": "(2) an arbitrator selected hy",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      403,
+      811,
+      155,
+      16
+    ],
+    "text": "the General Manager",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      403,
+      826,
+      155,
+      15
+    ],
+    "text": "and the Chairman of",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83,
+      14,
+      356,
+      19
+    ],
+    "text": "Electricity (Amendment) Act, No, 59 of 1957 5",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70,
+      43,
+      370,
+      19
+    ],
+    "text": "woe pluses. 5. a slogal authority is",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66,
+      55,
+      374,
+      32
+    ],
+    "text": "io unable to determine",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      204,
+      77,
+      236,
+      13
+    ],
+    "text": "the amount due on",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70,
+      93,
+      322,
+      17
+    ],
+    "text": "' a disputed bill,",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      151,
+      112,
+      289,
+      18
+    ],
+    "text": "the Permanent Secretary shall refer the",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      58,
+      129,
+      382,
+      21
+    ],
+    "text": "go disputed bill to an arbitrator selected by",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      151,
+      147,
+      289,
+      16
+    ],
+    "text": "him, after consultation with the Per-",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      152,
+      162,
+      289,
+      18
+    ],
+    "text": "manent Secretary t6'the Ministry in the",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      58,
+      179,
+      383,
+      19
+    ],
+    "text": "1 charge of the Minister of Local Govern-",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      152,
+      193,
+      289,
+      36
+    ],
+    "text": "ment, for the burpose of determining the",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      69,
+      213,
+      261,
+      17
+    ],
+    "text": "..0 9 amount due on that bill.",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      60,
+      235,
+      381,
+      21
+    ],
+    "text": "JL 7\"}) (@) The arbitrator. selected under sub-",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      103,
+      252,
+      338,
+      19
+    ],
+    "text": ": section @) shall, within fourteen days",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      60,
+      268,
+      380,
+      14
+    ],
+    "text": "7 after the date of the reference of the dis-",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      153,
+      284,
+      288,
+      18
+    ],
+    "text": "puted bill to him, report his deter-",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71,
+      300,
+      370,
+      17
+    ],
+    "text": "mination in writing to the Permanent",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83,
+      316,
+      358,
+      17
+    ],
+    "text": ": Secretary. If the atbitrator determines",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      154,
+      331,
+      287,
+      19
+    ],
+    "text": "that any amount ie due on such bill, such",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      154,
+      348,
+      287,
+      14
+    ],
+    "text": "amount shall be the amount dua to the",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71,
+      364,
+      370,
+      30
+    ],
+    "text": "_ General Manager from the [ocal autho:",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72,
+      380,
+      369,
+      19
+    ],
+    "text": "a rity to whom the energy referred to in",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      94,
+      397,
+      222,
+      17
+    ],
+    "text": "~ such bill was supplied.",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      59,
+      420,
+      382,
+      18
+    ],
+    "text": "a (7) Every arbitrator selected under",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      124,
+      436,
+      318,
+      30
+    ],
+    "text": "- + the preceding provisions of this section",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66,
+      451,
+      376,
+      19
+    ],
+    "text": "usc. \"| shall be paid by such persons and at such",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66,
+      469,
+      337,
+      17
+    ],
+    "text": "cfu -t 1 talles as may be prescribed.",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      65,
+      490,
+      376,
+      22
+    ],
+    "text": "Beye (8) In this section;-* Chairman",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      62,
+      508,
+      421,
+      19
+    ],
+    "text": "be means * ve",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      80,
+      532,
+      362,
+      18
+    ],
+    "text": ": 2 J t++ (a) where the local authority",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      95,
+      549,
+      347,
+      17
+    ],
+    "text": "aot is a Municipal Coun-",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      63,
+      564,
+      379,
+      17
+    ],
+    "text": "me Gil, the Mayor of such",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      166,
+      581,
+      212,
+      20
+    ],
+    "text": "Se Council, and",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      110,
+      600,
+      333,
+      18
+    ],
+    "text": "hae foe (& where such authority is",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      77,
+      605,
+      366,
+      28
+    ],
+    "text": "fog th ep an Urban Couacil, &",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      74,
+      633,
+      369,
+      13
+    ],
+    "text": "om \" + Towa Council or a",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      92,
+      648,
+      350,
+      30
+    ],
+    "text": "pa Be Village | Commitee,",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      78,
+      664,
+      365,
+      15
+    ],
+    "text": "vom tt the Chairman of such",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      284,
+      680,
+      157,
+      14
+    ],
+    "text": "Counc? or Committee.",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      57,
+      707,
+      386,
+      29
+    ],
+    "text": "Yow be 69p. The amount dus to the General",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      61,
+      724,
+      382,
+      19
+    ],
+    "text": "$,5ee\"! 4 Manager from a local authority as",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      62,
+      729,
+      381,
+      44
+    ],
+    "text": "wheal charges for energy expplied to that",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      62,
+      755,
+      380,
+      19
+    ],
+    "text": "te anthority shall, notwithstanding any-",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      62,
+      771,
+      380,
+      18
+    ],
+    "text": "Spx ot thing to the contrazy in any other written",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      62,
+      774,
+      381,
+      36
+    ],
+    "text": "rer: aahed law be the firat charge on the moneys in",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      62,
+      807,
+      296,
+      22
+    ],
+    "text": "cmgeson tte the fund of that authority,",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      63,
+      828,
+      63,
+      9
+    ],
+    "text": "find ct thot",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      63,
+      839,
+      70,
+      12
+    ],
+    "text": "{oat anaonty.",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      165,
+      8,
+      355,
+      21
+    ],
+    "text": "6 Electricity (Amendment) Act, No. 59 of 1957",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      64,
+      34,
+      489,
+      32
+    ],
+    "text": "Agsndinant & Sections 2, 11, 58, 67, 74, 80 and 81 of the",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      68,
+      52,
+      485,
+      26
+    ],
+    "text": "#wcteor, principal enactment are hereby amended by the",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      69,
+      70,
+      461,
+      20
+    ],
+    "text": "4, substitution, for the expression Chief Engineer .",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      69,
+      85,
+      485,
+      28
+    ],
+    "text": "at ae wherever that expression ocours in those sections, of",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70,
+      100,
+      372,
+      28
+    ],
+    "text": "acubenk, the expression General Manager .",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      71,
+      129,
+      484,
+      27
+    ],
+    "text": "Ammiuot ot _& Section 82 of the principal enactment is hereby",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      71,
+      153,
+      262,
+      24
+    ],
+    "text": "seam & mended as follows:",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      68,
+      171,
+      487,
+      34
+    ],
+    "text": "Encik, (1) by the omission of the definition of Chief",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      202,
+      210,
+      353,
+      21
+    ],
+    "text": "(2) in the definition of consumer ', by the sub-",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      182,
+      228,
+      374,
+      18
+    ],
+    "text": "-. \". stitution, for the expression * Chief Engi-",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      196,
+      243,
+      361,
+      18
+    ],
+    "text": ": neer ?, wherever that expression occurs in",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      204,
+      259,
+      353,
+      19
+    ],
+    "text": ". that definition, of the expression General",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      252,
+      278,
+      119,
+      17
+    ],
+    "text": "Manager ; and",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72,
+      295,
+      485,
+      31
+    ],
+    "text": ": * _@) by the insertion; immediately after the defini-",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      253,
+      313,
+      305,
+      18
+    ],
+    "text": "tion of energy ', of the following new",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      253,
+      330,
+      169,
+      13
+    ],
+    "text": "8 definition: .",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      209,
+      348,
+      350,
+      31
+    ],
+    "text": "py 1\" General Manager \" meune General",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      185,
+      364,
+      374,
+      19
+    ],
+    "text": "Se Manager of the Department of",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      302,
+      381,
+      257,
+      14
+    ],
+    "text": "Government, - Electrical Under-",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      302,
+      398,
+      108,
+      17
+    ],
+    "text": "takings; \"s\"",
+    "mean_p_confidence": 0.04
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      76,
+      424,
+      484,
+      36
+    ],
+    "text": "spinon B. (1) Where a local authority owes any money to",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      80,
+      442,
+      480,
+      38
+    ],
+    "text": "gomicn the General Manager of the Department of Govern-",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      80,
+      451,
+      480,
+      40
+    ],
+    "text": "pn) ent Eleotrioal Undertakings Tor. electrical energy",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      81,
+      478,
+      479,
+      21
+    ],
+    "text": "cgrctnstt gupplied to that authority before the date of the com-",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      77,
+      491,
+      483,
+      27
+    ],
+    "text": "lectrical mencement of this Act, such General Manager shall,",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      81,
+      509,
+      480,
+      22
+    ],
+    "text": "ganaympted notwithstanding that a bill of charges for electrical",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      83,
+      511,
+      478,
+      49
+    ],
+    "text": "maint energy 0 supplied has been prov transmitted to",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      83,
+      542,
+      478,
+      21
+    ],
+    "text": "balore the 4, that authority, transmit to the office of that authority,",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      83,
+      555,
+      479,
+      38
+    ],
+    "text": "ofthis Ac = Within thirty days after that date, a fresh bill of",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      179,
+      570,
+      288,
+      22
+    ],
+    "text": "charges for electrical energy so supplied.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      197,
+      593,
+      366,
+      21
+    ],
+    "text": "(2)'The provisions of section 59c inserted in the",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      180,
+      606,
+      383,
+      38
+    ],
+    "text": "principal enactment by section 2 of this Act shall apply",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      181,
+      614,
+      372,
+      30
+    ],
+    "text": "to a bill of changes tranemitted under sub-section Bs.",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      197,
+      645,
+      364,
+      20
+    ],
+    "text": "(@), In this section the expression ' local authority",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      181,
+      663,
+      365,
+      18
+    ],
+    "text": "has the sama meaning as in the principal enactment.",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      288,
+      706,
+      274,
+      31
+    ],
+    "text": "Bt pone tee ot F :",
+    "mean_p_confidence": 0.2
+  }
+]

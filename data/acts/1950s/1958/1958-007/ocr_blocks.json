@@ -1,0 +1,508 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      124,
+      28,
+      367,
+      26
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      208,
+      77,
+      197,
+      18
+    ],
+    "text": "2nd Session 1957-58",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      294,
+      147,
+      38,
+      15
+    ],
+    "text": "ap",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      284,
+      167,
+      46,
+      13
+    ],
+    "text": "Aut",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      267,
+      192,
+      93,
+      50
+    ],
+    "text": "Ua)",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      105,
+      315,
+      410,
+      33
+    ],
+    "text": "Inspector of Labour (Change of",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      156,
+      351,
+      304,
+      32
+    ],
+    "text": "Designation) Act, No. 7",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      258,
+      387,
+      99,
+      23
+    ],
+    "text": "of 1958",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      202,
+      533,
+      225,
+      15
+    ],
+    "text": "Date of Assent: February 20, 1958",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      181,
+      649,
+      388,
+      35
+    ],
+    "text": "Printed on the | Orders of Government .",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      287,
+      682,
+      1,
+      21
+    ],
+    "text": "I",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      139,
+      766,
+      356,
+      13
+    ],
+    "text": "Pringd ot the Govamomnar Press, Grow. To be purchases",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      139,
+      777,
+      357,
+      13
+    ],
+    "text": "Fring tt dhe Commer icanonsBentaa, Cousin.",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      139,
+      792,
+      356,
+      13
+    ],
+    "text": "Spnadl obgrinion, Gnehuding Bill) RS. 23, payable in",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      140,
+      799,
+      356,
+      16
+    ],
+    "text": "Sonal Seogaden,neuains aati! eEaehtons",
+    "mean_p_confidence": 0.05
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      140,
+      812,
+      355,
+      15
+    ],
+    "text": "Bane \"Goat Game\" Bar ome, Seastart, Colombe",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      84,
+      833,
+      412,
+      17
+    ],
+    "text": ". Prices 10 cents. Postage: 10 cents.",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      9,
+      456,
+      13
+    ],
+    "text": "% ; :",
+    "mean_p_confidence": 0.06
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      22,
+      459,
+      22
+    ],
+    "text": "spspector of Labour (Change of Designation) 8 .",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      41,
+      255,
+      18
+    ],
+    "text": "4 Act, No. 7 of 1958",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      65,
+      97,
+      23
+    ],
+    "text": "] DO. 68/87.",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      88,
+      377,
+      21
+    ],
+    "text": "gu ACT 10 GHANGE THE DESIGNATION OF INSPECTOR OF",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      106,
+      212,
+      23
+    ],
+    "text": ": Lanour.",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      131,
+      321,
+      23
+    ],
+    "text": "S- [Date of Assent: February 20, 1958]",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      164,
+      376,
+      23
+    ],
+    "text": "BE it enacted by the Queen's Most Excellent Majesty,",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      184,
+      358,
+      16
+    ],
+    "text": "gad with the advice and consent of the Senate and",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      190,
+      377,
+      28
+    ],
+    "text": "by #elouee of Representatives of Ceylon in this present",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      216,
+      377,
+      17
+    ],
+    "text": "Parliament assembled, and by the authority of the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      232,
+      135,
+      17
+    ],
+    "text": "game, 28 follows :",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      263,
+      445,
+      29
+    ],
+    "text": "4, This Act may be cited as the Tuspector of sat we",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      279,
+      368,
+      17
+    ],
+    "text": "Labour (Change of Designation) Act, No. 7 of 1958.",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      311,
+      431,
+      16
+    ],
+    "text": "2. Bach Inspector of Labour shall be known and casage ot",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      326,
+      461,
+      29
+    ],
+    "text": "cited for all purposes by the designation Labour gem +",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      338,
+      445,
+      23
+    ],
+    "text": "Officer; and, accordingly, in every context in which Makes,",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      359,
+      376,
+      17
+    ],
+    "text": "an Inspector of Labour is mentioned (whether by that",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      375,
+      376,
+      16
+    ],
+    "text": "designation in foll or by the abbreviated designation",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      380,
+      375,
+      27
+    ],
+    "text": "of Inspector) im any written lew or in any notice,",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      406,
+      377,
+      15
+    ],
+    "text": "communication, form or other document required or",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64,
+      411,
+      376,
+      28
+    ],
+    "text": "tuthorised by \"any written Taw, there. shall be eub~",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      438,
+      377,
+      17
+    ],
+    "text": "stitated, for the words Inspector of Labour or",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64,
+      454,
+      354,
+      16
+    ],
+    "text": "the word * Inspector \", the words *' Labour Officer *.",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      142,
+      655,
+      2,
+      8
+    ],
+    "text": "j",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      654,
+      430,
+      26
+    ],
+    "text": ": i",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      142,
+      675,
+      2,
+      7
+    ],
+    "text": "i",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      142,
+      716,
+      2,
+      12
+    ],
+    "text": "1",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      55,
+      836,
+      126,
+      34
+    ],
+    "text": "qi Sx ameeamaiss",
+    "mean_p_confidence": 0.02
+  }
+]
