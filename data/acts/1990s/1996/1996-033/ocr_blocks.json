@@ -1,0 +1,5348 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      19,
+      7,
+      333,
+      14
+    ],
+    "text": "t 7",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      103,
+      189,
+      406,
+      19
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      165,
+      216,
+      283,
+      19
+    ],
+    "text": "SOCIALIST REPUBLIC OF",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      244,
+      244,
+      125,
+      17
+    ],
+    "text": "SRI LANKA",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      170,
+      352,
+      274,
+      21
+    ],
+    "text": "TEXTILE QUOTA BOARD",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      206,
+      379,
+      207,
+      21
+    ],
+    "text": "ACT, No. 33 OF 1996",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      175,
+      517,
+      265,
+      18
+    ],
+    "text": "[Certified on 4th December , 1996]",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      166,
+      587,
+      331,
+      19
+    ],
+    "text": "Printed on the Order of Government 2",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      18,
+      660,
+      541,
+      19
+    ],
+    "text": ". _. Published as a Supplement to Part II of the Gazette of the Democratic",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      45,
+      682,
+      467,
+      19
+    ],
+    "text": ": Socialist Republic of Sri Lanka of December 06, 1996",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      114,
+      770,
+      392,
+      11
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OP GOVERNMENT PRINTING, SRILANKA",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93,
+      797,
+      433,
+      12
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO |",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      51,
+      819,
+      496,
+      33
+    ],
+    "text": "Prive : Re. 1.35 Postage : Rs, 2.55",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140,
+      61,
+      314,
+      19
+    ],
+    "text": "Teitile Quota Board Act, No. 33 of 1996",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      116,
+      91,
+      311,
+      25
+    ],
+    "text": "\" fCertfied on 4th December, 1996] *\"",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      118,
+      249,
+      18
+    ],
+    "text": "L,D.0 35/95 :",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      150,
+      490,
+      19
+    ],
+    "text": "AN ACT To PROVIDE-FOR THE ESTABLISHMENT OF A Texme =o Foe",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98,
+      169,
+      467,
+      15
+    ],
+    "text": "QUOTA BOARD ; AND FOR MATTERS CONNECTED THEREWITH OR \"",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88,
+      187,
+      332,
+      14
+    ],
+    "text": "{INCIDENTAL THERETOS <0 eS BR A to",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      217,
+      376,
+      17
+    ],
+    "text": "BB it enacted hy the Parliament of the Democratic Socialist",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      238,
+      420,
+      16
+    ],
+    "text": "Republic of Sri Lanka as follows: .",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99,
+      265,
+      446,
+      15
+    ],
+    "text": "1, This Act may be cited as the Textile Quota Board Act, Short tle and",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      281,
+      483,
+      18
+    ],
+    "text": "No. 33 of 1996 and shall come ino operation on such date, as dae of operation.",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      302,
+      377,
+      16
+    ],
+    "text": "the Minister may appoint by Order published in the Gazette.",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98,
+      331,
+      461,
+      14
+    ],
+    "text": "2, (1) There shall be established a board which shall be Botabishmest of",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      348,
+      482,
+      16
+    ],
+    "text": "called the Textile Quota Board (hereinafler referred to as the the Textile Quom",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      359,
+      428,
+      32
+    ],
+    "text": "Board\"). hon in ; Bom,",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98,
+      394,
+      359,
+      15
+    ],
+    "text": "(2) The Board shall, by the name assigned to it by sub-",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      413,
+      489,
+      15
+    ],
+    "text": "section (1), be a body corporate having perpetual succession roo",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      432,
+      470,
+      19
+    ],
+    "text": "and a common seal and may sue and be sued in its corporate \\",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      441,
+      375,
+      32
+    ],
+    "text": "name. . :",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98,
+      477,
+      458,
+      25
+    ],
+    "text": "3. (1) The Board shall consist of Members of te",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99,
+      500,
+      410,
+      18
+    ],
+    "text": "(a) the Secretary to the Ministry of the Minister or any :",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      137,
+      522,
+      321,
+      15
+    ],
+    "text": "other officerof the Ministry appointed by the Minister",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      137,
+      540,
+      321,
+      15
+    ],
+    "text": "who shail be the Chairman of the Board (hereinafter",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      137,
+      560,
+      291,
+      14
+    ],
+    "text": "referred toas the Chairman}; .-; :",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99,
+      583,
+      361,
+      16
+    ],
+    "text": "() the Director-General of the Board of Investment of",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      137,
+      602,
+      323,
+      16
+    ],
+    "text": "Sti Lankaestablished by the Board of Investmentof",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      138,
+      621,
+      295,
+      15
+    ],
+    "text": "Sri Lanka Law, No. 4 of 1978 or bis nominee ;",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      644,
+      365,
+      17
+    ],
+    "text": "~ () the Director-General of Customs of his nominee ;",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      100,
+      670,
+      300,
+      15
+    ],
+    "text": "(@) the Director of Commerce or his nominee ;",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      101,
+      693,
+      359,
+      16
+    ],
+    "text": "(e) the Chairman of the Sri Lanka Export-Development",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      138,
+      712,
+      322,
+      16
+    ],
+    "text": "Board established by the Sri Lanka Export",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139,
+      731,
+      321,
+      17
+    ],
+    "text": "Development Act, No, 40 of 1979 orhis nominee ;",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108,
+      752,
+      254,
+      12
+    ],
+    "text": "2 and -",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      105,
+      775,
+      357,
+      17
+    ],
+    "text": "(f not more than five other persons to represent",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      793,
+      371,
+      17
+    ],
+    "text": "zs associations connected with the export of textiles,",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      813,
+      382,
+      17
+    ],
+    "text": "tes, and textile, products, appointed by the Minister",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140,
+      832,
+      312,
+      18
+    ],
+    "text": "(hereinafter referred to as appointed members).",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      861,
+      520,
+      16
+    ],
+    "text": "2D 041842 7,355 (6/10) :",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      164,
+      57,
+      316,
+      15
+    ],
+    "text": "2 Textile Quota Board Act, No. 33 of 1996",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      184,
+      88,
+      354,
+      16
+    ],
+    "text": "(2) The provisions of the Schedule. this Act shall have",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      165,
+      107,
+      353,
+      15
+    ],
+    "text": "effect in relation to the appointed members of ihe Board.",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      48,
+      133,
+      484,
+      34
+    ],
+    "text": "Objet ofthe 4, The objecis of the Board shall bo s+",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      52,
+      157,
+      414,
+      28
+    ],
+    "text": "Bosrd, van",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      184,
+      182,
+      354,
+      15
+    ],
+    "text": "(@) to formulate an appropriate scheme or schemes for the",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      221,
+      201,
+      317,
+      15
+    ],
+    "text": "management, distribution, utilization and allocation",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      167,
+      219,
+      371,
+      16
+    ],
+    "text": "+ 9 gFexport-quotas of textile and textile products granted",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119,
+      238,
+      419,
+      15
+    ],
+    "text": ". to Sri Lanka and to manage and carry out such",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79,
+      257,
+      459,
+      15
+    ],
+    "text": "re scheme or schemes alter approval by the Minister",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      112,
+      276,
+      408,
+      14
+    ],
+    "text": "olny ahd ws :",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      104,
+      306,
+      436,
+      27
+    ],
+    "text": ". @), taadvisethe Minister regarding theimplementalion of",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      67,
+      331,
+      471,
+      16
+    ],
+    "text": ". scheme or schemes formulated under paragraph (a),",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144,
+      351,
+      394,
+      15
+    ],
+    "text": ". and on any other matters that may be referred io itby",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      221,
+      370,
+      164,
+      12
+    ],
+    "text": "the Minister for its advice.",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      54,
+      406,
+      485,
+      17
+    ],
+    "text": "Powers, dues. 15, For the purpose of carrying out its objects, the Board",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      53,
+      421,
+      486,
+      25
+    ],
+    "text": "and funtions of may exercise, perform anddischargeall orany of the following",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      166,
+      445,
+      351,
+      16
+    ],
+    "text": "powers, duties, and functions",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      116,
+      474,
+      423,
+      24
+    ],
+    "text": "vo (@) tomanageand carry-ovltheschemeorschemes forthe",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      165,
+      501,
+      375,
+      15
+    ],
+    "text": "\"distribution, utilization and allogation of export",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      165,
+      509,
+      162,
+      33
+    ],
+    "text": ": quotas ; :",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      186,
+      554,
+      354,
+      15
+    ],
+    "text": "() to allocate export quoias among registered exporters",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      169,
+      572,
+      372,
+      16
+    ],
+    "text": "+ + + andtevary, suspend, cancel oF restore allocations of",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      174,
+      594,
+      255,
+      13
+    ],
+    "text": ". - export quotas ;\" red",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      187,
+      618,
+      353,
+      22
+    ],
+    "text": "{c) lodetermine the terms and conditions subject to which",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      223,
+      644,
+      197,
+      15
+    ],
+    "text": "export quotas will be allocated :",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      186,
+      676,
+      355,
+      17
+    ],
+    "text": "(@) todirect registered exporters to furnish, in such form",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      174,
+      696,
+      367,
+      19
+    ],
+    "text": "_ as may be determined by the Board, information",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      223,
+      715,
+      318,
+      16
+    ],
+    "text": "relating o heir manufacturing capacity,employment,",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      223,
+      734,
+      319,
+      15
+    ],
+    "text": "production, utilization of export quotas, marketing",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      162,
+      753,
+      349,
+      20
+    ],
+    "text": "s+ _ Programmes and any other related matters ;",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      175,
+      782,
+      367,
+      20
+    ],
+    "text": "* G@) to collect, collate, classify and publish information",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161,
+      804,
+      381,
+      16
+    ],
+    "text": "3 relating (6the management of the scheme orschemes",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      175,
+      824,
+      274,
+      15
+    ],
+    "text": "+5 ghd the utilization of export qiotas ;",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139,
+      59,
+      314,
+      16
+    ],
+    "text": "Textile Quota Board Act, No. 33 of 1996 4",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      76,
+      90,
+      382,
+      17
+    ],
+    "text": "+ \"(f):t0 monitor from time to time the utilization of export",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      100,
+      109,
+      291,
+      16
+    ],
+    "text": "++ quotas allocated to registered exporters:",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      96,
+      148,
+      361,
+      16
+    ],
+    "text": "(g) Ww purchase, hold, take, give on lease, montgageer hire",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      88,
+      167,
+      369,
+      15
+    ],
+    "text": "sorseltorotherwise dispose of movable or immovable",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93,
+      188,
+      285,
+      13
+    ],
+    "text": "ee ee",
+    "mean_p_confidence": 0.09
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      75,
+      223,
+      341,
+      17
+    ],
+    "text": "* (A) to open and maintain bank acounts's\"\"\" > +",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      99,
+      260,
+      358,
+      18
+    ],
+    "text": "@ to levy fees or charges for any services rendered or",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89,
+      280,
+      369,
+      17
+    ],
+    "text": "~ provided to registered exporters of on registration of",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      129,
+      295,
+      245,
+      25
+    ],
+    "text": "such exporters ; Toate",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      98,
+      330,
+      358,
+      24
+    ],
+    "text": "{@) to appoint, employ, rermunerate, exercise disciplinary",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      132,
+      358,
+      324,
+      14
+    ],
+    "text": "control.over and dismiss its officers, servants and",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      132,
+      380,
+      240,
+      13
+    ],
+    "text": "agents ; . eon",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      81,
+      414,
+      376,
+      17
+    ],
+    "text": "(R) tomake rules relating to meetings of the Board and on",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      133,
+      435,
+      324,
+      15
+    ],
+    "text": "matters in respect of which rules are Fequired to be",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      133,
+      454,
+      206,
+      14
+    ],
+    "text": "framed under this Act; and",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      98,
+      492,
+      359,
+      16
+    ],
+    "text": "(D. generally to do all such other thingias arc necessary",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      74,
+      511,
+      384,
+      16
+    ],
+    "text": "e+ to facilitate the proper discharge of functions of the",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      78,
+      522,
+      268,
+      31
+    ],
+    "text": "5 Board. toon",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      94,
+      567,
+      458,
+      18
+    ],
+    "text": "6. (1) The Board may vary, suspend or cancel an export Power to wy,",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      74,
+      578,
+      494,
+      36
+    ],
+    "text": "quola allocated to any registered exporter, where it is found aoe or cancel",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      75,
+      608,
+      318,
+      16
+    ],
+    "text": "tha- - ae",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      95,
+      639,
+      364,
+      17
+    ],
+    "text": "(a) :anexport quotahas been obtained by mis-representing",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      130,
+      651,
+      256,
+      31
+    ],
+    "text": "facts ; q",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      76,
+      691,
+      383,
+      18
+    ],
+    "text": "* () an export-quota allocated is far in-excess of the",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      134,
+      711,
+      326,
+      17
+    ],
+    "text": "installed capacity to produce textiles and textile",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      133,
+      729,
+      289,
+      34
+    ],
+    "text": "products : bet aan et",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      97,
+      764,
+      363,
+      18
+    ],
+    "text": "(c} further quantitative restrictions have been placed by",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71,
+      784,
+      390,
+      18
+    ],
+    "text": "i se-the importing countries or where the scheme",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70,
+      803,
+      391,
+      17
+    ],
+    "text": "+. + fomulated for the management, distribution, and",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      87,
+      822,
+      375,
+      18
+    ],
+    "text": "--~. allocation of export quotas is amended due to the",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      135,
+      843,
+      308,
+      16
+    ],
+    "text": "non-availability of sufficient quotas 3\"! -- <",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      153,
+      51,
+      320,
+      15
+    ],
+    "text": "4 Textile Quota Board Act, No. 33 of 1996",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      156,
+      82,
+      377,
+      16
+    ],
+    "text": "+. {d)' afler review of the performance of a factory, that",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      211,
+      101,
+      322,
+      16
+    ],
+    "text": "export quotas are untikely to be utilised by such",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      212,
+      121,
+      126,
+      15
+    ],
+    "text": "registered exporter ;",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      175,
+      159,
+      358,
+      15
+    ],
+    "text": "(@) the conditions laid down by the Board, when",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      211,
+      178,
+      312,
+      16
+    ],
+    "text": "allocating export quotas have not been observed ;",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      178,
+      208,
+      355,
+      16
+    ],
+    "text": "(A aregistered exporter has forged or caused to be forged",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      211,
+      227,
+      324,
+      16
+    ],
+    "text": "an export licence or a texiile visa o a certificate of",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      167,
+      247,
+      367,
+      15
+    ],
+    "text": "4 origin as the case may be which he is required Lo",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      166,
+      266,
+      367,
+      15
+    ],
+    "text": ". Obtain in order toexport any textile or textile product",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      212,
+      285,
+      251,
+      15
+    ],
+    "text": "under an export quota allocation ; .",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      174,
+      313,
+      360,
+      16
+    ],
+    "text": "(g) aregistered exporter has without due authority, made",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      211,
+      333,
+      323,
+      15
+    ],
+    "text": "any alteration or caused any alteration to be made to",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      211,
+      352,
+      324,
+      15
+    ],
+    "text": "4n expori licence, a textile visa or a certificate of",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      211,
+      371,
+      167,
+      16
+    ],
+    "text": "origin as the case may be ;",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      174,
+      400,
+      360,
+      15
+    ],
+    "text": "(Ah) a registered exporter, when applying for an export",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      212,
+      419,
+      322,
+      15
+    ],
+    "text": "licence or textile visa or certificate of origin has",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      212,
+      438,
+      322,
+      15
+    ],
+    "text": "furnished information whichis false or misleading in",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      211,
+      457,
+      323,
+      16
+    ],
+    "text": "a material particular of has omitled any material",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      211,
+      477,
+      68,
+      15
+    ],
+    "text": "particular ;",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      153,
+      506,
+      382,
+      16
+    ],
+    "text": "\" (i) asegistered exporter or any employee or agent of a",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      212,
+      526,
+      323,
+      16
+    ],
+    "text": "registered exporter, has made use of any export",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      212,
+      545,
+      323,
+      15
+    ],
+    "text": "licence, textile visa, a certificate of origin or any",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      212,
+      564,
+      323,
+      13
+    ],
+    "text": "other document which is related to of is connected",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      213,
+      583,
+      322,
+      16
+    ],
+    "text": "with the export of textile or textile product, which",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      213,
+      603,
+      170,
+      15
+    ],
+    "text": "has been forged or altered :",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      179,
+      633,
+      356,
+      16
+    ],
+    "text": "() aregistered exporter has committed any malpractice ;",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      213,
+      653,
+      22,
+      12
+    ],
+    "text": "and",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      177,
+      683,
+      359,
+      16
+    ],
+    "text": "(k) a registered exporter has failed or refused to pay the",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      213,
+      703,
+      240,
+      15
+    ],
+    "text": "textile quota cess, .",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      176,
+      734,
+      360,
+      16
+    ],
+    "text": "@) Nothing contained in subsection (1) of this section,",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      157,
+      754,
+      379,
+      16
+    ],
+    "text": "shall preclude any prosecution being brought under section 23,",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      157,
+      773,
+      379,
+      17
+    ],
+    "text": "of this Act, against any person whose textile quota allocation",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      158,
+      792,
+      379,
+      17
+    ],
+    "text": "is varied, suspended or cancelled under paragraphs (), (). (A)",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      157,
+      812,
+      380,
+      16
+    ],
+    "text": "or (i) of subsection (1), in addition tosuch variation, suspension",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      158,
+      831,
+      313,
+      16
+    ],
+    "text": "or cancellation as the case may be. fon",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      136,
+      48,
+      303,
+      21
+    ],
+    "text": "Textile Quota Board Act, No. 33 of 1996 5",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93,
+      83,
+      466,
+      16
+    ],
+    "text": "7. The members of the Board may be paid such Remuneration 1",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      74,
+      99,
+      449,
+      16
+    ],
+    "text": "remuneration out of the Fund of the Board as the Minister paid",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      74,
+      115,
+      448,
+      22
+    ],
+    "text": "may, in consultation with the Minister incharge of the subject \"%",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      73,
+      140,
+      325,
+      12
+    ],
+    "text": "of Finance determine. : :",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      84,
+      178,
+      452,
+      16
+    ],
+    "text": "8 (1) The Chairman shall, if present, preside at every Chairmanto",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      74,
+      197,
+      448,
+      18
+    ],
+    "text": "meetingofthe Board. IntheabsenceoftheChairmanfromany preside at",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      73,
+      215,
+      497,
+      17
+    ],
+    "text": "such meeting, the members present shall elect one of the ONE |",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      74,
+      235,
+      498,
+      19
+    ],
+    "text": "members present, to preside at such meeting, us .",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      92,
+      266,
+      362,
+      15
+    ],
+    "text": "(2) The quotem for any meeting of the Board shall be five",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      73,
+      275,
+      310,
+      32
+    ],
+    "text": "members, ce",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      92,
+      315,
+      361,
+      16
+    ],
+    "text": "(3) The person presiding atany meeting of the Board shall",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      73,
+      334,
+      326,
+      16
+    ],
+    "text": "in addition to his own vote, have a casting vote.",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      92,
+      365,
+      362,
+      16
+    ],
+    "text": "(4) Subjecttothe provisions of this section, the Board may",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      73,
+      384,
+      381,
+      16
+    ],
+    "text": "regulatc the procedure in regard to the meetings of the Board",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      73,
+      404,
+      310,
+      15
+    ],
+    "text": "and the transaction of business at such meetings.",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      92,
+      433,
+      480,
+      17
+    ],
+    "text": "9. No act, decision or proceeding of the Board shall be Noe, decision or",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72,
+      446,
+      463,
+      22
+    ],
+    "text": "deemed to be invalid, by reason only of the existence of any Bcceedines",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72,
+      471,
+      440,
+      17
+    ],
+    "text": "defect in the appointment of any member thereof. invalid.",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93,
+      502,
+      474,
+      16
+    ],
+    "text": "10. (1) The seal of the Board may be determined and Seal ofthe Board.",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72,
+      521,
+      383,
+      16
+    ],
+    "text": "devised hy the Board and may be altered in such manner as",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      73,
+      541,
+      307,
+      16
+    ],
+    "text": "may be determined by the Board. :",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      92,
+      570,
+      429,
+      16
+    ],
+    "text": "(2) The seal of the Board shall be in the custody of the. .",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72,
+      590,
+      500,
+      13
+    ],
+    "text": "Chairman of the Board. *",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      92,
+      620,
+      364,
+      15
+    ],
+    "text": "(3) The seal of the Board shall not be affixed to any",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      73,
+      639,
+      383,
+      17
+    ],
+    "text": "instrament or document except with the sanction of the Board",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      73,
+      658,
+      383,
+      17
+    ],
+    "text": "and in the presence of two members of the Board who shall",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      73,
+      678,
+      377,
+      16
+    ],
+    "text": "sign the instrument or document in token of their presence.",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93,
+      708,
+      364,
+      16
+    ],
+    "text": "(4) The Board shall maintain a register of the instruments",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      73,
+      727,
+      384,
+      14
+    ],
+    "text": "and documents to which the seal of the Board has been affixed.",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      94,
+      757,
+      455,
+      18
+    ],
+    "text": "11. (1) The initial capital of the Board shall consist of Capital of the",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      73,
+      774,
+      440,
+      21
+    ],
+    "text": "such amount as may be made available to the Board by the Besrd.",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      73,
+      797,
+      386,
+      15
+    ],
+    "text": "Government on such terms and conditions as may be",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      74,
+      816,
+      472,
+      20
+    ],
+    "text": "determined by the Minister, with the concurrence of the ann",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      74,
+      836,
+      374,
+      18
+    ],
+    "text": "Minister in charge of the subject of Finance, a",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      154,
+      45,
+      330,
+      16
+    ],
+    "text": "6 Textile Quota Board Act, No. 33 of 1996",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      173,
+      76,
+      371,
+      16
+    ],
+    "text": "(2) The capital of the Board may be increased from time",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      154,
+      96,
+      390,
+      15
+    ],
+    "text": "to me by such amount as may be determined by the Minister",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      153,
+      115,
+      391,
+      16
+    ],
+    "text": "with the concurrence of the Minister in charge of the subject",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      153,
+      135,
+      390,
+      15
+    ],
+    "text": "of Finance, and shall be made available to the Board by way",
+    "mean_p_confidence": 0.88
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      153,
+      154,
+      391,
+      16
+    ],
+    "text": "of grant or loan and on such terms and conditions as may be",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115,
+      174,
+      429,
+      18
+    ],
+    "text": "_ determined by the Minister with the concurrence of the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      153,
+      193,
+      294,
+      16
+    ],
+    "text": "Minister in charge of the subject of Finance.",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      37,
+      222,
+      506,
+      20
+    ],
+    "text": "Fund ofthe 42. (1) The Board shall have its own Fund und there shall",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      37,
+      239,
+      275,
+      28
+    ],
+    "text": "Bonrd. be paid into the Fund.",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      173,
+      274,
+      372,
+      23
+    ],
+    "text": "(a) any sums of money made available tothe Board under",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      212,
+      301,
+      74,
+      14
+    ],
+    "text": "section 115",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      173,
+      335,
+      372,
+      15
+    ],
+    "text": "(B) all such suns of money as may be received by the",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      190,
+      354,
+      356,
+      18
+    ],
+    "text": "| Board in the exercise, porformance and discharge of",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      175,
+      373,
+      348,
+      17
+    ],
+    "text": "* \"= igs powers, duties and funetions under this Act ;",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      175,
+      408,
+      370,
+      16
+    ],
+    "text": "6) all such sums of money as may be received by the",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      201,
+      428,
+      344,
+      17
+    ],
+    "text": "._ Board by way of donations, gifts or grants from any",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      213,
+      448,
+      332,
+      14
+    ],
+    "text": "source whatsoever, whether in or outside Sri Lanka.",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      174,
+      486,
+      373,
+      17
+    ],
+    "text": "(2) There shall be paid ovt of the Fund all such sums of",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      117,
+      507,
+      429,
+      16
+    ],
+    "text": "=. money required to deltay any expenditure incurred by the",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      155,
+      526,
+      391,
+      17
+    ],
+    "text": "Board in the exercise, performance and discharge of its",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      155,
+      547,
+      239,
+      15
+    ],
+    "text": "powers, dutics and functions...",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      38,
+      585,
+      509,
+      17
+    ],
+    "text": "Financial yearof 13, (1) The financial yoar of the Board shall be the",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      39,
+      601,
+      495,
+      20
+    ],
+    "text": "the Board. calendar year. .",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      175,
+      638,
+      371,
+      23
+    ],
+    "text": "(2) The Board shalt, in respect of each financial year,",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      155,
+      664,
+      392,
+      17
+    ],
+    "text": "cause proper books of accounts to be kept of its income and",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      155,
+      683,
+      393,
+      17
+    ],
+    "text": "expenditure, assets and liabilities, and al) other transactions of",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      156,
+      704,
+      67,
+      12
+    ],
+    "text": "the Board,",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      176,
+      743,
+      371,
+      16
+    ],
+    "text": "(3) The provisions of Article [54 of the Constitition",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      67,
+      763,
+      481,
+      18
+    ],
+    "text": "| ae a Telating to the audit of the accounts of public corporations",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      156,
+      783,
+      340,
+      16
+    ],
+    "text": "shall apply to the audit of the accounts of the Board.",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      38,
+      812,
+      512,
+      33
+    ],
+    "text": "Chief executive 14, The Chairman shall be the chief executive officer of",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      42,
+      831,
+      477,
+      34
+    ],
+    "text": "oie. theBoord, ;",
+    "mean_p_confidence": 0.05
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      145,
+      53,
+      309,
+      15
+    ],
+    "text": "Textile Quota Board Act, No. 33 of. 1996 7",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      103,
+      82,
+      433,
+      16
+    ],
+    "text": "15. (1) The Ministes shall, in consultation with the Board, Diector-",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83,
+      101,
+      453,
+      16
+    ],
+    "text": "appoint asuitably qualified person to be the Director-General General.",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83,
+      121,
+      386,
+      13
+    ],
+    "text": "ofthe Board. The Director-General shall be a full time officer",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83,
+      138,
+      507,
+      15
+    ],
+    "text": "of the Board and shall receive such remuneration and ather .",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83,
+      159,
+      299,
+      20
+    ],
+    "text": "benefits as may be determined by the Board.",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      102,
+      198,
+      366,
+      16
+    ],
+    "text": "(2) The Director-General shall, subject to the direction",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83,
+      217,
+      386,
+      16
+    ],
+    "text": "and control of the Chairman, be charged with the management",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83,
+      236,
+      385,
+      14
+    ],
+    "text": "ofthe affairs and transactions of the Board, the administration",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83,
+      255,
+      352,
+      22
+    ],
+    "text": "and control of the officers and servants of the Board,",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      102,
+      294,
+      366,
+      16
+    ],
+    "text": "3) The Director-General may, with the prior approval",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      45,
+      313,
+      424,
+      16
+    ],
+    "text": "+ of the Board, whenever he considers it necessary (0 do so,",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      82,
+      333,
+      387,
+      16
+    ],
+    "text": "delegate to any officer or servant of the Board any power,",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83,
+      352,
+      386,
+      16
+    ],
+    "text": "Tunction or duty conferred or imposed on or assigned to him",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83,
+      371,
+      386,
+      16
+    ],
+    "text": "by his Act, and such officeror servant shall exercise, discharge",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      82,
+      391,
+      387,
+      15
+    ],
+    "text": "and perform such power, function or duty subject to the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83,
+      410,
+      340,
+      16
+    ],
+    "text": "general or special directions of the Director-General.",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      103,
+      448,
+      444,
+      17
+    ],
+    "text": "16. (1) The Board may appoint such other officers and Stafof the",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      82,
+      464,
+      441,
+      20
+    ],
+    "text": "servanisas itconsiders necessary fortheefficient dischargeaf Bow.",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83,
+      487,
+      421,
+      13
+    ],
+    "text": "its functions. : : me",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      102,
+      526,
+      368,
+      16
+    ],
+    "text": "(2) The officers and servants appointed under subsetion",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      82,
+      545,
+      388,
+      15
+    ],
+    "text": "(1) shall be remunerated in such manner and at such rates and",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      82,
+      564,
+      388,
+      16
+    ],
+    "text": "shall be subject to such conditions of service as may be",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      82,
+      584,
+      314,
+      16
+    ],
+    "text": "determined by the Board. :",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      103,
+      618,
+      368,
+      17
+    ],
+    "text": "(3) Al the request of the Board any officer in, the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83,
+      638,
+      388,
+      16
+    ],
+    "text": "public service may, with the consent of the officer and the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83,
+      657,
+      389,
+      17
+    ],
+    "text": "Secretary to the Ministry of the Minister in charge of the",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83,
+      677,
+      503,
+      19
+    ],
+    "text": "subject of Public Administeation, be temporarily appointed to ok",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      84,
+      696,
+      493,
+      17
+    ],
+    "text": "the Board for such period as may be determined by the Board *",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      84,
+      715,
+      435,
+      23
+    ],
+    "text": "with like consent, or b permanently appointed to such staff. =.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90,
+      760,
+      495,
+      16
+    ],
+    "text": ": (4) Where any officer in the public service is temporarily wo",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      84,
+      779,
+      389,
+      16
+    ],
+    "text": "appointed to the staffaf the Board. the provisionsofsubscction",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      85,
+      799,
+      389,
+      16
+    ],
+    "text": "(2) of section 14 of the National Transport Commisions, Act,",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      85,
+      818,
+      389,
+      16
+    ],
+    "text": "No. 31 of 1991, shall, mutatis mutandis, apply to, and in",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      18,
+      835,
+      401,
+      23
+    ],
+    "text": ". relation to iM. oie. agate rarer",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      162,
+      53,
+      323,
+      15
+    ],
+    "text": "8 Textile Quota Boarid Act, No. 33 of 1996",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      141,
+      86,
+      401,
+      16
+    ],
+    "text": "* (5) Where any officer in the public service is permanently",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      142,
+      102,
+      400,
+      22
+    ],
+    "text": "* appointed to the staff of the Board, the provision of subsection",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      44,
+      124,
+      498,
+      15
+    ],
+    "text": ". (3) of section 14 of the National Tranport Commission Act,",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      163,
+      143,
+      379,
+      16
+    ],
+    "text": "No. 37 of 1991, shall, mutatis mutandis, apply to, and in",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      162,
+      163,
+      101,
+      13
+    ],
+    "text": "relation to, him,",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      182,
+      204,
+      360,
+      15
+    ],
+    "text": "() Where the Board employs any person who has agreed",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      163,
+      222,
+      381,
+      16
+    ],
+    "text": "to serve the Government for a specified period, any period of",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      163,
+      242,
+      380,
+      15
+    ],
+    "text": "service to the Board by that person shall be regarded asservice",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      163,
+      261,
+      380,
+      15
+    ],
+    "text": "to the Government, for the purpose of discharging the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      163,
+      280,
+      193,
+      16
+    ],
+    "text": "obligations of such agreement.",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      182,
+      321,
+      360,
+      16
+    ],
+    "text": "(7) Atthe request of the Board, any member of the Local",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      163,
+      340,
+      380,
+      16
+    ],
+    "text": "Government Service or any other officer or servant of a Local",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      163,
+      359,
+      381,
+      16
+    ],
+    "text": "authority, may, with the consent of such member, officer or",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      163,
+      378,
+      381,
+      13
+    ],
+    "text": "servant and ihe Local Government Service Commission, or",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      163,
+      398,
+      381,
+      15
+    ],
+    "text": "the focal authority, as the case may be, be temporarily appointed",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      164,
+      417,
+      379,
+      15
+    ],
+    "text": "tothe staff, of the Board for such period as may be determined",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      164,
+      436,
+      380,
+      16
+    ],
+    "text": "by the Board with tikeconsent or be permanently appointed to",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      164,
+      455,
+      380,
+      15
+    ],
+    "text": "such staff oa such terms and conditions including those",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      131,
+      474,
+      413,
+      16
+    ],
+    "text": "~ relating to pension or provident fund rights as may be agreed",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      164,
+      494,
+      380,
+      15
+    ],
+    "text": "upon by the Board and the Local Government Service",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      164,
+      513,
+      223,
+      16
+    ],
+    "text": "Commission or that local authority.",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      183,
+      554,
+      362,
+      16
+    ],
+    "text": "(8) Where any member of the Local Government Service",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      164,
+      573,
+      380,
+      17
+    ],
+    "text": "or any officer or, servant of any locat authority is appointed",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      164,
+      593,
+      381,
+      16
+    ],
+    "text": "temporarily under subsection (710 the staff of the Board, he",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      127,
+      613,
+      419,
+      15
+    ],
+    "text": "+ shall be subject to the same disciplinary control as any other",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      165,
+      632,
+      187,
+      12
+    ],
+    "text": "member of such staff. :",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      51,
+      676,
+      495,
+      18
+    ],
+    "text": "Appointment of 17. (1) Atthe request of the Board, any officer or servant",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      51,
+      688,
+      495,
+      33
+    ],
+    "text": "ofBenrs and bie OF A Public corporation may, with consent of such officer or",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      51,
+      710,
+      495,
+      26
+    ],
+    "text": "copomignsi sefvant and the governing board of such corporation, be",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      51,
+      734,
+      495,
+      16
+    ],
+    "text": "ttestaff ofthe temporarily appointed to the staff of the Board for such period",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      52,
+      745,
+      495,
+      31
+    ],
+    "text": "Bond. as may be determined by the Board with like consent or with",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      165,
+      773,
+      382,
+      16
+    ],
+    "text": "Tikeconsent be permanently appointed to thestaffofthe Board",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      165,
+      793,
+      382,
+      16
+    ],
+    "text": "on such terms and conditions, including those relating t0",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      165,
+      812,
+      383,
+      19
+    ],
+    "text": "pension or provident fund rights, as may be agreed upon by the",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      129,
+      832,
+      378,
+      17
+    ],
+    "text": "* Board and the governing board of such corporttion, ~",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      141,
+      45,
+      312,
+      16
+    ],
+    "text": "Textile Quota Board Acs; No. 33 of 1996 9",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      98,
+      77,
+      370,
+      17
+    ],
+    "text": "+ (2) Where any person is appointed whether temporarily or",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      85,
+      96,
+      383,
+      16
+    ],
+    "text": "permanently under subsection (1) to the staff of tbe Board, he",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      82,
+      115,
+      485,
+      18
+    ],
+    "text": "shall be subject to the same disciplinary control as any other .",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      85,
+      134,
+      316,
+      13
+    ],
+    "text": "member ofthe staff. ff weer wh",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      105,
+      166,
+      441,
+      25
+    ],
+    "text": "18. The Board! shall, in the xercise Of its powers, Bouttobe",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      85,
+      189,
+      480,
+      25
+    ],
+    "text": "performance of its duties and the discharge of its functions, subicelto tie",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      85,
+      211,
+      448,
+      18
+    ],
+    "text": "besubjecttoand actin accordance withsuch general orspecial Serie",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      85,
+      230,
+      382,
+      16
+    ],
+    "text": "directions as the Minister may from time to time issue in",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      81,
+      242,
+      377,
+      28
+    ],
+    "text": "writing. .",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      87,
+      288,
+      471,
+      16
+    ],
+    "text": "+ 19, (1) The Board may delegate any of its powers, dutios, Delegation of",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      85,
+      305,
+      498,
+      18
+    ],
+    "text": "and functions under this Act to any member-or officer of the powers, duties and",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      84,
+      320,
+      484,
+      19
+    ],
+    "text": "Board... M van i 2, Rusetions of ths",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      124,
+      335,
+      397,
+      18
+    ],
+    "text": "- . . . . . Board,",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      98,
+      365,
+      371,
+      15
+    ],
+    "text": ".(2) Every member or officer to whom any power, duty of",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      85,
+      384,
+      383,
+      15
+    ],
+    "text": "function is delegated under subsection (1), shall exercise,",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      84,
+      403,
+      385,
+      16
+    ],
+    "text": "perform and discharge such power, duty ar function subjectto",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      85,
+      422,
+      357,
+      16
+    ],
+    "text": "such directions as may be given to him by the Board, _",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      81,
+      455,
+      388,
+      21
+    ],
+    "text": "<4 (3) The Board shall, notwithstanding any delegation made",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      83,
+      479,
+      386,
+      16
+    ],
+    "text": "under subsection {1), have the power to exercise, perform and",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      84,
+      499,
+      360,
+      16
+    ],
+    "text": "discharge the powers, duties and functions so delegated.",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      82,
+      535,
+      501,
+      22
+    ],
+    "text": "\"20. All officers and servants of the Board shall beddeemed Members, officers",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      85,
+      548,
+      498,
+      36
+    ],
+    "text": "to be public servants within the meaning of; and fof the and servants Of od",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      85,
+      577,
+      465,
+      16
+    ],
+    "text": "purposes of the Penal Code: * . 2808 tobe public",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      104,
+      633,
+      474,
+      24
+    ],
+    "text": "21, TheBoardshellbedeemedtobeascheduled institution Boord oemed io",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      85,
+      650,
+      493,
+      25
+    ],
+    "text": "within the qneaning of the Bribery Act, end the provisions of Fitton uthin",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      85,
+      673,
+      483,
+      16
+    ],
+    "text": "that Act shall be construed accordingly. the manning of",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      84,
+      688,
+      490,
+      18
+    ],
+    "text": "yeti a Iiw wot AE the Bribery Act.",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      163,
+      731,
+      275,
+      11
+    ],
+    "text": "van teh bg 1S.",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      87,
+      755,
+      476,
+      11
+    ],
+    "text": ". , fei oe Protection for",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      95,
+      750,
+      458,
+      44
+    ],
+    "text": "22, (1) No suit or prosecutions shal lie vei Projection",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      79,
+      781,
+      500,
+      12
+    ],
+    "text": "ne eee ee errors",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      80,
+      786,
+      492,
+      26
+    ],
+    "text": "cor (@) against the Board, for any-act which-in good faith is Gythe drecion",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      78,
+      810,
+      481,
+      19
+    ],
+    "text": "ui iin ve done or purported.io be. done by the Board under this of the Board.",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      129,
+      834,
+      334,
+      16
+    ],
+    "text": "6 ABLE oe hae tiie oll ata elg t Sut itil",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      157,
+      42,
+      321,
+      15
+    ],
+    "text": "10 Textile Quota Board-Act, No. 33 of 1996",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      152,
+      75,
+      384,
+      16
+    ],
+    "text": "vt (by against any member,:officer, servant or agefitiof the",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      212,
+      94,
+      325,
+      16
+    ],
+    "text": "Board for any act which in good faith is done or",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      167,
+      113,
+      369,
+      16
+    ],
+    "text": "+ +4, purported to be done by him under this Act, oron the",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      212,
+      132,
+      316,
+      13
+    ],
+    "text": "directions of the Board. wa et",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      80,
+      161,
+      457,
+      17
+    ],
+    "text": "a (2) Any expenses incurred by the Board in any suit or",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      155,
+      180,
+      381,
+      16
+    ],
+    "text": "prosecution brought by or against the Board before any court,",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      125,
+      199,
+      411,
+      16
+    ],
+    "text": ": shall be paid outof the Fund and any costs paid to, or recovered",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      117,
+      218,
+      419,
+      16
+    ],
+    "text": "~ by the Board in any such suit or prosecution shalt be credited",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      155,
+      238,
+      357,
+      17
+    ],
+    "text": "to the Bund, .",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      175,
+      266,
+      362,
+      15
+    ],
+    "text": "(3) Any expenses incurred by any such person as is",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      114,
+      285,
+      423,
+      16
+    ],
+    "text": "+ referred to in paragraph (b) of subsection (1) in any suil or",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      52,
+      304,
+      486,
+      18
+    ],
+    "text": "~ [o _3 prosecution brought against bim before any court in respect of",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      96,
+      321,
+      441,
+      20
+    ],
+    "text": "iy anyact whichis done or purported to be donc by him under this",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      155,
+      342,
+      382,
+      13
+    ],
+    "text": "Act or on the directions of the Board shall, if the court holds",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      153,
+      361,
+      384,
+      16
+    ],
+    "text": "that such act was done in good faith, be paid out of the Fund",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      156,
+      381,
+      381,
+      15
+    ],
+    "text": "to-such person,uniess such expenses are recovered by him in",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      156,
+      400,
+      201,
+      15
+    ],
+    "text": "such suil or prosecution, <",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      42,
+      421,
+      495,
+      31
+    ],
+    "text": "Offences. 23. (1) Every person who contravens any provision of this",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      156,
+      449,
+      382,
+      16
+    ],
+    "text": "Actorany regulation made thereunder of fails to. comply with",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      156,
+      468,
+      382,
+      16
+    ],
+    "text": "any directions or requirements made or imposed on him under",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      156,
+      487,
+      382,
+      16
+    ],
+    "text": "this Act, shall be guilty of an offence under this Act and shall,",
+    "mean_p_confidence": 0.88
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      156,
+      507,
+      382,
+      15
+    ],
+    "text": "on conviction after tial before a Magistrate, be liable to. fine",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      43,
+      526,
+      495,
+      17
+    ],
+    "text": "ta { sMotexceeding one hundred thousandsupees or coimprisonment",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      38,
+      545,
+      500,
+      19
+    ],
+    "text": ": + Of either discription for a period nat exceeding five years or 10",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      128,
+      564,
+      405,
+      19
+    ],
+    "text": ", both such fine and imprisonment. .",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      176,
+      592,
+      362,
+      15
+    ],
+    "text": "(2) Where an offence under this Act iscommitted by abody",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      156,
+      610,
+      113,
+      16
+    ],
+    "text": "of persons then",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      100,
+      632,
+      439,
+      25
+    ],
+    "text": "s_ (@) if that body of persons is a body corporate, every",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      43,
+      657,
+      454,
+      20
+    ],
+    "text": "wee director or officer of that body corporate ; or",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      73,
+      683,
+      466,
+      17
+    ],
+    "text": "ve {b) if that body of persons is a firm, every partner of that",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      214,
+      703,
+      30,
+      14
+    ],
+    "text": "firm,",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      176,
+      722,
+      288,
+      16
+    ],
+    "text": "shall be deemed to be guilty of such offence :",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      82,
+      751,
+      458,
+      19
+    ],
+    "text": "a Provided, however, that a director, or an officer of such",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      44,
+      770,
+      496,
+      17
+    ],
+    "text": "+ uac! +, Dody corporate or pertner of such firm, shali not be deemed to",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      156,
+      790,
+      384,
+      16
+    ],
+    "text": "be guilty of such offence if he proves that such offence was",
+    "mean_p_confidence": 0.88
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      86,
+      809,
+      455,
+      16
+    ],
+    "text": "a committed without his knowledge;$or that he exercised all due",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      157,
+      829,
+      337,
+      16
+    ],
+    "text": "diligence to prevent the commission of such offence.",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      137,
+      56,
+      308,
+      18
+    ],
+    "text": "Textile Quota Board Act,No.33 of 1996 11",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      75,
+      89,
+      431,
+      16
+    ],
+    "text": "! 24,.(1) Without prejudice to the generality of the powers Rules,",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      76,
+      108,
+      378,
+      16
+    ],
+    "text": "conferred upon it by section 5; the Board: may make rules in",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      76,
+      126,
+      316,
+      16
+    ],
+    "text": "respect of the following mattes- i as",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      84,
+      149,
+      370,
+      22
+    ],
+    "text": "(a) matters connected ivith the management and carrying",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      80,
+      169,
+      374,
+      23
+    ],
+    "text": "\",_ Sutof any scheme or schemes formulated under this",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      105,
+      191,
+      350,
+      16
+    ],
+    "text": "Act forthe distribution, utilization and allocation of",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      109,
+      207,
+      225,
+      25
+    ],
+    "text": "export quotas 3",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      94,
+      234,
+      360,
+      16
+    ],
+    "text": "(6) information relating to manufacturing capacity,",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      132,
+      253,
+      322,
+      15
+    ],
+    "text": "production, marketing programmesand other related",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      132,
+      272,
+      258,
+      15
+    ],
+    "text": "matters to be provided by exporters ; and",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      95,
+      295,
+      359,
+      16
+    ],
+    "text": "() the rates and amount of foes t6 be chaiged for any",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      132,
+      314,
+      193,
+      15
+    ],
+    "text": "service rendered by the Board.",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      94,
+      342,
+      361,
+      15
+    ],
+    "text": "(2)A rule madeby the Board under subsection (1),shallnot",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      75,
+      361,
+      379,
+      16
+    ],
+    "text": "baveeffect, until itis approved by the Minister and is published",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      75,
+      379,
+      464,
+      13
+    ],
+    "text": "in the Gazette, .",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      93,
+      408,
+      468,
+      23
+    ],
+    "text": "25, in the even of any inconsistency between the'Sinhsla Sintalatexto",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      74,
+      424,
+      470,
+      22
+    ],
+    "text": "and Tamnil texts of this Act, the Sinhala text shall prevail. ieoasistney,",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      94,
+      465,
+      451,
+      15
+    ],
+    "text": "26, In this Act unless the context otherwise requires _Intorretalion.",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      73,
+      492,
+      381,
+      15
+    ],
+    "text": "* export quota means the eniitlerhent to export from Sri",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      132,
+      511,
+      324,
+      16
+    ],
+    "text": "Lanka to any other country any specificd quantity of",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      98,
+      530,
+      356,
+      16
+    ],
+    "text": "+ textilesand textile products, during a specified period",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      132,
+      549,
+      323,
+      15
+    ],
+    "text": "of time, under, and in accordance with, an agreement",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      132,
+      568,
+      323,
+      12
+    ],
+    "text": "between the Government of Sri Lanka and the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      132,
+      584,
+      240,
+      18
+    ],
+    "text": "Government of that other country ;",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      76,
+      614,
+      379,
+      18
+    ],
+    "text": "\"governing board in relation to a public corporation,",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      79,
+      631,
+      378,
+      17
+    ],
+    "text": ": means the Board of Directors or other body of",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      132,
+      652,
+      324,
+      16
+    ],
+    "text": "persons, howsover designated, charged with the",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      132,
+      671,
+      324,
+      16
+    ],
+    "text": "administration and management of the affairs of the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      88,
+      689,
+      126,
+      17
+    ],
+    "text": "\"corporation ;",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      94,
+      717,
+      362,
+      16
+    ],
+    "text": "local authority means any Municipal Council, Urban",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      133,
+      737,
+      324,
+      15
+    ],
+    "text": "Council or any Pradeshiya Sabha and includes any",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      133,
+      756,
+      324,
+      15
+    ],
+    "text": "authority created or established by or under any law",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      132,
+      774,
+      325,
+      17
+    ],
+    "text": "4exercise, perform and discharge the powers, duties",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      133,
+      793,
+      324,
+      16
+    ],
+    "text": "and functions corresponding'to, or similar to the",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      71,
+      812,
+      386,
+      17
+    ],
+    "text": "1. 0-5, powers, duties and functions exereised, performed",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      133,
+      832,
+      288,
+      16
+    ],
+    "text": "v7. oF discharged by any such Gouncil or Sabha ;",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      594,
+      863,
+      5,
+      14
+    ],
+    "text": "rT",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      165,
+      55,
+      318,
+      15
+    ],
+    "text": "2 Textile Quota Board Act, No. 33 of 1996",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      111,
+      88,
+      428,
+      15
+    ],
+    "text": ". 1+ malpractice includes trans shipment of textites\"and",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      163,
+      107,
+      376,
+      15
+    ],
+    "text": "4: av lextile products originating in any-other countty.as",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      220,
+      126,
+      320,
+      15
+    ],
+    "text": "those originating in-Sri Lanke or vice versa, false",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      163,
+      144,
+      377,
+      18
+    ],
+    "text": "___ declaration regarding the country of origin, falsifi-",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      166,
+      162,
+      374,
+      19
+    ],
+    "text": "gation of official documents with a view to facili-",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      170,
+      180,
+      372,
+      18
+    ],
+    "text": "a tating transhipment or re-routing, and re-routing of",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      161,
+      198,
+      379,
+      18
+    ],
+    "text": "\" \"textiles and textile products and making false decla-",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      221,
+      220,
+      319,
+      15
+    ],
+    "text": "tations concerning fibre contents, quantitics,",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      198,
+      238,
+      343,
+      17
+    ],
+    "text": "description ar classification of merchandise with a",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      195,
+      258,
+      345,
+      15
+    ],
+    "text": "view tocircumventing bi-lateral textile agreements ;",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      183,
+      285,
+      358,
+      16
+    ],
+    "text": "public corporation means any corporation, board or",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      221,
+      304,
+      320,
+      15
+    ],
+    "text": "other body which was or is established by or under",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      221,
+      323,
+      319,
+      15
+    ],
+    "text": "any written law other than the Companies Act, No.",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      169,
+      341,
+      372,
+      16
+    ],
+    "text": "17 of 1982 with funds or capithl wholly or partly",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      210,
+      360,
+      331,
+      17
+    ],
+    "text": "~~ provided by the Government by way of grants, loan",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      221,
+      380,
+      297,
+      14
+    ],
+    "text": "or otherwise ; .",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      82,
+      406,
+      459,
+      16
+    ],
+    "text": "ure + 4, registered exporter means an exporter of textile and",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      74,
+      425,
+      468,
+      20
+    ],
+    "text": ". +, use + Textile products registered with the Ministry of the",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      221,
+      444,
+      321,
+      17
+    ],
+    "text": "Minister in charge of the subject of Textile Industries",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      104,
+      463,
+      438,
+      15
+    ],
+    "text": "am orthe Board of Investment of Sri Lanka, established",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      161,
+      483,
+      381,
+      18
+    ],
+    "text": "_. bythe Board of Investment of Sti Lanka Law, No 4",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      161,
+      503,
+      246,
+      17
+    ],
+    "text": "- | of 1978.as the case may be 5 ,",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      173,
+      528,
+      371,
+      17
+    ],
+    "text": "textile product mans. product made out of any orall of",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      188,
+      549,
+      416,
+      15
+    ],
+    "text": "+. the following > : .",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      204,
+      572,
+      339,
+      17
+    ],
+    "text": "* cott6n, wool, man ntade fibre, silk blended fibre or",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      222,
+      595,
+      136,
+      15
+    ],
+    "text": "other vegetable fibre ;",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      185,
+      614,
+      417,
+      22
+    ],
+    "text": "textile quota cess means the cess imposed under the",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      171,
+      639,
+      320,
+      19
+    ],
+    "text": "| ** provisions of Finance Act, No. 16 of 1995.",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      160,
+      674,
+      366,
+      18
+    ],
+    "text": "we 5 SCHEDULE [section 3 2)1",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      163,
+      714,
+      348,
+      12
+    ],
+    "text": "La Provisions RELATING TO THE APPOINTED. -",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      163,
+      733,
+      317,
+      16
+    ],
+    "text": "cet MEMBERS Of THE BOARD. 5",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      56,
+      763,
+      489,
+      24
+    ],
+    "text": ". cv 1A person shall be disqualified from being appointed or",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      158,
+      790,
+      307,
+      16
+    ],
+    "text": "continuing as a member of the Board. jc",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      158,
+      812,
+      386,
+      15
+    ],
+    "text": "bs.(@) if he isy or becomes a Member'of Parligment, any",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      193,
+      831,
+      314,
+      16
+    ],
+    "text": "i Provincial Council or any local-authority ; or",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      18,
+      866,
+      4,
+      11
+    ],
+    "text": "L",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      147,
+      54,
+      310,
+      16
+    ],
+    "text": "Textile Quota Board Act, No. 33 of 1996 a",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      88,
+      85,
+      378,
+      16
+    ],
+    "text": "+ (b) if he is not, or ccases to be a citizen of Sri Lanka ; or",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      106,
+      104,
+      360,
+      17
+    ],
+    "text": "() if he is under any law in force in Sri Lanka or in any",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      89,
+      123,
+      377,
+      17
+    ],
+    "text": "24 -Other country, found or declared to.be of unsound",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      83,
+      142,
+      266,
+      15
+    ],
+    "text": "4 mind ; oF- . :",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      105,
+      161,
+      361,
+      16
+    ],
+    "text": "(d) if be is & person who, having been declared an insol~",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      143,
+      180,
+      322,
+      16
+    ],
+    "text": "vetitor bankruptunder any law in Sri Lankaorin any",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      142,
+      199,
+      324,
+      16
+    ],
+    "text": "other country, is an undischarged insolvent or",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      142,
+      218,
+      276,
+      15
+    ],
+    "text": "bankcupt ; oF .",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      106,
+      236,
+      360,
+      16
+    ],
+    "text": "(@) itheisserving orhasserved,asentenceof imprisonment",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      143,
+      255,
+      324,
+      16
+    ],
+    "text": "imposed by any court in Sei Lanka or any other",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      142,
+      274,
+      312,
+      16
+    ],
+    "text": "country for an offence involving moral turpitude.",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      104,
+      308,
+      362,
+      15
+    ],
+    "text": "2. Every appointed member of the Board shall, unless he",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      86,
+      326,
+      380,
+      16
+    ],
+    "text": "vacates office earlier by death, resignation or removal, hold",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      85,
+      345,
+      381,
+      16
+    ],
+    "text": "office fora term of two years from the date of his appointment",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      85,
+      365,
+      382,
+      15
+    ],
+    "text": "and unless he has been removed from office, be cligible for",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      85,
+      384,
+      100,
+      15
+    ],
+    "text": "Teappointment :",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      105,
+      417,
+      362,
+      15
+    ],
+    "text": "Provided thet a member appointed in place of a member",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      86,
+      435,
+      380,
+      16
+    ],
+    "text": "who had vacated office by death, resignation ot removal, shall",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      86,
+      454,
+      382,
+      16
+    ],
+    "text": "hold office for the unexpired term of office of the member",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      86,
+      474,
+      123,
+      12
+    ],
+    "text": "whom be succeeds.",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      105,
+      504,
+      362,
+      15
+    ],
+    "text": "3, The Minister may, by Order published in the Gazette,",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      86,
+      522,
+      381,
+      16
+    ],
+    "text": "remove any appointed member of the Board from office,",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      86,
+      541,
+      382,
+      16
+    ],
+    "text": "withoutassigningany reason therefore. An appointed member",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      86,
+      560,
+      382,
+      16
+    ],
+    "text": "in respect of whom an Order is made under this paragraph",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      86,
+      579,
+      382,
+      16
+    ],
+    "text": "shall bedeemed tohave vacated officeon the dateof publication",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      86,
+      599,
+      175,
+      12
+    ],
+    "text": "of the Order in the Gazette.",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      105,
+      629,
+      364,
+      16
+    ],
+    "text": "4. An appointed member of the Board may at any time",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      86,
+      648,
+      383,
+      16
+    ],
+    "text": "resign from his office by letter to that effect addressed to the",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      86,
+      667,
+      383,
+      16
+    ],
+    "text": "Minister and such resignation shall take effect upon it being",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      86,
+      687,
+      205,
+      15
+    ],
+    "text": "accepted by Minister in writing.",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      106,
+      716,
+      363,
+      16
+    ],
+    "text": "S.Intheeventof the vacation of office by death, resignation",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      87,
+      735,
+      383,
+      16
+    ],
+    "text": "or removal by any, appointed member of the Board, the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      87,
+      754,
+      383,
+      17
+    ],
+    "text": "Minister may having regard to the provisions of paragraph (f)",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      87,
+      774,
+      384,
+      15
+    ],
+    "text": "of subsection (1) of section 3, appoint any other person to",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      88,
+      792,
+      384,
+      17
+    ],
+    "text": "succeed such member. Any person so appointed in place of",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      88,
+      812,
+      385,
+      16
+    ],
+    "text": "such member, shall hold office during the unexpired part of",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      88,
+      831,
+      351,
+      20
+    ],
+    "text": "the term of office of the member whom he succeeds,",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      165,
+      63,
+      319,
+      16
+    ],
+    "text": "14 Teatile Quota Roard Act No, -33 of 1996",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      160,
+      96,
+      383,
+      16
+    ],
+    "text": "6, Where an appointed member of the Board by reason of",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      163,
+      114,
+      379,
+      16
+    ],
+    "text": "illness, infirmity or absence from Sri Lanka for a period not",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      163,
+      133,
+      378,
+      16
+    ],
+    "text": "Jess than three months, is temporarily unable to perform his",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      163,
+      152,
+      379,
+      16
+    ],
+    "text": "duties, it shall be the duty of such member to inform the",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      163,
+      171,
+      379,
+      16
+    ],
+    "text": "Minister in writing of such inability. Thereupon, the Minister",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      164,
+      190,
+      378,
+      17
+    ],
+    "text": "may having regard to the provisions of paragraph (/) of sub-",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      164,
+      208,
+      378,
+      17
+    ],
+    "text": "section (1) of section 3, appoint some other person toactin his",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      164,
+      229,
+      159,
+      16
+    ],
+    "text": "place during such period.",
+    "mean_p_confidence": 0.76
+  }
+]

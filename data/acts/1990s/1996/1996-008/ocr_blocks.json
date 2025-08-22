@@ -1,0 +1,673 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      112,
+      207,
+      384,
+      18
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      177,
+      239,
+      289,
+      26
+    ],
+    "text": "SOCIALIST REPUBLIC OF ;",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      251,
+      271,
+      119,
+      18
+    ],
+    "text": "SRI LANKA",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      75,
+      384,
+      469,
+      19
+    ],
+    "text": "3RI LANKA BROADCASTING CORPOR ATION",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      182,
+      416,
+      243,
+      24
+    ],
+    "text": "(SPECIAL PROVISIONS)",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      207,
+      456,
+      226,
+      22
+    ],
+    "text": "ACT, No, 8 OF 1996 |",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      210,
+      549,
+      341,
+      33
+    ],
+    "text": "[Certited on 26th March, 1996]",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      195,
+      621,
+      238,
+      22
+    ],
+    "text": "Printd on the Order of Government.",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78,
+      730,
+      470,
+      14
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the Democratic",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      152,
+      745,
+      325,
+      13
+    ],
+    "text": "Socialist Republic of Sri Lanka of March 29, 1996",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      90,
+      770,
+      249,
+      13
+    ],
+    "text": ". .",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      127,
+      796,
+      374,
+      10
+    ],
+    "text": "RUT AR DIE DERAREMNE OF COVERIERET PRMASING, ET LANA",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      109,
+      820,
+      410,
+      12
+    ],
+    "text": "yo be ovcksoan Ay Ine COMMMDELNE FusIicAwons BUEEAG, GouanseO OF",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77,
+      846,
+      479,
+      14
+    ],
+    "text": "Price: 38 conts. . . Postage: Rs. 2.60",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      35,
+      375,
+      15
+    ],
+    "text": "Sri Lanks Brosdeasting Corporation (Special Provisione)",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      194,
+      65,
+      122,
+      13
+    ],
+    "text": "Act, No, 8 of 1996",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157,
+      71,
+      253,
+      31
+    ],
+    "text": "[Certified on 26th March, 1996] .",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64,
+      105,
+      311,
+      23
+    ],
+    "text": "LDO. 5/95 .",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      134,
+      376,
+      10
+    ],
+    "text": "(AN Act TO MAKE SPECIAL PROVISION TO ENASLE OFFICERS AND",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      149,
+      367,
+      12
+    ],
+    "text": "SERVANTS WO WERE EMPLOYED IX THE DepAnraner OF",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      166,
+      365,
+      12
+    ],
+    "text": "BROADCASTING AND WHO WERE SUBSEQUENTLY IMPLOTED 5F",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      182,
+      366,
+      12
+    ],
+    "text": "ome Sm Lamesa Buoancastom Coronation, TO BE ELIGHLE",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      200,
+      363,
+      11
+    ],
+    "text": "OR THE GRANT OF A PENSION ; AND TO PROVIDE FOR DEATIERS",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      205,
+      392,
+      30
+    ],
+    "text": "CONNECEED THEREWIEN OR INCIDENTAL THERETO. :",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      242,
+      379,
+      15
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic Socialist",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      259,
+      242,
+      14
+    ],
+    "text": "Republic of Sri Lanka as follows:",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      286,
+      441,
+      15
+    ],
+    "text": "1 This Act may be cited as the Sri Lanka Broadcasting snoct ttle.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      303,
+      339,
+      14
+    ],
+    "text": "Corporation (Special Provisions) Act, No. @ of 1996.",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      330,
+      434,
+      15
+    ],
+    "text": "2 Every officer and servent who was employed in the Grant of",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      343,
+      465,
+      20
+    ],
+    "text": "Department of Brosdcasting on the dey immediately prior Deneion to",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      363,
+      444,
+      15
+    ],
+    "text": "to January 5, 1967 (other than an officer or servant who wes servants",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      376,
+      463,
+      21
+    ],
+    "text": "fn a transfersble service), and who was subsequently qoyedin",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      388,
+      467,
+      22
+    ],
+    "text": "employed by the Corporation shall, notwithstanding his ment of",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      410,
+      469,
+      21
+    ],
+    "text": "smployment by the Corporation, be deemed to have eon- Brosdvasting",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      428,
+      470,
+      15
+    ],
+    "text": "tinued in office ag a public officer in the Department of fibeequentiy",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      443,
+      469,
+      21
+    ],
+    "text": "Broadcasting from the date on which he was employed by employed by",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      457,
+      434,
+      19
+    ],
+    "text": "the Corporation until the end of his period of service inthe Tinks",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      476,
+      470,
+      16
+    ],
+    "text": "Corporation, and shalt, if his period of service in the Broedcesting",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      488,
+      466,
+      21
+    ],
+    "text": "Corporation when added to his period of service in the Corporation",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      511,
+      382,
+      14
+    ],
+    "text": "Department of Broadcasting amounts to ten years or more,",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      526,
+      384,
+      16
+    ],
+    "text": "he eligible, at the end of bis period of service in the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      543,
+      383,
+      15
+    ],
+    "text": "Corporation, for the grant of pension under the Minutes",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      561,
+      78,
+      11
+    ],
+    "text": "on Pensions.",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      586,
+      465,
+      21
+    ],
+    "text": "3. Every person who becomes eligible for the grant of a Conditions to",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      597,
+      466,
+      22
+    ],
+    "text": "pension under section 2, shall recetve such pension subject Pe satiated",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      620,
+      436,
+      15
+    ],
+    "text": "to a refund, which shall he made by him or his heirs, to the award",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      631,
+      450,
+      21
+    ],
+    "text": "Director of Pensions, of any gratuity paid to him in Het, of # made",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      653,
+      387,
+      16
+    ],
+    "text": "penston upon bis accepting permanent employment with the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      671,
+      79,
+      13
+    ],
+    "text": "Corporation.",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      698,
+      456,
+      14
+    ],
+    "text": "4 In the event of any incensistenay between the Sinhala sinbals text",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      710,
+      460,
+      22
+    ],
+    "text": "and Tamil texts of this Act, the Sinhala text shall prevail. [ PETS)",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      474,
+      733,
+      76,
+      10
+    ],
+    "text": "Ghoouxistenecy,",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      746,
+      361,
+      14
+    ],
+    "text": "5 In this Act, unless the context otherwise reguires",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      773,
+      426,
+      15
+    ],
+    "text": "Corporation means the Sri Lanka Broadcasting Inter.",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      125,
+      787,
+      406,
+      18
+    ],
+    "text": "Corporation established by the Sri Lenke Broad. pretation.",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      807,
+      316,
+      16
+    ],
+    "text": "2 47 eegting Comporation Act, No. 37 of 1966.",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93,
+      769,
+      462,
+      8
+    ],
+    "text": "Se re a",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      80,
+      776,
+      473,
+      16
+    ],
+    "text": "Annuab subscription of English Billy and Acts of the Parliament Be. 600 (Local),",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79,
+      789,
+      475,
+      16
+    ],
+    "text": "Ra 1,199 (Foreign). payable to the Sopsiomrmwoars, Goventncxnn PULICATIONS",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      81,
+      803,
+      473,
+      17
+    ],
+    "text": "Besmav, No. 22 Transworks House, Lotus Road, Colombo Ot, before 15th",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      163,
+      817,
+      309,
+      17
+    ],
+    "text": "Tasemiber each year in reapect of the year following.",
+    "mean_p_confidence": 0.64
+  }
+]

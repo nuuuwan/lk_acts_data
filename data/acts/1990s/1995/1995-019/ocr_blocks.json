@@ -1,0 +1,607 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      428,
+      24,
+      81,
+      18
+    ],
+    "text": "BARS AO",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      293,
+      32,
+      145,
+      35
+    ],
+    "text": "Q (grr",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      266,
+      140,
+      217,
+      35
+    ],
+    "text": "eee a",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      113,
+      191,
+      392,
+      19
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      168,
+      223,
+      270,
+      18
+    ],
+    "text": "SOCIALIST REPUBLIC OF",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      242,
+      256,
+      121,
+      17
+    ],
+    "text": "SRI LANKA",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      114,
+      377,
+      398,
+      18
+    ],
+    "text": "KANDYAN. MARRIAGE AND DIVORCE",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      226,
+      405,
+      156,
+      24
+    ],
+    "text": "(AMENDMENT)",
+    "mean_p_confidence": 0.07
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      198,
+      432,
+      213,
+      21
+    ],
+    "text": "ACT, No. 19 OF 1995",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66,
+      538,
+      482,
+      16
+    ],
+    "text": "a [Certified om 19th October, 1995} .",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      184,
+      617,
+      241,
+      13
+    ],
+    "text": "Printed on the Order of Government",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68,
+      700,
+      475,
+      16
+    ],
+    "text": "Published as a Supplement to Part I of the Gazette of the Democratic",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      134,
+      716,
+      342,
+      13
+    ],
+    "text": "Socialist Republic of Sri Lauka of Octuber 20, 1995",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115,
+      797,
+      378,
+      10
+    ],
+    "text": "rman AE SEARCY OF GEA AO, a",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69,
+      811,
+      463,
+      22
+    ],
+    "text": "Se rane wie en WE Fa, Sa",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69,
+      843,
+      488,
+      18
+    ],
+    "text": "Price? 38 cents Postage: Bs. 290",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      551,
+      862,
+      6,
+      13
+    ],
+    "text": "g",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      103,
+      46,
+      326,
+      14
+    ],
+    "text": "Kandyun sMarriage and, Divorce (Amendment)",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      205,
+      63,
+      124,
+      14
+    ],
+    "text": "Act, No, 19 of 195",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      161,
+      94,
+      213,
+      14
+    ],
+    "text": "[Certified on 19th October, 1995]",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      126,
+      81,
+      13
+    ],
+    "text": "LD~O 3/85,",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      154,
+      370,
+      12
+    ],
+    "text": "Aw Acr TO AMEND tie KanuvaN MARRIAGE AND Drvoace",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      233,
+      171,
+      66,
+      11
+    ],
+    "text": "Ouomance",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      197,
+      384,
+      15
+    ],
+    "text": "BE it enacted by the Parliament of the Democratte Socallst",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      215,
+      240,
+      13
+    ],
+    "text": "Republic of Sr Lenka as follows :",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      242,
+      450,
+      14
+    ],
+    "text": "1 This Act may be cited as the Kandyan Marriage and short ttle,",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      259,
+      284,
+      13
+    ],
+    "text": "Divorce (Amnendiment) Act, No. 19 of 1995,",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88,
+      286,
+      431,
+      15
+    ],
+    "text": "2 Section 4 of the Kandyan Marriage and Divorce Ordi- amend.",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      301,
+      465,
+      21
+    ],
+    "text": "nance (heteinafier referred to as the principal enact ment of",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      319,
+      469,
+      16
+    ],
+    "text": "ment} is hereby amended by the cepeal ot subsection (1) Shapter 118",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      336,
+      384,
+      13
+    ],
+    "text": "of that section and the substitution therefor of the following",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      353,
+      87,
+      10
+    ],
+    "text": "wubsection :",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      142,
+      381,
+      318,
+      13
+    ],
+    "text": "(1) No Kandyan marriage contracted after the",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      129,
+      397,
+      331,
+      14
+    ],
+    "text": "coming into force of this subsection, shall be valid",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      130,
+      414,
+      187,
+      13
+    ],
+    "text": "if, at the time of marriage",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      132,
+      437,
+      327,
+      14
+    ],
+    "text": "(@) either party thereto is under the lawful age of",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      180,
+      455,
+      85,
+      13
+    ],
+    "text": "marriage; of",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      50,
+      478,
+      410,
+      18
+    ],
+    "text": ": () both parties thereto are under the lawful age",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      168,
+      499,
+      90,
+      13
+    ],
+    "text": "of marriage..",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      527,
+      430,
+      13
+    ],
+    "text": "4. Section 66 of the principal enactment is hereby amend- Amat.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      540,
+      456,
+      21
+    ],
+    "text": "ed by the substitution for the definition of lawful age of ment of,",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      551,
+      437,
+      22
+    ],
+    "text": "marriage \", of the following definition : hey",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      476,
+      574,
+      49,
+      12
+    ],
+    "text": "orincipel",
+    "mean_p_confidence": 0.01
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      142,
+      586,
+      393,
+      14
+    ],
+    "text": "lawatul age ot marriage in relation to the enactment",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      166,
+      603,
+      295,
+      14
+    ],
+    "text": "male party and the female party to the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      168,
+      620,
+      277,
+      14
+    ],
+    "text": "marriage means elghtem yeara of age;.",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      646,
+      428,
+      16
+    ],
+    "text": "4. In the event of any inconsistency between the Sinhala sinhala",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      660,
+      454,
+      23
+    ],
+    "text": "and Tumil iexts of this Act, the Sinhala text shall preva. fet ta",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      475,
+      683,
+      64,
+      13
+    ],
+    "text": "Fare of tm",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      475,
+      695,
+      66,
+      10
+    ],
+    "text": "cooteny.",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77,
+      797,
+      477,
+      8
+    ],
+    "text": "__",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77,
+      804,
+      479,
+      16
+    ],
+    "text": "Annual subscription of English Bills and Acts of the Parlloment Ra ua? (Local).",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77,
+      820,
+      479,
+      13
+    ],
+    "text": "Re, 1180 (Foreign), payable to the Surisvesenvent, Covennment PustictxOWs",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77,
+      832,
+      480,
+      16
+    ],
+    "text": "Bowcay, No. 22, Thansworms House, Lotus Ross, Covomso 01, befces 1Sht",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      98,
+      849,
+      381,
+      13
+    ],
+    "text": ". December each Year in respect of tha year dollowing.",
+    "mean_p_confidence": 0.75
+  }
+]

@@ -1,0 +1,4424 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      255,
+      97,
+      322,
+      45
+    ],
+    "text": "(=) :",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      269,
+      133,
+      49,
+      16
+    ],
+    "text": "ene:",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      98,
+      211,
+      389,
+      17
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      157,
+      237,
+      281,
+      18
+    ],
+    "text": "SOCIALIST REPUBLIC OF |",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      233,
+      263,
+      121,
+      16
+    ],
+    "text": "SRI LANKA",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62,
+      357,
+      461,
+      15
+    ],
+    "text": "NATIONAL TRANSPORT COMMISSION (AMENDMENT)",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      198,
+      378,
+      192,
+      17
+    ],
+    "text": "ACT, No. 30 OF 1996",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      167,
+      491,
+      253,
+      15
+    ],
+    "text": "[certified on 12th November, 1996]",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      180,
+      571,
+      228,
+      16
+    ],
+    "text": "Printed on the Order of Government",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70,
+      683,
+      447,
+      16
+    ],
+    "text": "Published as a Supplement to Part Il of the Gazette of the Democratic",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      109,
+      699,
+      369,
+      28
+    ],
+    "text": "Soctalist Republic of Sri Lanka of November 15, 1996.",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      101,
+      721,
+      459,
+      41
+    ],
+    "text": "PRINTED AT THE DEPARTMGATOF OVERQ/ENT PRETING, LANGA .",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      46,
+      760,
+      491,
+      30
+    ],
+    "text": "Fons PonciSeD Ar THE GbVERORAENT PUBLICATIONS BUREALLCOLOWBOI",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      46,
+      799,
+      473,
+      17
+    ],
+    "text": "Price : Rs. 1.05 Postage : Rs. 2.00",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98,
+      34,
+      291,
+      15
+    ],
+    "text": "National Transport Commission (Amendment)",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      181,
+      53,
+      124,
+      15
+    ],
+    "text": "Act, No, 30 of 1996",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      126,
+      77,
+      390,
+      14
+    ],
+    "text": "(Certified on 12th November , 1996) .",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      109,
+      511,
+      12
+    ],
+    "text": "L.D-O. 54/95, .",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      131,
+      341,
+      12
+    ],
+    "text": "AN ACT TO AMEND THE NATIONAL TRanspoRt COMMISSION",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      181,
+      149,
+      123,
+      13
+    ],
+    "text": "Act, No. 37 of 1991",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      170,
+      367,
+      15
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic Socialist",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      188,
+      490,
+      15
+    ],
+    "text": "Republic of Sri Lanka as follows :- .",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      210,
+      441,
+      15
+    ],
+    "text": "1. This Act may be cited as the National Transport Com- shoe ile and",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      229,
+      473,
+      13
+    ],
+    "text": "mission (Amnendment) Act, No, 30 of 1996 and shall come date of operation.",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      247,
+      368,
+      15
+    ],
+    "text": "into operation on such date as the Minister may appoint by",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      265,
+      511,
+      15
+    ],
+    "text": "Onder published in the Gazette. :",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      285,
+      444,
+      16
+    ],
+    "text": "2. Section 26 of the National Transport Commission Act, Amendment of",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      302,
+      473,
+      16
+    ],
+    "text": "No. 37 of 1991 (hereinafter referred to as the principal section 26. Act",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      319,
+      462,
+      16
+    ],
+    "text": "enactment\")is hereby amended by the insertion, immediately No. 37 of 1991",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      336,
+      369,
+      16
+    ],
+    "text": "after paragraph (c) of that section of the following para-",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      354,
+      59,
+      14
+    ],
+    "text": "graph :",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      375,
+      345,
+      16
+    ],
+    "text": "(cc) in the case of a permit granted to a company",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      132,
+      394,
+      297,
+      13
+    ],
+    "text": "referred 10 in section 469, the minimum",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      132,
+      411,
+      297,
+      15
+    ],
+    "text": "educational or professional qualifications to be",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      133,
+      427,
+      296,
+      15
+    ],
+    "text": "held by the Managing Director, Director",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      132,
+      444,
+      297,
+      15
+    ],
+    "text": "Finance, Director Operations and Director",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      132,
+      461,
+      296,
+      16
+    ],
+    "text": "Engineering of such company, such qualifications",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93,
+      479,
+      272,
+      16
+    ],
+    "text": ". being those prescribed by regulation ; .",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      48,
+      501,
+      456,
+      18
+    ],
+    "text": "* 3. The following sections are hereby inserted Intection of",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57,
+      520,
+      476,
+      24
+    ],
+    "text": "immediately after section 46, and shall haveeffectas sections {er fe Men.",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      56,
+      536,
+      473,
+      21
+    ],
+    "text": "464, 46b, 46c, 460, 46e, 46F, 46c and 46x respectively, of gr\" 460 aad 46",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57,
+      558,
+      461,
+      16
+    ],
+    "text": "the principal enactment : ia the principal",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58,
+      575,
+      439,
+      22
+    ],
+    "text": "*Ministe may 46, Where the Minister considers it \"*",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57,
+      598,
+      368,
+      16
+    ],
+    "text": "lasue ection expedient, having regard (0 the nationat",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57,
+      614,
+      368,
+      16
+    ],
+    "text": "fo amalgamate economy in general and the need to provide",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57,
+      629,
+      368,
+      17
+    ],
+    "text": "Peoplised adequate omnibus transport services to the",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57,
+      646,
+      368,
+      16
+    ],
+    "text": "compasits. public in particular, lhat two or more of the",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      150,
+      663,
+      275,
+      16
+    ],
+    "text": "peoplised companies specified in the Second",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      151,
+      679,
+      273,
+      15
+    ],
+    "text": "Schedule to this Act should be amalgamated,",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      151,
+      695,
+      299,
+      15
+    ],
+    "text": "the Ministermay forwarda Memorandum and -",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      151,
+      711,
+      274,
+      15
+    ],
+    "text": "Asticles of Association to the Registar of",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      151,
+      727,
+      273,
+      16
+    ],
+    "text": "Companies, together with a direction to such",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      151,
+      744,
+      273,
+      16
+    ],
+    "text": "Registrar to register a new company to carry",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      151,
+      759,
+      273,
+      15
+    ],
+    "text": "on the business activities carried on by the",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      150,
+      775,
+      274,
+      17
+    ],
+    "text": "peoptised companies referred 10 in such",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      151,
+      793,
+      58,
+      12
+    ],
+    "text": "direction.",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      54,
+      810,
+      519,
+      14
+    ],
+    "text": "2D 041848 7,335 (96/10) . .",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      194,
+      37,
+      326,
+      17
+    ],
+    "text": "2 National Transport Commission (Amendment)",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      316,
+      57,
+      122,
+      15
+    ],
+    "text": "Act, No, 30 of 1996",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      193,
+      92,
+      365,
+      15
+    ],
+    "text": "Funcions ofthe 468. Notwithstanding any other",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      193,
+      108,
+      366,
+      15
+    ],
+    "text": "Registarof provision of the Companies Act, No. 17 of",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      192,
+      124,
+      367,
+      15
+    ],
+    "text": "Companies 1982, onreceiptofa direction from the Minister",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      192,
+      138,
+      367,
+      17
+    ],
+    "text": "upot recsipt of under section 46a, the Registrar of",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      192,
+      153,
+      213,
+      18
+    ],
+    "text": "adzection Companies shall",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      192,
+      168,
+      66,
+      10
+    ],
+    "text": "ander section",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      188,
+      171,
+      371,
+      31
+    ],
+    "text": "4s, (@) register a company (such company is",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      252,
+      197,
+      307,
+      13
+    ],
+    "text": ". hereinafter referred to as a new",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      324,
+      214,
+      235,
+      14
+    ],
+    "text": "company) in the name specified in",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      324,
+      230,
+      237,
+      11
+    ],
+    "text": "such direction and issue a certificate of",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      324,
+      245,
+      237,
+      15
+    ],
+    "text": "incorporation under section 15 (1) of",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      324,
+      262,
+      227,
+      14
+    ],
+    "text": "that Act, in respect of that company ;",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      286,
+      287,
+      274,
+      16
+    ],
+    "text": "() publish an Order in the Gazette that a",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      323,
+      305,
+      237,
+      14
+    ],
+    "text": "public compny has been incorporated",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      194,
+      320,
+      366,
+      15
+    ],
+    "text": ": under that Act, in he name specified in",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      323,
+      336,
+      237,
+      15
+    ],
+    "text": "the Order to take over and carry on the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      323,
+      352,
+      237,
+      15
+    ],
+    "text": "business activities carried on by the",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      323,
+      368,
+      237,
+      16
+    ],
+    "text": "peoplised companies referred to in the",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      323,
+      384,
+      39,
+      12
+    ],
+    "text": "Order.",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      188,
+      400,
+      373,
+      25
+    ],
+    "text": "Alletsnent of 46c. Upon the publication of an Order",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      191,
+      419,
+      369,
+      17
+    ],
+    "text": "sharerin ew ynder section 46Bin the Gazette, the Registrar",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      191,
+      436,
+      370,
+      16
+    ],
+    "text": "companies. of Companies shall allot to every shareholder",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      285,
+      453,
+      275,
+      15
+    ],
+    "text": "of a peoplised company referred to in that",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      285,
+      469,
+      275,
+      15
+    ],
+    "text": "Order, shares in the new compny equivatent,",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      285,
+      484,
+      277,
+      16
+    ],
+    "text": "a8 far as practicable, to the nominal vale of",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      285,
+      501,
+      276,
+      15
+    ],
+    "text": "shares held by such shareholder in the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      285,
+      518,
+      123,
+      15
+    ],
+    "text": "peoplised company.",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      187,
+      530,
+      374,
+      31
+    ],
+    "text": "Bitectof 460, With effect from the publication in",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      191,
+      556,
+      369,
+      25
+    ],
+    "text": "Ondermads, the Gazette of an Order under section 468",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      191,
+      579,
+      370,
+      16
+    ],
+    "text": "4. {a} every peoplised company referred to in.",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      322,
+      583,
+      239,
+      25
+    ],
+    "text": "such Order shall, notwithstanding",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      322,
+      608,
+      239,
+      16
+    ],
+    "text": "anything in section 45 be deemed 10",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      322,
+      623,
+      239,
+      27
+    ],
+    "text": "have been, liquidated under the",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      322,
+      638,
+      239,
+      15
+    ],
+    "text": "Companies Act, No. 17 of 1982, andthe",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      322,
+      653,
+      239,
+      27
+    ],
+    "text": "Regisuar of Companies shall ake steps",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      322,
+      668,
+      239,
+      15
+    ],
+    "text": "(o delete the name of such company",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      322,
+      682,
+      237,
+      16
+    ],
+    "text": "from the registers maintained by him",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      285,
+      701,
+      290,
+      17
+    ],
+    "text": "() all property, movable or immovable, .",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      322,
+      718,
+      239,
+      27
+    ],
+    "text": "owned by a peoplised company",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      322,
+      732,
+      239,
+      27
+    ],
+    "text": "feferted to in such Order, on the day",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      322,
+      749,
+      224,
+      15
+    ],
+    "text": "immediately preceding the date of su",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      322,
+      762,
+      240,
+      16
+    ],
+    "text": "Order shall, with effect from the datcof",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      322,
+      779,
+      238,
+      14
+    ],
+    "text": "such Order, vest in the new company",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      322,
+      795,
+      151,
+      15
+    ],
+    "text": "specified in such Order ;",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83,
+      53,
+      374,
+      19
+    ],
+    "text": "National Transport Commission (Amendment) 3.",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      165,
+      72,
+      125,
+      14
+    ],
+    "text": "Act, No. 30 of 1996",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      87,
+      112,
+      325,
+      14
+    ],
+    "text": ". (c) all contracts and agreements entered into",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      174,
+      128,
+      238,
+      15
+    ],
+    "text": "by a peoplised company referred to in",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      174,
+      144,
+      238,
+      15
+    ],
+    "text": "such Order and subsisting on the day",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      174,
+      160,
+      238,
+      15
+    ],
+    "text": "immediately preceding the date of such",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      174,
+      176,
+      256,
+      17
+    ],
+    "text": "Order shall, with effect from the dateof",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      174,
+      192,
+      238,
+      13
+    ],
+    "text": "such Order, be deemed to be contracts",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      174,
+      209,
+      238,
+      14
+    ],
+    "text": "and agreements entered into by the new",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      174,
+      224,
+      220,
+      15
+    ],
+    "text": "company referred to in such Order;",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      137,
+      256,
+      344,
+      16
+    ],
+    "text": "(d) all liabilities of a peoplised company .",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      174,
+      273,
+      238,
+      15
+    ],
+    "text": "referred to in such Order and subsisting",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      151,
+      289,
+      262,
+      15
+    ],
+    "text": "> on the day immediately preceding the",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      174,
+      305,
+      239,
+      14
+    ],
+    "text": "date of such Order shall, with effect",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      175,
+      321,
+      238,
+      14
+    ],
+    "text": "from use date of such Order, be deemed.",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      174,
+      338,
+      239,
+      15
+    ],
+    "text": "tobe the liabilities of the new company",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      174,
+      354,
+      319,
+      15
+    ],
+    "text": "specified in such Order ; .",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      138,
+      387,
+      352,
+      15
+    ],
+    "text": "(e) all actions and proceedings instituted by .",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      174,
+      403,
+      239,
+      15
+    ],
+    "text": "oragainst a peoptised company referred",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      174,
+      419,
+      239,
+      15
+    ],
+    "text": "to in such Order and pending on the day",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      174,
+      435,
+      239,
+      15
+    ],
+    "text": "immediately preceding the date of such",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      174,
+      451,
+      240,
+      14
+    ],
+    "text": "Order shail, with effect from the date of",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      174,
+      467,
+      239,
+      14
+    ],
+    "text": "such Order, be deemed tobe actions and",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      174,
+      484,
+      240,
+      15
+    ],
+    "text": "proceedings instituied by or against the",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      163,
+      500,
+      251,
+      15
+    ],
+    "text": "- new company specified in such Order",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      174,
+      516,
+      350,
+      15
+    ],
+    "text": "and may be continued accordingly ; .",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      140,
+      540,
+      274,
+      15
+    ],
+    "text": "(f) all decrees and awards entered or made",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      163,
+      549,
+      332,
+      27
+    ],
+    "text": "~ by any Court or Tribunal in any action .",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      174,
+      573,
+      241,
+      15
+    ],
+    "text": "of proceeding instituted by or against a",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      174,
+      589,
+      240,
+      15
+    ],
+    "text": "peoplised company referred to in such",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      174,
+      605,
+      241,
+      15
+    ],
+    "text": "Order and remaining unsatisfied on the",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70,
+      621,
+      345,
+      16
+    ],
+    "text": ". day preceding the date of such Order",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      174,
+      637,
+      240,
+      14
+    ],
+    "text": "shall, with effect from the date of such",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      174,
+      654,
+      241,
+      14
+    ],
+    "text": "Onder, be deemed tobe decrees orawards",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      174,
+      670,
+      241,
+      15
+    ],
+    "text": "entered or made in favour or against, as",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      174,
+      687,
+      241,
+      15
+    ],
+    "text": "the case may be, of the new company",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      174,
+      702,
+      241,
+      17
+    ],
+    "text": "specified in such Order and may be",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      95,
+      720,
+      371,
+      15
+    ],
+    "text": ": enforced accordingly. .",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      155,
+      739,
+      367,
+      18
+    ],
+    "text": "46c. Nothing insection 18 shall be deemed Section 18 actto",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      137,
+      752,
+      374,
+      26
+    ],
+    "text": "toprobibit the grant, by an autborizedperson SE (0 00\"",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      136,
+      775,
+      385,
+      17
+    ],
+    "text": "or the Commission, of a passenger service\") :",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      137,
+      789,
+      277,
+      18
+    ],
+    "text": "permit in respect of an omnibus, the registered",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      137,
+      808,
+      216,
+      14
+    ],
+    "text": "owner of which is a new company.",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      189,
+      41,
+      331,
+      21
+    ],
+    "text": "4 National Transport Commission (Amendment)",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      314,
+      62,
+      122,
+      15
+    ],
+    "text": "Act, No, 30 of 1996",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      189,
+      87,
+      369,
+      30
+    ],
+    "text": "Commission 46r. The Commission may give to any",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      82,
+      104,
+      476,
+      30
+    ],
+    "text": ". ray give sew company, such generat or special",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      189,
+      127,
+      404,
+      16
+    ],
+    "text": "firectionstoa directions as may be necessary to ensure -",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      189,
+      145,
+      370,
+      15
+    ],
+    "text": "new company. compliance by such company with lime",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      103,
+      161,
+      456,
+      15
+    ],
+    "text": ": tables for operating omnibuses. It shall be",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      256,
+      177,
+      304,
+      16
+    ],
+    "text": "_ the duty of every new company to comply",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      282,
+      194,
+      278,
+      14
+    ],
+    "text": "with a direction given to it under this section.",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      185,
+      208,
+      375,
+      30
+    ],
+    "text": "Government 460. (1) The Minister in charge of the",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      189,
+      232,
+      371,
+      15
+    ],
+    "text": "guarantee. - subject of Finance may with the concurrence",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      281,
+      248,
+      297,
+      15
+    ],
+    "text": "of the Cabinet of Ministers, guarantce any ~",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      281,
+      265,
+      280,
+      14
+    ],
+    "text": "sum due on a loan, overdraft or other",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      244,
+      282,
+      316,
+      14
+    ],
+    "text": "+ accommodation, granted to a new eompany",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      281,
+      297,
+      280,
+      15
+    ],
+    "text": "or on debentures issued by such new",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      281,
+      317,
+      61,
+      12
+    ],
+    "text": "company.",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      317,
+      336,
+      244,
+      16
+    ],
+    "text": "(2) Any sum requiced for the fulfilment",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      281,
+      352,
+      280,
+      15
+    ],
+    "text": "of a guarantee provided in subsection (1)",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      78,
+      369,
+      474,
+      15
+    ],
+    "text": ". shall be paid out of the Consolidated Fund.",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      316,
+      391,
+      245,
+      15
+    ],
+    "text": "(3) Any sum paid out of the",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      281,
+      407,
+      280,
+      13
+    ],
+    "text": "Consolidated Fund in fulfilment of 3",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144,
+      423,
+      417,
+      18
+    ],
+    "text": ". guarantee provided under subsection (1)",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      281,
+      440,
+      280,
+      16
+    ],
+    "text": "shall be repaid with interest thercon at such",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      281,
+      456,
+      280,
+      16
+    ],
+    "text": "rale as the Minister in charge of the subject",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      281,
+      473,
+      280,
+      15
+    ],
+    "text": "of Finance may determine, by the new",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      281,
+      489,
+      280,
+      16
+    ],
+    "text": "company in such manner and over such",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      281,
+      507,
+      249,
+      16
+    ],
+    "text": "period as such Minister may determine.",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      193,
+      531,
+      369,
+      18
+    ],
+    "text": ". (4) Immediately after a guarantee is",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      281,
+      550,
+      281,
+      16
+    ],
+    "text": "provided under subsection (1), the Minister in",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      281,
+      569,
+      281,
+      16
+    ],
+    "text": "charge of the subject of Finance, shall lay a",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      259,
+      587,
+      303,
+      17
+    ],
+    "text": "* statement of the guarantee before Parliament.",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      166,
+      613,
+      396,
+      16
+    ],
+    "text": ". (5) Where any sum is paid out of the",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      281,
+      630,
+      282,
+      13
+    ],
+    "text": "Consotidated Fund in fulfilment of a",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      281,
+      646,
+      281,
+      17
+    ],
+    "text": "guarantee provided under subsection (1),",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      281,
+      662,
+      283,
+      17
+    ],
+    "text": "the Minister in charge of the subject of",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      156,
+      679,
+      406,
+      16
+    ],
+    "text": ": Finance shall forthwith lay before",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      281,
+      696,
+      281,
+      13
+    ],
+    "text": "Parliment a statement thal such sum has",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      230,
+      714,
+      114,
+      16
+    ],
+    "text": ". been paid,",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      187,
+      742,
+      375,
+      16
+    ],
+    "text": "Restriction on 46H, (1) From and after such date as the",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      186,
+      759,
+      376,
+      17
+    ],
+    "text": "ineue of Minister may appoint by Order published in",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      180,
+      769,
+      382,
+      30
+    ],
+    "text": "passenger the Gazette, a passenger service permit",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      186,
+      792,
+      377,
+      16
+    ],
+    "text": "service permits, authorizing the use of an omnibus for the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      200,
+      808,
+      363,
+      18
+    ],
+    "text": ". carriage of passengers shall except in the",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      28,
+      864,
+      539,
+      13
+    ],
+    "text": "Ce :",
+    "mean_p_confidence": -0.0
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      99,
+      44,
+      397,
+      19
+    ],
+    "text": "National Transport Commission (Amendment) .",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      181,
+      66,
+      340,
+      15
+    ],
+    "text": "Act, No, 30 of 1996 a",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      151,
+      104,
+      276,
+      15
+    ],
+    "text": "case of omnibuses operating on such routes or",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      151,
+      120,
+      276,
+      15
+    ],
+    "text": "classes of routes as may be prescribed, be",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      35,
+      137,
+      392,
+      14
+    ],
+    "text": ": issued by an authorized person or the",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      151,
+      153,
+      276,
+      15
+    ],
+    "text": "Commission, only in respect of an omnibus",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      152,
+      169,
+      334,
+      17
+    ],
+    "text": "the capacity of which is rot Jess than forty",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      151,
+      187,
+      33,
+      10
+    ],
+    "text": "seals,",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      170,
+      208,
+      258,
+      16
+    ],
+    "text": "(2) The making of an Order under",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      151,
+      226,
+      276,
+      14
+    ],
+    "text": "subsection (1) shall be deemed nol to prohibit,",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      152,
+      241,
+      276,
+      13
+    ],
+    "text": "the renewal, afier the date of such Order. of a",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      131,
+      258,
+      297,
+      15
+    ],
+    "text": "+ passenger service permil anthorizing the use",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      151,
+      274,
+      276,
+      15
+    ],
+    "text": "of an omnibus for the carriage of passengers,",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      151,
+      290,
+      276,
+      15
+    ],
+    "text": "issued priorto the dare of such Order, inrespect",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      151,
+      306,
+      277,
+      16
+    ],
+    "text": "of an omnibus designed tp carry tess dhan the",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      123,
+      323,
+      236,
+      14
+    ],
+    "text": ". \"prescribed number of passengers.",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      170,
+      346,
+      258,
+      15
+    ],
+    "text": "(3) After the expiration of five years from",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      151,
+      363,
+      403,
+      14
+    ],
+    "text": "such date, as ihe Minister may appoint by .",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      151,
+      378,
+      278,
+      16
+    ],
+    "text": "Order published in the Gazetle, a passenger",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      151,
+      395,
+      402,
+      15
+    ],
+    "text": "service permit avhorizing the use of an a",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      151,
+      411,
+      277,
+      15
+    ],
+    "text": "omnibus for the carriage of passengers shall",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      151,
+      427,
+      278,
+      15
+    ],
+    "text": "except in the case of a permit issued in respect",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      151,
+      443,
+      278,
+      15
+    ],
+    "text": "of such route or classes of routes as may be",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      151,
+      460,
+      278,
+      15
+    ],
+    "text": "prescribed be issued by an authorized person",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      151,
+      476,
+      279,
+      16
+    ],
+    "text": "orthe Commission, only toa person orbody of",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      151,
+      492,
+      290,
+      16
+    ],
+    "text": "persons who owns and operates at least fifty .",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      147,
+      500,
+      333,
+      31
+    ],
+    "text": "ominibuses. .",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      170,
+      533,
+      259,
+      15
+    ],
+    "text": "(4) The. provisions of this section shail",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      151,
+      549,
+      278,
+      15
+    ],
+    "text": "have effect notwithstanding anything to the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      151,
+      566,
+      278,
+      15
+    ],
+    "text": "contrary in this Act, or any other written law",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      151,
+      582,
+      278,
+      15
+    ],
+    "text": "authorizing the issue of a passenger service",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      151,
+      598,
+      278,
+      16
+    ],
+    "text": "pemnitor similar anthority authorizing the use",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      147,
+      606,
+      426,
+      31
+    ],
+    "text": "ofan omnibus for the carriage of passengers.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72,
+      635,
+      457,
+      22
+    ],
+    "text": "4. Section 47 of the principal enactment is hereby Ansminvwet",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      51,
+      655,
+      443,
+      17
+    ],
+    "text": "amended, by the substitution, for the words the Schedule 49 famscyat",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      56,
+      671,
+      444,
+      13
+    ],
+    "text": "this Act, of the words the First Schedule to this Act\", enacinun",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72,
+      695,
+      453,
+      22
+    ],
+    "text": "5. The Schedute to the principal enactment is hereby Amendment gf",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      51,
+      704,
+      456,
+      32
+    ],
+    "text": "amended by the repeal of the heading to the Schedaie and the Sacer?",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      55,
+      730,
+      447,
+      16
+    ],
+    "text": "substitution therefor of the following heading :- Enaciment.",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      231,
+      756,
+      223,
+      13
+    ],
+    "text": "Finsr Scucpue .",
+    "mean_p_confidence": -0.0
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      58,
+      775,
+      371,
+      18
+    ],
+    "text": "Insextion of 6. The principal enactmeat-is hereby",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      58,
+      787,
+      372,
+      25
+    ],
+    "text": "Beyscheile amended by the addition of the end thereof of",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      58,
+      812,
+      186,
+      15
+    ],
+    "text": "escent. the following :",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      54,
+      859,
+      486,
+      14
+    ],
+    "text": "1 '",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      125,
+      50,
+      372,
+      19
+    ],
+    "text": ". National Transport Commission (Amendment)",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      291,
+      70,
+      122,
+      15
+    ],
+    "text": "Act, No. 30 of 1996",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      168,
+      95,
+      367,
+      15
+    ],
+    "text": "Sinhala ext 7, Im the event of any inconsistency",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      168,
+      108,
+      368,
+      23
+    ],
+    "text": "Paria detween the Sinhala and Tamil texts of this",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      168,
+      132,
+      303,
+      15
+    ],
+    "text": "inconsivency. Act, the Sinhala texl shall preva.",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      243,
+      166,
+      217,
+      14
+    ],
+    "text": "Seconp SCHEDULE [section 46a]",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      166,
+      199,
+      306,
+      15
+    ],
+    "text": "Negombo Passenger Transport Services Limited.",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      71,
+      218,
+      406,
+      15
+    ],
+    "text": ": Raumalana Passenger Transport Services Limited.",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      166,
+      236,
+      371,
+      13
+    ],
+    "text": "Seemasahitha MahannwaraDakuna Janatha Santhaka",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      182,
+      255,
+      117,
+      15
+    ],
+    "text": "Pravahana Sevaya,",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      167,
+      271,
+      376,
+      18
+    ],
+    "text": "Avissawetla Peoplised Passenger Transport Services",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143,
+      293,
+      91,
+      12
+    ],
+    "text": "+ Limited.",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      166,
+      311,
+      372,
+      16
+    ],
+    "text": "Seemasahitha Kurunegata Dakuna Janatha Santhaka",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      182,
+      331,
+      116,
+      15
+    ],
+    "text": "Pravahana Sevaya,",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      167,
+      349,
+      371,
+      13
+    ],
+    "text": "Seemasahitha Mahanuwara Utbura Janatha Santhaka",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      183,
+      369,
+      115,
+      15
+    ],
+    "text": "Pravahana Sevaya.",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      166,
+      388,
+      372,
+      15
+    ],
+    "text": "Seemasabitha Kataragama Janatha Santhaka Pravahana",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      182,
+      407,
+      48,
+      15
+    ],
+    "text": "Sevaya,",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      114,
+      426,
+      424,
+      12
+    ],
+    "text": ". Seemasahitha Nittambuwa Janata Santhaka Pravabana",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      182,
+      445,
+      47,
+      15
+    ],
+    "text": "Sevaya.",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      166,
+      464,
+      372,
+      15
+    ],
+    "text": "Seemasahitha Kappetipola Janatha Santhaka Pravahana",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      182,
+      474,
+      352,
+      31
+    ],
+    "text": "Sevaya. .",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      166,
+      502,
+      373,
+      16
+    ],
+    "text": "Seemasahitha Balangoda Janatha Santhaka Pravahana",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      182,
+      521,
+      48,
+      15
+    ],
+    "text": "Sevaya.",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      166,
+      539,
+      369,
+      15
+    ],
+    "text": "Seemasahitha Horana Janatha Santhaka Pravahana Sevaya.",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      166,
+      558,
+      373,
+      17
+    ],
+    "text": "Scemasabitha Wariyapola Janatha Santhaka Pravahana",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      182,
+      570,
+      304,
+      31
+    ],
+    "text": "Sevaya. : :",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      166,
+      597,
+      373,
+      16
+    ],
+    "text": "Seemasabitha Galgamuwa Janatha Santhaka Pravahana",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      182,
+      616,
+      48,
+      15
+    ],
+    "text": "Sevaya.",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      166,
+      635,
+      373,
+      13
+    ],
+    "text": "Seemasahitha Alawwa Janatha Santhaka Pravahana",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      75,
+      654,
+      155,
+      16
+    ],
+    "text": ": Sevaya.",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      37,
+      673,
+      502,
+      16
+    ],
+    "text": ": Seemasahitha Kurunegala Uthura Janatha Santhaka",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      183,
+      692,
+      115,
+      16
+    ],
+    "text": "Pravahana Sevaya,",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      167,
+      709,
+      372,
+      15
+    ],
+    "text": "Seemasahitha Giriulla Janatha Santhaka Pravahana",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      183,
+      722,
+      321,
+      31
+    ],
+    "text": "Sevaya, s",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      123,
+      749,
+      427,
+      17
+    ],
+    "text": "+ + Seemasahitha Wennappuwa Janatha Santhaka Pravahana -",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      183,
+      759,
+      143,
+      31
+    ],
+    "text": "Sevaya. .",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      167,
+      787,
+      373,
+      17
+    ],
+    "text": "Seemasahitha Nikaweratiya Janatha Santhaka Pravahana",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      183,
+      807,
+      47,
+      15
+    ],
+    "text": "Sevaya,",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      114,
+      29,
+      330,
+      19
+    ],
+    "text": "National Transport Commission (Amendment) 7",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      116,
+      50,
+      208,
+      16
+    ],
+    "text": ". Act, No. 30 of 1996",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      76,
+      81,
+      444,
+      12
+    ],
+    "text": "Seemasabitha Puttafama Janatha Saothaka Pravahana :",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      88,
+      90,
+      288,
+      31
+    ],
+    "text": "Sevaya. :",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      76,
+      118,
+      370,
+      13
+    ],
+    "text": "Seemasahitha Halawatha Janatha Santhaka Pravabana",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      91,
+      137,
+      47,
+      15
+    ],
+    "text": "Sevaya",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      76,
+      157,
+      370,
+      12
+    ],
+    "text": "Seemasahitha Mahawa Janatha.Santhaka Pravahana",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      87,
+      166,
+      267,
+      32
+    ],
+    "text": "Sevaya. .",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      76,
+      194,
+      371,
+      16
+    ],
+    "text": "Seemasahitha Kuliyapitiya Janatha Santhaka Pravahang",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      91,
+      213,
+      47,
+      15
+    ],
+    "text": "Sevaya.",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      76,
+      232,
+      370,
+      13
+    ],
+    "text": "Seemasahitha Bandarawela Janatha Santhaka Pravahana",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      91,
+      251,
+      47,
+      15
+    ],
+    "text": "Sevaya.",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      75,
+      270,
+      372,
+      15
+    ],
+    "text": "Seemasahitha Wellawaya Janatha Santhaka Pravahana",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      91,
+      289,
+      47,
+      15
+    ],
+    "text": "Sevaya.",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      75,
+      308,
+      372,
+      15
+    ],
+    "text": "Seemasabitha Moneragafa Janatha Santhaka Pravabana",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      91,
+      327,
+      47,
+      15
+    ],
+    "text": "Sevaya.",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      75,
+      345,
+      361,
+      16
+    ],
+    "text": "Seemasahitha Bibite Janatha Santhaka Pravahana Sevaya.",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      75,
+      364,
+      371,
+      16
+    ],
+    "text": "Seemasahitha Badulla Janatha Santhaka Pravahana Sevaya,",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      75,
+      383,
+      373,
+      16
+    ],
+    "text": "Seemasahitha Mahiyanganaya Janatha Santheka Pravahana",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90,
+      402,
+      48,
+      16
+    ],
+    "text": "Sevaya.",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      74,
+      421,
+      374,
+      16
+    ],
+    "text": "Scemasahitha Anvradhapura Janatha Sapthaka Pravahana",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90,
+      440,
+      48,
+      16
+    ],
+    "text": "Sevaya,",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      74,
+      459,
+      374,
+      13
+    ],
+    "text": "Scemasahitha Kekirawa Janatha Santhaka Pravahana",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90,
+      478,
+      48,
+      16
+    ],
+    "text": "Sevaya.",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      74,
+      497,
+      374,
+      16
+    ],
+    "text": "Seemasahitha Kahatagasdigiliya Tanatha Santhaka",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90,
+      517,
+      118,
+      15
+    ],
+    "text": "Pravahana Sevaya,",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      74,
+      535,
+      374,
+      16
+    ],
+    "text": "Seemasahitha Kebithigollawa Janatha Santhaka Pravahana",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90,
+      545,
+      465,
+      31
+    ],
+    "text": "Sevaya. :",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      73,
+      573,
+      375,
+      13
+    ],
+    "text": "Seemasahitha Potonnaruwa Janatha Santhaka Pravahana",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      89,
+      591,
+      51,
+      17
+    ],
+    "text": "Sevaya,",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      73,
+      611,
+      358,
+      16
+    ],
+    "text": "Seemasahitha Galle Janatha Santhaka Pravaliana Sevaya.",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      73,
+      630,
+      369,
+      16
+    ],
+    "text": "Seemasahitha Matara Janatha Santhaka Pravahana Sevaya.",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      73,
+      649,
+      374,
+      16
+    ],
+    "text": "Seemasahitha Elpitiya Janatha Santhaka Pravahana Sevaya.",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      73,
+      668,
+      375,
+      14
+    ],
+    "text": "Seemasahitha Akuressa Janatha Santhaka Pravahana",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90,
+      688,
+      48,
+      15
+    ],
+    "text": "Sevaya.",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      73,
+      707,
+      375,
+      16
+    ],
+    "text": "Seemasahitha Tangalla Janatha Santhaka Pravahana",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      89,
+      726,
+      97,
+      16
+    ],
+    "text": "Sevaya.",
+    "mean_p_confidence": 0.02
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      38,
+      745,
+      496,
+      16
+    ],
+    "text": "- Seemasahitha Ambalangoda Fanatha Santhaka Pravahana .",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      89,
+      764,
+      50,
+      16
+    ],
+    "text": "Sevaya.",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      73,
+      782,
+      374,
+      15
+    ],
+    "text": "Seemasahitha Kalawana Janatha Santhaka Pravahana",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90,
+      802,
+      49,
+      16
+    ],
+    "text": "Sevaya.",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      183,
+      40,
+      333,
+      16
+    ],
+    "text": "8 National Transport Commission (Amendment)",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      308,
+      59,
+      124,
+      15
+    ],
+    "text": "Act, Na. 30 of 1996",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      183,
+      85,
+      371,
+      16
+    ],
+    "text": "Seemasahitha Embilipitiya Janatha Santhaka Pravabana",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      198,
+      96,
+      267,
+      32
+    ],
+    "text": "Sevaya. :",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      183,
+      125,
+      372,
+      13
+    ],
+    "text": "Seemasahitha Godakawela Janatha Santhaka Pravahana",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      198,
+      146,
+      49,
+      15
+    ],
+    "text": "Sevaya.",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      183,
+      166,
+      372,
+      15
+    ],
+    "text": "Seemasahitha Ratnapura Jaoatha Santhaka Pravahana",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      198,
+      177,
+      340,
+      32
+    ],
+    "text": "Sevaya, :",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      183,
+      206,
+      373,
+      16
+    ],
+    "text": "Seemasahitha Deraniyagala Jonatha Santhaka Pravahana",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      135,
+      228,
+      112,
+      15
+    ],
+    "text": ". Sevaya.",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      183,
+      246,
+      373,
+      17
+    ],
+    "text": "Seemasahitha Kegalle Janatha Santhaka Pravahana Sevaya,",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      183,
+      267,
+      374,
+      13
+    ],
+    "text": "Seemasahitha Mawanella Janalha Santhaka Pravabana",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      202,
+      288,
+      48,
+      15
+    ],
+    "text": "Sevaya.",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      183,
+      307,
+      374,
+      15
+    ],
+    "text": "Seemasahitha Rambukkana Janatha San(haka Pravahana",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      202,
+      329,
+      48,
+      15
+    ],
+    "text": "Sevaya.",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      184,
+      347,
+      374,
+      17
+    ],
+    "text": "Seemasahitha Wattegama Janatha Santhaka Pravahana",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      203,
+      370,
+      48,
+      14
+    ],
+    "text": "Sevaya.",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      184,
+      388,
+      374,
+      14
+    ],
+    "text": "Seemasahiiha Yatinewara Janatha Sanihaka Pravahena",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      203,
+      410,
+      48,
+      15
+    ],
+    "text": "Sevaya.",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      184,
+      428,
+      374,
+      17
+    ],
+    "text": "Secmasahitha Gampota Janatha Santhaka PravahanaSevaya.",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      184,
+      448,
+      375,
+      17
+    ],
+    "text": "Seemasahitha Hanguranketa Janatha Santhaka Pravahana",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      203,
+      471,
+      48,
+      15
+    ],
+    "text": "Sevaya.",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      184,
+      489,
+      374,
+      18
+    ],
+    "text": "Seemasahitha Walapane Janatha Santhaka Pravahana Sevaya,",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      184,
+      510,
+      375,
+      15
+    ],
+    "text": "SeemasahithaDambulle Fanatha Santhaka PravahanaSevaya.",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      184,
+      531,
+      371,
+      15
+    ],
+    "text": "Seemasahitha Matale Janatha Santhaka Pravahana Sevaya.",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      83,
+      553,
+      471,
+      15
+    ],
+    "text": ". Seemasahitha Hatton Janatha Santhaka Pravahana Sevaya.",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      185,
+      573,
+      375,
+      17
+    ],
+    "text": "Seemasahitha Nuwara-Eliya Janatha Santhaka Pravabana",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      204,
+      596,
+      48,
+      15
+    ],
+    "text": "Sevaya,",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      185,
+      613,
+      376,
+      18
+    ],
+    "text": "Seemasahitha Nawalapiliya Janaiha Santhaka Pravahana",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      204,
+      636,
+      48,
+      15
+    ],
+    "text": "Sevaya.",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      186,
+      655,
+      374,
+      14
+    ],
+    "text": "Scemasahitha Panadura Janatha Santhaka Pravahana Sevaya.",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      186,
+      675,
+      375,
+      15
+    ],
+    "text": "Seemasahitha Katutara Janatha Santhaka Pravahana Sevaya.",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      186,
+      695,
+      375,
+      15
+    ],
+    "text": "Seemasahitha Moratuwa JanathaSanthaka PravahanaSevaya.",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      186,
+      715,
+      376,
+      18
+    ],
+    "text": "Seemasahitha Homagama Janatha Santhaka Pravahana",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      73,
+      729,
+      473,
+      31
+    ],
+    "text": ": Sevaya. :",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      186,
+      756,
+      375,
+      17
+    ],
+    "text": "Seemasabilha Kesbewa Janatha Santhaka Pravahana Sevaya,",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      187,
+      777,
+      375,
+      18
+    ],
+    "text": "Seemasahitha Maharagama Janatha Santhaka Pravahana",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      205,
+      800,
+      48,
+      15
+    ],
+    "text": "Sevaya.",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      110,
+      43,
+      329,
+      15
+    ],
+    "text": "National Transport Cominission (Amendment)... 9",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      193,
+      62,
+      126,
+      15
+    ],
+    "text": "Act, Noe30 of 1996",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      74,
+      85,
+      384,
+      20
+    ],
+    "text": "Seemasahitha Udahamulla Janatha Santhaka Pravahana *",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      92,
+      105,
+      46,
+      15
+    ],
+    "text": "Sevaya,",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      74,
+      126,
+      366,
+      15
+    ],
+    "text": "Seemasabitha Matugama Janaiha Santhaka Pravahana Sevaya,",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      74,
+      148,
+      367,
+      16
+    ],
+    "text": "Seemasahitha AlutgamaJanatha SanthakaPravabanaSevaya,",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      74,
+      171,
+      367,
+      14
+    ],
+    "text": "Seemasahitha Hakmana Janatha SanthakaPravahana Sevaya.",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      74,
+      193,
+      368,
+      19
+    ],
+    "text": "Seemasahitha Meetotamulla Janatha Santbaka Pravabana",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      92,
+      212,
+      46,
+      14
+    ],
+    "text": "Sevaya.",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      74,
+      226,
+      417,
+      30
+    ],
+    "text": "Seemasahitha Welisara Janatha Santhaka Pravahana Sevaya, .",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      74,
+      256,
+      368,
+      15
+    ],
+    "text": "Seemasahitha Mattakkuliya Janatha Santhaka Pravahana",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      87,
+      265,
+      444,
+      31
+    ],
+    "text": "Sevaya. :",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      73,
+      296,
+      369,
+      15
+    ],
+    "text": "Seemasahitha Divulapitiya Janatha Santhaka Pravahana",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      91,
+      315,
+      317,
+      15
+    ],
+    "text": "Sevaya, : :",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      73,
+      333,
+      369,
+      19
+    ],
+    "text": "Seemasahitha Ja-Ela Janatha Santhaka Pravabanar Sevaya,",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      73,
+      359,
+      369,
+      16
+    ],
+    "text": "Seemasahitha Talangama Janatha Samhaka Pravahana Sevaya,",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      73,
+      381,
+      369,
+      16
+    ],
+    "text": "Seemasahitha Gampaha Janatha SanthakaPravahana Sevaya,",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72,
+      404,
+      370,
+      17
+    ],
+    "text": "Scemasahitha Kelaniya Janatha Santhaka Pravahana Sevaya,",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72,
+      426,
+      371,
+      13
+    ],
+    "text": "Seemasahitha Kirindiwala Janatha Santhaka Pravahana",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      91,
+      444,
+      189,
+      16
+    ],
+    "text": "Sevaya, :",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72,
+      467,
+      495,
+      15
+    ],
+    "text": "Seemasahitha Angoda Janatha Santhaka Pravahana Sevaya, :",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72,
+      489,
+      371,
+      15
+    ],
+    "text": "Seemasahitha Kadawata Janatha SanthakaPravahana Sevaya.",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72,
+      511,
+      371,
+      16
+    ],
+    "text": "Scemasahitha Kantale Janatha Santhaka Pravabana Sevaya.",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      71,
+      533,
+      423,
+      16
+    ],
+    "text": "Seemasahitha Ampara fanatha Santhaka Pravahana Sevaya. .",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      71,
+      556,
+      372,
+      13
+    ],
+    "text": "Seemasahitha Udadumbara Janatha Samhaka Pravahena",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90,
+      566,
+      173,
+      31
+    ],
+    "text": "Sevaya, :",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      71,
+      597,
+      489,
+      16
+    ],
+    "text": "Seemasahitha Akkaraipattuwa Janaiha Santbaka Pravahana .",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90,
+      616,
+      49,
+      15
+    ],
+    "text": "Sevaya,",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      71,
+      638,
+      371,
+      13
+    ],
+    "text": "Seemasabitha Kalmunai Janatha Santhaka Pravabana",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90,
+      648,
+      296,
+      31
+    ],
+    "text": "Sevaya, 7",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      71,
+      678,
+      371,
+      14
+    ],
+    "text": "Seemasabitha Ambalantota Janatha Santhaka Pravabana",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90,
+      697,
+      49,
+      15
+    ],
+    "text": "Sevaya.",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      70,
+      718,
+      371,
+      16
+    ],
+    "text": "Seemasahitha Vavuniyava Tanatha Santhaka Pravabana",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90,
+      728,
+      127,
+      31
+    ],
+    "text": "Sevaya. +",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      70,
+      758,
+      370,
+      16
+    ],
+    "text": "Seemasahitha Trikumamataya Janatha Senthaka Pravahana",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90,
+      768,
+      306,
+      31
+    ],
+    "text": "Sevaya. .",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      66,
+      790,
+      518,
+      31
+    ],
+    "text": "Seemasahitha Udugama Janatha Santhaka Pravahana Sevaya, .",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      73,
+      825,
+      14,
+      11
+    ],
+    "text": "B",
+    "mean_p_confidence": 0.01
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      67,
+      855,
+      481,
+      11
+    ],
+    "text": "1",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      130,
+      40,
+      377,
+      17
+    ],
+    "text": "+ 10 National Transport Commission (Amendment)",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      295,
+      60,
+      125,
+      15
+    ],
+    "text": "Act, No. 30 of 1996",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      173,
+      76,
+      376,
+      16
+    ],
+    "text": "Seecnasahitha Teldeniya Janatha Santhaka Pravahana Sevaya.",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      173,
+      98,
+      377,
+      17
+    ],
+    "text": "Seemasahitha Kotmale fanatha Santhaka Pravahana Sevaya.",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      173,
+      121,
+      377,
+      16
+    ],
+    "text": "Seemasahitha Kambedde Janatha Santhaka Pravahana Sevaya",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      173,
+      143,
+      378,
+      14
+    ],
+    "text": "Scemasabitha Valachchena Janatha Santhaka Pravabana",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      192,
+      153,
+      215,
+      33
+    ],
+    "text": "Sevaya, Lo",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      161,
+      185,
+      391,
+      15
+    ],
+    "text": "+ Seemasahitha Madakalapuwa Janata Santhaka Pravahana",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      191,
+      194,
+      307,
+      33
+    ],
+    "text": "Sevaya. :",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      172,
+      226,
+      319,
+      13
+    ],
+    "text": "Seemasahitha Muttur Janatha Santhaka Pravahana",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      191,
+      244,
+      48,
+      15
+    ],
+    "text": "Sevaya..",
+    "mean_p_confidence": 0.33
+  }
+]

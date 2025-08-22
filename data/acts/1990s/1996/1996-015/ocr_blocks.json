@@ -1,0 +1,728 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      113,
+      233,
+      377,
+      17
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIG",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      177,
+      264,
+      260,
+      20
+    ],
+    "text": "SOCIALIST REPUBLIC OF",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      249,
+      295,
+      116,
+      17
+    ],
+    "text": "SRI] LANKA",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      176,
+      409,
+      258,
+      36
+    ],
+    "text": "MEDICAL (AMENDMENT)",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      199,
+      461,
+      277,
+      25
+    ],
+    "text": "ACT, No. 15 OF 1996 :",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      156,
+      572,
+      308,
+      15
+    ],
+    "text": ". [Certified on 10th July, 1996],",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      186,
+      630,
+      243,
+      23
+    ],
+    "text": "Printed on the Order of Government",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      73,
+      735,
+      469,
+      16
+    ],
+    "text": "Published as a Supplement to Part II of the Gaxette of the Demecratic",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      158,
+      754,
+      330,
+      14
+    ],
+    "text": "Socialist Republic of Sri Lanka of July 12, 1996 ~",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      125,
+      790,
+      380,
+      26
+    ],
+    "text": "PRONTED AT THE DEPADTMENT OF GOVERNMENT PRINTING, BBL LANKA .",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      100,
+      817,
+      441,
+      21
+    ],
+    "text": "(PO SE PURCHASED at THR GOVEBNMENT PUULICATIONS BURRAU, CoLOaEO OL ~",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      74,
+      849,
+      469,
+      16
+    ],
+    "text": "Price: 45 cents, Postage: Re, 2.00",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      187,
+      70,
+      140,
+      13
+    ],
+    "text": "Medical (Amendment)",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      198,
+      90,
+      121,
+      12
+    ],
+    "text": "Act, No, 15 of 1996",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      136,
+      119,
+      238,
+      19
+    ],
+    "text": "\"\"* [certified on i0th July, 1998] *",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      116,
+      164,
+      443,
+      30
+    ],
+    "text": "Ax Act 10 AMEND Tie Mapica, Onmiance -",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      200,
+      367,
+      14
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic Socia-",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      219,
+      272,
+      14
+    ],
+    "text": "Uist Republic of Sri Lanka as follows : *",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      238,
+      399,
+      24
+    ],
+    "text": "4. This Act may be cited as the Medical (Ariendment) ghoct",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      261,
+      410,
+      15
+    ],
+    "text": "Act, No. 18 of 1998. ne Mite",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      288,
+      439,
+      29
+    ],
+    "text": "2 Section 20 of the Medical Ordinance (hereinafter Aentanens",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      309,
+      440,
+      20
+    ],
+    "text": "referred to os the principal enactment) ig hereby 3g 2",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      330,
+      454,
+      19
+    ],
+    "text": "amended by the insertion immediately after subsection Chapter 105,",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      353,
+      353,
+      15
+    ],
+    "text": "(6a) of that section, of the following subsection: -",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      97,
+      381,
+      345,
+      14
+    ],
+    "text": "@x) The registrar shall enter in a separate part of",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      396,
+      434,
+      14
+    ],
+    "text": "the register maintained under paragraph (4) of sub- :",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      413,
+      359,
+      13
+    ],
+    "text": "section (1) the name of every person who has been",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      429,
+      360,
+      13
+    ],
+    "text": "Tegistered as a medical practitioner under sub-paragraph",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      444,
+      352,
+      14
+    ],
+    "text": "iv) of paragraph () of subsoction (1) of section 22.",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      468,
+      443,
+      20
+    ],
+    "text": "% Section 29 of the principal enactment fs hereby Amendment",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      486,
+      457,
+      20
+    ],
+    "text": "amended by the addition et the end of subsection (1) of of section 29",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      503,
+      438,
+      17
+    ],
+    "text": "that section of the following sub-paragraph : peinalpal",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      460,
+      520,
+      59,
+      10
+    ],
+    "text": "Gaaciment,",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      531,
+      361,
+      14
+    ],
+    "text": "(iv) not being qualified to he registered under the",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      121,
+      547,
+      181,
+      13
+    ],
+    "text": "preceding sub-paragraphs :",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      123,
+      574,
+      198,
+      13
+    ],
+    "text": "(aa) i a citizen of Sri Lanka;",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      123,
+      601,
+      318,
+      13
+    ],
+    "text": "(bb) holds a degree of Bachelor of Medicine or",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      156,
+      616,
+      285,
+      14
+    ],
+    "text": "an equivalent qualification of any univer-",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      159,
+      632,
+      283,
+      14
+    ],
+    "text": "aity or medical school of any country out-",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      159,
+      648,
+      111,
+      11
+    ],
+    "text": "side Sti Lanka",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      174,
+      670,
+      267,
+      15
+    ],
+    "text": "(@) which tm recognized by the Medical",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      197,
+      685,
+      267,
+      15
+    ],
+    "text": "Counell for the purposes of this section",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      196,
+      702,
+      245,
+      14
+    ],
+    "text": "having retard to the standards of",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      194,
+      717,
+      246,
+      13
+    ],
+    "text": "medical education of such university",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      195,
+      733,
+      144,
+      13
+    ],
+    "text": "or medical schoo! ; or",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      171,
+      760,
+      389,
+      15
+    ],
+    "text": "Gi) whlch on the date on which such :",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      196,
+      775,
+      243,
+      16
+    ],
+    "text": "person was admitted to such university",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      193,
+      791,
+      247,
+      13
+    ],
+    "text": "or medical school was a degree or",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      193,
+      806,
+      353,
+      16
+    ],
+    "text": "qualification which entitled its bolder .",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      195,
+      822,
+      277,
+      15
+    ],
+    "text": "to be registered as a medical practi",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      194,
+      838,
+      181,
+      14
+    ],
+    "text": "tioner under this Ordinance ;",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      864,
+      486,
+      13
+    ],
+    "text": "BB o4ses07,980 (asia) - 4g",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      184,
+      57,
+      361,
+      15
+    ],
+    "text": "2 Medical (Amendment) .",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      306,
+      77,
+      126,
+      13
+    ],
+    "text": "Act, No, 15 of 1996",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      234,
+      108,
+      324,
+      13
+    ],
+    "text": "(ec) hed joined the department of Health Services",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      270,
+      128,
+      287,
+      14
+    ],
+    "text": "prior to Mey 1%, 1991 amd has had an",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      272,
+      147,
+      286,
+      14
+    ],
+    "text": "aggregate period of at least five years effi-",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      152,
+      167,
+      406,
+      13
+    ],
+    "text": ". ci. cent and satisfactory setviee as a Govern-",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      175,
+      187,
+      382,
+      15
+    ],
+    "text": ". iment medical officer to the satisfaction of",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      271,
+      202,
+      286,
+      17
+    ],
+    "text": "the Director-General of Health Services;",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      224,
+      244,
+      334,
+      23
+    ],
+    "text": "* (dd) holds a certificate granted by the Medical",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      271,
+      273,
+      179,
+      11
+    ],
+    "text": "Council under section 22.",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      85,
+      302,
+      473,
+      16
+    ],
+    "text": "Sinbala txt 4 In the event .of any inconsistency between the",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      85,
+      319,
+      473,
+      20
+    ],
+    "text": "B,reyal Sinhala and Tamil text.of this Act, the Sinhala text shall",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      85,
+      341,
+      340,
+      21
+    ],
+    "text": "Inconsistency. Preval |",
+    "mean_p_confidence": 0.04
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      129,
+      375,
+      219,
+      8
+    ],
+    "text": ": : Mes",
+    "mean_p_confidence": 0.29
+  }
+]

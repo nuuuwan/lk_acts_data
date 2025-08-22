@@ -1,0 +1,640 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      115,
+      209,
+      386,
+      19
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      176,
+      236,
+      266,
+      19
+    ],
+    "text": "SOCIALIST REPUBLIC OF",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      224,
+      265,
+      119,
+      17
+    ],
+    "text": "SRI LANKA",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      188,
+      384,
+      244,
+      24
+    ],
+    "text": "EXCISE (AMENDMENT)",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      210,
+      416,
+      204,
+      21
+    ],
+    "text": "ACT, No. 7 OF 1996",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72,
+      544,
+      342,
+      30
+    ],
+    "text": "a t [Certified en 25th March, 1996]",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      190,
+      617,
+      237,
+      13
+    ],
+    "text": "Printed. on the Order of Government",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76,
+      702,
+      467,
+      15
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the Democratic",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      153,
+      719,
+      319,
+      15
+    ],
+    "text": "Socialist Republic of Sri Lanka of Mareh 29, 1998",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      126,
+      777,
+      369,
+      11
+    ],
+    "text": "PRNIAD Ag THE DEFARLOGAT OF OOVEODEOTE FAINTING, At LANA",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      107,
+      799,
+      405,
+      15
+    ],
+    "text": "\"PO HE PURCHASED AT CHE GOVERNBGENT PUBLICATIONS BURRAV, COLOREEO Of",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      75,
+      819,
+      466,
+      17
+    ],
+    "text": "Price: iSeents Postage: Bs, 2.00",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      141,
+      5,
+      256,
+      15
+    ],
+    "text": "Buclse (Amendment) Act, No. 7 of 1996",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      171,
+      29,
+      198,
+      15
+    ],
+    "text": "[Certified on 25th March, 1996]",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140,
+      62,
+      256,
+      11
+    ],
+    "text": "at Acr vo asamp war Bxcese OnmnANcs",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      84,
+      93,
+      12
+    ],
+    "text": "LDO, 27/96",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      110,
+      369,
+      15
+    ],
+    "text": "BE tt enacted by the Parliament of the Democratic",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      127,
+      293,
+      14
+    ],
+    "text": "Socialist Republic of Sri Lanks as follows :",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      94,
+      146,
+      424,
+      23
+    ],
+    "text": "1. This Act may be cited as the Excise (Amendment) fille .",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      172,
+      118,
+      13
+    ],
+    "text": "Act, No. 7 of 1996,",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      94,
+      199,
+      447,
+      21
+    ],
+    "text": "2 Section 15 of the Excise Ordinance (hereinafter referr- Amendment",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      218,
+      424,
+      14
+    ],
+    "text": "ed to as the \"principal enactment) ix hereby amended by 15 of",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      232,
+      458,
+      17
+    ],
+    "text": "the substitution in paragraph (d) of that section for Chapter 02",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      250,
+      466,
+      15
+    ],
+    "text": "the words brewery or warehouse*, of the wordi .",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      267,
+      298,
+      15
+    ],
+    "text": "brewery, liquor manufactory or warehouse\",",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93,
+      292,
+      450,
+      21
+    ],
+    "text": "3, Section 16 af the principal enactment is hereby amend- Amandoet",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      314,
+      448,
+      13
+    ],
+    "text": "ed as follows : : 16 cf tha",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      478,
+      325,
+      49,
+      12
+    ],
+    "text": "princinal",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96,
+      337,
+      442,
+      20
+    ],
+    "text": "G) fm subsection (1) of that eoction tonckment,",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      135,
+      369,
+      330,
+      16
+    ],
+    "text": "(@) by the mubstitution in paragraph (c) thereof,",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      173,
+      386,
+      292,
+      13
+    ],
+    "text": "for the words distilleries and breweries,",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      173,
+      402,
+      325,
+      14
+    ],
+    "text": "of the words distilleries, breweries and =",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      173,
+      419,
+      151,
+      15
+    ],
+    "text": "quer manufactaries;",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      137,
+      446,
+      327,
+      16
+    ],
+    "text": "{b) by the substitution im paragraph (c) thereot,",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      172,
+      462,
+      295,
+      15
+    ],
+    "text": "for the words brewery, or warehouse, of",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      173,
+      480,
+      294,
+      14
+    ],
+    "text": "the words brewery, quer manuiactory or",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      175,
+      498,
+      85,
+      13
+    ],
+    "text": "warehouse;",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      97,
+      520,
+      371,
+      15
+    ],
+    "text": "(2) im mubsection (2) of that section by the substitu.",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      135,
+      537,
+      333,
+      14
+    ],
+    "text": "tion for the words \" brewery, or warehouse, of the",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      135,
+      554,
+      334,
+      14
+    ],
+    "text": "words brewery, Uquar manufactory or ware-",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      135,
+      572,
+      52,
+      11
+    ],
+    "text": "house.",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      97,
+      590,
+      458,
+      30
+    ],
+    "text": "4 Section 22 of the principal enactment is hereby amend- Aunendment",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      606,
+      453,
+      24
+    ],
+    "text": "ed in paragraph () of subsection (1) of that section, by 2 Si we",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      627,
+      460,
+      22
+    ],
+    "text": "the substitution for the wards distillery, or brewery incon!",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      639,
+      453,
+      23
+    ],
+    "text": "of the words distillery, brewery or Kquor manufactory. *=*",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99,
+      675,
+      454,
+      23
+    ],
+    "text": "5, Section 23 of the prineipsl enactment is hereby amend. Amendment",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      696,
+      468,
+      16
+    ],
+    "text": "+ ed by the substitution, in sub-paragraph (i) of paregraph 23 of the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      709,
+      457,
+      22
+    ],
+    "text": "() of that section for the words distillery ar brewery,, princizal |",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      721,
+      464,
+      30
+    ],
+    "text": "of the wrods distillery, brewery or Hquor manufactory,.",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99,
+      755,
+      455,
+      21
+    ],
+    "text": "$. Section 46 of the principal enactment is hereby amend- Amendment",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      773,
+      453,
+      17
+    ],
+    "text": "ed by the substitution in paragraph (e) of that section for 49 of the",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      788,
+      461,
+      21
+    ],
+    "text": "the words brewery, or warehouse ;\", of the words principal",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      806,
+      323,
+      18
+    ],
+    "text": "- brewery, Hquor manufactory or warehouse ;.",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108,
+      834,
+      131,
+      12
+    ],
+    "text": "3D oseszi7,980 0/11)",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      187,
+      1,
+      382,
+      22
+    ],
+    "text": "2 Bacise (Amendment) Act, No.. of 1996 7",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90,
+      32,
+      475,
+      29
+    ],
+    "text": "Bintula text 7. In the avent of any inconsistency between the Sinhala",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      86,
+      58,
+      472,
+      28
+    ],
+    "text": "Prevail a and Tamil texts of this Act, the Sinhala text shall prevail.",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90,
+      76,
+      65,
+      19
+    ],
+    "text": "consistency,",
+    "mean_p_confidence": 0.21
+  }
+]
