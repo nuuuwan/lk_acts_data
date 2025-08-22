@@ -1,0 +1,1520 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      222,
+      59,
+      276,
+      27
+    ],
+    "text": "7. o> aoe",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      238,
+      87,
+      218,
+      52
+    ],
+    "text": "i Sen LS",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78,
+      181,
+      405,
+      30
+    ],
+    "text": ": PARLIAMENT OF THE DEMOCRATIC",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      67,
+      222,
+      455,
+      29
+    ],
+    "text": "; - SOCIALIST REPUBLIC OF ;",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      49,
+      267,
+      355,
+      33
+    ],
+    "text": "a | (SRILANKA 3.",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115,
+      382,
+      370,
+      27
+    ],
+    "text": "MOTOR TRAFFIC (AMENDMENT)",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      181,
+      418,
+      223,
+      21
+    ],
+    "text": "ACT, No. 31 OF 1979.",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78,
+      507,
+      293,
+      24
+    ],
+    "text": ": [Certified on 2ist May, 1979]",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      94,
+      544,
+      330,
+      38
+    ],
+    "text": ". , Printed on the Orders of Government",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      47,
+      638,
+      482,
+      40
+    ],
+    "text": "Published = a Supplement to Part Tof the Gasstts of the Democratic",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      49,
+      672,
+      405,
+      30
+    ],
+    "text": "oo: Socialist Republte of Sri Lanka of May 25, 1979,",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      105,
+      752,
+      371,
+      29
+    ],
+    "text": "ase a nu onan or covnnpets Pa, Ha Ath",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      103,
+      780,
+      434,
+      26
+    ],
+    "text": "\"TO BB FURCHABED AT THE GOVT. PUBLEVATION BUREAU, COLOMEO *",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      92,
+      804,
+      445,
+      23
+    ],
+    "text": "Price; 45cents * 6 ap + Postage: 25 cents .",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      7,
+      418,
+      23
+    ],
+    "text": "\"Motor Traffic (Amendment) Act, No. 31 of 1978 moo:",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      43,
+      434,
+      21
+    ],
+    "text": "- [Certified on 21st May, 1979] . *",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      67,
+      463,
+      19
+    ],
+    "text": "LD~O2/B, -. 6 : t :",
+    "mean_p_confidence": 0.04
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      96,
+      422,
+      17
+    ],
+    "text": ". AN Aer to ansenm mm Moron Trarsfc Act, :",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      120,
+      366,
+      16
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      136,
+      461,
+      18
+    ],
+    "text": "Sdcialist Republic of Sri Lanka as follows : . . +",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      168,
+      479,
+      16
+    ],
+    "text": "1, This Act may be cited as the Motor Trafic Shorttitle. -",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      186,
+      490,
+      14
+    ],
+    "text": "{Amendment) Act, No. 31 of 1979. . +",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      221,
+      455,
+      20
+    ],
+    "text": "2 Section 151 of the Motor Traffic. Act, hereinafter Amendment,",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      239,
+      455,
+      15
+    ],
+    "text": "referred to as the principal enactment, fs hereby amended Sf Chanter",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      253,
+      418,
+      14
+    ],
+    "text": "as follows : 2 208.",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      275,
+      417,
+      19
+    ],
+    "text": "(1) by the repeal of subsection (1) of that section and >",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      113,
+      296,
+      328,
+      15
+    ],
+    "text": "the substitution therefor, of the following sub-",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      101,
+      315,
+      298,
+      13
+    ],
+    "text": "+ section : : -",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      126,
+      338,
+      315,
+      15
+    ],
+    "text": "(1) No person shall drive 4 motor vehicle on",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      112,
+      355,
+      398,
+      18
+    ],
+    "text": "a highway after he bus consuried alcohol or any. /. #",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      112,
+      371,
+      189,
+      14
+    ],
+    "text": "drug. 5 :",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      394,
+      476,
+      20
+    ],
+    "text": "(2) by the insertion, immediately after subsection (I) of =!",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      414,
+      478,
+      19
+    ],
+    "text": ". that section, of the following new subsections: oo",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      46,
+      441,
+      396,
+      14
+    ],
+    "text": "ot (1a) No person shall drive any omnibus or",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      56,
+      458,
+      451,
+      15
+    ],
+    "text": "|, hiring car or any other vehicle intendd for the .",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      475,
+      382,
+      14
+    ],
+    "text": ". carriage of persons for fee or reward on a highway",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      111,
+      490,
+      330,
+      16
+    ],
+    "text": "after he has consumed alcohol or any drug. .",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      127,
+      510,
+      382,
+      23
+    ],
+    "text": "(1s) Any person who,drives a motor vebfcle on ,",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      111,
+      532,
+      330,
+      15
+    ],
+    "text": "a highway after he has consumed eledhol or any",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      111,
+      550,
+      330,
+      15
+    ],
+    "text": "drug and thereby causes death or injury to any",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      566,
+      470,
+      16
+    ],
+    "text": "* person, shail be guilty af an offence under this Act. =... *",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      47,
+      588,
+      491,
+      18
+    ],
+    "text": "a + (1c) (a) Where a police officer suspects that the . .",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      111,
+      608,
+      330,
+      14
+    ],
+    "text": "driver of a motor vehicle on a highway bes",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      111,
+      625,
+      330,
+      14
+    ],
+    "text": "consumed slcchol he may require such person to",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      111,
+      639,
+      411,
+      17
+    ],
+    "text": "to submit himself immediately to a breath test for 7",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      112,
+      657,
+      330,
+      16
+    ],
+    "text": "alcoho! and that person shall comply with such",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      675,
+      370,
+      15
+    ],
+    "text": "* geqiifrement | ~ Lot",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      698,
+      467,
+      17
+    ],
+    "text": "1+ () Where breath test for aleohol reveals thet oo",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      715,
+      367,
+      16
+    ],
+    "text": "\"such person has consumed alcohol or where such |",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108,
+      727,
+      402,
+      26
+    ],
+    "text": "person refuses to submit himslf to such test it shall . -",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      112,
+      748,
+      441,
+      17
+    ],
+    "text": "be presumed that such person has.consumed alcoho}, i",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      112,
+      764,
+      433,
+      22
+    ],
+    "text": "unless evidence to the contrary hes been adduced. , :",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      129,
+      788,
+      313,
+      19
+    ],
+    "text": "(c)' Where a polite officer suspects that the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      113,
+      807,
+      329,
+      15
+    ],
+    "text": "driver of a motor Vehicle on a highway has consum-",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      114,
+      823,
+      328,
+      18
+    ],
+    "text": "et any drug it shall be lawful for the police officer",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      844,
+      423,
+      18
+    ],
+    "text": "A.-4178020 $00 (79/05) . a . .",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      864,
+      492,
+      12
+    ],
+    "text": "Lo. . + ke eo",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      130,
+      4,
+      414,
+      22
+    ],
+    "text": ". 2 Motor Traffic (Amendment) Act, No. at of 1978",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      66,
+      39,
+      507,
+      24
+    ],
+    "text": ". . to produce such person before a Government medi- .",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      234,
+      61,
+      328,
+      15
+    ],
+    "text": "al officer for examination and that person shalt",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      104,
+      78,
+      334,
+      16
+    ],
+    "text": ". comply with such requirement.",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      251,
+      97,
+      327,
+      22
+    ],
+    "text": "(@ The report of a Governmetif thedical offteer",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      235,
+      120,
+      328,
+      11
+    ],
+    "text": "to the effect that the driver of a motor vehicle on a",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      234,
+      136,
+      329,
+      14
+    ],
+    "text": "highway has consumed any drug shall be sufiicent",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      234,
+      152,
+      329,
+      15
+    ],
+    "text": "evidence of the fact that such person has consumed",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143,
+      169,
+      420,
+      14
+    ],
+    "text": ": any drug unless evidence to the contrary has been",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      230,
+      175,
+      212,
+      31
+    ],
+    "text": "adduced. oo",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      167,
+      209,
+      397,
+      16
+    ],
+    "text": "5 () Where such person zefuses to submit himself",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      232,
+      226,
+      331,
+      14
+    ],
+    "text": "to any such examination by the Government medical",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      234,
+      243,
+      330,
+      15
+    ],
+    "text": "officer it shall be presumed thet he was driving",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      227,
+      260,
+      337,
+      14
+    ],
+    "text": "- after the consumption of drugs unless evidence to",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      235,
+      276,
+      204,
+      14
+    ],
+    "text": "the contrery hes been adduced,",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      248,
+      300,
+      296,
+      16
+    ],
+    "text": "(1p) Regulations may be made prescribing",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      174,
+      324,
+      390,
+      14
+    ],
+    "text": ". (@ the mode and manner in which the",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      314,
+      342,
+      250,
+      12
+    ],
+    "text": "breath test for. alcohol shall be",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      313,
+      360,
+      71,
+      13
+    ],
+    "text": "conducted ;",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      150,
+      376,
+      414,
+      17
+    ],
+    "text": "(i) the concentration of aleohol in a person's",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      64,
+      396,
+      500,
+      15
+    ],
+    "text": ". blood at or above which a person shall",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      314,
+      413,
+      250,
+      17
+    ],
+    "text": "be deemed to have consumed sleohol ;",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      271,
+      434,
+      307,
+      18
+    ],
+    "text": "(ii) the mode and mamer in which any",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      296,
+      451,
+      270,
+      16
+    ],
+    "text": "_ examination may be conducted to",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      175,
+      467,
+      390,
+      14
+    ],
+    "text": "oar * \"ascertain whether a driver of a motor",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      133,
+      485,
+      436,
+      16
+    ],
+    "text": ". vehicle has consumed any drug; and _",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      211,
+      504,
+      354,
+      17
+    ],
+    "text": ": @vj the concentration -of any drug in a",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      124,
+      523,
+      441,
+      16
+    ],
+    "text": ". . eats person's blood at or sbove which a",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      81,
+      540,
+      484,
+      17
+    ],
+    "text": ". . person shsll be deemed to have",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      94,
+      559,
+      398,
+      14
+    ],
+    "text": ". consumed any drug.; and",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      199,
+      583,
+      368,
+      15
+    ],
+    "text": "@) by the substitution for the marginal note to that",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      235,
+      599,
+      328,
+      16
+    ],
+    "text": "section, of the following marginal note:-- . |",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      80,
+      622,
+      487,
+      18
+    ],
+    "text": ". Driving after the consumption of alechol or",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      236,
+      642,
+      272,
+      15
+    ],
+    "text": "drugs, and reckless or negligent ariving..",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      84,
+      659,
+      482,
+      32
+    ],
+    "text": "Replacement 3. Section 216 of the principal enactment is hereby",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      89,
+      678,
+      478,
+      23
+    ],
+    "text": "Bigepiee repealed and the following new section substituted",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      84,
+      695,
+      492,
+      32
+    ],
+    "text": "Rhacutent, therefor : .",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      62,
+      723,
+      504,
+      19
+    ],
+    "text": "- Penalty for 218. Any person who is guilty of the",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      86,
+      737,
+      481,
+      22
+    ],
+    "text": ", Serie titer offence of cortravening the provisions of",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      62,
+      749,
+      517,
+      33
+    ],
+    "text": "woe + Son of subsection () of section 151 shall, on",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      61,
+      768,
+      506,
+      27
+    ],
+    "text": "re 7 drug. conviction after summary trial before #",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      279,
+      791,
+      288,
+      15
+    ],
+    "text": "Magistrate, be liable to a fine not less than",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      167,
+      808,
+      402,
+      16
+    ],
+    "text": "- two thousand rupees or to imprisonment of",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      280,
+      825,
+      289,
+      15
+    ],
+    "text": "either description for a term not exceeding",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      95,
+      14,
+      350,
+      16
+    ],
+    "text": "Motor Traffic (Amendment) Act, No. 31 of 1970 &",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      154,
+      38,
+      364,
+      31
+    ],
+    "text": "Yee months. or to both such fine and :",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      91,
+      63,
+      354,
+      16
+    ],
+    "text": "imprisonment and to the suspension of his",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      62,
+      80,
+      431,
+      18
+    ],
+    "text": ". Griving Licence for a period not exceeding",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      62,
+      91,
+      385,
+      26
+    ],
+    "text": "bak wt twelve months, .",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      75,
+      132,
+      453,
+      17
+    ],
+    "text": "4. The following new sections are hereby inserted Tnrertion ot",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      63,
+      143,
+      471,
+      21
+    ],
+    "text": "Immediately sfter section 216 of the principal enactment, fmt sections",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      62,
+      164,
+      463,
+      15
+    ],
+    "text": "and shall have effect as sections .216a and, 2163, of that 2188 in the",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      58,
+      181,
+      463,
+      22
+    ],
+    "text": "enactment : . enactment.",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      62,
+      211,
+      378,
+      21
+    ],
+    "text": "SBeoaliy for 2164, Any person who is guilty of the",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      62,
+      225,
+      473,
+      18
+    ],
+    "text": "@ivingeer- offence of contravening the provisions of ve",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      62,
+      244,
+      378,
+      22
+    ],
+    "text": "Yotieies after cubsection (1a) of section 161 shall, on",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      61,
+      261,
+      393,
+      14
+    ],
+    "text": "Honofalcohol convietion after summary trial before a",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      61,
+      276,
+      423,
+      18
+    ],
+    "text": "or erugs. Magistrate, be liable to a fine not less than",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157,
+      292,
+      357,
+      18
+    ],
+    "text": "three thousand rupees and to imprisonment - \" -",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      158,
+      312,
+      286,
+      15
+    ],
+    "text": "of either description for term not exceeding",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      154,
+      319,
+      366,
+      31
+    ],
+    "text": "six months end to the cancellation of his",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      52,
+      339,
+      399,
+      27
+    ],
+    "text": "7 driving licence. .",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      61,
+      373,
+      441,
+      16
+    ],
+    "text": "Penalty for 2168. Any person who fs guilty of the :",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      61,
+      387,
+      449,
+      22
+    ],
+    "text": "Stuting death offence of contravening the provisions of *",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      62,
+      407,
+      394,
+      21
+    ],
+    "text": "fp persone by subsection (Js) of section 181 shall, on |",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      61,
+      420,
+      384,
+      20
+    ],
+    "text": "GRAREMSOr conviction after summary triat before a",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      62,
+      441,
+      420,
+      21
+    ],
+    "text": "Siusumplion Magistrate, be liahle :",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      63,
+      462,
+      474,
+      12
+    ],
+    "text": "ae .",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      158,
+      484,
+      302,
+      16
+    ],
+    "text": "+ (a) where he causes death to any person, ~",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      210,
+      502,
+      236,
+      15
+    ],
+    "text": "to imprisonment of either description",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      130,
+      519,
+      315,
+      13
+    ],
+    "text": ". for a term not less than {we yeare",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      210,
+      535,
+      243,
+      16
+    ],
+    "text": "and not exceeding ten years.ind to _",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      210,
+      552,
+      311,
+      13
+    ],
+    "text": "the cancellation of his driving. -",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      210,
+      570,
+      73,
+      13
+    ],
+    "text": "Yeense; *",
+    "mean_p_confidence": 0.04
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      163,
+      597,
+      282,
+      15
+    ],
+    "text": "* (b) where he causes injury to any person,",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      82,
+      609,
+      453,
+      24
+    ],
+    "text": ". 1 to a fine not Jess than five thousand .",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      138,
+      630,
+      307,
+      15
+    ],
+    "text": ": \"rupees or to imprisonment of either",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      105,
+      647,
+      340,
+      14
+    ],
+    "text": ". description for a term not excoeding",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      134,
+      663,
+      311,
+      15
+    ],
+    "text": "i five years or to both such fine end",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      80,
+      680,
+      364,
+      17
+    ],
+    "text": ". ieuprisonmeont and fo the cancellation",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      168,
+      698,
+      363,
+      14
+    ],
+    "text": ".- of his driying Heence, . :",
+    "mean_p_confidence": 0.33
+  }
+]

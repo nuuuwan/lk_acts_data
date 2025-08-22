@@ -1,0 +1,1531 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      302,
+      12,
+      226,
+      25
+    ],
+    "text": "1 eo",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      114,
+      204,
+      397,
+      21
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC.",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      153,
+      240,
+      286,
+      18
+    ],
+    "text": "- SOCIALIST REPUBLIC OF",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      84,
+      274,
+      278,
+      21
+    ],
+    "text": "; SRI LANKA",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      91,
+      383,
+      432,
+      23
+    ],
+    "text": "MOTOR TRAFFIC (SPECIAL PROVISIONS)",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      45,
+      440,
+      366,
+      23
+    ],
+    "text": ". ACT, No. 60 OF 1979",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      74,
+      524,
+      331,
+      28
+    ],
+    "text": ", [Certified on 4th October, 1979]",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      179,
+      578,
+      393,
+      25
+    ],
+    "text": "Printed on the Orders of Government see .",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      67,
+      673,
+      475,
+      15
+    ],
+    "text": "Published a3 a Supplement to Part II of the Gazette of the Democratic",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      65,
+      695,
+      481,
+      14
+    ],
+    "text": ". Socialist Republic of Sri Lanke of October 12, 1979 .",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      121,
+      776,
+      366,
+      20
+    ],
+    "text": "(PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, 07 LANKA",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      128,
+      798,
+      413,
+      19
+    ],
+    "text": "PO Be FORCHAGED AT TUN COVE. FURLICAZIONS #UREAU, COLOMDO .",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      95,
+      830,
+      422,
+      14
+    ],
+    "text": "Price: 45 cents . wi. Postage: 25 cents",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      15,
+      381,
+      16
+    ],
+    "text": "Motor Trafic (Special Provisions)",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211,
+      34,
+      116,
+      13
+    ],
+    "text": "Act, No. 60 of 1979",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      169,
+      62,
+      291,
+      17
+    ],
+    "text": "(Certified on 4th October, 1979] :",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      90,
+      379,
+      16
+    ],
+    "text": "LDO. 41/79. ona",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      118,
+      379,
+      11
+    ],
+    "text": "AN Ac? 10 PROHISIT SHE OPERATION OF MOTOR VEHICLES WITH",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92,
+      137,
+      364,
+      11
+    ],
+    "text": "LIQUID PETROLEUM GAS; TO REQUINE OWMIRa OY 20TOR",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93,
+      153,
+      363,
+      9
+    ],
+    "text": "YERICLES OPERATED WITH KEROSENE OR WITH A MOXTURE OF",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      170,
+      365,
+      8
+    ],
+    "text": "KEROSENE AND ANE OTHER PETROLEUM PRODUCT TO REGISTER",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92,
+      186,
+      364,
+      11
+    ],
+    "text": "SUCH VEHICLES ; TO IMPOSE A TAX OW. SUCH VEKICLES 5 AND",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      202,
+      365,
+      9
+    ],
+    "text": "TO PROVIDE BOR MATTERS CONNECTED THEREWTER OR ENCIDENTAL",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      219,
+      51,
+      9
+    ],
+    "text": "THERETO,",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      245,
+      378,
+      14
+    ],
+    "text": "BE it enacted by the Parliament of the Democratle Soctalist",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      261,
+      238,
+      14
+    ],
+    "text": "Republic of Sei Lanka as follows :",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      293,
+      443,
+      15
+    ],
+    "text": "This Act may be cited as the Motor Traffic (Special Short title.",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      310,
+      203,
+      14
+    ],
+    "text": "Provisions) Act, No. 60 af 1979.",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      342,
+      444,
+      21
+    ],
+    "text": "2 No person shall possess or use any motor vehicle which Prokiition",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      356,
+      454,
+      20
+    ],
+    "text": "is operated with Hquid petroteum gas. of lqud",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      419,
+      376,
+      107,
+      10
+    ],
+    "text": ". petraleum",
+    "mean_p_confidence": 0.01
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      470,
+      388,
+      20,
+      9
+    ],
+    "text": "me",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      413,
+      432,
+      13
+    ],
+    "text": "No person chall use Kerosene or any mixtura of Kerosene",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      425,
+      442,
+      21
+    ],
+    "text": "kerosene with any other petroleum product for the purpose operated",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      445,
+      456,
+      15
+    ],
+    "text": "of opetnting any motor vehicle unleas such vehicle fs vehicles to",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      458,
+      468,
+      17
+    ],
+    "text": "registered under the Motor Traffic Act as a vehicle which D tegistered.",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      478,
+      378,
+      13
+    ],
+    "text": "{1s operated with kerosene or with a mixture of kerosene'and",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      494,
+      339,
+      18
+    ],
+    "text": "any other petroleum product. .",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      526,
+      437,
+      14
+    ],
+    "text": "4. (1) Every owner of a mofor vehicle referred to im Owner to",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      538,
+      461,
+      22
+    ],
+    "text": "section 8 shall, before the expiry of a period of thirty days AB for",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      559,
+      378,
+      14
+    ],
+    "text": "from the date of coming into operation of this Act, apply to",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      576,
+      378,
+      14
+    ],
+    "text": "the Registrar for registration of such vehicle as a vehicle",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      593,
+      378,
+      13
+    ],
+    "text": "operated with kerosene or with a mixture of kerosene and",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      610,
+      191,
+      14
+    ],
+    "text": "any other petroleum product.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      634,
+      404,
+      14
+    ],
+    "text": "(2) Where a person falls to comply with the provisions =~",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      651,
+      379,
+      13
+    ],
+    "text": "of subsection (1) he shall be guilty of an offence and shall,",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      668,
+      378,
+      13
+    ],
+    "text": "on conviction hefore a Magistrate, be Hable to a fine of",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      684,
+      334,
+      18
+    ],
+    "text": "one thousand rupees. 7",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      716,
+      440,
+      14
+    ],
+    "text": "3. Notwithstanding any af the provisions of the Motor tmpasition",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      730,
+      456,
+      21
+    ],
+    "text": "Trafic Act, there shall be payable to the appropriate ot 9 taxon",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      750,
+      428,
+      14
+    ],
+    "text": "Ticensing authority, for the period commencing on July 01, mator",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      763,
+      441,
+      17
+    ],
+    "text": "1979, end ending on December 31, 1979, in respect of tha Vehicles.",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      783,
+      378,
+      14
+    ],
+    "text": "motor vehicles specified in Column 1 of the Schedule hereto,",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      799,
+      379,
+      15
+    ],
+    "text": "the tax specified in the corresponding entry in Column IF",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      815,
+      110,
+      13
+    ],
+    "text": "of that Schedule,",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      842,
+      497,
+      18
+    ],
+    "text": "A.40td14,000 (70/08) . '",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      159,
+      6,
+      380,
+      19
+    ],
+    "text": "2 Motor Traffic (Special Provisions) |",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      288,
+      28,
+      296,
+      16
+    ],
+    "text": "Act, No, 60 of 1979 Lo",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      67,
+      61,
+      473,
+      14
+    ],
+    "text": "Dats of 6. (1) The tax payable under section 5 shall be pald to",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      67,
+      74,
+      473,
+      22
+    ],
+    "text": "Biren f the appropriate Licensing authority on or before December",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      64,
+      96,
+      519,
+      22
+    ],
+    "text": "eersayeceat, 82, 1979, eo",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      174,
+      127,
+      410,
+      15
+    ],
+    "text": "(2) Every petson who fails to pay the tax on ot before, _",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      157,
+      148,
+      383,
+      15
+    ],
+    "text": "the date specified in subsection (1} shall be guilty of an",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      157,
+      168,
+      383,
+      13
+    ],
+    "text": "offence under this Act and shall on conviction before",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      157,
+      188,
+      383,
+      16
+    ],
+    "text": "Magistrate be liable to a fine not exceeding three thousand",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      157,
+      206,
+      424,
+      19
+    ],
+    "text": "rupees, notwithstanding that such fine in in exeess of the |!",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      157,
+      229,
+      267,
+      15
+    ],
+    "text": "ordinary jurisdiction of such Magistrate.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      173,
+      254,
+      368,
+      14
+    ],
+    "text": "(8) Where the amount of the tax referred to in sub-",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      158,
+      268,
+      421,
+      21
+    ],
+    "text": "section (1) has not been paid to the appropriate Hcensing",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      158,
+      296,
+      383,
+      14
+    ],
+    "text": "authority before the expiry of @ period of thres months",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      157,
+      317,
+      427,
+      13
+    ],
+    "text": "from the date specified in subsection (1), the Hoensing",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      157,
+      337,
+      384,
+      14
+    ],
+    "text": "authority shall issue a certificate containing particulars of",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      157,
+      357,
+      384,
+      15
+    ],
+    "text": "such tax and the name and last known place of residence",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      58,
+      378,
+      483,
+      17
+    ],
+    "text": ", of the person who hes failed to pay such tax, to a",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      157,
+      397,
+      384,
+      15
+    ],
+    "text": "Magistrate having jurisdiction in the division in which such",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      158,
+      418,
+      384,
+      14
+    ],
+    "text": "place is situated. The Magistrate shall order the tax to be",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      157,
+      439,
+      427,
+      16
+    ],
+    "text": "recovered as though it were a fine imposed by 2 sentence,",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      158,
+      460,
+      222,
+      14
+    ],
+    "text": "of the Magistrate on such person.",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      65,
+      492,
+      477,
+      14
+    ],
+    "text": "Powers of 7. Where any police officer has @ ressonable suspicion",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      59,
+      500,
+      485,
+      32
+    ],
+    "text": "Bae, that a motor vehicle is being used by any person in contra-",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      132,
+      533,
+      412,
+      15
+    ],
+    "text": "_ vention of the provisions of this Act, it shall be lavful for",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      158,
+      553,
+      386,
+      15
+    ],
+    "text": "such police officer to stop and dc'ain such vchicle until",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      158,
+      575,
+      386,
+      14
+    ],
+    "text": "the examination of such vehicle is ocmpleled by an",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      154,
+      584,
+      392,
+      32
+    ],
+    "text": "examiner. .",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      63,
+      618,
+      521,
+      29
+    ],
+    "text": "Renaity for Any peraon who contravenes the provisions of section",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      62,
+      648,
+      481,
+      22
+    ],
+    "text": "Giggtions 2 2. or section 9 shell be guilty of an offence and shall, on",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      160,
+      667,
+      424,
+      16
+    ],
+    "text": "conviction by a Magistrate, be Hable to a fine not less than *",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      159,
+      689,
+      384,
+      16
+    ],
+    "text": "five thousand rupees, notwithstanding that such fine fs fo",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      160,
+      710,
+      351,
+      16
+    ],
+    "text": "excess of the ordinary jurisdiction of such Magistrate.",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      64,
+      743,
+      479,
+      21
+    ],
+    "text": "Certifente ot 9, Where, in any proceedings under this Act ony question",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      64,
+      764,
+      507,
+      22
+    ],
+    "text": "rte cme _Srise# a2 to whether Kerosene or any mixture of kerosene",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      64,
+      784,
+      480,
+      16
+    ],
+    "text": "in evidence, With any other petroleum product has bean used for the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      159,
+      805,
+      385,
+      16
+    ],
+    "text": "purpose of operating any motor vehicle, the certificate of a1",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      159,
+      825,
+      383,
+      15
+    ],
+    "text": "examiner to the effect that he has examined the vehicle",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      65,
+      13,
+      382,
+      20
+    ],
+    "text": ". Motr Traffic (Special Provisions) 3",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      64,
+      32,
+      250,
+      13
+    ],
+    "text": ": Act, No, 69 of 1979",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      65,
+      62,
+      382,
+      16
+    ],
+    "text": "aad stating the result of hfs exdmination, shall be admissible",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      65,
+      84,
+      381,
+      15
+    ],
+    "text": "in evidence and shall be sufficient prima facie evidence",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      43,
+      103,
+      403,
+      17
+    ],
+    "text": "1 of any fact or opinion stated therein relating to the matter",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      63,
+      126,
+      382,
+      14
+    ],
+    "text": "in question, and the court shall not permit the examiner",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      63,
+      146,
+      381,
+      12
+    ],
+    "text": "to be called for erosi-examination on the certificate unlesa",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      63,
+      166,
+      381,
+      15
+    ],
+    "text": "contrary evidence is given which appears to the court to",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      62,
+      186,
+      382,
+      15
+    ],
+    "text": "be credible, or unless for any reason the court considers",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      62,
+      207,
+      380,
+      14
+    ],
+    "text": "such ross-examination to be necessary in the interests",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      60,
+      228,
+      116,
+      14
+    ],
+    "text": "of justice, .",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      75,
+      260,
+      423,
+      16
+    ],
+    "text": "10, Notwithstanding the preceding provisions of this Act, Use of",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      61,
+      274,
+      470,
+      22
+    ],
+    "text": "where the Minister in charge of the subject of Sclentific $2 .um",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      61,
+      296,
+      475,
+      20
+    ],
+    "text": "Affairs is satisfied that any person assigned by him to $22, Kerosene",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      61,
+      305,
+      460,
+      39
+    ],
+    "text": "conduct research inte the use of liquid petroleum gas, kero- pelea",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      60,
+      339,
+      473,
+      21
+    ],
+    "text": "sene or any other petroleuns product in motor vebleles ix permitted in",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      59,
+      361,
+      476,
+      15
+    ],
+    "text": "conducting such research, he may, with the coneurrence of circumstances",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      60,
+      381,
+      381,
+      15
+    ],
+    "text": "the Minister, authorize in writing, subject to such conditions",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      59,
+      397,
+      470,
+      21
+    ],
+    "text": "and restrictions as may be specified therein, such person fo .",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      60,
+      422,
+      381,
+      16
+    ],
+    "text": "use Liquid petroleum gas, kerosene or, any other petroleum",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      45,
+      442,
+      436,
+      14
+    ],
+    "text": "+ product in motor vehicles in furtherance of such research. ~",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73,
+      471,
+      440,
+      31
+    ],
+    "text": "11. In this Act, unless the context otherwise requires eeetion,",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      59,
+      498,
+      381,
+      16
+    ],
+    "text": "examiner, licensing authority, lomy, motor",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      112,
+      519,
+      327,
+      15
+    ],
+    "text": "car, motor vehicle\", Registrar and trailer,",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      112,
+      540,
+      326,
+      15
+    ],
+    "text": "shell have the same meanings, respectively, as in",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      112,
+      560,
+      428,
+      16
+    ],
+    "text": "the Motor Traffic Act; and .",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71,
+      590,
+      366,
+      16
+    ],
+    "text": "petroleum product means petrol, auto-diesel, heavy",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      112,
+      611,
+      368,
+      15
+    ],
+    "text": "Alexel, furnace oil and aviation turbine fuel. .",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      170,
+      16,
+      380,
+      14
+    ],
+    "text": "4 Motor Trafic (Special Provisions) ,",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      300,
+      32,
+      251,
+      18
+    ],
+    "text": "Act, No, 60 of 1979 :",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      170,
+      55,
+      326,
+      30
+    ],
+    "text": "[Section 54 SCHEDULE .",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      254,
+      99,
+      310,
+      15
+    ],
+    "text": "Conmen I Counes",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      271,
+      116,
+      270,
+      20
+    ],
+    "text": "Class or category of vehicle 2,",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      168,
+      129,
+      381,
+      20
+    ],
+    "text": "Motor vehicles operated with kerosene or with a mixture",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      169,
+      149,
+      271,
+      11
+    ],
+    "text": "of kerosene aid any otber petroleum product",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      183,
+      167,
+      320,
+      12
+    ],
+    "text": "(a) where such vehicte is & motor cox, the teze of which",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      217,
+      181,
+      332,
+      11
+    ],
+    "text": "does not exceed 20 cow's, (1,016 kilograms) .. 6000",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      183,
+      200,
+      320,
+      11
+    ],
+    "text": "() where such vehicle 4s a motor car, the tare of which",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      217,
+      213,
+      332,
+      12
+    ],
+    "text": "in 20 owts. or exceeds 20 ewts (1,016 kilograms) 1,200 0",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      183,
+      233,
+      321,
+      11
+    ],
+    "text": ") where such motor vehicle is a lorry (other than",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      217,
+      246,
+      287,
+      12
+    ],
+    "text": "trailer), the tare of which does not exceed 100",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      217,
+      259,
+      333,
+      12
+    ],
+    "text": "ewts, (5,080 kilograms) Hao",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      184,
+      279,
+      319,
+      11
+    ],
+    "text": "(4) where such motor vehiclo is a lorry (other than a",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      217,
+      292,
+      289,
+      11
+    ],
+    "text": "trailer) the tare of which is 100'ewts, or exceeds",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      218,
+      302,
+      332,
+      13
+    ],
+    "text": "100 ewts, (6,000 kilograms) =. oe 2800 0",
+    "mean_p_confidence": 0.44
+  }
+]

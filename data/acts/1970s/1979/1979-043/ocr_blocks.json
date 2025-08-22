@@ -1,0 +1,3819 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      292,
+      9,
+      89,
+      31
+    ],
+    "text": "(> . - a",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      97,
+      38,
+      397,
+      21
+    ],
+    "text": "(EE t",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      264,
+      72,
+      86,
+      24
+    ],
+    "text": "Ga: ok",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      463,
+      95,
+      12,
+      9
+    ],
+    "text": ":",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      277,
+      116,
+      66,
+      14
+    ],
+    "text": "Neen",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      257,
+      128,
+      101,
+      22
+    ],
+    "text": "ip eae a",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      110,
+      170,
+      395,
+      18
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      172,
+      202,
+      272,
+      18
+    ],
+    "text": "SOCIALIST REPUBLIC OF",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      246,
+      234,
+      122,
+      18
+    ],
+    "text": "SRI LANKA",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      98,
+      312,
+      419,
+      24
+    ],
+    "text": "LAND GRANTS (SPECIAL PROVISIONS)",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      200,
+      351,
+      218,
+      20
+    ],
+    "text": "ACT, No. 43 OF 1979",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      211,
+      484,
+      192,
+      14
+    ],
+    "text": "[Certified on 25th June, 1979]",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88,
+      561,
+      428,
+      15
+    ],
+    "text": "- Printed on the Orders of Government * -",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      67,
+      659,
+      483,
+      15
+    ],
+    "text": "Published as s Supplement to Part Il of the Gazette ef the Democratic",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      156,
+      677,
+      303,
+      14
+    ],
+    "text": "Socialist Republic of Sri Lanka of June 29, 1979",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      60,
+      768,
+      507,
+      14
+    ],
+    "text": ": PRINTED Av THE DEPARTMENT UF GOVERNMENT FRONTING, S81 LANKA 7",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62,
+      788,
+      425,
+      24
+    ],
+    "text": ". To BE FURCHASED AT THE GOVE. PUBLICATIONS HUREAT, COLORED",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      81,
+      814,
+      455,
+      12
+    ],
+    "text": "Price: 8 cents Postage 25 cents.",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      131,
+      15,
+      214,
+      15
+    ],
+    "text": "Land Grants (Special Provisions)",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      181,
+      33,
+      115,
+      14
+    ],
+    "text": "Act, No, 43 of 1979",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      142,
+      64,
+      257,
+      15
+    ],
+    "text": "[Certified on 25th June, 1979]",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      50,
+      90,
+      90,
+      13
+    ],
+    "text": "LDO. 29/79",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      50,
+      116,
+      380,
+      14
+    ],
+    "text": "AN Acr 70 PROVE fOR THE vESTONG IN THE STATE, OF",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      132,
+      367,
+      14
+    ],
+    "text": "AGRICUUTURAL OR ESTATE LAND WHICH 15 VESTED IN TEE LAND",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      150,
+      367,
+      13
+    ],
+    "text": "Rewomm Conmatssiow uwpen THs Lawp Revownt LAW; 70",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      168,
+      367,
+      14
+    ],
+    "text": "SADLY THE TRANSFER, FREE OP CHANGE, TO THE LANDLESY, OF",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      185,
+      367,
+      13
+    ],
+    "text": "THE LANDS 80 VESTED IN THE STATE; AND 70 PROVIDE 208",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      202,
+      347,
+      11
+    ],
+    "text": "MATTERS CONNECTED THEWFWINH OR INCIDENTAL, THERETO.",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      48,
+      228,
+      381,
+      16
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic Soctaliat",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      49,
+      247,
+      240,
+      14
+    ],
+    "text": "Republic of Sri Lanka as follows :",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      269,
+      445,
+      17
+    ],
+    "text": "1, This Act may be cited ax the Land Grants (Special Short title,",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      48,
+      288,
+      468,
+      16
+    ],
+    "text": "Provisions) Act, No. 43 of 1979. ; .",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      317,
+      435,
+      13
+    ],
+    "text": "2 (1) the Minister may Power of",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      329,
+      445,
+      22
+    ],
+    "text": "(@) having regard to the need to augment the area of MUNN e",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      49,
+      351,
+      457,
+      21
+    ],
+    "text": ". Tend available to the State, for the purposes of State, land",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96,
+      361,
+      400,
+      30
+    ],
+    "text": "distribution ; tie",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      384,
+      451,
+      25
+    ],
+    "text": "(8) with the concurrence of the Minister im charge of | Esrominian,",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99,
+      411,
+      208,
+      15
+    ],
+    "text": "the subject of land reform ; and",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      436,
+      274,
+      15
+    ],
+    "text": "() by an Order published in the Gazette,",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      48,
+      455,
+      381,
+      16
+    ],
+    "text": "vest in the State, any agricultural or estate-land which is",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      47,
+      471,
+      382,
+      17
+    ],
+    "text": "vested in the Lend Refogm Commission under the Land",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      43,
+      487,
+      436,
+      23
+    ],
+    "text": "Reform Law. .",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      513,
+      335,
+      17
+    ],
+    "text": "@ Every Order made under subsection (1) shall",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63,
+      533,
+      367,
+      18
+    ],
+    "text": "(a) specify the extent of agricultural or estate land vested",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      101,
+      553,
+      182,
+      14
+    ],
+    "text": "in the State by such Order ;",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64,
+      570,
+      365,
+      17
+    ],
+    "text": "() make reference to the survey plan made by the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      42,
+      588,
+      388,
+      17
+    ],
+    "text": ": Surveyor-General or under his direction in respect",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      101,
+      606,
+      231,
+      15
+    ],
+    "text": "of such agricultural or estate land ;",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64,
+      625,
+      370,
+      25
+    ],
+    "text": "() specity any servitude attaching to such agricultural or",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      101,
+      649,
+      74,
+      11
+    ],
+    "text": "estate land.",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64,
+      671,
+      366,
+      17
+    ],
+    "text": "(@) Every Order made under subsection (1) shall be",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      47,
+      687,
+      383,
+      15
+    ],
+    "text": "final and conclusive and shell not be called in question in",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      47,
+      708,
+      67,
+      12
+    ],
+    "text": "any court,",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64,
+      729,
+      366,
+      17
+    ],
+    "text": "@ Where any agricultural or estate land is vested in the",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      47,
+      746,
+      333,
+      16
+    ],
+    "text": "State by an Order made under subsection {1)",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64,
+      770,
+      366,
+      17
+    ],
+    "text": "(a) the State shall, with effect from the date of such",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      102,
+      787,
+      329,
+      17
+    ],
+    "text": "Order, have absolute title to such agricultural or",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      56,
+      804,
+      375,
+      15
+    ],
+    "text": "\"estate Jand fre from all encombrances (other",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      102,
+      821,
+      330,
+      17
+    ],
+    "text": "than any servitude specified in such Order) ; end",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      54,
+      850,
+      132,
+      10
+    ],
+    "text": "28 Ae -14.495 (rofNEY",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      191,
+      14,
+      299,
+      13
+    ],
+    "text": "2 Lond Grants (Special Provisions)",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      324,
+      31,
+      116,
+      13
+    ],
+    "text": "Act, No. 43 of 1979",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      206,
+      62,
+      367,
+      14
+    ],
+    "text": "(b) the State shall pay to the Land Reform Commission",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      243,
+      77,
+      330,
+      16
+    ],
+    "text": "in respect of such agricultural or estate land,",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      242,
+      96,
+      332,
+      13
+    ],
+    "text": "compensation of an amount equal to the compen-",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      243,
+      111,
+      330,
+      15
+    ],
+    "text": "sation payable under the Land Reform Law in",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      243,
+      128,
+      331,
+      14
+    ],
+    "text": "respect of such agricultural or estate land by the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      243,
+      145,
+      328,
+      12
+    ],
+    "text": "Land Reform Commission to the former owner",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      243,
+      162,
+      231,
+      13
+    ],
+    "text": "of such agricultural or estate land.",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      88,
+      181,
+      485,
+      26
+    ],
+    "text": "President 3. The President may, by an instrument of disposition",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      92,
+      203,
+      481,
+      18
+    ],
+    "text": "Yenster free Substantially in the Form set out in the Schedule hereto,",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      92,
+      222,
+      481,
+      20
+    ],
+    "text": "of shargs transfer, free of charge, any portion of any land vested in",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      92,
+      239,
+      480,
+      15
+    ],
+    "text": "in the the State by virtue of an Order made under section 2, to",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      92,
+      255,
+      447,
+      21
+    ],
+    "text": "Site unde any citizen of Sri Lenka over eighteen years of age.",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      202,
+      280,
+      370,
+      15
+    ],
+    "text": "In transferring any State lend under this section, the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      189,
+      296,
+      260,
+      16
+    ],
+    "text": "President shall have regard to .",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      205,
+      321,
+      366,
+      16
+    ],
+    "text": "(@) the fact that the prospective transferee doss not",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      242,
+      339,
+      127,
+      13
+    ],
+    "text": "own any lend;",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      205,
+      362,
+      366,
+      16
+    ],
+    "text": "() the level of income of the family of the prospective",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      241,
+      380,
+      256,
+      13
+    ],
+    "text": "transferee ; and .",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      205,
+      403,
+      367,
+      16
+    ],
+    "text": "() the capacity of the prospective transferee to develop",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      242,
+      421,
+      67,
+      11
+    ],
+    "text": "such land,",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      92,
+      443,
+      481,
+      29
+    ],
+    "text": "Suny ot 4& No State land shall be transferred under section 5",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      88,
+      459,
+      488,
+      35
+    ],
+    "text": "pesca until after such Iand hag been surveyed and demarcated",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      137,
+      483,
+      358,
+      12
+    ],
+    "text": "7 to the satisfaction of the Lend Commissioner.",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      88,
+      508,
+      484,
+      22
+    ],
+    "text": "Transfers & (1) Every transfer of any State land under section 3",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      92,
+      524,
+      480,
+      22
+    ],
+    "text": "Peet to shall be deemed to be subject to the following conditions,",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      88,
+      541,
+      484,
+      22
+    ],
+    "text": "certain whether or uot such conditions are inserted in the instru-",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      88,
+      553,
+      451,
+      27
+    ],
+    "text": "conditions, ment of disposition effecting such transfer : .",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      205,
+      586,
+      366,
+      14
+    ],
+    "text": "(@) no disposition of such land shall be effected except",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      242,
+      602,
+      328,
+      16
+    ],
+    "text": "with the prior consent in writing of the Land",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      242,
+      620,
+      95,
+      14
+    ],
+    "text": "Commissioner |",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      197,
+      640,
+      372,
+      15
+    ],
+    "text": "* @) the transferee shall carry out on such land such soll",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      97,
+      658,
+      473,
+      14
+    ],
+    "text": ". conservation measures as the Government Agent",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      241,
+      674,
+      329,
+      13
+    ],
+    "text": "of the administrative district within which such",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      241,
+      692,
+      328,
+      14
+    ],
+    "text": "land is situated, may from time to time require;",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      204,
+      712,
+      366,
+      14
+    ],
+    "text": "() the transferees title to such land shall he subject",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      241,
+      730,
+      279,
+      14
+    ],
+    "text": "to any servitude attaching to such land;",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      203,
+      750,
+      366,
+      14
+    ],
+    "text": "(@) such transfer shall be deemed not to confer any right",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      240,
+      767,
+      329,
+      15
+    ],
+    "text": "to any mineral in, under, or upon such land and",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      240,
+      783,
+      329,
+      16
+    ],
+    "text": "every such mineral shall be deemed to remain, and",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      240,
+      801,
+      330,
+      15
+    ],
+    "text": "shall remain, the sbsclute property of the",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      199,
+      818,
+      103,
+      16
+    ],
+    "text": "+ y Republic;",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      101,
+      10,
+      331,
+      15
+    ],
+    "text": "~ Land Grants (Special Provistons) 2",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      182,
+      28,
+      115,
+      13
+    ],
+    "text": "Act, No. 43 of 1979",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66,
+      60,
+      364,
+      13
+    ],
+    "text": "(@) the transferee shall be liable for the payment of",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      103,
+      76,
+      327,
+      14
+    ],
+    "text": "any irrigation rates payable under the Irrigation",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      33,
+      93,
+      301,
+      19
+    ],
+    "text": "~ Ordinance in respect of such land;",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66,
+      117,
+      364,
+      13
+    ],
+    "text": "@) the title to such land shall revert to, and vest in,",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      102,
+      134,
+      328,
+      14
+    ],
+    "text": "the State if there is a failure by the transferee to",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      102,
+      151,
+      328,
+      13
+    ],
+    "text": "comply with any condition to which such transfer",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      102,
+      167,
+      359,
+      15
+    ],
+    "text": "iz deemed to be subject by virtue of this sub-",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      102,
+      184,
+      423,
+      13
+    ],
+    "text": "section ; and :",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      65,
+      207,
+      365,
+      15
+    ],
+    "text": "{g) such other conditions as may be prescribed in the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      101,
+      225,
+      329,
+      13
+    ],
+    "text": "interests of the proper utilization and management",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      102,
+      241,
+      84,
+      11
+    ],
+    "text": "of mich fand.",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      65,
+      265,
+      364,
+      14
+    ],
+    "text": "(2) Upon proof that there has been a failure ta comply",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      49,
+      281,
+      380,
+      15
+    ],
+    "text": "with or to observe any condition to which any transfer",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      49,
+      297,
+      380,
+      16
+    ],
+    "text": "of State land under section 3 is deemed 10 be subject, the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      48,
+      314,
+      381,
+      15
+    ],
+    "text": "State shall be entitled, upon application to a court af",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      48,
+      332,
+      381,
+      14
+    ],
+    "text": "competent jurisdiction, to a decree cancelling the instru-",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      48,
+      348,
+      473,
+      15
+    ],
+    "text": "ment of disposition effecting such transfer and declaring :",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      44,
+      360,
+      477,
+      26
+    ],
+    "text": "such land to be vested in the State, free trom ell",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      48,
+      381,
+      92,
+      12
+    ],
+    "text": "eneumbrances,",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      34,
+      405,
+      465,
+      15
+    ],
+    "text": ". _& (1) Every instrument of disposition whereby a trans- Execution",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      46,
+      421,
+      449,
+      20
+    ],
+    "text": "fer of State land is effected under section 3 shail be signed S02",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      30,
+      438,
+      480,
+      25
+    ],
+    "text": "_ and executed by the President. sation of",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      33,
+      463,
+      422,
+      15
+    ],
+    "text": ". . @) The President may, if he thinks St, instead of signing of",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      46,
+      475,
+      456,
+      23
+    ],
+    "text": "the original of any such instrument of disposition, cause Gupasiion",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      46,
+      496,
+      447,
+      22
+    ],
+    "text": "8 facsimile of his signature to be stamped thereon; and fespeters",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      45,
+      511,
+      461,
+      18
+    ],
+    "text": "any original so stamped shall be deemed to be signed by fing under",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      41,
+      521,
+      454,
+      30
+    ],
+    "text": "the President, section %",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      62,
+      555,
+      364,
+      15
+    ],
+    "text": "G) The facsimile of the signature of the President shall",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      44,
+      572,
+      382,
+      15
+    ],
+    "text": "be stamped on the original of the instrument of disposition",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      45,
+      588,
+      381,
+      16
+    ],
+    "text": "hy, or in the presence of, the Secretary to the President",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      44,
+      606,
+      379,
+      15
+    ],
+    "text": "or some other person authorized in that behalf by",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      44,
+      623,
+      382,
+      14
+    ],
+    "text": "President; and the Seoretary or such other person shall",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      45,
+      640,
+      377,
+      14
+    ],
+    "text": "certify on such original that the Prestdient's signature",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      43,
+      657,
+      383,
+      14
+    ],
+    "text": "was stamped thereon by him or in his presence, as the",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      43,
+      675,
+      89,
+      13
+    ],
+    "text": "ease may be.",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      57,
+      698,
+      439,
+      16
+    ],
+    "text": "7. (1) A copy of every instrument of disposition signed _Anthenti-",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      42,
+      713,
+      449,
+      20
+    ],
+    "text": "or deemed to be signed in accordance with section shall cation of",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      41,
+      724,
+      466,
+      22
+    ],
+    "text": "be authenticated by the signature of the Government feinaoents",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      41,
+      746,
+      460,
+      22
+    ],
+    "text": "Agent of the administrative distriet within which the land tion",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      42,
+      765,
+      447,
+      16
+    ],
+    "text": "transferred by such instrument is situated and shall be sfferting",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      42,
+      779,
+      474,
+      23
+    ],
+    "text": "Geposited for purposes af record at the office of the antlers of",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      41,
+      799,
+      433,
+      16
+    ],
+    "text": "Registrar of Lands of the distriet within which such land under",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      41,
+      813,
+      453,
+      17
+    ],
+    "text": "is situated, section",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      187,
+      12,
+      298,
+      14
+    ],
+    "text": "+ Land Gronts (Special Provisions)",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      320,
+      29,
+      116,
+      13
+    ],
+    "text": "Act, No, 43 of 1979",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      60,
+      59,
+      505,
+      16
+    ],
+    "text": ". . (2) Any such copy as is referred to in subsection (1)",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      187,
+      80,
+      381,
+      15
+    ],
+    "text": "shall, if authenticated in the manner specified in that",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      186,
+      100,
+      391,
+      19
+    ],
+    "text": "subsection, be primary evidence, within the meaning of |",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      187,
+      121,
+      382,
+      15
+    ],
+    "text": "section 62 of the Evidence Ordinance, of the instrument of",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      187,
+      143,
+      201,
+      14
+    ],
+    "text": "which it purports to be @ copy.",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      85,
+      167,
+      485,
+      31
+    ],
+    "text": "Reeistration & Every instrument of disposition whereby a transfer",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      89,
+      195,
+      480,
+      21
+    ],
+    "text": "instruments of State Jand is effected under section 3 shall, when effected,",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86,
+      213,
+      484,
+      21
+    ],
+    "text": "disposition. be registered at the instance of the Government Agent of",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      187,
+      237,
+      382,
+      11
+    ],
+    "text": "the administrative district within which such land is",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      186,
+      257,
+      383,
+      14
+    ],
+    "text": "siuated. No fee shall be patd or recovered for such",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      182,
+      274,
+      268,
+      23
+    ],
+    "text": "Tegistration. .",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93,
+      310,
+      476,
+      15
+    ],
+    "text": "Nomination - (1) A person to whom any State land is transferred",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      91,
+      326,
+      478,
+      20
+    ],
+    "text": "of quccesscr under section 3 or any person on whom the rights of the",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      91,
+      347,
+      478,
+      20
+    ],
+    "text": "ied Zane. irst-mentioned person in such land have devolved (in this",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      91,
+      369,
+      478,
+      18
+    ],
+    "text": "section 3. subsection referred to as the grantee) may nominate @",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      187,
+      392,
+      383,
+      15
+    ],
+    "text": "successor who shall be entitled to succeed to the rights of",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      162,
+      413,
+      407,
+      14
+    ],
+    "text": "+ the grantee in such tend upon the death of the grantes. A",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      187,
+      433,
+      383,
+      14
+    ],
+    "text": "nominetion made in pursuance of this subsection shalt be",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      188,
+      453,
+      382,
+      15
+    ],
+    "text": "deemed not to be a disposition within the meaning of",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      188,
+      474,
+      108,
+      13
+    ],
+    "text": "section $(1) (a).",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      204,
+      510,
+      367,
+      16
+    ],
+    "text": "(2) Any nomination of a successor made in pursuance of",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      189,
+      531,
+      381,
+      16
+    ],
+    "text": "subsection (1) may at any time be cancelled by the person",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      189,
+      551,
+      382,
+      14
+    ],
+    "text": "who made such nomination end a fresh nomination of &",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      189,
+      572,
+      249,
+      15
+    ],
+    "text": "successor may be made by such person,",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      205,
+      609,
+      365,
+      13
+    ],
+    "text": "@) The nomination of a suecessor and the cancellation",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      190,
+      629,
+      380,
+      17
+    ],
+    "text": "of any such nomination shall be effected by a person to",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      190,
+      649,
+      380,
+      15
+    ],
+    "text": "whom State land has been transferred under section 3 of",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      186,
+      667,
+      387,
+      25
+    ],
+    "text": "any person on whom the rights of the first-mentioned person",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      190,
+      691,
+      186,
+      12
+    ],
+    "text": "in such land have devolved",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      206,
+      729,
+      365,
+      16
+    ],
+    "text": "(a) m x document substantially in the prescribed form",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      242,
+      750,
+      329,
+      15
+    ],
+    "text": "executed and witnessed in dupHoate before a Gov-",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      243,
+      771,
+      329,
+      16
+    ],
+    "text": "emment Agent, a Registrar of Lands, a Notary of",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      100,
+      789,
+      444,
+      16
+    ],
+    "text": ". * a Justice of the Peace; or ve",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      206,
+      823,
+      127,
+      14
+    ],
+    "text": "(Q) by his last will.",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      140,
+      17,
+      300,
+      17
+    ],
+    "text": "Land Grants (Special Provisions) 8",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      191,
+      37,
+      114,
+      14
+    ],
+    "text": "Act, No. 48 of 1979",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      74,
+      68,
+      365,
+      15
+    ],
+    "text": "{4) The provisions of subsections (4), (5), (6), (7} and",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      62,
+      88,
+      377,
+      15
+    ],
+    "text": "() af section 6 of the Agricultural Lands Law, No, 42 of",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      30,
+      109,
+      409,
+      15
+    ],
+    "text": "1973, shall, mutatis mutandis, apply to, and in relation to,",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      59,
+      129,
+      380,
+      15
+    ],
+    "text": "nomination effected in accordance with paragraph (a) of",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      59,
+      150,
+      272,
+      14
+    ],
+    "text": "subsection (3). :",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      74,
+      191,
+      364,
+      14
+    ],
+    "text": "(5) Regulations may be made prescribing the procedure",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      59,
+      211,
+      379,
+      14
+    ],
+    "text": "for the registration of a document referred to in paragraph",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      62,
+      231,
+      134,
+      14
+    ],
+    "text": "(6) af subsection (8).",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71,
+      272,
+      446,
+      23
+    ],
+    "text": "410. Where u person to whom State land bas been trans Devotion",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      59,
+      291,
+      444,
+      16
+    ],
+    "text": "ferred under section 3 or any person on whom the tights of fn State",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      59,
+      305,
+      459,
+      22
+    ],
+    "text": "the first-mentioned person in such land have devolved (an frei",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      59,
+      327,
+      449,
+      21
+    ],
+    "text": "this section referred to as the grantee) dies and the gran- 224)",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      59,
+      348,
+      458,
+      20
+    ],
+    "text": "fee has not nominated a successor under section 8, or where vets at",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      58,
+      369,
+      461,
+      20
+    ],
+    "text": "the successor nominated by the grantee under that section Ramen soe",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      58,
+      390,
+      449,
+      19
+    ],
+    "text": "in dead, the rights of the grantee in such land shall devolve *etan",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      58,
+      414,
+      380,
+      15
+    ],
+    "text": "on bis surviving spouse and, failing such spouse, on ote only",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      58,
+      435,
+      349,
+      15
+    ],
+    "text": "of the relatives of the grantee in the following arder",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      113,
+      482,
+      401,
+      16
+    ],
+    "text": "Q) sons, : .",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      114,
+      507,
+      90,
+      14
+    ],
+    "text": "(2) daughters,",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      113,
+      529,
+      326,
+      16
+    ],
+    "text": ") grandsons, :",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      114,
+      552,
+      325,
+      14
+    ],
+    "text": "(#) grand-daughter, . v8",
+    "mean_p_confidence": 0.09
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      113,
+      574,
+      327,
+      14
+    ],
+    "text": "(6) father, . t",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      114,
+      597,
+      73,
+      13
+    ],
+    "text": "(6) mother,",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      114,
+      620,
+      81,
+      14
+    ],
+    "text": "(2 brothers,",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      114,
+      643,
+      300,
+      15
+    ],
+    "text": "(8) sisters, .",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      60,
+      666,
+      380,
+      19
+    ],
+    "text": ". - & uneles, topes wee ee ped",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      107,
+      689,
+      333,
+      16
+    ],
+    "text": "(40) aunts, : . Lo",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      107,
+      712,
+      217,
+      15
+    ],
+    "text": "(Ql) nephews, :",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      107,
+      731,
+      334,
+      17
+    ],
+    "text": "(12) neices, oe",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      58,
+      761,
+      381,
+      17
+    ],
+    "text": "the oldest being preferred to the others where there are",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      58,
+      784,
+      381,
+      16
+    ],
+    "text": "more relatives than two in any group, and the older being",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      58,
+      805,
+      381,
+      16
+    ],
+    "text": "preferred to the other where there are only two relatives",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      57,
+      829,
+      84,
+      13
+    ],
+    "text": "ta any group.",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      167,
+      16,
+      299,
+      13
+    ],
+    "text": "8 Land Grants (Special Provisions)",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      300,
+      32,
+      253,
+      15
+    ],
+    "text": "Act, No.43.0f 1979 :",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      181,
+      64,
+      369,
+      14
+    ],
+    "text": "In this section, relative means a relative by blood and",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      168,
+      89,
+      100,
+      14
+    ],
+    "text": "not by marriage.",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      67,
+      121,
+      484,
+      34
+    ],
+    "text": "Gonditions iL, The burden of any condition to which any transter of",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      67,
+      148,
+      484,
+      28
+    ],
+    "text": "a transter State land under section 8 is deemed to be subject, shall",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      71,
+      171,
+      484,
+      44
+    ],
+    "text": "oe yun with the land and shall be binding upon the transterae",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      71,
+      203,
+      481,
+      24
+    ],
+    "text": "SFmiyih and upon all persons claiming that land through, trom, or",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      165,
+      218,
+      375,
+      31
+    ],
+    "text": "under, such transferee, .",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      68,
+      264,
+      484,
+      35
+    ],
+    "text": "Disposition 32, Where any person to whom any State land is trans-",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72,
+      297,
+      481,
+      20
+    ],
+    "text": "anstered ferred under section 3 effects a disposition of that land",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72,
+      319,
+      481,
+      23
+    ],
+    "text": "Sfihootme without the prior consent in writing of the Land Commis-",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72,
+      337,
+      481,
+      38
+    ],
+    "text": "ioe stoner given in accordance with the provisions of section",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      68,
+      366,
+      485,
+      31
+    ],
+    "text": "ian 5 (1) (a) such disposition shall be void and inoperative",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      73,
+      395,
+      200,
+      32
+    ],
+    "text": "et sae",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      73,
+      449,
+      480,
+      21
+    ],
+    "text": "Rectiieaign 13. Where st appears to the Government Agent of the",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      70,
+      468,
+      484,
+      28
+    ],
+    "text": "fa tra administrative district within which ary State land",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      75,
+      494,
+      479,
+      19
+    ],
+    "text": "Gapositicn. transferred under section 3 is situated that any instrument",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      172,
+      523,
+      381,
+      15
+    ],
+    "text": "of disposition effecting such transfer contains any clerical",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      172,
+      548,
+      381,
+      15
+    ],
+    "text": "or other error or requires amendment in respect of the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      172,
+      573,
+      382,
+      15
+    ],
+    "text": "description of the Jand comprised therein or in respect of",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      172,
+      598,
+      381,
+      15
+    ],
+    "text": "the inscription or recital of the name or designation of the",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      172,
+      623,
+      382,
+      15
+    ],
+    "text": "transferee or of any other material fact, such error may be",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      173,
+      648,
+      381,
+      15
+    ],
+    "text": "rectified or such amendment may be made by an endorse-",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      69,
+      672,
+      485,
+      18
+    ],
+    "text": ". ment on such instrument of disposition signed by such",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      173,
+      698,
+      381,
+      15
+    ],
+    "text": "Government Agent and the transferee ; and. any endoise-",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      133,
+      723,
+      420,
+      15
+    ],
+    "text": ". ment so signed shall be sufficient for all purposes to rectify",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      173,
+      749,
+      381,
+      14
+    ],
+    "text": "the error or to effect the amendment ; and the instrument on",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      173,
+      774,
+      380,
+      13
+    ],
+    "text": "which sny such endorsement is made shall have effect a8",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      173,
+      794,
+      381,
+      19
+    ],
+    "text": "though it had been originally issued or executed as 50",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      173,
+      824,
+      135,
+      11
+    ],
+    "text": "rectified or amended.",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      137,
+      11,
+      304,
+      15
+    ],
+    "text": "Land Grants (Special Provisions) 7",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      188,
+      19,
+      213,
+      26
+    ],
+    "text": "Act, No. 43 of 1979 :",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      73,
+      54,
+      431,
+      29
+    ],
+    "text": "14, Any alluvial or other accretion to any State land Alluvial",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      60,
+      78,
+      454,
+      15
+    ],
+    "text": "transferred under section 3 shall, together with all rights accretions",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      60,
+      92,
+      435,
+      21
+    ],
+    "text": "appertaining or belonging to such aceretion, be the property find",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      60,
+      113,
+      465,
+      20
+    ],
+    "text": "of the Republic and is hereby declored to be vested in the Humsferred",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      60,
+      132,
+      449,
+      25
+    ],
+    "text": "Republic, section 3.",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      73,
+      173,
+      436,
+      29
+    ],
+    "text": "13, The Government Agent of the administrative district pores",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      60,
+      195,
+      451,
+      14
+    ],
+    "text": "within which any State land transferred under section 3 4s any State",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      61,
+      209,
+      430,
+      20
+    ],
+    "text": "situated, or any officer authorized in writing by such ffrns.",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      61,
+      230,
+      431,
+      20
+    ],
+    "text": "Government Agent, may at any time enter and inspect such ftr0",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      60,
+      252,
+      449,
+      19
+    ],
+    "text": "land, for the purposes of ascertaining whether any condition Section 5.",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      60,
+      276,
+      381,
+      14
+    ],
+    "text": "to which such trenster is deemed to be subject is being com-",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      60,
+      296,
+      69,
+      13
+    ],
+    "text": "Plied with,",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      74,
+      332,
+      438,
+      21
+    ],
+    "text": "46 (1) The Land Commissioner shall be responsible for Adminis,",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      61,
+      353,
+      443,
+      14
+    ],
+    "text": "and charged with the administration of this Act. ibis Ant",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      77,
+      381,
+      372,
+      17
+    ],
+    "text": "(2) In the exercise of his powers and in the performance",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      61,
+      401,
+      381,
+      14
+    ],
+    "text": "ot his duties under this Act, the Land Commissioner shall",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      62,
+      421,
+      380,
+      15
+    ],
+    "text": "bbe subject to the general direction -and control of the",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      57,
+      432,
+      188,
+      31
+    ],
+    "text": "Minister. .",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      75,
+      472,
+      442,
+      29
+    ],
+    "text": "17. (1) Any public officer entrusted with any duties in Beterence",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      61,
+      494,
+      447,
+      28
+    ],
+    "text": "respect of, or connected with, the implementation of this Gomme",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      57,
+      514,
+      446,
+      30
+    ],
+    "text": "Act shall, on his own or at the instance of the Land Commis- sar",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      62,
+      539,
+      380,
+      14
+    ],
+    "text": "sioner, refer to such Land Commissioner for.decision, sny",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      61,
+      559,
+      381,
+      15
+    ],
+    "text": "question of doubt or difficulty in connection with the per-",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      61,
+      580,
+      158,
+      11
+    ],
+    "text": "formance of such duties.",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      78,
+      607,
+      365,
+      15
+    ],
+    "text": "(2) Any directton or decision of the Land Commissioner",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      63,
+      626,
+      380,
+      17
+    ],
+    "text": "shall be duly complied with, or given effect, to by every such",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      62,
+      640,
+      469,
+      31
+    ],
+    "text": "Public offer, . .",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      76,
+      689,
+      428,
+      20
+    ],
+    "text": "38. (1) \"The Minister may make regulations in respect Regula",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      63,
+      709,
+      381,
+      15
+    ],
+    "text": "all or any of the matters which are required by this Aet to",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      59,
+      723,
+      340,
+      29
+    ],
+    "text": "be prescribed. .",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      78,
+      758,
+      366,
+      16
+    ],
+    "text": "(2) Every regulation made'by the Minister shall be",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      63,
+      778,
+      382,
+      15
+    ],
+    "text": "published in the Gazette and shall come into operation on",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      63,
+      799,
+      381,
+      16
+    ],
+    "text": "the date of such publication or on such later date as may be",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      59,
+      812,
+      258,
+      30
+    ],
+    "text": "specified therem. Doe",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      180,
+      11,
+      298,
+      13
+    ],
+    "text": "8 Land Grants (Special Provisions)",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      314,
+      26,
+      249,
+      15
+    ],
+    "text": "Act, No. 43 of 1979 .",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      195,
+      59,
+      367,
+      14
+    ],
+    "text": "(3) Every regulation made by the Minister shall, as soon",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      179,
+      79,
+      383,
+      14
+    ],
+    "text": "8 convenient after its publication in the Gazette, be",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      179,
+      99,
+      383,
+      15
+    ],
+    "text": "drought before Parliament for approval. Every regulation",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      179,
+      120,
+      383,
+      14
+    ],
+    "text": "which is not so approved shall be deemed to he rescinded a",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      178,
+      140,
+      384,
+      14
+    ],
+    "text": "trom the date of disapproval, but without prejudice to the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      178,
+      160,
+      384,
+      14
+    ],
+    "text": "validity of anything previously done thereunder. Notification",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      178,
+      181,
+      384,
+      14
+    ],
+    "text": "of the date on which any regulation, is deemed to be s0",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      178,
+      201,
+      278,
+      13
+    ],
+    "text": "rescinded shall be published in the Gazette.",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      76,
+      233,
+      486,
+      29
+    ],
+    "text": "Prove 28. The provisions of this Act shal] have effect notwith-",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      80,
+      257,
+      482,
+      23
+    ],
+    "text": "4 standing anything contained in any other written law and",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      80,
+      271,
+      481,
+      24
+    ],
+    "text": "peo _ __accordingly, in the event of any conflict or any inconsistency",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      76,
+      290,
+      485,
+      27
+    ],
+    "text": "plber lew, between the provisions of this Act and such other written",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      177,
+      318,
+      283,
+      15
+    ],
+    "text": "law, the provisions of this Act shall prevail.",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      76,
+      346,
+      484,
+      22
+    ],
+    "text": "Interpre~ 20, In this Act, unless the context otherwise requires",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      190,
+      381,
+      369,
+      15
+    ],
+    "text": "agricultural land has the same meaning as in the Land",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      229,
+      403,
+      88,
+      13
+    ],
+    "text": "Reform Law ;",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      189,
+      435,
+      370,
+      14
+    ],
+    "text": "disposition with its grammatical variations and cognate",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      229,
+      455,
+      330,
+      14
+    ],
+    "text": "expressions, means any transection of whatever",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      228,
+      474,
+      331,
+      15
+    ],
+    "text": "nature affecting Iand or the title thereto, and",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      228,
+      495,
+      331,
+      15
+    ],
+    "text": "neludes any conveyance, transfer, surrender, ex-",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      229,
+      515,
+      330,
+      16
+    ],
+    "text": "change, lease or mortgage of land or the creation of",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      229,
+      537,
+      166,
+      14
+    ],
+    "text": "a teust attaching to land ;",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      190,
+      563,
+      368,
+      16
+    ],
+    "text": "estate land\" has the same meaning as in the Land Re-",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      229,
+      582,
+      68,
+      13
+    ],
+    "text": "form Law;",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      190,
+      609,
+      367,
+      17
+    ],
+    "text": "Land Commissioner means the Land Commissioner",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      228,
+      626,
+      329,
+      14
+    ],
+    "text": "appointed under the Land Development Ordinance ;",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      189,
+      658,
+      369,
+      12
+    ],
+    "text": "Land Reform Commission means the Land Reform",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      228,
+      674,
+      329,
+      15
+    ],
+    "text": "Commission established by the Land Reform Law ;",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      189,
+      705,
+      367,
+      14
+    ],
+    "text": "Lend Reform Law means the Land Reform Law, No. 1",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      227,
+      724,
+      284,
+      14
+    ],
+    "text": "of 1972, as amended by Law No, 39 of 1975;",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      188,
+      754,
+      369,
+      16
+    ],
+    "text": "rineral bas the same meaning os in the Mina and",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      227,
+      773,
+      183,
+      14
+    ],
+    "text": "Minerals Law, No. 4 of 1978 ;",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      188,
+      802,
+      368,
+      17
+    ],
+    "text": "* preserihed means preseribed by regulation made under",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      227,
+      823,
+      65,
+      11
+    ],
+    "text": "section 18.",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      88,
+      21,
+      357,
+      18
+    ],
+    "text": ". -Land Grants (Special Provisions) 9",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      119,
+      39,
+      190,
+      16
+    ],
+    "text": ". Act, No. 43 of 1979",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      91,
+      54,
+      351,
+      16
+    ],
+    "text": "2b . . Beetion 3]",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      96,
+      85,
+      189,
+      10
+    ],
+    "text": ": SCHEDULE",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      58,
+      117,
+      384,
+      12
+    ],
+    "text": "nstrument of disposition efecting transfer of land under section",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      100,
+      131,
+      301,
+      12
+    ],
+    "text": "of the Land Granta (Special Provisions) Act, 1979",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      71,
+      155,
+      372,
+      12
+    ],
+    "text": "LU cesssestsssseeessseesesneererstserseneces oy President of",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      59,
+      169,
+      383,
+      12
+    ],
+    "text": "the Democratic Soctalist Republic of Sri Lanka, do hereby transfer",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      59,
+      183,
+      383,
+      12
+    ],
+    "text": "MNtO s-eeseseeercvsee-+ (hereinafter called the tranateres), free",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      59,
+      196,
+      383,
+      12
+    ],
+    "text": "of any payment, the State land described in the Firat Schedule",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      59,
+      210,
+      383,
+      12
+    ],
+    "text": "hereto, subject to the conditions set out in the Second Schedule",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      59,
+      223,
+      380,
+      12
+    ],
+    "text": "hereto and the provisions of the Land Grants (Special Provisions)",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      59,
+      237,
+      54,
+      11
+    ],
+    "text": "Act, 1979,",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      70,
+      261,
+      371,
+      12
+    ],
+    "text": "2. The title to the land transferred by this instrument shalt",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      58,
+      275,
+      383,
+      12
+    ],
+    "text": "Tevert to, and vest in, the State if the trneaterse tails to comply",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      58,
+      288,
+      384,
+      12
+    ],
+    "text": "with any condition set out in the Second Schedule herato or any",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      58,
+      302,
+      360,
+      12
+    ],
+    "text": "Provisions of the Land Grantx (Special Provisiona) Act, 1979.",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      67,
+      323,
+      338,
+      28
+    ],
+    "text": "Given under my hand this day of ste.",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      70,
+      359,
+      370,
+      13
+    ],
+    "text": "I certify under section 6 (3) af the Land Grants (Special",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      59,
+      373,
+      384,
+      12
+    ],
+    "text": "Provisions) Act, 1978 that the above facsimile of tha President's.",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      59,
+      385,
+      317,
+      12
+    ],
+    "text": "sMguature wos stamped hereon by me/in my presence.",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      274,
+      413,
+      155,
+      13
+    ],
+    "text": "Secretary to the President,",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      193,
+      481,
+      124,
+      10
+    ],
+    "text": "FIRST SCHEDULE ~",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      185,
+      621,
+      126,
+      10
+    ],
+    "text": "SECOND SCHEDULE",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      66,
+      835,
+      92,
+      11
+    ],
+    "text": "$8 e080 crojom,",
+    "mean_p_confidence": 0.13
+  }
+]
