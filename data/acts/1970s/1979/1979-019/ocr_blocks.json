@@ -1,0 +1,420 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      98,
+      187,
+      396,
+      20
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      160,
+      220,
+      396,
+      26
+    ],
+    "text": "SOCIALIST REPUBLIC OF :",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      239,
+      259,
+      263,
+      31
+    ],
+    "text": "SRI LANKA : .",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      109,
+      354,
+      378,
+      24
+    ],
+    "text": "BANK DEBITS TAX (REPEAL) ACT,",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      193,
+      391,
+      281,
+      21
+    ],
+    "text": "- No, 19 OF 1979 .",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      199,
+      462,
+      344,
+      30
+    ],
+    "text": "[Cortified on 20th March, 1979] . .",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      60,
+      553,
+      446,
+      24
+    ],
+    "text": "- Printed on the Orders of Government .",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      289,
+      653,
+      159,
+      8
+    ],
+    "text": "1 .",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59,
+      673,
+      485,
+      21
+    ],
+    "text": "Published as a Supplement to Part.IK of the Gazette of the Democratic",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      137,
+      696,
+      329,
+      22
+    ],
+    "text": "Socialist Republic of Sri Lanka of March 30, 1979",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      51,
+      768,
+      73,
+      23
+    ],
+    "text": ". : .",
+    "mean_p_confidence": 0.04
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      121,
+      799,
+      366,
+      10
+    ],
+    "text": "PROPTED AT THE DEFAREMENY OF GOVERNMINT PRLNZING, ORE LANEA",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      124,
+      824,
+      425,
+      11
+    ],
+    "text": "TO BE FORCHASED AT HE GOvn FUBLEATIONS BUARAV, COLOMBO",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      65,
+      846,
+      455,
+      13
+    ],
+    "text": "+ Price: 20 cents Postage: 25 cents",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      106,
+      16,
+      306,
+      22
+    ],
+    "text": "Bonk Debits Tax (Repeal) Act, No. 19 of 1979",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      155,
+      57,
+      225,
+      15
+    ],
+    "text": "[Certified on 20th Mareh, 1979] _",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      84,
+      339,
+      19
+    ],
+    "text": "LD0 95/78. .",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      48,
+      114,
+      405,
+      18
+    ],
+    "text": "an Acr vo repeat THE Bank Dusrrs Tax Act, No. 27 oF 1970,",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      140,
+      372,
+      10
+    ],
+    "text": "AND TO PROVIDE FOR MATTERS CONNECTED IGREWITH Oi",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      162,
+      126,
+      8
+    ],
+    "text": "INCIDENTAL THERETO.",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      191,
+      385,
+      14
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic Soctalist",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      210,
+      261,
+      15
+    ],
+    "text": "Republic of Sri Lanka as follows:",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      239,
+      462,
+      22
+    ],
+    "text": "1. This Act may be cited as the Bank Debits Tax short tue",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      259,
+      456,
+      15
+    ],
+    "text": "(Repeal) Act, No, 19 of 1979, and shall be deemed, for all operation.",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      277,
+      385,
+      18
+    ],
+    "text": "Purposes, to have come into operation on January 1, 1978.",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      305,
+      468,
+      29
+    ],
+    "text": "2. The Bank Debits Tax Act, No, 27 of 1970, as amended Reg! ot Ant",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      331,
+      482,
+      17
+    ],
+    "text": "by Law No. 32 of 1975, is hereby repealed. . .",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      370,
+      430,
+      15
+    ],
+    "text": "3. Notwithstanding the repeal of the Bank Debits Tax Seving",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      391,
+      386,
+      14
+    ],
+    "text": "Act, No, 27 of 1970, any tax payable under that Act, in",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      411,
+      387,
+      17
+    ],
+    "text": "respect of any period prior to January 1, 1979, may be",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      431,
+      386,
+      14
+    ],
+    "text": "collected and recovered as if there had been no such repeal,",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      855,
+      123,
+      11
+    ],
+    "text": "6 3007819,200(79]08)",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      81,
+      781,
+      471,
+      8
+    ],
+    "text": "oe",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      82,
+      789,
+      470,
+      14
+    ],
+    "text": "Annual mubscription of Bilis and Isws of the Perliement Re 30 (Locel),",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      81,
+      803,
+      471,
+      15
+    ],
+    "text": "Re 40 (Foreign), payable to the Surerintenpent, Govenysemiz PumLicaTiOns",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      82,
+      816,
+      470,
+      15
+    ],
+    "text": "Buagav, P.O. Box. 500, Covontso 1, before 15th December each year in respect",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83,
+      829,
+      469,
+      16
+    ],
+    "text": "of the year following. Late subscriptions will be accepted on the canditiona that",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      106,
+      842,
+      419,
+      17
+    ],
+    "text": "BMs and Laws issued hefore the date of payment will not be supplied.",
+    "mean_p_confidence": 0.78
+  }
+]
