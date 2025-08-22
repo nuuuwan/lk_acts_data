@@ -1,0 +1,497 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      267,
+      62,
+      90,
+      61
+    ],
+    "text": "(2)",
+    "mean_p_confidence": 0.08
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      272,
+      122,
+      78,
+      40
+    ],
+    "text": "oO",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      113,
+      194,
+      390,
+      19
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      177,
+      227,
+      269,
+      18
+    ],
+    "text": "SOCIALIST REPUBLIC OF",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      247,
+      260,
+      119,
+      17
+    ],
+    "text": "SRI LANKA",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161,
+      377,
+      300,
+      18
+    ],
+    "text": "MUNICIPAL COUNCILS AND",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      129,
+      408,
+      363,
+      23
+    ],
+    "text": "URBAN COUNCILS (AMENDMENT)",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      149,
+      444,
+      266,
+      20
+    ],
+    "text": ".. . AGT, No. 5 OF 1983",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66,
+      535,
+      347,
+      36
+    ],
+    "text": ". [Certified on 27th January, 1983)",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      67,
+      581,
+      435,
+      25
+    ],
+    "text": ": Printed on the orders of Government",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70,
+      697,
+      479,
+      14
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the Democratic",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      147,
+      711,
+      326,
+      14
+    ],
+    "text": "Socialist Republic of Sri Lanka of January 27, 1983",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      124,
+      787,
+      370,
+      12
+    ],
+    "text": "ron oh SN NY MON",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72,
+      805,
+      471,
+      18
+    ],
+    "text": ". \"ZO BE PURCHASED A THE GOVT. PUBLATATIONE RUREAU, COLOMBO, ~~",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86,
+      833,
+      452,
+      12
+    ],
+    "text": "Price : 29 cents Postage: 50 cents",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      30,
+      378,
+      15
+    ],
+    "text": "Municipal Councils and Urban Councils (Amendment)",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      210,
+      48,
+      112,
+      13
+    ],
+    "text": "Act, No, of 1983",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      162,
+      80,
+      209,
+      14
+    ],
+    "text": "(Certified on 27th January, 1983]",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      104,
+      210,
+      13
+    ],
+    "text": "L D.O. 21/81. .",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      129,
+      381,
+      11
+    ],
+    "text": "Aw ACT To AMEND THE Municipal COUNCILS QADINANCE AND",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      146,
+      179,
+      11
+    ],
+    "text": "Unaan Councris OnpNANce.",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      170,
+      380,
+      14
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic Socialist",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      187,
+      234,
+      14
+    ],
+    "text": "Republic of Sri Lenka 9s follows :",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      215,
+      445,
+      14
+    ],
+    "text": "1, This Act may be cited as the Municipal Councils and short title.",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      232,
+      346,
+      14
+    ],
+    "text": "the Urban Councils (Amendment) Act, No, 5 of 1983.",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      261,
+      455,
+      13
+    ],
+    "text": "2 Section 272 of the Municipal Councils Ordinance is Amendment",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      276,
+      472,
+      20
+    ],
+    "text": "hereby amended, by the substitution for sub-paragraph (d) of zention 272",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      289,
+      441,
+      20
+    ],
+    "text": "of paragraph (6) thereof, of the following sub- 362",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      312,
+      87,
+      13
+    ],
+    "text": "paragraph :",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      336,
+      368,
+      13
+    ],
+    "text": "(@) the erection of hoardings and other temporary struc-",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      130,
+      353,
+      328,
+      13
+    ],
+    "text": "tures, or any decoration of any type, on or abutting",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      129,
+      370,
+      329,
+      13
+    ],
+    "text": "any street, and the charging of fees for any permits",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      129,
+      386,
+      180,
+      14
+    ],
+    "text": "issued in that connection ;.",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      415,
+      453,
+      14
+    ],
+    "text": "8, Section 157 of the Urban Councils Ordinance is hereby Amendment",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      426,
+      472,
+      29
+    ],
+    "text": "amended by the substitution, for sub-paragraph (f) of of: ection 16",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      444,
+      441,
+      19
+    ],
+    "text": "Peragraph (7) thereof, of the following sub-parageaph:- 355.\"",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      474,
+      368,
+      13
+    ],
+    "text": "(f) the erection of hoardings and other temporary struc",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      129,
+      490,
+      329,
+      14
+    ],
+    "text": "tures, or any decoration of any type, on or abutting",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      128,
+      507,
+      329,
+      14
+    ],
+    "text": "any street, and the charging of fees for any permits",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      128,
+      524,
+      181,
+      13
+    ],
+    "text": "issued in that connection ;\",",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      852,
+      114,
+      10
+    ],
+    "text": "A ean1s35,100 027)",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      76,
+      772,
+      485,
+      15
+    ],
+    "text": "Annual subscription of Bille and Laws of the Purllament Rs, 150 (Locol),",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      76,
+      787,
+      485,
+      14
+    ],
+    "text": "Re 200 (Foreign), payable to the Surcencmmnvent, Govennstenr PUrLICAXIONS",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      78,
+      801,
+      483,
+      14
+    ],
+    "text": "Benzav, P. 0, Box 800, Corowa 1, before 15th December each year in respect",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      257,
+      816,
+      303,
+      14
+    ],
+    "text": "of the year following. a, }",
+    "mean_p_confidence": 0.49
+  }
+]

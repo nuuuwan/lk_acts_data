@@ -1,0 +1,970 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      118,
+      175,
+      378,
+      28
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      169,
+      219,
+      268,
+      18
+    ],
+    "text": "SOCIALIST REPUBLIC OF",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      248,
+      256,
+      121,
+      18
+    ],
+    "text": "SRI LANKA",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161,
+      361,
+      283,
+      18
+    ],
+    "text": "COCONUT DEVELOPMENT",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      179,
+      397,
+      246,
+      23
+    ],
+    "text": "(SPECIAL PROVISIONS)",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      195,
+      431,
+      220,
+      20
+    ],
+    "text": "ACT, No. 45 OF 1984",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      194,
+      557,
+      223,
+      15
+    ],
+    "text": "[Certified on 28th November, 1984]",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62,
+      608,
+      365,
+      14
+    ],
+    "text": "7 Printed on the Orders of Government",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      63,
+      715,
+      482,
+      16
+    ],
+    "text": "Pubtished as a Supplement te Part If of the Gazette of the Democratic",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      131,
+      734,
+      344,
+      14
+    ],
+    "text": "Socialist Republic of Sri Lanka of November 30, 1984",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      63,
+      769,
+      428,
+      41
+    ],
+    "text": "ee seinem 2 [TKR DSPARTACENT OF GOVERNMENT seme, oar vn",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      65,
+      807,
+      438,
+      18
+    ],
+    "text": "7 TO BE PURCHASED AT THE GOVERNMENT PURLICATIONA BUREAU, COLOMBO.",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      63,
+      835,
+      484,
+      14
+    ],
+    "text": "Price: 45 cents Fostage: 60 cents",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92,
+      15,
+      338,
+      14
+    ],
+    "text": "Coconut Development {Special Provivions) Act, No. 5 of 1064",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      49,
+      303,
+      14
+    ],
+    "text": ". [Oertified om 28th November, 1984]",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      69,
+      88,
+      13
+    ],
+    "text": "LADO. 53/92,",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      98,
+      358,
+      10
+    ],
+    "text": "AN ACE TO VAIIDATE 2A LaWOSITTON AND THB VaTAmERE OF",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      117,
+      115,
+      333,
+      9
+    ],
+    "text": "MONEYS WHICH WERE COLLECIAO AND OREDITED 70 CHUTAIS",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      117,
+      129,
+      334,
+      11
+    ],
+    "text": "RUNDE CRRATED YOR THE DEVECOPMENE OF tite CoCONOT",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      117,
+      146,
+      334,
+      10
+    ],
+    "text": "INDUSTRY AND TOR MATFERS CONNNOTED THMWWETIE OL",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      177,
+      161,
+      169,
+      10
+    ],
+    "text": "* \" qWoromeras, SERETO,",
+    "mean_p_confidence": 0.0
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92,
+      188,
+      404,
+      14
+    ],
+    "text": "BE it ousctod by the Pecliament of theDomorratic Sovialisg =",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93,
+      205,
+      207,
+      14
+    ],
+    "text": "Republic of Sri Tania as followu :",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      106,
+      233,
+      442,
+      14
+    ],
+    "text": "4. (1) This Act may bo clted as the Coountt Dovelopmont short title aud",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      94,
+      246,
+      410,
+      18
+    ],
+    "text": "(Spooial Provisions} Avot, No, 45 of 1084. ate of",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      468,
+      258,
+      95,
+      16
+    ],
+    "text": "cpeelion,",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      107,
+      275,
+      346,
+      16
+    ],
+    "text": "(2) The Provisions of this Act, other than this ssction and",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      94,
+      294,
+      359,
+      13
+    ],
+    "text": "scotion 2 shail come into operation on sch date (horeinaftar in",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      94,
+      309,
+      360,
+      14
+    ],
+    "text": "his Act roferred to 08 the appointed date) sa may bo appaintod",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      94,
+      325,
+      284,
+      15
+    ],
+    "text": "by the Minister by Ondar published in the Gazette,",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      107,
+      354,
+      348,
+      14
+    ],
+    "text": "hie soction and seotion 2 ehall come into opsration on the",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      94,
+      374,
+      256,
+      17
+    ],
+    "text": "date of commencement of thia Act,",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      107,
+      395,
+      431,
+      19
+    ],
+    "text": "2 imposed aliaation of",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      130,
+      403,
+      422,
+      20
+    ],
+    "text": "All caases imposed. mon oh",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108,
+      424,
+      422,
+      23
+    ],
+    "text": "() on the Desicosted Coconnt Shippers.betweon the 1gih Zaxmen? st",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      146,
+      451,
+      312,
+      14
+    ],
+    "text": "of Boytember, 1907 and 18th November, 1977 and paid",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      146,
+      472,
+      372,
+      13
+    ],
+    "text": "into the Coconut Development Fund maintained by the -",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      147,
+      492,
+      192,
+      14
+    ],
+    "text": "Cororiut Developinant Authority 5",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108,
+      521,
+      351,
+      14
+    ],
+    "text": "i) on the Shippeots of Coconut Products betwoen the 26th",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      147,
+      541,
+      418,
+      14
+    ],
+    "text": "of April, 1978 and 3iet July, 1978 and paid into the .",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      147,
+      561,
+      313,
+      14
+    ],
+    "text": "Desiosated Coconu Marketing Development Fund",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      147,
+      582,
+      313,
+      14
+    ],
+    "text": "maintained by the Coconut Development Authority ;",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      109,
+      610,
+      351,
+      14
+    ],
+    "text": "(Gi) 02 the owners of Desiccated Coconut Mills between the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      148,
+      627,
+      313,
+      13
+    ],
+    "text": "Jet of August, 1878 and 12th November, 2081 and paid",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      147,
+      647,
+      315,
+      13
+    ],
+    "text": "into the Industriat Development Fund maintained",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      148,
+      667,
+      235,
+      15
+    ],
+    "text": "by the Coconut Development Authority,",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96,
+      695,
+      366,
+      14
+    ],
+    "text": "shall bo deemed to have been validly imposed and paid, !",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      109,
+      724,
+      452,
+      15
+    ],
+    "text": "4 (1) The Cooonat Produote Ordinance is heraby smeuded Amoninant of",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92,
+      732,
+      452,
+      30
+    ],
+    "text": "by the repeal of section 22 and section 28 thereof. Ghspter 160.",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      110,
+      768,
+      352,
+      16
+    ],
+    "text": "(2) All csover recovered wader section 23 of the Coconut",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      784,
+      386,
+      19
+    ],
+    "text": "FB Products Ordinance and paid to the Coconut Marksting Boord",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      800,
+      386,
+      19
+    ],
+    "text": "1B and the Covoant Processing Board established under the Coconut",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      816,
+      379,
+      18
+    ],
+    "text": "Development Act, No, 44 of 1971, shall be deemed to hove",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88,
+      860,
+      123,
+      12
+    ],
+    "text": "A. 0199038,375 (84/0)",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      104,
+      17,
+      424,
+      14
+    ],
+    "text": ": 2 Coconut Development (Special Provisions) Ack, No. 46 of 1984",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      69,
+      45,
+      476,
+      27
+    ],
+    "text": "Apendnoant of 4 (1) Tho Coconut Research Ordiuance is horeby amended",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      73,
+      60,
+      186,
+      17
+    ],
+    "text": "Septer 0. as follows",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      198,
+      94,
+      238,
+      14
+    ],
+    "text": "0) by the repeat of sostion @ thereof; and",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      198,
+      118,
+      289,
+      14
+    ],
+    "text": "6) by the omistion of the Second Schedule theroto,",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      197,
+      149,
+      347,
+      15
+    ],
+    "text": "(2) All cossea recovarod under section 6 of the Coconut Resoarch",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      186,
+      165,
+      359,
+      15
+    ],
+    "text": "Ordinance and paid to the Cooonnt Research Board established",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      185,
+      181,
+      360,
+      14
+    ],
+    "text": "under tho Cocomut Dovelopiment Aet, No, 46 of 1971, ell! bo",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      185,
+      198,
+      192,
+      14
+    ],
+    "text": "doeaned to hive boon validly paid",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71,
+      230,
+      474,
+      14
+    ],
+    "text": "Amindmect of & (1) The Cocanub Fibro Ast, No. 17 of 1967, is howhy",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      67,
+      240,
+      373,
+      27
+    ],
+    "text": "Ant No. 17 oF amended by the repeal of seotion 18 thereof.",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      197,
+      274,
+      348,
+      14
+    ],
+    "text": "{2} All ceases recovered undor section 18 of the Coconnt Fibro",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      183,
+      290,
+      362,
+      14
+    ],
+    "text": "Act and paid to the Cocomut Marketing Bosrd and the Coconut",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      183,
+      306,
+      362,
+      14
+    ],
+    "text": "Processing Board established wader the Coconut Developinent",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      182,
+      321,
+      353,
+      15
+    ],
+    "text": "Ast, No, 40 of 1071, eboll be deemed to have boon validly paid,",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      69,
+      342,
+      476,
+      29
+    ],
+    "text": "Validation of & With effect from Sih May, 1972, all cowsee collected by",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      68,
+      366,
+      477,
+      19
+    ],
+    "text": "Zolllad by the the Coconut Marketing Board and the Coconut Processing",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      64,
+      374,
+      481,
+      30
+    ],
+    "text": "Secon Board upto diet December, 1072, shall be deemed to have",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      67,
+      396,
+      239,
+      19
+    ],
+    "text": "Beaming bean validly ollected.",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      67,
+      417,
+      40,
+      9
+    ],
+    "text": "Sooonus",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      67,
+      428,
+      37,
+      8
+    ],
+    "text": "Sachets",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      67,
+      430,
+      82,
+      17
+    ],
+    "text": "Bare",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      62,
+      460,
+      327,
+      29
+    ],
+    "text": "Interpretation 7. For the purposes of this Act",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      207,
+      491,
+      337,
+      15
+    ],
+    "text": "Cooonut Marketing Bosrd mosns the Board orented. by:",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      230,
+      508,
+      313,
+      15
+    ],
+    "text": "Order published in Gazatie No, 15,004 of March 20,",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      230,
+      524,
+      314,
+      14
+    ],
+    "text": "1972 and diceclved by Order published in Gaseke",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      228,
+      541,
+      266,
+      14
+    ],
+    "text": "Extraordinary No. 60/8 of Docomber 81, 1979 ;",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      203,
+      568,
+      340,
+      15
+    ],
+    "text": "* Coconut Proowweing Hoard means the Board created by",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      220,
+      584,
+      323,
+      16
+    ],
+    "text": "* Order published in Gazette No. 15,005 of April 7, 1972 and",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      228,
+      600,
+      315,
+      15
+    ],
+    "text": "disgolved by Order published in Gazette Betvaordinary",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      228,
+      618,
+      196,
+      14
+    ],
+    "text": "No. 69/3 of Decomber 31, 1979;",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      112,
+      640,
+      431,
+      14
+    ],
+    "text": ". * Coocomut Research Board means the Board established",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      228,
+      656,
+      315,
+      16
+    ],
+    "text": "by Order published in Gazeie No. 15,004 of March",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      228,
+      675,
+      50,
+      12
+    ],
+    "text": "30, 1972.",
+    "mean_p_confidence": 0.51
+  }
+]

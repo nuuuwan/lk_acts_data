@@ -1,0 +1,651 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      130,
+      259,
+      378,
+      18
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      183,
+      296,
+      263,
+      18
+    ],
+    "text": "SOCIALIST REPUBLIC OF",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      257,
+      332,
+      117,
+      17
+    ],
+    "text": "SRI LANKA",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      257,
+      385,
+      302,
+      21
+    ],
+    "text": ":",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      157,
+      418,
+      324,
+      18
+    ],
+    "text": "SURCHARGE ON WEALTH TAX",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      214,
+      467,
+      211,
+      21
+    ],
+    "text": "ACT, No, 25 OF 1982",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      220,
+      579,
+      203,
+      14
+    ],
+    "text": "(Certified on 16th August, 1982)",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      204,
+      635,
+      238,
+      14
+    ],
+    "text": "Printed on the orders of Government",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      90,
+      725,
+      466,
+      17
+    ],
+    "text": "Published as a Supplement to Part II af the Gazette of ths Democratic",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      166,
+      743,
+      353,
+      20
+    ],
+    "text": "Socialist Republic of Sri Lanka of August 13, 1982",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      124,
+      798,
+      401,
+      11
+    ],
+    "text": "seme eet mnie a",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93,
+      814,
+      466,
+      20
+    ],
+    "text": "oe one os oa",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      119,
+      843,
+      416,
+      13
+    ],
+    "text": "Price: 20 cents Postage: 56 cents",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      113,
+      55,
+      282,
+      13
+    ],
+    "text": "Surcharge on Wealth Tax Aot, No. 25 of 1982",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      158,
+      80,
+      194,
+      13
+    ],
+    "text": "[Certified on 10th August, 1982]",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      109,
+      88,
+      12
+    ],
+    "text": "LDO.14/82.",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      133,
+      373,
+      11
+    ],
+    "text": "Aw Act 70 IMPOSE A SURCHARGE ON EVERY PERSON CHARGEASLE",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      151,
+      361,
+      9
+    ],
+    "text": "WITH WRAL/TH TAX FOR THE YEAR OF ASSESIMENT COMMENC-",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      165,
+      359,
+      12
+    ],
+    "text": "ig ow Ave 1, 1981 a mereRENCE TO THE WEALTA TAX",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      182,
+      361,
+      10
+    ],
+    "text": "FAYABLE EY SUCH PERSON YOR THAT YEAR OF ASSESSMENT ;",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      198,
+      360,
+      10
+    ],
+    "text": "[AND TO PROVIDE FOR MATTERS CONNECTED THEREWETH OR INCI~",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      216,
+      386,
+      11
+    ],
+    "text": "DENTAL THERETO. :",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      241,
+      375,
+      14
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic Socialist",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      257,
+      234,
+      14
+    ],
+    "text": "Republic of Sri Lanka as follows :",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      287,
+      407,
+      20
+    ],
+    "text": "1. This Act may be cfted as the Surcharge on Wealth hart",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      306,
+      154,
+      13
+    ],
+    "text": "Tax Act, No. 25 of 1982.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      333,
+      434,
+      19
+    ],
+    "text": "2 Every person chargeable with wealth tax for the [position",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      354,
+      442,
+      20
+    ],
+    "text": "year of assessment commencing on April 1, 1961, shall, not- surcharge",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      367,
+      410,
+      18
+    ],
+    "text": "withstanding anything contained in any written law or in 3,\"",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      386,
+      444,
+      16
+    ],
+    "text": "any convention, grant or agreement, be Hable to pay a sur- .",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      402,
+      375,
+      14
+    ],
+    "text": "charge equivalent to ten per centum of the wealth tex",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      419,
+      281,
+      14
+    ],
+    "text": "payable by him for that year of assessment.",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      449,
+      422,
+      15
+    ],
+    "text": "3. Every person liable to pay a surcharge under section Date for",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      462,
+      432,
+      19
+    ],
+    "text": "2 shall, notwithstanding the fact that an assessment has not Bf\"",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      481,
+      445,
+      16
+    ],
+    "text": "been issued to him, pay to the Commissioner-General, not sweharge,",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      500,
+      380,
+      13
+    ],
+    "text": "less than fifty per centum of the amount of the surcharge.",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      516,
+      376,
+      14
+    ],
+    "text": "payable by him on or before July 15, 1982, and the balance,",
+    "mean_p_confidence": 0.88
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      533,
+      206,
+      12
+    ],
+    "text": "on ar before November 30, 1982.",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      553,
+      436,
+      30
+    ],
+    "text": "4 The provisions of Chapter XIII and Chapters KVII to Ct as",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      576,
+      425,
+      14
+    ],
+    "text": "XXXVI of the Inland Revenue Act relating to the furnishing Gf the",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      590,
+      439,
+      20
+    ],
+    "text": "of retums, assesment, appeals ageinst assessment, payment, and,",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      610,
+      426,
+      13
+    ],
+    "text": "recovery and refund of wealth tax shall, mutatis mutandis, Act to",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      623,
+      425,
+      16
+    ],
+    "text": "apply to the fumishing of returns, assessment, appeals \"PPIY-",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      642,
+      377,
+      14
+    ],
+    "text": "against assessment, payment, recovery and refund of the",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      658,
+      268,
+      14
+    ],
+    "text": "surcharge payable under section 2. :",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      687,
+      427,
+      20
+    ],
+    "text": "&. In this Act, unless the context otherwise reqnires Jnlerpre-",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      711,
+      363,
+      14
+    ],
+    "text": "Commissioner-General has the same meaning ss in",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      125,
+      727,
+      321,
+      13
+    ],
+    "text": "the Inland Revenue Act ; ~",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      751,
+      362,
+      13
+    ],
+    "text": "Inland Revenue Act means the Inlend Revenue Act,",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      126,
+      768,
+      99,
+      13
+    ],
+    "text": "No, 28 of 1979;",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      791,
+      363,
+      14
+    ],
+    "text": "wealth tax means the wealth tax charged and levied",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      125,
+      808,
+      231,
+      12
+    ],
+    "text": "under the Inland Revenue Act; and",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      832,
+      363,
+      14
+    ],
+    "text": "year of assesement has the same meaning as in the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      126,
+      848,
+      132,
+      12
+    ],
+    "text": "Inland Revenue Act.",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      80,
+      778,
+      467,
+      9
+    ],
+    "text": "eS",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77,
+      786,
+      471,
+      15
+    ],
+    "text": "Annus) subscription of Billa and Laws of the Parliament Ra 160 (Local),",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77,
+      799,
+      471,
+      15
+    ],
+    "text": "Hs 200 Foreign), psyabla to the Suyzammmemmr, Govnuramz PUBLICATIONS",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      78,
+      813,
+      470,
+      16
+    ],
+    "text": "Bonkau. P, 0, Box 500, Coronmo 1, before 18th Decumber each year in rerpect",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      253,
+      829,
+      125,
+      12
+    ],
+    "text": "of the year following,",
+    "mean_p_confidence": 0.73
+  }
+]

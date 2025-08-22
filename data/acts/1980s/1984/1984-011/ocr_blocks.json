@@ -1,0 +1,2433 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      102,
+      193,
+      389,
+      19
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      166,
+      232,
+      270,
+      18
+    ],
+    "text": "SOCIALIST REPUBLIC OF",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      237,
+      266,
+      119,
+      19
+    ],
+    "text": "SRE LANKA",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      125,
+      351,
+      343,
+      21
+    ],
+    "text": "NATIONAL DANGEROUS DRUGS",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      136,
+      393,
+      256,
+      29
+    ],
+    "text": ": CONTROL BOARD",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      191,
+      436,
+      213,
+      22
+    ],
+    "text": "ACT, No. 11 OF 1984",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      211,
+      535,
+      183,
+      15
+    ],
+    "text": "(Certified ou 4th April, 1984]",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      64,
+      587,
+      365,
+      18
+    ],
+    "text": ". Printed on the Orderg of Government",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      67,
+      686,
+      477,
+      40
+    ],
+    "text": "Published ava Supplement, to Part EI of the Gazette of the Democratic",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      154,
+      708,
+      304,
+      16
+    ],
+    "text": "Socialist Republic of Sri Lanka of April 06, 1984",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      122,
+      777,
+      377,
+      10
+    ],
+    "text": "mmerio AP Tit DEPAPPMORAT OF GOMERONINIT PRINTING, URE LANA",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      100,
+      792,
+      451,
+      21
+    ],
+    "text": "ye mi Funemaso AF Tom oovE FoMLIGNTIONE BUNEAW, cowDaD",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      97,
+      829,
+      429,
+      13
+    ],
+    "text": "Price : 45 cents . Postage: 68 cents",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      123,
+      16,
+      274,
+      13
+    ],
+    "text": "National Dangerous Drugs Control Board",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      198,
+      33,
+      122,
+      13
+    ],
+    "text": "Act, No. 11 of 1984",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      167,
+      60,
+      243,
+      20
+    ],
+    "text": "[Certifed on 4th April, 1984)",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      77,
+      353,
+      22
+    ],
+    "text": "L.D.O, 28/82. woah My -",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      106,
+      380,
+      12
+    ],
+    "text": "AN Act 10 taramuani re Nationa DANorsous Daus Cone",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      95,
+      124,
+      356,
+      14
+    ],
+    "text": "Tot. Boanb, 10 srscrry THE POWERS OF SUCH Boao AND",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      95,
+      141,
+      440,
+      16
+    ],
+    "text": "JO PROVIUE FOR MATTERS CONNECTED THEREWHEH OR INCI+ .",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      95,
+      161,
+      347,
+      14
+    ],
+    "text": "DENTAL THERETO. | i are",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      186,
+      382,
+      15
+    ],
+    "text": "BE if enacted by the Parliament of the Democratic Socialist",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      204,
+      341,
+      13
+    ],
+    "text": "Republic of Sri Lanka as follows : .",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      227,
+      449,
+      21
+    ],
+    "text": "1. This Act may be cited as the National Dangerous Druga Short title",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      249,
+      453,
+      14
+    ],
+    "text": "Controt Board Act, No. i1 of 1984, and shall come into operation,",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      266,
+      382,
+      14
+    ],
+    "text": "operation on such date as the Minister may appoint by",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      283,
+      325,
+      17
+    ],
+    "text": "Order published in the Gazette, . uo",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      302,
+      440,
+      23
+    ],
+    "text": "2 (1) There shall be established a Board to be:called Feet at",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      326,
+      415,
+      20
+    ],
+    "text": "the National Dangerous Drugs Control Board (hereinafter ie,",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      337,
+      458,
+      22
+    ],
+    "text": "referred to as the Board\") which shall be the princips! Baogertus",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      360,
+      440,
+      20
+    ],
+    "text": "national institution charged with the formulation and re DFuia |",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      378,
+      435,
+      16
+    ],
+    "text": "view of a national poliey relating to the prevention, control, Board,",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      397,
+      373,
+      13
+    ],
+    "text": "treatment and rehabilitation of drug abusers. a",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      420,
+      368,
+      16
+    ],
+    "text": "(2) Subject to the general direction and control of the",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      437,
+      459,
+      17
+    ],
+    "text": "Minister, the Board shell be responsible for the administra~ .",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      456,
+      314,
+      14
+    ],
+    "text": "tion of the provisions of this Act.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      476,
+      368,
+      18
+    ],
+    "text": "(8) The Board shall, by the name assigned to it by sub-",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      496,
+      384,
+      15
+    ],
+    "text": "section (1), be a body corporate having perpetual succession",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      513,
+      384,
+      15
+    ],
+    "text": "and a common sesl and may sue and be sited in {ts corporate",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      534,
+      37,
+      8
+    ],
+    "text": "name.",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      555,
+      448,
+      21
+    ],
+    "text": "3. (1) The Board shall consist of the following mem- Gonstifas",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      568,
+      440,
+      30
+    ],
+    "text": "bers : Board,",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      597,
+      367,
+      15
+    ],
+    "text": "(@ ome member who shall be the Chsirman and two",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      53,
+      613,
+      397,
+      16
+    ],
+    "text": "- Other members to be appointed by the Minister",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      121,
+      629,
+      328,
+      17
+    ],
+    "text": "(hereinafter referred to as appointed members\") 5",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      652,
+      343,
+      16
+    ],
+    "text": "{b) the Inspector-General of Police or his nominee ;",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      672,
+      369,
+      16
+    ],
+    "text": "() the Director-General of Health Services or his",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118,
+      693,
+      257,
+      16
+    ],
+    "text": "nominee ; and : :",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      712,
+      264,
+      18
+    ],
+    "text": "(@) the Commissioner of Ayurveda.",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      735,
+      405,
+      18
+    ],
+    "text": "(2) Every appointed member of the Board shall, unless .",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      751,
+      384,
+      18
+    ],
+    "text": "he earlier vacates office by resignation, death, or removal,",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      768,
+      384,
+      19
+    ],
+    "text": "hold office for a period of three years from the date of",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      787,
+      344,
+      16
+    ],
+    "text": "ppointment and shall be eligible for resppointment,",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      810,
+      369,
+      20
+    ],
+    "text": "(3) An appointed member may at any time resign his",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      829,
+      358,
+      17
+    ],
+    "text": "office by letter to that effect addressed to the Minister.",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      852,
+      127,
+      14
+    ],
+    "text": "eoreree 7,588 4)09)",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      186,
+      21,
+      326,
+      14
+    ],
+    "text": "2 National Dangerous Drugs Control Board",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      313,
+      38,
+      121,
+      13
+    ],
+    "text": "Act, No. 12 of 1984",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      202,
+      71,
+      364,
+      14
+    ],
+    "text": "(4) If an appointed member dies or resigns or fs removed",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      186,
+      87,
+      381,
+      15
+    ],
+    "text": "from office, the Minister may appoint any other",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      186,
+      103,
+      379,
+      15
+    ],
+    "text": "person to be a member in place of the member. who.dies,",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      186,
+      121,
+      350,
+      13
+    ],
+    "text": "resigns or is remoyed from office... 32.7. a",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      187,
+      145,
+      379,
+      17
+    ],
+    "text": "-(@) A member whio' has been appointed unider subsection",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      188,
+      165,
+      377,
+      14
+    ],
+    "text": "(4) shall unless he earlier vacates his office by death, resig-",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      186,
+      182,
+      380,
+      14
+    ],
+    "text": "nation or removsl hold office for the unexpired period of she",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      186,
+      199,
+      313,
+      14
+    ],
+    "text": "term of office of hig predecessor. oe",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      112,
+      227,
+      454,
+      14
+    ],
+    "text": "wc .(6} Where an eppointed member of the Board is by rea-",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      125,
+      244,
+      441,
+      16
+    ],
+    "text": "1. +\" $0 of Mluess, infirrnity or absence from Sri Lanka for @",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      186,
+      261,
+      380,
+      14
+    ],
+    "text": "period not less than three months, temporarily unable tn",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      185,
+      277,
+      382,
+      14
+    ],
+    "text": "perform the duties of his office it shall be the duty of such",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      116,
+      295,
+      451,
+      15
+    ],
+    "text": "cect , Member to inform the Minister in writing and the Minister",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      116,
+      310,
+      450,
+      17
+    ],
+    "text": "yu. maiy,-appoint another person to act in place af. such",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      125,
+      328,
+      381,
+      16
+    ],
+    "text": "vc member, + : .",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      125,
+      349,
+      443,
+      22
+    ],
+    "text": "25h @) Any appointed member of the Board who vacates",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      147,
+      376,
+      421,
+      16
+    ],
+    "text": "7%. office other than by removal shall be eligible for reappoint-",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      186,
+      400,
+      34,
+      10
+    ],
+    "text": "Tent.",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      91,
+      435,
+      478,
+      20
+    ],
+    "text": "Acts or pro. - 4.\" No act or proceeding of the Board shall be invalid by",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      91,
+      442,
+      478,
+      30
+    ],
+    "text": "gopes reagon only of the existence of any vacancy in the Board",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90,
+      469,
+      473,
+      20
+    ],
+    "text": "deemed or any defect in the appointment of a member of the Board.",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90,
+      491,
+      370,
+      20
+    ],
+    "text": "Snvaia by .",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      86,
+      491,
+      418,
+      30
+    ],
+    "text": "reason ' :",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      91,
+      516,
+      438,
+      9
+    ],
+    "text": "any vacancy : a : :",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      91,
+      525,
+      49,
+      9
+    ],
+    "text": "ordefeet",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90,
+      536,
+      37,
+      9
+    ],
+    "text": "in the",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      91,
+      548,
+      46,
+      11
+    ],
+    "text": "appoint.",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90,
+      559,
+      440,
+      12
+    ],
+    "text": "ment ofa: : . my",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      91,
+      569,
+      460,
+      16
+    ],
+    "text": "member. ? .",
+    "mean_p_confidence": 0.09
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      86,
+      611,
+      485,
+      29
+    ],
+    "text": "Remunera- 5, The members of the Board shall be remunerated in",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90,
+      638,
+      480,
+      24
+    ],
+    "text": "HEWES sueli manner and at such rates as may be determined by",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      188,
+      660,
+      172,
+      11
+    ],
+    "text": "the Minister, .",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      86,
+      690,
+      485,
+      29
+    ],
+    "text": "Meetings @ (1) The Chairman of the Board shal! preside at every",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90,
+      706,
+      482,
+      31
+    ],
+    "text": "Bosra, meeting of the Board and in the absence of the Chairman",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      188,
+      739,
+      383,
+      17
+    ],
+    "text": "at any meeting of the Board, the membera of the Boord",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      188,
+      761,
+      383,
+      15
+    ],
+    "text": "Bresent at such meeting shall elect from among themselves",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      188,
+      781,
+      259,
+      16
+    ],
+    "text": "a member to. preside at such meeting. -",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      203,
+      810,
+      368,
+      18
+    ],
+    "text": "(2) Three members of the Board shall constitute a quorum",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      188,
+      830,
+      307,
+      15
+    ],
+    "text": "for any tneeting af the Board, fo",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      130,
+      19,
+      327,
+      15
+    ],
+    "text": "National Dangeroug Druga Control Board a",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      199,
+      37,
+      131,
+      14
+    ],
+    "text": "* Act, No..11 of 1984",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      84,
+      69,
+      468,
+      15
+    ],
+    "text": "- (8) Subjert ta the provisions of subsections .(1) anit (2). a",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      77,
+      81,
+      475,
+      26
+    ],
+    "text": "the Board shall meet at tesst.once.a month and it may Ba",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      80,
+      102,
+      378,
+      15
+    ],
+    "text": "regulate its own procedure-in regard to its meetings and",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      80,
+      118,
+      382,
+      18
+    ],
+    "text": "the transaction of business at such meetings. 7 -vfs + .",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      128,
+      140,
+      317,
+      9
+    ],
+    "text": "seen eta te rare",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      82,
+      152,
+      432,
+      20
+    ],
+    "text": "- %. The Board.shall have the power tom: 5-. 4.5: Pie",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89,
+      173,
+      421,
+      18
+    ],
+    "text": "{a) formulate and review a nationl policy relating to Basrd,",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      129,
+      194,
+      330,
+      14
+    ],
+    "text": "the prevention and control of the abuse of dangerous",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      82,
+      211,
+      377,
+      14
+    ],
+    "text": "vv -tdpugs and to edvis and:make reeemmendation to",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      128,
+      228,
+      280,
+      14
+    ],
+    "text": "the Minister on such policy; 1:00 rin",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      94,
+      251,
+      365,
+      20
+    ],
+    "text": "{&) call for such information and particulars from indi-",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      130,
+      274,
+      331,
+      14
+    ],
+    "text": "viduals, organizations, government departments and",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      129,
+      289,
+      331,
+      15
+    ],
+    "text": "public corporations as may teasonably be necestary",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      110,
+      307,
+      277,
+      18
+    ],
+    "text": "~ to exereise the powers of the Board:",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      141,
+      334,
+      319,
+      12
+    ],
+    "text": "Provided however that no member shall disclose",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      130,
+      352,
+      330,
+      14
+    ],
+    "text": "any inforination or particulars obtained under the",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      130,
+      368,
+      330,
+      15
+    ],
+    "text": "Provisions of this paragraph, except where he is",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      130,
+      386,
+      329,
+      14
+    ],
+    "text": ". Fequired to do.so, by a court of. Jaw or in. order, to",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      130,
+      403,
+      296,
+      14
+    ],
+    "text": "comply with any other provisions of this Act",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93,
+      430,
+      428,
+      17
+    ],
+    "text": "() recetve donations and grants from local and foreign .",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      130,
+      447,
+      407,
+      17
+    ],
+    "text": "sources for the purpose of exreising the powers of .",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      130,
+      462,
+      406,
+      21
+    ],
+    "text": "the Board ; y eee a",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93,
+      488,
+      454,
+      21
+    ],
+    "text": "(@) co-ordinate the activities of agencles engaged'in the .",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      128,
+      511,
+      394,
+      15
+    ],
+    "text": "prevention and control of dangerous drugs ; \" .",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93,
+      539,
+      368,
+      14
+    ],
+    "text": "(e) promote treatment and rehabilitation. measures. for",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      61,
+      556,
+      400,
+      14
+    ],
+    "text": ": drug dependent persone and conduet national deug",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      130,
+      573,
+      331,
+      15
+    ],
+    "text": "abuse and preventive educational programmes for",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      130,
+      590,
+      310,
+      19
+    ],
+    "text": "children and adulisy 8 .",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      79,
+      618,
+      381,
+      15
+    ],
+    "text": "+ G) conduct and undertake research studies into the pre-",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      129,
+      636,
+      332,
+      15
+    ],
+    "text": "valances, aetiology and legel, medical, social,",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      129,
+      653,
+      332,
+      14
+    ],
+    "text": "cultural and economic implications of the abuse of",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      129,
+      671,
+      303,
+      16
+    ],
+    "text": "dangerous drugs ; and : 6",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83,
+      690,
+      377,
+      20
+    ],
+    "text": ".(9) maintain lesion with national, regional. and inter",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      129,
+      715,
+      332,
+      16
+    ],
+    "text": "national organizations and agencies invalved in drug",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      129,
+      737,
+      130,
+      12
+    ],
+    "text": "contrel activities. ~",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89,
+      767,
+      437,
+      20
+    ],
+    "text": "& The Board may appoint any sub-committee for the Appoint.",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      77,
+      790,
+      436,
+      15
+    ],
+    "text": "Purpose of this Act, which shall be charged with the exer, be",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      476,
+      801,
+      67,
+      10
+    ],
+    "text": "committees,",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      77,
+      810,
+      384,
+      17
+    ],
+    "text": "else, performance, and discharge of such powers and duties",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      77,
+      832,
+      371,
+      17
+    ],
+    "text": "as may, he delegated to them by the Minister. .",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      172,
+      23,
+      327,
+      14
+    ],
+    "text": "4 National Dangerous Drugs Control Bonrd",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      300,
+      40,
+      122,
+      13
+    ],
+    "text": "Act, No. 11 of 1984",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      76,
+      71,
+      476,
+      20
+    ],
+    "text": "ee 9. (2) The Chairman of the Board shall be the chief",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72,
+      80,
+      466,
+      31
+    ],
+    "text": "Board, exvoutive officer of the Board, * Q ;",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      187,
+      111,
+      365,
+      21
+    ],
+    "text": "(2) The Board may, subject to the provisions of this Act",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      187,
+      138,
+      365,
+      14
+    ],
+    "text": "(@) appoint such officers and servants as it considers nece-",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      222,
+      155,
+      330,
+      14
+    ],
+    "text": "ssry for the exercise and performanee of ite powers:",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      138,
+      171,
+      414,
+      15
+    ],
+    "text": ". und duties, and may exercise disciplinary control",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      184,
+      189,
+      316,
+      13
+    ],
+    "text": "Over o dismiss such officers and servants ;",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      186,
+      208,
+      366,
+      14
+    ],
+    "text": "(b) fix the rates at which such officers and servants shal]",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      222,
+      226,
+      109,
+      14
+    ],
+    "text": "be remunerated ;",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      173,
+      246,
+      379,
+      18
+    ],
+    "text": "_. {0} determine the terms and conditions of service of such",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      223,
+      264,
+      183,
+      13
+    ],
+    "text": "officers and servants; and.",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      187,
+      283,
+      366,
+      15
+    ],
+    "text": "(@)..establish and regulate provident funds or schemes for",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      222,
+      301,
+      331,
+      12
+    ],
+    "text": "the benefit of such offers and servants and make",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      224,
+      319,
+      270,
+      13
+    ],
+    "text": "contributions to any such fund or scheme.",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      188,
+      342,
+      365,
+      19
+    ],
+    "text": "(8) Bules may be mada by the Board in respect of all ot",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      172,
+      364,
+      311,
+      14
+    ],
+    "text": "any of the matters referred to in subsection (2).",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      188,
+      388,
+      365,
+      15
+    ],
+    "text": "(4) No ruls made by the Board under subsection (8) shall",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      173,
+      406,
+      358,
+      14
+    ],
+    "text": "have effect until it has been approved by the Minister",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72,
+      427,
+      483,
+      36
+    ],
+    "text": "Agyeint, 30, Q) Af the request of the Board any officer in the",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72,
+      448,
+      483,
+      29
+    ],
+    "text": "Biicens. public service may with the consent of that officer and the",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      76,
+      472,
+      479,
+      15
+    ],
+    "text": "from the Secretary to the Ministry of the Minister, in charge of",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      76,
+      480,
+      480,
+      28
+    ],
+    "text": "public the subject of Public Administration be temporarily",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      76,
+      506,
+      479,
+      13
+    ],
+    "text": "to the appointed to the staff of the Hoard for such period as may",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      76,
+      517,
+      479,
+      22
+    ],
+    "text": "om ot the be determined by the Hoard with like consent or be por-",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      173,
+      540,
+      210,
+      13
+    ],
+    "text": "manently appointed to such staff.",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      187,
+      561,
+      368,
+      21
+    ],
+    "text": "@) Where any officer in the public service is temporarily",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      172,
+      584,
+      383,
+      15
+    ],
+    "text": "appointed ta the staff of the Board the provisions of sub-",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      172,
+      602,
+      383,
+      15
+    ],
+    "text": "section (2) of section 13 of the Transport Bosrd Law, No. 19",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      171,
+      620,
+      384,
+      13
+    ],
+    "text": "of 1978, shall, mutatis mutandis, apply to and in relation to",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      171,
+      632,
+      212,
+      23
+    ],
+    "text": "him, .",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      188,
+      660,
+      369,
+      20
+    ],
+    "text": "(3) Where any officer in the public service is permanently",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      172,
+      682,
+      385,
+      15
+    ],
+    "text": "appointed to the staff of the Board, the provisions of sub-",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      172,
+      699,
+      385,
+      14
+    ],
+    "text": "section (3) of section 13 of the Transport Board Law, No, 19",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      172,
+      717,
+      384,
+      14
+    ],
+    "text": "of 1978, shall, mutatis mutandis, apply to and in relation to.",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      172,
+      730,
+      387,
+      25
+    ],
+    "text": "him, 4 Boge GRE",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      110,
+      762,
+      448,
+      15
+    ],
+    "text": "44) Where the Board employs any person who has agreed",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      173,
+      779,
+      385,
+      16
+    ],
+    "text": "to serve the Government for a specified period, any period",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      98,
+      797,
+      460,
+      14
+    ],
+    "text": "+ of service to the Board by that person shall be regarded as",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      174,
+      814,
+      384,
+      14
+    ],
+    "text": "service to the Government for the purpose of discharging",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      174,
+      830,
+      321,
+      15
+    ],
+    "text": "the obligations of such agreement, -. ;",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      57,
+      857,
+      13,
+      11
+    ],
+    "text": ".",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      125,
+      21,
+      327,
+      14
+    ],
+    "text": "Nasional Dangerous Drugs Control Board 8",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      202,
+      38,
+      123,
+      13
+    ],
+    "text": "Act, No. 11 of 1984",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      89,
+      68,
+      425,
+      14
+    ],
+    "text": "IL All officers and servents of the Board shall before Secrecy.",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      77,
+      91,
+      378,
+      15
+    ],
+    "text": "entering upon their duties sign 2 declaration pledging them-",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      77,
+      111,
+      378,
+      15
+    ],
+    "text": "selves to observe strict secrecy respecting all activities and",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      76,
+      132,
+      380,
+      14
+    ],
+    "text": "information received and all matters relating thereto and",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      76,
+      152,
+      381,
+      15
+    ],
+    "text": "shall by such declaration pledge themselves not to reveal",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      77,
+      173,
+      380,
+      15
+    ],
+    "text": "any matter which may come to their knowledge in the dis-",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      77,
+      196,
+      311,
+      13
+    ],
+    "text": "charge of their duties except .",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      92,
+      228,
+      187,
+      13
+    ],
+    "text": "(a) when required to do so",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      58,
+      253,
+      200,
+      14
+    ],
+    "text": "G) by the Board, o",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      55,
+      277,
+      234,
+      14
+    ],
+    "text": "} Gi) by a court of law, or",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      125,
+      301,
+      316,
+      14
+    ],
+    "text": "(ii) by the person to whom such matters relale ;",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93,
+      330,
+      276,
+      14
+    ],
+    "text": "() in the performance of their duties; or",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93,
+      357,
+      367,
+      15
+    ],
+    "text": "{) in onder ta comply with any other provisions of thls",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      130,
+      380,
+      147,
+      14
+    ],
+    "text": "Ach, or any other iaw.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      92,
+      411,
+      417,
+      16
+    ],
+    "text": "12 (1) There shall be established and maintained fund Fund,",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      79,
+      432,
+      383,
+      15
+    ],
+    "text": "which shall be administered and controlled by the Board",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      79,
+      454,
+      384,
+      13
+    ],
+    "text": "in accordance with such divections as the Minister may give",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      79,
+      476,
+      119,
+      11
+    ],
+    "text": "from time to time.",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      95,
+      500,
+      258,
+      19
+    ],
+    "text": "(2) There shell be puid into the fand",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      95,
+      529,
+      369,
+      15
+    ],
+    "text": "(@) all such sums of money as may be voted from time",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      63,
+      549,
+      401,
+      16
+    ],
+    "text": ". to time by Parliament for the use of the Board ; and",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      96,
+      578,
+      368,
+      18
+    ],
+    "text": "() sli such sums of money us may be received by the",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      133,
+      600,
+      331,
+      15
+    ],
+    "text": "Board by way of donations, gifls or grants from",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      133,
+      623,
+      323,
+      15
+    ],
+    "text": "any soucee whatsoever. oo,",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      95,
+      653,
+      358,
+      16
+    ],
+    "text": "(8) The monies of the fund shall, be utilised .",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      97,
+      683,
+      369,
+      17
+    ],
+    "text": "(@) for the purpose of financing programmes for the pre-",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      135,
+      705,
+      312,
+      16
+    ],
+    "text": "vention, control and abuse of dangerous drugs;",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      98,
+      732,
+      369,
+      17
+    ],
+    "text": "(@) for the remuneration of the membere of the Board,",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      136,
+      754,
+      332,
+      16
+    ],
+    "text": "and all other expenses that may te incurred by the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      132,
+      768,
+      420,
+      30
+    ],
+    "text": "Board in the exercise of its powers under this Act. 7",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      99,
+      805,
+      441,
+      22
+    ],
+    "text": "(A) The provisions of Article 154 of the Constitution shall |. -:',",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      85,
+      831,
+      385,
+      16
+    ],
+    "text": "apply to the audit of accounts of the Board, .",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      80,
+      775,
+      474,
+      11
+    ],
+    "text": "re",
+    "mean_p_confidence": 0.07
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      81,
+      781,
+      475,
+      20
+    ],
+    "text": "Eananl cubscription of Bills and Laws of the Parliament Bs. 150 (Local),",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      81,
+      797,
+      475,
+      18
+    ],
+    "text": "Re 900 (Foreign), payable to the Summuerentexr, Govstoncewe Punutestions",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      81,
+      809,
+      475,
+      19
+    ],
+    "text": "Buumav, P, O, Box 600, Cotinmo 1, before 15th December esch year in respect",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      128,
+      827,
+      424,
+      18
+    ],
+    "text": "_ of the yewe following. cn. an ese",
+    "mean_p_confidence": 0.3
+  }
+]

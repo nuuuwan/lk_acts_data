@@ -1,0 +1,662 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      203,
+      154,
+      152,
+      22
+    ],
+    "text": ": See)",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      125,
+      220,
+      376,
+      18
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      189,
+      246,
+      260,
+      18
+    ],
+    "text": "SOCIALIST REPUBLIC OF",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      259,
+      275,
+      117,
+      17
+    ],
+    "text": "SRI LANKA",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      163,
+      376,
+      299,
+      23
+    ],
+    "text": "FISHERIES (REGULATION OF",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      179,
+      403,
+      273,
+      22
+    ],
+    "text": "FOREIGN FISHING BOATS)",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      175,
+      430,
+      216,
+      26
+    ],
+    "text": ". {AMENDMENT)",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      207,
+      466,
+      209,
+      20
+    ],
+    "text": "ACT, No. 37 OF 1982",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      185,
+      567,
+      206,
+      14
+    ],
+    "text": "[Cortified on 12th October, 1982]",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      122,
+      602,
+      310,
+      35
+    ],
+    "text": "ee Printed on the Orders of Government",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77,
+      700,
+      462,
+      17
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the Democratle",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      107,
+      720,
+      359,
+      18
+    ],
+    "text": ", Soelalist Republic of Sri Lanka of October 15, 1082",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77,
+      779,
+      461,
+      29
+    ],
+    "text": "Rim reas 2 te Gem roti mt, om",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      102,
+      818,
+      412,
+      13
+    ],
+    "text": "Price: 20 cents . Postage: 50 cents",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      103,
+      45,
+      436,
+      20
+    ],
+    "text": "Fisheries (Regulation of Foreign Fishing Boats) .",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      150,
+      68,
+      259,
+      14
+    ],
+    "text": "(Amendment) Act, No, 37 of 1982 .",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      154,
+      98,
+      202,
+      13
+    ],
+    "text": "[Certified on 12th October, 1982)",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      127,
+      92,
+      12
+    ],
+    "text": "LO. 62/81.",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      153,
+      369,
+      14
+    ],
+    "text": "AN Act 0 anon twe Pisnmies (RecuLarion oF Fonzct",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      145,
+      172,
+      222,
+      13
+    ],
+    "text": "Fuse Boazs) Act, No, 59 oF 1979,",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      204,
+      370,
+      15
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic Socialist",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      224,
+      234,
+      13
+    ],
+    "text": "Republie of Sri Lanka as follows :",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      255,
+      427,
+      15
+    ],
+    "text": "1, This Act may be cited as the Fisheries (Regulation of shoxstitle.",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      274,
+      367,
+      15
+    ],
+    "text": "Foreign Fishing Boats) (Amendment) Act, No. 37 of 1902",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      304,
+      415,
+      15
+    ],
+    "text": "2, The Fisheries (Regulation of Foreign Fishing Boats} Generst",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      316,
+      449,
+      20
+    ],
+    "text": "Act, No, 58 of 1979 (hereinafter referred to ax the prineipal {ynendment",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      337,
+      447,
+      15
+    ],
+    "text": "enactment \") is hereby amended by the substitution, for the Act No 69",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      347,
+      426,
+      19
+    ],
+    "text": "word Director wherever thet word occurs in any provi- % 170",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      369,
+      368,
+      15
+    ],
+    "text": "sion of the principal enactment (other than in subsection (5)",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      385,
+      368,
+      14
+    ],
+    "text": "of section 18 and subsection (1) of section 20), of the word",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      403,
+      69,
+      13
+    ],
+    "text": "* Secretary.",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      432,
+      441,
+      15
+    ],
+    "text": "3 Section 13 of the principal enuetment is hereby amend- Amandment",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      445,
+      442,
+      20
+    ],
+    "text": "ed in subsection (5) of that section by the substitution, gor of Suton",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      465,
+      435,
+      15
+    ],
+    "text": "the expression the Director or the Government Agent, principal",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      476,
+      445,
+      20
+    ],
+    "text": "appearing in the proviso to that subsection, of the expres- actment",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      498,
+      369,
+      15
+    ],
+    "text": "sion the Secretary or a person authorized in writing in",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      515,
+      198,
+      14
+    ],
+    "text": "that behalfby the Secretary,.",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88,
+      545,
+      442,
+      17
+    ],
+    "text": "4 Section 20 of the principal enactment is hereby amend Axendmsos",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      560,
+      442,
+      20
+    ],
+    "text": "ed in subsection (1) of that section by the substitution, for of section",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      578,
+      437,
+      14
+    ],
+    "text": "the words The Director or Deputy Director or any Govetn- principal",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      592,
+      446,
+      17
+    ],
+    "text": "ment Agent or Additional Government Agent, of thu words hactment",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      611,
+      370,
+      15
+    ],
+    "text": "The Secretary or a person authorized in writing in that",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      628,
+      293,
+      15
+    ],
+    "text": "brhalf by the Secretary *. .",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      658,
+      442,
+      16
+    ],
+    "text": "5. Section 28 of the principal enactment is hereby amend- amendment",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      674,
+      442,
+      14
+    ],
+    "text": "ed as follows : of section",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      465,
+      684,
+      52,
+      20
+    ],
+    "text": "5a ote",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92,
+      697,
+      433,
+      21
+    ],
+    "text": "(1) by the omission of the definitions of Director and Enacument,",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      129,
+      720,
+      231,
+      17
+    ],
+    "text": "Deputy Director; and +",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93,
+      742,
+      358,
+      17
+    ],
+    "text": "(2) by the insertion, immediately after the definition of",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      101,
+      759,
+      350,
+      17
+    ],
+    "text": "_. . related activities, of the following new deB-",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      100,
+      778,
+      296,
+      11
+    ],
+    "text": "TiS RHO we Be ae",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      793,
+      447,
+      21
+    ],
+    "text": "LI) sligecretary.* meat the person for the time being |, *",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      816,
+      383,
+      14
+    ],
+    "text": ": holding office as-the Secretary. to.the Ministry",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      171,
+      833,
+      113,
+      13
+    ],
+    "text": "vf the Minister ;\",",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      860,
+      136,
+      10
+    ],
+    "text": "2A enon 18,028 0700)",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      175,
+      760,
+      273,
+      9
+    ],
+    "text": "HOR Wea pote: ea te Santini &",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      82,
+      774,
+      468,
+      15
+    ],
+    "text": "Annus! subscription of Bills and Laws of the Parliament: Rey 160 (Lots!)",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83,
+      789,
+      467,
+      14
+    ],
+    "text": "Re 200 (Foreiga), payehle to the Supranrenzenr, Govmuiaznt Pysacan0ns",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83,
+      801,
+      467,
+      15
+    ],
+    "text": "Boutau, P. 0. Box $20, Couomid 1, before 15th Dsibber gach year in respect",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      216,
+      817,
+      240,
+      12
+    ],
+    "text": "f\" of the year following.\" T iutcr.",
+    "mean_p_confidence": 0.26
+  }
+]

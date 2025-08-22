@@ -1,0 +1,673 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      279,
+      87,
+      86,
+      23
+    ],
+    "text": "ey)",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      281,
+      133,
+      79,
+      35
+    ],
+    "text": "OFo",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      124,
+      205,
+      394,
+      19
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      182,
+      238,
+      273,
+      18
+    ],
+    "text": "SOCIALIST REPUBLIC OF",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      264,
+      270,
+      121,
+      18
+    ],
+    "text": "SRI LANKA",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      176,
+      370,
+      281,
+      17
+    ],
+    "text": "NATIONAL INSTITUTE OF",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      165,
+      402,
+      309,
+      17
+    ],
+    "text": "PLANTATION MANAGEMENT",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      238,
+      434,
+      157,
+      23
+    ],
+    "text": "(AMENDMENT)",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      211,
+      465,
+      214,
+      20
+    ],
+    "text": "ACT, No. 76 OF 1981",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      206,
+      574,
+      225,
+      14
+    ],
+    "text": "[Certified on 29th December, 1981]",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      195,
+      627,
+      244,
+      14
+    ],
+    "text": "Printed on the Orders of Gaverament",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93,
+      718,
+      451,
+      15
+    ],
+    "text": "Published aa a Supplement to Part II of the Gazette of the Democratic",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      152,
+      732,
+      333,
+      14
+    ],
+    "text": "Socialist Ropublie of Sri Lanka of January 01, 1982",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      133,
+      789,
+      368,
+      10
+    ],
+    "text": "sem recto atm ernst se",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      129,
+      805,
+      375,
+      19
+    ],
+    "text": "TRUNTED AY Tian DEPARTMENT OF GOVERNMENT FAINTING, ORI LANKA",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      102,
+      832,
+      427,
+      21
+    ],
+    "text": "Price: 20 centa Postage: 50 cents",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      23,
+      381,
+      15
+    ],
+    "text": "Nationat institute of Plantation Management (Amendment)",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      206,
+      40,
+      122,
+      14
+    ],
+    "text": "Act, No. 76 of 198",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      155,
+      72,
+      223,
+      15
+    ],
+    "text": "[Certified on 29th December, 1981]",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      102,
+      104,
+      12
+    ],
+    "text": "L. DO, 99/80,",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      125,
+      383,
+      13
+    ],
+    "text": "Aw Act to aMenp T NaviowaL INStTTOTE OF PLANTATION",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      155,
+      142,
+      224,
+      14
+    ],
+    "text": "Manacement Act, No. 45 oF 1979.",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      170,
+      384,
+      14
+    ],
+    "text": "BI it enacted by the Parliament of the Democratic Socialist",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      188,
+      236,
+      14
+    ],
+    "text": "Republic af Sti Lanka 9s follows :",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      211,
+      447,
+      15
+    ],
+    "text": "1. This Act may be cited as the National Institute of Short title,",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      228,
+      384,
+      15
+    ],
+    "text": "Plantation Management (Amendment) Act, No, 76 of 1981.",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      260,
+      460,
+      28
+    ],
+    "text": "2. Section 6 of the National Institute of Plantation Amendment",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      278,
+      471,
+      18
+    ],
+    "text": "Management Act, No. 45 of 1979, (hereinafter referred to Of Act No. 45",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      298,
+      443,
+      15
+    ],
+    "text": "as the principal enactment) is hereby amended in gub- of 1872,",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      315,
+      384,
+      14
+    ],
+    "text": "section (I) of that section, by the substitution, for paragraph",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      333,
+      349,
+      13
+    ],
+    "text": "(8) of that subsection, of the following paragraph :",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      357,
+      318,
+      13
+    ],
+    "text": "\" (B) the following ex officio members namely",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      131,
+      381,
+      315,
+      14
+    ],
+    "text": "(i) the Chairman of the Sri Lanka Tea Board;",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      128,
+      405,
+      331,
+      13
+    ],
+    "text": "Gi) the Director of the Rubber Research Institute ;",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      124,
+      429,
+      327,
+      14
+    ],
+    "text": "(iil) the Director of the Coconut Research Board ;",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      124,
+      454,
+      334,
+      13
+    ],
+    "text": "(iv) the Chairman of the Tea Small Holdings",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      167,
+      471,
+      162,
+      13
+    ],
+    "text": "Development Authority ;",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      127,
+      495,
+      310,
+      13
+    ],
+    "text": "(v) the Director of the Tea Research Institute ;",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      124,
+      519,
+      253,
+      14
+    ],
+    "text": "(vi) the Director of the Institute; and",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      120,
+      544,
+      336,
+      14
+    ],
+    "text": "{vii} a representative from any of the Universiiies",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      167,
+      560,
+      290,
+      14
+    ],
+    "text": "nominated by the University Grants",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      167,
+      577,
+      96,
+      13
+    ],
+    "text": "Commission ;\".",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88,
+      609,
+      458,
+      14
+    ],
+    "text": "3. Section 12 of the principal enactment is hereby Replacement",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      620,
+      467,
+      27
+    ],
+    "text": "repealed and the following new section substituted of agctian ry",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      644,
+      447,
+      12
+    ],
+    "text": "therefor :~ principal",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      657,
+      460,
+      21
+    ],
+    "text": "Remunert- 12, The membera of the Institute shail be 'eat",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      679,
+      381,
+      20
+    ],
+    "text": "fiou und paid such remuneration for attending meet-",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      699,
+      381,
+      15
+    ],
+    "text": "ment of ings a3 may be determined by the Institute",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      712,
+      381,
+      20
+    ],
+    "text": "fxponsrsof with the approval of the Minister. The",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      733,
+      381,
+      13
+    ],
+    "text": "the Institute, members shall also be reimbursed by the",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      169,
+      749,
+      284,
+      13
+    ],
+    "text": "Instituts for such travelling, hotel and",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      168,
+      766,
+      285,
+      14
+    ],
+    "text": "incidental expenses ag they may incur for",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      168,
+      782,
+      285,
+      15
+    ],
+    "text": "the purpose of attending meetings of the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      169,
+      799,
+      337,
+      16
+    ],
+    "text": "Institute or for such other purposes connec- .",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      169,
+      816,
+      283,
+      13
+    ],
+    "text": "ted with the activittes of the Institute as may",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      168,
+      832,
+      202,
+      15
+    ],
+    "text": "be approved by the Institute.\"",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      859,
+      115,
+      11
+    ],
+    "text": "A.0677014,700 2106)",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79,
+      791,
+      475,
+      14
+    ],
+    "text": "annual aubscription of Bills and Laws of the Parliament Ra, 150 (Local),",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      78,
+      806,
+      476,
+      13
+    ],
+    "text": "Rs WO (Foreign), payable to the Surmunrennet Govennnens PUBLICATIONS",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79,
+      820,
+      475,
+      14
+    ],
+    "text": "buntau, #. U, Bux buy, GoLesde 1, Laure 191b December each year in respect",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      254,
+      837,
+      127,
+      11
+    ],
+    "text": "of the year following.",
+    "mean_p_confidence": 0.73
+  }
+]

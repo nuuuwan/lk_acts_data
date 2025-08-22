@@ -1,0 +1,387 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      270,
+      72,
+      92,
+      62
+    ],
+    "text": "Ce)",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      278,
+      136,
+      76,
+      34
+    ],
+    "text": "(eo",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115,
+      204,
+      388,
+      18
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      183,
+      240,
+      268,
+      18
+    ],
+    "text": "SOCIALIST REPUBLIC OF",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      252,
+      277,
+      119,
+      17
+    ],
+    "text": "SRI LANKA",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      133,
+      394,
+      358,
+      19
+    ],
+    "text": "CEYLON HOTELS CORPORATION",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      236,
+      427,
+      156,
+      24
+    ],
+    "text": "(AMENDMENT)",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      204,
+      459,
+      213,
+      20
+    ],
+    "text": "ACT, No. 31 OF 1983",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      216,
+      562,
+      328,
+      13
+    ],
+    "text": "[Certified on 19th Augnst, 1883} +",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      195,
+      615,
+      239,
+      13
+    ],
+    "text": "Printed on the Orders of Government",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78,
+      706,
+      476,
+      16
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the Demeeratic",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      151,
+      725,
+      330,
+      13
+    ],
+    "text": "Socialist Republic of Sri Lanka of August 19, 1983",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      132,
+      775,
+      369,
+      26
+    ],
+    "text": "warn ot wrurne Fbmear a",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83,
+      809,
+      460,
+      22
+    ],
+    "text": "(TO ME PURCHASED AT THE GOVERNMENT FUBUICATIONS BUREAU, COLOMBO z",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      105,
+      837,
+      423,
+      13
+    ],
+    "text": "Price: 20 rents Postage: 50 cents",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      573,
+      857,
+      2,
+      11
+    ],
+    "text": "'",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140,
+      26,
+      262,
+      14
+    ],
+    "text": "Ceyton Hotels Corporation (Amendment)",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      212,
+      48,
+      212,
+      16
+    ],
+    "text": "Act, No. 31 of 1983 ;",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      172,
+      76,
+      200,
+      14
+    ],
+    "text": "[Certified on 19th August, 1983]",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      97,
+      473,
+      12
+    ],
+    "text": "L, DO, 28/83. .",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      126,
+      379,
+      12
+    ],
+    "text": "AN Acy 10 AMEND THz CxvLon Horeta CosporaTion Act,",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      228,
+      146,
+      90,
+      11
+    ],
+    "text": "No, 14 oF 1968",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      171,
+      380,
+      13
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic Socialist",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      188,
+      404,
+      15
+    ],
+    "text": "Republic of Sri Lanka ag follows :",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96,
+      216,
+      444,
+      14
+    ],
+    "text": "L This Act may be cited es the Ceylon Hotels Corpora- short title,",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      233,
+      255,
+      13
+    ],
+    "text": "tion (Amendment) Act, No. $1 of 1003,",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      97,
+      269,
+      451,
+      21
+    ],
+    "text": "2 Subsection (1) of section 56 of the Ceylon Hotels Amendment",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      290,
+      466,
+      22
+    ],
+    "text": "Corporation Act, No, 14 of 1966, is hereby amended, by the of AciNo.14",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      302,
+      442,
+      30
+    ],
+    "text": "substitution for the words six months, of the words ten 7",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      332,
+      47,
+      17
+    ],
+    "text": "months,",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      852,
+      122,
+      16
+    ],
+    "text": "La mus ata.tcn aston",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      75,
+      787,
+      485,
+      15
+    ],
+    "text": "Annual aubseription of Bills and Laws of the Perliament Ra. 150 (Local),",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      75,
+      802,
+      485,
+      14
+    ],
+    "text": "Rs. 200 (Foreign), payable to the Scrcnniremens, Govmutatart PUinscaTiOns",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      75,
+      815,
+      485,
+      14
+    ],
+    "text": "Buaeau, P. 0, Box 500, Cowontso 1, before 1Sth December exch yuar in respect",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      254,
+      830,
+      127,
+      13
+    ],
+    "text": "of the year iollowing",
+    "mean_p_confidence": 0.67
+  }
+]

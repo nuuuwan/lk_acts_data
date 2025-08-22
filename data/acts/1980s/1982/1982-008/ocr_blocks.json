@@ -1,0 +1,783 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      106,
+      205,
+      377,
+      17
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      166,
+      236,
+      261,
+      18
+    ],
+    "text": "SOCIALIST REPUBLIC OF",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      237,
+      267,
+      118,
+      17
+    ],
+    "text": "SRI LANKA",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      142,
+      367,
+      291,
+      24
+    ],
+    "text": "_ NATIONAL SAVINGS BANK",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      220,
+      406,
+      306,
+      34
+    ],
+    "text": "(AMENDMENT)",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      197,
+      465,
+      199,
+      19
+    ],
+    "text": "ACT, No. 8 OF 1982",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      90,
+      556,
+      313,
+      23
+    ],
+    "text": ". . [Certified on 23rd February, 1982]",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      179,
+      606,
+      315,
+      13
+    ],
+    "text": "Printed on the Orders of Government +",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      79,
+      700,
+      437,
+      15
+    ],
+    "text": "Pubtished as Supplement to Part II of the Gazette of the Demecratic",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      129,
+      717,
+      331,
+      14
+    ],
+    "text": "Socialist Republic of Sti Lanka of February 26, 1983",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      112,
+      775,
+      361,
+      9
+    ],
+    "text": "TED AT THE DEDARTAENET OF COVERING PRINEG, Et 2AMEA",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70,
+      790,
+      455,
+      19
+    ],
+    "text": "jo we Fesause of HIS cove Ponscarion nora, comeumo",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      92,
+      818,
+      410,
+      14
+    ],
+    "text": "Price; 35 cents Postage: 58 cents",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92,
+      41,
+      431,
+      14
+    ],
+    "text": ": National Savings Bonk (Amendment) :",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      224,
+      54,
+      214,
+      27
+    ],
+    "text": "Act, No. 8 of 1982. .",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      173,
+      82,
+      207,
+      15
+    ],
+    "text": "[Cortifed on 23rd Februsty, 1902]",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92,
+      102,
+      413,
+      17
+    ],
+    "text": "L, DO. 8/81. oe",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      106,
+      127,
+      365,
+      23
+    ],
+    "text": "An Act 10 asain THz Namonat Savavcs Bank Act, .",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      228,
+      148,
+      93,
+      11
+    ],
+    "text": "No. 30 oF 1071,",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      172,
+      382,
+      13
+    ],
+    "text": "BE it enacted by the Parliament of the Democeatic Socialist -",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      188,
+      234,
+      13
+    ],
+    "text": "Republic of Sri Lanka as follows :",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      103,
+      212,
+      430,
+      15
+    ],
+    "text": "1 This Act may be cited as the National Savings Bank Short title.",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92,
+      229,
+      201,
+      13
+    ],
+    "text": "jAmendment) Act, No, B of 1982.",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      102,
+      253,
+      439,
+      13
+    ],
+    "text": "2 Section 47 of the Natlonal Savings Bank Act, Na, 30 Amendment",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      261,
+      441,
+      29
+    ],
+    "text": "of 1971, is hereby amended 96 follows : gen",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      104,
+      286,
+      443,
+      20
+    ],
+    "text": "(@) by the repeal of subsection (2) of that section and 739,No. 39 ot",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139,
+      305,
+      318,
+      14
+    ],
+    "text": "the substitution therefor, of the following new",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139,
+      322,
+      85,
+      11
+    ],
+    "text": "subsection :",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      152,
+      342,
+      304,
+      13
+    ],
+    "text": "* (2) Before any moneys, whieh aggregate to ten",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      359,
+      369,
+      12
+    ],
+    "text": ". rupees or more lying in an account are transferred:",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139,
+      375,
+      317,
+      13
+    ],
+    "text": "im accordance with the provisions of subsection",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      141,
+      391,
+      315,
+      13
+    ],
+    "text": "(), the Bank shal] send 2 written communteation",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139,
+      407,
+      366,
+      14
+    ],
+    "text": "to the last known address of the person whose :",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      138,
+      424,
+      319,
+      13
+    ],
+    "text": "account has lain dormant, intimating its intention",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139,
+      440,
+      334,
+      15
+    ],
+    "text": "to transfer such moneys to the Unclaimed Deposita",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140,
+      456,
+      316,
+      13
+    ],
+    "text": "Fund, and if no reply is received within three",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      138,
+      473,
+      319,
+      11
+    ],
+    "text": "months after the date on which such written",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      138,
+      489,
+      319,
+      13
+    ],
+    "text": "communication is sent, publish a notice in the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140,
+      506,
+      316,
+      13
+    ],
+    "text": "Sinhala, Tamil end English languages in the",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      138,
+      522,
+      319,
+      13
+    ],
+    "text": "Gazette stating the name of the pervon in whose",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      137,
+      538,
+      319,
+      14
+    ],
+    "text": "favour the account stands, the fact that the account",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      137,
+      555,
+      319,
+      13
+    ],
+    "text": "has lain dormant for a period of seven years, and",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      137,
+      572,
+      400,
+      13
+    ],
+    "text": "that it is intended on a specified date to transfer .",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      137,
+      587,
+      318,
+      13
+    ],
+    "text": "the moneys lying in that account to the Unclaimed",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      137,
+      604,
+      318,
+      13
+    ],
+    "text": "Deposits Fund under the provisions of subsection",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140,
+      621,
+      38,
+      12
+    ],
+    "text": "@.\";",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      101,
+      640,
+      354,
+      14
+    ],
+    "text": "{b) by the repeal of subsection (3) of that section and",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      137,
+      657,
+      318,
+      13
+    ],
+    "text": "the substitution therefor, of the following new",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      137,
+      674,
+      86,
+      11
+    ],
+    "text": "subsection :",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      150,
+      693,
+      305,
+      15
+    ],
+    "text": "(3) Any moneys transferred to the Unclaimed",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      138,
+      709,
+      317,
+      15
+    ],
+    "text": "Deposits Fund or any moneys transferred to a",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      138,
+      726,
+      317,
+      15
+    ],
+    "text": "special reserve under paragraph (a) of subsection",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140,
+      742,
+      379,
+      17
+    ],
+    "text": "() may be retransferred to the account in which Y",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      138,
+      758,
+      318,
+      16
+    ],
+    "text": "it was originally lying, at the instance of any",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      138,
+      774,
+      318,
+      17
+    ],
+    "text": "person who furnishes proof to the satisfaction of",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139,
+      791,
+      317,
+      14
+    ],
+    "text": "the Board that the account was in his name or in",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      138,
+      807,
+      318,
+      15
+    ],
+    "text": "the nume of the person from whore he derives",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139,
+      826,
+      206,
+      17
+    ],
+    "text": "title\": and : :",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      97,
+      843,
+      127,
+      13
+    ],
+    "text": "2A ote 14,pp0 8/0)",
+    "mean_p_confidence": 0.02
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      97,
+      37,
+      381,
+      21
+    ],
+    "text": "2 National Savings Bank (Amendment) \" *'",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      233,
+      64,
+      108,
+      13
+    ],
+    "text": "Act, No, 8 of 1982",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      351,
+      79,
+      105,
+      10
+    ],
+    "text": "Tas CECE",
+    "mean_p_confidence": 0.02
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      113,
+      96,
+      364,
+      15
+    ],
+    "text": "(2) by the repeal of subsection (5) of thint section and the",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      150,
+      113,
+      326,
+      13
+    ],
+    "text": "substitution - therefor, of the following new",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      164,
+      148,
+      312,
+      20
+    ],
+    "text": "(5) Any moneys transferred to a spectal",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      150,
+      171,
+      328,
+      14
+    ],
+    "text": ":eserve under subsection (4) may be-retransferred",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      151,
+      187,
+      332,
+      14
+    ],
+    "text": "to the account in which # was originally lying at~",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      140,
+      204,
+      336,
+      14
+    ],
+    "text": "+ the instance.of any person who furnishes proof to",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      152,
+      221,
+      324,
+      12
+    ],
+    "text": "the satisfaction of the Board that the account was",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      152,
+      237,
+      324,
+      14
+    ],
+    "text": "in his name or in the name of a person from whom",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      99,
+      251,
+      368,
+      15
+    ],
+    "text": "he derives title. soN",
+    "mean_p_confidence": 0.29
+  }
+]

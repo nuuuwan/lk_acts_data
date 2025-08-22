@@ -1,0 +1,783 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      121,
+      199,
+      389,
+      18
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      179,
+      227,
+      269,
+      18
+    ],
+    "text": "SOCIALIST REPUBLIC OF",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      251,
+      255,
+      120,
+      18
+    ],
+    "text": "SRI LANKA",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      124,
+      354,
+      378,
+      18
+    ],
+    "text": "WIDOWS AND ORPHANS PENSION",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      171,
+      386,
+      287,
+      24
+    ],
+    "text": "SCHEME (ARMED FORCES)",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      221,
+      417,
+      279,
+      26
+    ],
+    "text": "_ (AMENDMENT)",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      209,
+      450,
+      214,
+      21
+    ],
+    "text": "ACT, No. 18 OF 1985",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      227,
+      554,
+      180,
+      15
+    ],
+    "text": "[Certified on 10th May, 1985]",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      195,
+      608,
+      245,
+      14
+    ],
+    "text": "Printed on the Orders of Government",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80,
+      702,
+      477,
+      14
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the Demecratic",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      169,
+      719,
+      300,
+      14
+    ],
+    "text": "Socialist Republic of Sri Lanka of May 10, 1985",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      134,
+      784,
+      372,
+      9
+    ],
+    "text": "sm ce sms ata",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      110,
+      797,
+      418,
+      28
+    ],
+    "text": "30 BE PURCHAGED AT XHE QOWMNMENT FURLICATIONS BUREAU, COLOMEO",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      82,
+      822,
+      479,
+      30
+    ],
+    "text": "Price : 45 conte . Postage : 0 centa",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      113,
+      10,
+      322,
+      14
+    ],
+    "text": "Widows and Orphans Pension Scheme (Armed",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      137,
+      27,
+      272,
+      15
+    ],
+    "text": "Forces) (Amendment) Aot, No, 18 of 1985",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115,
+      52,
+      253,
+      18
+    ],
+    "text": ". [Certified on 10th May, 1985]",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      73,
+      235,
+      21
+    ],
+    "text": "LD-O, 2H",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      97,
+      101,
+      352,
+      12
+    ],
+    "text": "Aw-Acr 70 AMEND ne Winows axp OnrHans Pexsion",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88,
+      118,
+      330,
+      14
+    ],
+    "text": "1 Scmrmm (AnMep Forces) Act, No. 18 or 1970",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      142,
+      378,
+      14
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic Socialist",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      158,
+      263,
+      15
+    ],
+    "text": "Republic of Sci Lanka.as follows :-",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      97,
+      187,
+      441,
+      14
+    ],
+    "text": "1, This Act may be cited as the Widows and Orphans Short title,",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      204,
+      379,
+      14
+    ],
+    "text": "Pension Scheme (Armed Forces) (Amendment) Act,",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      220,
+      174,
+      12
+    ],
+    "text": "No. 18 of 1985. . we",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      97,
+      250,
+      430,
+      20
+    ],
+    "text": "2 The following new section is hereby inserted imine- Iqsertion",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      269,
+      430,
+      15
+    ],
+    "text": "diately after section 3 of the Widows and Orphans Pension section",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      284,
+      449,
+      20
+    ],
+    "text": "Scheme (Armed Forces) Act, No. 18 of 1070, and shall have 34 fn Act",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      302,
+      419,
+      13
+    ],
+    "text": "effect as section 3a thereof : 1970,",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      331,
+      379,
+      20
+    ],
+    "text": "Extention 34(1) Any person who became a member",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      338,
+      378,
+      31
+    ],
+    "text": "Penton of the armed forces on or before September",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      360,
+      383,
+      27
+    ],
+    "text": "Scheme 30, 1968, and who continued to serve as such",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      376,
+      380,
+      20
+    ],
+    "text": "Bur mem. -- member after the said date, or who may have",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      398,
+      379,
+      14
+    ],
+    "text": "bers wha subsequently retired, and who under the pro-",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      410,
+      379,
+      22
+    ],
+    "text": "Eiog visions of subsection (1) of section 3, had",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      432,
+      380,
+      11
+    ],
+    "text": "inservice, elected not to he a contributor to the Peasion",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      439,
+      384,
+      34
+    ],
+    "text": "faye? Scheme established in accordance with the",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      455,
+      384,
+      31
+    ],
+    "text": "retized regulations, may, within a period of two",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      477,
+      380,
+      19
+    ],
+    "text": "or died, years from the date of coming into operation",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      181,
+      498,
+      282,
+      14
+    ],
+    "text": "of this section, elect to be a contributor to",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      180,
+      515,
+      167,
+      11
+    ],
+    "text": "the said Pension Scheme :",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      192,
+      547,
+      273,
+      15
+    ],
+    "text": "Provided that, where any person who was",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      180,
+      564,
+      284,
+      12
+    ],
+    "text": "a member of the. armed forces in the cir-",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      182,
+      580,
+      283,
+      14
+    ],
+    "text": "cumstances specified above, has died prior to",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      181,
+      597,
+      284,
+      15
+    ],
+    "text": "the coming into operation of this section, or",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      182,
+      614,
+      284,
+      14
+    ],
+    "text": "dies before making an election under the",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      630,
+      379,
+      16
+    ],
+    "text": ". preceding provisions of this subsection, such",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      180,
+      647,
+      286,
+      15
+    ],
+    "text": "person shall if he leaves a wife or child, or a",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      180,
+      665,
+      302,
+      13
+    ],
+    "text": "wife and child, or a wife and children, be ~",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      180,
+      681,
+      286,
+      13
+    ],
+    "text": "deemed to have elected to be e contributor",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      180,
+      699,
+      154,
+      11
+    ],
+    "text": "to the Pension Scheme.",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      196,
+      736,
+      271,
+      14
+    ],
+    "text": "(2) Any penton who elects to become a",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      182,
+      752,
+      286,
+      14
+    ],
+    "text": "contributor, or in the case of persons who",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      181,
+      769,
+      287,
+      12
+    ],
+    "text": "are deemed to have elected to become",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      183,
+      786,
+      286,
+      13
+    ],
+    "text": "contributors cf the Pension Scheme, the",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      181,
+      803,
+      287,
+      14
+    ],
+    "text": "person administering the affairs of such",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      181,
+      819,
+      288,
+      15
+    ],
+    "text": "deceased person shall pay to the Scheme all",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      95,
+      840,
+      112,
+      12
+    ],
+    "text": "A 082R408,90089/0%)",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      176,
+      10,
+      352,
+      17
+    ],
+    "text": "2 Widows and Orphan Pension Scheme (Armed",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      228,
+      29,
+      277,
+      14
+    ],
+    "text": "Forces) (Amendment) Act, No, 28 of 1985",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      265,
+      48,
+      192,
+      13
+    ],
+    "text": "eb ae PED a ae per |",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      273,
+      63,
+      284,
+      13
+    ],
+    "text": "arrears of contributions for the period com-",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      272,
+      79,
+      284,
+      14
+    ],
+    "text": "mencing from October 1, 1968, until the date",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      272,
+      96,
+      284,
+      13
+    ],
+    "text": "af election, retirement or. death, as the case",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      272,
+      113,
+      284,
+      13
+    ],
+    "text": "may -be, with. interest thereon at four per",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      266,
+      130,
+      235,
+      19
+    ],
+    "text": "seentum, per amar. ue",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      287,
+      156,
+      269,
+      15
+    ],
+    "text": "(3) Am lction maie under the provisions",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      263,
+      174,
+      272,
+      20
+    ],
+    "text": "* of subsection (1) shall be final. ;",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      276,
+      203,
+      280,
+      14
+    ],
+    "text": "(4) The provisions of this section hall",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      270,
+      219,
+      285,
+      14
+    ],
+    "text": "have effect notwithstanding anything to'the",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      271,
+      236,
+      272,
+      13
+    ],
+    "text": "contrary contained in section 3 of this Act.\".",
+    "mean_p_confidence": 0.71
+  }
+]

@@ -1,0 +1,431 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      262,
+      52,
+      93,
+      55
+    ],
+    "text": "Ge",
+    "mean_p_confidence": 0.08
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      99,
+      204,
+      394,
+      20
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      157,
+      242,
+      273,
+      19
+    ],
+    "text": "SOCIALIST REPUBLIC OF",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      239,
+      275,
+      121,
+      18
+    ],
+    "text": "SRI LANKA",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68,
+      343,
+      461,
+      18
+    ],
+    "text": "NATIONAL HEALTH DEVELOPMENT FUND",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      214,
+      371,
+      158,
+      25
+    ],
+    "text": "(AMENDMENT)",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      184,
+      407,
+      221,
+      21
+    ],
+    "text": "ACT, No. 17 OF 1984",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      199,
+      533,
+      255,
+      15
+    ],
+    "text": "[Certified on 26th April, 1984] .",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      171,
+      595,
+      252,
+      14
+    ],
+    "text": "Printed ot the Orders of Government",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      55,
+      711,
+      480,
+      17
+    ],
+    "text": "Published as a Supplement to Part I of the Gaxette of the Democratic",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      142,
+      729,
+      311,
+      16
+    ],
+    "text": "Socialist Republic of Sri Lanka of April 27, 1984",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      110,
+      781,
+      376,
+      11
+    ],
+    "text": "ve tor",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      119,
+      807,
+      357,
+      11
+    ],
+    "text": "So ee",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      84,
+      827,
+      426,
+      15
+    ],
+    "text": "Price: 30 centa Postage: 68 cents",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96,
+      30,
+      327,
+      14
+    ],
+    "text": "National Health Development Fund (Amendment)",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      44,
+      385,
+      18
+    ],
+    "text": "i Act, No, 17 of 1984 L",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      68,
+      387,
+      16
+    ],
+    "text": ": [Certified on 26th April, 1994] .",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      94,
+      178,
+      13
+    ],
+    "text": "LDO. 15/88 .",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      118,
+      384,
+      12
+    ],
+    "text": "Aw Act 70 ausenp mie Nartowat, Hiaura Devewornonr Foro",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      200,
+      135,
+      125,
+      14
+    ],
+    "text": "Act, No, 15 oF 1981",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      166,
+      384,
+      15
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic Socialist",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      184,
+      234,
+      14
+    ],
+    "text": "Republic of Sri Lanka as follows :",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      208,
+      452,
+      18
+    ],
+    "text": "1. This Act may be cited as the National Health Deve- short title.",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      228,
+      320,
+      15
+    ],
+    "text": "Jopment Fund (Amendment) Act, No. 17 of 1984,",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      256,
+      458,
+      28
+    ],
+    "text": "2 Section 5 of the National Health Development Fund Amendment",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      277,
+      454,
+      15
+    ],
+    "text": "Act, No, 13 of 1981, is hereby amended by the insertion Section 5",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      292,
+      478,
+      21
+    ],
+    "text": "framediately after paragraph (b) of that section af the of Ast No. 18",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      311,
+      156,
+      15
+    ],
+    "text": "following paragraph :",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      336,
+      371,
+      14
+    ],
+    "text": "* (Bt) with the concurrence af the Minister borrow",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122,
+      353,
+      363,
+      15
+    ],
+    "text": "by way of Joan or otherwise from any bank",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      124,
+      369,
+      330,
+      15
+    ],
+    "text": "or lending institution, such sums of money for the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      123,
+      386,
+      330,
+      15
+    ],
+    "text": "purposes specified in section 7 subject to the",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      124,
+      402,
+      330,
+      14
+    ],
+    "text": "condition that the total amount of such borrowing",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      124,
+      419,
+      329,
+      14
+    ],
+    "text": "shall not exceed the aggregate of its assets in fixed",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      437,
+      99,
+      16
+    ],
+    "text": "_ deposit\",",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77,
+      776,
+      479,
+      14
+    ],
+    "text": "Annual subscription of Bila and Lawa of the Parliament Rs. 180 (Local).",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      78,
+      792,
+      478,
+      14
+    ],
+    "text": "Re. 200 (Foreign), payable to the Surenmrraxnent, Government Pusticariona",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      78,
+      804,
+      479,
+      14
+    ],
+    "text": "Buszay, P. 0. Box 500, Covascao 1, before 15th December each year in resoect",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      265,
+      820,
+      127,
+      13
+    ],
+    "text": "of the year following,",
+    "mean_p_confidence": 0.69
+  }
+]

@@ -1,0 +1,981 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      244,
+      91,
+      93,
+      28
+    ],
+    "text": "are",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      249,
+      108,
+      88,
+      41
+    ],
+    "text": "ey",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      92,
+      203,
+      399,
+      19
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      158,
+      241,
+      277,
+      18
+    ],
+    "text": "SOCIALIST REPUBLIC OF",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      226,
+      278,
+      125,
+      17
+    ],
+    "text": "SRI LANKA",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      99,
+      384,
+      387,
+      18
+    ],
+    "text": "MAHAWELI DEVELOPMENT BOARD",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      240,
+      413,
+      183,
+      31
+    ],
+    "text": "(REPEAL) :",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      174,
+      465,
+      221,
+      20
+    ],
+    "text": "ACT, No. 38 OF 1983",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      91,
+      567,
+      461,
+      15
+    ],
+    "text": "a [Certified on 6th October, 1983) = ~y",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      85,
+      593,
+      331,
+      14
+    ],
+    "text": "a Printed on the Orders of Government",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      57,
+      686,
+      501,
+      14
+    ],
+    "text": "Published as 4 Supplement to Part Ii of the Gazette of the Democratic",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      119,
+      704,
+      347,
+      22
+    ],
+    "text": "Socialist Republic of Sri Lanka of October 07, 1983",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      102,
+      748,
+      463,
+      37
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF QOVERNMCENT PRINTING, SAT LANEA -",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      95,
+      791,
+      401,
+      14
+    ],
+    "text": "70 aE FORCEASED AT Zap COVENANT FORLICANIONS EUREAW, COLOMBO",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83,
+      816,
+      440,
+      12
+    ],
+    "text": "Price: 35 cents Postage: 50 cents",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      146,
+      16,
+      255,
+      15
+    ],
+    "text": "Mahawelt Devetopment Board (Repeal)",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      214,
+      34,
+      122,
+      14
+    ],
+    "text": "Act, No. 38 of 1983",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      174,
+      54,
+      201,
+      15
+    ],
+    "text": "[Certified on 6th October, 1983]",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      76,
+      99,
+      13
+    ],
+    "text": "L. Dn0, 12/88.",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      97,
+      382,
+      11
+    ],
+    "text": "Aw AGT 0 PROVIDE. FOR THE CONTINUANCE OF THE EMPLOYMENT",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      97,
+      112,
+      368,
+      13
+    ],
+    "text": "OF THR OFFICERS AND EMPLOYEES OF THE MAHAWELI",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      97,
+      129,
+      368,
+      12
+    ],
+    "text": "Davenorment Boanb IN THE SERVICE OF THE MAMAWELI",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      97,
+      147,
+      368,
+      13
+    ],
+    "text": "AUTHORITY OF SRI LANKA; FOR THE TRANSFER OF ALL HE",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98,
+      165,
+      367,
+      12
+    ],
+    "text": "ASSETS, LIABILITIES, PROPERTY, RIGHTS AND OBLIGATIONS OF THE",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      97,
+      179,
+      368,
+      12
+    ],
+    "text": "Maxaweix DevevorMenr Boar> to THe) MaHAWaLt",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      97,
+      197,
+      368,
+      13
+    ],
+    "text": "Aumonry or Sar LANKA; FOR THE REPEAL OF THE",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98,
+      213,
+      367,
+      14
+    ],
+    "text": "Manawstt Devetorment Boaup Act, No. 14 oF 1970, ann",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      97,
+      232,
+      368,
+      9
+    ],
+    "text": "FOR MATTERS CONNECTED THEREWITH OR INCIDENTAL THERETO,",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      253,
+      381,
+      15
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      271,
+      298,
+      14
+    ],
+    "text": "Socialist Republic of Sri Lenka as follows :",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      97,
+      294,
+      446,
+      16
+    ],
+    "text": "1 This Act may be clted as the Mehnweli Development Short, .",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      305,
+      459,
+      21
+    ],
+    "text": "Board (Repeal) Act, No. 38 of 1983, and shall come into Stead",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      327,
+      458,
+      16
+    ],
+    "text": "operation on such date as the Minister may appoint by operation, -",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      345,
+      382,
+      15
+    ],
+    "text": "Order published in the Gazette (hereinafter referred to as",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      363,
+      446,
+      15
+    ],
+    "text": "the appointed date\"). .",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96,
+      385,
+      448,
+      16
+    ],
+    "text": "2 (@) All officers and other employees in tha employ- Employees,",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      397,
+      450,
+      22
+    ],
+    "text": "ment of the Mahaweli Development Board (hereinafter {oes",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      419,
+      461,
+      20
+    ],
+    "text": "referred to as the Board ) on the day immediately prece- obligations,",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      437,
+      465,
+      14
+    ],
+    "text": "ding the appointed date shall, with effect trom the appointed Droperiy of",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      447,
+      442,
+      30
+    ],
+    "text": "date, be deemed to be employees in the service of the a ing",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      470,
+      437,
+      14
+    ],
+    "text": "Mahaweli Authority of Sri Lanka (hereinafter referred to action:",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      483,
+      438,
+      23
+    ],
+    "text": "as the Authority\") subject to terms and conditions not PY or,",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      501,
+      455,
+      16
+    ],
+    "text": "Jess favourable than the terms and conditions attaching to decrees or",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      516,
+      450,
+      21
+    ],
+    "text": "their employment under the Board. pers",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99,
+      539,
+      426,
+      21
+    ],
+    "text": "() All contracts and agreements entered into by, with {cfc",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      555,
+      453,
+      29
+    ],
+    "text": "or for the Board shall be deemed to be contracts and agree- she Board",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      578,
+      441,
+      15
+    ],
+    "text": "ments of the Authority, and all rights, privileges, obliga- deemed",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      593,
+      458,
+      22
+    ],
+    "text": "tions, debts and liabilities of the Board subsisting on the 'be",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      607,
+      461,
+      19
+    ],
+    "text": "day immediately preceding the appointed date shall be ccniracts,",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      626,
+      430,
+      20
+    ],
+    "text": "deemed to be the rights, privileges, obligations, debis and",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      646,
+      456,
+      14
+    ],
+    "text": "lishilitles of the Authority. ulhority.",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99,
+      669,
+      366,
+      15
+    ],
+    "text": "() All movable property (including moneys in the Fund",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      686,
+      382,
+      15
+    ],
+    "text": "of the Board and moneys lying to the credit of the Board",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      704,
+      382,
+      13
+    ],
+    "text": "in any Bank or other institution) and immovable property",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      720,
+      382,
+      14
+    ],
+    "text": "which has been vested in or purchased or acquired by or",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      737,
+      382,
+      14
+    ],
+    "text": "leased to or placed at the disposal of the Board or in any",
+    "mean_p_confidence": 0.88
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      754,
+      383,
+      14
+    ],
+    "text": "manner transferred to the Board or in the possession or",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      771,
+      383,
+      13
+    ],
+    "text": "control of the Board shail, subject to any terms and condi-",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      787,
+      382,
+      14
+    ],
+    "text": "tions attaching to such property and subsisting on the day",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      804,
+      382,
+      14
+    ],
+    "text": "immediately preceding the appointed date be deemed",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      821,
+      233,
+      14
+    ],
+    "text": "to be the property of the Authority.",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      837,
+      352,
+      17
+    ],
+    "text": "2A 7HO0311,00085 08) 7",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      173,
+      12,
+      315,
+      14
+    ],
+    "text": "2 Mahaweli Development Board (Repeal)",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      300,
+      29,
+      268,
+      13
+    ],
+    "text": "Act, No, 38 of 1983",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      188,
+      59,
+      365,
+      16
+    ],
+    "text": "(@) Any action, matter, proceeding or thing instituted by",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      172,
+      76,
+      381,
+      15
+    ],
+    "text": "or against the Board or to which the Board is a party ond",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      172,
+      93,
+      381,
+      14
+    ],
+    "text": "pending on the day immediately preceding the appointed",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      172,
+      109,
+      382,
+      15
+    ],
+    "text": "date shall, with effect from the appointed date, be deemed to",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      172,
+      126,
+      382,
+      14
+    ],
+    "text": "he an action, matter, proveeding or thing instituted by or",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      172,
+      143,
+      382,
+      14
+    ],
+    "text": "against the Authority or to which the Authority fs a party.",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      188,
+      170,
+      367,
+      14
+    ],
+    "text": "(@) Any decree, order or award entered or made in",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      172,
+      187,
+      383,
+      14
+    ],
+    "text": "favour of or against the Board by any court or tribunal or",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      172,
+      203,
+      383,
+      14
+    ],
+    "text": "other body in any action, matter, proceeding or thing shall,",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      173,
+      220,
+      382,
+      14
+    ],
+    "text": "with effect from the appointed date, be deemed to be 4",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      172,
+      236,
+      383,
+      14
+    ],
+    "text": "decree; order or award entered or made in favour of or",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      172,
+      253,
+      143,
+      14
+    ],
+    "text": "against the Authority,",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      73,
+      277,
+      482,
+      30
+    ],
+    "text": "Repeal at 3. The Mshweli Development Board Act, No. 14 of 1970,",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      73,
+      295,
+      220,
+      29
+    ],
+    "text": "Develop- is hereby repealed.",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      78,
+      316,
+      29,
+      9
+    ],
+    "text": "ment",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77,
+      326,
+      65,
+      21
+    ],
+    "text": "Ae Ma, 14",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      74,
+      365,
+      218,
+      32
+    ],
+    "text": "Ipterprota- 4 In this Act",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      81,
+      391,
+      475,
+      19
+    ],
+    "text": ". Maheweli Authority of Sri Lanka means the Mahawel",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      227,
+      413,
+      330,
+      14
+    ],
+    "text": "Authority of Sri Lanka established under the",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      81,
+      429,
+      476,
+      15
+    ],
+    "text": "' Mahawelt Authority of Sti Lanka Act, No. 23 of",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      76,
+      446,
+      213,
+      13
+    ],
+    "text": ". 1979; and",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      105,
+      474,
+      452,
+      16
+    ],
+    "text": ". Mahawell Development Board means the Mahawell",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      112,
+      491,
+      445,
+      13
+    ],
+    "text": ": Development Board established under the Maha-",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      87,
+      508,
+      470,
+      13
+    ],
+    "text": ": weli Development Board Act, No. 14 of 1970, as",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93,
+      524,
+      331,
+      16
+    ],
+    "text": "a amended by Act No. 3-of 1976,",
+    "mean_p_confidence": 0.64
+  }
+]

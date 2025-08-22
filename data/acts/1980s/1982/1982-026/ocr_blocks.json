@@ -1,0 +1,3313 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      115,
+      204,
+      380,
+      20
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      175,
+      248,
+      263,
+      18
+    ],
+    "text": "SOCIALIST REPUBLIC OF",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      249,
+      288,
+      118,
+      17
+    ],
+    "text": "SRI LANKA",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      147,
+      378,
+      320,
+      17
+    ],
+    "text": "SURCHARGE ON INCOME TAX",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      203,
+      429,
+      211,
+      20
+    ],
+    "text": "ACT, No, 26 OF 1982",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      205,
+      536,
+      203,
+      14
+    ],
+    "text": "[Certified om 10th August, 1982]",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      181,
+      581,
+      350,
+      21
+    ],
+    "text": "Printed on the ordere of Goverument i",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      75,
+      658,
+      462,
+      41
+    ],
+    "text": "Published as a Supplement to Part I ofthe Gazette ef the Democrat",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      154,
+      701,
+      305,
+      13
+    ],
+    "text": "Socialist Republic of Sri Lanka of August 13, 1962",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      126,
+      751,
+      365,
+      26
+    ],
+    "text": "srr A 7m: DePAEMEOT OF COVER FENG, ZANEA",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      137,
+      780,
+      404,
+      19
+    ],
+    "text": "10 ME PURCHASED ax Ta GOTT, FUBCIOATIONS BUREAG, COLORED",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      99,
+      809,
+      419,
+      14
+    ],
+    "text": "Price: 65 cents Postage: 50 cents",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      117,
+      24,
+      283,
+      14
+    ],
+    "text": "Surcharge on Income Tax Act, No. 26 of 1982",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88,
+      57,
+      404,
+      14
+    ],
+    "text": "tts [Certified on 10th August, 3682} .",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      77,
+      271,
+      13
+    ],
+    "text": "Le. DwO, 18/82.) >",
+    "mean_p_confidence": 0.06
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      101,
+      371,
+      11
+    ],
+    "text": "An ACT To IMPosE A SURCHARGE GN EVERY PERSON CHARGEAHLE",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      120,
+      358,
+      8
+    ],
+    "text": "WITH TNCORKE TAX TOR THE YEAR OF ASSESSMENT COMMEN-",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      134,
+      358,
+      12
+    ],
+    "text": "cin OW APRIL 1, 1981 BY REFERENCE TO THE INCOME TAX",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      152,
+      359,
+      10
+    ],
+    "text": "PAYABLE BY SUCH PERSON YOU THAT YEAR OF ASHESSMENT ;",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      168,
+      359,
+      9
+    ],
+    "text": "AND 10 PROVIDE FOR MATTERS CONNECTED THEREWITH OR",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      184,
+      123,
+      8
+    ],
+    "text": "DXCIDENTAL THERETO.",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      205,
+      419,
+      23
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic Socialist .",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      226,
+      234,
+      13
+    ],
+    "text": "Repubite of Sri Lanka as follows:-",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      257,
+      405,
+      14
+    ],
+    "text": "1. This Act may be cited es the Surcharge on Income short",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      271,
+      411,
+      16
+    ],
+    "text": "Tax Act, No, 26 of 1982, : . title,",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      305,
+      434,
+      14
+    ],
+    "text": "2. Every person who is chargeable with income tax for Imposition",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      317,
+      441,
+      22
+    ],
+    "text": "the year of assessment commencing om April 1, 1981 (in vnsege",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      338,
+      442,
+      13
+    ],
+    "text": "this Act referred to os the relevant year) shall, notwith- onincame",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      350,
+      408,
+      18
+    ],
+    "text": "standing anything contained in any other written law or",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      369,
+      372,
+      15
+    ],
+    "text": "in any convention, grartt or agreement, be Hable to pay @",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      386,
+      372,
+      14
+    ],
+    "text": "surcharge on the income tex payable by him for the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      403,
+      372,
+      13
+    ],
+    "text": "relevant year, calculated at the rates specified in the First",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      415,
+      222,
+      22
+    ],
+    "text": "Schedule to this Act. .",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      450,
+      428,
+      18
+    ],
+    "text": "& Where the aggregate of . Reliefs in",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      470,
+      403,
+      26
+    ],
+    "text": "(a) the income tax payable for the relevant year; and ase",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      503,
+      422,
+      16
+    ],
+    "text": "{b) the durcharge on income tax payable under this .",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      120,
+      518,
+      218,
+      22
+    ],
+    "text": "Act, .",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      545,
+      373,
+      14
+    ],
+    "text": "by any person referred to in Column I of the Second",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      561,
+      374,
+      14
+    ],
+    "text": "Schedule to this Act, being a person whose taxable income",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      577,
+      375,
+      14
+    ],
+    "text": "for the relevant year does. not exceed the amount specified",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      593,
+      374,
+      14
+    ],
+    "text": "tn the corresponding entry in Column IT of that Schedule,",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      606,
+      286,
+      22
+    ],
+    "text": "exceeds the difference between' .",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88,
+      633,
+      359,
+      15
+    ],
+    "text": "@) the taxeble incorne of such person for the relevant",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      648,
+      298,
+      19
+    ],
+    "text": ". yeor, ond weep te",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      673,
+      362,
+      14
+    ],
+    "text": "(li) the amount specified in the corresponding entry in",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      126,
+      689,
+      187,
+      13
+    ],
+    "text": "Column FIE of that Schedule,",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      708,
+      437,
+      23
+    ],
+    "text": "the amount of such excess shall be deducted from the .",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      728,
+      360,
+      18
+    ],
+    "text": "emnount of the surcharge payable by him under this Act,",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      752,
+      361,
+      15
+    ],
+    "text": "For the purposes of this section, every reference to the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      768,
+      372,
+      15
+    ],
+    "text": "taxable imeome of a person for the relevant year shall, in",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      784,
+      408,
+      15
+    ],
+    "text": "the case of liquidator of a company, be read and construed =~",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      801,
+      374,
+      13
+    ],
+    "text": "ag a reference-to the taxable income for the relevant year,",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      816,
+      317,
+      15
+    ],
+    "text": "of the company of which he is the liquidator... .",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      837,
+      177,
+      22
+    ],
+    "text": "A s38ee18,900 (82/00) .",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      182,
+      20,
+      328,
+      15
+    ],
+    "text": "2 Surcharge on Income Tax Act, No, 26 of 1982",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      84,
+      43,
+      470,
+      34
+    ],
+    "text": "Date for 4. Every person Liable to pay the surcharge under this",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      88,
+      66,
+      466,
+      21
+    ],
+    "text": "Fitchorge Act shall, notwithstanding the fact that an asressment haa",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      182,
+      93,
+      372,
+      14
+    ],
+    "text": "not been issued to him, pay to the Commissioner-General",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      177,
+      114,
+      377,
+      14
+    ],
+    "text": "not less than Afty per centum of the amount af the surcharge",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      181,
+      134,
+      374,
+      14
+    ],
+    "text": "peyable by him, on or before July 15, 1982, and the",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      102,
+      151,
+      376,
+      20
+    ],
+    "text": ". balanes on or before November 30, 1882, /",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      84,
+      187,
+      469,
+      29
+    ],
+    "text": "Employer . Every employer who employs any employee from",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      88,
+      203,
+      50,
+      9
+    ],
+    "text": "todeduet",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      88,
+      212,
+      464,
+      15
+    ],
+    "text": "wurcharge ~Whfose remuneration income tax for the relevant year is",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      180,
+      232,
+      372,
+      15
+    ],
+    "text": "deductible, in accordance with the provisions of Chapter XV",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      129,
+      252,
+      425,
+      18
+    ],
+    "text": "~ of the Inland Revenue Act, (not being an employee who is",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      138,
+      272,
+      416,
+      14
+    ],
+    "text": "> deemed by subsection (7) of section 67 of that Act to be #",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      179,
+      292,
+      377,
+      15
+    ],
+    "text": "non-resident) shall elso deduct, as the surcharge on income",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      106,
+      309,
+      449,
+      18
+    ],
+    "text": ". tax payable under this Act, in six monthly instalments com-",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122,
+      333,
+      433,
+      14
+    ],
+    "text": "7+ mencing fom the month of June, 1982, the following",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      178,
+      352,
+      378,
+      15
+    ],
+    "text": "amounts from the remuneration payable to such employee",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      193,
+      384,
+      363,
+      13
+    ],
+    "text": "(a) where the income tax deductible trom the remunera-",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      180,
+      401,
+      376,
+      13
+    ],
+    "text": "+: tian of such employee for tha relevant year, not",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      230,
+      416,
+      326,
+      14
+    ],
+    "text": "betng income tax paysble on any profits from",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90,
+      432,
+      466,
+      15
+    ],
+    "text": "y employment referred to in paragraph (c) of",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122,
+      448,
+      434,
+      14
+    ],
+    "text": ": section 4 of the Inland Revenue Act, exceeds four",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      230,
+      464,
+      326,
+      15
+    ],
+    "text": "thousand and twenty rupees but does not exceed",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      183,
+      478,
+      374,
+      17
+    ],
+    "text": "+. fourteen thousand and two hundred rupees, am",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      230,
+      497,
+      327,
+      14
+    ],
+    "text": "amount equal to five per centum of such income",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      191,
+      511,
+      66,
+      15
+    ],
+    "text": "~ ae",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      179,
+      543,
+      376,
+      14
+    ],
+    "text": ": (b) where the income tax deductible from the",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      177,
+      560,
+      379,
+      14
+    ],
+    "text": ": Temtneration of such employee for the relevant",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      176,
+      576,
+      379,
+      15
+    ],
+    "text": "i year, not being income tax payable on any profits",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      185,
+      592,
+      371,
+      15
+    ],
+    "text": "act: Yrom-employment referred to in paragraph () of",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      229,
+      608,
+      326,
+      14
+    ],
+    "text": "section 4 of the Inland Revenue Act, exceeds",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      203,
+      624,
+      352,
+      16
+    ],
+    "text": "j:,, fourteen. thousand and two hundred rupees but",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      187,
+      640,
+      368,
+      15
+    ],
+    "text": "~~\" does not exceed ninety.six thousand five Kuridred",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      230,
+      657,
+      325,
+      14
+    ],
+    "text": "and sixty rupees, an amount equal to ten per",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      179,
+      674,
+      286,
+      14
+    ],
+    "text": "es centum of such facome tax; | ~",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      129,
+      704,
+      426,
+      15
+    ],
+    "text": ". (e) where the income tax deductible from the remunera-",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      182,
+      720,
+      374,
+      17
+    ],
+    "text": "7, , tom of such employee for the, relevant year, not",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      229,
+      738,
+      326,
+      14
+    ],
+    "text": "being income tax payable on any profite from",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      81,
+      753,
+      475,
+      16
+    ],
+    "text": "+. employment. referred to in paragraph () of",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      175,
+      770,
+      381,
+      14
+    ],
+    "text": "+--+ seotion - of. the Inlend Revenue. Act, exceeds",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      183,
+      785,
+      372,
+      16
+    ],
+    "text": "i: ch ninety-sbc thousand five hundred and sixty rapes,",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      228,
+      802,
+      326,
+      15
+    ],
+    "text": "1-425 an amount equal to fifteen per centum af such",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      228,
+      818,
+      168,
+      12
+    ],
+    "text": "fnoomestaxl pets",
+    "mean_p_confidence": 0.03
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      118,
+      17,
+      368,
+      26
+    ],
+    "text": "Surcharge on Income Tax Aet, No. 26 of 1982 Fy ,",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      85,
+      57,
+      430,
+      20
+    ],
+    "text": "6 Where the aggregate of so Redostion,",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      88,
+      77,
+      425,
+      21
+    ],
+    "text": "(a) the income tax payoble for the relevant year ; sarcharge",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      87,
+      101,
+      425,
+      18
+    ],
+    "text": "() the wealth tax payable for the relevant year; aegegite",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      87,
+      121,
+      432,
+      19
+    ],
+    "text": "(e) the surcharge on income tax payable under this {2 7etlth",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      91,
+      141,
+      421,
+      12
+    ],
+    "text": "+ Act; and en aurebarge",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      461,
+      152,
+      50,
+      13
+    ],
+    "text": "cxoseda",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      82,
+      164,
+      420,
+      19
+    ],
+    "text": "@ the surcharge on wealth tax payable under the <eriain",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86,
+      181,
+      269,
+      13
+    ],
+    "text": "+ Sureharge on Wealth Tax Act, 1082,",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70,
+      205,
+      375,
+      13
+    ],
+    "text": "by any person, exceeds eighty per centum of the aggregate",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      69,
+      221,
+      377,
+      13
+    ],
+    "text": "of the azsessable Income of that person for thet year and",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70,
+      236,
+      375,
+      14
+    ],
+    "text": "any profits and income (other than the net annual value",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70,
+      252,
+      375,
+      13
+    ],
+    "text": "of a residence and any subsidy exempt from income tax",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70,
+      268,
+      375,
+      14
+    ],
+    "text": "under the Inland Revenue Act), being profits and income",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70,
+      284,
+      375,
+      13
+    ],
+    "text": "exempt from income tax under that Act or any other",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70,
+      300,
+      375,
+      14
+    ],
+    "text": "enactment and which but for thet exemption would have",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70,
+      316,
+      375,
+      14
+    ],
+    "text": "been taken into account in computing the assessable",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70,
+      332,
+      375,
+      14
+    ],
+    "text": "income of that person for the relevant year, the amount of",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70,
+      348,
+      375,
+      14
+    ],
+    "text": "such excess shall be set off agaist auch surcharge on",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70,
+      364,
+      374,
+      14
+    ],
+    "text": "income tax or such surcharge on wealth tax or the aggregate",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      65,
+      372,
+      427,
+      26
+    ],
+    "text": "of auch surcharge on income tax and such surcharge on",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      69,
+      396,
+      74,
+      11
+    ],
+    "text": "wealth tax,",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83,
+      428,
+      416,
+      14
+    ],
+    "text": "%. The provisions of Chapter XIII and Chapters XV to Certain",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70,
+      441,
+      443,
+      18
+    ],
+    "text": "XXXVI of the Inland Revenue Act relating to the furnishing Pfovistons",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70,
+      459,
+      424,
+      14
+    ],
+    "text": "of returns relating to income tax payable under that Act, Inland",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70,
+      471,
+      435,
+      20
+    ],
+    "text": "the deduction of income tax, assessment, appeals against Reyete",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      69,
+      492,
+      422,
+      13
+    ],
+    "text": "assessments, payment, recovery and refimd of such tax apply.",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      69,
+      507,
+      375,
+      15
+    ],
+    "text": "shall, mutatie mutandis, apply to the furnishing of returns",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      69,
+      523,
+      374,
+      16
+    ],
+    "text": "relating to the surcharge payable under this Act, and, the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      69,
+      539,
+      374,
+      15
+    ],
+    "text": "deduetion, assessment, appeals against assessment, payment,",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      69,
+      556,
+      256,
+      15
+    ],
+    "text": "recovery and refund, of much surcharge.",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      82,
+      588,
+      428,
+      21
+    ],
+    "text": "3. In this Act, unless the context otherwise requires Interpre-",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83,
+      601,
+      410,
+      21
+    ],
+    "text": "assessable income, Charitable Institution: \"Com- **",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      121,
+      624,
+      323,
+      14
+    ],
+    "text": "missloner-Generat,. executor, peoples com-",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      121,
+      640,
+      323,
+      14
+    ],
+    "text": "pany, person, profits and income, quoted",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73,
+      655,
+      371,
+      15
+    ],
+    "text": "\" \"public company, receiver, small company,",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      98,
+      672,
+      346,
+      14
+    ],
+    "text": "+. trustee and year of - assessment have the",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      107,
+      681,
+      391,
+      30
+    ],
+    "text": "+ reapective meanings-assigned to them in the Inland .",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      76,
+      705,
+      221,
+      14
+    ],
+    "text": ". Revenue Act ;. we",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      82,
+      724,
+      362,
+      15
+    ],
+    "text": "Neo-aperative society means a co-aperative society",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72,
+      742,
+      445,
+      17
+    ],
+    "text": "+, 1 togistered or deemed to be registered under the .",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      94,
+      757,
+      295,
+      15
+    ],
+    "text": "; ., Co-operative Societies Law, No. 5 of 1972;",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      84,
+      780,
+      361,
+      16
+    ],
+    "text": "employer, employee and: remuneration have the",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      112,
+      800,
+      334,
+      15
+    ],
+    "text": "sreapective meanings asedgned to them in Chapter",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      123,
+      817,
+      207,
+      14
+    ],
+    "text": "XV of the Inland Revenue Act;",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      184,
+      20,
+      327,
+      20
+    ],
+    "text": "4 Surcharge on Income Tax Act, No. 28 of 1982",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      195,
+      53,
+      358,
+      19
+    ],
+    "text": "imeome tax\" with reference to any person and the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      232,
+      71,
+      100,
+      14
+    ],
+    "text": "relevant year",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      235,
+      100,
+      322,
+      15
+    ],
+    "text": "(2) im section 2 and in the First Schedule to this",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      267,
+      110,
+      141,
+      30
+    ],
+    "text": "Act, and .",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      272,
+      143,
+      280,
+      16
+    ],
+    "text": "G) in relation to a resident company, means",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      182,
+      164,
+      370,
+      15
+    ],
+    "text": "wae +. the income. tax payable, under the",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      307,
+      183,
+      244,
+      16
+    ],
+    "text": "Inland Revenue Act, by that Company",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      276,
+      203,
+      275,
+      16
+    ],
+    "text": "+ for the relevant year less any income",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      199,
+      224,
+      352,
+      16
+    ],
+    "text": ": tax payable by that company for that",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      306,
+      244,
+      245,
+      14
+    ],
+    "text": "year under paragraph (b) of subsection",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      309,
+      264,
+      187,
+      14
+    ],
+    "text": "(2) of section 33 of that Act;",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      245,
+      291,
+      306,
+      16
+    ],
+    "text": "_ Gi) in relation fo a non-resident company,",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      260,
+      309,
+      292,
+      14
+    ],
+    "text": ". means the income tax payable, under",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      306,
+      324,
+      247,
+      14
+    ],
+    "text": "the Inland Revenue Act, by that com-",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      306,
+      340,
+      246,
+      15
+    ],
+    "text": "pany for the relevant year less any",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      269,
+      356,
+      284,
+      16
+    ],
+    "text": "._ineotae tax payable by that company",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      305,
+      372,
+      245,
+      15
+    ],
+    "text": "tor that year, under sub-paragraph (i)",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      305,
+      389,
+      247,
+      14
+    ],
+    "text": "or sub-paragraph (ii) of paragraph",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      308,
+      405,
+      245,
+      13
+    ],
+    "text": "@) of subsection (1) of section 34 of",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      306,
+      421,
+      60,
+      13
+    ],
+    "text": "that Act;",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      262,
+      448,
+      290,
+      13
+    ],
+    "text": "Gil) in relation fo a resident individual",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      305,
+      466,
+      248,
+      14
+    ],
+    "text": "whose profits snd income for the rele-",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      305,
+      485,
+      248,
+      14
+    ],
+    "text": "vant year include any profits from",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      303,
+      503,
+      250,
+      15
+    ],
+    "text": "employment referred to fa paragraph",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      295,
+      521,
+      258,
+      13
+    ],
+    "text": "@) of section 4 of the Inland Revenue",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      304,
+      540,
+      249,
+      12
+    ],
+    "text": "Act, means such income tax as would",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      199,
+      558,
+      353,
+      15
+    ],
+    "text": ". have been payatle, under the Inland",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      303,
+      576,
+      248,
+      14
+    ],
+    "text": "Revenue Act, by such individual had",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      194,
+      593,
+      357,
+      15
+    ],
+    "text": ". such profits from employment not",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      179,
+      608,
+      372,
+      19
+    ],
+    "text": "ce formed part of his profits and income",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      191,
+      630,
+      307,
+      15
+    ],
+    "text": "- for the relevant year; .",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      221,
+      658,
+      330,
+      12
+    ],
+    "text": "v Gv) im relation to on individudl who is",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      210,
+      676,
+      340,
+      14
+    ],
+    "text": ". deemed by subsection (7) of section. 67",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      182,
+      694,
+      368,
+      12
+    ],
+    "text": "of the Inland Revenue Act to be &",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      302,
+      713,
+      248,
+      13
+    ],
+    "text": "nop-resident, means-such income tax",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      181,
+      730,
+      370,
+      15
+    ],
+    "text": "2 a8 would have been payable, under the",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      179,
+      747,
+      372,
+      16
+    ],
+    "text": "aa Ynland Revenue Act, by such individual",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      273,
+      764,
+      278,
+      16
+    ],
+    "text": "\" had his profits from employment in",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      244,
+      785,
+      307,
+      14
+    ],
+    "text": "\"> Ssi Lanka for the: relevant year not",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      171,
+      803,
+      379,
+      14
+    ],
+    "text": ". formed part of his profits and income",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      277,
+      820,
+      182,
+      14
+    ],
+    "text": "> for that year; und =: *",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      126,
+      12,
+      326,
+      21
+    ],
+    "text": "Surcharge on Income Tax Act, No, 26 of 1982",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      134,
+      52,
+      318,
+      17
+    ],
+    "text": ", (Pin relntion to any other person, means",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      153,
+      70,
+      299,
+      13
+    ],
+    "text": ": the income iax payable, under the",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      91,
+      85,
+      362,
+      16
+    ],
+    "text": ": Inland Revenue Act, by that person",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211,
+      105,
+      167,
+      13
+    ],
+    "text": "for the relevant year; and",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      137,
+      133,
+      317,
+      13
+    ],
+    "text": "(2) in, sections $ and 6, means the income tax",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      174,
+      151,
+      281,
+      13
+    ],
+    "text": "payable, under the Inland Revenue Act, by",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      106,
+      169,
+      234,
+      13
+    ],
+    "text": ". that person for that year ;",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      96,
+      200,
+      359,
+      12
+    ],
+    "text": "Inland Revenue Act means the Inland Revenue Act,",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      136,
+      216,
+      294,
+      15
+    ],
+    "text": "No, 28 of 1979; . oo",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      96,
+      246,
+      361,
+      13
+    ],
+    "text": "taxable income with reference to any person and the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      135,
+      264,
+      322,
+      13
+    ],
+    "text": "relevant year, means the taxable ineame of that",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      137,
+      282,
+      320,
+      14
+    ],
+    "text": "person for that year, computed in accordance with",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      137,
+      300,
+      308,
+      14
+    ],
+    "text": "the provisions of the Inland Revenue Act; and",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      97,
+      325,
+      361,
+      14
+    ],
+    "text": "() in the cate of a resident individeal whowe profits aad inooene",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      135,
+      341,
+      324,
+      13
+    ],
+    "text": "for tho relevant year intlude any profits from employment",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      136,
+      356,
+      322,
+      14
+    ],
+    "text": "referred to ia paragraph (0) of motion 4 of the Inland",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      136,
+      372,
+      322,
+      13
+    ],
+    "text": "Revenue Act, be deomed to moan uch amount os would",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      136,
+      387,
+      322,
+      14
+    ],
+    "text": "have boon the taxable income (computed in aecardante",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      119,
+      403,
+      339,
+      14
+    ],
+    "text": "+ with the provisions of the Inland Revenoe Act) of such",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      137,
+      419,
+      322,
+      13
+    ],
+    "text": "Individual for that your bod euch profit from employment",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      137,
+      434,
+      322,
+      14
+    ],
+    "text": "aot formed partof the profite and inoome of mach individual",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      137,
+      451,
+      78,
+      12
+    ],
+    "text": "for that year 5",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      92,
+      474,
+      367,
+      16
+    ],
+    "text": "~(@) in the onse of an individual who is doamed by subsection (7)",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      137,
+      493,
+      321,
+      11
+    ],
+    "text": "of section 67 of the Talend Revenue Aet-to he not-",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      138,
+      508,
+      321,
+      13
+    ],
+    "text": "retident, be deemed. to mesn sucb amount aa would have",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      138,
+      523,
+      322,
+      15
+    ],
+    "text": "boon the taxable inoome (computed in aooordance with",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      138,
+      539,
+      321,
+      15
+    ],
+    "text": "the provisions of the Inland Revenme Act) of uch indivi.",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      138,
+      555,
+      322,
+      14
+    ],
+    "text": "acl for the solovant yenr hed his profits from employment",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      138,
+      570,
+      322,
+      14
+    ],
+    "text": "in Sci Lanke for that yoar not formed. part of hin profita",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      138,
+      587,
+      147,
+      13
+    ],
+    "text": "and insome for that year ;",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      101,
+      613,
+      360,
+      14
+    ],
+    "text": "wealth tax moons the wealth tex sharged and levied under the",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      120,
+      632,
+      278,
+      11
+    ],
+    "text": "{Inland Revenue Aet. .",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      229,
+      655,
+      228,
+      12
+    ],
+    "text": "mast SOHEDULE * Becton 8)",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      200,
+      677,
+      177,
+      11
+    ],
+    "text": "tos of Berokarge on Ineeme Tat",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90,
+      702,
+      197,
+      11
+    ],
+    "text": "1. For partons other tha individuals",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      101,
+      719,
+      360,
+      12
+    ],
+    "text": "() wha the sezabloinoome of muh pevan for 8 pet cmduc of the ie",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      122,
+      732,
+      339,
+      13
+    ],
+    "text": "tin relevant your ecnoeds Ba, 25,000 hut! Come tax peyitle by",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      118,
+      736,
+      344,
+      30
+    ],
+    "text": "doe not exceed Fa 0,00 wach pron for Qo",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      353,
+      758,
+      66,
+      12
+    ],
+    "text": "slorant your",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      100,
+      775,
+      362,
+      18
+    ],
+    "text": ") shew ste taxable income of sank porson 20 per contin of the i",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      118,
+      784,
+      345,
+      30
+    ],
+    "text": "extends Ba. 60,000 come tex payable br",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      285,
+      807,
+      178,
+      10
+    ],
+    "text": "5 tks Demet fee th",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      356,
+      821,
+      66,
+      9
+    ],
+    "text": "rolarant gene.",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      171,
+      17,
+      327,
+      14
+    ],
+    "text": "6 Surcharge on Income Tax Act, No, 26 of 1982",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      170,
+      49,
+      270,
+      9
+    ],
+    "text": "For indiidole a",
+    "mean_p_confidence": 0.09
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      181,
+      64,
+      361,
+      10
+    ],
+    "text": "(0) hare Sntaable nox of wh ndvideat 8 par cote of Uw",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      201,
+      74,
+      340,
+      19
+    ],
+    "text": "Exile eregeene fo anata Saye tr\"barte br",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      201,
+      85,
+      341,
+      9
+    ],
+    "text": "Sree no net a, 63.800 sebintiiaal oe",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      218,
+      95,
+      281,
+      15
+    ],
+    "text": "naam Sarat yo",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      181,
+      117,
+      361,
+      11
+    ],
+    "text": "{zs in taxa incre of ash ndiidoal 10 per cro ofthe a=",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      173,
+      128,
+      369,
+      19
+    ],
+    "text": "oO Bimmer Re cout bat Se ee pate by",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      184,
+      138,
+      358,
+      11
+    ],
+    "text": "ee cock nae",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      393,
+      149,
+      107,
+      10
+    ],
+    "text": "Reet",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      181,
+      170,
+      361,
+      21
+    ],
+    "text": "( ory yuna fe intniun V6 pr nto",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      190,
+      183,
+      352,
+      17
+    ],
+    "text": ". Teaver eer trech indivi for",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      264,
+      201,
+      236,
+      11
+    ],
+    "text": "relevant ytar.",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      179,
+      266,
+      357,
+      24
+    ],
+    "text": ". ae . SEOORD SCHEDULE (Section )",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      264,
+      292,
+      107,
+      16
+    ],
+    "text": ":",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      177,
+      314,
+      352,
+      11
+    ],
+    "text": "[Applicable in the eno of parsour Tinblo te tho surcharge at & por cemtutt)",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      205,
+      324,
+      337,
+      29
+    ],
+    "text": ". Osher 7 Column If gate ITE",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      225,
+      345,
+      318,
+      11
+    ],
+    "text": "ea Gpemns tn Clean",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      424,
+      352,
+      104,
+      21
+    ],
+    "text": "(Rupes) Rupees)",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      170,
+      373,
+      363,
+      11
+    ],
+    "text": "He Invkiod 2 ee.)",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      169,
+      397,
+      253,
+      11
+    ],
+    "text": "2. Smal comprning; Ckartsbe Fests Oo",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      202,
+      407,
+      220,
+      20
+    ],
+    "text": "Sere tite, Men Looe,",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      223,
+      418,
+      203,
+      19
+    ],
+    "text": "eu Eps weaned jo meen",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      202,
+      428,
+      220,
+      9
+    ],
+    "text": "Soe\" asda fo Ue lahecd Rrvense",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      202,
+      437,
+      331,
+      13
+    ],
+    "text": "Ta aes al cmpanee mn agare 70.0",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      175,
+      461,
+      248,
+      10
+    ],
+    "text": "J. Beeutoes; Reve ind Undivided Font",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      170,
+      461,
+      363,
+      22
+    ],
+    "text": "Be Baggztons Relea Had adie Weel asset. 1800",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      169,
+      494,
+      254,
+      14
+    ],
+    "text": "4. Pepphiy Compania; Qooted Public Compra 5",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      191,
+      495,
+      342,
+      32
+    ],
+    "text": "Een pene Om sn",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      169,
+      533,
+      319,
+      11
+    ],
+    "text": "& Pmtunsbigg; Fabio Corporations; Raxinss :",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      153,
+      536,
+      393,
+      24
+    ],
+    "text": "\\ Un igh veoted. fa the. Governmout * .",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      198,
+      540,
+      296,
+      34
+    ],
+    "text": "Resaoot he oe ee",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      176,
+      565,
+      357,
+      20
+    ],
+    "text": "et ee",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      169,
+      591,
+      292,
+      13
+    ],
+    "text": "& Nozseciens epmpanion, Govmmment otter",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      201,
+      593,
+      221,
+      20
+    ],
+    "text": "aay Soles eres anes",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      178,
+      614,
+      293,
+      11
+    ],
+    "text": "co EE Take Enguent uaaey, Gere +",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      202,
+      624,
+      332,
+      13
+    ],
+    "text": "fhe tt woe comtok nen aire LOAN), 28488, BHO",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      316,
+      677,
+      82,
+      16
+    ],
+    "text": "fae pe ye",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      175,
+      703,
+      365,
+      15
+    ],
+    "text": "pine in he cue of perce Tablet the eat ab 10 pr oman)",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      173,
+      713,
+      366,
+      34
+    ],
+    "text": "o Sen 5. eae HE Cains 122",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      159,
+      738,
+      380,
+      21
+    ],
+    "text": "* Pom (Amount in (Aniount in",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      235,
+      742,
+      295,
+      20
+    ],
+    "text": ": Repco gash",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      171,
+      770,
+      363,
+      15
+    ],
+    "text": "b snfivttnd ce gee BABE, a, 35080",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      170,
+      788,
+      364,
+      13
+    ],
+    "text": "2. laden Undivted Fentiog La Bip! oe BBS",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      170,
+      806,
+      364,
+      16
+    ],
+    "text": "4 Sunt Sospasoe guider of Sal Cee 50,248. 38500",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      129,
+      22,
+      326,
+      14
+    ],
+    "text": "Surcharge on Income Vax Act, No. 26 of 1982 7",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      180,
+      42,
+      275,
+      32
+    ],
+    "text": "Column 2 Gowns Gatun ELE",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      185,
+      52,
+      271,
+      32
+    ],
+    "text": "Foran Udrnaunt in Cameos in",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      344,
+      76,
+      104,
+      10
+    ],
+    "text": "opm epee",
+    "mean_p_confidence": 0.03
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      87,
+      94,
+      252,
+      10
+    ],
+    "text": "4 Ghustab Ineitetiona 5 Cngpnstive Sosiatiog",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      120,
+      104,
+      218,
+      11
+    ],
+    "text": "fused Lit haeursee Companies; emer",
+    "mean_p_confidence": 0.07
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      120,
+      114,
+      218,
+      10
+    ],
+    "text": "efter So i em I of be Tice Bebegabs",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      116,
+      112,
+      331,
+      32
+    ],
+    "text": "WoW inlsed orennn ct suse. 39.500",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      88,
+      142,
+      360,
+      11
+    ],
+    "text": "A. Bevoulars and Receivers. <SUIB L. sht0",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      88,
+      161,
+      252,
+      20
+    ],
+    "text": "4 regio Gempmnns: Quoted Fate Cheerios",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      97,
+      172,
+      242,
+      11
+    ],
+    "text": "PREM its of People Cumpacin or Quoted",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      121,
+      175,
+      327,
+      19
+    ],
+    "text": "Publis Compact nee sims. 29,008",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      88,
+      200,
+      254,
+      11
+    ],
+    "text": "2. Pertuesshipa;Publio oma; Tsao",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      122,
+      201,
+      220,
+      21
+    ],
+    "text": "Mpuoriitgy vested a he Goverrguent ex",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      122,
+      221,
+      225,
+      12
+    ],
+    "text": "Raont Compost s Eiquidston of Gompaciea",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      122,
+      232,
+      218,
+      10
+    ],
+    "text": "Trance Crue th tut was erated",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      118,
+      230,
+      332,
+      31
+    ],
+    "text": "detope IANO). Sears. $360",
+    "mean_p_confidence": 0.03
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      89,
+      260,
+      248,
+      11
+    ],
+    "text": "1% Non-Revidont companion, Governments, other",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      122,
+      270,
+      234,
+      10
+    ],
+    "text": "Tan tin Gramma ot et Lee",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      122,
+      281,
+      210,
+      11
+    ],
+    "text": "Sa United Rinptorn + Trurtos_ (whore",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      122,
+      289,
+      328,
+      12
+    ],
+    "text": "Ticidue veecrnfol moar dier ALi, S881. 21198",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      257,
+      340,
+      37,
+      9
+    ],
+    "text": "pert Ot",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      127,
+      357,
+      300,
+      13
+    ],
+    "text": "(Applioble in th co of an vio able to ths wanchargo",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      235,
+      360,
+      221,
+      31
+    ],
+    "text": "(16 ger stem .",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      186,
+      380,
+      271,
+      32
+    ],
+    "text": "ota J Gotu HE Catan IEF",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      193,
+      395,
+      263,
+      32
+    ],
+    "text": "Poraoe (dmonn t (Arrena",
+    "mean_p_confidence": -0.0
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      348,
+      417,
+      100,
+      11
+    ],
+    "text": "Bepees Tpenh",
+    "mean_p_confidence": -0.0
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      111,
+      437,
+      340,
+      12
+    ],
+    "text": "foaividuad ey",
+    "mean_p_confidence": 0.11
+  }
+]

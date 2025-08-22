@@ -1,0 +1,750 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      266,
+      61,
+      79,
+      22
+    ],
+    "text": "(te",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115,
+      195,
+      391,
+      23
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      173,
+      227,
+      272,
+      19
+    ],
+    "text": "SOCIALIST REPUBLIC OF",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      249,
+      255,
+      120,
+      18
+    ],
+    "text": "SRI LANKA",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      133,
+      366,
+      348,
+      19
+    ],
+    "text": "SHOP AND OFFICE EMPLOYEES",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      106,
+      395,
+      405,
+      22
+    ],
+    "text": "(REGULATION OF EMPLOYMENT AND",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      133,
+      416,
+      352,
+      35
+    ],
+    "text": "REMUNERATION) (AMENDMENT)",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      198,
+      452,
+      219,
+      20
+    ],
+    "text": "ACT, No. 44 OF 1985",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      199,
+      568,
+      230,
+      15
+    ],
+    "text": "[Certified on 2th November, 1985]",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      184,
+      607,
+      250,
+      14
+    ],
+    "text": "Printed on the Orders of Government",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70,
+      720,
+      485,
+      16
+    ],
+    "text": "Published as a Supplement to Part Il of the Gazette of the Democratic",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      136,
+      739,
+      351,
+      15
+    ],
+    "text": "Socialist Republic of Sri Lanka of November 22, 1985",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      118,
+      785,
+      388,
+      10
+    ],
+    "text": "val Asa Bose oF mg te a EA",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71,
+      800,
+      486,
+      22
+    ],
+    "text": "Sa rns ane Soy pectamn soo em",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70,
+      830,
+      488,
+      16
+    ],
+    "text": "Price: 45 cents Postage: 75 cents",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      110,
+      0,
+      440,
+      19
+    ],
+    "text": "Shop and Office Employees (Regulation of _",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108,
+      21,
+      302,
+      15
+    ],
+    "text": "Employment and Remuneration) (Amendment)",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      202,
+      39,
+      116,
+      13
+    ],
+    "text": "Ack, No. 44 of 1985",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      151,
+      63,
+      220,
+      15
+    ],
+    "text": "[Certified on 2ist November, 1085]",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      92,
+      92,
+      12
+    ],
+    "text": "L.D0. 21/84",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      120,
+      381,
+      13
+    ],
+    "text": "Aw Act 70 ammno THe Soe ap Orrice Eapiovncs",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      141,
+      360,
+      14
+    ],
+    "text": "(Reguuamion or Expiovsanyt ano REMUNERATION) ACT.",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      170,
+      382,
+      14
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      186,
+      297,
+      14
+    ],
+    "text": "Socialist Republic of Sri Lanka as follows:",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      215,
+      442,
+      15
+    ],
+    "text": "1, This Act may be cited as the Shop and Offlee snorttitie,",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      232,
+      381,
+      14
+    ],
+    "text": "Employees (Regulation of Employment and Remuneration)",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      248,
+      283,
+      14
+    ],
+    "text": "(Amendment) Act, No. 44 of 1985. .",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      281,
+      452,
+      15
+    ],
+    "text": "2 Section 18% of the Shop and Office Employees Amendment",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      298,
+      448,
+      20
+    ],
+    "text": "(Regulation of Employment and Remuneration) Act, of section",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      316,
+      461,
+      15
+    ],
+    "text": "Guserted by Act No, 60 of 1957) and amended by Act Ghapleri,",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      332,
+      364,
+      14
+    ],
+    "text": "No. 83 of 1981, is hereby further amended as follows :",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88,
+      361,
+      366,
+      14
+    ],
+    "text": "(@) by the repeal of subsection (2) af that section, and",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      125,
+      378,
+      337,
+      15
+    ],
+    "text": "the substitution therefor of the following",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      102,
+      393,
+      112,
+      13
+    ],
+    "text": "subsection :",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      138,
+      420,
+      317,
+      13
+    ],
+    "text": "(2) A female employee to whom this Part",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      125,
+      437,
+      330,
+      13
+    ],
+    "text": "applies, shall, tf she is confined, be entitled to take",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      125,
+      454,
+      242,
+      13
+    ],
+    "text": "and shall take leave for a period of",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      128,
+      478,
+      328,
+      15
+    ],
+    "text": "(a) seventy days commencing on the date of her",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      165,
+      495,
+      291,
+      14
+    ],
+    "text": "confinement, if the confinement results in",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      165,
+      513,
+      291,
+      13
+    ],
+    "text": "the issue of @ live child, and such employee",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      166,
+      529,
+      291,
+      14
+    ],
+    "text": "has, at the date of such confinement, no child",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      165,
+      546,
+      194,
+      14
+    ],
+    "text": "or hus one child; and :",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      128,
+      571,
+      330,
+      14
+    ],
+    "text": "(b) twenty-eight days commencing on the date of",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      165,
+      588,
+      118,
+      12
+    ],
+    "text": "her confinement",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      168,
+      609,
+      291,
+      14
+    ],
+    "text": "(@) if the confinement results in the issue of",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      220,
+      626,
+      239,
+      13
+    ],
+    "text": "2 live child and such employee has",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      220,
+      643,
+      239,
+      11
+    ],
+    "text": "at the date of such confinement two",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      53,
+      660,
+      358,
+      17
+    ],
+    "text": "- or more than two children ;",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      166,
+      684,
+      294,
+      15
+    ],
+    "text": "i) if the confinement does not result in the",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      220,
+      702,
+      131,
+      12
+    ],
+    "text": "issue of a live child,",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      166,
+      723,
+      281,
+      14
+    ],
+    "text": "and the employer shall allow such leave. ;",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      748,
+      371,
+      15
+    ],
+    "text": "{b) in subsection (3) of that section by the substitutian",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      127,
+      765,
+      334,
+      15
+    ],
+    "text": "for the words period of leave referred to in",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      127,
+      782,
+      335,
+      15
+    ],
+    "text": "subsection (2), of the words period of leave",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      127,
+      800,
+      335,
+      15
+    ],
+    "text": "referred to in paragraph (a) or paragraph (b) of",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      127,
+      817,
+      141,
+      14
+    ],
+    "text": "subsection (2); and.",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      840,
+      133,
+      12
+    ],
+    "text": "3-8 6184 11.550 SEO",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      162,
+      18,
+      339,
+      16
+    ],
+    "text": "2 Shop and Office Employees (Regulation of",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      199,
+      35,
+      302,
+      15
+    ],
+    "text": "Employment and Remuneration) (Amendment)",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      293,
+      52,
+      116,
+      14
+    ],
+    "text": "Act, No. 44 of 1985",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      178,
+      79,
+      363,
+      17
+    ],
+    "text": "(0) by the addition immediately after subsection (8) of",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      215,
+      97,
+      281,
+      14
+    ],
+    "text": "that section of the following subsection :",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      229,
+      116,
+      312,
+      17
+    ],
+    "text": "(4) For the purpose of ascertaining the",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      216,
+      133,
+      325,
+      14
+    ],
+    "text": "eotitlement of leave under subsection (2), every",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      216,
+      150,
+      326,
+      15
+    ],
+    "text": "female employee shall specify in the notice sent to",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      216,
+      165,
+      327,
+      17
+    ],
+    "text": "the employer under subsection (1) the number of",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      217,
+      183,
+      325,
+      13
+    ],
+    "text": "childeen sha has ot the date on which she will be",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      216,
+      202,
+      190,
+      11
+    ],
+    "text": "confined. , .",
+    "mean_p_confidence": 0.3
+  }
+]

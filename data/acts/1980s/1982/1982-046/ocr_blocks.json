@@ -1,0 +1,464 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      263,
+      63,
+      84,
+      32
+    ],
+    "text": "eo",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      127,
+      180,
+      382,
+      20
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      188,
+      220,
+      264,
+      17
+    ],
+    "text": "SOCIALIST REPUBLIC OF",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      261,
+      259,
+      256,
+      19
+    ],
+    "text": "SRI LANKA -",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      162,
+      361,
+      311,
+      18
+    ],
+    "text": "COMMON AMENITIES BOARD",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      240,
+      390,
+      305,
+      31
+    ],
+    "text": "(AMENDMENT) -",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      215,
+      428,
+      214,
+      20
+    ],
+    "text": "ACT, No. 46 OF 1982",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      81,
+      527,
+      347,
+      14
+    ],
+    "text": "[Coxtifisd on 30th December, 1982]",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      81,
+      589,
+      358,
+      13
+    ],
+    "text": ". Printed on the orders of Government",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      467,
+      664,
+      6,
+      10
+    ],
+    "text": "\\",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83,
+      685,
+      472,
+      14
+    ],
+    "text": "Published as 2 Supplement to Part II of the Gazette of the Democratic",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      148,
+      698,
+      342,
+      14
+    ],
+    "text": "Soctaiist Republic of Sri Lanta of December 31, 1982",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      136,
+      749,
+      366,
+      18
+    ],
+    "text": "sents nant mtn a",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      110,
+      778,
+      420,
+      33
+    ],
+    "text": "rice: 20 conta ; \"Postage: 80 cents",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      354,
+      24,
+      178,
+      9
+    ],
+    "text": ":",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      138,
+      40,
+      309,
+      14
+    ],
+    "text": "Common Amenities Board (Amendment)",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      209,
+      57,
+      125,
+      13
+    ],
+    "text": "Act, No. 46 of 1982",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      163,
+      81,
+      220,
+      13
+    ],
+    "text": "[Certified on 30th Dcember, 1982]",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      103,
+      92,
+      12
+    ],
+    "text": "LD-@. 26/81",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98,
+      127,
+      350,
+      12
+    ],
+    "text": "(Aw Agr ro anmnp re Commaon Ancmrms Boarn Law,",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      112,
+      143,
+      96,
+      11
+    ],
+    "text": "No, 10 oF 1973.",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98,
+      170,
+      363,
+      14
+    ],
+    "text": "Be it enacted by the Parliament of the Democratic Sovie-",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      186,
+      261,
+      14
+    ],
+    "text": "list Republic of Sri Lanka a2 follows :",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99,
+      217,
+      395,
+      19
+    ],
+    "text": "4. This Act may be cited as the Cotamon Amenities Board Short",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      233,
+      223,
+      14
+    ],
+    "text": "(Amendment) Act, No. 46 of 1992,",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99,
+      272,
+      432,
+      20
+    ],
+    "text": "2 Section 6 of the Common Amenities Board Law, No, Amendinent",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      278,
+      432,
+      32
+    ],
+    "text": "20 of 1973, is hereby amended an follows : ef section",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      385,
+      303,
+      126,
+      10
+    ],
+    "text": ". Noidot",
+    "mean_p_confidence": 0.04
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      101,
+      305,
+      389,
+      21
+    ],
+    "text": "(@) by the insertion, immediately after paragraph (a) isi",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      137,
+      328,
+      256,
+      13
+    ],
+    "text": "thereof, of the following paragraph :",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      150,
+      348,
+      310,
+      13
+    ],
+    "text": "(an) to receive donations and bequests trom",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      190,
+      363,
+      270,
+      14
+    ],
+    "text": "any source, whether local or foreign ; and",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      97,
+      384,
+      416,
+      21
+    ],
+    "text": "(4) by the insertion, immediately after paragraph (9) .",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      138,
+      406,
+      250,
+      14
+    ],
+    "text": "thereof, of the following paragraph :",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      150,
+      430,
+      311,
+      14
+    ],
+    "text": "(gg) to undertake construction work on behalf",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      445,
+      348,
+      17
+    ],
+    "text": "Ye - , of the State or any local authority ;.",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      833,
+      418,
+      10
+    ],
+    "text": "A estat -16.000 a0) :",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79,
+      754,
+      469,
+      7
+    ],
+    "text": "a",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79,
+      761,
+      470,
+      16
+    ],
+    "text": "Anaual rubeciption of Bills and Laws of the Patliament Ka 160 (Local),",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79,
+      777,
+      470,
+      13
+    ],
+    "text": "Fs. 200 (Foreign), payable to the Soverommenes, Goveonemr: PosicaTiows",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79,
+      788,
+      470,
+      15
+    ],
+    "text": "Bureay, P, O, Box 509, Catoneo 1, before 15th December each year in respect",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      247,
+      805,
+      127,
+      12
+    ],
+    "text": "of the year following.",
+    "mean_p_confidence": 0.67
+  }
+]

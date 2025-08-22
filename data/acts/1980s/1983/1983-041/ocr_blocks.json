@@ -1,0 +1,453 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      119,
+      220,
+      393,
+      20
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      180,
+      260,
+      272,
+      20
+    ],
+    "text": "SOCIALIST REPUBLIC OF",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      255,
+      301,
+      122,
+      18
+    ],
+    "text": "SRI LANKA",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      132,
+      420,
+      361,
+      24
+    ],
+    "text": "PUBLIC TRUSTEE (AMENDMENT)",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      203,
+      464,
+      222,
+      22
+    ],
+    "text": "ACT, No. 41 OF 1983",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      206,
+      586,
+      215,
+      15
+    ],
+    "text": "[Certified on 17th October, 19832",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      194,
+      632,
+      241,
+      14
+    ],
+    "text": "Printed on the Orders of Government",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      75,
+      708,
+      481,
+      18
+    ],
+    "text": "Published as a Supplement to Part UU of the Gazette of the Democratic",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      134,
+      729,
+      362,
+      16
+    ],
+    "text": "Socialist Republic of Sri Lanka of Ootober 20, 1983",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      128,
+      790,
+      370,
+      9
+    ],
+    "text": "PROITED AT THU MEPARTMIDAT OP GOVERMENT PROCTOAG, SRE LANA",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143,
+      815,
+      340,
+      9
+    ],
+    "text": "To Be FURCEARED AT-7im GOVE, PUNAGATIONS RUEEAU, COLGNRO",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      100,
+      832,
+      427,
+      16
+    ],
+    "text": "Brice: 20 esnts Postage: 50 comts",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      172,
+      51,
+      190,
+      13
+    ],
+    "text": "Public Trustee (Amendment)",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      204,
+      68,
+      128,
+      13
+    ],
+    "text": "Act, No. 41 of 1983",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      167,
+      92,
+      202,
+      14
+    ],
+    "text": "[Certified on 17th October, 1983]",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      124,
+      372,
+      13
+    ],
+    "text": "EDO, 21/83. n",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      147,
+      344,
+      17
+    ],
+    "text": "* Aw Aer 70 ana tue Pusiac Tavsrez OmIwance",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      181,
+      379,
+      14
+    ],
+    "text": "BE it ensctod by the Parliament of the Democratic Socialist",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      198,
+      235,
+      13
+    ],
+    "text": "Republic of Sri Lanka as follows :",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      222,
+      442,
+      15
+    ],
+    "text": "L This Act may be cited as the Public Trustee (Amend- Short tile,",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      239,
+      182,
+      14
+    ],
+    "text": ". ment) Act, No, 41 of 1988.",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      267,
+      450,
+      29
+    ],
+    "text": "2. Section 5, of the Public Trustee Ordinance (herein- Amendment",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      288,
+      420,
+      15
+    ],
+    "text": "after referred to as the principal enactment), is hereby of",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      305,
+      460,
+      14
+    ],
+    "text": "amended in subsection (1) of that section, by the insertion Chapter 98,",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      321,
+      381,
+      15
+    ],
+    "text": "immedistely after paragraph (e) thereof, of the folowing",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      339,
+      87,
+      13
+    ],
+    "text": "paragraph :",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92,
+      362,
+      368,
+      16
+    ],
+    "text": "(ee) as manager of immovable property upon a con-",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      131,
+      380,
+      329,
+      14
+    ],
+    "text": "tract on terms and conditions including fees as may",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      131,
+      396,
+      186,
+      15
+    ],
+    "text": "be mutually agreed upon ;*,",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93,
+      428,
+      452,
+      15
+    ],
+    "text": "% Section 45 of the principal enactment is hereby Amendment",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      442,
+      454,
+      20
+    ],
+    "text": "amended by the addition immediately after subsection (5) of seption",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      461,
+      473,
+      23
+    ],
+    "text": "of that section, of the following subsection : Selpinea",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      94,
+      485,
+      367,
+      15
+    ],
+    "text": "() The preceding provisions of this section shall not",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      502,
+      381,
+      16
+    ],
+    "text": "apply in a case where the Public Trastee is appointed",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      519,
+      379,
+      16
+    ],
+    "text": "manager ot immovable property under paragraph (ee)",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      532,
+      92,
+      15
+    ],
+    "text": "of setlon 5,.",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      835,
+      129,
+      23
+    ],
+    "text": "1A mist 11,08 EH",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      74,
+      801,
+      488,
+      15
+    ],
+    "text": "Anwal subscriplion of Bilis and Laws of the Parliament Ra 160 (Local),",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      74,
+      816,
+      488,
+      14
+    ],
+    "text": "Ra 200 (Foreign), payable to the Surmammpmr Govan Puucamons",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      74,
+      830,
+      488,
+      14
+    ],
+    "text": "Borzas, P, O. Box 500, Covonsso 1, betore 15th December each year in respect",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      259,
+      844,
+      129,
+      12
+    ],
+    "text": "vf the year following.",
+    "mean_p_confidence": 0.67
+  }
+]

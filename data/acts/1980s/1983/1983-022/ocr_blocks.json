@@ -1,0 +1,882 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      113,
+      194,
+      392,
+      19
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      183,
+      231,
+      272,
+      18
+    ],
+    "text": "SOCIALIST REPUBLIC OF",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      253,
+      268,
+      121,
+      18
+    ],
+    "text": "SRI LANKA",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      177,
+      377,
+      275,
+      18
+    ],
+    "text": "OBSCENE PUBLICATIONS",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      236,
+      419,
+      157,
+      23
+    ],
+    "text": "(AMENDMENT)",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      206,
+      462,
+      219,
+      22
+    ],
+    "text": "ACT, No. 22 OF 1983",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      228,
+      562,
+      181,
+      15
+    ],
+    "text": "[Certified on 5th July, 1983]",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      200,
+      609,
+      242,
+      15
+    ],
+    "text": "Printed on the orders of Government",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      79,
+      708,
+      478,
+      14
+    ],
+    "text": "Published as a Supplement to Part Il of the Gazette of tho Democratic",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78,
+      726,
+      397,
+      16
+    ],
+    "text": ". Socialist Republic of Sri Lanka of July 8, 1983",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      133,
+      791,
+      372,
+      10
+    ],
+    "text": "oct to oe ts",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80,
+      807,
+      477,
+      19
+    ],
+    "text": "_ =",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      92,
+      836,
+      454,
+      13
+    ],
+    "text": "Price: 35 cents Postage: 50 cenis",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      141,
+      29,
+      233,
+      14
+    ],
+    "text": "Obscene Publications (Amendment)",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      203,
+      50,
+      122,
+      14
+    ],
+    "text": "Act, No. 22 of 1983",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      176,
+      83,
+      176,
+      15
+    ],
+    "text": "(Certified on Sth July, 1989]",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      118,
+      246,
+      12
+    ],
+    "text": "LD.O 110/78. .",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      140,
+      379,
+      13
+    ],
+    "text": "AN Act To AMEND THE OssceNE Pueuications Onoranct",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      168,
+      379,
+      16
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      186,
+      293,
+      15
+    ],
+    "text": "Socialist Republic of Sri Lanka as follows :",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      218,
+      444,
+      16
+    ],
+    "text": "1. This Act may be cited as the Obscene Publications Shert title.",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      236,
+      217,
+      14
+    ],
+    "text": "(Amendment) Act, No. 22 of 1983,",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      268,
+      450,
+      13
+    ],
+    "text": "2, Section 2 of the Obscene Publications Ordinance is Amenimont",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      279,
+      470,
+      22
+    ],
+    "text": "hereby repested and the following new section substituted $f Usnters,",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      303,
+      73,
+      11
+    ],
+    "text": "therefor :",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      324,
+      385,
+      33
+    ],
+    "text": "poirot 2 It shall be an offence against this",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      351,
+      381,
+      15
+    ],
+    "text": "iSebacene Ordinance punishable on conviction by @",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      363,
+      56,
+      10
+    ],
+    "text": "iblications,",
+    "mean_p_confidence": 0.08
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      366,
+      175,
+      20
+    ],
+    "text": "=e Magistrate",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      186,
+      397,
+      271,
+      14
+    ],
+    "text": "1) for the first offence, with a fine not",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      224,
+      413,
+      234,
+      14
+    ],
+    "text": "exceeding two thousand rupees oF",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      223,
+      429,
+      235,
+      15
+    ],
+    "text": "imprisonment of either description",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      223,
+      446,
+      235,
+      14
+    ],
+    "text": "for a term not exceeding six months,",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      224,
+      463,
+      234,
+      12
+    ],
+    "text": "or with both such fine and",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      224,
+      480,
+      132,
+      14
+    ],
+    "text": "imprisonment; and",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      187,
+      508,
+      271,
+      15
+    ],
+    "text": "(@) for a subsequent offence committed",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      224,
+      525,
+      234,
+      14
+    ],
+    "text": "after a conviction for the first offence,",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      224,
+      542,
+      235,
+      14
+    ],
+    "text": "with imprisonment of either descrip-",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      224,
+      559,
+      234,
+      13
+    ],
+    "text": "tion for a term not exceeding six",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      224,
+      575,
+      235,
+      12
+    ],
+    "text": "months and in addition with 2 fine",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      224,
+      592,
+      234,
+      14
+    ],
+    "text": "hot exceeding two thousand rupees,",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      172,
+      621,
+      274,
+      14
+    ],
+    "text": "to do any of the following acts namely :",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      188,
+      645,
+      271,
+      14
+    ],
+    "text": "(@) for purposes of or by way of trade or",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      225,
+      665,
+      233,
+      15
+    ],
+    "text": "for distribution or publie exhibition",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      225,
+      686,
+      233,
+      15
+    ],
+    "text": "to make or produce or have in",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      225,
+      707,
+      235,
+      14
+    ],
+    "text": "pomession for purposes stated or",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      226,
+      728,
+      234,
+      14
+    ],
+    "text": "otherwise, obscene writings, draw-",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      226,
+      748,
+      234,
+      15
+    ],
+    "text": "ings, prints, paintings, printed",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      226,
+      769,
+      234,
+      15
+    ],
+    "text": "matter, pictures, posters, emblems,",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      227,
+      790,
+      234,
+      14
+    ],
+    "text": "photographs, cinematograph films,",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      227,
+      811,
+      234,
+      14
+    ],
+    "text": "video cassettes or any other obscene",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      227,
+      832,
+      51,
+      14
+    ],
+    "text": "objects ;",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      100,
+      854,
+      128,
+      10
+    ],
+    "text": "2A On18s ~6,095 48/08)",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      109,
+      39,
+      308,
+      14
+    ],
+    "text": "2 Obscene Publications (Amendment)",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      243,
+      57,
+      123,
+      13
+    ],
+    "text": "Act, No. 22 of 1983",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      225,
+      90,
+      271,
+      14
+    ],
+    "text": "{b) for the purposes above mentioned to",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      216,
+      106,
+      281,
+      19
+    ],
+    "text": ". import, convey, or export or cause",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      262,
+      132,
+      235,
+      13
+    ],
+    "text": "fo be imported, conveyed, or",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      213,
+      152,
+      284,
+      14
+    ],
+    "text": ": exported any of the said obscene",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      262,
+      173,
+      235,
+      14
+    ],
+    "text": "matiers ot things, or in any manner",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      262,
+      193,
+      235,
+      15
+    ],
+    "text": "whatsoever to put them into",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      262,
+      214,
+      75,
+      14
+    ],
+    "text": "efreulation ;",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      222,
+      243,
+      275,
+      15
+    ],
+    "text": "(c) to carry on or take part in a business,",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      263,
+      264,
+      235,
+      15
+    ],
+    "text": "whether public or private, concerned",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      263,
+      285,
+      235,
+      14
+    ],
+    "text": "with any of the said obscene matters",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      263,
+      305,
+      234,
+      15
+    ],
+    "text": "or things, or to deal in the said",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      263,
+      327,
+      235,
+      14
+    ],
+    "text": "matters or things in any manner",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      263,
+      348,
+      235,
+      13
+    ],
+    "text": "whatsoever, or to distribute them or",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      263,
+      367,
+      235,
+      15
+    ],
+    "text": "to exhibit them publicly or to make",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      263,
+      389,
+      187,
+      14
+    ],
+    "text": "a business of lending them :",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      226,
+      418,
+      272,
+      13
+    ],
+    "text": "(@) to advertise or make known by any",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      263,
+      439,
+      236,
+      13
+    ],
+    "text": "means whatsosver, in view of assist=",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      263,
+      459,
+      236,
+      14
+    ],
+    "text": "ing in the said punishable cireula-",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      175,
+      479,
+      323,
+      14
+    ],
+    "text": ". tion or traffic, that a person Js",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      263,
+      500,
+      235,
+      14
+    ],
+    "text": "engaged in any of the above",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      263,
+      521,
+      235,
+      14
+    ],
+    "text": "punishable acts, or to advertise or",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      263,
+      541,
+      235,
+      12
+    ],
+    "text": "to make known how or from whom",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      263,
+      562,
+      235,
+      12
+    ],
+    "text": "the said obscene matters or things",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      263,
+      583,
+      235,
+      13
+    ],
+    "text": "ean be procured either directly or",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      264,
+      603,
+      74,
+      14
+    ],
+    "text": "indirectly,",
+    "mean_p_confidence": -0.01
+  }
+]

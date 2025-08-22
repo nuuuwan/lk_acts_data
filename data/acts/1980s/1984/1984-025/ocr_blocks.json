@@ -1,0 +1,1091 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      268,
+      119,
+      82,
+      16
+    ],
+    "text": "RE es",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      267,
+      130,
+      81,
+      45
+    ],
+    "text": "on",
+    "mean_p_confidence": 0.09
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      109,
+      217,
+      391,
+      18
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      170,
+      256,
+      269,
+      18
+    ],
+    "text": "SOCIALIST REPUBLIC OF",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      244,
+      296,
+      121,
+      18
+    ],
+    "text": "SRI LANKA",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      84,
+      409,
+      445,
+      27
+    ],
+    "text": "PARLIAMENT (POWERS AND PRIVILEGES",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      225,
+      447,
+      156,
+      24
+    ],
+    "text": "(AMENDMENT)",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      194,
+      487,
+      218,
+      21
+    ],
+    "text": "ACT, No. 25 OF 1984",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      214,
+      573,
+      191,
+      15
+    ],
+    "text": "(Certified on 20th June, 1984)",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      187,
+      622,
+      259,
+      21
+    ],
+    "text": "Printed on the Ordere of Government .",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68,
+      707,
+      477,
+      16
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the Democratic",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      156,
+      726,
+      301,
+      14
+    ],
+    "text": "Socialist Republic of Sri Lanka of June 22, 1084",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      121,
+      782,
+      371,
+      16
+    ],
+    "text": "er rm rece OF SRI PREG, AE",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      104,
+      794,
+      399,
+      30
+    ],
+    "text": "TO Bu PURCHASED AE TH GOVIRNAGENT PUBLICATIONS HORRA, COLOMEO.",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93,
+      828,
+      426,
+      14
+    ],
+    "text": "Price: 45 cents Postage: 68 cents",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92,
+      19,
+      327,
+      15
+    ],
+    "text": "Parliament (Powers and erivileges) (Amendment)",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      196,
+      36,
+      122,
+      14
+    ],
+    "text": "Act, No. 25 of 1984",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      160,
+      69,
+      194,
+      14
+    ],
+    "text": "[Certified on 20th June, 1984]",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      89,
+      103,
+      13
+    ],
+    "text": "LDO, 57/83 *",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      118,
+      378,
+      13
+    ],
+    "text": "An Acr ro AMEND THE PARLIAMENT (POWERS AND PRIVILEGES)",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      240,
+      139,
+      25,
+      11
+    ],
+    "text": "Agr",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      167,
+      382,
+      14
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic Socialist",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      188,
+      233,
+      14
+    ],
+    "text": "Republie of Sri Lanka as follows :",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      213,
+      448,
+      14
+    ],
+    "text": "1. This Act may be cited as the Parliament (Powers and Short litle",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      234,
+      301,
+      14
+    ],
+    "text": "Privileges} (Amendment) Act, No. 25 of 1984.",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      254,
+      455,
+      29
+    ],
+    "text": "2 Section 19 of the Parliament (Powers and Privileges) Replecement",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      278,
+      460,
+      15
+    ],
+    "text": "Act is hereby repealed and the following section substituted 19 of Chap~",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      463,
+      291,
+      42,
+      12
+    ],
+    "text": "ter 383,",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      299,
+      73,
+      11
+    ],
+    "text": "therefor :",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      316,
+      385,
+      38
+    ],
+    "text": "Brotetion 19, @) Any person, being a defendant in",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      350,
+      381,
+      21
+    ],
+    "text": "gation of any civil or eximinsl proceedings instituted",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      359,
+      380,
+      30
+    ],
+    "text": "palienes for or on account, or in respect, of the pub-",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      384,
+      346,
+      22
+    ],
+    "text": "auduortiye _Tation by such person or his servant",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      406,
+      62,
+      9
+    ],
+    "text": "Parliament",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      406,
+      387,
+      30
+    ],
+    "text": "and foe {a} of any report, paper, minute, votes oF",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      424,
+      383,
+      31
+    ],
+    "text": "geome proceedings being a report, peper,",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      445,
+      388,
+      29
+    ],
+    "text": "thereof minute, votes or proceedings",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      458,
+      388,
+      28
+    ],
+    "text": "fees published by order, or under the",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      214,
+      484,
+      235,
+      14
+    ],
+    "text": "authority of Parliament or any",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      214,
+      501,
+      145,
+      13
+    ],
+    "text": "committee thereof ; or",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      177,
+      526,
+      272,
+      14
+    ],
+    "text": "(b} of a copy of any such report, paper,",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      227,
+      543,
+      190,
+      14
+    ],
+    "text": "minute, votes or proceedings,",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      161,
+      568,
+      288,
+      14
+    ],
+    "text": "may, on giving the plaintiff or the prosecutor",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      163,
+      585,
+      286,
+      14
+    ],
+    "text": "twenty-four hours notice of his intention",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      178,
+      614,
+      270,
+      14
+    ],
+    "text": "(in the case of any civil or erlminsl pro-",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      215,
+      630,
+      234,
+      14
+    ],
+    "text": "ceedings in respect of a publication",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      216,
+      648,
+      233,
+      14
+    ],
+    "text": "refereed to in paragraph (a), bring",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      215,
+      664,
+      234,
+      13
+    ],
+    "text": "betore the court in which such pro-",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      146,
+      681,
+      303,
+      15
+    ],
+    "text": ". ceedings are being held a certificate",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      217,
+      698,
+      231,
+      14
+    ],
+    "text": "under the hand of the Speaker or the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      215,
+      715,
+      235,
+      15
+    ],
+    "text": "Becretery-Genersl cf Parliament",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      217,
+      732,
+      231,
+      15
+    ],
+    "text": "stating that the report, paper, min-",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      214,
+      748,
+      235,
+      16
+    ],
+    "text": "ute, votes or proceedings in respect",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      216,
+      765,
+      233,
+      16
+    ],
+    "text": "of which such proceedings have been",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      218,
+      782,
+      231,
+      16
+    ],
+    "text": "instituted were published by such",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      217,
+      800,
+      232,
+      16
+    ],
+    "text": "person or his servant by order or",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      218,
+      817,
+      231,
+      15
+    ],
+    "text": "under the authority, of Parliament",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      218,
+      835,
+      187,
+      14
+    ],
+    "text": "or any committee thereof ; oF",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      49,
+      857,
+      460,
+      20
+    ],
+    "text": "teat oresear,800 (B4s08) . ~",
+    "mean_p_confidence": 0.01
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      178,
+      22,
+      347,
+      14
+    ],
+    "text": "2 Parlament (Powers and Privileges) (Amendment)",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      305,
+      39,
+      120,
+      14
+    ],
+    "text": "Act, No, 25 of 1984",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      282,
+      72,
+      269,
+      14
+    ],
+    "text": "Gi) in the case of any civil or criminal pro-",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      321,
+      88,
+      231,
+      14
+    ],
+    "text": "ceedings in respect of a publication",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      322,
+      105,
+      230,
+      14
+    ],
+    "text": "referred fo in paragraph (b), lay be-",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      321,
+      121,
+      232,
+      14
+    ],
+    "text": "fore the court in whieh such proceed-",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      323,
+      138,
+      229,
+      14
+    ],
+    "text": "ings are being held, the copy in res-",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      321,
+      155,
+      232,
+      13
+    ],
+    "text": "pet of which such proceedings have",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      321,
+      172,
+      232,
+      13
+    ],
+    "text": "been instituted and the report, paper,",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      322,
+      189,
+      231,
+      13
+    ],
+    "text": "minute, votes or proceedings of",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      320,
+      205,
+      233,
+      14
+    ],
+    "text": "which it purports to be a copy,",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      322,
+      222,
+      231,
+      14
+    ],
+    "text": "together with an affidavit verifying",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      322,
+      239,
+      231,
+      13
+    ],
+    "text": "such report, paper, minute, votes",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      321,
+      255,
+      232,
+      14
+    ],
+    "text": "or proceedings and the correctness",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      321,
+      272,
+      84,
+      13
+    ],
+    "text": "of such copy,",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      267,
+      296,
+      286,
+      14
+    ],
+    "text": "and such court shall thereupon immedi-",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      268,
+      313,
+      285,
+      14
+    ],
+    "text": "ately stay such civil or criminal proceedings",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      268,
+      329,
+      285,
+      14
+    ],
+    "text": "and the same and every process issued",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      268,
+      346,
+      285,
+      13
+    ],
+    "text": "therein shall be deemed to be finally",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      268,
+      363,
+      68,
+      11
+    ],
+    "text": "determind,",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      283,
+      385,
+      271,
+      16
+    ],
+    "text": "(2) No person shall be liable to any civil",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      267,
+      404,
+      287,
+      14
+    ],
+    "text": "or criminal proceedings for or on account, oF",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      267,
+      419,
+      286,
+      16
+    ],
+    "text": "in respect, of the publication, bona fide and",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      267,
+      438,
+      287,
+      14
+    ],
+    "text": "without malice, by such person or his ser",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      266,
+      456,
+      52,
+      10
+    ],
+    "text": "vant :",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      283,
+      479,
+      270,
+      15
+    ],
+    "text": "() of any extract from, or abstract of, any",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      317,
+      497,
+      237,
+      14
+    ],
+    "text": "report, paper, minute, votes or pro",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      320,
+      513,
+      233,
+      15
+    ],
+    "text": "ceedings, published by order, or",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      319,
+      530,
+      234,
+      14
+    ],
+    "text": "under the authority, of Parliament",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      320,
+      547,
+      174,
+      14
+    ],
+    "text": "or any committee thereof ;",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      281,
+      571,
+      273,
+      14
+    ],
+    "text": "() of a fair and accurate report of any",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      319,
+      588,
+      234,
+      15
+    ],
+    "text": "proceedings of Parliament, being",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      199,
+      604,
+      354,
+      15
+    ],
+    "text": ". Proceeding, the publication of whlch",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      318,
+      621,
+      229,
+      15
+    ],
+    "text": "has been authorized by Parliament",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      281,
+      645,
+      272,
+      16
+    ],
+    "text": "(8) For the purpose of this section, the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      266,
+      662,
+      288,
+      16
+    ],
+    "text": "expression civil or criminal proceedings",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      266,
+      679,
+      288,
+      17
+    ],
+    "text": "includes any proceeding for the punishment",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      266,
+      696,
+      287,
+      17
+    ],
+    "text": "of contempt of the Supreme Court, or the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      267,
+      715,
+      286,
+      15
+    ],
+    "text": "Court of Appeal, or the High Court or any",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      266,
+      732,
+      235,
+      13
+    ],
+    "text": "other Court, tribunal or institution.",
+    "mean_p_confidence": 0.69
+  }
+]

@@ -1,0 +1,651 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      246,
+      75,
+      90,
+      24
+    ],
+    "text": "bes",
+    "mean_p_confidence": 0.09
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      249,
+      108,
+      88,
+      28
+    ],
+    "text": "Yee]",
+    "mean_p_confidence": 0.08
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      251,
+      130,
+      82,
+      38
+    ],
+    "text": "Gi)",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      96,
+      199,
+      392,
+      19
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      157,
+      243,
+      272,
+      18
+    ],
+    "text": "SOCIALIST REPUBLIC OF.",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      232,
+      288,
+      121,
+      17
+    ],
+    "text": "SRI LANKA",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88,
+      390,
+      431,
+      18
+    ],
+    "text": "PUBLIC SERVICE MUTUAL PROVIDENT",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      135,
+      429,
+      316,
+      24
+    ],
+    "text": "ASSOCIATION (AMENDMENT)",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      185,
+      470,
+      253,
+      20
+    ],
+    "text": "ACT, No. 18 OF 1983.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      191,
+      584,
+      199,
+      16
+    ],
+    "text": "{Certified on 28th April, 1983]",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      168,
+      629,
+      248,
+      14
+    ],
+    "text": "Printed on the Orders of Government",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      52,
+      706,
+      479,
+      14
+    ],
+    "text": "Published os 2 Supplement to Part Tl of the Gazette of the Democratic",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      137,
+      720,
+      311,
+      14
+    ],
+    "text": "Socialist Republic of Sri Lanka of April 29, 1983",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      106,
+      802,
+      371,
+      10
+    ],
+    "text": "PRINTID AT THE DRPARDDRENT OF SOVERIOMINEE PRINTING, SRF LARA",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70,
+      815,
+      454,
+      18
+    ],
+    "text": "yo br Funeasn ar ZR GOVE PUBLICATION MOREAU, COKOEO",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      75,
+      836,
+      460,
+      28
+    ],
+    "text": "Price: 20 cents Postage: 5@conts |",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      41,
+      378,
+      15
+    ],
+    "text": "Public Service Mutual Provident Association (Amendment)",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      213,
+      64,
+      122,
+      13
+    ],
+    "text": "Act, No, 18 of 1983",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      178,
+      92,
+      191,
+      15
+    ],
+    "text": "[Certified on 29th April, 1983]",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      122,
+      86,
+      13
+    ],
+    "text": "LDO, 8/80",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      149,
+      381,
+      13
+    ],
+    "text": "(AN Act TO AMEND THE Pusiic Saavice Murua, ProvinenT",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      196,
+      166,
+      154,
+      12
+    ],
+    "text": "AssoctarioN ORDTHANCE.",
+    "mean_p_confidence": 0.01
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      190,
+      381,
+      15
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic Soclalist",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      208,
+      237,
+      14
+    ],
+    "text": "Republic of Sri Lanka as follows :",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      97,
+      231,
+      446,
+      18
+    ],
+    "text": "1. This Act may be cited as the Public Service Mutual Short title,",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      251,
+      369,
+      14
+    ],
+    "text": "Provident Association (Amendment) Act, No, 18 of 1983.",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96,
+      273,
+      452,
+      28
+    ],
+    "text": "2 Section 4 of the Public Service Mutual Provident Amendmen",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      295,
+      424,
+      15
+    ],
+    "text": "Association Ordinance (hereinafter referred toas the 4 of",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      309,
+      465,
+      18
+    ],
+    "text": "principal enactment), as last amended by Law No, 54 Chapter 281",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      328,
+      381,
+      16
+    ],
+    "text": "of 197, is hereby further amended by the substitution, for",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      345,
+      381,
+      16
+    ],
+    "text": "paragraph (c) of subsection (1) of that section, of the",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      363,
+      183,
+      15
+    ],
+    "text": "following new paragraph :",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96,
+      386,
+      368,
+      15
+    ],
+    "text": "(0) eleven members of the corporation to be elected",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      149,
+      403,
+      315,
+      14
+    ],
+    "text": "once a year at the annual general meeting, sub-",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      149,
+      419,
+      315,
+      15
+    ],
+    "text": "ject to the proviso that no such member shell",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      149,
+      436,
+      314,
+      13
+    ],
+    "text": "hold office for more than three years in succession",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      149,
+      452,
+      315,
+      14
+    ],
+    "text": "and that if in service, each member should be",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      148,
+      468,
+      316,
+      14
+    ],
+    "text": "stationed within the administrative Limits of the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      149,
+      486,
+      163,
+      14
+    ],
+    "text": "municipality of Colombo. \".",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      94,
+      507,
+      454,
+      20
+    ],
+    "text": "3, Section 25 of the principal enaciment, as amended by Amendment",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      526,
+      449,
+      15
+    ],
+    "text": "Act No. 15 of 1968 and Law No. 64 of 1975, is hereby further Jf of the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      536,
+      447,
+      27
+    ],
+    "text": "amended by the substitution, for sub-paragraph (iv) of Feincipal",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      558,
+      381,
+      16
+    ],
+    "text": "paragraph (b) of subsection {1} of that section, of the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      576,
+      214,
+      14
+    ],
+    "text": "following new sub-paragraph :",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108,
+      593,
+      354,
+      21
+    ],
+    "text": "(vy the purchase of push bicycles and motor cycles",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      161,
+      615,
+      302,
+      15
+    ],
+    "text": "to facilitate their daily travel to and from the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      161,
+      634,
+      38,
+      11
+    ],
+    "text": "office :",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      173,
+      656,
+      289,
+      15
+    ],
+    "text": "Provided, however, that in the case of any",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      160,
+      673,
+      302,
+      14
+    ],
+    "text": "single employee, the sum 0 granted shall not",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      161,
+      689,
+      302,
+      14
+    ],
+    "text": "exceed the amount approved by the Secretary",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      160,
+      706,
+      302,
+      13
+    ],
+    "text": "to the Treasury or the cost of the means of",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      160,
+      722,
+      223,
+      15
+    ],
+    "text": "transport, whichever is less, and,",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      100,
+      774,
+      7,
+      10
+    ],
+    "text": "\\",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      837,
+      182,
+      13
+    ],
+    "text": "A68560-0.500 (83/03) .",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71,
+      783,
+      486,
+      9
+    ],
+    "text": "SE _s?7",
+    "mean_p_confidence": -0.0
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70,
+      791,
+      487,
+      16
+    ],
+    "text": "Annual subscription of Billa end Lawa of the Parliament Ra 160 (Local)",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70,
+      806,
+      488,
+      15
+    ],
+    "text": "Ra, 200 (Foreign), payable to the Surmoiranomy, Goverment Puscicarione",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70,
+      819,
+      485,
+      17
+    ],
+    "text": "Buncau, P. 0. Box $00, Cotormo 1, before 15th December euch, yent in respect",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      249,
+      836,
+      130,
+      13
+    ],
+    "text": "of the year following.",
+    "mean_p_confidence": 0.63
+  }
+]
