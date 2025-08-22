@@ -1,0 +1,662 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      99,
+      231,
+      392,
+      19
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      162,
+      262,
+      271,
+      18
+    ],
+    "text": "SOCIALIST REPUBLIC OF",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      245,
+      298,
+      285,
+      17
+    ],
+    "text": "SRI LANKA .",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      174,
+      390,
+      254,
+      25
+    ],
+    "text": "PROVINCIAL COUNCILS",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72,
+      433,
+      472,
+      23
+    ],
+    "text": "(PAYMENT OF SALARIES AND ALLOWANCES)",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      195,
+      468,
+      216,
+      22
+    ],
+    "text": "ACT, No. 37 OF 1988",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      188,
+      556,
+      233,
+      16
+    ],
+    "text": "[Certified on 9th November, 1988]",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      178,
+      628,
+      273,
+      16
+    ],
+    "text": "Printed on the Orders of Government",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68,
+      710,
+      475,
+      18
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the Democratic",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      122,
+      731,
+      370,
+      17
+    ],
+    "text": "Soclalist Republic of Sri Lanka of November 11, 1988",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      125,
+      804,
+      367,
+      10
+    ],
+    "text": "reorrn Ar SHE DERMNEMENT OF COVENT RADII, SE ADGA",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72,
+      823,
+      445,
+      23
+    ],
+    "text": ". TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUBEAU, COLOMEO",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69,
+      855,
+      476,
+      16
+    ],
+    "text": "Price : 45 cents . Postage : 75 cents",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      144,
+      60,
+      303,
+      14
+    ],
+    "text": "wrovincial Councila (Payment of Salaries ana",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      190,
+      77,
+      212,
+      14
+    ],
+    "text": "Allowances) Act, No. 37 of 1988",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108,
+      106,
+      298,
+      14
+    ],
+    "text": ": [Certified on 9th November, 1988]",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99,
+      134,
+      98,
+      16
+    ],
+    "text": "LD.0, 26/08",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      105,
+      163,
+      381,
+      12
+    ],
+    "text": "Aw Agr x0 rmoviDe von Tir SALARIES AND ALLOWantEs 70",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118,
+      179,
+      369,
+      13
+    ],
+    "text": "BE PAT TO A GOVEMNOR OF. A Province, ti Cioer",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      117,
+      195,
+      368,
+      13
+    ],
+    "text": "MMnstem, avo A Menen oF THE BoaRD ov Ministens oF 4",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      117,
+      213,
+      368,
+      13
+    ],
+    "text": "PROVINCE, AND TO A MEMBER OF A PROVINCIAL CoUNCIL; AND",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      117,
+      232,
+      369,
+      8
+    ],
+    "text": "FOR MATTERS CONNECTED THEREWITH OR INCIDENTAL",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      116,
+      248,
+      51,
+      8
+    ],
+    "text": "THERETO.",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      270,
+      405,
+      13
+    ],
+    "text": ". BE it enacted by the Parliament of the Democratic",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      103,
+      286,
+      296,
+      14
+    ],
+    "text": "Socialist Republic of Sri Lanke as follows",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      116,
+      316,
+      413,
+      21
+    ],
+    "text": "1, This Act may de olted as the Provincial Councils Short",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      105,
+      335,
+      419,
+      19
+    ],
+    "text": "(Payment of Sslaries and Allowances) Act, No. 37 of 1988, \"te",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      116,
+      379,
+      454,
+      14
+    ],
+    "text": "2 From and after the date of appointment or election, Salaries and",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      498,
+      391,
+      60,
+      9
+    ],
+    "text": "BMowaneer",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      103,
+      401,
+      453,
+      14
+    ],
+    "text": "as the case may be fo be paid",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      498,
+      413,
+      78,
+      11
+    ],
+    "text": "1 Governora,",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118,
+      424,
+      434,
+      21
+    ],
+    "text": "(a) of & Governor of a Province, much Governor shall be Gt ttes",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      154,
+      445,
+      414,
+      15
+    ],
+    "text": "entitled to the payment of a monthly salary and Members of",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      154,
+      456,
+      401,
+      21
+    ],
+    "text": "allowances equal to the monthly salary and all Botrds of",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      155,
+      478,
+      413,
+      21
+    ],
+    "text": "other allowances currently payable toe Minister snd fo",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      155,
+      497,
+      400,
+      13
+    ],
+    "text": "of the Cabinet of Ministers ; Provincial",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      498,
+      511,
+      50,
+      10
+    ],
+    "text": "Councils.",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      116,
+      528,
+      367,
+      18
+    ],
+    "text": "(@) of a Chief Minister, such Chief Minister shall be",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      154,
+      546,
+      329,
+      15
+    ],
+    "text": "entitled to the payment of a monthly salary and",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      155,
+      563,
+      328,
+      16
+    ],
+    "text": "allowances equal to the monthly salary and ell",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      154,
+      582,
+      329,
+      14
+    ],
+    "text": "other allowances payable to a Governor of 9",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      155,
+      598,
+      328,
+      15
+    ],
+    "text": "Province under paragraph (a), less a sum of fifty",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      154,
+      620,
+      49,
+      11
+    ],
+    "text": "rupees ;",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118,
+      652,
+      366,
+      15
+    ],
+    "text": "{c) of a Member of the Board of Ministers of a Province,",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      154,
+      674,
+      329,
+      13
+    ],
+    "text": "such member shall be entitled to the payment of #",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      154,
+      696,
+      329,
+      13
+    ],
+    "text": "monthly salary and allowances, equal to the",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      154,
+      717,
+      329,
+      13
+    ],
+    "text": "monthly salary and all other allowences currently",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      154,
+      737,
+      236,
+      14
+    ],
+    "text": "payable to 8 Deputy Minister; and",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      117,
+      769,
+      366,
+      14
+    ],
+    "text": "(@) of a member of a Provincial Council, such member",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      155,
+      790,
+      327,
+      16
+    ],
+    "text": "shall be entitled to the payment of a monthly",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      155,
+      811,
+      329,
+      15
+    ],
+    "text": "salary and allowances equal to fifty per centum of",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      155,
+      829,
+      425,
+      16
+    ],
+    "text": "the inonthly. salary and afl other allowances",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      155,
+      852,
+      307,
+      13
+    ],
+    "text": "currently payable to a Member of Parliament.",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70,
+      47,
+      337,
+      14
+    ],
+    "text": "2 Provinciat Councils Waymens of Salaries and",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      154,
+      63,
+      207,
+      17
+    ],
+    "text": "Altowances) Act, No. 37 of 1988",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      82,
+      96,
+      454,
+      13
+    ],
+    "text": "% The salaries and allowances payable under this Act Salaries and",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71,
+      109,
+      453,
+      20
+    ],
+    "text": "toa Chief Minister of a Province, a Member ct a Board of iybs",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70,
+      131,
+      460,
+      22
+    ],
+    "text": "Ministers of @ Province and a Member of a Provincial {qpondjture",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71,
+      153,
+      450,
+      21
+    ],
+    "text": "Council established for a Province, shall be expenditure PS cinciat",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70,
+      175,
+      453,
+      20
+    ],
+    "text": "charged on the Provinelal Fund of such Province. Hund of @",
+    "mean_p_confidence": 0.68
+  }
+]

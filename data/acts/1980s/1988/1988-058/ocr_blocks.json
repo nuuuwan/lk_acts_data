@@ -1,0 +1,464 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      270,
+      156,
+      73,
+      21
+    ],
+    "text": "parece",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      104,
+      207,
+      386,
+      18
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      164,
+      235,
+      268,
+      18
+    ],
+    "text": "SOCIALIST REPUBLIC OF",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      243,
+      263,
+      120,
+      18
+    ],
+    "text": "SRI LANKA",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      153,
+      364,
+      289,
+      19
+    ],
+    "text": "BUSINESS UNDERTAKINGS",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      219,
+      392,
+      156,
+      25
+    ],
+    "text": "(ACQUISITION)",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      245,
+      417,
+      196,
+      37
+    ],
+    "text": "(REPEAL) .",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      189,
+      460,
+      216,
+      22
+    ],
+    "text": "ACT, No, 58 OF 1988",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      177,
+      566,
+      298,
+      20
+    ],
+    "text": "[Certified on 17th December, 1988} .",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      170,
+      614,
+      266,
+      16
+    ],
+    "text": "Printed on the Oraers of Government",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      65,
+      686,
+      475,
+      17
+    ],
+    "text": "Published as a Supplement to Part Hof the Gazette of the Democratic",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      118,
+      706,
+      370,
+      17
+    ],
+    "text": "Socialist Republic of Sri Lanka of December 23, 1988",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      118,
+      793,
+      369,
+      9
+    ],
+    "text": "porn A 8 DenaEDT OF GOMES YEO, wt LANE",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      106,
+      810,
+      434,
+      23
+    ],
+    "text": "Tom PinSLAD Af TE RT FomCAION BURAE, ConOAD",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      64,
+      842,
+      461,
+      17
+    ],
+    "text": "Price : 30 cents Postage : 75 cents",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      113,
+      32,
+      303,
+      14
+    ],
+    "text": "Business Undertakings (Acquisition) (Repeat)",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      208,
+      49,
+      118,
+      14
+    ],
+    "text": "Act, No, 58 of 1988",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      160,
+      81,
+      215,
+      14
+    ],
+    "text": "[Certified on 17th December, 1988)",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      114,
+      92,
+      12
+    ],
+    "text": "LDO, 54/88,",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      136,
+      374,
+      14
+    ],
+    "text": "Aw Act To Reotat 2p Business Unnertasives (AcqUuIsmTIoN}",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      206,
+      153,
+      124,
+      13
+    ],
+    "text": "Act, No, 35 oF 1971",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      177,
+      378,
+      14
+    ],
+    "text": "BE it. enacted by the Parliament of the Democratic",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      193,
+      295,
+      14
+    ],
+    "text": "Socialist Republic of Sti Lanka as follows :",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92,
+      220,
+      411,
+      15
+    ],
+    "text": "i. This Act may be ctted as the Business Undertakings short",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      234,
+      413,
+      19
+    ],
+    "text": "(Acquisition) (Repeal) Act, No. 58 of 1988. title.",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93,
+      270,
+      430,
+      14
+    ],
+    "text": "2 (1) The Business Undertakings (Acquisition) Act, Repeslot",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      283,
+      458,
+      20
+    ],
+    "text": "No, 35 of 197i, is hereby repealed. Aes No. 38",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      107,
+      309,
+      352,
+      16
+    ],
+    "text": "(2) Notwithstanding the repeal of the Business",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      326,
+      379,
+      16
+    ],
+    "text": "Undertakings (Acquisition) Act, No, 35 of 1971, all",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      342,
+      379,
+      17
+    ],
+    "text": "regulations made under section 12 of that Act in relation",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      359,
+      379,
+      16
+    ],
+    "text": "to any business undertaking acquired by, or vested in the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      376,
+      379,
+      15
+    ],
+    "text": "Government, under that Act, and in foree on the day",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      392,
+      378,
+      17
+    ],
+    "text": "preceding the date of commencement of this Act, shall con-",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      409,
+      379,
+      14
+    ],
+    "text": "tinue to be in force for so long as it may be necessary for",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      425,
+      379,
+      15
+    ],
+    "text": "the functioning of such business undertaking, the assessment",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      441,
+      379,
+      15
+    ],
+    "text": "of the amount of the payments to be made in respect of",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      458,
+      379,
+      14
+    ],
+    "text": "auch business undertaking, and other steps to be taken in",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      475,
+      292,
+      13
+    ],
+    "text": "sonnection with the making of such payments,",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      87,
+      809,
+      477,
+      15
+    ],
+    "text": "Annual subscription of Bills and Acts of the Parliament Re, 171 | (Local),",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      85,
+      824,
+      480,
+      14
+    ],
+    "text": "Rs 236 (Foreign), payable to the Surenirmvom, Govsamentt PUBLICATIONS",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      87,
+      837,
+      477,
+      14
+    ],
+    "text": "BUBEAU, CoromDo.1, before 18th December exch year in respect of the year",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      247,
+      854,
+      101,
+      12
+    ],
+    "text": ". following",
+    "mean_p_confidence": 0.16
+  }
+]

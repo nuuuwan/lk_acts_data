@@ -1,0 +1,4127 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      313,
+      4,
+      255,
+      22
+    ],
+    "text": "GEN ~",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      146,
+      170,
+      391,
+      20
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      196,
+      200,
+      269,
+      19
+    ],
+    "text": "SOCIALIST REPUBLIC OF",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      259,
+      236,
+      121,
+      18
+    ],
+    "text": "SRI LANKA",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      171,
+      333,
+      287,
+      19
+    ],
+    "text": "EMPLOYEES TRUST FUND",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      245,
+      370,
+      155,
+      24
+    ],
+    "text": "(AMENDMENT)",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      152,
+      402,
+      318,
+      25
+    ],
+    "text": ": ACT, No. 47 OF 1988.",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      225,
+      497,
+      235,
+      16
+    ],
+    "text": "{Certified on 30th November 1988)",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      193,
+      569,
+      272,
+      16
+    ],
+    "text": "Printed on the Orders of Government",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      84,
+      654,
+      474,
+      20
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the Democratic",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      153,
+      677,
+      352,
+      16
+    ],
+    "text": "Socialist Republic of Sri Lanka of December 02, 1988",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      87,
+      750,
+      417,
+      18
+    ],
+    "text": "ee a",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      90,
+      766,
+      462,
+      20
+    ],
+    "text": "\"~\" Fo me ponceaem Ar Fim covmetan FORSERTIONS BUREAG, COLEDEIO",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      81,
+      793,
+      476,
+      27
+    ],
+    "text": "Price : 90 cents Postage : 75 cents",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      138,
+      12,
+      264,
+      15
+    ],
+    "text": "Employees? Trust Fund (Amendment) .",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      200,
+      27,
+      343,
+      15
+    ],
+    "text": "Act, No. 47 of 1988 tat .",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      137,
+      58,
+      241,
+      17
+    ],
+    "text": "\" [Certified on 30th November, 1986]",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      86,
+      93,
+      13
+    ],
+    "text": "LD.O. 39/88",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      110,
+      383,
+      12
+    ],
+    "text": "(An Act To AMEND Tae EsarLovzes Trust Foo Act, No, 40",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      128,
+      46,
+      10
+    ],
+    "text": "op 1980",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      147,
+      382,
+      14
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic Socialist",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      164,
+      239,
+      14
+    ],
+    "text": "Republic of Sri Lanka as follows :",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      187,
+      445,
+      14
+    ],
+    "text": "1. This Act may be clted 28 the Employees Trust Fund Short title",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      205,
+      404,
+      13
+    ],
+    "text": "(Amendment) Act, No, 47 of 1988. 7",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      228,
+      453,
+      15
+    ],
+    "text": "2. Section 4 of the Employees' Trust Fund Act, No. 46 of Amendment",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      241,
+      466,
+      20
+    ],
+    "text": "1980 (hereinafter referred to as the principal enactment\") of gection",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      262,
+      460,
+      15
+    ],
+    "text": "is hereby amended by the insertion, immediately azter sub- 46 of 1960,",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      279,
+      381,
+      15
+    ],
+    "text": "section (2) of that section, of the following new subsec-",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      298,
+      264,
+      10
+    ],
+    "text": "don : .",
+    "mean_p_confidence": 0.09
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      100,
+      316,
+      356,
+      16
+    ],
+    "text": "(3) The administration, management and control of",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      333,
+      457,
+      13
+    ],
+    "text": "the Fund shall be vested in the Board. . os",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88,
+      352,
+      452,
+      20
+    ],
+    "text": "3, Section 5 of the principal enactment is hereby amend- Amendment",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      372,
+      475,
+      13
+    ],
+    "text": "ed as follows : 5 of the prin-",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      384,
+      448,
+      22
+    ],
+    "text": "(1) by the repeal of paragraph (e) of subsection (1) of SEs =",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      127,
+      406,
+      328,
+      14
+    ],
+    "text": "that section and the substitution therefor of the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      127,
+      423,
+      186,
+      15
+    ],
+    "text": "following new paragraph :=-",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      128,
+      442,
+      328,
+      16
+    ],
+    "text": "\" (@) two members nominated by the Minister in",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      167,
+      459,
+      289,
+      13
+    ],
+    "text": "consultation with the executive of every",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      167,
+      476,
+      288,
+      14
+    ],
+    "text": "trade unfon having more than 100,000 mem-",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      159,
+      494,
+      38,
+      11
+    ],
+    "text": "- bers.",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      180,
+      512,
+      276,
+      16
+    ],
+    "text": "For the purpose of this paragraph, exeon-",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      166,
+      529,
+      290,
+      13
+    ],
+    "text": "tive in relation to a trade union has the",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      168,
+      546,
+      288,
+      15
+    ],
+    "text": "same meaning as in the Trade Unions",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      167,
+      561,
+      231,
+      17
+    ],
+    "text": "Ordinance: \"; vs",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      583,
+      365,
+      17
+    ],
+    "text": "(2) by the repeal of subsection (2) of tbat section and the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      128,
+      599,
+      329,
+      15
+    ],
+    "text": "substitution therefor of the following new sub-",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      128,
+      616,
+      255,
+      14
+    ],
+    "text": "section : >",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      142,
+      629,
+      401,
+      31
+    ],
+    "text": "(2) The Chairman of the Board, who shell be ae",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      127,
+      653,
+      331,
+      16
+    ],
+    "text": "the chief executive of the Board, shall be appointed",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      128,
+      674,
+      403,
+      14
+    ],
+    "text": "by the Minister.\", .",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      695,
+      451,
+      17
+    ],
+    "text": "4 Scetion 8 of the principal enactment is hereby amend- Amendment",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      708,
+      471,
+      22
+    ],
+    "text": "ed as followa: . oe an",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93,
+      726,
+      448,
+      29
+    ],
+    "text": "(Q) by the repeal of paragraph (a) of that section and iam ene",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      130,
+      750,
+      328,
+      13
+    ],
+    "text": "the substitution therefor of the following para-",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      130,
+      768,
+      60,
+      14
+    ],
+    "text": "graph",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      131,
+      786,
+      362,
+      15
+    ],
+    "text": "(a) shall receive all sums paid under this Act os:",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      171,
+      803,
+      316,
+      14
+    ],
+    "text": "contributions, surcharges, foang, grants, In-",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      170,
+      819,
+      290,
+      15
+    ],
+    "text": "terest, dividends, deposits by members or by",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      844,
+      239,
+      16
+    ],
+    "text": "BA 10Us012 410 (68/00)",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      74,
+      9,
+      319,
+      15
+    ],
+    "text": "2 Esaployees Trust Fund (Amendment) -",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      201,
+      26,
+      194,
+      14
+    ],
+    "text": "Act, No, 47 of 1988 :",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      167,
+      57,
+      288,
+      16
+    ],
+    "text": "employers on their behalf, borrowings from",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      166,
+      73,
+      290,
+      15
+    ],
+    "text": "Banks and other sourves and all moneys reail-",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      167,
+      91,
+      289,
+      13
+    ],
+    "text": "sed from investments and sale of movable or",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      167,
+      107,
+      289,
+      15
+    ],
+    "text": "immovable property or any other form of",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      167,
+      123,
+      289,
+      16
+    ],
+    "text": "payment whataover and shall cedit all such",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      166,
+      141,
+      155,
+      14
+    ],
+    "text": "moneys to the Fund ;;",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      65,
+      160,
+      391,
+      18
+    ],
+    "text": "_ @) by the insertion immediately after paragraph (a) of",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      129,
+      177,
+      308,
+      15
+    ],
+    "text": "that ection of the following new paragraph :",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      128,
+      198,
+      329,
+      14
+    ],
+    "text": "(a) may acquire, i any manner whatsoever",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      166,
+      214,
+      290,
+      15
+    ],
+    "text": "and hold, take or give on lease or hire,",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      165,
+      231,
+      291,
+      15
+    ],
+    "text": "mortgage, pledge, sell or otherwise dispose",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      166,
+      249,
+      264,
+      14
+    ],
+    "text": "af, any movable or immovable property ;\".",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      91,
+      282,
+      433,
+      14
+    ],
+    "text": "5 The following new section is hereby inserted Imme- Insertion",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      78,
+      295,
+      478,
+      20
+    ],
+    "text": "diately after section 8, and shall have effect as section Ba Of PEW be6,",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      78,
+      316,
+      447,
+      13
+    ],
+    "text": "of the principal enactment; ~ principal",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      78,
+      328,
+      457,
+      19
+    ],
+    "text": "The seal Ba, The seal of the Board snaczient,",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      78,
+      348,
+      34,
+      9
+    ],
+    "text": "af the",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77,
+      359,
+      35,
+      9
+    ],
+    "text": "Board.",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      185,
+      368,
+      272,
+      14
+    ],
+    "text": "(a) shall be in the custody of auch persons",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      222,
+      385,
+      235,
+      14
+    ],
+    "text": "as the Board may irom time to time",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      222,
+      401,
+      71,
+      14
+    ],
+    "text": "determine ;",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      185,
+      421,
+      369,
+      14
+    ],
+    "text": "{0} may be altered in such manner as .",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      102,
+      438,
+      355,
+      14
+    ],
+    "text": ": may be deterniined by the Board;",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      218,
+      445,
+      120,
+      31
+    ],
+    "text": "and :",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      186,
+      474,
+      271,
+      14
+    ],
+    "text": "(c) shall net be affixed to any document",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      223,
+      491,
+      234,
+      13
+    ],
+    "text": "except with the sonction of. the",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      222,
+      507,
+      235,
+      14
+    ],
+    "text": "Board, and in the presence of two",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      223,
+      524,
+      234,
+      14
+    ],
+    "text": "members of the Bosra who shall sign",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      223,
+      541,
+      236,
+      14
+    ],
+    "text": "the document in token of their pre-",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      220,
+      552,
+      239,
+      31
+    ],
+    "text": "pence,\" road",
+    "mean_p_confidence": 0.06
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      91,
+      590,
+      454,
+      14
+    ],
+    "text": "6. Section 18 of the principal enactment is hereby Amendment",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      78,
+      605,
+      450,
+      20
+    ],
+    "text": "amended by the substitution for the words A self ofsection",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77,
+      617,
+      449,
+      21
+    ],
+    "text": "employed person desiring, of the words A self-employed principal",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      78,
+      638,
+      458,
+      16
+    ],
+    "text": "person or a migrant worker destring *: Enaclznent.",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      91,
+      676,
+      453,
+      15
+    ],
+    "text": "7. Section 20 of the principal enactment ig hereby Amendment",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79,
+      687,
+      449,
+      28
+    ],
+    "text": "amended as follows : gi section",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      95,
+      713,
+      439,
+      21
+    ],
+    "text": "(1) by the repeal of subsection (2) of, thet section and PRMIPA",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      132,
+      730,
+      405,
+      19
+    ],
+    "text": "the aubstitution of the following subsection \"",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      132,
+      748,
+      73,
+      11
+    ],
+    "text": "therefor :",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      145,
+      768,
+      314,
+      16
+    ],
+    "text": "@) Where a person becomen a member of the",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      132,
+      784,
+      327,
+      18
+    ],
+    "text": "Fund under the provisions of subsection (1), he",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      132,
+      800,
+      327,
+      18
+    ],
+    "text": "shall in respect of each month pay on or before the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      132,
+      817,
+      327,
+      16
+    ],
+    "text": "Jaat day of the succeeding month # contribution at",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      141,
+      15,
+      315,
+      15
+    ],
+    "text": "Bmployses? Trust Fund (Amendment) 3",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      200,
+      32,
+      134,
+      14
+    ],
+    "text": "Act, No, 47 of 1988",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      125,
+      61,
+      331,
+      18
+    ],
+    "text": "ap. amount equal to twenty-five rupees of a multiple",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      125,
+      81,
+      330,
+      14
+    ],
+    "text": "thereof, so howevar thet the amount of the monthly",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      125,
+      97,
+      330,
+      14
+    ],
+    "text": "contribution shail be constant during the calender",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      125,
+      114,
+      47,
+      13
+    ],
+    "text": "year;",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      88,
+      138,
+      367,
+      13
+    ],
+    "text": "(2) in subsection (8) of that section by the substitution",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      124,
+      155,
+      339,
+      15
+    ],
+    "text": "for the words auch date as he ceases to be self ,",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      125,
+      171,
+      330,
+      14
+    ],
+    "text": "entoloyed, of the words such date aa he ceases",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      124,
+      188,
+      330,
+      14
+    ],
+    "text": "to be relf-employed or ceases to be employed",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      125,
+      204,
+      131,
+      13
+    ],
+    "text": "cutside Sri Lanka;",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      88,
+      232,
+      366,
+      13
+    ],
+    "text": "(8) by the addition at the end of that section of the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      82,
+      247,
+      197,
+      15
+    ],
+    "text": "following subsection :",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      138,
+      276,
+      316,
+      14
+    ],
+    "text": "(@) In the event of the non-payment of",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90,
+      293,
+      363,
+      12
+    ],
+    "text": ". contributions for three consecutive months in a",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      125,
+      309,
+      328,
+      13
+    ],
+    "text": "calendat year ox for en aggregate of five months",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      124,
+      325,
+      329,
+      14
+    ],
+    "text": "in a celender year by a person becoming a member",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      124,
+      341,
+      373,
+      14
+    ],
+    "text": "of the Fund under subsection (1), such member .",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      124,
+      358,
+      330,
+      13
+    ],
+    "text": "shall not be entitled to any interest ot dividend tor",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      123,
+      374,
+      330,
+      14
+    ],
+    "text": "thet calendar year on his contributions to the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      123,
+      390,
+      50,
+      11
+    ],
+    "text": "Fond,",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      84,
+      422,
+      453,
+      21
+    ],
+    "text": "8, Section 22 of the principal enackment is hereby Amendment",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72,
+      440,
+      449,
+      14
+    ],
+    "text": "amended by the repeal of the proviso to subsection (1) of 2 of the",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72,
+      455,
+      446,
+      14
+    ],
+    "text": "that section and the substitution therefor of the following pridelpal",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      133,
+      466,
+      396,
+      9
+    ],
+    "text": "Enactament.",
+    "mean_p_confidence": -0.0
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71,
+      475,
+      94,
+      10
+    ],
+    "text": "new proviso",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      84,
+      496,
+      370,
+      15
+    ],
+    "text": "Provided thet for the period commencing on the first",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      85,
+      517,
+      368,
+      14
+    ],
+    "text": "day of January of the colendar year in which any gum is",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      82,
+      537,
+      371,
+      14
+    ],
+    "text": "paid ag a benefit under this Act to, or in respect of,",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      84,
+      557,
+      368,
+      14
+    ],
+    "text": "member of the Fund and ending on the last day of the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      84,
+      578,
+      368,
+      14
+    ],
+    "text": "taonth preceding the date of payment of that sur, interest",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      84,
+      598,
+      369,
+      15
+    ],
+    "text": "at the rate of three per centum per annum shall be pald",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      84,
+      618,
+      369,
+      13
+    ],
+    "text": "on the amount to the credit of the individual account of",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      84,
+      638,
+      355,
+      15
+    ],
+    "text": "that member on the date of termination of that period..",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      85,
+      668,
+      455,
+      24
+    ],
+    "text": "8 Section 23 of the vrimcipal enactment is hereby Replacement",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72,
+      690,
+      449,
+      20
+    ],
+    "text": "repealed and the following section substituted therefor: 9 sgcuon.",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      498,
+      712,
+      3,
+      9
+    ],
+    "text": "i",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71,
+      712,
+      457,
+      29
+    ],
+    "text": "SPement ot 98. (1) Subject to the provisions ot Erasinent",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72,
+      741,
+      381,
+      22
+    ],
+    "text": "cmployees on section 24, the amount standing to the credit",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72,
+      756,
+      463,
+      20
+    ],
+    "text": "of employment, of any employee in hia individual account :",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      167,
+      782,
+      285,
+      15
+    ],
+    "text": "shall be payable by the Bosrd to such",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      167,
+      803,
+      285,
+      14
+    ],
+    "text": "eraployee on the termination of his employ-",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      166,
+      824,
+      233,
+      12
+    ],
+    "text": "ment: : .",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      164,
+      12,
+      316,
+      16
+    ],
+    "text": "4 Employers Trest Fund (Amendment)",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      291,
+      29,
+      128,
+      14
+    ],
+    "text": "Act, No. 47 of 1988",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      272,
+      62,
+      277,
+      11
+    ],
+    "text": "Provided that a member of the Fund shall",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      259,
+      78,
+      290,
+      14
+    ],
+    "text": "cot be entitled to withdraw any sum atand-",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      259,
+      95,
+      290,
+      13
+    ],
+    "text": "jog to his credit in his individual account",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      260,
+      111,
+      289,
+      13
+    ],
+    "text": "more than once in a period of five years",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      259,
+      128,
+      55,
+      13
+    ],
+    "text": "except",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      163,
+      151,
+      387,
+      14
+    ],
+    "text": "a (@) where a member is over sixty years of",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      313,
+      170,
+      49,
+      11
+    ],
+    "text": "age; or",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      276,
+      191,
+      273,
+      14
+    ],
+    "text": "() where a member satisfies the Board by",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      314,
+      208,
+      235,
+      14
+    ],
+    "text": "documentary evidence, that he is",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      314,
+      224,
+      236,
+      12
+    ],
+    "text": "due to leave Sri Lanka with the",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      314,
+      240,
+      236,
+      14
+    ],
+    "text": "intention of not returning to Sri",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      314,
+      257,
+      236,
+      14
+    ],
+    "text": "Lanka or for permanent residence",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      314,
+      273,
+      46,
+      12
+    ],
+    "text": "abroad.",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      234,
+      297,
+      316,
+      14
+    ],
+    "text": "@) Notwithstanding anything contained in sub-",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      219,
+      318,
+      332,
+      14
+    ],
+    "text": "section (1) of this section, where an employee to",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      219,
+      338,
+      331,
+      15
+    ],
+    "text": "whom this Act applies takes up pensionable em",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      219,
+      358,
+      73,
+      13
+    ],
+    "text": "ployment",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      222,
+      382,
+      165,
+      15
+    ],
+    "text": "(im the Publfe Service ;",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      182,
+      410,
+      368,
+      14
+    ],
+    "text": ". GH) im the Local Government Service constituted",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      259,
+      431,
+      291,
+      15
+    ],
+    "text": "by the Local Government Service Act, No, 18",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      259,
+      451,
+      53,
+      14
+    ],
+    "text": "of 1974;",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      66,
+      479,
+      485,
+      14
+    ],
+    "text": "a (ii) in the District Service established under sec-",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      259,
+      500,
+      292,
+      15
+    ],
+    "text": "tion 47 of the Development Councils Act,",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      260,
+      520,
+      130,
+      15
+    ],
+    "text": "No. 35 of 1980; and",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      218,
+      541,
+      333,
+      23
+    ],
+    "text": "4y) in the serviee of any local authority other than",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      261,
+      569,
+      291,
+      13
+    ],
+    "text": "a5 a member of the Local Government Ser-",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      173,
+      589,
+      117,
+      13
+    ],
+    "text": ". vice,",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      171,
+      611,
+      381,
+      19
+    ],
+    "text": "the amount standing to the credit of such employee in his",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      171,
+      631,
+      382,
+      19
+    ],
+    "text": "individual account on the day he takes up such pensionable",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      172,
+      652,
+      381,
+      18
+    ],
+    "text": "appointment, shall be payable by the Board to such em-",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      172,
+      672,
+      56,
+      14
+    ],
+    "text": "Ployee, \".",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      78,
+      707,
+      475,
+      22
+    ],
+    "text": "Amendment 10. Section 26 of the principal enactment is hereby",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      79,
+      722,
+      242,
+      18
+    ],
+    "text": "% of the amended as follows:",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      79,
+      741,
+      49,
+      11
+    ],
+    "text": "principal",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      75,
+      749,
+      479,
+      28
+    ],
+    "text": "enactment, (@) by the substitution in subsection (1) of that section",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      106,
+      775,
+      447,
+      18
+    ],
+    "text": ". for the words and figures the proviso to section",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      225,
+      797,
+      329,
+      16
+    ],
+    "text": "23, of the words and figures the proviso to sub-",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      225,
+      819,
+      219,
+      15
+    ],
+    "text": "section (1) of section 23; and .",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      140,
+      24,
+      317,
+      15
+    ],
+    "text": "Employees Trust Fund (Amendment) 8",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      202,
+      42,
+      127,
+      13
+    ],
+    "text": "Act, No. 47 of 2988",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      91,
+      69,
+      364,
+      14
+    ],
+    "text": "(2) hy the insertion, immediately after subsection (2)",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      128,
+      89,
+      330,
+      14
+    ],
+    "text": "of that section of the following new subsection :",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      142,
+      117,
+      316,
+      15
+    ],
+    "text": "* (@) The Chairman of the Board may, where he",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      128,
+      133,
+      330,
+      14
+    ],
+    "text": "hhas reason to doubt the genuineness of a medical",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      129,
+      149,
+      328,
+      15
+    ],
+    "text": "certificate submitted by an employee under sub-",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      129,
+      166,
+      329,
+      14
+    ],
+    "text": "section {2} of this section, refer such employee fe-",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      128,
+      182,
+      330,
+      14
+    ],
+    "text": "re-examination by a duly constituted Medical Board",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93,
+      198,
+      364,
+      12
+    ],
+    "text": ". or a Government Medical Officer and where on such",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      128,
+      215,
+      329,
+      14
+    ],
+    "text": "reexamination the original medical certificate is",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      128,
+      234,
+      329,
+      15
+    ],
+    "text": "found to be false in any material particular, the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      128,
+      255,
+      329,
+      14
+    ],
+    "text": "Board shall reject such certifieste, and the Board",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      127,
+      275,
+      329,
+      13
+    ],
+    "text": "shall be entitled to refuse to accept future medical",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      127,
+      295,
+      330,
+      14
+    ],
+    "text": "certificates issued by such registered medical prac-",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      127,
+      316,
+      63,
+      11
+    ],
+    "text": "titioner. .",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      88,
+      345,
+      455,
+      28
+    ],
+    "text": "IL Section 28 of the principal enactment iz hereby Amendment",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      75,
+      365,
+      449,
+      26
+    ],
+    "text": "amended as follows : ste",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90,
+      384,
+      443,
+      23
+    ],
+    "text": "(1) im subsection (2) of thet section, by the substitution Enactment,",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      127,
+      409,
+      329,
+      14
+    ],
+    "text": "for the words \" where the defoulting employer resi-",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      127,
+      425,
+      329,
+      14
+    ],
+    "text": "des or in which any property movable or immova-",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      127,
+      441,
+      329,
+      15
+    ],
+    "text": "ble owned by such employer is situated, of the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      127,
+      459,
+      329,
+      13
+    ],
+    "text": "words in which the employee in respect of whom",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      127,
+      475,
+      328,
+      14
+    ],
+    "text": "the default in made is, or was, employed, by such",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      127,
+      492,
+      179,
+      14
+    ],
+    "text": "defaulting employes, ; and",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90,
+      519,
+      365,
+      15
+    ],
+    "text": "(2) in subsection (8) of that section, by the substitution",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      127,
+      537,
+      328,
+      14
+    ],
+    "text": "tor the words over the place of work of such em-",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      126,
+      553,
+      329,
+      14
+    ],
+    "text": "ployer. , of the words in the division in which the",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      127,
+      570,
+      328,
+      14
+    ],
+    "text": "place of work of the employse in respect of whom",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      127,
+      586,
+      214,
+      14
+    ],
+    "text": "the default is made, is situate.",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      88,
+      618,
+      454,
+      20
+    ],
+    "text": "12 Section 38 of the principal enactment in hereby Replacgment",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      74,
+      631,
+      449,
+      18
+    ],
+    "text": "repealed and the following section substituted therefor: $3 of the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      74,
+      651,
+      457,
+      28
+    ],
+    "text": "Boga or 83, (2) Al claims to any payment trom Zaasent,",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      75,
+      675,
+      382,
+      17
+    ],
+    "text": "Sees yy the Fund shall be determined by the Board",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      75,
+      691,
+      380,
+      22
+    ],
+    "text": "EeqBoard or an officer authorized in thot behalf by the",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      74,
+      700,
+      382,
+      33
+    ],
+    "text": "Sains Board and the determination of the Board",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      169,
+      726,
+      287,
+      14
+    ],
+    "text": "or such officer shall, subject to any decision",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      169,
+      742,
+      286,
+      15
+    ],
+    "text": "fon appesl made against such determination,",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      169,
+      759,
+      52,
+      16
+    ],
+    "text": "be final.",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      185,
+      778,
+      270,
+      15
+    ],
+    "text": "(2) Any person dissatisfied with a deter-",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      169,
+      795,
+      286,
+      15
+    ],
+    "text": "mination made by an offer of the Board",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      169,
+      810,
+      285,
+      16
+    ],
+    "text": "under subsection (1) may appeal therefrom",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      169,
+      828,
+      286,
+      15
+    ],
+    "text": "to the Bourd, within thirty days of the com-",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      63,
+      17,
+      313,
+      15
+    ],
+    "text": "6 Employecs Trust Fund (Amendment)",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      191,
+      36,
+      124,
+      13
+    ],
+    "text": "Act. No. 47 of 1988.",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      160,
+      68,
+      287,
+      12
+    ],
+    "text": "munication of such determination to such",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      160,
+      84,
+      287,
+      15
+    ],
+    "text": "person, The Board may, on any appeal, con-",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      160,
+      101,
+      287,
+      14
+    ],
+    "text": "firm, vary or overrule the determination of",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      160,
+      117,
+      287,
+      13
+    ],
+    "text": "the officer and the decision of the Board in",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      160,
+      134,
+      287,
+      15
+    ],
+    "text": "any such appeal shall be deemed to be a",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      160,
+      150,
+      287,
+      14
+    ],
+    "text": "determination of the Board, for the purposes",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      160,
+      167,
+      214,
+      14
+    ],
+    "text": "of subsection (1) of section 34,",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      82,
+      190,
+      451,
+      21
+    ],
+    "text": "1%, Section $4 of the principal enactment is hereby Amendment",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      69,
+      211,
+      449,
+      14
+    ],
+    "text": "amended by the repeal of subsection (8) af that section and 4 of the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      69,
+      223,
+      456,
+      21
+    ],
+    "text": "the substitution of the following subsection therefor : prineinal",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      107,
+      253,
+      341,
+      13
+    ],
+    "text": "(8) The petition of appeal shell be fled within thirty",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      94,
+      269,
+      354,
+      14
+    ],
+    "text": "days of the communication af the determination to the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      94,
+      286,
+      461,
+      14
+    ],
+    "text": "appellant. The date on which a determination is -",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      94,
+      303,
+      354,
+      14
+    ],
+    "text": "communicated to a person, for the purposes of subsection",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      96,
+      320,
+      352,
+      13
+    ],
+    "text": "(2) of section 33 and this section, shall be deemed to",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      94,
+      336,
+      355,
+      14
+    ],
+    "text": "be the date on which such determination is posted under",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      94,
+      354,
+      369,
+      14
+    ],
+    "text": "registered cover to such person., .",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      83,
+      383,
+      452,
+      20
+    ],
+    "text": "14, Section 37 of the principal enactment is herehy Amendment",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      70,
+      402,
+      469,
+      14
+    ],
+    "text": "amended by the repeal of paragraph (c) of that section and 37 of the",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      69,
+      415,
+      459,
+      21
+    ],
+    "text": "the substitution therefor of the following paragraph: Principal |",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      83,
+      442,
+      367,
+      15
+    ],
+    "text": "* (@) a true copy of or extract from any register of record,",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      135,
+      460,
+      315,
+      16
+    ],
+    "text": "required by this Act or under any other law, to",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      135,
+      476,
+      315,
+      14
+    ],
+    "text": "be kept by that employer or any part of such",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      135,
+      493,
+      129,
+      13
+    ],
+    "text": "Tegister or record,.",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      85,
+      524,
+      435,
+      14
+    ],
+    "text": "15, The following new sections are hereby inserted Theertion",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72,
+      536,
+      473,
+      20
+    ],
+    "text": "immediately after section 40, and shall have effect as Of DCW Ping",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72,
+      557,
+      449,
+      23
+    ],
+    "text": "sections 404 and 405 of the principal enactment : sein ne",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      71,
+      572,
+      459,
+      29
+    ],
+    "text": "Proteionct 404. No member, offlcer or servant of the Siectnent",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      71,
+      594,
+      383,
+      18
+    ],
+    "text": "Oiicereshg Board shall be Hable efther civilly or crimi-",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      71,
+      614,
+      383,
+      20
+    ],
+    "text": "gevants of | naily, in respect of anything he may have",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      168,
+      631,
+      340,
+      13
+    ],
+    "text": "done or may have omitted to de, when act- .",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      168,
+      647,
+      286,
+      14
+    ],
+    "text": "ing in good faith, in pursuance or in suppo-",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      169,
+      663,
+      334,
+      15
+    ],
+    "text": "sed pursuance of his powers or fn the per ;",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      169,
+      680,
+      259,
+      12
+    ],
+    "text": "formance of his duties under this Act.",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      73,
+      705,
+      451,
+      23
+    ],
+    "text": "Reimbursement 405. Every member, officer of servant of 7",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      76,
+      721,
+      375,
+      18
+    ],
+    "text": "incurgedon the Boatd shsll be indemnified from the",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      74,
+      740,
+      382,
+      21
+    ],
+    "text": "pobalf of Fund for alt losses and expenses incurred by",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      167,
+      757,
+      286,
+      16
+    ],
+    "text": "him in, or about, the performance of bis",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      171,
+      774,
+      285,
+      15
+    ],
+    "text": "duties, other than such lossea and expenses",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      171,
+      791,
+      285,
+      15
+    ],
+    "text": "as the Board may deom to have been",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      171,
+      808,
+      285,
+      27
+    ],
+    "text": "seeesioned by Tis miveanduct or wiltal de-",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      49,
+      824,
+      168,
+      12
+    ],
+    "text": ". 1,",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      145,
+      14,
+      317,
+      17
+    ],
+    "text": "Employees Trust Fund (Amendment) ot",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      207,
+      31,
+      218,
+      14
+    ],
+    "text": "Act, No. 47 of 1988 -",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      94,
+      63,
+      450,
+      14
+    ],
+    "text": "1G, Section 44 of the principal enactment ig hereby Amendment",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      80,
+      70,
+      452,
+      31
+    ],
+    "text": "amended as follows :~ . ores",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      96,
+      96,
+      443,
+      21
+    ],
+    "text": "(1) by the insertion, immediately before the definition Enmehment.",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      133,
+      120,
+      297,
+      14
+    ],
+    "text": "of earnings, of the following definition :",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      133,
+      144,
+      329,
+      13
+    ],
+    "text": "duly constituted Medical Board means a",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      186,
+      161,
+      276,
+      14
+    ],
+    "text": "Medical Board nominated by the Director-",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      185,
+      178,
+      277,
+      14
+    ],
+    "text": "General of Health Services on an applica-",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      186,
+      195,
+      277,
+      13
+    ],
+    "text": "tion made by the Chairman of the Board",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      186,
+      212,
+      277,
+      14
+    ],
+    "text": "for the purpose of examining persons the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      185,
+      228,
+      278,
+      15
+    ],
+    "text": "medical certificates submitted by whom give",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      183,
+      245,
+      177,
+      14
+    ],
+    "text": "rise to reasonable doubt ;7;",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      97,
+      273,
+      367,
+      14
+    ],
+    "text": "(2) by she substitution for the definition of earings ,",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      134,
+      290,
+      196,
+      14
+    ],
+    "text": "of the following definition :",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      135,
+      314,
+      139,
+      14
+    ],
+    "text": "\"earnings\" means",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      177,
+      336,
+      312,
+      17
+    ],
+    "text": "(@) wages, salary or fees; .",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      177,
+      360,
+      288,
+      14
+    ],
+    "text": "() cost of living allowance, special Jiving",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      214,
+      376,
+      250,
+      14
+    ],
+    "text": "allowance and any other similar",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      213,
+      393,
+      75,
+      14
+    ],
+    "text": "allowances ;",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      177,
+      418,
+      235,
+      14
+    ],
+    "text": "() payment in respect of holidays;",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      177,
+      442,
+      288,
+      14
+    ],
+    "text": "(@) the cash value of any cooked or un-",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      215,
+      461,
+      325,
+      15
+    ],
+    "text": "cooked food provided by the employer",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      213,
+      483,
+      252,
+      14
+    ],
+    "text": "to employees in prescribed employ-",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      215,
+      503,
+      250,
+      15
+    ],
+    "text": "ments and any such commodity used, in",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      213,
+      525,
+      251,
+      14
+    ],
+    "text": "preparation or composition of any",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      215,
+      545,
+      250,
+      14
+    ],
+    "text": "food as is so provided, such value being",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      214,
+      566,
+      251,
+      14
+    ],
+    "text": "assessed by the employer subject to an",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      216,
+      586,
+      249,
+      15
+    ],
+    "text": "sppeal to the Commissioner of Labour",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      214,
+      607,
+      251,
+      14
+    ],
+    "text": "whose decision of such appeal shall be",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      215,
+      629,
+      35,
+      13
+    ],
+    "text": "final ;",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      179,
+      653,
+      160,
+      14
+    ],
+    "text": "(@) meal allowance; and",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      179,
+      677,
+      287,
+      15
+    ],
+    "text": "(@) such other forms of remuneration as",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      215,
+      698,
+      144,
+      14
+    ],
+    "text": "may be prescribed ;*;",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      100,
+      727,
+      413,
+      16
+    ],
+    "text": "43) by the substitution for the definition of employee, .",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      137,
+      744,
+      262,
+      15
+    ],
+    "text": "of the following definition :",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      128,
+      768,
+      337,
+      14
+    ],
+    "text": ". employee means any person who hea entered",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      190,
+      785,
+      275,
+      12
+    ],
+    "text": "into or works under a contract with an",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      190,
+      802,
+      275,
+      17
+    ],
+    "text": "employer in any copacity, whether the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      190,
+      819,
+      275,
+      14
+    ],
+    "text": "contract is expressed or implied, or orat",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72,
+      8,
+      318,
+      16
+    ],
+    "text": "8 mployees Trust Pung (Amendment)",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      198,
+      26,
+      124,
+      13
+    ],
+    "text": "Act, No. 47 of 1088",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      64,
+      57,
+      389,
+      15
+    ],
+    "text": ". or in writing, and whether it is a contract of",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      176,
+      75,
+      277,
+      14
+    ],
+    "text": "service or of apprenticeship or a contract",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      175,
+      91,
+      278,
+      15
+    ],
+    "text": "personally to execute any work of labour,",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      175,
+      108,
+      278,
+      14
+    ],
+    "text": "and inchides any person. ordinarily employ-",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      175,
+      124,
+      278,
+      15
+    ],
+    "text": "ed under any auch contract, whether such",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      175,
+      142,
+      278,
+      15
+    ],
+    "text": "person fs, or is not in employment at.any",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      174,
+      159,
+      154,
+      14
+    ],
+    "text": "particular time ;\"; and",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      89,
+      188,
+      351,
+      22
+    ],
+    "text": "(2) by the substitution for the definition of employer \",",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      124,
+      213,
+      190,
+      13
+    ],
+    "text": "of the following definition :",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      124,
+      237,
+      329,
+      14
+    ],
+    "text": "employer means any person who employs oF",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      175,
+      253,
+      277,
+      15
+    ],
+    "text": "con whose behalf any other person employs",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      174,
+      270,
+      278,
+      14
+    ],
+    "text": "any workman and inclides a body of",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      175,
+      287,
+      278,
+      14
+    ],
+    "text": "employers (whether such body is a firm,",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      174,
+      304,
+      278,
+      14
+    ],
+    "text": "company, corporation of trade union), and",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      176,
+      321,
+      277,
+      14
+    ],
+    "text": "any person who on behalf of any other",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      166,
+      338,
+      286,
+      14
+    ],
+    "text": "\" person employs any workman, and includes",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      176,
+      355,
+      276,
+      14
+    ],
+    "text": "a competent authority of a business under-",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      174,
+      372,
+      277,
+      14
+    ],
+    "text": "tuking vested in the Government under aby",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      176,
+      389,
+      277,
+      13
+    ],
+    "text": "written law, the legal helr, successor in",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      174,
+      406,
+      279,
+      13
+    ],
+    "text": "Jaw, executor or adminstrator and liquidator",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      176,
+      423,
+      276,
+      13
+    ],
+    "text": "of a compeny; and in the case of am",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      78,
+      439,
+      375,
+      16
+    ],
+    "text": ": unincorporated body, the president or the",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      176,
+      456,
+      277,
+      13
+    ],
+    "text": "seoretary of such body, and in the case of @",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      176,
+      473,
+      277,
+      14
+    ],
+    "text": "partnership, the managing partner or",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      176,
+      490,
+      75,
+      13
+    ],
+    "text": "manager 5\";",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      89,
+      522,
+      365,
+      14
+    ],
+    "text": "() by the insertion, immediately after the definition of",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      126,
+      539,
+      281,
+      14
+    ],
+    "text": "employer, of. the following definitions :",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      154,
+      562,
+      299,
+      15
+    ],
+    "text": "**Jocal authority means any Municipal Counell,",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      177,
+      583,
+      276,
+      14
+    ],
+    "text": "Urban Council or Pradeshiya Sabha and",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      176,
+      604,
+      277,
+      14
+    ],
+    "text": "includes any authority created and",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      178,
+      624,
+      275,
+      15
+    ],
+    "text": "established by or under any law to exerelse,",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      178,
+      645,
+      275,
+      15
+    ],
+    "text": "perform and discharge powers, duties and",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      178,
+      666,
+      275,
+      14
+    ],
+    "text": "functions corresponding Yo or similar to",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      178,
+      686,
+      275,
+      14
+    ],
+    "text": "the powers, dutfes and funetions exercised,",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      178,
+      707,
+      275,
+      15
+    ],
+    "text": "performed and discharged by any such",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      177,
+      728,
+      119,
+      14
+    ],
+    "text": "Council or Sabha;",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      141,
+      752,
+      312,
+      16
+    ],
+    "text": "migrant worker\" means a person who fs a",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      179,
+      773,
+      274,
+      15
+    ],
+    "text": "citizen of Sri Lanka but is employed",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      179,
+      794,
+      274,
+      16
+    ],
+    "text": "outside SH Lanka, for so long as auch",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      179,
+      815,
+      153,
+      14
+    ],
+    "text": "person is so employed.",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      233,
+      15,
+      313,
+      16
+    ],
+    "text": "Employees Trust Fund (Amendment) 9",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      295,
+      32,
+      125,
+      14
+    ],
+    "text": "Act. No. 47 of 1988",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      73,
+      64,
+      473,
+      23
+    ],
+    "text": "transition _,, #7 Notwithstanding anything in the principal enactment",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      74,
+      81,
+      472,
+      18
+    ],
+    "text": "Srovices! the amount standing to the credit vf the individual eccount",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      168,
+      99,
+      133,
+      14
+    ],
+    "text": "of en employee of",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      121,
+      121,
+      426,
+      15
+    ],
+    "text": ": {a) the University Grants Commission established by the",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      220,
+      137,
+      326,
+      14
+    ],
+    "text": "Universities Act, No, 16 of 1978 or of a Higher",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      219,
+      154,
+      328,
+      13
+    ],
+    "text": "Educational Institute within the meaning of that",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      220,
+      172,
+      29,
+      12
+    ],
+    "text": "Act;",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      183,
+      191,
+      363,
+      14
+    ],
+    "text": "(0) the National Apprenticeship Board established by the",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      218,
+      207,
+      284,
+      14
+    ],
+    "text": "National Apprenticeship Act, No. 49 of 2971,",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      168,
+      232,
+      379,
+      13
+    ],
+    "text": "on the date of commencement of this Act, shall be paid to",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      167,
+      248,
+      384,
+      14
+    ],
+    "text": "such employee by the Board within six months of the date",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      167,
+      265,
+      197,
+      11
+    ],
+    "text": "of commencement of this Act.",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      92,
+      772,
+      350,
+      12
+    ],
+    "text": "ami ahah =e",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      82,
+      779,
+      468,
+      21
+    ],
+    "text": "Aumusl subscription of ills and Acts of tho Parliament Re, 12% (acai?",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      82,
+      792,
+      473,
+      20
+    ],
+    "text": "Bepcit (Foreign), payable to the Sureuerennert, Govmaisten PUBLICATIONS",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      82,
+      805,
+      473,
+      22
+    ],
+    "text": "Buntav, Covonsao 1, before 16th Donamber each year in respect af tha yeor",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      286,
+      826,
+      56,
+      13
+    ],
+    "text": "following.",
+    "mean_p_confidence": 0.11
+  }
+]

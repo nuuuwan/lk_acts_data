@@ -1,0 +1,519 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      305,
+      82,
+      64,
+      15
+    ],
+    "text": "eave",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      309,
+      124,
+      45,
+      15
+    ],
+    "text": "eps",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      346,
+      138,
+      20,
+      23
+    ],
+    "text": "ae",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      90,
+      183,
+      428,
+      27
+    ],
+    "text": "_ PARLIAMENT OF THE DEMOCRATIC",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      191,
+      215,
+      267,
+      19
+    ],
+    "text": "SOCIALIST REPUBLIC OF",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      269,
+      250,
+      119,
+      17
+    ],
+    "text": "SRI LANKA",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      141,
+      375,
+      359,
+      21
+    ],
+    "text": "CODE OF CRIMINAL PROCEDURE",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      244,
+      412,
+      156,
+      27
+    ],
+    "text": "(AMENDMENT)",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      216,
+      443,
+      212,
+      20
+    ],
+    "text": "ACT, No. 15 OF 1989",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      198,
+      533,
+      244,
+      19
+    ],
+    "text": "[Certified on 3rd November, 1989]",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      194,
+      594,
+      252,
+      16
+    ],
+    "text": "Printed on the Orders of Government",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      84,
+      696,
+      474,
+      22
+    ],
+    "text": "Published as a Supplement to Part I? of the Gazette of the Democratic",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      140,
+      720,
+      369,
+      18
+    ],
+    "text": "Socialist Republic of Sri Lanka of November 03, 1989",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      134,
+      773,
+      367,
+      11
+    ],
+    "text": "[FETED AZ THE DEPATERCENT OF CRVERESOENE MAINTING, 241 LANA",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      91,
+      789,
+      461,
+      21
+    ],
+    "text": "SS Be PERCRARED AT Fa GOVEEIOGINT FUMCATIONG BURZAY, COLOMG",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      75,
+      825,
+      480,
+      24
+    ],
+    "text": "Prize : WO cents, Postage : 75 cents,",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      146,
+      25,
+      271,
+      20
+    ],
+    "text": "Code of Criminal Procedure (Amendment)",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      233,
+      52,
+      101,
+      14
+    ],
+    "text": "Act, No. 15 1959",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      175,
+      77,
+      219,
+      14
+    ],
+    "text": "[Certified on 3rd November, 1989}",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93,
+      98,
+      186,
+      17
+    ],
+    "text": "LDO, 367/88",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      94,
+      127,
+      378,
+      11
+    ],
+    "text": "Aw Act 10 axgmnp Tas Cone of Camamat Procspune",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      219,
+      143,
+      131,
+      13
+    ],
+    "text": "Act, No. 15 of 1979",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      94,
+      175,
+      380,
+      14
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic Socialist",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      95,
+      192,
+      242,
+      13
+    ],
+    "text": "Republic of Sri Lanka as followa:",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      109,
+      216,
+      440,
+      14
+    ],
+    "text": "1. This Act may be cited as the Code of Criminal Short ttle,",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      95,
+      232,
+      296,
+      14
+    ],
+    "text": "Procedure (Amendment) Act, No. 15 of 1989.",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108,
+      263,
+      459,
+      22
+    ],
+    "text": "2 Section 188 of the Code of Criminal Procedure Act, Amendment,",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96,
+      283,
+      457,
+      14
+    ],
+    "text": "No. 25 of 1079, ts hereby amended by the repeal of sub- of act No,",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96,
+      298,
+      448,
+      14
+    ],
+    "text": "section (3) of that section and the substitution therefor, 18 of 1872.",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      95,
+      316,
+      196,
+      14
+    ],
+    "text": "of the following subsection :",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122,
+      341,
+      354,
+      14
+    ],
+    "text": "() The order of discharge referred to in subsection",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98,
+      358,
+      314,
+      13
+    ],
+    "text": "{2) shall operate as an acquittal where either",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      111,
+      381,
+      366,
+      14
+    ],
+    "text": "(a) it 3s not set aside and the case against the accused",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      148,
+      399,
+      329,
+      14
+    ],
+    "text": "tg not reopened within a period of one year from",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      143,
+      408,
+      229,
+      26
+    ],
+    "text": "the date of such order; or .",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      111,
+      440,
+      367,
+      14
+    ],
+    "text": "() the case has keen duly reopened and an order of",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      148,
+      456,
+      260,
+      14
+    ],
+    "text": "discharge is made for the second time:",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      107,
+      489,
+      370,
+      14
+    ],
+    "text": "Provided that where an application to set aside the onder",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      95,
+      506,
+      382,
+      14
+    ],
+    "text": "of discharge is pending before a Magistrate or any other",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      95,
+      522,
+      382,
+      15
+    ],
+    "text": "court in revision, the order of discharge shall not operate",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      95,
+      539,
+      382,
+      14
+    ],
+    "text": "as an acquittal at the end of the period of one year until",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      94,
+      555,
+      383,
+      14
+    ],
+    "text": "the Magistrate or such court makes order refusing the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      94,
+      572,
+      214,
+      16
+    ],
+    "text": "applfcation to set it aside. :",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      76,
+      784,
+      479,
+      17
+    ],
+    "text": "Aemual subvocription of Hills and Act of the Paslioment Re, 177 (Local),",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77,
+      802,
+      478,
+      14
+    ],
+    "text": "Be 296 (Foreiga) paysble to the Suveanrrexpmr GOVERNMEW? PUBLICATIONS",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      76,
+      817,
+      480,
+      13
+    ],
+    "text": "Bumag, Cover i, before 16th December each year in respect af the year",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      282,
+      819,
+      169,
+      32
+    ],
+    "text": "tollowing .",
+    "mean_p_confidence": 0.15
+  }
+]
