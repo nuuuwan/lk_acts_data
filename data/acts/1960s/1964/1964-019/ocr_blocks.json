@@ -1,0 +1,541 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      356,
+      12,
+      224,
+      25
+    ],
+    "text": "a - :",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62,
+      43,
+      436,
+      25
+    ],
+    "text": ". .PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      220,
+      90,
+      290,
+      22
+    ],
+    "text": "5th Session 1964-65 __",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      416,
+      115,
+      125,
+      23
+    ],
+    "text": "PP.",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      67,
+      131,
+      488,
+      30
+    ],
+    "text": "ey Ee AY.",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      53,
+      151,
+      512,
+      18
+    ],
+    "text": ": Sey f SS",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      276,
+      167,
+      291,
+      32
+    ],
+    "text": "ASD o yak U7 72IB |",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      295,
+      177,
+      274,
+      58
+    ],
+    "text": "(a)",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      258,
+      241,
+      322,
+      40
+    ],
+    "text": "aa",
+    "mean_p_confidence": 0.09
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      113,
+      301,
+      399,
+      38
+    ],
+    "text": "Veterinary Surgeons and",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115,
+      349,
+      397,
+      38
+    ],
+    "text": "Practitioners (Amendment)",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      145,
+      399,
+      311,
+      33
+    ],
+    "text": ". Act, No. 19 of 1964",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      55,
+      513,
+      373,
+      36
+    ],
+    "text": ". Date of Assent: September 19, 1964",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      74,
+      636,
+      362,
+      26
+    ],
+    "text": ", . Prinsed on the Orilers of Government",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      135,
+      756,
+      359,
+      13
+    ],
+    "text": "Printed at the Goverment Parse, Certon. To be",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      79,
+      768,
+      416,
+      12
+    ],
+    "text": ". purchased at the Goveutment Pusiications Burra, CoLoMeo",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      43,
+      786,
+      452,
+      23
+    ],
+    "text": ">. Sebparinciiee pont a ag Bat",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      136,
+      801,
+      358,
+      30
+    ],
+    "text": "REED Pvetle 8 Sans SRS eee a",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      136,
+      852,
+      445,
+      25
+    ],
+    "text": "Pricet 15 conts, Postage: 15 cents, ee",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      5,
+      517,
+      33
+    ],
+    "text": "Veterinary Surgeons and Practitioners (Amendment) ans",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      31,
+      32,
+      442,
+      26
+    ],
+    "text": "1 Act, No. 19 of 1964 *",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      31,
+      57,
+      543,
+      18
+    ],
+    "text": "i L. D.O. 41/63. . -",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      39,
+      86,
+      406,
+      18
+    ],
+    "text": "AN Acr 10 amenp Tap VETERINARY SURGEONS AND",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      121,
+      102,
+      276,
+      18
+    ],
+    "text": "Practitioners Act, No. 46 oF 1058.",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      130,
+      335,
+      22
+    ],
+    "text": ". [Date of Assent: September 19, 1964]",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      31,
+      158,
+      422,
+      21
+    ],
+    "text": "| BE it enacted by the Queen's Most Excellent Majesty,",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      173,
+      393,
+      41
+    ],
+    "text": "by and with the advice and consent of the Senate and",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      32,
+      191,
+      423,
+      25
+    ],
+    "text": "| the House of Representatives of Ceylon in this present",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      31,
+      207,
+      424,
+      31
+    ],
+    "text": "j Parliament, assembled, and by tbe authority of the",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      228,
+      283,
+      16
+    ],
+    "text": "same, as follows : :",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      256,
+      445,
+      20
+    ],
+    "text": "4. This Act may be cited as the Veterinary Sten tim,",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      273,
+      389,
+      21
+    ],
+    "text": "Surgeons and Practitioners (Amendment) Act,",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      294,
+      107,
+      13
+    ],
+    "text": "No. 10 of 1964.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      321,
+      464,
+      32
+    ],
+    "text": "2, The Veterinary Surgeons and Practitioners Ameotnret at",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      334,
+      470,
+      24
+    ],
+    "text": "Act, No. 46 of 1958, is hereby amended as follows: fyirut ta",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      100,
+      355,
+      421,
+      27
+    ],
+    "text": "{2) in section 15 of that Act, by the substitution, ite.\"",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      148,
+      378,
+      309,
+      21
+    ],
+    "text": "in paragraph (a) of sub-section (1) of that",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      148,
+      395,
+      310,
+      18
+    ],
+    "text": "section, for the expression Government",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      149,
+      401,
+      311,
+      42
+    ],
+    "text": "Yeteridery, Surgeons\", of the expression",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      151,
+      427,
+      306,
+      25
+    ],
+    "text": "Deputy Director Animal Production and",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      150,
+      446,
+      111,
+      16
+    ],
+    "text": "Health; \"; and",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      31,
+      464,
+      427,
+      22
+    ],
+    "text": "i (2) in section 17 of that Act, by the substitution.",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      31,
+      480,
+      427,
+      18
+    ],
+    "text": "\\ in sub-section (3) of that section, for",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      54,
+      496,
+      405,
+      21
+    ],
+    "text": ". the expression Government Veterinary",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      151,
+      512,
+      308,
+      23
+    ],
+    "text": "Surgeon, wherever it occurs in that sub-",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      31,
+      529,
+      428,
+      23
+    ],
+    "text": "' section, of the expression * Deputy",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      153,
+      533,
+      344,
+      29
+    ],
+    "text": "Bhroctdr Animal Produetion and Health. -",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      32,
+      679,
+      559,
+      13
+    ],
+    "text": ". . '",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      589,
+      708,
+      2,
+      7
+    ],
+    "text": "i",
+    "mean_p_confidence": 0.38
+  }
+]

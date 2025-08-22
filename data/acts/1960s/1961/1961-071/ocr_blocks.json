@@ -1,0 +1,442 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      119,
+      39,
+      362,
+      28
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      209,
+      84,
+      186,
+      19
+    ],
+    "text": "2nd Seasion 1961-62",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      287,
+      134,
+      40,
+      18
+    ],
+    "text": "Sean",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      261,
+      153,
+      126,
+      31
+    ],
+    "text": "y Sapien .",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      258,
+      178,
+      92,
+      21
+    ],
+    "text": "Pisce",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      243,
+      223,
+      115,
+      39
+    ],
+    "text": "ey",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      94,
+      288,
+      360,
+      41
+    ],
+    "text": "Ceylon (Constitution)",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      174,
+      336,
+      248,
+      34
+    ],
+    "text": "Amendment Act,",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      193,
+      383,
+      207,
+      29
+    ],
+    "text": "No. 71 of 1961",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      174,
+      510,
+      237,
+      15
+    ],
+    "text": "Date of Assent: 30th December, 1962",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      162,
+      624,
+      349,
+      24
+    ],
+    "text": "Printed on the Orders of Government _",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      111,
+      741,
+      342,
+      24
+    ],
+    "text": "pee Soe i a",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      107,
+      766,
+      345,
+      29
+    ],
+    "text": "Amausl Goberiplon fIncoding Bits) Ha. 30 (Local, Re. a (Foreign),",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      110,
+      784,
+      341,
+      26
+    ],
+    "text": "Po ex omc fey 26h ear ur et",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      110,
+      809,
+      341,
+      21
+    ],
+    "text": "the yar LoDo. Tato ebverpon wil be need ox the reds",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      110,
+      824,
+      340,
+      15
+    ],
+    "text": "hat Big facoed before tha date of payment will vot be soppliad,",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76,
+      840,
+      408,
+      16
+    ],
+    "text": "Price: 10 cents Postage: 18 conte",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122,
+      30,
+      285,
+      16
+    ],
+    "text": "Coyton (Constitution) Amendment Act,",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      176,
+      46,
+      150,
+      16
+    ],
+    "text": "No. 71 of 1962\"",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      70,
+      213,
+      17
+    ],
+    "text": "L. D.0, 82/60. .",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96,
+      92,
+      339,
+      16
+    ],
+    "text": "AN Act 10 AMEND THe CEYLON (CONSTITUTION)",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      174,
+      109,
+      183,
+      14
+    ],
+    "text": "ORDER IN COUNCIL, 1846.",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      116,
+      131,
+      300,
+      19
+    ],
+    "text": "{Date of Assent: 30th December, 1081]",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      154,
+      382,
+      21
+    ],
+    "text": "BE it enacted by the Queens Most Exoollent",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      170,
+      383,
+      19
+    ],
+    "text": "Majesty, by and with the advice and congent of the",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      186,
+      472,
+      17
+    ],
+    "text": "Senate and the House of Representatives of Ceylon in :",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      201,
+      482,
+      20
+    ],
+    "text": "this present Parliament assembled, and by the an",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      219,
+      432,
+      18
+    ],
+    "text": "authority of the same, as follows: .",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      244,
+      435,
+      23
+    ],
+    "text": "4. This Act may be cited as the Ceylon sacs us.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      265,
+      430,
+      18
+    ],
+    "text": "(Constitution) Amendment Act, No. 71 of 1981, :",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      290,
+      451,
+      24
+    ],
+    "text": "2, Section 85 of the Ceylon (Constitution) Order Amidnass ot",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      308,
+      462,
+      22
+    ],
+    "text": "in Council, 1048, is hereby amended, in sub-section #220 *",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      328,
+      462,
+      21
+    ],
+    "text": "(5) of that Section, by the substitution, for the words (Cetin",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      340,
+      464,
+      23
+    ],
+    "text": "Supreme Court or a Commissioner of Assize., of | Grsal* sas,",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      360,
+      383,
+      19
+    ],
+    "text": "the words Supreme Court, a Commissioner of",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      376,
+      382,
+      30
+    ],
+    "text": "Assize, or an election judge 4p jointed by the",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      392,
+      382,
+      16
+    ],
+    "text": "Governor-General under sub-section of Section 78",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      408,
+      382,
+      18
+    ],
+    "text": "of the Ceylon (Parliamentary Elections) Order in",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      427,
+      98,
+      14
+    ],
+    "text": "Council, 1948.\".",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      855,
+      115,
+      10
+    ],
+    "text": "SR mse ates)",
+    "mean_p_confidence": 0.17
+  }
+]

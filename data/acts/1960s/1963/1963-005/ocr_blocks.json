@@ -1,0 +1,5117 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      105,
+      17,
+      399,
+      40
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      110,
+      60,
+      384,
+      23
+    ],
+    "text": ". 4th Session 1963-64 2s",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      274,
+      145,
+      76,
+      20
+    ],
+    "text": "AED,",
+    "mean_p_confidence": 0.06
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      263,
+      157,
+      245,
+      55
+    ],
+    "text": "Ga) Paee iia",
+    "mean_p_confidence": -0.0
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      263,
+      177,
+      261,
+      59
+    ],
+    "text": "EN Sent i) - .",
+    "mean_p_confidence": 0.06
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      85,
+      209,
+      421,
+      53
+    ],
+    "text": ". Qos Seg a as wry",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      79,
+      296,
+      461,
+      38
+    ],
+    "text": "Ceylon Petroleum Corporation",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80,
+      346,
+      458,
+      39
+    ],
+    "text": "(Amendment) Act, No. 5 of 1963",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      195,
+      459,
+      335,
+      24
+    ],
+    "text": "Date of Assent: 22nd August, 1969 .",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      462,
+      552,
+      81,
+      22
+    ],
+    "text": "; (",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      82,
+      584,
+      347,
+      22
+    ],
+    "text": ". Printed on the Orders of Government...",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      129,
+      706,
+      357,
+      39
+    ],
+    "text": "Pct a STEEP, Bead",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      130,
+      752,
+      356,
+      32
+    ],
+    "text": "fC oe Rd",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      129,
+      828,
+      358,
+      17
+    ],
+    "text": "Price: 40 cent, Postage: 18 cents.",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      16,
+      408,
+      26
+    ],
+    "text": "_ Cayton Petroleum Corporation (Amendment) - |",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99,
+      30,
+      310,
+      31
+    ],
+    "text": "aucmuay re No bof 1963 .",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      67,
+      349,
+      28
+    ],
+    "text": "BL. D0, 21/68. eo",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      100,
+      104,
+      325,
+      15
+    ],
+    "text": "Aw Acr 10 amenn tae Cryton PrrroLeos",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      55,
+      121,
+      464,
+      20
+    ],
+    "text": ": Gonponamox Act, No. 28 oF 1961. -,",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      123,
+      149,
+      385,
+      19
+    ],
+    "text": "[Date of Assent: 22nd August, 1963] 7",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      181,
+      388,
+      18
+    ],
+    "text": "BE it enacted by the Queen's Most: Exosllent Majesty,",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      198,
+      389,
+      14
+    ],
+    "text": "by and with the advice and consent of the Senate and",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      203,
+      389,
+      29
+    ],
+    "text": "the House of Representatives of Ceylon in this present",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      230,
+      388,
+      17
+    ],
+    "text": "Parliament assembled, and by the authority of the",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      247,
+      143,
+      15
+    ],
+    "text": "sams, as follows:",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      274,
+      442,
+      17
+    ],
+    "text": "4. This Act may be cited as the Ceylon Petroleum stor ss",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      290,
+      345,
+      17
+    ],
+    "text": "Corporation (Amendment) Act, No. 5 of 1963.",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      327,
+      458,
+      16
+    ],
+    "text": "2, The long title of the Ceylon Petroleum Cor- Amrpiuet o",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      331,
+      473,
+      29
+    ],
+    "text": "poration Act, No. 98 of 1061, hereinafter referred to SejKste,",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      358,
+      444,
+      17
+    ],
+    "text": "as the principal Act, ig hereby amended, by the sf iva",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      374,
+      386,
+      17
+    ],
+    "text": "substitution, for the expression ** to oarry on business",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      390,
+      386,
+      22
+    ],
+    "text": "as an importer, oxporter, seller, supplier or distri-",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      406,
+      386,
+      17
+    ],
+    "text": "butor of petroleam,, of the expression ** to carry on",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      421,
+      386,
+      20
+    ],
+    "text": "business as an importer, exporter, seller, supplier or",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      437,
+      386,
+      18
+    ],
+    "text": "distributor of petroleum, as well as the busivess of",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      54,
+      454,
+      399,
+      17
+    ],
+    "text": "* exploring for, or exploiting or producing or refining",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      470,
+      89,
+      15
+    ],
+    "text": "petroleum,",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      506,
+      458,
+      17
+    ],
+    "text": "8. Section 5 of the principal Act ishereby amended Aucetnea: o",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      519,
+      465,
+      23
+    ],
+    "text": "as follows: sien oe",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      540,
+      422,
+      25
+    ],
+    "text": "(@) im paragraph (2) of that section, by the substitu.",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      131,
+      564,
+      379,
+      19
+    ],
+    "text": "tion, for the expression of petroleum; ...",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      130,
+      580,
+      382,
+      23
+    ],
+    "text": "and, of the expression of petroleum;; \"82\",",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      603,
+      383,
+      24
+    ],
+    "text": "@) by the relettering of paragraph (0) of that section *",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      116,
+      613,
+      342,
+      35
+    ],
+    "text": "7 te ratering of paregrans ot Ot tn",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      654,
+      368,
+      21
+    ],
+    "text": "(0) by the insertion, immediately after paragraph",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      94,
+      660,
+      356,
+      32
+    ],
+    "text": "? PY Te oF that senton of tho toldwog abe",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      129,
+      679,
+      354,
+      35
+    ],
+    "text": "paragraph: met!",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      339,
+      708,
+      148,
+      18
+    ],
+    "text": "ee ay",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      152,
+      723,
+      278,
+      16
+    ],
+    "text": "(b) to carry on the business of explori",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119,
+      723,
+      354,
+      32
+    ],
+    "text": "Oe eae eating rodune, tat.",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      755,
+      391,
+      20
+    ],
+    "text": ". refining of, petroleum; and; end ,.7",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98,
+      782,
+      344,
+      24
+    ],
+    "text": ") in'relettered paragraph (c) of that section, +",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      791,
+      367,
+      36
+    ],
+    "text": "@ the substiontion, for the expression: aH",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      129,
+      822,
+      328,
+      32
+    ],
+    "text": "paragraph). ef the expression in",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      129,
+      838,
+      265,
+      21
+    ],
+    "text": "Paragraphs (a) and)... *",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      858,
+      206,
+      16
+    ],
+    "text": "Sane ne",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      60,
+      21,
+      453,
+      18
+    ],
+    "text": ": 2 Ceylon Petroleum Corporation (Amendment)",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      98,
+      38,
+      435,
+      18
+    ],
+    "text": "so Act, No. 6 of 1288 noe!",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      59,
+      65,
+      488,
+      24
+    ],
+    "text": "Tounion st iy The following new sections are hereby inserted",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      60,
+      81,
+      487,
+      21
+    ],
+    "text": "Ri'Gan immediately after section 6, and shall have effect as",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      57,
+      97,
+      490,
+      29
+    ],
+    "text": "iad principal section 5a, section 58, section S, section n, section",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      78,
+      114,
+      469,
+      17
+    ],
+    "text": "7 5p, section 57, section 5c, section 5m, section 5:",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      76,
+      131,
+      375,
+      18
+    ],
+    "text": "oy end section 54, of the principal Act:",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      50,
+      157,
+      499,
+      18
+    ],
+    "text": ": swteasiog ot 5A. (1) For the purposes of sections",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161,
+      173,
+      388,
+      21
+    ],
+    "text": "Qe curs 5p, 5p and Br, the expression",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161,
+      184,
+      388,
+      40
+    ],
+    "text": "awe appointed date means such date #3",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      258,
+      205,
+      291,
+      19
+    ],
+    "text": "may be appointed by the Minister, with",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      258,
+      211,
+      290,
+      29
+    ],
+    "text": "the approval of the Government, by",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      259,
+      237,
+      290,
+      19
+    ],
+    "text": "Order published in the Gazette (being",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      259,
+      253,
+      290,
+      19
+    ],
+    "text": "a date prior to January 1, 1964) or the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      259,
+      259,
+      290,
+      41
+    ],
+    "text": "following. date, namely, Jancary 1,",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      260,
+      285,
+      290,
+      17
+    ],
+    "text": "1984, whichever of such dates .is the",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      259,
+      304,
+      89,
+      13
+    ],
+    "text": "earlier date,",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      185,
+      325,
+      366,
+      19
+    ],
+    "text": "Ls () An Order made under sub-section",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      137,
+      341,
+      414,
+      19
+    ],
+    "text": "wee (1) shall, upon its publication in the",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      131,
+      356,
+      421,
+      18
+    ],
+    "text": "SUSE 8 Gagette, be deemed to be as valid and",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      126,
+      374,
+      429,
+      18
+    ],
+    "text": "ii lngvec t+ effectual as if it were berein enacted.",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      125,
+      392,
+      427,
+      20
+    ],
+    "text": "+. Pixies ids 58. (1) On and after the appointed",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      164,
+      409,
+      388,
+      25
+    ],
+    "text": "ro Kym date, the right to import, export, sell,",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      165,
+      427,
+      259,
+      24
+    ],
+    "text": "uly or ditt supply or distribute",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      68,
+      439,
+      353,
+      41
+    ],
+    "text": ": we ocean st @ pessats .",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      116,
+      464,
+      309,
+      20
+    ],
+    "text": "Ses Gemmae at ret (b) kerosene; -",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      61,
+      476,
+      394,
+      23
+    ],
+    "text": "seth Suaed ia the 5 2 fe diesel oil; and",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      66,
+      495,
+      374,
+      19
+    ],
+    "text": ": LOE Garponaton 7\", (@) furnace il,",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      104,
+      514,
+      449,
+      20
+    ],
+    "text": "oops TEP shall, gave ae otherwise expressly pro-",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      179,
+      530,
+      375,
+      18
+    ],
+    "text": ". pvided by or under this Act, vest",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      251,
+      546,
+      237,
+      17
+    ],
+    "text": "exclusively in the Corporation.",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      238,
+      565,
+      315,
+      17
+    ],
+    "text": "ei (2) On.and after the appointed date,",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      249,
+      581,
+      304,
+      30
+    ],
+    "text": "np pereon, other then, the Corporation,",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      254,
+      598,
+      299,
+      18
+    ],
+    "text": "_ shell, save as otherwise expressly pro-",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      50,
+      613,
+      504,
+      30
+    ],
+    "text": "1 \"i ded by of under this At, import, 6x",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      233,
+      630,
+      267,
+      19
+    ],
+    "text": ".*s: port, sell, aiipply or distribute",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      331,
+      650,
+      147,
+      31
+    ],
+    "text": "See potrotior es",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      235,
+      666,
+      226,
+      14
+    ],
+    "text": "so db) kerosene; or",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      263,
+      681,
+      231,
+      20
+    ],
+    "text": "<5) Es (2) diesel oil or~\". *",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      50,
+      697,
+      433,
+      20
+    ],
+    "text": "1 eo @ furmace-oil. +7,\"",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      238,
+      719,
+      308,
+      19
+    ],
+    "text": "2 +. @), The sale, supply or distribution",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      234,
+      718,
+      322,
+      40
+    ],
+    "text": "vicg, AMY person of am Patol, kerosene, ese",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      246,
+      741,
+      310,
+      27
+    ],
+    "text": "o'er furnace oil shall be deemed not to",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      243,
+      770,
+      285,
+      15
+    ],
+    "text": "SL ee ee ree",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      229,
+      786,
+      327,
+      20
+    ],
+    "text": "->.(@) an interferente with,or-@_vio-",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      229,
+      799,
+      328,
+      23
+    ],
+    "text": "Dull ylation of, tha exclusive right",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      242,
+      818,
+      315,
+      21
+    ],
+    "text": "hace 5 vested: in the Corporation by",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      253,
+      837,
+      275,
+      19
+    ],
+    "text": "2.2 sub-section (Ison... 0. 7+ -",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      52,
+      24,
+      395,
+      20
+    ],
+    "text": "<+e-Ceylon Petroleum Corporation (Amendment) 3",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      80,
+      42,
+      394,
+      20
+    ],
+    "text": "aie Act, No. & of 1968",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      135,
+      69,
+      328,
+      18
+    ],
+    "text": "+ (B) a contravention of the provisions -",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      221,
+      86,
+      133,
+      15
+    ],
+    "text": "of sub-section (2),",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      84,
+      102,
+      361,
+      41
+    ],
+    "text": ": if, but oaly if, it is done under the",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157,
+      125,
+      288,
+      17
+    ],
+    "text": "written authority of the Miaister or any",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157,
+      141,
+      286,
+      15
+    ],
+    "text": "authorised officer under sub-section (4),",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157,
+      157,
+      288,
+      15
+    ],
+    "text": "or of the Board of Directora under",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157,
+      172,
+      288,
+      17
+    ],
+    "text": "section 58, and in accordence with the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      159,
+      188,
+      286,
+      17
+    ],
+    "text": "terma and conditions subject to which",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      158,
+      205,
+      190,
+      17
+    ],
+    "text": "such authority is granted.",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      175,
+      231,
+      271,
+      19
+    ],
+    "text": "(4) The Minister or any authorised",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      158,
+      248,
+      288,
+      18
+    ],
+    "text": "officer may grant a written authority to",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      158,
+      263,
+      287,
+      20
+    ],
+    "text": "any person to import, export, sell,",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      158,
+      279,
+      288,
+      20
+    ],
+    "text": "supply, or distribute petroleum of any",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      158,
+      295,
+      287,
+      18
+    ],
+    "text": "class or description specified in sub-",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      158,
+      310,
+      287,
+      20
+    ],
+    "text": "section (1) for the sole purpose only of",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      80,
+      322,
+      365,
+      40
+    ],
+    "text": "* enabling such person to provide petro-",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      65,
+      337,
+      406,
+      32
+    ],
+    "text": ": Jenm of that class or description as fuel if",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      62,
+      360,
+      364,
+      20
+    ],
+    "text": "o for marine ships or aircraft. :",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      154,
+      374,
+      272,
+      11
+    ],
+    "text": "eee",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      58,
+      386,
+      404,
+      28
+    ],
+    "text": "Spree 6c. (@) The Minister may, from time: -",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      63,
+      402,
+      418,
+      19
+    ],
+    "text": "Gnder'to See to time, by Order declare that the Tight _",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      45,
+      413,
+      400,
+      39
+    ],
+    "text": "the clue to import, export, sell, suppl or distri-",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      63,
+      432,
+      382,
+      27
+    ],
+    "text": "Corporation bute petroleum of any such class or des-",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      62,
+      450,
+      383,
+      24
+    ],
+    "text": "fa fares; eription as shall be specified in the",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      62,
+      458,
+      416,
+      29
+    ],
+    "text": "supply or Order, not being petroleum of any class.",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      63,
+      482,
+      398,
+      23
+    ],
+    "text": "fainbote | or description specified in sub-section (1)",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      64,
+      498,
+      398,
+      17
+    ],
+    "text": "Tai tdhe of section 58, shall, save as otherwise *,",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      62,
+      513,
+      413,
+      20
+    ],
+    "text": "o dexriptions. expressly provided by or undr this Act,",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      74,
+      529,
+      369,
+      18
+    ],
+    "text": ". vest exclusively in the Corporation.",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      121,
+      544,
+      349,
+      20
+    ],
+    "text": ". Any such Order may be amended, varied .\";",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      159,
+      560,
+      305,
+      19
+    ],
+    "text": "or revoked -by. the Minister by a like.",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      137,
+      577,
+      319,
+      17
+    ],
+    "text": "6 Orden re on tit",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      120,
+      593,
+      358,
+      41
+    ],
+    "text": ", (2) The: provisions of sub-sections i) 5",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      159,
+      618,
+      279,
+      19
+    ],
+    "text": "to (8), both inclusive,-of section 66 shall .; --",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      60,
+      632,
+      405,
+      21
+    ],
+    "text": ". mutatis mitandis apply to every Order J -",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      159,
+      649,
+      309,
+      16
+    ],
+    "text": "made under sub-section (1). of this ~",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      159,
+      665,
+      284,
+      17
+    ],
+    "text": "<* seetion in like manner and'to th same",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      68,
+      681,
+      375,
+      22
+    ],
+    "text": ". : gxtent as each provisions apply.-to an",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      110,
+      697,
+      337,
+      24
+    ],
+    "text": "25, Order made under the said section 68.1",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      176,
+      720,
+      301,
+      19
+    ],
+    "text": "LPS = @) So long es an Order made.by the -\\",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      49,
+      716,
+      421,
+      45
+    ],
+    "text": ": Minter under sub-section (I) is in tones v",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      126,
+      752,
+      319,
+      18
+    ],
+    "text": "-,. in regpect-of petroleam of any. class or",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      95,
+      765,
+      349,
+      36
+    ],
+    "text": "vi. +, description, Do Person, other than the",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      98,
+      783,
+      361,
+      20
+    ],
+    "text": "+ + +: Corporation, shall gave as otherwise ex-",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93,
+      790,
+      351,
+      42
+    ],
+    "text": "20.\" presely: provided br-or under this Act;",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      159,
+      816,
+      286,
+      18
+    ],
+    "text": "Import, export, sell, supply or distribute",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      159,
+      832,
+      277,
+      18
+    ],
+    "text": "petroleum: of that class or description.",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      172,
+      25,
+      372,
+      18
+    ],
+    "text": "4 Ceylon Pettoleum Corporation (Amendment) -",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      299,
+      43,
+      220,
+      17
+    ],
+    "text": "Act, No. & of 1983",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      289,
+      69,
+      275,
+      18
+    ],
+    "text": "(4) The sale, supply or distribution by",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      267,
+      83,
+      296,
+      36
+    ],
+    "text": "-any person of petroleum of ony class or",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      273,
+      102,
+      291,
+      20
+    ],
+    "text": "description in respect of which there is",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      211,
+      118,
+      353,
+      19
+    ],
+    "text": ": for the time being in force an Order made",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      267,
+      131,
+      295,
+      37
+    ],
+    "text": "Ka the Minister under sub-section (1)",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      252,
+      151,
+      210,
+      17
+    ],
+    "text": "_ shall be deemed not to be",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      288,
+      179,
+      274,
+      17
+    ],
+    "text": "() an interference with, or a vio-",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      323,
+      185,
+      239,
+      42
+    ],
+    "text": "_ lation of, .the exclusive right",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      335,
+      211,
+      227,
+      17
+    ],
+    "text": "vested in the Corporation by",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      336,
+      227,
+      105,
+      16
+    ],
+    "text": "thet Orders or",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      287,
+      254,
+      274,
+      17
+    ],
+    "text": "(8) a contravention of the provisions",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      198,
+      271,
+      266,
+      16
+    ],
+    "text": ". of sub-section (3),",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      270,
+      298,
+      291,
+      17
+    ],
+    "text": "if, but only if, it is done with the written",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      225,
+      314,
+      336,
+      17
+    ],
+    "text": "+ authority of the Board uf Directors",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      269,
+      330,
+      292,
+      15
+    ],
+    "text": "under section 58, and in accordance",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      163,
+      346,
+      398,
+      16
+    ],
+    "text": ", . With the terms and conditions subject to",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      164,
+      362,
+      341,
+      17
+    ],
+    "text": ": which euch authority is granted.",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      172,
+      393,
+      387,
+      23
+    ],
+    "text": "clinine right 5p. On and after the appointed date,",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      172,
+      408,
+      387,
+      31
+    ],
+    "text": "fe esplom forthe right to explore for, and exploit,",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      172,
+      425,
+      389,
+      18
+    ],
+    "text": "seis te produce and reline, petroleum shall vest",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      168,
+      436,
+      392,
+      39
+    ],
+    "text": "Corporation. exclusively in the Corporation; and",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      134,
+      458,
+      426,
+      17
+    ],
+    "text": "an accordingly, on and after that date, no",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      234,
+      473,
+      325,
+      20
+    ],
+    "text": "* person, other than the Corporation, shall",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      159,
+      482,
+      400,
+      42
+    ],
+    "text": "ad explore for, or: exploit or produce or",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      142,
+      507,
+      251,
+      20
+    ],
+    "text": ": * *...refine, petroleum,",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      173,
+      538,
+      385,
+      18
+    ],
+    "text": "Power of Burd 58. Notwithstanding that the exclu-",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      172,
+      552,
+      387,
+      19
+    ],
+    "text": "ge pintos sive right to sell, supply or dis-",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      173,
+      570,
+      385,
+      18
+    ],
+    "text": "irem to tribute petroleum of any class or",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      172,
+      584,
+      387,
+      21
+    ],
+    "text": "fies description is vested in the Corporation",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      172,
+      598,
+      386,
+      37
+    ],
+    "text": "certain clames = by any provision of this Act or any Order",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161,
+      616,
+      397,
+      20
+    ],
+    "text": ", leeinstas. sade thereunder, the Board of Directors",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      192,
+      635,
+      366,
+      17
+    ],
+    "text": "oan) - May, from time to time, as respects",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      200,
+      651,
+      357,
+      16
+    ],
+    "text": ". petroleum of that class or description",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      177,
+      666,
+      381,
+      19
+    ],
+    "text": "cy, +t only grant written authority to any",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      192,
+      682,
+      366,
+      19
+    ],
+    "text": ": *-, person to sell, supply or distribate",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      174,
+      699,
+      382,
+      17
+    ],
+    "text": "|, 1d petroleum of that class or description",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      145,
+      715,
+      412,
+      18
+    ],
+    "text": ": a subject te such terms and conditions as",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      149,
+      731,
+      369,
+      19
+    ],
+    "text": "s 5 tay be determined by such Board.",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      172,
+      762,
+      383,
+      14
+    ],
+    "text": "Contre) of the Sr. On and after the appointed date,",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      171,
+      763,
+      385,
+      37
+    ],
+    "text": "Stdhsiutaes 00 person, other- than the Corporation OF",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      172,
+      793,
+      383,
+      21
+    ],
+    "text": "of gautemess any person authorised by the Board of",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      172,
+      809,
+      382,
+      19
+    ],
+    "text": "ie the Ditedtors thder section 5n, shall establish",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      170,
+      826,
+      384,
+      30
+    ],
+    "text": "= -_ or maintain any equipment or facilities",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      96,
+      13,
+      359,
+      18
+    ],
+    "text": "Ceylon Petroleum Corporation (Amendment) 5",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      107,
+      14,
+      315,
+      33
+    ],
+    "text": "* Ast, No. 5 of 1962 )",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      122,
+      58,
+      330,
+      18
+    ],
+    "text": "+ for the.exploration, exploitation, produe-",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115,
+      75,
+      337,
+      17
+    ],
+    "text": "+. tion, refinement, storage, sale, supply or",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      161,
+      91,
+      291,
+      18
+    ],
+    "text": "distribution of petroleum except with the",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      110,
+      107,
+      341,
+      17
+    ],
+    "text": ". written authority of the Minister or any",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      151,
+      123,
+      300,
+      17
+    ],
+    "text": "_ authorised officer, or otherwise than in",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      105,
+      140,
+      346,
+      15
+    ],
+    "text": "v\" apcordance with the terms or conditions",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      160,
+      156,
+      291,
+      18
+    ],
+    "text": "aubject to which such authority 18",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      110,
+      174,
+      109,
+      17
+    ],
+    "text": ": granted.",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      63,
+      208,
+      391,
+      17
+    ],
+    "text": "Sanit of the GG. No person, other than tho",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      63,
+      222,
+      387,
+      22
+    ],
+    "text": "Sipoul ct (a Corporation, shall export, sell, lease,",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      63,
+      236,
+      387,
+      26
+    ],
+    "text": "ES transfer, hypothecate, alienate or dis-",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      63,
+      255,
+      387,
+      21
+    ],
+    "text": "Sismial for ths hose of in any manner whatsoever any",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      63,
+      272,
+      385,
+      19
+    ],
+    "text": "stpeskes. equipment or facilities which had been,",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      103,
+      289,
+      347,
+      16
+    ],
+    "text": ".. or igor are being, or is or are, or was or",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      159,
+      304,
+      290,
+      29
+    ],
+    "text": "weno, intended 9 be used for the explo-",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      159,
+      320,
+      290,
+      18
+    ],
+    "text": "ration, exploitation, production, refine-",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      159,
+      336,
+      290,
+      17
+    ],
+    "text": "ment, storege, sale, supply or distri-",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      159,
+      352,
+      290,
+      30
+    ],
+    "text": "bution of petroleam, except, with the",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      158,
+      369,
+      290,
+      16
+    ],
+    "text": "written authority of the Minister or any",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      159,
+      384,
+      290,
+      16
+    ],
+    "text": "authorieed officer, or otherwise than in",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      109,
+      400,
+      340,
+      15
+    ],
+    "text": ": accordance with the terms or conditions",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      159,
+      416,
+      290,
+      18
+    ],
+    "text": "subject to which such authority is",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      159,
+      434,
+      59,
+      17
+    ],
+    "text": "granted.",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      59,
+      459,
+      389,
+      31
+    ],
+    "text": "Bpectal 5, The following provisions shall be",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      62,
+      483,
+      387,
+      30
+    ],
+    "text": "een. the applicable in tho ease of the exercise of",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      62,
+      496,
+      386,
+      36
+    ],
+    "text": "Power of the power to grant a written authority",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      62,
+      515,
+      384,
+      18
+    ],
+    "text": "wrandog omit conferred on the Minister, any autho-",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      62,
+      531,
+      385,
+      22
+    ],
+    "text": "Sitges.\" rised officer or the Board of Direstors by",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      62,
+      547,
+      385,
+      17
+    ],
+    "text": "ie Mires, any of the aections 58, 58, SF and 6:",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      62,
+      563,
+      397,
+      23
+    ],
+    "text": "ae _",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      62,
+      576,
+      385,
+      28
+    ],
+    "text": "Dizenors, (1) Such authority may be granted",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      136,
+      599,
+      311,
+      13
+    ],
+    "text": ": either of his or its own motion",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      223,
+      615,
+      224,
+      17
+    ],
+    "text": "or on application in that behalf",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      63,
+      632,
+      311,
+      19
+    ],
+    "text": "Loy made by any person.",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      127,
+      667,
+      319,
+      18
+    ],
+    "text": ".. @ The Minister, such officer or such",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      222,
+      683,
+      225,
+      17
+    ],
+    "text": "Board may, in his or its absolute",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      167,
+      699,
+      279,
+      15
+    ],
+    "text": ", discretion, decide whether to",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      144,
+      715,
+      302,
+      17
+    ],
+    "text": "poy 7M: grant or refuse to grant such",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      179,
+      732,
+      114,
+      16
+    ],
+    "text": "\"authority.",
+    "mean_p_confidence": 0.08
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      85,
+      750,
+      221,
+      10
+    ],
+    "text": "j s",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      106,
+      767,
+      340,
+      17
+    ],
+    "text": ". ~\"(G) The Minister, such officer or such",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      131,
+      783,
+      317,
+      16
+    ],
+    "text": "ve Board may, in his or its absolute",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      164,
+      799,
+      283,
+      15
+    ],
+    "text": ": discretion, decide the terms and",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72,
+      815,
+      376,
+      16
+    ],
+    "text": "te, .. +, conditions subject to which euch",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      222,
+      831,
+      208,
+      17
+    ],
+    "text": "authority should be granted.",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      175,
+      19,
+      356,
+      19
+    ],
+    "text": "@ Ceylon Petroleum Corporation (Amendment)",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      228,
+      36,
+      222,
+      17
+    ],
+    "text": ". Act, No. & of 1968 -",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      290,
+      64,
+      273,
+      17
+    ],
+    "text": "(4) The Minister, such officar or such",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      303,
+      81,
+      261,
+      18
+    ],
+    "text": "+ Board may, in his or ite absolate",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      204,
+      97,
+      360,
+      17
+    ],
+    "text": ": *~ discretion, decide at any time",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      179,
+      114,
+      337,
+      16
+    ],
+    "text": ". > to cancel such authority.",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      291,
+      141,
+      272,
+      16
+    ],
+    "text": "(8) The terms or conditions of such",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      253,
+      157,
+      310,
+      17
+    ],
+    "text": "authority may be amended,",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      339,
+      173,
+      225,
+      19
+    ],
+    "text": "varied or cancelled either of his",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      210,
+      190,
+      353,
+      17
+    ],
+    "text": "_ or its own motion or on applica",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      205,
+      206,
+      359,
+      18
+    ],
+    "text": "0. +1. tion in that bebalf made by the",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      274,
+      222,
+      289,
+      19
+    ],
+    "text": ": pereon to whom such authority",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      204,
+      239,
+      234,
+      18
+    ],
+    "text": ": is granted.",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      200,
+      266,
+      363,
+      18
+    ],
+    "text": ": _ (8) The Minister, such officer or such",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      339,
+      282,
+      225,
+      17
+    ],
+    "text": "Board may, in his or its absolute",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      339,
+      298,
+      225,
+      16
+    ],
+    "text": "discretion, decide whether or",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      210,
+      314,
+      352,
+      20
+    ],
+    "text": ". not to amend, vary of cancel",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      225,
+      330,
+      339,
+      17
+    ],
+    "text": "ne any term or condition of such",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      264,
+      340,
+      229,
+      28
+    ],
+    "text": ". authority,",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      217,
+      374,
+      347,
+      18
+    ],
+    "text": ": (7) Any decision made by the Minis-",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      206,
+      390,
+      358,
+      16
+    ],
+    "text": ": ter, such officer or such Board",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      340,
+      407,
+      224,
+      19
+    ],
+    "text": "under the preceding provisions",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      339,
+      408,
+      225,
+      36
+    ],
+    "text": "of this section shall be final and",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      340,
+      438,
+      224,
+      16
+    ],
+    "text": "conclusive, and .shali not be",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      339,
+      455,
+      225,
+      17
+    ],
+    "text": "called in question in any court",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      340,
+      471,
+      224,
+      18
+    ],
+    "text": "whether by way of writ or",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      339,
+      487,
+      71,
+      13
+    ],
+    "text": "otherwise.",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      180,
+      514,
+      383,
+      20
+    ],
+    "text": "Hersing of 1. The. expression | * authorised",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      180,
+      529,
+      383,
+      19
+    ],
+    "text": "Magid officer ? wherever it occurs in any of the",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      180,
+      536,
+      383,
+      28
+    ],
+    "text": "Sine sections 5p to.de (both inclusives means",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      167,
+      562,
+      396,
+      16
+    ],
+    "text": ": any public officer or an officer of the",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      257,
+      578,
+      306,
+      18
+    ],
+    "text": ", Corporation authorised in that behalf by",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      231,
+      594,
+      138,
+      13
+    ],
+    "text": "t+ the Minister.",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      180,
+      626,
+      382,
+      17
+    ],
+    "text": "Speci pre. \"Gy. (1) No. person other than the",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      179,
+      622,
+      383,
+      52
+    ],
+    "text": "sone eg, Coxportin whd on the 5th day of June,",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      179,
+      658,
+      383,
+      18
+    ],
+    "text": "Pedom wae 1968,. was carrying on business as a0",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      178,
+      673,
+      384,
+      19
+    ],
+    "text": "Sides importer and seller, supplier or distri-",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      177,
+      679,
+      385,
+      32
+    ],
+    "text": "imperer and butor of petroleum, oF any class or",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      177,
+      705,
+      385,
+      31
+    ],
+    "text": "Skin. dasoription specified in eub-sextion (1) of",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      274,
+      722,
+      287,
+      18
+    ],
+    "text": "section 5u shall terminate the employ-",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      274,
+      738,
+      287,
+      17
+    ],
+    "text": "ment of any person {hereafter in this",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      274,
+      753,
+      286,
+      19
+    ],
+    "text": "section referred to as an * employee ?)",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      274,
+      770,
+      287,
+      29
+    ],
+    "text": "employed by him except with the written",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      153,
+      786,
+      408,
+      18
+    ],
+    "text": ". approval of the Commissioner, or other-",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      273,
+      803,
+      288,
+      13
+    ],
+    "text": "wise than in accordance with the terms",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      272,
+      816,
+      289,
+      18
+    ],
+    "text": "or conditions subject to which sach",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      272,
+      835,
+      148,
+      17
+    ],
+    "text": "approval is granted.",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      79,
+      8,
+      395,
+      17
+    ],
+    "text": ": . Ceylon Petroleum Corporation (Amendment) 7",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      206,
+      24,
+      305,
+      17
+    ],
+    "text": "Act, No. 5.of 1968 ., 4 .",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      195,
+      52,
+      277,
+      19
+    ],
+    "text": "A. parson who was carrying on the",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      178,
+      69,
+      361,
+      17
+    ],
+    "text": "business referred to in the preceding :",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90,
+      73,
+      381,
+      32
+    ],
+    "text": ". provisions of this sub-section is horeafter",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      179,
+      101,
+      292,
+      17
+    ],
+    "text": "In, this section referred to as an",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      50,
+      118,
+      230,
+      17
+    ],
+    "text": "mo. employer.",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      195,
+      139,
+      279,
+      39
+    ],
+    "text": "@) The following provisions shall",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      178,
+      165,
+      292,
+      17
+    ],
+    "text": "apply in the case of the exercise of the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      153,
+      181,
+      436,
+      19
+    ],
+    "text": ". powers conferred on the Commissioner ,",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      179,
+      198,
+      409,
+      18
+    ],
+    "text": "to grant his approval to an employer :",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      82,
+      202,
+      506,
+      33
+    ],
+    "text": "7 terminating the employment of any i",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      178,
+      230,
+      96,
+      17
+    ],
+    "text": "employees:",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      195,
+      258,
+      273,
+      17
+    ],
+    "text": "(@) Such approval may be granted or",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      82,
+      258,
+      386,
+      49
+    ],
+    "text": ": refused on sprlicion in that",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      81,
+      290,
+      386,
+      17
+    ],
+    "text": ": bebalf made by such employer.",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      195,
+      314,
+      272,
+      17
+    ],
+    "text": "() The Commissioner may, in his",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      243,
+      330,
+      225,
+      15
+    ],
+    "text": "absolute discretion, decide to",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      125,
+      346,
+      340,
+      17
+    ],
+    "text": ": grant or refuse such approval.",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      99,
+      370,
+      367,
+      17
+    ],
+    "text": ": ( The Commissioner may, in his",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115,
+      374,
+      474,
+      30
+    ],
+    "text": "; absolute discretion, Necide the ,",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      102,
+      402,
+      487,
+      16
+    ],
+    "text": ": terms and conditions subject to",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      50,
+      418,
+      539,
+      25
+    ],
+    "text": "which his approval should be \\",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      242,
+      434,
+      224,
+      19
+    ],
+    "text": "granted, including in particular",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      50,
+      450,
+      416,
+      16
+    ],
+    "text": ". . terms and conditions relating to",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      134,
+      466,
+      331,
+      18
+    ],
+    "text": ". the payment by such employer",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      241,
+      482,
+      224,
+      18
+    ],
+    "text": "to such employes of a gratuity",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83,
+      497,
+      505,
+      19
+    ],
+    "text": ". or compensation for the termi- :",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      240,
+      514,
+      348,
+      17
+    ],
+    "text": "nation of employment. |",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      193,
+      537,
+      271,
+      18
+    ],
+    "text": "{d) Any decision made by the Commis-",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      242,
+      542,
+      346,
+      30
+    ],
+    "text": "a seition padey the Cone",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      241,
+      569,
+      223,
+      18
+    ],
+    "text": "provisions of this sab-section",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      95,
+      585,
+      368,
+      15
+    ],
+    "text": ". wot shail be final and tondlusive,",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      241,
+      601,
+      223,
+      16
+    ],
+    "text": "and shell not be'called in ques-",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      241,
+      617,
+      223,
+      20
+    ],
+    "text": "tion in any court, whether by",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      241,
+      633,
+      184,
+      18
+    ],
+    "text": "way of writ or otherdise.",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      152,
+      660,
+      311,
+      23
+    ],
+    "text": "<- () Where, on or after Jue 5, 1963,",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      176,
+      674,
+      288,
+      40
+    ],
+    "text": "any employer bas granted or grants to",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      149,
+      696,
+      316,
+      19
+    ],
+    "text": "\\ / any employee, in addition to any benefit",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      143,
+      705,
+      325,
+      41
+    ],
+    "text": "| such employee was or would po entitled",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      50,
+      720,
+      414,
+      43
+    ],
+    "text": "a to receive in the ordinary-courde of his",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      50,
+      745,
+      414,
+      17
+    ],
+    "text": "+ | employment, any ea grgtia gratuity or",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      124,
+      746,
+      341,
+      49
+    ],
+    "text": ": gatipteatioa or other benefit, (hereafter",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      105,
+      777,
+      360,
+      14
+    ],
+    "text": "in this sub-section referred to as er",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      104,
+      793,
+      362,
+      17
+    ],
+    "text": "++, + qratia benefits \"\"), then, every person who",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      97,
+      809,
+      368,
+      20
+    ],
+    "text": "<<.\" was an-employee of that employer on",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      69,
+      825,
+      397,
+      16
+    ],
+    "text": ": + June 5, 1945, shall be entitled, with the",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      107,
+      845,
+      5,
+      7
+    ],
+    "text": "a",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      103,
+      1,
+      461,
+      20
+    ],
+    "text": "+, 8 Ceylon Petrolenin Corporation (Amendment) ~",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      111,
+      19,
+      446,
+      18
+    ],
+    "text": "Saas 46; No. 6.of 1963: -",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      140,
+      47,
+      414,
+      19
+    ],
+    "text": ": * 7/1 approval of the Commissioner given upon",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      166,
+      52,
+      406,
+      29
+    ],
+    "text": ". \"application in thet behalf made by auch -",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      62,
+      80,
+      523,
+      28
+    ],
+    "text": "ont Petien: 40 receive the same ee gration",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      167,
+      96,
+      417,
+      16
+    ],
+    "text": ". 6 Benefits: so however that the amount . :",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      263,
+      112,
+      291,
+      19
+    ],
+    "text": "thereof shall. be a3 determined by the",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      169,
+      128,
+      417,
+      17
+    ],
+    "text": ": . , Commissioner. The preceding provisions _ +",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      233,
+      133,
+      320,
+      28
+    ],
+    "text": "oP this sub-section shall apply to apy",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      168,
+      145,
+      386,
+      36
+    ],
+    "text": ". - > *. person. notwithstanding that ve ceased",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      264,
+      176,
+      291,
+      17
+    ],
+    "text": "or ceases: to be an employee of that",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      189,
+      193,
+      365,
+      16
+    ],
+    "text": "Lo employer after June 5, 1963, for any",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      221,
+      208,
+      333,
+      14
+    ],
+    "text": "1 reason whatsoever other than misconduct.",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      264,
+      224,
+      291,
+      18
+    ],
+    "text": "Any approval or determination of the",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      215,
+      241,
+      339,
+      18
+    ],
+    "text": "__ i, Commissioner under the preceding provi-",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      229,
+      245,
+      326,
+      29
+    ],
+    "text": "stone of thie sub-section shell be figal",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      265,
+      272,
+      289,
+      16
+    ],
+    "text": "and conclusive, and shalt not be called",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      227,
+      289,
+      327,
+      17
+    ],
+    "text": "* jm question in any court, whether by way",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      230,
+      305,
+      312,
+      15
+    ],
+    "text": ". 2 of writ or otherwise. .",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      55,
+      330,
+      500,
+      20
+    ],
+    "text": "' oS @ Where an ex gratia gratuity or",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      265,
+      348,
+      289,
+      18
+    ],
+    "text": "compensation or other benefit is granted",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      55,
+      364,
+      499,
+      30
+    ],
+    "text": "\\ + (by any employer to. aa employes, euch",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      242,
+      380,
+      312,
+      19
+    ],
+    "text": "+ employer shail furnish to the Commis-",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      265,
+      397,
+      290,
+      16
+    ],
+    "text": "sioner, within thirty days of the grant",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      265,
+      402,
+      315,
+      28
+    ],
+    "text": "thereof, full details of the gratuity,",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      246,
+      425,
+      307,
+      37
+    ],
+    "text": ". grmpensation or other benefit so granted.",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      234,
+      444,
+      320,
+      17
+    ],
+    "text": "~, Such details shall be furnished in such",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      193,
+      460,
+      362,
+      18
+    ],
+    "text": "-. +\" form and manner as may be determined",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      238,
+      477,
+      182,
+      16
+    ],
+    "text": "~ by the Commissioner.",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      224,
+      500,
+      329,
+      19
+    ],
+    "text": "* (1! + (G) In this section, Commissioner *",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      203,
+      516,
+      351,
+      19
+    ],
+    "text": "+ \"+ means the Commissioner of Labour, and",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      84,
+      532,
+      470,
+      17
+    ],
+    "text": ". ~Gncludes a Deputy Commissioner of",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      171,
+      548,
+      178,
+      17
+    ],
+    "text": ": Labour. -,",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      73,
+      579,
+      481,
+      18
+    ],
+    "text": "Auoimen ct - 8, Section -42-of the principal Act is hereby",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      75,
+      596,
+      261,
+      19
+    ],
+    "text": "seen of amended as follows :",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      96,
+      602,
+      170,
+      23
+    ],
+    "text": "Principal .",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      70,
+      610,
+      396,
+      32
+    ],
+    "text": "ae (@) in sub-section (1) of that section",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      234,
+      643,
+      320,
+      17
+    ],
+    "text": "(i) by the substitution, in paragraph (3) of",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      172,
+      644,
+      382,
+      38
+    ],
+    "text": ". + \"thet, sub-section, fort the expression",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      171,
+      675,
+      383,
+      20
+    ],
+    "text": ": +. in paragraph (@); and, of the",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      173,
+      692,
+      350,
+      17
+    ],
+    "text": "- 9 1+. expression in paragraph (@);\"\"5",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      222,
+      714,
+      332,
+      19
+    ],
+    "text": ": (ii) by the: substitution, in paragraph (c) of",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      171,
+      731,
+      415,
+      19
+    ],
+    "text": "s+, . that sub-section, for the expression",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      271,
+      747,
+      312,
+      23
+    ],
+    "text": "or paragraph (b)., of the express:",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      193,
+      762,
+      361,
+      18
+    ],
+    "text": ": ion or paragraph (8); end; and",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      182,
+      788,
+      372,
+      28
+    ],
+    "text": "~*~ Gli) by the insertion, immediately after pars:",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      203,
+      802,
+      352,
+      31
+    ],
+    "text": "- graph () of that sub-section, 0 the",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      170,
+      820,
+      324,
+      17
+    ],
+    "text": "mea, following new paragraph:",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      51,
+      3,
+      458,
+      22
+    ],
+    "text": "*\"\\\" Ceylon, Petroleum Corporation (Anndment) 9 .",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      66,
+      22,
+      418,
+      16
+    ],
+    "text": "* * \"det, No. & of 1963- :",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      170,
+      45,
+      315,
+      38
+    ],
+    "text": "eg request any person to furnish *",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      198,
+      66,
+      245,
+      17
+    ],
+    "text": "_ information with regard fo any",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      198,
+      82,
+      244,
+      19
+    ],
+    "text": "1, matter within his knowledge",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      216,
+      98,
+      226,
+      18
+    ],
+    "text": "relating to the business of im-",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      216,
+      115,
+      224,
+      17
+    ],
+    "text": "portation, exportation, storage,",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      216,
+      131,
+      225,
+      17
+    ],
+    "text": "sale, supply or distribution of",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      226,
+      147,
+      215,
+      16
+    ],
+    "text": "etroleum, whether carried on",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      216,
+      152,
+      224,
+      28
+    ],
+    "text": "Fy himself or any other person,",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      216,
+      179,
+      225,
+      29
+    ],
+    "text": "and the persons employed for",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      217,
+      186,
+      362,
+      27
+    ],
+    "text": "the purposes of asiness |",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      217,
+      208,
+      361,
+      20
+    ],
+    "text": "including details of their |",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      205,
+      228,
+      237,
+      16
+    ],
+    "text": ", salaries, gratuities, compensa-",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      65,
+      243,
+      376,
+      19
+    ],
+    "text": ". tion, or other benefits accruing",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      74,
+      256,
+      505,
+      26
+    ],
+    "text": "Soe to them.; and",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      73,
+      283,
+      368,
+      18
+    ],
+    "text": ") in sub-section (2) of that section, by the sub-",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      82,
+      300,
+      359,
+      17
+    ],
+    "text": "\"stitution, for the expression ' of sub-section",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      74,
+      316,
+      367,
+      18
+    ],
+    "text": ". (1) @), of the expression of sub-",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      63,
+      332,
+      504,
+      19
+    ],
+    "text": ". Section (1) (e) or sub-section (1) (2), .",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      73,
+      364,
+      455,
+      18
+    ],
+    "text": "6. Section 52 of the principal Act is hereby Ameotnact of",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      55,
+      379,
+      466,
+      21
+    ],
+    "text": "amended as follows: geod",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      73,
+      397,
+      403,
+      40
+    ],
+    "text": "@ by the insertion, immediately after paragraph 4%",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      48,
+      420,
+      392,
+      17
+    ],
+    "text": "+ (@) of that section, of the following new",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      117,
+      429,
+      449,
+      31
+    ],
+    "text": "peragraph: : :",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      122,
+      460,
+      318,
+      18
+    ],
+    "text": "(aq) where any sum has been certified",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      169,
+      465,
+      271,
+      25
+    ],
+    "text": "ander the hand of the Commissioner",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      81,
+      492,
+      359,
+      17
+    ],
+    "text": ": of Labour to the Corporation to be due",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      169,
+      504,
+      410,
+      21
+    ],
+    "text": "from euch person as a gratuity or [",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      170,
+      524,
+      408,
+      17
+    ],
+    "text": "other monetary beuefit to any other :",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      170,
+      540,
+      325,
+      18
+    ],
+    "text": "person whose employment has Leen 4",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      169,
+      548,
+      270,
+      42
+    ],
+    "text": "terminated under the provisions of",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      168,
+      566,
+      411,
+      22
+    ],
+    "text": "section 51, then, from the amount of \\",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      169,
+      588,
+      271,
+      18
+    ],
+    "text": "such compensation, the Corporation",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      170,
+      604,
+      270,
+      21
+    ],
+    "text": "shall pay the sum 50 specified to the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      170,
+      620,
+      270,
+      16
+    ],
+    "text": "Commissioner of Labour for the pay-",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      170,
+      636,
+      270,
+      17
+    ],
+    "text": "ment of such gratuity or other",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      170,
+      653,
+      143,
+      15
+    ],
+    "text": "benefit, or ;and",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      73,
+      676,
+      367,
+      21
+    ],
+    "text": "by the substitution, in paragraph (5) of that",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      122,
+      692,
+      309,
+      17
+    ],
+    "text": "section, for the expression procediny",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      53,
+      692,
+      387,
+      46
+    ],
+    "text": ". paragraph (a) \" of the expression recede",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      122,
+      713,
+      202,
+      29
+    ],
+    "text": "ing paragraphs (@) and ea,",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      47,
+      756,
+      482,
+      28
+    ],
+    "text": "* sats {Section 58 of the, principal Act is hereby Amosnes ot",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      57,
+      770,
+      465,
+      22
+    ],
+    "text": "amended in sub-section (2) of that section, by the ston at",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      55,
+      784,
+      433,
+      21
+    ],
+    "text": "substitation, for the expression of Commerce, Trade, 4a.\"",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      57,
+      802,
+      385,
+      20
+    ],
+    "text": "ood and. Shipping \"*, of the expression in charge",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      57,
+      819,
+      110,
+      15
+    ],
+    "text": "of the Minister ''.",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      174,
+      5,
+      355,
+      17
+    ],
+    "text": "10 Ceylon Petroleum Corporation (Ameniiment)",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      136,
+      22,
+      317,
+      18
+    ],
+    "text": ". Act, No. &.of 196 |",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      79,
+      48,
+      483,
+      22
+    ],
+    "text": "Spi 8. Save as otherwise expressly provided by this",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      79,
+      54,
+      483,
+      38
+    ],
+    "text": "FEA im Act no person shall be entitled to odmpensation from",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      68,
+      81,
+      494,
+      22
+    ],
+    "text": ". a buinws, the Government or any Minister or the Corporation or",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      176,
+      97,
+      389,
+      19
+    ],
+    "text": "any Director, officer, servant or agent of the Corpora~",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      176,
+      112,
+      399,
+      21
+    ],
+    "text": "tion for any lose, damage or injury incurred by him -",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      176,
+      129,
+      388,
+      18
+    ],
+    "text": "whether directly or indirectly or by way of business",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      155,
+      144,
+      417,
+      19
+    ],
+    "text": "+ or otherwise by reason of the operation of any of the '",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      177,
+      150,
+      233,
+      29
+    ],
+    "text": "provisions of this Act.",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      82,
+      192,
+      482,
+      19
+    ],
+    "text": "Ammdunt ot 9, Section 69 of the principal Act is hereby",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      83,
+      194,
+      482,
+      48
+    ],
+    "text": "teen ef = amended in sub-section a of that section by the",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      79,
+      219,
+      486,
+      36
+    ],
+    "text": "aa insertion, immediately after paragraph (b) of that",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      179,
+      241,
+      346,
+      19
+    ],
+    "text": "sub-sectiowt; of the following vew paragraph:",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      198,
+      256,
+      367,
+      20
+    ],
+    "text": "'(6b) contravenes or fails to comply with the",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      195,
+      273,
+      370,
+      21
+    ],
+    "text": "_... provisions of any Order made by the Minister",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      68,
+      289,
+      498,
+      35
+    ],
+    "text": ") : under section 5 shall be guilty of an offence",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      225,
+      307,
+      231,
+      18
+    ],
+    "text": "| under this Act; . .",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      83,
+      332,
+      482,
+      31
+    ],
+    "text": "Speed 40. The provisions of the new sections 5A to. 53",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      78,
+      353,
+      488,
+      21
+    ],
+    "text": ". biti | (bath inclusive) inserted in the principal Act by section",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      87,
+      368,
+      479,
+      19
+    ],
+    "text": "ston lato. 4 of this Act shall have effect notwithstanding",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      178,
+      379,
+      388,
+      41
+    ],
+    "text": "anything to the contrary in any other provisions of the",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      95,
+      393,
+      471,
+      41
+    ],
+    "text": ". principal Act, or in any undertaking, express OF",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      138,
+      417,
+      436,
+      19
+    ],
+    "text": "_ implied, given by or on bebalf of the Goverament or>",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      182,
+      433,
+      383,
+      19
+    ],
+    "text": "the Corporation relating to the business of import-",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      182,
+      448,
+      385,
+      20
+    ],
+    "text": "ing, exporting, selling, supplying or distributing",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      179,
+      462,
+      274,
+      28
+    ],
+    "text": "petroleum. . :",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      87,
+      494,
+      488,
+      27
+    ],
+    "text": "Retronctive 44. The new section 67 inserted in the principal |",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      87,
+      509,
+      479,
+      28
+    ],
+    "text": "see hon Act by section 4 of this Act shall be deemed for all",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      86,
+      529,
+      450,
+      19
+    ],
+    "text": "a. purposes to have come into force on June 5, 1963.",
+    "mean_p_confidence": 0.79
+  }
+]

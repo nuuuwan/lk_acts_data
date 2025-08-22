@@ -1,0 +1,849 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      117,
+      40,
+      364,
+      25
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      110,
+      74,
+      399,
+      23
+    ],
+    "text": ": Ist Session 1960-61 _",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      286,
+      124,
+      37,
+      24
+    ],
+    "text": "ee",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      195,
+      182,
+      154,
+      31
+    ],
+    "text": ". Nae",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      112,
+      275,
+      421,
+      28
+    ],
+    "text": "Criminal Procedure Code -",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      63,
+      314,
+      469,
+      37
+    ],
+    "text": "(Amendment) Act, No. 42 of 1961",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      61,
+      465,
+      400,
+      25
+    ],
+    "text": ". Date of Assent: June 17, 1961 .",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59,
+      614,
+      362,
+      16
+    ],
+    "text": "3 Printed on the Orders of Government",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      92,
+      752,
+      358,
+      10
+    ],
+    "text": "ined at the Govaunueet Fm, Garam. Bobo",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      142,
+      765,
+      308,
+      11
+    ],
+    "text": "Podkend ste Gorsanmur Poeusmase Sense, Goss",
+    "mean_p_confidence": 0.07
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      141,
+      786,
+      309,
+      12
+    ],
+    "text": "annont obvi Gocleling ile) Ta. 4, peyele ia",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      142,
+      797,
+      374,
+      12
+    ],
+    "text": "tivamne to Un beresorst, orem Foneinon, :",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      141,
+      812,
+      308,
+      11
+    ],
+    "text": "Sous, Por One Bor 80, Bauer, Colatet",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      120,
+      831,
+      355,
+      15
+    ],
+    "text": "Price: 10 cents. Postage: 10 cents,",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      100,
+      34,
+      326,
+      17
+    ],
+    "text": "Criminal Procedure Code (Amendment) Act,",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      209,
+      52,
+      110,
+      15
+    ],
+    "text": "No. 42 of 1961",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      80,
+      102,
+      12
+    ],
+    "text": "EL, D.O. 15/80.",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      94,
+      376,
+      15
+    ],
+    "text": "AN Act 10 AMEND Tax CRIcINAL Pnocxpore Cons.",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      138,
+      117,
+      253,
+      18
+    ],
+    "text": "[Date of Assent: 17th June, 1961}",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      140,
+      377,
+      18
+    ],
+    "text": "BE it enacted by the Queens Most Excellent Majesty,",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      155,
+      431,
+      30
+    ],
+    "text": "by and with the advioe and consent Of the Senate and .",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      171,
+      364,
+      18
+    ],
+    "text": "@ House of Representatives of Ceylon in this",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      186,
+      378,
+      18
+    ],
+    "text": "present Parliament assembled, and by the authority",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      204,
+      194,
+      15
+    ],
+    "text": "of the same, as follows:",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      229,
+      428,
+      19
+    ],
+    "text": "4. This Act may be cited as the Criminal Proce- shor sie",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      246,
+      326,
+      17
+    ],
+    "text": "dure Code (Amendment) Act, No. 42 of 1961.",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      273,
+      447,
+      18
+    ],
+    "text": "2. Section 122 of the Criminal Procedure Code, amentnest of",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      285,
+      451,
+      22
+    ],
+    "text": "hereinafter referred to as the ' principal enactment, 22 oe",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      304,
+      407,
+      29
+    ],
+    "text": "is hereby amended in sub-section n @) of, that section 16",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      320,
+      378,
+      16
+    ],
+    "text": "by the substitution, for the words, Neither the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      335,
+      378,
+      17
+    ],
+    "text": "accused , of the words and figures '* Save as other-",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      351,
+      358,
+      17
+    ],
+    "text": "wise provided in section 122A, neither the aceused .",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      377,
+      436,
+      19
+    ],
+    "text": "| The following new sections are hereby inserted tyectim",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      390,
+      425,
+      20
+    ],
+    "text": "immediately after section 122, and shall have effect 2,",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      401,
+      444,
+      24
+    ],
+    "text": "as sections 122A and 1298, of the principal Yeu sat",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      418,
+      465,
+      28
+    ],
+    "text": "enactment. . eS, nel .",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      433,
+      448,
+      35
+    ],
+    "text": "* Seitea, 428A. (1) Where in pursuance of any welent",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      443,
+      373,
+      48
+    ],
+    "text": "Rhetkticn information given under sub-section iB)",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      475,
+      363,
+      20
+    ],
+    "text": "ines sader of section 121 proceedings are institute:",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      491,
+      372,
+      18
+    ],
+    "text": "Gana in @ Magistrates Court under section",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      506,
+      372,
+      21
+    ],
+    "text": "setwin | 148, the aconsed or his proctor shall be",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      516,
+      376,
+      34
+    ],
+    "text": "seoorded entitled to obtain, from the propar",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      537,
+      373,
+      21
+    ],
+    "text": "alk og authority a certified copy of such",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      553,
+      372,
+      17
+    ],
+    "text": "a information and of any statement made",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      173,
+      569,
+      284,
+      18
+    ],
+    "text": "under sub-section (1) of section 122 by",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      173,
+      585,
+      284,
+      30
+    ],
+    "text": "the person, against whom or in respect",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      172,
+      601,
+      285,
+      17
+    ],
+    "text": "of whom the accused is alleged to have",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      173,
+      618,
+      156,
+      13
+    ],
+    "text": "committed an offence.",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      190,
+      636,
+      268,
+      18
+    ],
+    "text": "@ In this section, the expression",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      174,
+      653,
+      299,
+      17
+    ],
+    "text": "proper authority, .",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      206,
+      672,
+      252,
+      17
+    ],
+    "text": "(@) in relation to any information",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      253,
+      688,
+      206,
+      14
+    ],
+    "text": "or statement contained in an",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      249,
+      696,
+      210,
+      44
+    ],
+    "text": "Taformation Book kept by aa",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      287,
+      723,
+      171,
+      10
+    ],
+    "text": "rin of & police",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      253,
+      719,
+      288,
+      36
+    ],
+    "text": "station, means such cHicer, .",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      254,
+      752,
+      25,
+      13
+    ],
+    "text": "and",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      207,
+      770,
+      328,
+      18
+    ],
+    "text": "(0) in relation to any information :",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      786,
+      369,
+      15
+    ],
+    "text": ". or statement contained in an",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      253,
+      793,
+      205,
+      42
+    ],
+    "text": "Information Book kept by",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      254,
+      819,
+      188,
+      16
+    ],
+    "text": "an inquirer, means su",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      250,
+      827,
+      287,
+      31
+    ],
+    "text": "inquirer, . ;",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88,
+      851,
+      449,
+      13
+    ],
+    "text": "3.8 oem oD :",
+    "mean_p_confidence": 0.08
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      168,
+      42,
+      348,
+      15
+    ],
+    "text": "2 Criminal Procedure Code (Amendment) Act,",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      301,
+      58,
+      108,
+      14
+    ],
+    "text": "No. 42 of 1961",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      170,
+      74,
+      372,
+      30
+    ],
+    "text": "cevtina 1228. In any proceedings under this",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      170,
+      96,
+      372,
+      21
+    ],
+    "text": "ois obiscet Code, the production of a certified copy",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      170,
+      111,
+      372,
+      18
+    ],
+    "text": "2884, to be of any information or statement obtained",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      170,
+      126,
+      372,
+      22
+    ],
+    "text": "tii under section 122A shall be prima faote",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      226,
+      141,
+      316,
+      16
+    ],
+    "text": "\" . evidence of the fact that such informa-",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      262,
+      158,
+      280,
+      16
+    ],
+    "text": "tion was given, or that such statement",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      262,
+      172,
+      280,
+      17
+    ],
+    "text": "wae made, to the police officer or inquirer",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      262,
+      186,
+      280,
+      19
+    ],
+    "text": "by whom it was recorded; and notwith-",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      262,
+      201,
+      281,
+      35
+    ],
+    "text": "standing the provisions of any other",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      262,
+      217,
+      280,
+      18
+    ],
+    "text": "Jaw, it shall not be necessary to call such",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      262,
+      232,
+      281,
+      19
+    ],
+    "text": "officer or inquirer as 2 witness solely for",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      262,
+      247,
+      281,
+      20
+    ],
+    "text": "the purpose of producing such certified.",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      262,
+      266,
+      45,
+      16
+    ],
+    "text": "copy..",
+    "mean_p_confidence": 0.4
+  }
+]

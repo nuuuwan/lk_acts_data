@@ -1,0 +1,1399 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      129,
+      34,
+      410,
+      31
+    ],
+    "text": "PARLIAMENT OF CEYLON?",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      217,
+      72,
+      344,
+      45
+    ],
+    "text": "4th Session 1963-64 fe > vf",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      431,
+      127,
+      122,
+      17
+    ],
+    "text": "a",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      266,
+      193,
+      81,
+      20
+    ],
+    "text": "Stone",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      262,
+      192,
+      91,
+      49
+    ],
+    "text": "(i)",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      266,
+      228,
+      272,
+      24
+    ],
+    "text": "eoralg",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      119,
+      322,
+      386,
+      28
+    ],
+    "text": "Local Authorities Pensions",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      138,
+      370,
+      351,
+      38
+    ],
+    "text": "(Special Provisions) Act,",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      213,
+      418,
+      195,
+      27
+    ],
+    "text": "No. 4 of 1964",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      205,
+      543,
+      208,
+      15
+    ],
+    "text": "Date of Assent: January 9, 1964",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      185,
+      648,
+      247,
+      14
+    ],
+    "text": "Printed on the Orders of Government",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      125,
+      752,
+      367,
+      26
+    ],
+    "text": "Frloted ty he ae aacnttine Boral, COLOMe",
+    "mean_p_confidence": 0.09
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      125,
+      781,
+      365,
+      15
+    ],
+    "text": "Annual Subscription (neluding Bills) Rs. 90 (Local), Rs. 40",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      125,
+      793,
+      367,
+      32
+    ],
+    "text": "aM, OR Re eg",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      126,
+      855,
+      367,
+      16
+    ],
+    "text": "Price: 26 cents Pastage: 10 conte",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      28,
+      347,
+      18
+    ],
+    "text": "Loval Authorities Pensions (Special Provisions)",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      189,
+      47,
+      139,
+      16
+    ],
+    "text": "Act, No. & of 1964",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      76,
+      102,
+      14
+    ],
+    "text": "L. D0, 29/82,",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      97,
+      431,
+      20
+    ],
+    "text": "AW Acr 70 MAKE PROVISION FOR THE FAYMENT, WITH =",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      97,
+      119,
+      359,
+      15
+    ],
+    "text": "RETROSPECTIVE EFFECT, OF INCREASED PENGIONS TO",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98,
+      136,
+      358,
+      13
+    ],
+    "text": "CERTAIN EMPLOYEES OF LOCAL AUTHORITIES AND",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      52,
+      151,
+      404,
+      14
+    ],
+    "text": ": Proviciat ano DisTerct CoMMITTEES WHO HAVE",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      97,
+      171,
+      167,
+      10
+    ],
+    "text": "RETIRED FROM SERVICE.",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      130,
+      189,
+      262,
+      21
+    ],
+    "text": "[Date of Assent: January 9, 1964]",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      213,
+      388,
+      19
+    ],
+    "text": "BE it enacted by the Queen's Most Excellent Majesty,",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      229,
+      389,
+      20
+    ],
+    "text": "by and with the advice aad consent of the Senate and",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      237,
+      389,
+      28
+    ],
+    "text": "the House of Representatives of Caylon in this present",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      261,
+      390,
+      18
+    ],
+    "text": "Parliament assembled, and by the authority of the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      281,
+      142,
+      15
+    ],
+    "text": "same, as follows:-",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      306,
+      443,
+      16
+    ],
+    "text": "4. This Act may be cited as the Local Authorities Ghes sea",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      313,
+      371,
+      28
+    ],
+    "text": "Pensions (Special Provisions) Act, No. 4 of 1964.",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      350,
+      455,
+      24
+    ],
+    "text": "2, Where any monthly pension is being paid under Pessina rit",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      367,
+      471,
+      23
+    ],
+    "text": "any written law to any person (hereinafter referred to persons to be",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      387,
+      452,
+      19
+    ],
+    "text": "asa pensioner \") who teers,",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      100,
+      411,
+      356,
+      19
+    ],
+    "text": "{@) has heen ani officer or servant of any local",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      149,
+      428,
+      308,
+      18
+    ],
+    "text": "authority and bas retired from the service",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      148,
+      443,
+      309,
+      19
+    ],
+    "text": "of that authority and who, at the date of",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      149,
+      461,
+      167,
+      17
+    ],
+    "text": "euch retirement, was",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      150,
+      484,
+      306,
+      30
+    ],
+    "text": "G in secaipt of a salary on a rupee scale,",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      52,
+      505,
+      189,
+      12
+    ],
+    "text": ": and -",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      52,
+      523,
+      405,
+      18
+    ],
+    "text": "* (ii) not @ member of the Local Government",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      198,
+      541,
+      251,
+      16
+    ],
+    "text": "Service; or :",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      101,
+      565,
+      356,
+      29
+    ],
+    "text": "(0) has been an employes of any Provincial Com-",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      149,
+      582,
+      308,
+      18
+    ],
+    "text": "mittee or District Committee and has",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      149,
+      597,
+      308,
+      19
+    ],
+    "text": "retired from the service of such Committee",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      149,
+      613,
+      157,
+      17
+    ],
+    "text": "before its dissolution,",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      52,
+      637,
+      404,
+      19
+    ],
+    "text": "+ such monthly pension shall, with effect from October 1,",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      654,
+      387,
+      19
+    ],
+    "text": "1987, be increased in accordance with the following",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      674,
+      110,
+      14
+    ],
+    "text": "provisions :",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      102,
+      694,
+      431,
+      17
+    ],
+    "text": "(1) Where such pensioner has retired from service :",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      148,
+      710,
+      307,
+      19
+    ],
+    "text": "on or before January 1, 1946, the pension",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      150,
+      726,
+      305,
+      19
+    ],
+    "text": "which is being paid to him shall",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      149,
+      743,
+      306,
+      13
+    ],
+    "text": "be increased in the manner set out in",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92,
+      758,
+      194,
+      14
+    ],
+    "text": ": Schedule A hereto.",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      782,
+      363,
+      17
+    ],
+    "text": ". @) Where such pensioner has retired from service",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      53,
+      799,
+      400,
+      20
+    ],
+    "text": ". after January 1, 1946, and before April 2,",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      150,
+      815,
+      304,
+      17
+    ],
+    "text": "1955, the pension which is being paid to",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      149,
+      831,
+      389,
+      26
+    ],
+    "text": "him shall be increased in the manuer set ?",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      149,
+      847,
+      398,
+      14
+    ],
+    "text": "out in Schedule B hereto. i",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      41,
+      29,
+      507,
+      16
+    ],
+    "text": ": 2 Local Authorities Pensions (Special Provisions}",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      305,
+      46,
+      139,
+      15
+    ],
+    "text": "Act, No. 4 of 1964",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      81,
+      72,
+      489,
+      20
+    ],
+    "text": "Saeruae In 3. The amount of any inotease in pansion payable",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      81,
+      89,
+      489,
+      21
+    ],
+    "text": "yecnen in purtuance of the provisions of section 2, shall be",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      81,
+      110,
+      39,
+      10
+    ],
+    "text": "be poid,",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      38,
+      120,
+      537,
+      25
+    ],
+    "text": "Sele ee (@) paid by the same authority as that by which,",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      78,
+      138,
+      407,
+      33
+    ],
+    "text": "Be gorda the pension is being paid, and",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83,
+      163,
+      485,
+      24
+    ],
+    "text": "nee () deemed for all purposes to be paid ander the",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      262,
+      185,
+      306,
+      17
+    ],
+    "text": "written Jaw under which the pension is",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      263,
+      202,
+      80,
+      17
+    ],
+    "text": "being paid,",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      182,
+      235,
+      349,
+      20
+    ],
+    "text": "notwithstanding anything in such written law.\"",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      36,
+      267,
+      487,
+      23
+    ],
+    "text": "+ Taterpriation, =, Tn this Act Do: :",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      118,
+      305,
+      449,
+      18
+    ],
+    "text": ": Jocal anthority mean any Municipal Council,",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      37,
+      306,
+      531,
+      32
+    ],
+    "text": ". : Grban Counc, ows Council or Village",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      36,
+      328,
+      472,
+      34
+    ],
+    "text": ": Council; :",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      217,
+      370,
+      351,
+      19
+    ],
+    "text": "Provincial Committee and * District Com-",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      36,
+      386,
+      532,
+      19
+    ],
+    "text": "mittee mean a Provincial Committes and",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      37,
+      403,
+      531,
+      29
+    ],
+    "text": "i a, District, Committee, respectively, cone",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      36,
+      419,
+      532,
+      18
+    ],
+    "text": ": , tituted under the Thoronghfares Ordinance",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      36,
+      435,
+      532,
+      15
+    ],
+    "text": ": and inter dissolved under, the Roads",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      265,
+      451,
+      188,
+      19
+    ],
+    "text": "(Cransfer of Control) Act.",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      341,
+      483,
+      70,
+      11
+    ],
+    "text": "Bomaputa A",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      198,
+      501,
+      384,
+      22
+    ],
+    "text": "1. Whare the basic i (unredi jz lean)",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      186,
+      505,
+      382,
+      28
+    ],
+    "text": "tn Wetted Parsing sbal be trenned Sy an anorat equal",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      185,
+      532,
+      368,
+      15
+    ],
+    "text": "to atk pension, aubjecd to a maximum ingranse of Ra. 12.50,",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      202,
+      562,
+      359,
+      12
+    ],
+    "text": "(b) Where the bani i (unreduced) is not lest",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      184,
+      562,
+      383,
+      28
+    ],
+    "text": "eal) 2%, Sae't ere tee fo, 100, Sook penton ball be",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      184,
+      588,
+      382,
+      16
+    ],
+    "text": "inarented by 60 amount equal to 20 per asxtum of eveh pension.",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      199,
+      619,
+      368,
+      24
+    ],
+    "text": "(6) Where she basie monghly pension (uneeduoed) is not Joes",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      186,
+      632,
+      380,
+      14
+    ],
+    "text": "than Bs. 100, but is lens then Ra. 600, such pension shall be",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      186,
+      646,
+      380,
+      14
+    ],
+    "text": "inerested by sa emouns equal to 10 per centum of such pension.",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      36,
+      672,
+      530,
+      18
+    ],
+    "text": "| (@) Where the basle monthly pansion (unreduoed) ix nob lena",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      36,
+      689,
+      530,
+      14
+    ],
+    "text": ": than Re. 800, but is lea than Rs. 500, euch pension ahall be",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      187,
+      702,
+      372,
+      15
+    ],
+    "text": "inereasad by on amount equal to 7 per costume of auch pension,",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      223,
+      729,
+      344,
+      21
+    ],
+    "text": "Wherg the basic thls nic red in Dob lesa",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      36,
+      732,
+      531,
+      29
+    ],
+    "text": ": nd Ree Elo sath person hdl he latrousal bp an amowat",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      190,
+      759,
+      377,
+      15
+    ],
+    "text": "equal to per coutum of auch pension, gubjeot to moximum",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      190,
+      773,
+      112,
+      11
+    ],
+    "text": "increase of Tea. 60,",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      36,
+      797,
+      543,
+      24
+    ],
+    "text": "' 2. Whece the amount to which a pension may he increased in!",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      191,
+      820,
+      377,
+      14
+    ],
+    "text": "sooordance with the provisions of parngrnph 1 is iese than the",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      191,
+      824,
+      377,
+      24
+    ],
+    "text": "amouut to which that. pension migus have been insrossed if 1b",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      191,
+      846,
+      376,
+      15
+    ],
+    "text": "bad been emsller, that pension shall be incrassed to the Lnat-",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      191,
+      862,
+      343,
+      12
+    ],
+    "text": "Mentioned amount. . oe",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      126,
+      22,
+      367,
+      17
+    ],
+    "text": "Local Authorities Pensions (Special Provisions) 3",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      226,
+      38,
+      139,
+      16
+    ],
+    "text": "Act, No. 4 of 1964",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      262,
+      66,
+      74,
+      10
+    ],
+    "text": "Soursuuz B",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      116,
+      87,
+      375,
+      14
+    ],
+    "text": "1. (a) Where the basic monthly pension (unreduced) is less",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      103,
+      100,
+      400,
+      15
+    ],
+    "text": "Gua Rs. 60, such pension abel! be increased by an amouut",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      103,
+      114,
+      388,
+      13
+    ],
+    "text": "equal to auch pension, subject to @ maximuni increase of",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      103,
+      127,
+      53,
+      11
+    ],
+    "text": "Ba, 9.50,",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      116,
+      161,
+      374,
+      14
+    ],
+    "text": "(2) Whors the basis moattly pension (voredueed) is not less",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      103,
+      174,
+      386,
+      14
+    ],
+    "text": "than Re. 60, but ia less than fa. 100, such pension sball be",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      102,
+      187,
+      385,
+      15
+    ],
+    "text": "inoreased by'an amount squat to 5 per Centum of such pension.",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      120,
+      217,
+      368,
+      15
+    ],
+    "text": "(0) Where the basic mont fon (uareduced) is not leas",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      102,
+      217,
+      385,
+      27
+    ],
+    "text": "fae! er '100, but eae thes Ber a0, sueh pension sball be",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      102,
+      243,
+      384,
+      15
+    ],
+    "text": "Inoreazed by an amount equal to 8 per centum of such pension.",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115,
+      269,
+      371,
+      15
+    ],
+    "text": "(@) Where the basic monthly pension (unreduced) is not lest",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      101,
+      282,
+      385,
+      15
+    ],
+    "text": "thon Re, 900, bub ia lesa thon Rs. 500, such pension ahatl be",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      101,
+      295,
+      383,
+      16
+    ],
+    "text": "inereased by an amount equal to 2 por centum of, such pension.",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      114,
+      325,
+      371,
+      25
+    ],
+    "text": "{c) Where the basio moutbly pension (uaredueed) i nok tenn",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      101,
+      338,
+      383,
+      16
+    ],
+    "text": "thon Bs. 600, auch pension be increased by an amount",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      100,
+      352,
+      383,
+      15
+    ],
+    "text": "equal to 1 por centum of such pension, subject to a maximum",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      100,
+      365,
+      129,
+      11
+    ],
+    "text": "inerense of Bs. 12.60.",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      112,
+      394,
+      370,
+      17
+    ],
+    "text": "2. Where the omount to which = pension enay be insreased in",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      99,
+      408,
+      383,
+      16
+    ],
+    "text": "acoordance with the provisions of paregraph 1 is leea than tha",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      99,
+      422,
+      383,
+      15
+    ],
+    "text": "amount to which thab pensfoa might have been incrossed if it",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      99,
+      434,
+      382,
+      16
+    ],
+    "text": "bad bean smaller, that peosion shali be inoreased to the last.",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      98,
+      449,
+      115,
+      10
+    ],
+    "text": "mentioned smount,",
+    "mean_p_confidence": 0.41
+  }
+]

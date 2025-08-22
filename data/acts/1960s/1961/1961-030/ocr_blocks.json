@@ -1,0 +1,937 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      125,
+      42,
+      363,
+      23
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      219,
+      83,
+      299,
+      17
+    ],
+    "text": "Ist Session 1960-61",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      269,
+      179,
+      66,
+      19
+    ],
+    "text": "fGila>",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69,
+      345,
+      463,
+      41
+    ],
+    "text": "Bills of Exchange (Amendment)",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      164,
+      395,
+      276,
+      31
+    ],
+    "text": "Act, No. 30 of 1961",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      192,
+      529,
+      277,
+      26
+    ],
+    "text": "Date of Assent: May $0, 1961 ,",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      168,
+      637,
+      266,
+      40
+    ],
+    "text": "Printed on the Orders of Government",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      126,
+      768,
+      350,
+      24
+    ],
+    "text": "Bitiaath eo AREET Tia E Eas SEN, dl",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      125,
+      797,
+      350,
+      34
+    ],
+    "text": "ie SPS ae et",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      126,
+      832,
+      349,
+      15
+    ],
+    "text": "Price: 16 cents. Postage: 16 cents.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      29,
+      349,
+      17
+    ],
+    "text": "Bills of Exchange (Amendment) Act No. 30 of 1961",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      56,
+      223,
+      20
+    ],
+    "text": "LPO. 49/58.\" :",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      84,
+      357,
+      14
+    ],
+    "text": "AN ACT TO AMEND THE Brits oF EXCHANGE",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      221,
+      101,
+      85,
+      12
+    ],
+    "text": "ORDINANCE.",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      122,
+      320,
+      18
+    ],
+    "text": "[Date of Assent : 30th May, 1961]",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      145,
+      358,
+      18
+    ],
+    "text": "BE it enacted by the Queens Most Bxcellent",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      161,
+      359,
+      17
+    ],
+    "text": "Majesty, by and with the advice and consent of the",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      176,
+      360,
+      19
+    ],
+    "text": "Senate and the House of Representatives of Ceylon",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      192,
+      360,
+      17
+    ],
+    "text": "in this present Parliament assembled, and by the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      209,
+      256,
+      16
+    ],
+    "text": "authority of the same, as follows :",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      100,
+      232,
+      410,
+      16
+    ],
+    "text": "1, This Act may be cited as the Bills of Exchange stor stl.",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      248,
+      242,
+      16
+    ],
+    "text": "(Amendment) Act, No. 30 of 1961.",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99,
+      279,
+      435,
+      20
+    ],
+    "text": "2. Section 14 of the Bills of Exchange Ordinance, Amendment of",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      292,
+      433,
+      19
+    ],
+    "text": "hereinafter referred to as the principal enact- @apares.",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      309,
+      361,
+      29
+    ],
+    "text": "ment, is hereby amended, in paragraph (4) of",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      325,
+      360,
+      17
+    ],
+    "text": "that section, by the substitution, for the words",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      341,
+      311,
+      19
+    ],
+    "text": "term month , of the following",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      107,
+      365,
+      335,
+      14
+    ],
+    "text": "term month or 0 of wns,",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99,
+      396,
+      435,
+      17
+    ],
+    "text": "3. Section 35 of the principal enactment is Amendmeat of",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      397,
+      439,
+      32
+    ],
+    "text": "hereby amended, in sub-section Be that section, Sula 25 oF",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      427,
+      428,
+      19
+    ],
+    "text": "by the substitution, for ail the words from if sssemet,",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      443,
+      360,
+      16
+    ],
+    "text": "a bill to the end of that sub-section, of the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      458,
+      256,
+      21
+    ],
+    "text": "following :",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      163,
+      488,
+      169,
+      13
+    ],
+    "text": "if a bill be endorsed",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211,
+      508,
+      232,
+      15
+    ],
+    "text": "Pay D only or 8 s@ecat",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      195,
+      523,
+      248,
+      16
+    ],
+    "text": "andy\" or 9. gong Bow Ganges; Or",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      212,
+      546,
+      230,
+      17
+    ],
+    "text": "Pay D for the account of X",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      195,
+      562,
+      248,
+      16
+    ],
+    "text": "or ead ed azn 6 O ent",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      195,
+      579,
+      248,
+      15
+    ],
+    "text": "or X Gov somaBe g soe",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      195,
+      595,
+      92,
+      15
+    ],
+    "text": "Ganges 5 OF",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211,
+      618,
+      231,
+      16
+    ],
+    "text": "Pay D or order for collection *",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      634,
+      376,
+      16
+    ],
+    "text": ". or 89 awd 96 edt el cody oF",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      196,
+      652,
+      251,
+      14
+    ],
+    "text": "gag adie suelo aif,",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      195,
+      666,
+      70,
+      14
+    ],
+    "text": "Ganges?",
+    "mean_p_confidence": 0.07
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      97,
+      688,
+      437,
+      15
+    ],
+    "text": "4, Section 76 of the principal enactment is Amenimeat of",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      690,
+      440,
+      36
+    ],
+    "text": "hereby tinended as follows ieee",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      97,
+      727,
+      414,
+      19
+    ],
+    "text": "@ by the substitution, for sub-section (1) of ==\"",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      138,
+      745,
+      304,
+      19
+    ],
+    "text": "that section, of the following sub-",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      138,
+      763,
+      257,
+      11
+    ],
+    "text": "section : .",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88,
+      777,
+      353,
+      41
+    ],
+    "text": "- ite {D,Whete, f,cheoue, bears aoress",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      153,
+      801,
+      289,
+      16
+    ],
+    "text": "its face an addition of two parallel",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      153,
+      817,
+      322,
+      15
+    ],
+    "text": "transverse lines, cither with or with.",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      153,
+      833,
+      288,
+      16
+    ],
+    "text": "out the words not negotiable or",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      841,
+      162,
+      26
+    ],
+    "text": "7B ten 4304 (611)",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      177,
+      32,
+      366,
+      18
+    ],
+    "text": "2. Bills of Exchange (Amendment) Act No. 30 of 1961",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      270,
+      66,
+      287,
+      15
+    ],
+    "text": "* of OG ME em DBO OF we",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      271,
+      81,
+      285,
+      17
+    ],
+    "text": "wnpssses , that addition con-",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      271,
+      96,
+      284,
+      16
+    ],
+    "text": "stitutes a crossing, and the cheque is",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      270,
+      112,
+      288,
+      17
+    ],
+    "text": "crossed generally. ; and .",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      232,
+      135,
+      324,
+      18
+    ],
+    "text": "@ in sub-section (2) of that section, by the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      270,
+      151,
+      286,
+      14
+    ],
+    "text": "substitution, for the words with or",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      270,
+      165,
+      286,
+      16
+    ],
+    "text": "without the words not negotiable,",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143,
+      181,
+      270,
+      18
+    ],
+    "text": ". of the following :-",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      301,
+      205,
+      269,
+      13
+    ],
+    "text": "with or without the words not :",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      285,
+      219,
+      271,
+      17
+    ],
+    "text": "negotiable or 0g agg me om mae",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      285,
+      236,
+      128,
+      15
+    ],
+    "text": "eee sare ee",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79,
+      252,
+      477,
+      33
+    ],
+    "text": "Azsendmeat of 5. Section 77 of the principal enactment is",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      82,
+      276,
+      473,
+      23
+    ],
+    "text": "rend hereby amended, in sub-section (4) of that section,",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77,
+      287,
+      478,
+      33
+    ],
+    "text": "eaoent by the substitution, for the words * add the words",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      198,
+      313,
+      324,
+      18
+    ],
+    "text": "not negotiable. , of the following -",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      245,
+      337,
+      310,
+      19
+    ],
+    "text": "add the words not, negotiable of",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      229,
+      353,
+      304,
+      16
+    ],
+    "text": "wg coy 9g om Oia oF me mpdsens .",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77,
+      374,
+      478,
+      33
+    ],
+    "text": "Ament of 6 (1) Section 81 of the principal enactment is",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      76,
+      389,
+      479,
+      30
+    ],
+    "text": "Be procipel hereby amended by the substitution, for the words",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      75,
+      405,
+      481,
+      33
+    ],
+    "text": "-eaoment bears on it the words not negotiaiie, he",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      197,
+      431,
+      374,
+      17
+    ],
+    "text": "shail *, of the following : :",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      244,
+      454,
+      312,
+      20
+    ],
+    "text": "bears on it the words not ne~wble or",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      228,
+      471,
+      327,
+      15
+    ],
+    "text": "og egy me om wie oF * ae wipsserss",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      228,
+      487,
+      310,
+      19
+    ],
+    "text": "he shall. _",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      212,
+      512,
+      344,
+      20
+    ],
+    "text": "(2) The marginal note to section 81 of the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      196,
+      528,
+      359,
+      18
+    ],
+    "text": "principal enactment is hereby anit. by the",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      196,
+      545,
+      359,
+      15
+    ],
+    "text": "substitution, for the words with wurus not",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      196,
+      561,
+      247,
+      17
+    ],
+    "text": "negotiable , of the following :",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      86,
+      585,
+      469,
+      17
+    ],
+    "text": ". with words not negotiable or * og ea",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      229,
+      601,
+      255,
+      16
+    ],
+    "text": "98 am we o or ons npg sans .",
+    "mean_p_confidence": 0.35
+  }
+]

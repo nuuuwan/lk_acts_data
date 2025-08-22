@@ -1,0 +1,4083 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      121,
+      20,
+      370,
+      32
+    ],
+    "text": "PARLIAMENT. OF CEYLON",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144,
+      77,
+      252,
+      26
+    ],
+    "text": ": Ist Session 1960-61",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      140,
+      305,
+      337,
+      37
+    ],
+    "text": "Young Mens Buddhist",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      96,
+      352,
+      425,
+      32
+    ],
+    "text": "Association, Dehiwala-Mount",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      97,
+      398,
+      425,
+      33
+    ],
+    "text": "Lavinia Act, No. 34 of 1961",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      109,
+      504,
+      296,
+      14
+    ],
+    "text": ". Date of Assent: June 2, 1962",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      117,
+      621,
+      318,
+      15
+    ],
+    "text": "Printed on the Orders of Government",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      135,
+      745,
+      369,
+      16
+    ],
+    "text": "Printed at the Govaasenr Press, Crvtoy. To be .",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      133,
+      762,
+      357,
+      13
+    ],
+    "text": "jpurchased at the Goveanment Pustications BuREAv, COLOMBO",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      133,
+      781,
+      358,
+      13
+    ],
+    "text": "Annuel Subscription Gncluding Bills) Rs 25, payable in",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      134,
+      794,
+      357,
+      10
+    ],
+    "text": "gout pubes Cectuine ib) Re 25 paras ie",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      100,
+      805,
+      391,
+      13
+    ],
+    "text": "- Burra, Posr Orme Box 500, Secretariat, Colombe 1",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      131,
+      818,
+      392,
+      25
+    ],
+    "text": "Price: 25 cents. Postage: 10 cents.",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99,
+      28,
+      313,
+      17
+    ],
+    "text": ". Young Men's Buddhist Association,",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99,
+      31,
+      323,
+      35
+    ],
+    "text": "Dehiwaia Mount Lavinia Act, No. 34 of 1961",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      70,
+      383,
+      16
+    ],
+    "text": "AN Acr 70 iNconrorars Tax YouNe Msxs Buopaist",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      109,
+      88,
+      296,
+      16
+    ],
+    "text": "Assocration, DepiwaLa-Mount LAVINIA.",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      135,
+      113,
+      254,
+      20
+    ],
+    "text": "(Date of Assent: 2nd June, 1961]",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      141,
+      448,
+      18
+    ],
+    "text": "WHEREAS an Association, called and known as Pom.",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      156,
+      382,
+      20
+    ],
+    "text": "The Young Men's Buddhist Association, Dehiwals-",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      172,
+      383,
+      16
+    ],
+    "text": "Mount Lavinia, has heretofore been established at",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      187,
+      383,
+      30
+    ],
+    "text": "Debiwale-Mount Lavinia for the purpose of effectually",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      205,
+      374,
+      18
+    ],
+    "text": "carrying out and transacting all matters connecte",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      219,
+      422,
+      18
+    ],
+    "text": "with the said Association according to the rules agreed =",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      238,
+      132,
+      17
+    ],
+    "text": "to by ite menabers:",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      265,
+      366,
+      16
+    ],
+    "text": "And whereas the said Association has heretofore",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      281,
+      383,
+      16
+    ],
+    "text": "aucosssfully carried out and transacted the several",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      288,
+      384,
+      27
+    ],
+    "text": "objects and mattors for which it was established, and",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      312,
+      383,
+      19
+    ],
+    "text": "hag applied to be incorporated, and it will be for the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      329,
+      304,
+      18
+    ],
+    "text": "public advantage to grant the application:",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      360,
+      366,
+      17
+    ],
+    "text": "Be it therefore enacted by the Queens Most",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      376,
+      383,
+      18
+    ],
+    "text": "Excellent Majesty, by and with the advice and consent",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      391,
+      383,
+      17
+    ],
+    "text": "of the Senate and the House of Representatives of",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      407,
+      382,
+      31
+    ],
+    "text": "Ceylon in this present Parliament assembled, and by",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      424,
+      336,
+      18
+    ],
+    "text": "the authority of the same, as follows:",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92,
+      455,
+      437,
+      18
+    ],
+    "text": "4. This Act may be cited as the Young Mens shat tin",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      471,
+      382,
+      17
+    ],
+    "text": "Buddhist Association, Dehiwala-Mount Lavinia Act,",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      490,
+      376,
+      15
+    ],
+    "text": "No. 84 of 1961. :",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92,
+      520,
+      447,
+      20
+    ],
+    "text": "2, From snd after the passing of this Act, th Tupentice",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      532,
+      466,
+      21
+    ],
+    "text": "President, Vice-Presidents, and members of the $2 wos",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      546,
+      442,
+      35
+    ],
+    "text": "Board of Directors for the time being of the, seid each",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      564,
+      457,
+      24
+    ],
+    "text": "Young Mons Buddhist Association, DehiwalaMount Sian\"",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      584,
+      474,
+      17
+    ],
+    "text": "Lavinia, and such and so many persona as now are Mout Laval,",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      599,
+      383,
+      21
+    ],
+    "text": "members of the said Young Mens Buddhist Associa-",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      615,
+      383,
+      21
+    ],
+    "text": "tion, Dehiwala-Mount Lavinia, or shall hereafter be",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      631,
+      382,
+      18
+    ],
+    "text": "admitted members of the corporation hereby consti-",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      648,
+      382,
+      19
+    ],
+    "text": "tated, shall be and become a corporation with, con-",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      663,
+      382,
+      18
+    ],
+    "text": "tinwance for ever under the style and name of The",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      680,
+      383,
+      19
+    ],
+    "text": "Young Men's Buddhist Association, Dehiwala-Moant",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      695,
+      383,
+      20
+    ],
+    "text": "Lavinia, and by that name shall and may ane and",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      711,
+      384,
+      18
+    ],
+    "text": "be sued in all courts, with full power and authority",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      727,
+      383,
+      19
+    ],
+    "text": "to have and use @ common seal and alter the same at",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      744,
+      100,
+      16
+    ],
+    "text": "ite pleagure. -;",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      772,
+      435,
+      21
+    ],
+    "text": "__ 8 The general objects for which the corporation Gam!",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      776,
+      433,
+      39
+    ],
+    "text": "is constituted are hereby declared to be mee wee",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      112,
+      809,
+      422,
+      22
+    ],
+    "text": "(1) the encouragement of the stady and practical =*",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      160,
+      818,
+      250,
+      27
+    ],
+    "text": "observance of Baddhien;",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93,
+      848,
+      130,
+      11
+    ],
+    "text": "FW OTL 8,L08 (aya)",
+    "mean_p_confidence": 0.06
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      175,
+      24,
+      321,
+      18
+    ],
+    "text": "2 Young Mene Buddhist Association,",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      201,
+      40,
+      328,
+      15
+    ],
+    "text": "Dehiwala-Mount Lavinia Act, No. 84 of 1962",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      135,
+      67,
+      320,
+      22
+    ],
+    "text": ". @) the propagation of Buddhism;",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      208,
+      87,
+      351,
+      18
+    ],
+    "text": "(8) the advancement: of the social, cultural, and",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      255,
+      102,
+      304,
+      16
+    ],
+    "text": "edocational welfare of the residents of",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      256,
+      118,
+      222,
+      15
+    ],
+    "text": "Dehiwala-Monnt Lavinia; and",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      208,
+      137,
+      367,
+      31
+    ],
+    "text": "wens (8) the promotion of the moral, intellectual, and +",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      256,
+      154,
+      240,
+      18
+    ],
+    "text": "physical welfare of the members.",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77,
+      183,
+      483,
+      31
+    ],
+    "text": "Mesngeant. 4. (1) The affairs of the corporation shall, subject",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      176,
+      201,
+      384,
+      28
+    ],
+    "text": "to the rules in foree for the time being of the corpora",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      176,
+      217,
+      384,
+      18
+    ],
+    "text": "tion as hereinafter provided, be administered by",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      176,
+      233,
+      384,
+      17
+    ],
+    "text": "Board of Directors consisting of the President, two",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      176,
+      247,
+      385,
+      19
+    ],
+    "text": "Vice-Pzesidenta, the Honorary General Secretary, and",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      176,
+      257,
+      385,
+      40
+    ],
+    "text": "the Honorary Treasurer respectively of the corpora-",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      176,
+      279,
+      385,
+      19
+    ],
+    "text": "tion, and not Jess than ten other members, to be elected",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      172,
+      291,
+      389,
+      40
+    ],
+    "text": "reapoctively in accordance with the rules for the time",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      176,
+      310,
+      230,
+      24
+    ],
+    "text": "being of corporation. .",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      195,
+      330,
+      366,
+      21
+    ],
+    "text": "(2) The firet Board of Directors shall consist of",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      177,
+      346,
+      385,
+      18
+    ],
+    "text": "Dr. D. T. B. Gunawardena, President; Mudaliyar",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      176,
+      363,
+      385,
+      17
+    ],
+    "text": "W. Dahanaike, Vice-President; Mr. Simon Wickrema-",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      78,
+      378,
+      483,
+      21
+    ],
+    "text": ". singhe, Vice-President; Mr. J. H. Ratnayake,",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      177,
+      395,
+      385,
+      19
+    ],
+    "text": "Honorary General Secretary; Mr. T. Ediriweera,",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      177,
+      407,
+      386,
+      40
+    ],
+    "text": "Honorary Treasurer; and Messrs. T. H. S. Amera-",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      177,
+      426,
+      385,
+      19
+    ],
+    "text": "sekera, A. D. de Alwis, A. G. R. de Silva, P. 8. de",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      177,
+      441,
+      385,
+      20
+    ],
+    "text": "Silva, P. T. de Silva, B. E. @. C. Fernando, P. G. T.",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      178,
+      459,
+      384,
+      18
+    ],
+    "text": "Munidesa, 8. de S. Thenowara, L: I. Wickrema-",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      176,
+      477,
+      221,
+      18
+    ],
+    "text": "ainghe, and L. H. Wijetunga.",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      81,
+      506,
+      482,
+      19
+    ],
+    "text": "Bales of the 5. The rules set forth in the Schedule shall for",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      81,
+      524,
+      417,
+      19
+    ],
+    "text": "oration. . all purposes be the rules of the corporation:",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      194,
+      541,
+      369,
+      20
+    ],
+    "text": "Provided, however, that nothing in this section",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      177,
+      557,
+      387,
+      19
+    ],
+    "text": "contained shall be held or construed to prevent the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      177,
+      575,
+      386,
+      20
+    ],
+    "text": "corporation at all times hereafter, at any duly consti-",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      178,
+      586,
+      386,
+      41
+    ],
+    "text": "tuted general meeting, from making fresh rules, or",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      178,
+      605,
+      386,
+      36
+    ],
+    "text": "from altering, amending, adding to, or cancelling any",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      178,
+      622,
+      386,
+      17
+    ],
+    "text": "of the rules set forth in the Schedule or which may",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      178,
+      641,
+      277,
+      17
+    ],
+    "text": "hereafter be made by the corporation.",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77,
+      670,
+      488,
+      27
+    ],
+    "text": "Amendment 6 No rule in the Schedule, nor any rule which may",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      82,
+      684,
+      483,
+      39
+    ],
+    "text": "of rales, hereafter be passed at a general meeting, shall be",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      180,
+      690,
+      385,
+      36
+    ],
+    "text": "altered, added to, amended. oF cancelled, except by",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      180,
+      720,
+      386,
+      16
+    ],
+    "text": "a vote of two-thirds of the members present at @",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      179,
+      721,
+      387,
+      38
+    ],
+    "text": "general mesting of the Association, and ualess such",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      180,
+      750,
+      385,
+      19
+    ],
+    "text": "amendment or cancellation shall have been previously",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      180,
+      770,
+      267,
+      19
+    ],
+    "text": "approved by the-Board of Directors.",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83,
+      799,
+      483,
+      27
+    ],
+    "text": "Members to ba 7. All members of the corporation shall be subject",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83,
+      814,
+      483,
+      26
+    ],
+    "text": "sit to the rules in force for the time being of the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93,
+      827,
+      420,
+      31
+    ],
+    "text": "A corporation. so",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      103,
+      36,
+      349,
+      18
+    ],
+    "text": "\\ Yourig Men's Buddhist . Association, 3",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      104,
+      52,
+      319,
+      15
+    ],
+    "text": "Dehiwala-Mount Lavinia Act, No. $4'0f-1961",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      91,
+      79,
+      427,
+      21
+    ],
+    "text": "8. All debts and: liabilities ofthe said Young, Debs toe",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      75,
+      92,
+      463,
+      21
+    ],
+    "text": "Men's. Buddhist Association, Dehiwala-Mount Wyre w ite",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      75,
+      104,
+      449,
+      24
+    ],
+    "text": "Lavinia, oxisting at the time of the coming into opera- Aewastaa.",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      76,
+      116,
+      377,
+      38
+    ],
+    "text": "tion of thie Act shall be paid by the corgoration hereby",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      75,
+      132,
+      378,
+      28
+    ],
+    "text": "constitated, -and all debts due toand subscriptions",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      75,
+      157,
+      378,
+      18
+    ],
+    "text": "and contributions payable to the said Young Men's",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      75,
+      172,
+      378,
+      17
+    ],
+    "text": "Buddhist Association, Dehiwala-Mount Lavinia, shall",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      75,
+      188,
+      378,
+      19
+    ],
+    "text": "be paid to the said corporation for the purposes of",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      76,
+      204,
+      214,
+      14
+    ],
+    "text": "this Act. y",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      91,
+      235,
+      443,
+      21
+    ],
+    "text": ". The seal of the corporation shail not be affixed Ho te sal",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      75,
+      252,
+      447,
+      18
+    ],
+    "text": "to any instrument whateoever except in the presence apron",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      75,
+      267,
+      435,
+      14
+    ],
+    "text": "of two of the members of the Board of Directors, who i % te",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      75,
+      279,
+      429,
+      20
+    ],
+    "text": "shall sign their names to the instrument in token of @**",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      75,
+      297,
+      379,
+      18
+    ],
+    "text": "their presence, and such signing shall be independent",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      75,
+      314,
+      295,
+      17
+    ],
+    "text": "of the signing of any person as & witness.",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      92,
+      345,
+      432,
+      17
+    ],
+    "text": "410. The corporation shell be capable in law to take Copmation",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      76,
+      358,
+      440,
+      21
+    ],
+    "text": "and hold any property, movable or immovable, which 20 0\"",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      76,
+      376,
+      456,
+      21
+    ],
+    "text": "may become vested in'it, by virtne of any purchase, movsle and",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      76,
+      388,
+      448,
+      37
+    ],
+    "text": "Siane, gift, testamentary sisposition or otherwise, and morte.",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      76,
+      407,
+      378,
+      29
+    ],
+    "text": "all cua property shall be held by,the coxporation for",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      76,
+      423,
+      378,
+      18
+    ],
+    "text": "the purposes of this Act and subject to the rules for",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      76,
+      438,
+      379,
+      20
+    ],
+    "text": "the time being of the said corporation, with full power",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      76,
+      454,
+      379,
+      18
+    ],
+    "text": "to sel], mortgage, lease, exchange, or otherwise dispose",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      76,
+      469,
+      379,
+      22
+    ],
+    "text": "of the same, fate tt wo in .",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      77,
+      496,
+      443,
+      23
+    ],
+    "text": "+ 44, Nothing in thig Act contained shall prejudice suving of",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      76,
+      514,
+      464,
+      23
+    ],
+    "text": "or affect the rights of Her Majesty-the Queen, Hor {P2!Seq",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      77,
+      533,
+      450,
+      19
+    ],
+    "text": "heirs, and successor, or of any body politic or sd hen.",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      76,
+      551,
+      381,
+      19
+    ],
+    "text": "sorporate, or of any other persons, except such as are",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      77,
+      568,
+      379,
+      16
+    ],
+    "text": "mentioned in this Act, and those claiming'by, from,",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      76,
+      584,
+      427,
+      16
+    ],
+    "text": "orunder them ft :",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      77,
+      625,
+      226,
+      13
+    ],
+    "text": "' SCHEDULE",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      243,
+      646,
+      275,
+      11
+    ],
+    "text": "Rules of a",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      151,
+      660,
+      232,
+      13
+    ],
+    "text": "The Young Man's Buddhist Association,",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      136,
+      674,
+      403,
+      10
+    ],
+    "text": ". Dehiwala-Mount Lavinia. a .",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      94,
+      692,
+      361,
+      36
+    ],
+    "text": "at 1 Nasa ax Onrzens _ .",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90,
+      724,
+      412,
+      17
+    ],
+    "text": "1. The neme of the Assooiotiqa abell be the Young Men's Nene",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      76,
+      739,
+      382,
+      15
+    ],
+    "text": "Buddhist Association, Dehiwala.Mount Lavinia. It shall be",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      76,
+      753,
+      382,
+      15
+    ],
+    "text": "known in Sinhala as the Dhiwala-Galkiasy Tharuna Baudithe",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      68,
+      766,
+      384,
+      20
+    ],
+    "text": "_ Senaltiys a he p",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      82,
+      787,
+      433,
+      24
+    ],
+    "text": "Be The objecte of tha: Association ebsll-be sy Objet.",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      80,
+      812,
+      378,
+      17
+    ],
+    "text": "1 2) the ensouragement of the study snd practice! observence",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      143,
+      830,
+      396,
+      15
+    ],
+    "text": "of Buddhiam; : .",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      87,
+      849,
+      420,
+      11
+    ],
+    "text": "14. ate. 0) .",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      141,
+      36,
+      415,
+      20
+    ],
+    "text": ". 4 Young Men's Buddhist Association, 7",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      196,
+      53,
+      320,
+      17
+    ],
+    "text": "Dekiwala-Mount Lovinia Act, No. 84 of 1961",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      126,
+      76,
+      269,
+      21
+    ],
+    "text": "1. @ the propagation of Buddhism;",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      194,
+      97,
+      351,
+      13
+    ],
+    "text": "@) ho advancement of the social, oultural arid eduoatiooal",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      231,
+      112,
+      313,
+      23
+    ],
+    "text": "welfate of tho residents of Dehiwale-Mount Lavinis:",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      95,
+      135,
+      450,
+      20
+    ],
+    "text": ". (4) the promotion of the moral, intellectual, end physisal",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      117,
+      156,
+      257,
+      11
+    ],
+    "text": ". welfare of the members.",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      321,
+      202,
+      216,
+      11
+    ],
+    "text": "TL Parnow .",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      75,
+      219,
+      470,
+      15
+    ],
+    "text": "Elastin of 8 The Association shall have a Patron who shall be elented",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      71,
+      229,
+      475,
+      25
+    ],
+    "text": "Patron. at a general meeting of the Asvociation by the vole of at least",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      169,
+      250,
+      376,
+      15
+    ],
+    "text": "two-thirds of those present and voting at the meeting. The",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      169,
+      264,
+      376,
+      14
+    ],
+    "text": "petson so elected shall continue as Patron for life, wnlese such",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      169,
+      279,
+      376,
+      14
+    ],
+    "text": "preon tesigas curtier or is replaced by a resolution passed at 6",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      168,
+      291,
+      377,
+      15
+    ],
+    "text": "general meeting by at least two-thirds of those present ond",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      168,
+      307,
+      130,
+      13
+    ],
+    "text": "Yoting at the meeting.",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      85,
+      352,
+      324,
+      16
+    ],
+    "text": ". : TL Mewnennte",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      75,
+      371,
+      469,
+      14
+    ],
+    "text": "Biigibilty for 4. hero aball bo thren classes of members, namely, life,",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      74,
+      383,
+      472,
+      18
+    ],
+    "text": "membership. active, and associate members. Every male person over 38 years",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      167,
+      400,
+      378,
+      14
+    ],
+    "text": "of age, who hins apy or all of tha objects of the Avscciation in",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      168,
+      413,
+      378,
+      15
+    ],
+    "text": "View, aball be cligible for membership, provided, however, thst",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      167,
+      428,
+      360,
+      14
+    ],
+    "text": "only Buddhista chal be eligible for life or sotive membership.",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      74,
+      445,
+      472,
+      30
+    ],
+    "text": "Eorolmant 5. A person may become s member of the Association only",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      74,
+      467,
+      471,
+      14
+    ],
+    "text": "of members. upon the enrolment by the Board of Directors as a life, active,",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      167,
+      479,
+      379,
+      15
+    ],
+    "text": "of asiooiate member, provided, however, that all persons who",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      167,
+      494,
+      379,
+      13
+    ],
+    "text": "were life, active, or assocints mombers at the time of the incor",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      167,
+      507,
+      379,
+      14
+    ],
+    "text": "poration of the Astociatioa sholl continus as such members",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      167,
+      520,
+      379,
+      16
+    ],
+    "text": "without re-enrolinent. Active members may apply for enrolment",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      167,
+      533,
+      379,
+      14
+    ],
+    "text": "ae life members, The Board of Divectors sholl have the right",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      168,
+      548,
+      378,
+      14
+    ],
+    "text": "reject any upplication for membership withoud sasigning ay",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      167,
+      562,
+      90,
+      10
+    ],
+    "text": "retson therefor.",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      71,
+      577,
+      475,
+      34
+    ],
+    "text": "Sahara &. Every life member sholl pay fee of Rs. 250 om his",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      75,
+      591,
+      269,
+      31
+    ],
+    "text": "ote enrolment 5 4 life member. -",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      75,
+      625,
+      471,
+      15
+    ],
+    "text": "Admiion tou 7. Every active or astooiate member shell poy am admission",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      75,
+      631,
+      389,
+      26
+    ],
+    "text": "of acti s04 fee of Ro, 5 on his enrolment. ad",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      75,
+      659,
+      44,
+      9
+    ],
+    "text": "members.",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      75,
+      667,
+      471,
+      25
+    ],
+    "text": "Subscription of 8. Every active or associate member shall pay a quarterly",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      75,
+      687,
+      471,
+      19
+    ],
+    "text": "saticg end subsctiption of Bs. 2.50, The subscription for the querter it",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      75,
+      700,
+      470,
+      17
+    ],
+    "text": "El which ho is enrolled sholl be paid at his enrolment, and there-",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      169,
+      714,
+      377,
+      16
+    ],
+    "text": "after eubsoriptions shall be paid every quarter not later thea",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      148,
+      731,
+      305,
+      13
+    ],
+    "text": "+ Jamuary, April, July, and October respectively.",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      74,
+      748,
+      472,
+      17
+    ],
+    "text": "Duties of 9. Every member shall act in accordance with the rules of the",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70,
+      759,
+      482,
+      26
+    ],
+    "text": "member Assosiation and abide by aay rules framed by the Board uf",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      168,
+      780,
+      348,
+      11
+    ],
+    "text": "Direotore for the condust of the business of the Association.",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      74,
+      797,
+      471,
+      19
+    ],
+    "text": "Termination ct 10. (1} The membership of a metuber may terminate by his",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70,
+      808,
+      475,
+      24
+    ],
+    "text": "wemberthip. resignation or death, or by the withdrawal of membership by she",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      169,
+      830,
+      112,
+      10
+    ],
+    "text": "Board of Directors.",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      134,
+      31,
+      357,
+      17
+    ],
+    "text": "Young Men's Buddhist Association, 5 .",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      102,
+      48,
+      316,
+      15
+    ],
+    "text": "Dehiwata-Mount Lavinia Aot, No. 34 of 1961",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      87,
+      74,
+      360,
+      14
+    ],
+    "text": "{@) The Board of Directors may withdrew the menberabip",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      73,
+      87,
+      374,
+      15
+    ],
+    "text": "of any member Zor (0) non-payment of nubssciption ior more than",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      73,
+      101,
+      375,
+      14
+    ],
+    "text": "two quarters, or (8) conduct unbecoming of a member of the",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69,
+      105,
+      425,
+      30
+    ],
+    "text": "Aanociation. . .",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86,
+      138,
+      362,
+      15
+    ],
+    "text": "{8) A person whose membership has beam withdrawn by the",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72,
+      151,
+      377,
+      16
+    ],
+    "text": "Board of Directors may nod be re-enrolled until ke shall have",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71,
+      166,
+      377,
+      14
+    ],
+    "text": "gomplied with any conditions for re-enrchmont prescribed by the",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71,
+      178,
+      377,
+      16
+    ],
+    "text": "Board of Directors. Such person may, however, have his",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71,
+      193,
+      377,
+      15
+    ],
+    "text": "membership restored oo on appeal to motmbora st @ special",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71,
+      207,
+      377,
+      15
+    ],
+    "text": "general mesting of the Assooiation, provided shat two-thirds of",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71,
+      220,
+      377,
+      16
+    ],
+    "text": "the members presant at euch mecting ars in fovour of restoring,",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71,
+      234,
+      104,
+      14
+    ],
+    "text": "such menabership,",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      85,
+      257,
+      362,
+      16
+    ],
+    "text": "() Any person ceasing to bo s membor of the Association sball",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71,
+      270,
+      376,
+      17
+    ],
+    "text": "Jorthwith yacote any office, or membership of any body, to which",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71,
+      283,
+      376,
+      17
+    ],
+    "text": "be mey have been elected or appointed hy virtue of bis having",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71,
+      297,
+      206,
+      14
+    ],
+    "text": "been & member of the Association.",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      152,
+      336,
+      247,
+      15
+    ],
+    "text": "\"2, Gawanas Barrios .",
+    "mean_p_confidence": 0.09
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      84,
+      358,
+      427,
+      21
+    ],
+    "text": "11, General meatings, annual of apeciel, of the Ansosintion . Comming",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70,
+      372,
+      437,
+      20
+    ],
+    "text": "ay be convened by the Board of Directors, Fourleen days | grr",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71,
+      386,
+      374,
+      16
+    ],
+    "text": "notice of every such mesting, wolfing out the business to be",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70,
+      399,
+      316,
+      20
+    ],
+    "text": "transacted thereat, aball bo given to every member.",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      83,
+      420,
+      419,
+      16
+    ],
+    "text": "12. Twenty members, excluding stsociate membera, shall Gvorm.",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70,
+      434,
+      433,
+      17
+    ],
+    "text": "form s quorum at @ general meeting. .",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      83,
+      455,
+      414,
+      15
+    ],
+    "text": "18. Only a lite or activo member, who has held such member. Yoting,",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69,
+      468,
+      377,
+      17
+    ],
+    "text": "ship for 9 period af not lees thon 12 months oontinuounly, sball",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70,
+      482,
+      376,
+      17
+    ],
+    "text": "be qualified to. vote at a general meating. . AU queations aliall be",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69,
+      496,
+      376,
+      17
+    ],
+    "text": "decided by the vote of the majority of members present and",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69,
+      512,
+      426,
+      17
+    ],
+    "text": "Yoting at the mesting, exaept where otherwise prescribed. Tn .",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69,
+      524,
+      377,
+      17
+    ],
+    "text": "the case of an equality of votes, the Presidant or other member",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70,
+      539,
+      376,
+      16
+    ],
+    "text": "Presiding et the mecting shall hare esoting vote in addition",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69,
+      553,
+      113,
+      14
+    ],
+    "text": "fo bis original vote.",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      82,
+      579,
+      414,
+      16
+    ],
+    "text": "14, The annual general meoting shall be held during the firet Asousl",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68,
+      593,
+      431,
+      21
+    ],
+    "text": "quarter of each year. A copy of the report of the Board of font",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69,
+      606,
+      433,
+      17
+    ],
+    "text": "Directors and the sudited statement of accounts for the previous 7",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68,
+      621,
+      377,
+      16
+    ],
+    "text": "Year chall bs sent to ench member together with the notion",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68,
+      635,
+      139,
+      15
+    ],
+    "text": "convening the mesting,",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      82,
+      661,
+      427,
+      25
+    ],
+    "text": "15, The borinens ut the annual general meotingaball be~ Baio",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      95,
+      682,
+      401,
+      18
+    ],
+    "text": "(2) te consider the report of the Board af Direstors and the general",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      133,
+      698,
+      370,
+      14
+    ],
+    "text": "accounts for the previous year; meeting.",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      95,
+      715,
+      203,
+      14
+    ],
+    "text": ") to eleot the Board of Directors;",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      95,
+      732,
+      419,
+      16
+    ],
+    "text": "(8) to elect office-bearers for the ausuing year; :",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      95,
+      751,
+      351,
+      16
+    ],
+    "text": "(A) to oppoint sn Anditor or Auditors for auditing the",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      133,
+      766,
+      204,
+      13
+    ],
+    "text": "acoounte of the current year; and",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      95,
+      782,
+      408,
+      17
+    ],
+    "text": "(6) any other business included in the notice convening the",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      133,
+      797,
+      313,
+      15
+    ],
+    "text": "meeting, or of which 7 deya notice has been given",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      132,
+      810,
+      313,
+      25
+    ],
+    "text": "fo tee General Seortary, by any Blo oF akira",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      179,
+      816,
+      240,
+      30
+    ],
+    "text": "2 t : as",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      182,
+      25,
+      317,
+      20
+    ],
+    "text": "6 Young Men's Buddhist Association,",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      210,
+      41,
+      348,
+      17
+    ],
+    "text": "Dehiwala-Mount Lavinia Act, No. 34 of 1961.",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      88,
+      68,
+      472,
+      15
+    ],
+    "text": "Speciol gener =-16. (1) A specie general meeting of the Association chall",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      84,
+      66,
+      476,
+      38
+    ],
+    "text": "meeting on be coaeuad by tbo \"Board of Directors on receipt of a requisition",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      87,
+      88,
+      473,
+      31
+    ],
+    "text": "Sites. Simel by bot leas than 25 lif or ective mombera petting out the",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      182,
+      109,
+      334,
+      14
+    ],
+    "text": "subject-matter proposed to be discussed at.auch meeting.",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      195,
+      130,
+      364,
+      14
+    ],
+    "text": "(2) No matters other than those specified in the notice oamven-",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      176,
+      144,
+      314,
+      13
+    ],
+    "text": "ing the meeting ahall be discussed at cuch meeting.",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      87,
+      157,
+      471,
+      30
+    ],
+    "text": "Bolage of 17, On any maiter aot provided for in the rulea in this Part,",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      88,
+      174,
+      471,
+      17
+    ],
+    "text": "Presa, the ruling of the President or other member presiding st tho",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      182,
+      191,
+      308,
+      14
+    ],
+    "text": "meeting shall be final, and binding on the meeting.",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      559,
+      206,
+      12,
+      7
+    ],
+    "text": "*",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      294,
+      225,
+      154,
+      10
+    ],
+    "text": "V. Boarn or Dmeotors",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      84,
+      240,
+      476,
+      27
+    ],
+    "text": "Fiction of 28. (1) There shall be a Board of Direotors consisting of 15",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      84,
+      253,
+      476,
+      28
+    ],
+    "text": "Dison Tite of active members. Only those who have beon life or sstive",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      131,
+      269,
+      429,
+      17
+    ],
+    "text": "7 members for 9 period of not less than two years shell be eligible",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      182,
+      283,
+      378,
+      13
+    ],
+    "text": "for election to the Board of Directora. The Board of Direotors",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      181,
+      295,
+      379,
+      25
+    ],
+    "text": "shell bo elected at the onnusl general mecting, AS every such",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      182,
+      309,
+      379,
+      16
+    ],
+    "text": "mesting held after the election of the first Board, the thres",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      181,
+      321,
+      380,
+      14
+    ],
+    "text": "members of the Board who bave held office for tha longest",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      181,
+      335,
+      380,
+      16
+    ],
+    "text": "Period shall vacate office and be replaced by three other members",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      181,
+      349,
+      380,
+      15
+    ],
+    "text": "who shall be olocted st that meeting, provided that, where more",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      86,
+      360,
+      475,
+      26
+    ],
+    "text": ". ~ thea three members have held office for equally long periods, the",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      181,
+      375,
+      361,
+      13
+    ],
+    "text": "three membera who are to vacate offica shal) be desided by lot.",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      194,
+      396,
+      315,
+      14
+    ],
+    "text": "(@) Betiring merabers ball be eligible for re-alection.",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      194,
+      416,
+      367,
+      15
+    ],
+    "text": "(8) A vocancy in the Board, however caused, oovutring between",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      180,
+      429,
+      382,
+      15
+    ],
+    "text": "#wo annual general meetings shell be filled by another fe or",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      180,
+      441,
+      381,
+      17
+    ],
+    "text": "setive mecaber elented by the remaining members of the Board.",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      181,
+      455,
+      381,
+      15
+    ],
+    "text": "Any member 0 elected to the Board shail be desmed to bare",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      181,
+      470,
+      381,
+      13
+    ],
+    "text": "taken the place of the member whom ha succesded, for purposes",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      180,
+      483,
+      224,
+      14
+    ],
+    "text": "of vecation of offica and replacement.",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      87,
+      502,
+      474,
+      16
+    ],
+    "text": "Detien of 19. (1} All business of the Association shall be conducted by",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      88,
+      515,
+      368,
+      19
+    ],
+    "text": "Boned of or on the authority of the Board of Directora.",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      193,
+      536,
+      367,
+      17
+    ],
+    "text": "(@) The Board of Directors shall approve of a design of. and",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      180,
+      551,
+      380,
+      14
+    ],
+    "text": "provide, @ seal for the Asscciation. The seal shall be used oo",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      180,
+      563,
+      379,
+      17
+    ],
+    "text": "oll inettuments executed by or on behalf of the Association and",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      179,
+      577,
+      381,
+      17
+    ],
+    "text": "om agreements end contrasts entered into by it. It shall not be",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      180,
+      591,
+      379,
+      16
+    ],
+    "text": "affixed to any instrument or document except upon the authority",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      179,
+      596,
+      380,
+      24
+    ],
+    "text": "of the Bosrd of Directors and inthe presence of tro members",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      180,
+      618,
+      380,
+      15
+    ],
+    "text": "of the Bosrd who shall sign their names on the instrument or",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      179,
+      632,
+      219,
+      15
+    ],
+    "text": "document ia token of their presence.",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      194,
+      651,
+      365,
+      16
+    ],
+    "text": "() All property, movable end immovable, and all funds of the",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      180,
+      666,
+      314,
+      13
+    ],
+    "text": "Association shall be vested in the Board of Direstors.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      193,
+      686,
+      375,
+      17
+    ],
+    "text": "(B) The Board sha have power to cell, and buy or otberwiss -",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      180,
+      700,
+      378,
+      23
+    ],
+    "text": "sequins, property dor the Association, to enter inln agreements",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      205,
+      714,
+      352,
+      15
+    ],
+    "text": "Contracts relating to mortgages, leases, and other motters,",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      179,
+      727,
+      378,
+      17
+    ],
+    "text": "Provided, however, that the Board shell not aell, mortgage, 16850:",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      180,
+      740,
+      377,
+      16
+    ],
+    "text": "or otherwise alienate, any immovable property belanging to the",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      179,
+      753,
+      378,
+      17
+    ],
+    "text": "Association witout the prior approval of the members st",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      179,
+      767,
+      136,
+      16
+    ],
+    "text": "Generel meeting",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      192,
+      787,
+      364,
+      16
+    ],
+    "text": "(8) The Boord shell have power to deposit the funds of the",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      174,
+      794,
+      381,
+      38
+    ],
+    "text": "appaation in any bane or banks sbosen oie sad pes utharise",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      241,
+      817,
+      304,
+      10
+    ],
+    "text": "er or members of coon",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      174,
+      810,
+      326,
+      35
+    ],
+    "text": "ba parr es, Board to operate the",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      92,
+      28,
+      341,
+      19
+    ],
+    "text": "\"Young Men's Buddhist Association, a",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      89,
+      44,
+      315,
+      16
+    ],
+    "text": "Dehiwala-Mount Lavinsa Act, No. 34 of 1961",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      73,
+      71,
+      360,
+      15
+    ],
+    "text": "() The Board shall have power to appoint Astistants to the",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      59,
+      83,
+      373,
+      17
+    ],
+    "text": "General Seoretney and the Tretsurer, and Branch Seoretaties,",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      59,
+      96,
+      374,
+      15
+    ],
+    "text": "and it may appoint Committees of members {and Chairmen and",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      60,
+      109,
+      374,
+      14
+    ],
+    "text": "Secretaries to auch Committees) to carry out the work of any",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      59,
+      122,
+      373,
+      14
+    ],
+    "text": "specified branches of activity, ox perform any apecifiad tanks,",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      59,
+      136,
+      268,
+      14
+    ],
+    "text": "and it may terminste any such appointment,",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      73,
+      156,
+      362,
+      14
+    ],
+    "text": "(1) The Boand shall have power to frame rulea for the conduct",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      59,
+      169,
+      376,
+      14
+    ],
+    "text": "end guidenoe of all parsons employed by it .or housed in the",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      58,
+      183,
+      168,
+      11
+    ],
+    "text": "preiaises of the Assosintion.",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72,
+      202,
+      363,
+      15
+    ],
+    "text": "(2) At the and of each yenr terminating on December 34, the",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      55,
+      213,
+      380,
+      17
+    ],
+    "text": "Board bell prepare a reporh on the activities of the Association",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      58,
+      228,
+      377,
+      24
+    ],
+    "text": "for the pont year sod siatamenta showing the income end expen,",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      58,
+      240,
+      377,
+      15
+    ],
+    "text": "diture during thot year, and the assets and liabilities a the and",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      58,
+      253,
+      357,
+      15
+    ],
+    "text": "of thet year, for presentation at the annual general meeting.",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      59,
+      282,
+      444,
+      23
+    ],
+    "text": "mn20p, 2) The Board of Diestore shall mest of Iasat onse & Mastng of",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      70,
+      296,
+      423,
+      10
+    ],
+    "text": "nth, oF a : 3 Ba",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      58,
+      296,
+      419,
+      24
+    ],
+    "text": "pont ot ay offen as may bo nocceery, fo conduct the business 8",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      73,
+      329,
+      363,
+      15
+    ],
+    "text": "@) Mootings shell be convaned by the Pretident, or the Ganeral",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      60,
+      341,
+      377,
+      15
+    ],
+    "text": "Seoretary, or by any one of them at the written requeth of not",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      59,
+      354,
+      377,
+      26
+    ],
+    "text": "ewe han fre mnmbors of the Hoard These day notion of the",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      92,
+      369,
+      345,
+      10
+    ],
+    "text": "a 5 ik a",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      59,
+      369,
+      373,
+      23
+    ],
+    "text": "moating shell be given to members except in very urgent",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      74,
+      401,
+      318,
+      15
+    ],
+    "text": "(8) Five members of the Board chal form quorum.",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      74,
+      422,
+      363,
+      16
+    ],
+    "text": "@ Decisions of the Board of Dizeotors shall be by the vate",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      55,
+      435,
+      363,
+      15
+    ],
+    "text": "08 the majority of thoes present and voting at say meeting.",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      187,
+      474,
+      125,
+      10
+    ],
+    "text": "VI. Orne Busses",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      74,
+      492,
+      434,
+      13
+    ],
+    "text": "1. (2) The Ascosiation shall heve the followin ection of",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      60,
+      493,
+      456,
+      26
+    ],
+    "text": "hoconsy ofesteneras 6 Peale in",
+    "mean_p_confidence": 0.08
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      87,
+      529,
+      93,
+      14
+    ],
+    "text": "() & Provident;",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      87,
+      550,
+      253,
+      16
+    ],
+    "text": "@) two Vioe-Presidente; .",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      87,
+      571,
+      171,
+      15
+    ],
+    "text": "() a Generel Bosretary; and",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      87,
+      592,
+      92,
+      13
+    ],
+    "text": "@) Tressurer.",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      75,
+      616,
+      364,
+      16
+    ],
+    "text": "(2) The office-bearera mentioned in paragraph (1} shall be",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      61,
+      629,
+      378,
+      16
+    ],
+    "text": "elected 56 tae annual genoral meoting from among the menabers",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      61,
+      633,
+      378,
+      23
+    ],
+    "text": "ot We Board of Dietiow ead shall Hold ofles atl the neck",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      61,
+      656,
+      141,
+      16
+    ],
+    "text": "sunual genarsl meeting.",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      55,
+      684,
+      446,
+      16
+    ],
+    "text": "righ The President of the Assoolatiod shall preside st all general Dotne af",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      60,
+      691,
+      441,
+      22
+    ],
+    "text": "mestings and mestiogs of the Bosrd of Directare at whioh he is Frgtde",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      61,
+      710,
+      446,
+      23
+    ],
+    "text": "Frecenl. In the sbeenca of the Prasident, one of the Vico Saat,",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      62,
+      724,
+      376,
+      22
+    ],
+    "text": "Fresidenta may preiide ab any meeting, Io the sbsance of the",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      70,
+      738,
+      368,
+      26
+    ],
+    "text": "reidant and the Viow-Bresidente, trom soy mecting, any Le",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      61,
+      751,
+      377,
+      22
+    ],
+    "text": "SF active member eleofed by the ineating may preside st that",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      75,
+      781,
+      426,
+      24
+    ],
+    "text": "38. The Goneral Besrotary shall have the ousiody of the seal Dats af",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      62,
+      801,
+      431,
+      18
+    ],
+    "text": "of the Association. He shell keep register of members, and Sentral",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      62,
+      814,
+      438,
+      18
+    ],
+    "text": "book for recording the minutes af genecal meetings and of Serr:",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      182,
+      20,
+      350,
+      19
+    ],
+    "text": "8 Young Men's Buddhist Association, *",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      118,
+      37,
+      412,
+      15
+    ],
+    "text": ". Dehiwala-Mount Lavinia Act, No. 34 of 1961",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      181,
+      61,
+      381,
+      17
+    ],
+    "text": "meetings of the Board of Direstora, and oll uch othr booke and",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      181,
+      74,
+      381,
+      17
+    ],
+    "text": "records sa may be necessary to conduct the business of the",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      181,
+      90,
+      67,
+      10
+    ],
+    "text": "Anacoistion.",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      86,
+      112,
+      474,
+      14
+    ],
+    "text": "ties of 3A. (1) Tho Tresaurer shall receive all mouien paid to the",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      81,
+      111,
+      478,
+      44
+    ],
+    "text": "Teemu, Aseociagoa end shall maintain proper records of their receipts",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      213,
+      138,
+      347,
+      26
+    ],
+    "text": "dure, or olor diapoat, provided, howevay, that the Board",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      136,
+      144,
+      424,
+      23
+    ],
+    "text": "of Dotore snap direct thet acy monies paid in for any perioolar",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      181,
+      165,
+      378,
+      16
+    ],
+    "text": "rojeot of the Attosiation shall be received and sccounted for by",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      181,
+      178,
+      379,
+      15
+    ],
+    "text": "nother member af the Bosrd of Directors spesially appointed",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      181,
+      193,
+      330,
+      14
+    ],
+    "text": "treasurer for that pactiouler purpose, :",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      215,
+      211,
+      345,
+      16
+    ],
+    "text": "The Treasurer, or any other teeasurer specially appoiated",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      181,
+      214,
+      379,
+      28
+    ],
+    "text": "tye Board of Dikeclors for a pertlar purpose, shall bol,",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      181,
+      240,
+      379,
+      13
+    ],
+    "text": "Gaburee, deposit in a Bank, or othervige dispose of, ail monies",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      181,
+      251,
+      379,
+      16
+    ],
+    "text": "received by him acoording'to the directions of the Boud of",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      115,
+      256,
+      397,
+      30
+    ],
+    "text": ". Direstors.",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      271,
+      287,
+      196,
+      11
+    ],
+    "text": "VIL. Rows or ae Assoorri0n",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      87,
+      306,
+      473,
+      15
+    ],
+    "text": "Maracy uct 35. On any matter not provided for in these rules the decision",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      87,
+      311,
+      473,
+      23
+    ],
+    "text": "wont tr. of tbe Board of Director aholl be ual and. bindiag on all",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      179,
+      334,
+      55,
+      10
+    ],
+    "text": "members.",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      87,
+      358,
+      472,
+      25
+    ],
+    "text": "Bor res 26, Tusae rules shall nob be amended, rescinded, or aided to,",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      87,
+      364,
+      457,
+      24
+    ],
+    "text": "me except upon s resolution presented st general mooting ou fl",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      82,
+      374,
+      477,
+      29
+    ],
+    "text": "sarod, uthority of the Board of Direstore, and fnased ab such meeting",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      179,
+      398,
+      380,
+      27
+    ],
+    "text": "bythe Toto of a ese two-thirds of hows present end voting 6+",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      191,
+      414,
+      60,
+      8
+    ],
+    "text": "1 menting.",
+    "mean_p_confidence": 0.25
+  }
+]

@@ -1,0 +1,761 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      90,
+      35,
+      384,
+      28
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      185,
+      81,
+      311,
+      27
+    ],
+    "text": "4th Session 1963-64 >",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      283,
+      126,
+      227,
+      21
+    ],
+    "text": "6 Ve",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      42,
+      136,
+      510,
+      59
+    ],
+    "text": "ey ( A",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      260,
+      170,
+      317,
+      23
+    ],
+    "text": "SOUPS # .40 Sh.",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      237,
+      174,
+      317,
+      70
+    ],
+    "text": "Gale (ow? 28",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      74,
+      247,
+      382,
+      40
+    ],
+    "text": "| a",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      122,
+      329,
+      324,
+      41
+    ],
+    "text": "Agricultural Products",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      82,
+      373,
+      403,
+      50
+    ],
+    "text": "(Regulation) (Amendment)",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      147,
+      425,
+      276,
+      35
+    ],
+    "text": "Act, No. 7 of 1964",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      43,
+      508,
+      12,
+      13
+    ],
+    "text": "cy",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      171,
+      529,
+      230,
+      16
+    ],
+    "text": "Date of Assent: February 14, 1964",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      42,
+      635,
+      365,
+      25
+    ],
+    "text": "+ : Printed on the Orders of Government",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      99,
+      756,
+      374,
+      26
+    ],
+    "text": "Fae ant te goittttts Bunatartina Benead, CoLonee",
+    "mean_p_confidence": 0.07
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      100,
+      786,
+      372,
+      13
+    ],
+    "text": "Annual Subscription (including Bills) Rs. 30 (Local), Rs. 40",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      100,
+      820,
+      372,
+      33
+    ],
+    "text": "sober al by econ che eng, dn od",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      101,
+      858,
+      477,
+      19
+    ],
+    "text": "Price: 10 cents Postae : 19 cents _",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      105,
+      29,
+      364,
+      17
+    ],
+    "text": "Agricultural Products (Regulation) (Amendment)",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      215,
+      45,
+      141,
+      16
+    ],
+    "text": "det, No. 7 of 1964",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      71,
+      383,
+      18
+    ],
+    "text": "L. D, 0. 28/62. .",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      96,
+      468,
+      26
+    ],
+    "text": "An Acr to sumo tne Aceicurors: Propucrs -perin,",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      185,
+      114,
+      358,
+      21
+    ],
+    "text": "(ReevLation) ORpmvance. Fagetti,",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      55,
+      140,
+      367,
+      27
+    ],
+    "text": "+ [Date of Assent: February 14, 1964]",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      184,
+      389,
+      20
+    ],
+    "text": "BE it enacted by the Queens Most Exoelleat Majesty,",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      200,
+      389,
+      28
+    ],
+    "text": "by and with the advice and consent of the Senate and",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      216,
+      389,
+      22
+    ],
+    "text": "the House of Representatives of Ceylon in this present",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      232,
+      389,
+      19
+    ],
+    "text": "Parliament assembled, and by the authority of the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88,
+      249,
+      146,
+      14
+    ],
+    "text": "same, as follows:",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      104,
+      292,
+      440,
+      19
+    ],
+    "text": "1. This Act may be cited as the Agricultural Pro- ston aus.",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88,
+      308,
+      389,
+      20
+    ],
+    "text": "ducte (Regulation) (Amendment) Act, No. 7 of",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88,
+      326,
+      302,
+      13
+    ],
+    "text": "1964, .",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      370,
+      482,
+      21
+    ],
+    "text": ". 2 Section 7 of the Agricultural Products (Regu- smendmeot of",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      387,
+      465,
+      24
+    ],
+    "text": "lation) Ordinance, hereinafter referred to as the S2@,12t",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88,
+      405,
+      386,
+      29
+    ],
+    "text": "foftinelpsl enactment, i hereby amended as",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      421,
+      75,
+      14
+    ],
+    "text": "follows :",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119,
+      450,
+      354,
+      19
+    ],
+    "text": "(1) in sub-section (1), by the substitution, for the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      167,
+      467,
+      306,
+      18
+    ],
+    "text": "words regulated product shall be",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      167,
+      483,
+      306,
+      32
+    ],
+    "text": "imported \", of the words regulated pro-",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      45,
+      488,
+      427,
+      32
+    ],
+    "text": "oy duct in respect of which the standard",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      166,
+      515,
+      297,
+      19
+    ],
+    "text": "ratio is prescribed shall be imported;",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118,
+      538,
+      353,
+      19
+    ],
+    "text": "(2) in sub-section (2), by the substitution, for the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      166,
+      555,
+      305,
+      18
+    ],
+    "text": "words imported into Ceylon, of the",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      165,
+      571,
+      305,
+      20
+    ],
+    "text": "words referred to in sub-section (1) which",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      165,
+      587,
+      195,
+      18
+    ],
+    "text": "is imported into Ceylon ;",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      117,
+      610,
+      352,
+      30
+    ],
+    "text": "(8) in sub-section (4), by the gubstitution, for the",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      164,
+      627,
+      305,
+      18
+    ],
+    "text": "words regulated product , of the words",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      166,
+      632,
+      302,
+      28
+    ],
+    "text": "regulated produst. in respect of whice",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      163,
+      650,
+      283,
+      27
+    ],
+    "text": "the standard ratio is presoribed \"\"; and",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      116,
+      681,
+      351,
+      22
+    ],
+    "text": "(4) in the marginal note to that section, by the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      163,
+      698,
+      282,
+      20
+    ],
+    "text": "substitution, for the word proltibited ,",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      162,
+      714,
+      304,
+      20
+    ],
+    "text": "of the words in respect of which",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      162,
+      731,
+      282,
+      19
+    ],
+    "text": "standard ratio is prescribed prohibited .",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      97,
+      770,
+      451,
+      23
+    ],
+    "text": "8 Section $ of the principal enactment is hereby Amadnest ot",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      46,
+      787,
+      494,
+      26
+    ],
+    "text": "y amended in sub-section (1), by the substitution, for the wee,",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      804,
+      479,
+      25
+    ],
+    "text": "Words regulated product, of the words aedamut",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      820,
+      495,
+      24
+    ],
+    "text": "regulated product in respect of which the standard '",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      838,
+      496,
+      17
+    ],
+    "text": "ratio is presoribed **.",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98,
+      857,
+      443,
+      20
+    ],
+    "text": "treaty em",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      153,
+      27,
+      376,
+      18
+    ],
+    "text": "2 Agricultural Producte (Regulation) (Amendment)",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      281,
+      44,
+      141,
+      16
+    ],
+    "text": "Act, No. 7 of 1984",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      52,
+      71,
+      494,
+      18
+    ],
+    "text": "deminer 4. Section 9 of the principal enactment is hereby",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      51,
+      83,
+      407,
+      22
+    ],
+    "text": "SESoA), amended in sub-section (1) as follows:~",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      52,
+      101,
+      494,
+      33
+    ],
+    "text": "cuca 1) by the substitution, for the words any",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      236,
+      131,
+      310,
+      18
+    ],
+    "text": "regulated product, of the words any",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      235,
+      147,
+      310,
+      30
+    ],
+    "text": "regulated product in respect of which the",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      235,
+      163,
+      263,
+      17
+    ],
+    "text": "standard ratio is prescribed ; and",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      186,
+      182,
+      359,
+      17
+    ],
+    "text": "(2) by the substitution, for the words the",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      235,
+      199,
+      309,
+      16
+    ],
+    "text": "regulated product *', of the words such",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      162,
+      215,
+      357,
+      21
+    ],
+    "text": ", regulated product . :",
+    "mean_p_confidence": 0.37
+  }
+]

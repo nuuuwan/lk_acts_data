@@ -1,0 +1,464 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      131,
+      34,
+      421,
+      25
+    ],
+    "text": "PARLIAMENT OF CEYLON ~~",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      229,
+      81,
+      173,
+      17
+    ],
+    "text": "Ist Session 1960-61",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      92,
+      136,
+      243,
+      34
+    ],
+    "text": ": Seep",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      288,
+      167,
+      37,
+      10
+    ],
+    "text": "ane",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      272,
+      200,
+      89,
+      42
+    ],
+    "text": "en han! 5)",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      145,
+      235,
+      256,
+      20
+    ],
+    "text": ".",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      134,
+      302,
+      359,
+      27
+    ],
+    "text": "School Teachers Pension",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      81,
+      340,
+      467,
+      39
+    ],
+    "text": "(Amendment) Act, No. 38 of 1961",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      215,
+      492,
+      248,
+      13
+    ],
+    "text": "Date of Assent : June 17th, 1961 1",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      193,
+      617,
+      249,
+      13
+    ],
+    "text": "Printed on the Orders of Government",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      141,
+      744,
+      355,
+      12
+    ],
+    "text": "Printed at the Govenncmrr Frest, Cwrton, To be",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      142,
+      757,
+      353,
+      12
+    ],
+    "text": "Fe aN Pe 4 Sot Coase",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      141,
+      779,
+      355,
+      12
+    ],
+    "text": "(anid) Eiecistion (teding MU a, 29, peahin",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      142,
+      792,
+      354,
+      12
+    ],
+    "text": "advance to the Strraprenpant, Govenwarr Preticexroms",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      141,
+      806,
+      354,
+      12
+    ],
+    "text": "Busgav, Post Ormce Box 500, Secretariat, Colombo 1",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143,
+      828,
+      353,
+      12
+    ],
+    "text": "Price: 18 cent Postage: 10 vents.",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      94,
+      19,
+      312,
+      24
+    ],
+    "text": "Sehool Teachers Pension (Amendment) Act,",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      197,
+      43,
+      108,
+      15
+    ],
+    "text": "No. 38 of 1961",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      72,
+      384,
+      12
+    ],
+    "text": "L. DO. 49/50, .",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      84,
+      383,
+      18
+    ],
+    "text": "AN Act 10 AMEND vaz Scwool, Tzacusne Puneron",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      123,
+      102,
+      256,
+      18
+    ],
+    "text": "(Aumwpucent) Act, No, 23 oF 1957.",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      124,
+      128,
+      253,
+      20
+    ],
+    "text": "[Date of Assont: 17th June, 1961]",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      156,
+      377,
+      18
+    ],
+    "text": "BE it enaoted by the Queens Most Excellent Majesty,",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      171,
+      379,
+      31
+    ],
+    "text": "by and with the advice and consent of the Senate and",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      187,
+      364,
+      19
+    ],
+    "text": "Flouse of Representatives of Ceylon in this present",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      202,
+      380,
+      18
+    ],
+    "text": "Parliament assembled, and by the authority of the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      221,
+      144,
+      15
+    ],
+    "text": "same, as follows:",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      245,
+      429,
+      22
+    ],
+    "text": "4, This Act may be cited as the School Teachers sea uw.",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      263,
+      311,
+      17
+    ],
+    "text": "Pension (Amendment) Act, No. 38 of 1961.",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      288,
+      451,
+      17
+    ],
+    "text": "2, Section of the School Teachers Pension - sneatment ot",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      296,
+      455,
+      41
+    ],
+    "text": "(Amendment) Act, No. 23 of 1957, is hereby amended section 6 of",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      320,
+      437,
+      20
+    ],
+    "text": "in gub-section (1) of that section, by the substitution, Teacher",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      328,
+      459,
+      31
+    ],
+    "text": "for all the words from if prior to his retirement ee aot)",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      353,
+      453,
+      19
+    ],
+    "text": "to granted to him, of the following: a",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      95,
+      369,
+      401,
+      34
+    ],
+    "text": "rif prior to hie retiremont he was entitled to \"",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      94,
+      388,
+      349,
+      17
+    ],
+    "text": "have his name entered in such Register, his name",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      94,
+      404,
+      349,
+      20
+    ],
+    "text": "may be entered in such Registar as from the date",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      94,
+      419,
+      349,
+      16
+    ],
+    "text": "he was entitled to have his name so entered in",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      94,
+      435,
+      349,
+      31
+    ],
+    "text": "uch Register, and sccordingly pension may be",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      94,
+      451,
+      349,
+      21
+    ],
+    "text": "granted to him with effect from the date of his",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      95,
+      470,
+      93,
+      13
+    ],
+    "text": "retirement \",",
+    "mean_p_confidence": 0.08
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      863,
+      116,
+      11
+    ],
+    "text": "Lm Base-sa aD",
+    "mean_p_confidence": 0.06
+  }
+]

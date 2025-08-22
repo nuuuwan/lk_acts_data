@@ -1,0 +1,486 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      116,
+      32,
+      363,
+      25
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      210,
+      66,
+      180,
+      18
+    ],
+    "text": "Ast Session 1960-61",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      255,
+      186,
+      87,
+      16
+    ],
+    "text": "eC Goals",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      122,
+      271,
+      360,
+      36
+    ],
+    "text": "Gal Oya Development",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155,
+      317,
+      296,
+      37
+    ],
+    "text": "Board (Amendment)",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      163,
+      364,
+      280,
+      31
+    ],
+    "text": "Act, No. 50 of 1961",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      207,
+      497,
+      195,
+      13
+    ],
+    "text": "Date of Assent: June 19, 1962",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      178,
+      615,
+      255,
+      13
+    ],
+    "text": "Printed on the Orders of Government",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      130,
+      737,
+      353,
+      12
+    ],
+    "text": "Printed at the Governmemrr Press, Crvion, To be",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      130,
+      751,
+      353,
+      11
+    ],
+    "text": "ane a ea ens Ta, Hate",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      131,
+      772,
+      352,
+      12
+    ],
+    "text": "Annual Subscription (including Bills) Rs. 25, payable in",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      130,
+      785,
+      353,
+      12
+    ],
+    "text": "Soe, Shari eens ae",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      131,
+      798,
+      352,
+      12
+    ],
+    "text": "Bee Post Cree Eee ee",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      130,
+      819,
+      354,
+      14
+    ],
+    "text": "Price: 10 cents. Postage: 10 cents.",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99,
+      37,
+      310,
+      16
+    ],
+    "text": "Gat Oya Development Board (Amendment)",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      181,
+      53,
+      144,
+      15
+    ],
+    "text": "Act, No. 50 of 198%",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      78,
+      94,
+      14
+    ],
+    "text": "L. D0. 7/6t.",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      97,
+      372,
+      14
+    ],
+    "text": "Aw Act.r0 AMEND tHe Gat Ova Devezormenr BoaRD",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      182,
+      114,
+      143,
+      14
+    ],
+    "text": "Act, No. 61 oF 1949,",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      132,
+      136,
+      244,
+      16
+    ],
+    "text": "[Date of Assent: June 19, 1961)",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      158,
+      375,
+      19
+    ],
+    "text": "BE it enacted by the Queens Most Excellent",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      173,
+      374,
+      17
+    ],
+    "text": "Majesty, by and with the advice and consent of the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      188,
+      374,
+      18
+    ],
+    "text": "Senate and the House of Representatives of Ceylon in",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      203,
+      375,
+      18
+    ],
+    "text": "this present Parliament assembled, and by the",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      219,
+      255,
+      16
+    ],
+    "text": "authority of the same, as follows:",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      246,
+      431,
+      17
+    ],
+    "text": "4. This Act may be cited as the Gal Oya Develop- shot tit,",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      262,
+      336,
+      16
+    ],
+    "text": "ment Board (Amendment) Act, No. 50 of 1961.",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83,
+      292,
+      444,
+      17
+    ],
+    "text": "2, Section 6 of the Gal Oya Development Board Anesdmen of",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      307,
+      449,
+      19
+    ],
+    "text": "Act, No. 81 of 1949, is hereby amended as follows: sven Set,",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      100,
+      328,
+      398,
+      20
+    ],
+    "text": "@ by the renumbering of sub-section (4) of that %",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      147,
+      347,
+      295,
+      16
+    ],
+    "text": "section as sub-section (5) of that section;",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      147,
+      362,
+      25,
+      12
+    ],
+    "text": "and",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      100,
+      392,
+      343,
+      29
+    ],
+    "text": "@) dy the insertion, immediately after sub-",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      147,
+      409,
+      297,
+      16
+    ],
+    "text": "section (3) of that section, of the following",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      147,
+      424,
+      133,
+      13
+    ],
+    "text": "new sub-section :",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      180,
+      447,
+      264,
+      17
+    ],
+    "text": "@& Notwithstending anything to",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      164,
+      451,
+      279,
+      40
+    ],
+    "text": "the contrary in this \"Ache the Board aney,",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      164,
+      479,
+      280,
+      28
+    ],
+    "text": "acting under the authority granted by",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      164,
+      494,
+      279,
+      16
+    ],
+    "text": "the Minister hy order under his band,",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      164,
+      510,
+      279,
+      16
+    ],
+    "text": "execute, outside the Area of Authority,",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      164,
+      525,
+      280,
+      17
+    ],
+    "text": "any such work specified in the order as",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      164,
+      541,
+      280,
+      28
+    ],
+    "text": "may be necessary for the discharge of",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      164,
+      557,
+      220,
+      13
+    ],
+    "text": "ite functions this Act.,",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      840,
+      120,
+      13
+    ],
+    "text": "1.3.3 mas2an nom",
+    "mean_p_confidence": 0.12
+  }
+]

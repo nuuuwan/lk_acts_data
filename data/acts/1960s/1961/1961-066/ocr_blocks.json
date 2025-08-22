@@ -1,0 +1,3401 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      107,
+      35,
+      363,
+      29
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      170,
+      88,
+      295,
+      28
+    ],
+    "text": "2nd Session 1961-62",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      141,
+      113,
+      356,
+      26
+    ],
+    "text": "; ED",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      276,
+      119,
+      257,
+      58
+    ],
+    "text": "<> be *Q)",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      267,
+      162,
+      260,
+      13
+    ],
+    "text": "ae fs oN",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      187,
+      165,
+      343,
+      59
+    ],
+    "text": ": (i) (3 nov t96t 3",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      104,
+      314,
+      372,
+      38
+    ],
+    "text": "Tea and Rubber Subsidy",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      55,
+      356,
+      469,
+      40
+    ],
+    "text": "(Amendment) Act, No. 66 of 1961",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68,
+      514,
+      331,
+      14
+    ],
+    "text": ". Date of Assent : November 22, 1962",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      73,
+      635,
+      412,
+      20
+    ],
+    "text": ". Printed on the Orders of Government .",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115,
+      744,
+      345,
+      24
+    ],
+    "text": "Pisal sh att Simmer pmcamane Souny, Snane:",
+    "mean_p_confidence": 0.09
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115,
+      772,
+      344,
+      15
+    ],
+    "text": "Apuns! Sebsetiption (inoloding Bills} Re. 90 (Local), Re. 40 (Porvign),",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115,
+      786,
+      345,
+      14
+    ],
+    "text": "payable to the Soeeemrexcger, Govxewewr Praccarions Bueaic,",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115,
+      799,
+      345,
+      27
+    ],
+    "text": "Sebi Saat oeaneale oa",
+    "mean_p_confidence": 0.07
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115,
+      816,
+      345,
+      24
+    ],
+    "text": "Aue red tao We dae ad Papact ml te spd.",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70,
+      842,
+      390,
+      26
+    ],
+    "text": ". Price: 25 cents Postage: wo cents",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      95,
+      32,
+      305,
+      17
+    ],
+    "text": "Tea and Rubber Subsidy (Amendment) Act,",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      196,
+      29,
+      194,
+      39
+    ],
+    "text": "No. 66 ot Get ent) Ae",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      76,
+      399,
+      13
+    ],
+    "text": "iL, D.o. 11/61. .",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      99,
+      375,
+      14
+    ],
+    "text": "AN Acr 10 awiaxn THz Tea Suasmey Act, No. 12 or",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92,
+      114,
+      343,
+      17
+    ],
+    "text": "1958, anp Ti Rupaee Raptanrixe Suseipy Act,",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92,
+      131,
+      110,
+      13
+    ],
+    "text": "No. 38 o 1958,",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115,
+      153,
+      267,
+      18
+    ],
+    "text": "[Date of Assent: November 22, 1961]",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      176,
+      377,
+      18
+    ],
+    "text": "BE it enacted by the Queens Most Excellent Majesty,",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      191,
+      392,
+      30
+    ],
+    "text": "ty apd with the advice and consent of the Senate and -",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      208,
+      364,
+      17
+    ],
+    "text": "House of Representatives of Ceylon in this present",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      222,
+      378,
+      18
+    ],
+    "text": "Parliament assembled, and by the authority of tbe",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      240,
+      140,
+      15
+    ],
+    "text": "same, as follows:",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      270,
+      435,
+      17
+    ],
+    "text": "4, This Act may be cited as the Tea and Rubber shat un",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      286,
+      468,
+      17
+    ],
+    "text": "Subsidy (Amendment) Act, No. 66 of 1981. :",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      317,
+      449,
+      29
+    ],
+    "text": "2, The long titl of the Tea Subsidy Act, No, 12 of frsntams",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      329,
+      461,
+      20
+    ],
+    "text": "1058, hereinafter referred to as the principal Act, lesz tact",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      348,
+      418,
+      18
+    ],
+    "text": "ig hereby amended by the substitution, for the words #8.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      364,
+      374,
+      14
+    ],
+    "text": "TEA ESTATES AND SMALL HOLDINGS,",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      380,
+      376,
+      14
+    ],
+    "text": "THE MARKETING OF GREEN TEA LEAF OF",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      395,
+      376,
+      15
+    ],
+    "text": "ESTATES AND SMALL HOLDINGS, of the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      411,
+      377,
+      14
+    ],
+    "text": "words TEA ESTATES AND TEA SMALL",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      427,
+      376,
+      16
+    ],
+    "text": "HOLDINGS, THE REPLANTING OF RUBBER",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      442,
+      376,
+      15
+    ],
+    "text": "ESTATES AND RUBBER SMALL HOLDINGS",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      458,
+      376,
+      16
+    ],
+    "text": "WITH TEA, THE MARKETING OF GREEN",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      474,
+      376,
+      14
+    ],
+    "text": "TEA LEAF OF TEA ESTATES AND TEA SMALL",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      491,
+      90,
+      13
+    ],
+    "text": "HOLDINGS .",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      521,
+      451,
+      29
+    ],
+    "text": "8. Sections? and 9 of the principal Act ate hereby Ream at",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      535,
+      462,
+      20
+    ],
+    "text": "repealed and the following sections are substituted Fae?",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      56,
+      544,
+      461,
+      33
+    ],
+    "text": "therefor: : rincpal At.",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      577,
+      490,
+      21
+    ],
+    "text": "Tue Sebety 2, (1) There shall be established a :",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      592,
+      323,
+      17
+    ],
+    "text": "nd. Fund calied the Tea Subsidy Fund.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      171,
+      616,
+      266,
+      20
+    ],
+    "text": "@) The object of the Fund shell be to",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      138,
+      633,
+      100,
+      18
+    ],
+    "text": "+ subsidise_",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      187,
+      652,
+      250,
+      17
+    ],
+    "text": "(a) the replanting of tea estates and",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      233,
+      667,
+      130,
+      18
+    ],
+    "text": "tea amall holdings;",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      47,
+      687,
+      388,
+      18
+    ],
+    "text": ". () the replanting of robber estates",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      47,
+      692,
+      369,
+      27
+    ],
+    "text": "' and robber small holdings;",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      187,
+      723,
+      247,
+      19
+    ],
+    "text": "() the rebabilitation of tea estates",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      233,
+      739,
+      164,
+      16
+    ],
+    "text": "and tea small holdings;",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      213,
+      758,
+      221,
+      18
+    ],
+    "text": "the marketing of greon tea leaf",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      186,
+      762,
+      247,
+      28
+    ],
+    "text": "(2) the rien estniog ad ten sitll",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      124,
+      792,
+      204,
+      17
+    ],
+    "text": "holdings; and",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      186,
+      811,
+      247,
+      20
+    ],
+    "text": "( the manufacture of mad tea",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      232,
+      827,
+      178,
+      18
+    ],
+    "text": "from such green tea leaf.",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      848,
+      136,
+      9
+    ],
+    "text": "tana. ren-4atocam,",
+    "mean_p_confidence": 0.05
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      187,
+      25,
+      352,
+      21
+    ],
+    "text": "2 Fea and Rubber Subsidy (Amendment) Act, _",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      322,
+      34,
+      105,
+      28
+    ],
+    "text": "No. 66 of 1961",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      94,
+      65,
+      470,
+      34
+    ],
+    "text": "Papaeats ate 3. (1) There shall be paid into the",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      94,
+      90,
+      241,
+      16
+    ],
+    "text": "the Fund, Fund",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      314,
+      117,
+      252,
+      18
+    ],
+    "text": "{@) the proceeds of the export: duty",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      361,
+      133,
+      162,
+      14
+    ],
+    "text": "levied under section 8;",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      249,
+      160,
+      318,
+      20
+    ],
+    "text": ". (% such sums as may from time to",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      362,
+      175,
+      205,
+      30
+    ],
+    "text": "time be grented by Parlia-",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      362,
+      188,
+      224,
+      36
+    ],
+    "text": "ment or hy resolution of the 5",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      101,
+      207,
+      467,
+      17
+    ],
+    "text": ". House of Representatives for",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      362,
+      223,
+      177,
+      17
+    ],
+    "text": "the purposes of this Act;",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      316,
+      251,
+      253,
+      17
+    ],
+    "text": "(c} such sums as may from time to",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      363,
+      263,
+      206,
+      36
+    ],
+    "text": "time be credited fo the sat",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      363,
+      285,
+      199,
+      11
+    ],
+    "text": "under paragraph (aa) 0",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      364,
+      283,
+      205,
+      32
+    ],
+    "text": "section 8 a of Be Rebbe",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      360,
+      305,
+      209,
+      42
+    ],
+    "text": "Replanting Subsidy Act,",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      364,
+      332,
+      142,
+      13
+    ],
+    "text": "No. 86 of 1953; ant",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      317,
+      357,
+      253,
+      19
+    ],
+    "text": "{@) the proceeds of the sale of seed,",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      364,
+      373,
+      206,
+      20
+    ],
+    "text": "cuttings, tea plants and fer-",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      365,
+      389,
+      206,
+      20
+    ],
+    "text": "tilizers by the Tea Controlier",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      365,
+      406,
+      205,
+      18
+    ],
+    "text": "to proprietors of tea estates,",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      365,
+      421,
+      206,
+      15
+    ],
+    "text": "tea small holdings, rubber",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      302,
+      422,
+      269,
+      38
+    ],
+    "text": ". estates and rabber small",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      365,
+      455,
+      64,
+      16
+    ],
+    "text": "holdings.",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      302,
+      479,
+      271,
+      21
+    ],
+    "text": "(2) There shall be paid out of the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      286,
+      500,
+      53,
+      13
+    ],
+    "text": "Fund",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      319,
+      519,
+      254,
+      20
+    ],
+    "text": "{@) such amounts as are authorised",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      367,
+      530,
+      207,
+      41
+    ],
+    "text": "by Tegalation to be paid as",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      367,
+      551,
+      207,
+      17
+    ],
+    "text": "subsidies under a scheme for",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      367,
+      567,
+      207,
+      21
+    ],
+    "text": "subsidising the replanting of",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      368,
+      583,
+      206,
+      17
+    ],
+    "text": "tea estates and tea small",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      368,
+      599,
+      207,
+      21
+    ],
+    "text": "holdings or & scheme for sub-",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      368,
+      615,
+      207,
+      21
+    ],
+    "text": "sidising the rehabilitation of",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      368,
+      631,
+      207,
+      18
+    ],
+    "text": "tea estates and tea small",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      368,
+      652,
+      65,
+      16
+    ],
+    "text": "holdings;",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      321,
+      671,
+      258,
+      28
+    ],
+    "text": "(b) such amounts as are authorised",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      364,
+      686,
+      212,
+      42
+    ],
+    "text": "by Zegulation to be paid as",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      368,
+      706,
+      208,
+      38
+    ],
+    "text": "subsidies under & saben for",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      368,
+      726,
+      201,
+      16
+    ],
+    "text": "subsidising the re ing 0!",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      369,
+      724,
+      210,
+      42
+    ],
+    "text": "rubber caiates ad abber",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      369,
+      760,
+      109,
+      17
+    ],
+    "text": "small holdings;",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      322,
+      784,
+      254,
+      21
+    ],
+    "text": "( such amounts as are authorised",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      293,
+      801,
+      283,
+      21
+    ],
+    "text": ": by regulation to be paid under",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      368,
+      817,
+      208,
+      17
+    ],
+    "text": "a scheme for subsidising the",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      316,
+      832,
+      259,
+      22
+    ],
+    "text": "= marketing of green tea leaf",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      96,
+      25,
+      344,
+      21
+    ],
+    "text": "Tea and Rubber Subsidy (Amendment) Act, 3",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      197,
+      42,
+      106,
+      17
+    ],
+    "text": "No, 68 of 1961",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      235,
+      70,
+      205,
+      16
+    ],
+    "text": "of tes estates and tea small",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      235,
+      86,
+      205,
+      16
+    ],
+    "text": "holdings or & scheme for eub-",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      235,
+      102,
+      205,
+      16
+    ],
+    "text": "sidising the manufacture of",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      235,
+      117,
+      206,
+      18
+    ],
+    "text": "made tea from such green tea",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157,
+      133,
+      111,
+      14
+    ],
+    "text": ". leaf;",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      189,
+      157,
+      251,
+      16
+    ],
+    "text": "(@) the expenses incurred in con-",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      230,
+      157,
+      211,
+      38
+    ],
+    "text": "nection with the establish-",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      162,
+      190,
+      279,
+      16
+    ],
+    "text": ". ment by the Government of",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      234,
+      206,
+      208,
+      17
+    ],
+    "text": "nurseries for the supply of",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      234,
+      221,
+      207,
+      17
+    ],
+    "text": "high grade planting material",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72,
+      233,
+      368,
+      37
+    ],
+    "text": ". to Propristors of tea estates,",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      234,
+      253,
+      207,
+      16
+    ],
+    "text": "tubber estates, tea small hold-",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      234,
+      266,
+      210,
+      36
+    ],
+    "text": "ings or rubber small holdings,",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      201,
+      285,
+      205,
+      14
+    ],
+    "text": ". or in connection with",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      233,
+      301,
+      208,
+      18
+    ],
+    "text": "supply of fertilizers to such",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      233,
+      318,
+      84,
+      15
+    ],
+    "text": "proprietors;",
+    "mean_p_confidence": 0.07
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      186,
+      329,
+      254,
+      41
+    ],
+    "text": "(@) such remuneration as may be",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      233,
+      353,
+      206,
+      28
+    ],
+    "text": "payable to members of the",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      244,
+      369,
+      195,
+      17
+    ],
+    "text": "ea Subsidy Advisory Board",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      232,
+      385,
+      192,
+      15
+    ],
+    "text": "established under this Act;",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      186,
+      405,
+      252,
+      17
+    ],
+    "text": "() the prescribed contributions to",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      233,
+      422,
+      205,
+      28
+    ],
+    "text": "any provident fund or scheme",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      232,
+      438,
+      205,
+      17
+    ],
+    "text": "established for the payment",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      232,
+      454,
+      205,
+      17
+    ],
+    "text": "of gratuities to all or any of",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      227,
+      465,
+      209,
+      40
+    ],
+    "text": "the Denys ant servents",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      123,
+      486,
+      306,
+      16
+    ],
+    "text": ". employed for the purposes o:",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      231,
+      501,
+      205,
+      17
+    ],
+    "text": "this Act and their depen-",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      231,
+      517,
+      74,
+      15
+    ],
+    "text": "dants; and",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      197,
+      538,
+      237,
+      17
+    ],
+    "text": ") the expenses of the administra-",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      184,
+      538,
+      177,
+      30
+    ],
+    "text": "@ tion of this Act..",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71,
+      585,
+      450,
+      20
+    ],
+    "text": "4. Section 10 of the principal Act is hereby: Amepimeat of",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      55,
+      602,
+      456,
+      29
+    ],
+    "text": "amended in sub-section 2) thereof, by the substitution, sesso 10 f",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      55,
+      616,
+      413,
+      31
+    ],
+    "text": "for paragraphs (2), (@) and (@), of the following 3.",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      55,
+      636,
+      105,
+      14
+    ],
+    "text": "Paragraphs:",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      88,
+      658,
+      344,
+      18
+    ],
+    "text": "@ scheme for subsidising with moneys of the",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      134,
+      675,
+      298,
+      17
+    ],
+    "text": "Fund the replanting of tea estates and tea",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      133,
+      688,
+      301,
+      36
+    ],
+    "text": "small holdings or scheme for subsidising",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      133,
+      707,
+      280,
+      17
+    ],
+    "text": "with moneys of the Fund the replanting",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      133,
+      708,
+      292,
+      37
+    ],
+    "text": "rubber estates and rubber small holdings;",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      87,
+      743,
+      344,
+      18
+    ],
+    "text": "(@) scheme for subsidising with moneys of the",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      133,
+      759,
+      297,
+      14
+    ],
+    "text": "Fund the rehabilitation of tea estates and",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      132,
+      775,
+      135,
+      17
+    ],
+    "text": "tea small holdings;",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      87,
+      795,
+      343,
+      18
+    ],
+    "text": "() scheme for subsidising with moneys of the",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      132,
+      811,
+      298,
+      18
+    ],
+    "text": "Fond the marketing of green tea leaf of",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      131,
+      813,
+      247,
+      37
+    ],
+    "text": "tea estates and tea Sonal! holdings;",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      167,
+      34,
+      341,
+      17
+    ],
+    "text": "4 Tea and Rubber Subsidy (Amendment) Act,",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      302,
+      51,
+      104,
+      12
+    ],
+    "text": "No, 86 of 1961",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72,
+      77,
+      442,
+      17
+    ],
+    "text": "Boplucrmestct B,_Section 12 of the principal Act is he",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72,
+      74,
+      474,
+      43
+    ],
+    "text": "Renae repealed and the following ection is sabstieniek",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      69,
+      108,
+      180,
+      24
+    ],
+    "text": "Ast. therefor:",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      170,
+      123,
+      375,
+      33
+    ],
+    "text": "Bier 12, In this Act, unless the context",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      262,
+      148,
+      145,
+      16
+    ],
+    "text": "otherwise requires",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      199,
+      170,
+      337,
+      14
+    ],
+    "text": "+ Board means the Tea Subsidy",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      340,
+      170,
+      209,
+      49
+    ],
+    "text": "Advisory Board ostablished",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      341,
+      202,
+      115,
+      14
+    ],
+    "text": "ander this Act;",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      294,
+      221,
+      251,
+      17
+    ],
+    "text": "** cuttings mean any such cuttings",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      341,
+      236,
+      204,
+      17
+    ],
+    "text": "from any living portions of",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      341,
+      252,
+      205,
+      17
+    ],
+    "text": "any tea plants as may be",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      341,
+      267,
+      205,
+      20
+    ],
+    "text": "capable of being used for",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      341,
+      287,
+      91,
+      14
+    ],
+    "text": "propagation;",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      296,
+      303,
+      250,
+      18
+    ],
+    "text": "Fund means the Tea Subsidy",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      343,
+      318,
+      204,
+      16
+    ],
+    "text": "Fund established under this",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      342,
+      337,
+      31,
+      14
+    ],
+    "text": "Act;",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      129,
+      353,
+      417,
+      21
+    ],
+    "text": ". ** green tea leaf? means the leaf,",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      343,
+      371,
+      204,
+      14
+    ],
+    "text": "Jeaf buds and immature",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      342,
+      386,
+      205,
+      17
+    ],
+    "text": "atalks of the tea, plant before",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      343,
+      401,
+      204,
+      19
+    ],
+    "text": "they are subjected to any of",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      343,
+      417,
+      205,
+      19
+    ],
+    "text": "the processes (excluding that",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      343,
+      434,
+      205,
+      17
+    ],
+    "text": "known as withering) for un-",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      343,
+      451,
+      159,
+      13
+    ],
+    "text": "version into made tea;",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      296,
+      468,
+      252,
+      16
+    ],
+    "text": "made tea means tea manufac:",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      344,
+      483,
+      204,
+      17
+    ],
+    "text": "tured from the leaves, leaf",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      343,
+      499,
+      206,
+      17
+    ],
+    "text": "buds and immature stalks of",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      332,
+      519,
+      109,
+      16
+    ],
+    "text": "* the tea plant;",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      297,
+      534,
+      252,
+      18
+    ],
+    "text": "manufacture? when used with",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      345,
+      551,
+      204,
+      19
+    ],
+    "text": "reference to green tea leaf,",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      344,
+      566,
+      206,
+      20
+    ],
+    "text": "means any process by. which",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      84,
+      584,
+      465,
+      18
+    ],
+    "text": ": such green tea leaf is con-",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      344,
+      602,
+      153,
+      13
+    ],
+    "text": "verted into made tea;",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      298,
+      618,
+      252,
+      20
+    ],
+    "text": "prescribed means prescribed by",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      345,
+      638,
+      77,
+      16
+    ],
+    "text": "regulation ;",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      299,
+      657,
+      124,
+      17
+    ],
+    "text": "proprietor ,",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      308,
+      675,
+      243,
+      18
+    ],
+    "text": ". (@ when asad with reference",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      393,
+      691,
+      158,
+      31
+    ],
+    "text": "to any tea estate or tea",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      393,
+      708,
+      159,
+      16
+    ],
+    "text": "small holding, means &",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      393,
+      718,
+      159,
+      23
+    ],
+    "text": "person who has been",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      394,
+      736,
+      159,
+      21
+    ],
+    "text": "registered or is deemed",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      394,
+      756,
+      159,
+      14
+    ],
+    "text": "to have been regis~",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      395,
+      772,
+      158,
+      14
+    ],
+    "text": "tered ag a pro",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      394,
+      786,
+      159,
+      20
+    ],
+    "text": "prietor of such estate",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      394,
+      801,
+      159,
+      18
+    ],
+    "text": "or small holding under",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      395,
+      817,
+      158,
+      17
+    ],
+    "text": "the Tea Control Act,",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      394,
+      833,
+      144,
+      17
+    ],
+    "text": "No. 51 of 1957; and.",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93,
+      28,
+      344,
+      17
+    ],
+    "text": "Yea and Rubber Subsidy (Amendment) Act,",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      195,
+      33,
+      105,
+      27
+    ],
+    "text": "No. 66 of 1961",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      235,
+      71,
+      204,
+      16
+    ],
+    "text": "(B} when used with reference",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      282,
+      87,
+      160,
+      16
+    ],
+    "text": "to any rubber estate or,",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      283,
+      102,
+      157,
+      14
+    ],
+    "text": "rubber small holding,",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      283,
+      106,
+      158,
+      28
+    ],
+    "text": "means a person wid",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      283,
+      134,
+      159,
+      16
+    ],
+    "text": "has been registered or",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      284,
+      149,
+      158,
+      14
+    ],
+    "text": "is deemed to have been",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      285,
+      165,
+      158,
+      16
+    ],
+    "text": "registered as & pro-",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      285,
+      181,
+      159,
+      17
+    ],
+    "text": "prietor of such estate",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      284,
+      196,
+      160,
+      16
+    ],
+    "text": "or small holding under",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      285,
+      212,
+      160,
+      15
+    ],
+    "text": "the Rubber Control",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      128,
+      228,
+      309,
+      16
+    ],
+    "text": "Act, No. 11 of 1956;",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      191,
+      261,
+      255,
+      17
+    ],
+    "text": "regulation? means @ regulation",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      220,
+      264,
+      177,
+      37
+    ],
+    "text": "tmade ander this Act;",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      192,
+      301,
+      254,
+      15
+    ],
+    "text": "rehabilitation when used with",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      238,
+      318,
+      207,
+      16
+    ],
+    "text": "reference to any tea estate or",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      238,
+      335,
+      207,
+      16
+    ],
+    "text": "tea small holding, means any",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      233,
+      344,
+      212,
+      40
+    ],
+    "text": "operation designed to iraprove",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      265,
+      365,
+      180,
+      18
+    ],
+    "text": "agricultural conditions of",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      239,
+      381,
+      205,
+      16
+    ],
+    "text": "such estate or small holding,",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      239,
+      397,
+      206,
+      17
+    ],
+    "text": "and includes the application",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      239,
+      413,
+      206,
+      17
+    ],
+    "text": "of fertilizers, the adoption",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      239,
+      430,
+      206,
+      14
+    ],
+    "text": "of soil conservation measures",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      240,
+      445,
+      205,
+      18
+    ],
+    "text": "and the planting of addi-",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      239,
+      462,
+      206,
+      17
+    ],
+    "text": "tional tea plants and any",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      240,
+      472,
+      205,
+      40
+    ],
+    "text": "other suitable plants in such",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      240,
+      495,
+      172,
+      16
+    ],
+    "text": "estate or small holding;",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      194,
+      528,
+      126,
+      18
+    ],
+    "text": "replanting ,",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      241,
+      551,
+      204,
+      18
+    ],
+    "text": "(@) when used with reference",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      287,
+      569,
+      157,
+      12
+    ],
+    "text": "to any tea estate or tea",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      287,
+      573,
+      157,
+      27
+    ],
+    "text": "amall holding, means",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      273,
+      599,
+      171,
+      21
+    ],
+    "text": "| the uprooting of all",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      288,
+      616,
+      157,
+      18
+    ],
+    "text": "existing tea plants and",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      261,
+      632,
+      183,
+      18
+    ],
+    "text": ". other vegetation in the",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      168,
+      648,
+      276,
+      18
+    ],
+    "text": ". whole or any part of",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      190,
+      664,
+      255,
+      16
+    ],
+    "text": "auch estate or small",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      289,
+      681,
+      154,
+      18
+    ],
+    "text": "holding and their re-",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      255,
+      698,
+      190,
+      18
+    ],
+    "text": "- placement by new tea",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      288,
+      714,
+      157,
+      19
+    ],
+    "text": "plants, and includes",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      289,
+      730,
+      156,
+      18
+    ],
+    "text": "the planting of tea",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      289,
+      748,
+      156,
+      18
+    ],
+    "text": "plants in an area",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      289,
+      763,
+      156,
+      15
+    ],
+    "text": "which does not form",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      237,
+      781,
+      208,
+      18
+    ],
+    "text": ": part of such estate or",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      290,
+      794,
+      156,
+      19
+    ],
+    "text": "small holding if the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      289,
+      813,
+      157,
+      15
+    ],
+    "text": "tea plants in an",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      253,
+      818,
+      193,
+      31
+    ],
+    "text": "_ qquivdlent area of",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      180,
+      33,
+      337,
+      19
+    ],
+    "text": ". Tee and Rubber Subsidy (Amendment) Act",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      316,
+      35,
+      205,
+      31
+    ],
+    "text": "No. 68 of we .",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      239,
+      78,
+      317,
+      19
+    ],
+    "text": ": such estate or small",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      170,
+      94,
+      386,
+      19
+    ],
+    "text": "holding are eradicated",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      400,
+      110,
+      156,
+      13
+    ],
+    "text": "within such time as",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      400,
+      126,
+      156,
+      13
+    ],
+    "text": "the Tea Controller",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      399,
+      141,
+      122,
+      16
+    ],
+    "text": "may specify; and",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      352,
+      163,
+      204,
+      16
+    ],
+    "text": "(8) when used with reference",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      399,
+      179,
+      157,
+      16
+    ],
+    "text": "to any rubber estate or",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      400,
+      194,
+      155,
+      16
+    ],
+    "text": "rubber small holding.",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      399,
+      210,
+      157,
+      16
+    ],
+    "text": "means the uprooting",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      399,
+      225,
+      157,
+      14
+    ],
+    "text": "of all existing rubber",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      398,
+      230,
+      157,
+      28
+    ],
+    "text": "plants and other rege",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      399,
+      257,
+      157,
+      13
+    ],
+    "text": "tation in the whole or",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      399,
+      273,
+      156,
+      16
+    ],
+    "text": "any part of such estate",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      399,
+      288,
+      156,
+      16
+    ],
+    "text": "or small holding and",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      398,
+      303,
+      157,
+      17
+    ],
+    "text": "their replacement by",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      398,
+      320,
+      105,
+      16
+    ],
+    "text": "tea plants;",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      303,
+      341,
+      252,
+      16
+    ],
+    "text": "* subber estate means any rubber",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      350,
+      357,
+      205,
+      17
+    ],
+    "text": "estate registered or deemed to",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      349,
+      373,
+      206,
+      17
+    ],
+    "text": "have been registered under",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      350,
+      389,
+      204,
+      13
+    ],
+    "text": "the Rubber Control Act,",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      350,
+      406,
+      179,
+      14
+    ],
+    "text": "No, 11 of 1956; .",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      304,
+      427,
+      251,
+      18
+    ],
+    "text": "rubber plant has the same",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      157,
+      441,
+      398,
+      22
+    ],
+    "text": ": meaning as in the Rubber",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      349,
+      457,
+      205,
+      19
+    ],
+    "text": "Replanting Subsidy Act,",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      350,
+      476,
+      112,
+      13
+    ],
+    "text": "No. 86 of 1953;",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      303,
+      497,
+      252,
+      29
+    ],
+    "text": "rubber small holding means any",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      351,
+      512,
+      203,
+      16
+    ],
+    "text": "rubber small holding regis-",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      349,
+      527,
+      206,
+      16
+    ],
+    "text": "tered or deemed to have been",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      349,
+      542,
+      206,
+      21
+    ],
+    "text": "registered under the Rubber",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      349,
+      558,
+      205,
+      19
+    ],
+    "text": "Control Act, No. 11 of 1956;",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      303,
+      575,
+      252,
+      16
+    ],
+    "text": "seed means the seed of the tea",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      349,
+      594,
+      43,
+      17
+    ],
+    "text": "plant;",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      302,
+      613,
+      253,
+      20
+    ],
+    "text": "tea? and tea plant have the",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      348,
+      629,
+      207,
+      20
+    ],
+    "text": "same meanings respectively",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      349,
+      646,
+      205,
+      17
+    ],
+    "text": "ag in the Tea Control Act,",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      349,
+      665,
+      117,
+      14
+    ],
+    "text": "No. 51 of 1957;",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      231,
+      685,
+      324,
+      18
+    ],
+    "text": ". ** tea estate means any tea estate",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      254,
+      700,
+      301,
+      20
+    ],
+    "text": ". tegistered or deemed to have",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      198,
+      716,
+      357,
+      17
+    ],
+    "text": ": heen registered under the Tea",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      265,
+      724,
+      289,
+      26
+    ],
+    "text": ": Gontrof Act, No. 81 of 19573",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      348,
+      752,
+      26,
+      12
+    ],
+    "text": "and",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      302,
+      772,
+      252,
+      21
+    ],
+    "text": "** tea small holding means any tea",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      348,
+      782,
+      206,
+      39
+    ],
+    "text": "emall holding registered or",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      350,
+      805,
+      203,
+      14
+    ],
+    "text": "deemed to have regis:",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      163,
+      816,
+      391,
+      22
+    ],
+    "text": ": tered under the Tes Control",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      348,
+      835,
+      160,
+      18
+    ],
+    "text": "Act, No. 51 of 1957. .",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      99,
+      41,
+      340,
+      16
+    ],
+    "text": "Tea and Rubber Subsidy (Amendment) Act, 7",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      99,
+      45,
+      204,
+      26
+    ],
+    "text": ": No. 86 of to6r",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      81,
+      79,
+      442,
+      35
+    ],
+    "text": "6. Section 3 of the Rubber Replanting, Subsidy amendment of",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      63,
+      96,
+      446,
+      19
+    ],
+    "text": "Act, No. 36 of 1953, as amended by Act No. 5 of yeuast",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      64,
+      109,
+      442,
+      30
+    ],
+    "text": "1958, is hereby amended in aub-section (2) thereof, Replartng",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      59,
+      120,
+      470,
+      41
+    ],
+    "text": "by the insertion, immediately after paragraph (a), of Suis de",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      93,
+      145,
+      203,
+      16
+    ],
+    "text": "following new paragraph :-",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      98,
+      170,
+      344,
+      17
+    ],
+    "text": "(ga) such amounts as may be anthorised from",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      145,
+      180,
+      300,
+      36
+    ],
+    "text": "time to time by the Minister to be pid",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      145,
+      196,
+      298,
+      36
+    ],
+    "text": "to the oredit of the Tea Subsidy id",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      145,
+      216,
+      297,
+      16
+    ],
+    "text": "established under the Tea Subsidy Act,",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      145,
+      233,
+      132,
+      14
+    ],
+    "text": "No, 12 of 1958; .",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      84,
+      847,
+      105,
+      10
+    ],
+    "text": "so5. mw aan HD",
+    "mean_p_confidence": 0.12
+  }
+]

@@ -1,0 +1,5700 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      117,
+      28,
+      381,
+      27
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      212,
+      77,
+      199,
+      25
+    ],
+    "text": "5th Session 1964-65",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      460,
+      104,
+      97,
+      23
+    ],
+    "text": "GI",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      266,
+      100,
+      303,
+      73
+    ],
+    "text": ". fers",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      45,
+      134,
+      513,
+      47
+    ],
+    "text": ". 1 Sap - lel >)",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      176,
+      164,
+      370,
+      40
+    ],
+    "text": ": SN 3 wore? -",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      263,
+      188,
+      308,
+      47
+    ],
+    "text": "ig Gade Near",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      264,
+      211,
+      318,
+      36
+    ],
+    "text": "ag Sat",
+    "mean_p_confidence": 0.08
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      580,
+      245,
+      2,
+      10
+    ],
+    "text": "!",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      81,
+      320,
+      499,
+      39
+    ],
+    "text": "Inland Revenue (Amendment) |",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      164,
+      360,
+      416,
+      35
+    ],
+    "text": "Act, No. 12 of 1964 i",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      204,
+      492,
+      211,
+      15
+    ],
+    "text": "Date of Assent: August 28, 1964",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      43,
+      515,
+      370,
+      8
+    ],
+    "text": "* :",
+    "mean_p_confidence": 0.04
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      188,
+      622,
+      269,
+      21
+    ],
+    "text": "Printed on the Orders of Government",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      123,
+      737,
+      372,
+      24
+    ],
+    "text": "Seated atte ot goituener Bonuscarin Ratins, Coton",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      124,
+      761,
+      456,
+      20
+    ],
+    "text": "Anavel Subscription (including Billa) Rs. 39 (Local), Re. 40 .",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      119,
+      801,
+      463,
+      33
+    ],
+    "text": "Se Crass mee",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      112,
+      844,
+      383,
+      20
+    ],
+    "text": "_ Price 45 conta Postage: 10 conts",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      155,
+      20,
+      217,
+      16
+    ],
+    "text": "Inlnd Revenue (A mondment)",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      37,
+      415,
+      19
+    ],
+    "text": ". Act, No. 18 of 1984 . .",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      64,
+      343,
+      16
+    ],
+    "text": "4, D.O. 81/68, .",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      84,
+      390,
+      18
+    ],
+    "text": "AN Acr 70 anenn THE Intavp Revenve Acr, No.",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      106,
+      103,
+      357,
+      15
+    ],
+    "text": "OF 1903, AND TO MAKE SPECIAL PROVISIONS",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      54,
+      121,
+      409,
+      13
+    ],
+    "text": ". RELATING TO THE TAXABLE WEALTH OF CHARITABLE",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      44,
+      134,
+      419,
+      15
+    ],
+    "text": ". INSTITUTIONS WITHIN THE MEANING OF THE INCOME",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      50,
+      149,
+      172,
+      15
+    ],
+    "text": "* Tax Onpivance.",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      132,
+      180,
+      271,
+      18
+    ],
+    "text": "{Date of Assent: August 28, 1964]",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      44,
+      206,
+      417,
+      24
+    ],
+    "text": "_ BE it enacted by the Queens Most Excellent Majesty,",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      225,
+      389,
+      16
+    ],
+    "text": "by and with the advice and consent of the Senate and",
+    "mean_p_confidence": 0.88
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      238,
+      390,
+      22
+    ],
+    "text": "the House of Representatives of Ceylon in this present",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      257,
+      389,
+      18
+    ],
+    "text": "Porliement assembled, and by the authority of the",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      274,
+      143,
+      15
+    ],
+    "text": "same, as follows:",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      294,
+      480,
+      22
+    ],
+    "text": "4. This Act may be cited as the Inland Revenue show tu. *",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      308,
+      254,
+      26
+    ],
+    "text": "(Amendment) Act, No. 19 of 1964.",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      345,
+      461,
+      21
+    ],
+    "text": "2, Section 21 of the Inland Revenus Act, No, 4 Amenimeu et",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      359,
+      470,
+      22
+    ],
+    "text": "of 1963, hereafter in this Act referred to as the fa'Ns act",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74,
+      377,
+      431,
+      30
+    ],
+    "text": "X Principal Act, is hereby amended by the addition, 28",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      393,
+      390,
+      20
+    ],
+    "text": "at the end of that section, of the following new",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      401,
+      181,
+      32
+    ],
+    "text": "sub-section : :",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      433,
+      371,
+      20
+    ],
+    "text": "__(@) Where the assessable income of any",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      449,
+      372,
+      17
+    ],
+    "text": "individual for any year of assessment commencing",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      455,
+      372,
+      30
+    ],
+    "text": "on or after April 1964, comsista of any earned",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      481,
+      376,
+      17
+    ],
+    "text": "income, such individual shall be entitled to an",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      43,
+      496,
+      417,
+      17
+    ],
+    "text": "+. allowance of five hundred rupees or an amount equal",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      48,
+      512,
+      341,
+      18
+    ],
+    "text": "+ to such earned income, whichever is less.",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      106,
+      537,
+      355,
+      28
+    ],
+    "text": "Tp this sub-section ' earned income \"* means any",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      552,
+      363,
+      20
+    ],
+    "text": "profits immediately derived by an individual throug!",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      568,
+      371,
+      18
+    ],
+    "text": "his personal exertions from any profession, vocation",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      584,
+      369,
+      28
+    ],
+    "text": "og employment exercised or atrried on by . him,",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      601,
+      371,
+      17
+    ],
+    "text": "either singly or, in the case of @ partuership, 25",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      616,
+      369,
+      18
+    ],
+    "text": "an active partner thereof, and includes any pension,",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      632,
+      369,
+      17
+    ],
+    "text": "superannuation, or other allowance given to any",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      647,
+      369,
+      20
+    ],
+    "text": "individual im respect of the past services of that",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      663,
+      369,
+      18
+    ],
+    "text": "individual or of any other individaal, whether that",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      678,
+      367,
+      20
+    ],
+    "text": "individual or that other individuat shalt have",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      694,
+      368,
+      20
+    ],
+    "text": "contributed to sach pension, superannuation or other",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      713,
+      136,
+      14
+    ],
+    "text": "allowance or not..",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      738,
+      486,
+      18
+    ],
+    "text": "8. Section 22 of the principal Act is horoby Amepinm ot",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      750,
+      502,
+      24
+    ],
+    "text": "amended by the substitution, for the words For the eee i",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      761,
+      503,
+      33
+    ],
+    "text": "purposes of this Act,\", of the following: aa. J",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      45,
+      793,
+      533,
+      32
+    ],
+    "text": ". For the purposes of the computation of the j",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      809,
+      365,
+      33
+    ],
+    "text": "income tax payzbl for the year of assesament ending",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      829,
+      487,
+      21
+    ],
+    "text": "on March $1, 1964,\". f",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93,
+      852,
+      78,
+      10
+    ],
+    "text": "Beau ane",
+    "mean_p_confidence": 0.08
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      170,
+      14,
+      307,
+      22
+    ],
+    "text": "2 Inland Revenue (Amendment)",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      293,
+      33,
+      151,
+      17
+    ],
+    "text": "Act, No, 12 of 1964",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      50,
+      57,
+      503,
+      25
+    ],
+    "text": "Amedment of %. (1) Section 23 of the principal Act is hereb:",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      50,
+      59,
+      512,
+      45
+    ],
+    "text": "oy amends as follows : Principal Act 3s 7",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      188,
+      109,
+      288,
+      19
+    ],
+    "text": "(@) in sub-section (1) of that section",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      239,
+      142,
+      346,
+      18
+    ],
+    "text": "@ by the substitution, for the words -",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      289,
+      159,
+      272,
+      18
+    ],
+    "text": "income tax shall, of the words",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      288,
+      175,
+      274,
+      18
+    ],
+    "text": "and figures income tax for the year",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      288,
+      191,
+      272,
+      18
+    ],
+    "text": "of assessment ending on March 31,",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      288,
+      206,
+      135,
+      17
+    ],
+    "text": "1964, shall; and",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      233,
+      237,
+      328,
+      18
+    ],
+    "text": "(ii) by the substitution, for all the words",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      287,
+      254,
+      273,
+      16
+    ],
+    "text": "from * Seoond Schedule to this Act:",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      287,
+      270,
+      274,
+      18
+    ],
+    "text": "to the end of that sub-section, of the",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      287,
+      286,
+      274,
+      16
+    ],
+    "text": "words Second Schedule to this",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      281,
+      301,
+      56,
+      16
+    ],
+    "text": "+ Act;",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      189,
+      331,
+      372,
+      20
+    ],
+    "text": "() in sub-scction (2) of that section, by the",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      238,
+      348,
+      323,
+      16
+    ],
+    "text": "substitution, for the words income tax",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      238,
+      364,
+      323,
+      18
+    ],
+    "text": "on, of the words and figures income tax",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      239,
+      380,
+      323,
+      19
+    ],
+    "text": "payable for the year of assessment ending on",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      238,
+      396,
+      164,
+      16
+    ],
+    "text": "March 31, 1964, on;",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      189,
+      427,
+      373,
+      19
+    ],
+    "text": "{o} im sub-section (8) of that section, by the",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      239,
+      443,
+      323,
+      16
+    ],
+    "text": "substitution, for the words income tax",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      239,
+      459,
+      323,
+      18
+    ],
+    "text": "on, of the words and figures income tax",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      240,
+      477,
+      322,
+      18
+    ],
+    "text": "payable for the year of assessment ending",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      240,
+      494,
+      350,
+      19
+    ],
+    "text": "on March 81, 1964, on; and .",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      191,
+      525,
+      371,
+      19
+    ],
+    "text": "(@) in the marginal note to that section, by the",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      240,
+      543,
+      322,
+      18
+    ],
+    "text": "substitution, for the words Chapter",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      241,
+      560,
+      223,
+      19
+    ],
+    "text": "applies.\", of the following:",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      259,
+      592,
+      130,
+      18
+    ],
+    "text": "** Chapter applies",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      275,
+      612,
+      103,
+      17
+    ],
+    "text": "for the year of",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      275,
+      633,
+      128,
+      16
+    ],
+    "text": "assessment ending",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      274,
+      652,
+      156,
+      17
+    ],
+    "text": "on March 31, 1964.\".",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      193,
+      679,
+      369,
+      16
+    ],
+    "text": "(2) The smendment made in section 23 of the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      175,
+      697,
+      386,
+      18
+    ],
+    "text": "principal Act by sub-paragraph (ii) of paragraph (a)",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      175,
+      714,
+      387,
+      17
+    ],
+    "text": "of sub-section (1) of this section shall be deemed to",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      139,
+      731,
+      423,
+      16
+    ],
+    "text": ". have come into force on the date of commencement",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      175,
+      749,
+      387,
+      22
+    ],
+    "text": "of that Act, and accordingly any individual who has",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      176,
+      766,
+      386,
+      19
+    ],
+    "text": "paid income tax under the provisions of the proviso",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      176,
+      784,
+      385,
+      18
+    ],
+    "text": "to sub-section (1) of section 98 before the date of",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      176,
+      803,
+      386,
+      14
+    ],
+    "text": "commencement of this Act shall be entitled to a refund",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      176,
+      819,
+      197,
+      15
+    ],
+    "text": "of the amount of such tax.",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      23,
+      843,
+      1,
+      9
+    ],
+    "text": "\\",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      142,
+      21,
+      304,
+      16
+    ],
+    "text": "Tnland Revenus (Amendment) 8",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      174,
+      38,
+      151,
+      15
+    ],
+    "text": "Act, No. 12 of 1964",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      59,
+      65,
+      466,
+      20
+    ],
+    "text": ". 5. The following new section is hereby inserted Insertion of",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      57,
+      82,
+      467,
+      19
+    ],
+    "text": "immediately efter section 23, and shall have effect as 380 tne",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      57,
+      99,
+      475,
+      18
+    ],
+    "text": "section 28, of the principal Act: principal dat,",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      56,
+      124,
+      390,
+      21
+    ],
+    "text": "[Qememain 28a. (1) In respect of individuals to",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      43,
+      139,
+      403,
+      26
+    ],
+    "text": "- net x whom this Chapter applies income tax",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      55,
+      150,
+      391,
+      27
+    ],
+    "text": "Rdvitea wo. for any year of assesment commencing",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      56,
+      172,
+      390,
+      26
+    ],
+    "text": "ita on or after April 1, 1964, shall be com-",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      56,
+      188,
+      390,
+      21
+    ],
+    "text": "Spates for soy puted in accordance with the appropriate",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      56,
+      196,
+      390,
+      40
+    ],
+    "text": "eat covameny, provisions of Part II of the Second",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      56,
+      220,
+      251,
+      21
+    ],
+    "text": "thee edule to this Act.",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      69,
+      232,
+      54,
+      11
+    ],
+    "text": "me pal 2,",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      55,
+      242,
+      25,
+      9
+    ],
+    "text": "Bel,",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      169,
+      257,
+      275,
+      17
+    ],
+    "text": "(2) (@) For the purposes of the",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      152,
+      273,
+      292,
+      17
+    ],
+    "text": "computation of the income tax payable",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      152,
+      285,
+      292,
+      36
+    ],
+    "text": "for any year of assessment commencing",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      152,
+      305,
+      292,
+      19
+    ],
+    "text": "on or after April 1, 1964, oa the taxable",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      152,
+      321,
+      292,
+      17
+    ],
+    "text": "income of any person who is the head of",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      153,
+      337,
+      291,
+      17
+    ],
+    "text": "a family and whose assessable income",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      152,
+      353,
+      292,
+      17
+    ],
+    "text": "for that year of assessment exceeds",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      117,
+      369,
+      327,
+      19
+    ],
+    "text": "Bs. 15,000, the first slab of Rs. 4,000",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      152,
+      385,
+      292,
+      16
+    ],
+    "text": "specified in item (A) of Part Ii of the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      152,
+      401,
+      292,
+      13
+    ],
+    "text": "Second Schedule to this Act shall be",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      152,
+      417,
+      82,
+      13
+    ],
+    "text": "inereased",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72,
+      439,
+      372,
+      16
+    ],
+    "text": ": - (Dif he bas a wife, by Rs. 8,000 in",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      216,
+      455,
+      173,
+      17
+    ],
+    "text": "respect of the'wife, and",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      163,
+      479,
+      280,
+      16
+    ],
+    "text": "(ii) if he has one or more children and",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      43,
+      495,
+      400,
+      17
+    ],
+    "text": "dependent relatives or one or",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      49,
+      511,
+      394,
+      16
+    ],
+    "text": "more children or dependent",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      217,
+      527,
+      226,
+      16
+    ],
+    "text": "relatives, by Rs. 1,500 in",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      218,
+      543,
+      225,
+      17
+    ],
+    "text": "respect of each of not more",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      217,
+      559,
+      226,
+      14
+    ],
+    "text": "than four of the total number",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      216,
+      575,
+      227,
+      15
+    ],
+    "text": "of such children and dependent",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      217,
+      590,
+      225,
+      14
+    ],
+    "text": "relatives or such children or",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      217,
+      606,
+      225,
+      17
+    ],
+    "text": "dependent relatives, as the case",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      216,
+      623,
+      54,
+      16
+    ],
+    "text": "may be.",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70,
+      643,
+      371,
+      19
+    ],
+    "text": ". _ @) For the purposes of the computa-",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      152,
+      659,
+      288,
+      18
+    ],
+    "text": "tion of the income tax payable for any",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      151,
+      677,
+      290,
+      15
+    ],
+    "text": "yeur of assessment commencing on or",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      152,
+      691,
+      289,
+      17
+    ],
+    "text": "after April 1, 1964, on the taxable",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93,
+      706,
+      347,
+      18
+    ],
+    "text": ": income of any person who is the head",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      152,
+      723,
+      288,
+      17
+    ],
+    "text": "of & family and whose assessable income",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      152,
+      739,
+      288,
+      17
+    ],
+    "text": "for that year of assessment does not",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      152,
+      754,
+      287,
+      16
+    ],
+    "text": "exceed RS, 15,000, the second slab of",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      152,
+      770,
+      287,
+      18
+    ],
+    "text": "Re, 3,000 specified in item (8) of Part IF",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      152,
+      785,
+      286,
+      16
+    ],
+    "text": "of the Second Schedule to this Act shall",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      49,
+      803,
+      205,
+      14
+    ],
+    "text": ". be increaged",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      168,
+      804,
+      411,
+      45
+    ],
+    "text": "Gi) if he has a wife, by Re. 8,000 in |",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      216,
+      840,
+      139,
+      18
+    ],
+    "text": "respect of the wife;",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      191,
+      22,
+      310,
+      20
+    ],
+    "text": "4 Inland Revenue (Amendment)",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      35,
+      39,
+      432,
+      17
+    ],
+    "text": ". Aci, No. 12 of 1964",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      304,
+      70,
+      283,
+      17
+    ],
+    "text": "(ii) if he has-one or more obildren acd",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      359,
+      88,
+      227,
+      15
+    ],
+    "text": "dependent relatives or one oF",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      358,
+      104,
+      229,
+      18
+    ],
+    "text": "more children or dependent",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      359,
+      120,
+      227,
+      17
+    ],
+    "text": "relatives, by Rs. 1,500 in",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      359,
+      137,
+      238,
+      15
+    ],
+    "text": "respect of each of ot more .",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      358,
+      151,
+      238,
+      16
+    ],
+    "text": "than four of the total number.",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      358,
+      168,
+      228,
+      16
+    ],
+    "text": "of such children and dependent",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      324,
+      183,
+      262,
+      15
+    ],
+    "text": "~ relatives or auch children or",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      358,
+      199,
+      227,
+      17
+    ],
+    "text": "dependent relatives, as the case",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      358,
+      216,
+      73,
+      15
+    ],
+    "text": "may be..",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      67,
+      249,
+      518,
+      18
+    ],
+    "text": "anmdment of 6, Section 24 of the principal Act is hereby",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      67,
+      255,
+      382,
+      30
+    ],
+    "text": "esa, of = amended as follows: princi",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      63,
+      280,
+      177,
+      23
+    ],
+    "text": "ac. ~ 4",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      209,
+      293,
+      376,
+      31
+    ],
+    "text": "(1) in paragraph (2) gf jihat, geetion,, by, the",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      258,
+      310,
+      326,
+      19
+    ],
+    "text": "substitution, for the words in such preced-",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      258,
+      327,
+      326,
+      18
+    ],
+    "text": "ing year, and, of the words in such",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      258,
+      342,
+      132,
+      17
+    ],
+    "text": "preceding year,;",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      209,
+      369,
+      310,
+      19
+    ],
+    "text": "(2) in paragraph (6) of that section 4",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      259,
+      394,
+      325,
+      17
+    ],
+    "text": "(a) by the substitution, for the words",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      309,
+      411,
+      276,
+      17
+    ],
+    "text": "shall, in their application to that",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      308,
+      427,
+      277,
+      18
+    ],
+    "text": "individual,, of the words and figures",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      309,
+      443,
+      276,
+      17
+    ],
+    "text": "shall, in their application to that",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      308,
+      459,
+      277,
+      18
+    ],
+    "text": "individual in respect of the year of",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      308,
+      476,
+      276,
+      16
+    ],
+    "text": "assessment ending on March 31,",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      308,
+      491,
+      89,
+      15
+    ],
+    "text": "1964,, and",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      260,
+      519,
+      329,
+      16
+    ],
+    "text": "@ by the substitution, for the words ix",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      308,
+      535,
+      277,
+      17
+    ],
+    "text": "such preceding year.\", of the words",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      310,
+      540,
+      274,
+      29
+    ],
+    "text": "in auch preceding year, apd; and",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      210,
+      579,
+      375,
+      18
+    ],
+    "text": "@) by the addition, at the end of that section, of",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      260,
+      596,
+      239,
+      18
+    ],
+    "text": "the following new paragraph :",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      262,
+      624,
+      322,
+      17
+    ],
+    "text": "** (0) the provisions of Part IT of the Second",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      309,
+      641,
+      275,
+      16
+    ],
+    "text": "Schedole to this Act sball, in their",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      309,
+      657,
+      275,
+      18
+    ],
+    "text": "application to that individual for any",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      308,
+      674,
+      276,
+      17
+    ],
+    "text": "year of assessment commencing on or",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      309,
+      691,
+      275,
+      17
+    ],
+    "text": "after April 1, 1964, have effect as if",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      308,
+      707,
+      277,
+      14
+    ],
+    "text": "each of the sums mentioned in that",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      309,
+      725,
+      275,
+      17
+    ],
+    "text": "Part of that Schedule, or the aggra-",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      309,
+      741,
+      275,
+      18
+    ],
+    "text": "gate of the sume computed in the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      309,
+      759,
+      276,
+      17
+    ],
+    "text": "manner mentioned in sub-section (2) of",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      309,
+      775,
+      275,
+      17
+    ],
+    "text": "section 284, as the case may be, were",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      289,
+      791,
+      296,
+      18
+    ],
+    "text": "~ reduced in the proportion which the",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      309,
+      809,
+      279,
+      17
+    ],
+    "text": "number of days during which he is",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      310,
+      825,
+      274,
+      17
+    ],
+    "text": "resident bears to the number of days",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      25,
+      836,
+      470,
+      23
+    ],
+    "text": "! in euch preceding year..",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      137,
+      29,
+      307,
+      17
+    ],
+    "text": "Inland Revenue (Amendment) 5",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      170,
+      46,
+      410,
+      16
+    ],
+    "text": "Act, No. 12 of 1064 .",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      52,
+      74,
+      485,
+      31
+    ],
+    "text": "7. (1) Section 29 of the principal Act is hereby sneuimzet ot",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      51,
+      91,
+      478,
+      24
+    ],
+    "text": "amended as follows: ogee",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69,
+      110,
+      412,
+      21
+    ],
+    "text": "{@) by the renumbering of that section as sub- At",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      39,
+      130,
+      260,
+      17
+    ],
+    "text": ". section (1) of section 20;",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      41,
+      147,
+      402,
+      21
+    ],
+    "text": "~ @) im the renumbered aub-seotion (1), by the subs.",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      117,
+      166,
+      327,
+      16
+    ],
+    "text": "titution, for the words at the rates\", of",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      117,
+      182,
+      321,
+      18
+    ],
+    "text": "the words * at the appropriate rates\"; and",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69,
+      200,
+      374,
+      19
+    ],
+    "text": "(0) by the addition, at the end of that section, of",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      117,
+      218,
+      246,
+      19
+    ],
+    "text": "the following new sub-section:",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      151,
+      239,
+      292,
+      18
+    ],
+    "text": "@) (a) Notwithstanding anything in",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      129,
+      244,
+      314,
+      42
+    ],
+    "text": "sub-section 0), there shal Be changed for",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      133,
+      273,
+      310,
+      17
+    ],
+    "text": "every year of assessment commencing on or",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      133,
+      288,
+      309,
+      30
+    ],
+    "text": "after April 1, 1964, from every son-",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      132,
+      304,
+      310,
+      18
+    ],
+    "text": "resident company having immovable pro-",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      133,
+      321,
+      309,
+      19
+    ],
+    "text": "perty in Ceylon, wealth tax at the rate",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      48,
+      326,
+      393,
+      28
+    ],
+    "text": "_ Speclied in the Third Schedule to this Act.",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      149,
+      357,
+      294,
+      17
+    ],
+    "text": "() For the purposes of paragraph (a) of",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      132,
+      362,
+      310,
+      28
+    ],
+    "text": "this sub-section, the taxable wealth for any",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      131,
+      390,
+      311,
+      16
+    ],
+    "text": "year of assessment of a company",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      131,
+      405,
+      311,
+      17
+    ],
+    "text": "mentioned in that paragraph shall be the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71,
+      422,
+      371,
+      16
+    ],
+    "text": ": product of the multiplication of the tax-",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      132,
+      437,
+      310,
+      17
+    ],
+    "text": "able income of such company for such year",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      131,
+      453,
+      175,
+      17
+    ],
+    "text": "of assessment by tea. .",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      149,
+      475,
+      292,
+      17
+    ],
+    "text": "(0) Nothing in the succeeding provisions",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      132,
+      475,
+      309,
+      35
+    ],
+    "text": "ot his Chapter shall apply tore company",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      39,
+      507,
+      401,
+      18
+    ],
+    "text": ". mentioned in paragraph (@) of this",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      42,
+      521,
+      188,
+      19
+    ],
+    "text": "sub-section..",
+    "mean_p_confidence": 0.06
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      67,
+      547,
+      373,
+      19
+    ],
+    "text": "(2) The amendments made in section 29 of the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      48,
+      564,
+      391,
+      30
+    ],
+    "text": "principal Act by sub-section (1) of thie section shall",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      73,
+      579,
+      366,
+      19
+    ],
+    "text": "deemed to have come into force on April 1, 1964,",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      47,
+      596,
+      392,
+      18
+    ],
+    "text": "and shal! apply to every year of assessment",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      47,
+      612,
+      259,
+      17
+    ],
+    "text": "commencing on or after that date.",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66,
+      645,
+      463,
+      29
+    ],
+    "text": "8.. (1) Section 82 of the principal Act is hereby anime",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      47,
+      661,
+      473,
+      22
+    ],
+    "text": "emended, in sub-section (1) of that section by the sete Sof",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      47,
+      675,
+      435,
+      18
+    ],
+    "text": "substitution, for all the the words from Where the aa.",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      47,
+      693,
+      391,
+      29
+    ],
+    "text": "ageregated net wealth to his taxable wealth for",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      48,
+      710,
+      344,
+      17
+    ],
+    "text": "that year of assessment,, of the following:",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      47,
+      733,
+      390,
+      31
+    ],
+    "text": "- Where for the year of assessment ending on",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66,
+      749,
+      371,
+      19
+    ],
+    "text": "March 31, 1964, the aggregated net wealth of the",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66,
+      766,
+      370,
+      18
+    ],
+    "text": "head of that family amounts to or exceeds one",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      47,
+      782,
+      430,
+      18
+    ],
+    "text": "~ hundred thousand rupees, such net wealth shail be -",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65,
+      798,
+      409,
+      18
+    ],
+    "text": "his taxable wealth for that year of assessment and =.",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      44,
+      814,
+      391,
+      18
+    ],
+    "text": "where for aay year of assessinent commencing on or",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66,
+      830,
+      517,
+      19
+    ],
+    "text": "after Apri] 1, 1004, the aggregated net wealth of .",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66,
+      846,
+      367,
+      18
+    ],
+    "text": "the head of that family exceeds one hundred",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      187,
+      26,
+      309,
+      17
+    ],
+    "text": "8 Inland Revenue (Amendment)",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      32,
+      43,
+      430,
+      16
+    ],
+    "text": ". Act, No. 12 of 1964",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      201,
+      68,
+      379,
+      38
+    ],
+    "text": "thousand rupees, such part of his net wealth as",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      205,
+      88,
+      375,
+      19
+    ],
+    "text": "exceeds one hundred thousand rupees shall be his",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      96,
+      106,
+      438,
+      17
+    ],
+    "text": "- taxable wealth for that year of assessment,.",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      207,
+      127,
+      387,
+      22
+    ],
+    "text": "(2) The amendment made in section 32 of the |",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      189,
+      138,
+      401,
+      41
+    ],
+    "text": "principal Act by aub-section (1) of this section sball",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      198,
+      161,
+      366,
+      18
+    ],
+    "text": "deemed to have come into force on April 1, 1964.",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      67,
+      192,
+      514,
+      18
+    ],
+    "text": "Amrodment of 9. (1) Section 38 of the principal Act is hereby",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      67,
+      198,
+      400,
+      33
+    ],
+    "text": "Beppe amended ag follows: Principe",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      63,
+      221,
+      519,
+      31
+    ],
+    "text": "aa (a) by the renumbering of that section as sub-",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      258,
+      247,
+      183,
+      16
+    ],
+    "text": "section (1) of section 83;",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      209,
+      270,
+      297,
+      17
+    ],
+    "text": "@) in the renumbered sub-section (1)",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      217,
+      288,
+      365,
+      20
+    ],
+    "text": ". @ by the substitution, for the words for",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      304,
+      297,
+      278,
+      46
+    ],
+    "text": "any year of easement of the words",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      304,
+      322,
+      278,
+      21
+    ],
+    "text": "ant res for of assess-",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      275,
+      327,
+      307,
+      28
+    ],
+    "text": "+ mont. ending on Marco Sl, 1964,\",",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      308,
+      356,
+      28,
+      12
+    ],
+    "text": "oad",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      254,
+      373,
+      329,
+      19
+    ],
+    "text": "(ii) by the substitution, for the words who",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      309,
+      389,
+      275,
+      18
+    ],
+    "text": "is not included in family \", of the",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      308,
+      406,
+      276,
+      17
+    ],
+    "text": "words * who is included in a family \";",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      310,
+      423,
+      26,
+      13
+    ],
+    "text": "and",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      210,
+      441,
+      374,
+      19
+    ],
+    "text": "() by the addition, a the end of that section, of",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      260,
+      459,
+      245,
+      17
+    ],
+    "text": "the following new sab-section:-",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      295,
+      478,
+      290,
+      17
+    ],
+    "text": "*Q) Such part of the net wealth for",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      278,
+      495,
+      316,
+      17
+    ],
+    "text": "any year of assessment commencing on OF,",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      277,
+      503,
+      308,
+      41
+    ],
+    "text": "after April 1, 1964, of person, other than:",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      278,
+      527,
+      308,
+      16
+    ],
+    "text": "an individual who is included in a family",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      278,
+      543,
+      308,
+      16
+    ],
+    "text": "or @ charitable institution, as is in excess",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      278,
+      559,
+      308,
+      18
+    ],
+    "text": "of one hundred thousand rupees shall be",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      187,
+      575,
+      399,
+      14
+    ],
+    "text": ". his taxable wealth for that year of assess-",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      279,
+      581,
+      306,
+      27
+    ],
+    "text": "ment and such person shall be liable to",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      279,
+      607,
+      307,
+      18
+    ],
+    "text": "wealth tax in respect of such taxable",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      279,
+      624,
+      69,
+      13
+    ],
+    "text": "wealth.,",
+    "mean_p_confidence": 0.08
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      210,
+      641,
+      376,
+      44
+    ],
+    "text": "(2) Ths amendment mado a section 33 of te",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      197,
+      661,
+      362,
+      24
+    ],
+    "text": "principal Act aragraph (ii) of sub-section",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      197,
+      660,
+      389,
+      43
+    ],
+    "text": "of this section Ra be cepted to have come into force",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      197,
+      695,
+      389,
+      21
+    ],
+    "text": "on the date of commencement of the principal Act and",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      198,
+      697,
+      389,
+      38
+    ],
+    "text": "the other amendments made in the aforesaid section 33.",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      198,
+      728,
+      389,
+      31
+    ],
+    "text": "by sub-section of this section shall be deemed to",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      198,
+      745,
+      278,
+      17
+    ],
+    "text": "have come into foros on April 1, 1984,",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      80,
+      775,
+      508,
+      26
+    ],
+    "text": "mendment 40. -(1) Section 84 of the principal Act ia horeby",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72,
+      773,
+      517,
+      45
+    ],
+    "text": "savin a _ amended Y the substitution, or the worda * twenty.",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      76,
+      801,
+      512,
+      32
+    ],
+    "text": "Beer thousand rupees ', wherever those worda oocur in that",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      200,
+      824,
+      387,
+      18
+    ],
+    "text": "section, of the words one hundred thousand",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      200,
+      843,
+      67,
+      16
+    ],
+    "text": "rupees\",",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      147,
+      16,
+      305,
+      18
+    ],
+    "text": "Inland Revenue (Amendment) 7",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      181,
+      35,
+      150,
+      15
+    ],
+    "text": "Act, No, 12 of 1864",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      81,
+      62,
+      372,
+      20
+    ],
+    "text": "@) The amendment made in section 34 of the",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      65,
+      69,
+      388,
+      39
+    ],
+    "text": "principal Act by sub-section (1) of this section shall",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      88,
+      94,
+      490,
+      17
+    ],
+    "text": "deemed to have come into force on the date of :",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      65,
+      110,
+      389,
+      20
+    ],
+    "text": "commencement of the principal Act and accordingly",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      65,
+      127,
+      389,
+      20
+    ],
+    "text": "any sum paid by a charitable institution as wealth tax",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      41,
+      142,
+      413,
+      21
+    ],
+    "text": "- shall be refunded to such institution if such",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      65,
+      160,
+      390,
+      18
+    ],
+    "text": "institution is, under the aforesaid section 34 as",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      66,
+      175,
+      389,
+      33
+    ],
+    "text": "ainended by sub-section (yet this section, not required",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      66,
+      194,
+      223,
+      16
+    ],
+    "text": "to pay such sum as wealth tax.",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83,
+      223,
+      464,
+      17
+    ],
+    "text": "41. The First Schedule to the principal Act is Ammdmes of",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      67,
+      229,
+      465,
+      30
+    ],
+    "text": "hereby amended as follows: m Sean to",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      84,
+      257,
+      454,
+      22
+    ],
+    "text": "(1) by the substitution, for the heading Non- [gp",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      132,
+      277,
+      325,
+      17
+    ],
+    "text": "resident individuals, of the following new",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      132,
+      295,
+      83,
+      18
+    ],
+    "text": "heading:",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      134,
+      313,
+      323,
+      18
+    ],
+    "text": "Non-resident individuals for the year of",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      165,
+      330,
+      292,
+      18
+    ],
+    "text": "assessment commencing on April 1,",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      167,
+      349,
+      104,
+      15
+    ],
+    "text": "1963,\"\"; and",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      86,
+      368,
+      372,
+      20
+    ],
+    "text": "(@) by the insertion, immediately before the item",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      134,
+      384,
+      303,
+      30
+    ],
+    "text": "relating to f Hindwundivided Families ,",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      134,
+      401,
+      180,
+      17
+    ],
+    "text": "of the following item:",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      136,
+      421,
+      323,
+      17
+    ],
+    "text": "Non-resident individuals for any year of",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      106,
+      437,
+      353,
+      19
+    ],
+    "text": ", asecasment commencing on or after",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      168,
+      454,
+      113,
+      17
+    ],
+    "text": "April 1, 1964",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      168,
+      479,
+      160,
+      14
+    ],
+    "text": "On the first Rs. 15,000",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      124,
+      495,
+      204,
+      19
+    ],
+    "text": ". of the tasable",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      41,
+      509,
+      402,
+      26
+    ],
+    "text": "4y inoome | 25 per centum",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      169,
+      532,
+      160,
+      17
+    ],
+    "text": "On.the next Bs. 5,000",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      185,
+      549,
+      143,
+      19
+    ],
+    "text": "of the taxable",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      182,
+      556,
+      261,
+      32
+    ],
+    "text": "income s+ 80 per centum",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      170,
+      587,
+      159,
+      15
+    ],
+    "text": "On the next Rs. 5,000",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      186,
+      603,
+      394,
+      13
+    ],
+    "text": "of the taxable .",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      183,
+      611,
+      260,
+      31
+    ],
+    "text": "income vs 40 per centum",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      171,
+      640,
+      409,
+      16
+    ],
+    "text": "On the next Re. 6,000 1",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      187,
+      657,
+      142,
+      14
+    ],
+    "text": "of the taxable",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      187,
+      665,
+      256,
+      32
+    ],
+    "text": "income w+ 43 por centum",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      171,
+      695,
+      159,
+      15
+    ],
+    "text": "On the next Rs. 5,000",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      187,
+      711,
+      142,
+      15
+    ],
+    "text": "of - the taxable",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      184,
+      724,
+      395,
+      27
+    ],
+    "text": "income . 60 per centum",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      172,
+      745,
+      406,
+      19
+    ],
+    "text": "On the next Rs. 5,000",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      187,
+      765,
+      143,
+      15
+    ],
+    "text": "of the taxable",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      188,
+      774,
+      392,
+      32
+    ],
+    "text": "income w+ 85 per centom i",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      41,
+      791,
+      539,
+      34
+    ],
+    "text": ". On the next Re. 7,000 {",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      188,
+      819,
+      392,
+      15
+    ],
+    "text": "of the taxable \\",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      185,
+      828,
+      257,
+      32
+    ],
+    "text": "income w+ 60 per centum",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      101,
+      858,
+      5,
+      8
+    ],
+    "text": ".",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      153,
+      16,
+      330,
+      18
+    ],
+    "text": "_8 Inland. Revenue (Amendment)",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      297,
+      32,
+      153,
+      15
+    ],
+    "text": "Act, No, 12 of 1964",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      277,
+      64,
+      163,
+      15
+    ],
+    "text": "On the next Rs. 7,000",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      293,
+      80,
+      147,
+      14
+    ],
+    "text": "of the taxable",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      290,
+      89,
+      263,
+      31
+    ],
+    "text": "income vas 70 per centum",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      278,
+      121,
+      163,
+      13
+    ],
+    "text": "On the balance of the",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      292,
+      134,
+      305,
+      19
+    ],
+    "text": "texable income... 80 per centum.. ~",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      56,
+      170,
+      514,
+      23
+    ],
+    "text": "Amendment of 12, (1) The Second Schedule to the principal Act",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      52,
+      183,
+      368,
+      34
+    ],
+    "text": "SS is hereby amended as follows :",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      52,
+      206,
+      518,
+      32
+    ],
+    "text": "a Principat (@) in Part I of that Schedule, by the substitution,",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      247,
+      229,
+      324,
+      13
+    ],
+    "text": "for the words The rates of income tas",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      247,
+      245,
+      209,
+      16
+    ],
+    "text": "shall, of the following:",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      116,
+      268,
+      456,
+      15
+    ],
+    "text": ". Phe rates of income tax for the yer",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      88,
+      282,
+      484,
+      23
+    ],
+    "text": ". of assessment ending on March 31, 1904,",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      264,
+      299,
+      57,
+      17
+    ],
+    "text": "shall;",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      190,
+      322,
+      382,
+      41
+    ],
+    "text": "_ @) by the omission of Part Il of that Schedule;",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      249,
+      350,
+      17,
+      9
+    ],
+    "text": "an",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      171,
+      366,
+      403,
+      20
+    ],
+    "text": "_ () by the addition, at the end of Part I of that",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      250,
+      385,
+      223,
+      16
+    ],
+    "text": "Schedule, of the following:",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      205,
+      413,
+      221,
+      21
+    ],
+    "text": ". . PART IL.",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      172,
+      441,
+      403,
+      19
+    ],
+    "text": "\"* \"(The rates of income tax for any year of",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      253,
+      448,
+      322,
+      29
+    ],
+    "text": "assessiient commencing on or after Apri 1,",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      253,
+      477,
+      207,
+      16
+    ],
+    "text": "1964, shall be.as follows :.",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      270,
+      499,
+      325,
+      20
+    ],
+    "text": "(4) In the case of an individual whose",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      191,
+      515,
+      403,
+      18
+    ],
+    "text": "ve assessable income for the year, of *",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      181,
+      533,
+      365,
+      20
+    ],
+    "text": ". assesement xceeds Rs. 15,000",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      185,
+      558,
+      263,
+      16
+    ],
+    "text": "moet On the first",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      110,
+      574,
+      338,
+      17
+    ],
+    "text": "' melee Rs. 4,000 of",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      330,
+      590,
+      119,
+      15
+    ],
+    "text": "+ the taxable",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      210,
+      607,
+      346,
+      21
+    ],
+    "text": "ao. income .. 15 per centum",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      25,
+      630,
+      425,
+      25
+    ],
+    "text": "' . come On the next",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      330,
+      649,
+      120,
+      16
+    ],
+    "text": "\"Rs. 3,000 of",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      25,
+      666,
+      425,
+      22
+    ],
+    "text": ": the taxable",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      25,
+      682,
+      533,
+      29
+    ],
+    "text": "|. income ... 20 per oentum",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      25,
+      710,
+      426,
+      27
+    ],
+    "text": "\\ On_ the next",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      25,
+      725,
+      426,
+      22
+    ],
+    "text": "i hee Rs. 5,000 of",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      306,
+      741,
+      146,
+      20
+    ],
+    "text": "is the taxeble",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      332,
+      758,
+      227,
+      21
+    ],
+    "text": "* inome .,. 30 per centum",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      332,
+      785,
+      120,
+      14
+    ],
+    "text": "On tho next",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      349,
+      801,
+      104,
+      16
+    ],
+    "text": "Ra. 5,000 of",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      349,
+      818,
+      104,
+      14
+    ],
+    "text": "the taxable",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      25,
+      833,
+      535,
+      44
+    ],
+    "text": "| . . income... ,. 40 per centum",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      60,
+      21,
+      371,
+      19
+    ],
+    "text": "Inland: Revenue (Amendment) 9",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      162,
+      41,
+      148,
+      15
+    ],
+    "text": "Act, No. 19 of 1964",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      182,
+      73,
+      119,
+      13
+    ],
+    "text": "On the next",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      199,
+      88,
+      102,
+      16
+    ],
+    "text": "Bs. 5,000 of",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      199,
+      104,
+      334,
+      14
+    ],
+    "text": "the taxable .",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      199,
+      121,
+      212,
+      16
+    ],
+    "text": "income ... 50 per centum",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      42,
+      146,
+      261,
+      13
+    ],
+    "text": ". On the next",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      199,
+      161,
+      103,
+      16
+    ],
+    "text": "Rs. 5,000 of",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      200,
+      177,
+      103,
+      13
+    ],
+    "text": "the taxable",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      200,
+      193,
+      212,
+      15
+    ],
+    "text": "income... 86 per centum",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      184,
+      218,
+      118,
+      13
+    ],
+    "text": "On the next",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      201,
+      233,
+      102,
+      16
+    ],
+    "text": "Rs, 10,000 of",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      57,
+      247,
+      432,
+      17
+    ],
+    "text": ": the taxable .",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      201,
+      265,
+      211,
+      16
+    ],
+    "text": "income _... 60 per centum",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      185,
+      290,
+      118,
+      14
+    ],
+    "text": "On the next",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      201,
+      305,
+      103,
+      16
+    ],
+    "text": "Rs. 10,000 of",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      202,
+      322,
+      101,
+      14
+    ],
+    "text": "the taxable",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      202,
+      335,
+      211,
+      25
+    ],
+    "text": "income .. 70 per centum",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      185,
+      362,
+      254,
+      14
+    ],
+    "text": "On the balance . :",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      201,
+      379,
+      287,
+      14
+    ],
+    "text": "of the taxable .",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      198,
+      392,
+      214,
+      25
+    ],
+    "text": "income .-- 80 per centom",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      130,
+      418,
+      304,
+      18
+    ],
+    "text": "(8) In the esse of an individual whose",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      170,
+      434,
+      264,
+      17
+    ],
+    "text": "assessable income for the year",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      170,
+      450,
+      264,
+      15
+    ],
+    "text": "of assessment does not exceed",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      171,
+      469,
+      95,
+      15
+    ],
+    "text": "Bs. 15,000",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      187,
+      488,
+      118,
+      14
+    ],
+    "text": "On, the first",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      42,
+      504,
+      263,
+      27
+    ],
+    "text": "x Bs. 1,000 of",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      204,
+      520,
+      101,
+      14
+    ],
+    "text": "the taxable",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      204,
+      537,
+      209,
+      15
+    ],
+    "text": "jncome ..._-8 per centum",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      187,
+      560,
+      118,
+      13
+    ],
+    "text": "On the next",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      204,
+      575,
+      101,
+      16
+    ],
+    "text": "Rs. 8,000 of",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      205,
+      591,
+      101,
+      15
+    ],
+    "text": "the taxable",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      204,
+      608,
+      210,
+      16
+    ],
+    "text": "income... 15 per centum",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      188,
+      633,
+      118,
+      13
+    ],
+    "text": "On the next",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      205,
+      648,
+      101,
+      16
+    ],
+    "text": "Bs. 8,000 of",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      205,
+      664,
+      101,
+      14
+    ],
+    "text": "the taxable",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      202,
+      677,
+      212,
+      26
+    ],
+    "text": "income v 20 per centum",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      189,
+      705,
+      118,
+      14
+    ],
+    "text": "On_ the next",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      206,
+      721,
+      101,
+      16
+    ],
+    "text": "Rs. 5,000 of",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      134,
+      737,
+      173,
+      14
+    ],
+    "text": ". the taxable",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      207,
+      753,
+      230,
+      17
+    ],
+    "text": "income... 90 per centum,*,",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      51,
+      773,
+      387,
+      39
+    ],
+    "text": "tot The amendments made in oe Second Schedule",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      42,
+      797,
+      387,
+      14
+    ],
+    "text": "to the principal yy paragraph (a) and paragrap!",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      56,
+      797,
+      382,
+      32
+    ],
+    "text": "(8) of sub-section (1) tail Le leomed to haveveorne",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      56,
+      824,
+      382,
+      21
+    ],
+    "text": "into force on the date of commencement of the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      56,
+      842,
+      100,
+      16
+    ],
+    "text": "principal Act.",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      178,
+      20,
+      306,
+      17
+    ],
+    "text": "10 Taland Revenue (Amendmtnt)",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      298,
+      38,
+      155,
+      15
+    ],
+    "text": "Act, No. 18 of 1964",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      60,
+      67,
+      509,
+      17
+    ],
+    "text": "Appimens of 48, (1) The Third- Schedule to the principal Act",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      56,
+      73,
+      424,
+      42
+    ],
+    "text": "Bieinie. ro, __ ie hereby amended as follows:",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      57,
+      99,
+      512,
+      35
+    ],
+    "text": "iyrsciest (1) by ,the insertion, immediately after the title",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      248,
+      124,
+      342,
+      15
+    ],
+    "text": "Tarrp ScaepuLe, of the following _",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      242,
+      132,
+      337,
+      32
+    ],
+    "text": "sub-title: : .",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      247,
+      175,
+      182,
+      21
+    ],
+    "text": ". PARTI;",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      199,
+      201,
+      371,
+      28
+    ],
+    "text": "(2) in the heading * Rates of Wealth Tax, by",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      247,
+      217,
+      315,
+      17
+    ],
+    "text": "the substitution, for the words Wealtl",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      248,
+      232,
+      323,
+      19
+    ],
+    "text": "Tax, of the words and figures ' Wealth",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      248,
+      250,
+      323,
+      16
+    ],
+    "text": "Tax for the vear of assessment ending on",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      248,
+      267,
+      177,
+      16
+    ],
+    "text": "March 81, 1964.\"; and",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      200,
+      289,
+      371,
+      18
+    ],
+    "text": "(8) by the addition, atthe end of that Schedule,",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      248,
+      306,
+      148,
+      17
+    ],
+    "text": "of the following :",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      332,
+      335,
+      133,
+      13
+    ],
+    "text": "PART IL.",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      265,
+      357,
+      292,
+      18
+    ],
+    "text": "Rates of Wealth Tax for every year of",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      282,
+      375,
+      259,
+      15
+    ],
+    "text": "assessment commencing on or after",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      358,
+      391,
+      107,
+      17
+    ],
+    "text": "April 1, 1964.",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      250,
+      413,
+      324,
+      21
+    ],
+    "text": "1. For a person other than charitable",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      272,
+      431,
+      302,
+      15
+    ],
+    "text": "institution or a non-resident company",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      194,
+      447,
+      364,
+      17
+    ],
+    "text": ". having immovable property in Ceylon",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      278,
+      467,
+      167,
+      15
+    ],
+    "text": ". On the first",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      322,
+      484,
+      123,
+      15
+    ],
+    "text": "Rs. 100,000 of",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      325,
+      500,
+      265,
+      20
+    ],
+    "text": "taxable wealth 4 per centum",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      309,
+      519,
+      271,
+      19
+    ],
+    "text": "On the next ;",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      322,
+      541,
+      123,
+      15
+    ],
+    "text": "Rs, 100,000 of",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      325,
+      557,
+      227,
+      17
+    ],
+    "text": "taxable wealth 3 per centam",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      309,
+      581,
+      136,
+      14
+    ],
+    "text": "On the next",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      323,
+      598,
+      122,
+      15
+    ],
+    "text": "Rs. 350,000 of",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      211,
+      614,
+      342,
+      17
+    ],
+    "text": ": taxable wealth 1 per centum",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      309,
+      638,
+      137,
+      14
+    ],
+    "text": "On the next",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      323,
+      655,
+      122,
+      15
+    ],
+    "text": "Rs, 350,000 of",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      326,
+      671,
+      227,
+      17
+    ],
+    "text": "taxable wealth 1} per centum",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      309,
+      695,
+      137,
+      15
+    ],
+    "text": "On the next",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      326,
+      712,
+      119,
+      15
+    ],
+    "text": "Rs. 1,000,000 of",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      326,
+      728,
+      227,
+      17
+    ],
+    "text": "taxable wealth 2 per centum",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      309,
+      752,
+      137,
+      14
+    ],
+    "text": "On the next",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      326,
+      769,
+      232,
+      14
+    ],
+    "text": "Rs, 1,000,000 of :",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      327,
+      785,
+      227,
+      17
+    ],
+    "text": "taxable wealth 8 per centom",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      310,
+      809,
+      136,
+      13
+    ],
+    "text": "On the balance",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      325,
+      825,
+      195,
+      16
+    ],
+    "text": "of all taxable :",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      31,
+      838,
+      523,
+      39
+    ],
+    "text": "4 wealth ow 5 per contum",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      140,
+      23,
+      311,
+      17
+    ],
+    "text": "Inland Revenue (Amendment) 1",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      181,
+      41,
+      150,
+      15
+    ],
+    "text": "Act, No. 12 of 1964",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      128,
+      72,
+      316,
+      14
+    ],
+    "text": "2. For a charitable instita- .",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      149,
+      88,
+      44,
+      14
+    ],
+    "text": "tion",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      185,
+      112,
+      136,
+      14
+    ],
+    "text": "On all taxable",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      197,
+      121,
+      233,
+      31
+    ],
+    "text": "wealth - per centum",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      128,
+      160,
+      201,
+      14
+    ],
+    "text": "8. For a non-resident com-",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      149,
+      176,
+      181,
+      30
+    ],
+    "text": "pany heving immovable",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      150,
+      193,
+      151,
+      17
+    ],
+    "text": "property in Ceyloa",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      184,
+      216,
+      138,
+      15
+    ],
+    "text": "On all taxable",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      197,
+      225,
+      254,
+      31
+    ],
+    "text": "wealth +l per centnm..",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      80,
+      260,
+      489,
+      18
+    ],
+    "text": "2) The amendments made to the Third Schedule to .",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      64,
+      276,
+      387,
+      18
+    ],
+    "text": "the principal Act by sub-section (1) of this section",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      63,
+      291,
+      388,
+      30
+    ],
+    "text": "shall be deemed to hare come into foree on April 1,",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      65,
+      340,
+      470,
+      20
+    ],
+    "text": ", 1% (1) Notwithstanding anything to the contrary Specie! previ.",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      64,
+      351,
+      475,
+      38
+    ],
+    "text": "in any lew for the time being applicable to the tax- {contributes",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      64,
+      372,
+      476,
+      20
+    ],
+    "text": "able wealth of any person in the capacity of a trustes {the Penonal",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      63,
+      384,
+      473,
+      21
+    ],
+    "text": "of a trust which, or any corporation or unincorporate PZ",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      63,
+      403,
+      473,
+      18
+    ],
+    "text": "body of persons who or which, is a charitable institu- Act. No. wot",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      63,
+      416,
+      452,
+      22
+    ],
+    "text": "tion within the meaning of the Income Tax Ordinance, Mepct ot",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      64,
+      436,
+      458,
+      20
+    ],
+    "text": "where the net wealth of eueh person, corporation oF te texahle",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      63,
+      450,
+      471,
+      20
+    ],
+    "text": "unincorporate body of persong, as the case may be, jeron im the",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      64,
+      468,
+      466,
+      20
+    ],
+    "text": "for any year of assessment during the period commen: pacity 2",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      64,
+      481,
+      460,
+      21
+    ],
+    "text": "cing on April 1, 1959, and ending on March 91, 1963, {Maer a",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      64,
+      500,
+      471,
+      21
+    ],
+    "text": "exceeds one hundred thousand rupees, the entirety of corporation or",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      42,
+      514,
+      497,
+      21
+    ],
+    "text": "% the net wealth of such person, corporation or wnin- tip of pereooe",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      64,
+      532,
+      477,
+      21
+    ],
+    "text": "corporate body of persons shall be the taxable wealth of wo or hich ie",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      64,
+      547,
+      459,
+      21
+    ],
+    "text": "such person, corporation or unincorporate body of Eames",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      64,
+      566,
+      458,
+      29
+    ],
+    "text": "Persons and such person, corgoration or anincorporate Sth,",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      73,
+      579,
+      506,
+      21
+    ],
+    "text": "jody of persons shall be liable to make the contri- fence Tex |",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      64,
+      598,
+      452,
+      15
+    ],
+    "text": "bution in respect of such taxable wealth to the Personal Ostinazce.",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      65,
+      614,
+      383,
+      15
+    ],
+    "text": "Tax under the Personal Tax Act, No. 14 of 1959,",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      64,
+      631,
+      515,
+      16
+    ],
+    "text": "for that year of assessment, 4",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      81,
+      654,
+      368,
+      17
+    ],
+    "text": "(2) Where, before the date of the commencement of",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      65,
+      671,
+      384,
+      16
+    ],
+    "text": "this Act, any person, corporation or unincorporate",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      64,
+      686,
+      515,
+      16
+    ],
+    "text": "body of persons mentioned in sub-section (1) of this :",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      64,
+      702,
+      514,
+      17
+    ],
+    "text": "section has. for any vear of assessment within the :",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      65,
+      718,
+      514,
+      17
+    ],
+    "text": "period mentioned in that sub-section, made a contri- h",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      64,
+      734,
+      383,
+      17
+    ],
+    "text": "bution to the Personal Tax in respect of taxable",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      64,
+      750,
+      383,
+      17
+    ],
+    "text": "wealth, auch contribution shall be refunded to auch",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      64,
+      767,
+      515,
+      19
+    ],
+    "text": "Person, corporation or unincorporate body of persons .",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      64,
+      782,
+      383,
+      16
+    ],
+    "text": "if snch person, enrporation or unincornorate bodv of",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      43,
+      798,
+      403,
+      16
+    ],
+    "text": "+ persons is not liable to make anch contribution under",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      64,
+      814,
+      515,
+      19
+    ],
+    "text": "the provisions of sub-section (1) of this segtion, t",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      505,
+      867,
+      74,
+      10
+    ],
+    "text": "ee 2",
+    "mean_p_confidence": 0.1
+  }
+]

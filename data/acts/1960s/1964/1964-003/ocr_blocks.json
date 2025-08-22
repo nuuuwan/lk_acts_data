@@ -1,0 +1,431 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      77,
+      6,
+      383,
+      27
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      180,
+      57,
+      299,
+      27
+    ],
+    "text": "4th Session 1963-64 eer",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      393,
+      79,
+      114,
+      24
+    ],
+    "text": "a",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      276,
+      100,
+      239,
+      21
+    ],
+    "text": ", 7 ba",
+    "mean_p_confidence": 0.07
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      257,
+      121,
+      260,
+      35
+    ],
+    "text": "EY eahapaete 1g",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      243,
+      141,
+      263,
+      53
+    ],
+    "text": "Saas NG a, .",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      230,
+      165,
+      259,
+      33
+    ],
+    "text": "S| (es 13) So S",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      229,
+      175,
+      251,
+      51
+    ],
+    "text": "Ge: 228",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      217,
+      221,
+      119,
+      39
+    ],
+    "text": "Kame",
+    "mean_p_confidence": 0.0
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      82,
+      294,
+      387,
+      42
+    ],
+    "text": "Courts (Amendment) Act,",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143,
+      348,
+      233,
+      30
+    ],
+    "text": "- No. 3 of 1964",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      165,
+      464,
+      351,
+      31
+    ],
+    "text": "Date of Assent: January 9, 1964 ,",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144,
+      595,
+      255,
+      16
+    ],
+    "text": "Printed on the Orders of Government",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      84,
+      722,
+      376,
+      24
+    ],
+    "text": "Pubchsed st the Gover Fumeartine Bivona, Cova",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      84,
+      752,
+      374,
+      12
+    ],
+    "text": "Annuel Subscription (including Bills) Rs. 30 (Local}, Rs. 40",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      84,
+      763,
+      376,
+      25
+    ],
+    "text": "Bee, Pan, dane RE | RET",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      82,
+      781,
+      375,
+      18
+    ],
+    "text": "December each year in respect ot tha year foltowing Lata",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83,
+      787,
+      374,
+      32
+    ],
+    "text": "ae et yt ae",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      84,
+      826,
+      417,
+      15
+    ],
+    "text": "Price: 15 cents Postage; 10 cents .",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122,
+      8,
+      413,
+      23
+    ],
+    "text": "Courts (Amendment) Act, No. 3 of 1964 .",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      42,
+      105,
+      14
+    ],
+    "text": "L. DO, 86/62.",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      109,
+      59,
+      430,
+      22
+    ],
+    "text": "AN Acr To astenD TEE COURTS ORDINANCE. Sine 8",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140,
+      79,
+      384,
+      24
+    ],
+    "text": "[Date of Assent: January 9, 1964] ase i.",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      104,
+      421,
+      26
+    ],
+    "text": "BE it enacted by the Queens Most Excellent Majesty, *",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      127,
+      391,
+      31
+    ],
+    "text": "by and with the advice and consent of the Senate and",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92,
+      143,
+      375,
+      19
+    ],
+    "text": "House of Representatives of Ceylon in this present",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      158,
+      390,
+      18
+    ],
+    "text": "Parliament assembled, and by the authority of the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      177,
+      145,
+      15
+    ],
+    "text": "same, as follows:",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93,
+      203,
+      442,
+      17
+    ],
+    "text": "4. This Act may be cited as the Courts shea ie,",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      220,
+      249,
+      18
+    ],
+    "text": "(Amendment) Act, No. 3 of 1964.",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      94,
+      247,
+      458,
+      15
+    ],
+    "text": "2, Section 45 of the Courts Ordinance is hereby Apedmem a",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      255,
+      466,
+      29
+    ],
+    "text": "amended, in the proviso to that section, by the anes",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      278,
+      389,
+      18
+    ],
+    "text": "substitation, for the words in the nearest District",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      294,
+      365,
+      18
+    ],
+    "text": "Court, Court of Requests, or Magistrates Court, ,",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      310,
+      389,
+      15
+    ],
+    "text": "of the words in the nearest District Court, Court",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      318,
+      389,
+      42
+    ],
+    "text": "of Requests, or Magistrate's Court, or, if it be more",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      343,
+      387,
+      16
+    ],
+    "text": "convenient, in such District Court, Court of Requests,",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      358,
+      388,
+      19
+    ],
+    "text": "or Magistrate's Court as the Supreme Court or such",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      375,
+      316,
+      18
+    ],
+    "text": "Jadge thereof may consider appropriate,.",
+    "mean_p_confidence": 0.55
+  }
+]

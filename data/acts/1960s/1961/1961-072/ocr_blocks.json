@@ -1,0 +1,827 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      131,
+      29,
+      384,
+      26
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      218,
+      70,
+      313,
+      19
+    ],
+    "text": "2nd Session 1961-62",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      298,
+      112,
+      104,
+      32
+    ],
+    "text": "Sey",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      82,
+      261,
+      455,
+      40
+    ],
+    "text": "Ceylon Parliamentary Elections",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      79,
+      312,
+      460,
+      38
+    ],
+    "text": "(Amendment) Act, No. 72 of 1961",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      192,
+      469,
+      235,
+      14
+    ],
+    "text": "Date of Assent: 30th December, 1961",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      73,
+      598,
+      358,
+      16
+    ],
+    "text": ": Printed on the Orders of Government",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      135,
+      728,
+      341,
+      11
+    ],
+    "text": "niet Ge: Govan Den, Coton et",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      133,
+      741,
+      343,
+      12
+    ],
+    "text": "Pa SS oma tin Sit, Saat",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      132,
+      758,
+      345,
+      13
+    ],
+    "text": "ne eet fgg Be fra, tia fp,",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      132,
+      771,
+      344,
+      13
+    ],
+    "text": "dean See sonatas Gorman Poatna ae",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      132,
+      784,
+      344,
+      16
+    ],
+    "text": "Ero cheat a Pa ok pars eae",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      132,
+      797,
+      343,
+      25
+    ],
+    "text": "iar ene soras soe",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      99,
+      829,
+      411,
+      13
+    ],
+    "text": "Price: 10 cents + Postage: 16 cents",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      48,
+      8,
+      2,
+      13
+    ],
+    "text": "\\",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      49,
+      27,
+      372,
+      17
+    ],
+    "text": ". * Ceylon Parliamentary Elections (Amendment)",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      124,
+      43,
+      296,
+      16
+    ],
+    "text": ". Act, No. 72 of 1981 :",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      70,
+      395,
+      14
+    ],
+    "text": "L, D.O. 82/00, .",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      94,
+      349,
+      17
+    ],
+    "text": "AN Act TO AMEND THE CEYLON (PARLIAMENTARY",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      125,
+      110,
+      262,
+      15
+    ],
+    "text": "Ezzerions) Onper 1v Councin, 1948.",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108,
+      133,
+      297,
+      17
+    ],
+    "text": "[Date of Assent: 30th December, 1961]",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      157,
+      381,
+      29
+    ],
+    "text": "BE, it enacted, by, the Queen's Most Excellent",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      173,
+      472,
+      16
+    ],
+    "text": "Majesty, by and with the advice and coneent of the .",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      188,
+      382,
+      17
+    ],
+    "text": "Senate and the Hovee of Representatives of Ceylon in",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      204,
+      470,
+      17
+    ],
+    "text": "this present Parliament assembled, and by the .",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      220,
+      267,
+      16
+    ],
+    "text": "authority of the same, aa followa:",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      252,
+      435,
+      16
+    ],
+    "text": "4, This Act may-be cited as the Ceylon Parlia- show ris,",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      267,
+      381,
+      17
+    ],
+    "text": "mentary Elections (Amendment) Act, No. 72 of 1961.",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      299,
+      452,
+      14
+    ],
+    "text": "2. Section 78 of the Ceylon (Parliament Amepdnent of",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      52,
+      296,
+      474,
+      40
+    ],
+    "text": "* Elections) Order in Council, 1918, beaten and ean",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      331,
+      467,
+      21
+    ],
+    "text": "Act referred to as the principal enactment \"}, ag wise",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64,
+      344,
+      446,
+      20
+    ],
+    "text": "amended by Act No. 11 of 1959, is hereby amended as \"2",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      354,
+      465,
+      31
+    ],
+    "text": "followe Soon 1968,",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      95,
+      387,
+      351,
+      17
+    ],
+    "text": "(1) in sub-section (1) of that section, by the",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      144,
+      404,
+      302,
+      16
+    ],
+    "text": "subetitution, for the word judges, of",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      145,
+      420,
+      91,
+      14
+    ],
+    "text": "the words,",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      178,
+      442,
+      267,
+      17
+    ],
+    "text": "judges from among persons for the",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      161,
+      439,
+      285,
+      42
+    ],
+    "text": "time ieee holding offee as Judges of the",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      160,
+      474,
+      285,
+      16
+    ],
+    "text": "Supreme Court, Commissioners of",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      160,
+      490,
+      286,
+      17
+    ],
+    "text": "Assize, or District Judges of the",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      160,
+      506,
+      285,
+      17
+    ],
+    "text": "Districts of Colombo, Kandy, Gaile and",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      160,
+      522,
+      285,
+      17
+    ],
+    "text": "Jafina. For the purposes of this aub-",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      159,
+      538,
+      286,
+      17
+    ],
+    "text": "section, the expression District",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      159,
+      554,
+      285,
+      16
+    ],
+    "text": "Judges docs not include Additional",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      159,
+      570,
+      125,
+      16
+    ],
+    "text": "District Jodges..",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96,
+      601,
+      348,
+      19
+    ],
+    "text": "@) by the insertion immediately after sub-",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      143,
+      618,
+      371,
+      15
+    ],
+    "text": "section (2) of that seotion, of the :",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      143,
+      633,
+      210,
+      17
+    ],
+    "text": "following mew sub-section :",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      176,
+      657,
+      268,
+      16
+    ],
+    "text": "(8) Every person appointed -under",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      158,
+      661,
+      286,
+      40
+    ],
+    "text": "sub-section (ip Uf thie Section shall, if",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      51,
+      688,
+      392,
+      21
+    ],
+    "text": "\\ he be Chief Justice or a Judge of the",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      159,
+      704,
+      283,
+      17
+    ],
+    "text": "Supreme Court, be entitled to his normal",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      159,
+      720,
+      283,
+      17
+    ],
+    "text": "salary; and if he be 6 Commissioner of",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      159,
+      736,
+      282,
+      30
+    ],
+    "text": "Aasize om District Indge he shall be",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      103,
+      754,
+      303,
+      14
+    ],
+    "text": ": entitled, for eo long anc for 80",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      749,
+      383,
+      42
+    ],
+    "text": ". sae ay Blectiak Tudge for the ial",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      158,
+      784,
+      282,
+      28
+    ],
+    "text": "of an elootion petition, tothe same salary",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      158,
+      800,
+      259,
+      16
+    ],
+    "text": "as 8 Commissioner of Assize appoin'",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      158,
+      815,
+      282,
+      17
+    ],
+    "text": "under section 92 of the Courts",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      158,
+      835,
+      75,
+      14
+    ],
+    "text": "Ordinance. .",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      843,
+      292,
+      31
+    ],
+    "text": "2 Ramee 2380 610) :",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      196,
+      20,
+      378,
+      24
+    ],
+    "text": "2: Ceylon Parliamentary Elections (Amendment) *",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      297,
+      44,
+      145,
+      15
+    ],
+    "text": "Act, No. 78 of 1861",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      84,
+      71,
+      476,
+      29
+    ],
+    "text": "feminas i & Section 784 of, the, principal enactmnt, as",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      81,
+      75,
+      479,
+      35
+    ],
+    "text": "fect amended by Act No. 11 of 1959, is hereby amended as",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      85,
+      91,
+      387,
+      26
+    ],
+    "text": "Segoe follows: 7",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      214,
+      125,
+      346,
+      29
+    ],
+    "text": "(1) im aubssection (1) of that Sestion by the",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      259,
+      141,
+      300,
+      16
+    ],
+    "text": "substitution, for the words election",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      259,
+      157,
+      301,
+      17
+    ],
+    "text": "petition.\"\", of the words * election petition,",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      259,
+      172,
+      301,
+      29
+    ],
+    "text": "dd. an election judge go nominated shall",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      260,
+      188,
+      300,
+      28
+    ],
+    "text": "be invested with all the rights, powers,",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      260,
+      203,
+      301,
+      18
+    ],
+    "text": "privileges and immunities of a Judge of",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      261,
+      219,
+      299,
+      17
+    ],
+    "text": "the Supreme Court sitting at assizes.\";",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      260,
+      236,
+      25,
+      13
+    ],
+    "text": "aud",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      140,
+      259,
+      419,
+      17
+    ],
+    "text": ": (2) by the repeal of sub-section (4) of that Seotion.",
+    "mean_p_confidence": 0.72
+  }
+]
