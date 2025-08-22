@@ -1,0 +1,2565 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      123,
+      20,
+      376,
+      30
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      214,
+      66,
+      195,
+      19
+    ],
+    "text": "4th Session 1968-69 Lg",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      264,
+      143,
+      268,
+      54
+    ],
+    "text": "Ser 1 gegen 2 j",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      260,
+      177,
+      265,
+      19
+    ],
+    "text": "Spe im 3 f. f",
+    "mean_p_confidence": -0.0
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      246,
+      220,
+      235,
+      36
+    ],
+    "text": "Ra",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      102,
+      277,
+      411,
+      41
+    ],
+    "text": "Industrial Disputes (Special",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      138,
+      330,
+      338,
+      39
+    ],
+    "text": "Provisions) Act, No. 37",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      252,
+      384,
+      107,
+      28
+    ],
+    "text": "of 1968",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      193,
+      504,
+      222,
+      14
+    ],
+    "text": "Date of Assent : September 4, 1968",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      176,
+      611,
+      238,
+      14
+    ],
+    "text": "Printed on the Orders of Governn,.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      122,
+      721,
+      389,
+      31
+    ],
+    "text": "Burchutea'et the Goveurant Pomacenne Sonia, Coen",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      120,
+      751,
+      362,
+      32
+    ],
+    "text": "eens, Rag tate eae",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      122,
+      776,
+      359,
+      32
+    ],
+    "text": "Destmiber mech fer io. renter fhe ven foley Lae",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      122,
+      797,
+      317,
+      22
+    ],
+    "text": "se Ta aateocn aes Mae",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      120,
+      828,
+      359,
+      13
+    ],
+    "text": "Price : 35 cents. Postage 10 cents.",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      116,
+      21,
+      293,
+      17
+    ],
+    "text": "Industrial Disputes (Special Provisions)",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      188,
+      38,
+      150,
+      17
+    ],
+    "text": "Act, No. 97 of 1968",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      71,
+      105,
+      13
+    ],
+    "text": "L. B,O, 22/67.",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      96,
+      388,
+      13
+    ],
+    "text": "AN ACT 10 PROVIDE FOR THE REMOVAL OF CERTAIN",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      101,
+      114,
+      355,
+      10
+    ],
+    "text": "DIFFICULTIES IN THE SETTLEMENT OF INDUSTRIAL",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      53,
+      127,
+      403,
+      14
+    ],
+    "text": "+ DISPUTES AND OTHER MATTERS UNDER THE INDUS-",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      100,
+      145,
+      356,
+      12
+    ],
+    "text": "eral Disputes ACT WHICH HAVE ARISEN IN",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      101,
+      160,
+      356,
+      15
+    ],
+    "text": "CONSEQUENCE OF DECISIONS MADE BY THE SUPREME",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      101,
+      176,
+      355,
+      14
+    ],
+    "text": "COURT AND DECISIONS MADE ON APPEAL TO Her",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      101,
+      194,
+      355,
+      14
+    ],
+    "text": "Masesty 1N COUNCIL, AND 70 PROVIDE FOR MATTERS",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      101,
+      212,
+      423,
+      11
+    ],
+    "text": "CONNECTED THEREWITH OR INCIDENTAL THERETO, .",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      123,
+      237,
+      277,
+      19
+    ],
+    "text": "[Date of Assent; September 4, 1968]",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      268,
+      386,
+      18
+    ],
+    "text": "BE it enacted by the Queens Most Excellent Majesty,",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      284,
+      388,
+      17
+    ],
+    "text": "by and with the advice and consent of the Senate and",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      301,
+      387,
+      17
+    ],
+    "text": "the House of Representatives of Ceylon in this present.",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      316,
+      387,
+      18
+    ],
+    "text": "Parliament assembled, and by the authority of the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      334,
+      145,
+      15
+    ],
+    "text": "same, es follows:",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      373,
+      440,
+      18
+    ],
+    "text": "4. This Act may be cited as the Industrial Disputes shor sti,",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      392,
+      304,
+      17
+    ],
+    "text": "{Special Provisions) Act, No. 37 of 1968.",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      427,
+      451,
+      18
+    ],
+    "text": "2. (1) Every president of a labour tribunal shall Yolilaiea of",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      440,
+      465,
+      22
+    ],
+    "text": "be appointed by the Public Service Commission and, {ravi",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      51,
+      453,
+      463,
+      36
+    ],
+    "text": "_ subject to the provisions of sub-section 1, every fahee",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      470,
+      448,
+      40
+    ],
+    "text": "president of a labour tribunal Sppoin by the ibunale-",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      492,
+      386,
+      18
+    ],
+    "text": "Tudicial Service Commission prior to the relevant date",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      508,
+      385,
+      17
+    ],
+    "text": "shall be deemed to bave been, and to be, validly",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      525,
+      325,
+      18
+    ],
+    "text": "appointed by the Public Service Commission.",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84,
+      553,
+      368,
+      18
+    ],
+    "text": "(2) Nothing in sub-section (1) shall be deemed or",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      569,
+      408,
+      18
+    ],
+    "text": "construed to validate any order of any Jabour tribunal +",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      585,
+      385,
+      20
+    ],
+    "text": "which was subsequently quashed by any relevant deci-",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66,
+      602,
+      385,
+      20
+    ],
+    "text": "sion of the Supreme Court on appeal or on application",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      618,
+      118,
+      18
+    ],
+    "text": "by way of writ:",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82,
+      646,
+      369,
+      17
+    ],
+    "text": "Provided, however, that nothing in the preceding",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      650,
+      386,
+      30
+    ],
+    "text": "provisions of this sub-section Shall be doomed or cone",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      679,
+      386,
+      18
+    ],
+    "text": "frued to preclude or prevent such appeal or application",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      695,
+      386,
+      18
+    ],
+    "text": "by way of writ from being entertained, heard and",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      711,
+      419,
+      18
+    ],
+    "text": "decided ds novo by the Supreme Court, as hereafter",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65,
+      729,
+      461,
+      15
+    ],
+    "text": "Provided in this Act. :",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81,
+      765,
+      448,
+      17
+    ],
+    "text": "%. Where a labour tribunal had made order, before spec! part",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64,
+      773,
+      474,
+      42
+    ],
+    "text": "the relevant date, rejecting or dismissing any splice: sine appleble",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64,
+      797,
+      454,
+      19
+    ],
+    "text": "tion on the ground that such application had been ijewed or",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64,
+      812,
+      459,
+      21
+    ],
+    "text": "made at a time when the president of such tribunal Syst",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64,
+      819,
+      383,
+      29
+    ],
+    "text": "had been appointed by the Public Service Commission,",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64,
+      846,
+      404,
+      15
+    ],
+    "text": "such order of such tribunal shall be deemed to have ~",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      40,
+      27,
+      474,
+      22
+    ],
+    "text": ": 2 Industrial Disputes (Special Provisions)",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      40,
+      45,
+      402,
+      18
+    ],
+    "text": "q Act, No. 87 of 1988",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      174,
+      77,
+      387,
+      18
+    ],
+    "text": "been, and to be, null and void and such tribunal ie",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      174,
+      93,
+      386,
+      20
+    ],
+    "text": "hereby empowered, authorized and required, and shall",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      174,
+      110,
+      386,
+      19
+    ],
+    "text": "have jurisdiction, to entertain, bear and determine",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      174,
+      126,
+      404,
+      20
+    ],
+    "text": "such application de nova under'the principal Act,",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      73,
+      157,
+      486,
+      43
+    ],
+    "text": "Special provi. 4. (1) Subject to the provisions of sub-section ).",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77,
+      175,
+      482,
+      23
+    ],
+    "text": "to'bduma every panel appointed by the Governor-General under",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      76,
+      184,
+      483,
+      31
+    ],
+    "text": "Bai mel. sub-section wo of section 22 of the principal Act, and",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      76,
+      203,
+      483,
+      29
+    ],
+    "text": "Sinetea every industriel court constituted irom sich panel by",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      48,
+      226,
+      511,
+      21
+    ],
+    "text": "+ elerenets mate the Minister, whether before or on or after the relevant",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      76,
+      245,
+      483,
+      19
+    ],
+    "text": "i date, shall be deemed to have been, and to be, validly",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      36,
+      261,
+      329,
+      19
+    ],
+    "text": "\\ appointed and constituted.",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      37,
+      286,
+      522,
+      31
+    ],
+    "text": "' 2) Subject to the provisions of sub-section (8), erery",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      37,
+      299,
+      517,
+      22
+    ],
+    "text": "| reference of any industrial dispute under the principal",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      36,
+      318,
+      522,
+      18
+    ],
+    "text": "| Act, whether before or on or after the relevant date,",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      36,
+      329,
+      521,
+      41
+    ],
+    "text": "i. to any industrial court referred to in sub-section nD,",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      36,
+      340,
+      522,
+      39
+    ],
+    "text": "| shall be deemed to have been, and to be, a valid",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      170,
+      368,
+      388,
+      17
+    ],
+    "text": "reference and every industrial court shall be deemed",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      170,
+      384,
+      388,
+      18
+    ],
+    "text": "to have been, and to be, duly authorized to settle every",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      170,
+      400,
+      388,
+      18
+    ],
+    "text": "Industrial dispute referred to such court under the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      169,
+      417,
+      417,
+      23
+    ],
+    "text": "principal Act. \\",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      186,
+      444,
+      372,
+      30
+    ],
+    "text": "(8) Nothing in sub-section (98 sub-cection (8) shalt",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      169,
+      460,
+      413,
+      20
+    ],
+    "text": "be deemed or construed to validate any award of any",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      169,
+      477,
+      417,
+      24
+    ],
+    "text": "industrial court where such award was subsequently |",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      168,
+      493,
+      390,
+      18
+    ],
+    "text": "quashed by any relevant decision of the Supreme Court",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      168,
+      509,
+      223,
+      18
+    ],
+    "text": "on application by way of writ:",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      185,
+      536,
+      373,
+      18
+    ],
+    "text": "Provided, however, that nothing in the preceding",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      167,
+      553,
+      390,
+      19
+    ],
+    "text": "provisions of this sub-section shall be deemed or",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      141,
+      569,
+      416,
+      18
+    ],
+    "text": ". construed to preclude or prevent such application by",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      167,
+      585,
+      390,
+      18
+    ],
+    "text": "way of writ, from being entertained, heard and",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      168,
+      602,
+      389,
+      17
+    ],
+    "text": "decided de novo by the Supreme Court as hereafter",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      168,
+      618,
+      156,
+      16
+    ],
+    "text": "provided in this Act.",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70,
+      654,
+      516,
+      18
+    ],
+    "text": "Special mori; 8. (1) Subject to the provisions of sub-section (8), =",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      69,
+      668,
+      488,
+      23
+    ],
+    "text": "Er Lieulos every arbitrator nominated or appointed under the",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      68,
+      689,
+      489,
+      21
+    ],
+    "text": "ted geainutoot principal Act, whether before or on or after the",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      69,
+      710,
+      487,
+      21
+    ],
+    "text": "sai releanont relevant date, shall be deemed to have been, and to be,",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      69,
+      725,
+      415,
+      28
+    ],
+    "text": "giiutos. validly nominated or appointed a",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      186,
+      759,
+      370,
+      19
+    ],
+    "text": "(@) Subject to the provisions of sub-section (8), every",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      169,
+      777,
+      387,
+      19
+    ],
+    "text": "rofevence of any industrial dispute under the principal",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      168,
+      795,
+      386,
+      18
+    ],
+    "text": "Act, whether before or on or after the relevant date,",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      168,
+      815,
+      418,
+      18
+    ],
+    "text": "to any arbitrator referred to in sub-section (1), or to ,-",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      168,
+      832,
+      387,
+      18
+    ],
+    "text": "any labour tribunal shall be deemed to have been, and",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      36,
+      849,
+      518,
+      22
+    ],
+    "text": "' to be, & valid reference, and every arbitrator and",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      118,
+      30,
+      339,
+      17
+    ],
+    "text": "Industrial Disputes (Special Provisions) 3",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      189,
+      47,
+      150,
+      16
+    ],
+    "text": "Act, No, 87 of 1968",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73,
+      78,
+      384,
+      16
+    ],
+    "text": "lebour tribunal shall be deemed to have been, and to",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73,
+      97,
+      384,
+      18
+    ],
+    "text": "be, duly authorized to settle every industrial dispute",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73,
+      116,
+      384,
+      15
+    ],
+    "text": "referred to such arbitrator or labour tribunal under",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      54,
+      136,
+      148,
+      17
+    ],
+    "text": "* the principal Act.",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      88,
+      163,
+      369,
+      18
+    ],
+    "text": "(8) Nothing in sub-section (1) or sub-section (2) shall",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72,
+      181,
+      385,
+      17
+    ],
+    "text": "be deemed or construed to validate any award of any",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71,
+      200,
+      385,
+      19
+    ],
+    "text": "arbitrator or any labour tribunal where such award",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72,
+      218,
+      384,
+      19
+    ],
+    "text": "was subsequently quashed by a relevant decision of the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71,
+      237,
+      336,
+      18
+    ],
+    "text": "Sopreme Court on application by way of writ:",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      87,
+      269,
+      369,
+      18
+    ],
+    "text": "Provided, however, that nothing in the preceding",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70,
+      287,
+      385,
+      18
+    ],
+    "text": "provisions of this sub-section shall be deemed or",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70,
+      305,
+      385,
+      19
+    ],
+    "text": "constrned to preclude or prevent such application by",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71,
+      323,
+      384,
+      19
+    ],
+    "text": "way of writ, from being entertained, heard and",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70,
+      342,
+      384,
+      18
+    ],
+    "text": "decided de nove by the Supreme Court as hereafter",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70,
+      361,
+      154,
+      16
+    ],
+    "text": "Provided in this Act.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86,
+      396,
+      452,
+      19
+    ],
+    "text": "8. Where any order of any labour tribunal was spais! por.",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70,
+      410,
+      465,
+      23
+    ],
+    "text": "subsequently quashed by a relevant decision of the $'sdua",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70,
+      432,
+      458,
+      19
+    ],
+    "text": "Supreme Court on appeal or on application by way of Seu oy",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71,
+      450,
+      462,
+      22
+    ],
+    "text": "writ on the ground that the president of such tribunal, $ Supra",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70,
+      463,
+      479,
+      24
+    ],
+    "text": "not having been validly appointed, had no jurisdiction fee: st\"",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70,
+      484,
+      477,
+      20
+    ],
+    "text": "to make such order, the following provisions shal] tar tbent.",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70,
+      505,
+      385,
+      18
+    ],
+    "text": "apply in the case of such appeal or application by way",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70,
+      524,
+      228,
+      18
+    ],
+    "text": "of writ, as the case may be:",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      88,
+      551,
+      367,
+      18
+    ],
+    "text": "(@) such decision of the Supreme Court shall be",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      137,
+      567,
+      318,
+      17
+    ],
+    "text": "deemed to have been, and to be, null and",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      136,
+      585,
+      36,
+      16
+    ],
+    "text": "void;",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      88,
+      612,
+      367,
+      17
+    ],
+    "text": "() such sppeal or application by way of writ shall",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      101,
+      614,
+      354,
+      32
+    ],
+    "text": "ae Mbemel to be an appeal. se application",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      137,
+      645,
+      317,
+      19
+    ],
+    "text": "which was not decided by the Supreme Court,",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      137,
+      661,
+      318,
+      18
+    ],
+    "text": "bot to be an appeal or application made",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      137,
+      662,
+      305,
+      39
+    ],
+    "text": "de nozo to such Curt on the relevant date;",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89,
+      708,
+      366,
+      18
+    ],
+    "text": "() the Supreme Court is hereby empowered and",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      138,
+      724,
+      318,
+      16
+    ],
+    "text": "authorized, and shall have jurisdiction, to",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      138,
+      740,
+      317,
+      17
+    ],
+    "text": "entertain, hear and decide such appeal or",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      138,
+      757,
+      179,
+      18
+    ],
+    "text": "application de novo; and",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89,
+      784,
+      366,
+      19
+    ],
+    "text": "(@ the practice and procedure to be followed by",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      138,
+      801,
+      317,
+      18
+    ],
+    "text": "the Supreme Court in entertaining, hearing",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83,
+      817,
+      371,
+      18
+    ],
+    "text": ". and deciding such appeal or application",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      87,
+      823,
+      367,
+      27
+    ],
+    "text": ". de novo shail be as determined by order of",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      138,
+      850,
+      130,
+      15
+    ],
+    "text": "the Chief Justice,",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      170,
+      23,
+      340,
+      18
+    ],
+    "text": "4 Industrial Disputes (Special Provisions)",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      289,
+      40,
+      149,
+      16
+    ],
+    "text": "Act, No. 87 of 1968",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      73,
+      72,
+      482,
+      19
+    ],
+    "text": "Special provi- 7. Where any award of any industrial court,",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      73,
+      77,
+      483,
+      26
+    ],
+    "text": "ZEEE aehitrator or labour tribunal on a teference under the",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      73,
+      104,
+      483,
+      20
+    ],
+    "text": "slant principal Act was subsequently quashed by any",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72,
+      120,
+      484,
+      21
+    ],
+    "text": "tbe Supreme relevant decision of the Supreme Court on application",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72,
+      137,
+      507,
+      20
+    ],
+    "text": "Goat in respect, by way of writ, on the ground that such industrial ~",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72,
+      154,
+      484,
+      16
+    ],
+    "text": "Sticemt, court was not validly constituted, or such arbitrator",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72,
+      169,
+      485,
+      20
+    ],
+    "text": "{nour sibteals gr president of such tribunal was not validly appointed.",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      68,
+      174,
+      489,
+      35
+    ],
+    "text": "care, to osereise jurisdiction in the matter to whieh euch",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      171,
+      191,
+      386,
+      29
+    ],
+    "text": "reference related, the following provisions shall apply",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      171,
+      219,
+      363,
+      17
+    ],
+    "text": "in the case of such application by way of writ",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      187,
+      247,
+      369,
+      17
+    ],
+    "text": "(@) such decision of the Supreme Court shall be",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      235,
+      264,
+      321,
+      16
+    ],
+    "text": "deemed to have been, and to be, null and",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      235,
+      280,
+      36,
+      15
+    ],
+    "text": "void;",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      187,
+      300,
+      370,
+      19
+    ],
+    "text": "(2) such application shall be deemed to be an appli-",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      235,
+      316,
+      322,
+      16
+    ],
+    "text": "cation which was not decided by the Supreme",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      235,
+      332,
+      322,
+      17
+    ],
+    "text": "Court, but to be an application by way of",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      235,
+      348,
+      322,
+      15
+    ],
+    "text": "writ made de novo to such Court on the",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      235,
+      366,
+      101,
+      15
+    ],
+    "text": "Televant date;",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      187,
+      385,
+      370,
+      18
+    ],
+    "text": "() the Supreme Court is hereby empowered and",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      235,
+      401,
+      322,
+      17
+    ],
+    "text": "authorized, and shall have jurisdiction, to",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      234,
+      417,
+      323,
+      17
+    ],
+    "text": "entertain, hear and decide such application",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      235,
+      435,
+      93,
+      15
+    ],
+    "text": "de novo; and",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      186,
+      453,
+      371,
+      19
+    ],
+    "text": "(@) the practice and procedure to be followed by",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      235,
+      466,
+      348,
+      36
+    ],
+    "text": "the Supreme Court in entertaining, hearing iad",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      234,
+      486,
+      313,
+      18
+    ],
+    "text": "and deciding such application de novo shal",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      234,
+      502,
+      323,
+      18
+    ],
+    "text": "be as determined by order of the Chief",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      233,
+      521,
+      56,
+      13
+    ],
+    "text": "Tastice.",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      69,
+      546,
+      487,
+      21
+    ],
+    "text": "Speil ped: = g, (1) Where any action which was instituted",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      69,
+      561,
+      487,
+      33
+    ],
+    "text": "woman against any person before a Magistrate prior to the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      69,
+      574,
+      487,
+      28
+    ],
+    "text": "key relevant date in respect of any order or award under",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      64,
+      590,
+      492,
+      31
+    ],
+    "text": "aa. the principal Act, was not entertained or was dis-",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      167,
+      604,
+      389,
+      42
+    ],
+    "text": "missed by order of such Magistrate on the ground that",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      167,
+      621,
+      388,
+      41
+    ],
+    "text": "the industrial court, arbitrator or presi lent of the",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      167,
+      645,
+      388,
+      15
+    ],
+    "text": "jabour tribunal which made such order or award was",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      167,
+      660,
+      388,
+      19
+    ],
+    "text": "not validly constituted or appointed to make such order",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      167,
+      678,
+      365,
+      18
+    ],
+    "text": "or award, the following provisions shall apply:",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      185,
+      706,
+      370,
+      17
+    ],
+    "text": "(i) the order of such Magistrate sball be deemed to",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      232,
+      712,
+      261,
+      27
+    ],
+    "text": "have been, and to be, null and void;",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      179,
+      746,
+      375,
+      17
+    ],
+    "text": "(ii) such action shall be deemed to be an action",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      232,
+      763,
+      322,
+      17
+    ],
+    "text": "instituted de novo before such Magistrate on",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      232,
+      780,
+      129,
+      16
+    ],
+    "text": "the relevant date;",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      176,
+      803,
+      377,
+      20
+    ],
+    "text": "(iii) such Magistrate is hereby empowered, autho-",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      231,
+      809,
+      346,
+      30
+    ],
+    "text": "tized and required, and shall bave juriedio- +",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      231,
+      836,
+      322,
+      17
+    ],
+    "text": "tion, to entertain, hear and decide such action",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      231,
+      853,
+      95,
+      16
+    ],
+    "text": "de novo; end",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      119,
+      19,
+      336,
+      19
+    ],
+    "text": "Industrial Disputes (Special Provisions) 8",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      189,
+      37,
+      148,
+      16
+    ],
+    "text": "Act, No. 37 of 1068",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      79,
+      69,
+      376,
+      17
+    ],
+    "text": "{iv) the practice and procedure to be followed by",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      135,
+      77,
+      321,
+      42
+    ],
+    "text": "such Magistrate in entertaining, hearing and",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      136,
+      101,
+      320,
+      17
+    ],
+    "text": "deciding such action de novo shall be as",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      136,
+      118,
+      296,
+      16
+    ],
+    "text": "determined by order of the Chief Justice.",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      87,
+      150,
+      369,
+      16
+    ],
+    "text": "(2) For the purposes of this section, the term",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71,
+      166,
+      384,
+      17
+    ],
+    "text": "action includes any application, petition, suit or",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70,
+      182,
+      385,
+      17
+    ],
+    "text": "prosecution, or any other proceedings by whatsoever",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70,
+      198,
+      198,
+      17
+    ],
+    "text": "name or designation called.",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86,
+      231,
+      443,
+      16
+    ],
+    "text": "9. The provisions of this Act shall be in addition tis aa",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69,
+      247,
+      471,
+      20
+    ],
+    "text": "to, and not in derogation of, the provisions of the mers! im the",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70,
+      261,
+      464,
+      20
+    ],
+    "text": "principal Act or any other written law, and accord- Scane\\or?",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70,
+      279,
+      463,
+      20
+    ],
+    "text": "Ingly shall be read and construed as one with the Insmasianey",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70,
+      290,
+      466,
+      34
+    ],
+    "text": "principal Act or such other written law: petocipal jo",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      471,
+      313,
+      49,
+      11
+    ],
+    "text": "orsay ai",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86,
+      322,
+      447,
+      22
+    ],
+    "text": "Provided, however, that in the event of any conflict * \"*",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69,
+      344,
+      386,
+      28
+    ],
+    "text": "or inconsistency between the provisions of this Act and",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70,
+      359,
+      385,
+      18
+    ],
+    "text": "the provisions of the prineipat Aet-or any other written",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70,
+      368,
+      385,
+      41
+    ],
+    "text": "law, the provisions of this Act shall prevail over the",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69,
+      384,
+      386,
+      41
+    ],
+    "text": "provisions of the Principal Act or such other written",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      75,
+      408,
+      355,
+      17
+    ],
+    "text": "law to the extent of euch conflict or inconsistency.",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86,
+      449,
+      461,
+      16
+    ],
+    "text": "10. The provisions of this Act shall, for all the povsian",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69,
+      459,
+      478,
+      38
+    ],
+    "text": "purposes and in all respects, be as valid and effectual f 4% %,",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70,
+      473,
+      478,
+      41
+    ],
+    "text": "as though those provisions were in an Act for the madmen",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70,
+      489,
+      468,
+      41
+    ],
+    "text": "amendment of the Ceylon (Constitution) Order in te Spa",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70,
+      513,
+      444,
+      17
+    ],
+    "text": "Council, 1948, enacted by Parliament after compliance One m",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70,
+      523,
+      472,
+      39
+    ],
+    "text": "with the requirement imposed by the proviso to sub- S7meih 106.",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69,
+      546,
+      362,
+      16
+    ],
+    "text": "section (4) of section 29 of that Order in Conneil.",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86,
+      582,
+      461,
+      16
+    ],
+    "text": "41, In this Act, unless the context otherwise interpretation.",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70,
+      599,
+      73,
+      16
+    ],
+    "text": "requires",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      87,
+      619,
+      368,
+      41
+    ],
+    "text": "appeal means any appeal under section 31 of",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      135,
+      643,
+      132,
+      17
+    ],
+    "text": "the principal Act",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      87,
+      672,
+      368,
+      17
+    ],
+    "text": "application , in relation to a labour tribunal,",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      135,
+      680,
+      321,
+      42
+    ],
+    "text": "means an application under section 818 of",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      135,
+      705,
+      133,
+      17
+    ],
+    "text": "the principal Act;",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      87,
+      732,
+      369,
+      19
+    ],
+    "text": "principal Act means the Industrial Disputes",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      135,
+      750,
+      255,
+      15
+    ],
+    "text": "Act, as amended from time to time;",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86,
+      777,
+      292,
+      17
+    ],
+    "text": "relevant date means March 9, 1967;",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      87,
+      806,
+      369,
+      19
+    ],
+    "text": "relevant decision, in relation to the Supreme",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      135,
+      823,
+      321,
+      17
+    ],
+    "text": "Court, means a decision made by euch Court",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      134,
+      839,
+      189,
+      20
+    ],
+    "text": "prior to the relevant date.",
+    "mean_p_confidence": 0.79
+  }
+]

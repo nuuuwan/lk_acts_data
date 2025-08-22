@@ -1,0 +1,750 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      130,
+      27,
+      398,
+      29
+    ],
+    "text": "PARLIAMENT OF CEYLON...",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      474,
+      51,
+      79,
+      22
+    ],
+    "text": "PE",
+    "mean_p_confidence": 0.02
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      224,
+      70,
+      339,
+      29
+    ],
+    "text": "3rd Session 1967-68 oN",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      432,
+      100,
+      135,
+      16
+    ],
+    "text": "Blane. t",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      417,
+      109,
+      130,
+      28
+    ],
+    "text": "esa",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      300,
+      143,
+      229,
+      27
+    ],
+    "text": "Ey Meee",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      292,
+      167,
+      248,
+      26
+    ],
+    "text": "GSD oh",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      273,
+      202,
+      93,
+      47
+    ],
+    "text": "te Ko) 1H",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      274,
+      240,
+      82,
+      23
+    ],
+    "text": "Way my",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      264,
+      254,
+      115,
+      16
+    ],
+    "text": "Gyn fue",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      261,
+      249,
+      115,
+      35
+    ],
+    "text": "Mey",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      111,
+      331,
+      414,
+      40
+    ],
+    "text": "Customs (Amendment) Act,",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      213,
+      384,
+      218,
+      29
+    ],
+    "text": "No. 23 of 1968",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      85,
+      518,
+      446,
+      17
+    ],
+    "text": "7 Date of Assent : June 16, 1968 oo",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      116,
+      637,
+      396,
+      14
+    ],
+    "text": ". Printed on the Orders of Government .",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143,
+      751,
+      361,
+      15
+    ],
+    "text": "Painted at the Govminmen Prat, Corot. To be",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143,
+      763,
+      361,
+      17
+    ],
+    "text": "Peete Ah te a SU, antl",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143,
+      781,
+      361,
+      16
+    ],
+    "text": "ema) Suberpten Cncloting Bl) Ra. 80 (LeeaD), Re 4",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      146,
+      790,
+      362,
+      21
+    ],
+    "text": "(Foreign), payable to the Superirenpent, Govrawncent",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144,
+      807,
+      360,
+      17
+    ],
+    "text": "Pvsctcamions Burcav, P. 0, Box 500, Covomno 1, before 20th",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144,
+      821,
+      360,
+      17
+    ],
+    "text": "Bomraiona Boma Oa tke yous folowing kate",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143,
+      834,
+      361,
+      19
+    ],
+    "text": "December cath FOE coped: on the condion thet",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161,
+      848,
+      325,
+      17
+    ],
+    "text": "Ser i oe yee wil nat be Pood",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      105,
+      32,
+      323,
+      16
+    ],
+    "text": "Customs (Amendment) Act, No. 23 of 1968",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      64,
+      102,
+      13
+    ],
+    "text": "L, D.0. 18/67.",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98,
+      85,
+      337,
+      14
+    ],
+    "text": "AN Act To AMEND THE Customs OnpINaNce.",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      145,
+      116,
+      244,
+      17
+    ],
+    "text": "(Date of Assent: June 16, 1968]",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      152,
+      386,
+      17
+    ],
+    "text": "BE it enacted by the Queens Most Excellent Majesty,",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      168,
+      387,
+      30
+    ],
+    "text": "by and with the edviee and consent of the Senate and",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      100,
+      184,
+      360,
+      17
+    ],
+    "text": "House of Representatives of Ceylon in this present",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      200,
+      387,
+      17
+    ],
+    "text": "Parliament assembled, and by tha authority of the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      217,
+      143,
+      15
+    ],
+    "text": "same, ag follows :",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      244,
+      442,
+      18
+    ],
+    "text": "4. This Act may be cited as the Customs (Amend- Stor ule",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      262,
+      193,
+      15
+    ],
+    "text": "ment) Act, No. 23 of 1968,",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      288,
+      461,
+      16
+    ],
+    "text": "2. Section 153 of the Customs Ordinance is hereby Replacement ot",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      302,
+      467,
+      21
+    ],
+    "text": "repealed, and the following new section substituted {uce rit!",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      322,
+      84,
+      13
+    ],
+    "text": "therefor :",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69,
+      344,
+      257,
+      27
+    ],
+    "text": "eohiplcasian of 153. The amount",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      365,
+      386,
+      17
+    ],
+    "text": "peaalien, hes (1) of all forfeitares and penalties",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      236,
+      381,
+      223,
+      15
+    ],
+    "text": "recovered under this Ordinance,",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      236,
+      397,
+      224,
+      14
+    ],
+    "text": "or uoder this Ordinance read",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      236,
+      413,
+      224,
+      17
+    ],
+    "text": "with the provisions of any other",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      236,
+      430,
+      123,
+      15
+    ],
+    "text": "written law; and",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      188,
+      450,
+      272,
+      17
+    ],
+    "text": "(2) of the proceeds of all such goods",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      237,
+      465,
+      223,
+      17
+    ],
+    "text": "as may be disposed of by the",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      236,
+      482,
+      224,
+      17
+    ],
+    "text": "Principal Collector of Customs",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      237,
+      498,
+      223,
+      13
+    ],
+    "text": "under section 162 of this",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      236,
+      514,
+      224,
+      15
+    ],
+    "text": "Ordinance, or of this Ordinance",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      236,
+      530,
+      224,
+      29
+    ],
+    "text": "teed with the provisions of any",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      236,
+      547,
+      134,
+      15
+    ],
+    "text": "other written law,",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      566,
+      390,
+      19
+    ],
+    "text": ": shall be paid into the hands of such",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      171,
+      583,
+      289,
+      16
+    ],
+    "text": "Collector and shall (after deducting any",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      170,
+      599,
+      290,
+      17
+    ],
+    "text": "expenses incurred) be paid and applied",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      170,
+      616,
+      98,
+      13
+    ],
+    "text": "as follows:",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      187,
+      635,
+      272,
+      29
+    ],
+    "text": "(2) one half to the Deputy Secretary",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      652,
+      390,
+      18
+    ],
+    "text": ". to the Treasury for the purposes",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      131,
+      667,
+      329,
+      17
+    ],
+    "text": ". of the general revenue of",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      236,
+      684,
+      88,
+      17
+    ],
+    "text": "Ceylon; and",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      186,
+      704,
+      273,
+      16
+    ],
+    "text": "() the other half into fund under",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      236,
+      720,
+      224,
+      14
+    ],
+    "text": "the control of such Collector for",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      235,
+      736,
+      224,
+      14
+    ],
+    "text": "distribution in his absolute dis-",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      232,
+      749,
+      228,
+      37
+    ],
+    "text": "cretion among the officers con-",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      235,
+      769,
+      208,
+      13
+    ],
+    "text": "cerned and the informers..",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88,
+      797,
+      452,
+      14
+    ],
+    "text": "3. The amendment made in the Customs Ordinance Ratrospstiny",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      807,
+      467,
+      39
+    ],
+    "text": "by section 2 of this Act shall be deemed, for ail pur. eheet Jo be",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      830,
+      453,
+      15
+    ],
+    "text": "poses, to have come into force and to have taken effect Scton'2.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      846,
+      371,
+      14
+    ],
+    "text": "on the date of the commencement of that Ordinance.",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      865,
+      100,
+      10
+    ],
+    "text": "10000 -5.900 (12807)",
+    "mean_p_confidence": 0.2
+  }
+]

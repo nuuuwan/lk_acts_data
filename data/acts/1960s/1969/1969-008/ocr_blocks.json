@@ -1,0 +1,574 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      24,
+      17,
+      235,
+      15
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      82,
+      42,
+      119,
+      11
+    ],
+    "text": "4th Session 1968-69",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      13,
+      181,
+      252,
+      19
+    ],
+    "text": "Local Government Service",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      4,
+      211,
+      270,
+      25
+    ],
+    "text": "Pensions (Special Provisions)",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      24,
+      242,
+      229,
+      24
+    ],
+    "text": "(Amendment) Act, No. 8",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      104,
+      273,
+      68,
+      17
+    ],
+    "text": "of 1969",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      75,
+      339,
+      127,
+      8
+    ],
+    "text": "Dat of An: Ap 3, 8",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59,
+      385,
+      160,
+      9
+    ],
+    "text": "Print ot Orr of Gover",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      9,
+      397,
+      261,
+      8
+    ],
+    "text": "sent pied ar Supieme fo Cerin Govern Gas,",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      91,
+      408,
+      96,
+      9
+    ],
+    "text": "Par of oy Ta",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      26,
+      455,
+      227,
+      14
+    ],
+    "text": "SUSE de SRL SEM Etat",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      25,
+      495,
+      227,
+      20
+    ],
+    "text": "\"Ea",
+    "mean_p_confidence": 0.04
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      28,
+      16,
+      203,
+      10
+    ],
+    "text": "at Gawramen Sis Pos (Sci",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      32,
+      26,
+      195,
+      11
+    ],
+    "text": "tat Somers Ss fmt",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      18,
+      42,
+      63,
+      8
+    ],
+    "text": "pe ae",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      10,
+      54,
+      240,
+      9
+    ],
+    "text": "beac po te Toc Gora Some",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      11,
+      65,
+      236,
+      10
+    ],
+    "text": "acs qo Me eoears Sat",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      54,
+      79,
+      151,
+      12
+    ],
+    "text": "[Detof Awe Spr, 1]",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      11,
+      97,
+      240,
+      12
+    ],
+    "text": "Ef caved ty in Ques Mat, clit",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      10,
+      107,
+      241,
+      19
+    ],
+    "text": "Bia et ma er Mee ara",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      11,
+      117,
+      239,
+      10
+    ],
+    "text": "ela te a Spee i",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      11,
+      127,
+      240,
+      11
+    ],
+    "text": "Sede eee aimed Gri",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      10,
+      138,
+      165,
+      10
+    ],
+    "text": "Sarr eee",
+    "mean_p_confidence": 0.07
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      20,
+      159,
+      275,
+      9
+    ],
+    "text": "4, This ot may cad ut Tl Gre. eeae",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      11,
+      163,
+      240,
+      17
+    ],
+    "text": "Si ae oes",
+    "mean_p_confidence": 0.05
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      12,
+      180,
+      84,
+      10
+    ],
+    "text": "srg, ere",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      20,
+      202,
+      286,
+      9
+    ],
+    "text": "sen 4 of tn Loa Goer Snice sme",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      11,
+      210,
+      286,
+      22
+    ],
+    "text": "nici Ghelal beoniay gee Beak We SES",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      33,
+      222,
+      253,
+      11
+    ],
+    "text": "so rca nraiueg) Ae I, BE",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      11,
+      223,
+      160,
+      19
+    ],
+    "text": "coe ceria",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      25,
+      252,
+      227,
+      10
+    ],
+    "text": ") neti se ernie * pro",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      21,
+      253,
+      231,
+      28
+    ],
+    "text": "(9 aie bee a",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      52,
+      279,
+      200,
+      14
+    ],
+    "text": "* provisioms of eection BT of the Local",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      0,
+      292,
+      253,
+      12
+    ],
+    "text": "5 gene tac tte",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      52,
+      303,
+      200,
+      8
+    ],
+    "text": "Se",
+    "mean_p_confidence": 0.03
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      52,
+      313,
+      201,
+      18
+    ],
+    "text": "ett ae tes ais S",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      52,
+      323,
+      201,
+      10
+    ],
+    "text": "son neta raeemtl aee",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      52,
+      333,
+      201,
+      18
+    ],
+    "text": "ORC ReneS",
+    "mean_p_confidence": -0.0
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      343,
+      86,
+      9
+    ],
+    "text": "sale",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      39,
+      360,
+      215,
+      9
+    ],
+    "text": "sep map! pte at io, ee",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      23,
+      360,
+      231,
+      20
+    ],
+    "text": "Om m erg ate a aie",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      53,
+      380,
+      201,
+      10
+    ],
+    "text": "sid, ie Seca ane",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      52,
+      390,
+      95,
+      8
+    ],
+    "text": "Se ads",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      23,
+      412,
+      278,
+      18
+    ],
+    "text": "4S on pri Aa yaad",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      23,
+      427,
+      283,
+      25
+    ],
+    "text": "(1) by | the substitution, for the expressi ae",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      44,
+      445,
+      211,
+      18
+    ],
+    "text": "te alt cree",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      54,
+      462,
+      201,
+      10
+    ],
+    "text": "provisions of section 57 or 68, ax the case",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      53,
+      472,
+      70,
+      10
+    ],
+    "text": "eo",
+    "mean_p_confidence": 0.07
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      0,
+      491,
+      256,
+      12
+    ],
+    "text": "ct serpin ot fo nt min, by he",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      53,
+      492,
+      203,
+      20
+    ],
+    "text": "clednitony dor\" tha enpeesion \"Spier",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      54,
+      511,
+      202,
+      12
+    ],
+    "text": "Sere fo oe Seale ie",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      54,
+      522,
+      84,
+      8
+    ],
+    "text": "SE ree,",
+    "mean_p_confidence": 0.29
+  }
+]

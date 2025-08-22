@@ -1,0 +1,761 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      129,
+      32,
+      382,
+      27
+    ],
+    "text": "PARLIAMENT OF CEYLON:",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      427,
+      62,
+      81,
+      15
+    ],
+    "text": "Sin",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      220,
+      71,
+      334,
+      27
+    ],
+    "text": "Ath Session 1968-69 BX",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      415,
+      88,
+      138,
+      43
+    ],
+    "text": "ey fee 8",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      289,
+      144,
+      269,
+      36
+    ],
+    "text": "Gilly ihe",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      265,
+      162,
+      272,
+      41
+    ],
+    "text": "fas ete",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      265,
+      198,
+      90,
+      24
+    ],
+    "text": "eas)",
+    "mean_p_confidence": 0.01
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      249,
+      219,
+      118,
+      29
+    ],
+    "text": "AC SON",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      253,
+      225,
+      114,
+      41
+    ],
+    "text": "x mes",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      84,
+      284,
+      455,
+      40
+    ],
+    "text": "Food and Drugs (Amendment)",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      165,
+      336,
+      287,
+      32
+    ],
+    "text": "Act, No. 35 of 1968",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62,
+      480,
+      348,
+      17
+    ],
+    "text": ". Date of Astent: August 21, 1968",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      60,
+      604,
+      405,
+      14
+    ],
+    "text": "t Printed on the Orders of Goverament .",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      116,
+      718,
+      368,
+      23
+    ],
+    "text": "Pulchoted tt thet Gommamnese Pumiations Bnas, Cove",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      112,
+      748,
+      371,
+      29
+    ],
+    "text": "Annual Subscription Gaetoging pis) Rs, 30 {Local Rs, 40",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      116,
+      763,
+      368,
+      24
+    ],
+    "text": "ig ce iC a ae i eg",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115,
+      785,
+      368,
+      22
+    ],
+    "text": "SERme pie cnartncekir armas",
+    "mean_p_confidence": 0.02
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      145,
+      806,
+      308,
+      12
+    ],
+    "text": "before the date of payment will not be suppliad.",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88,
+      825,
+      421,
+      15
+    ],
+    "text": "Price: 20 eonts Postage: 10 cents",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92,
+      30,
+      466,
+      17
+    ],
+    "text": "Food and Drugs (Amendment) Act, No. 86 of 1968 :",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      58,
+      101,
+      13
+    ],
+    "text": "L De-0. 51/89,",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      104,
+      77,
+      443,
+      22
+    ],
+    "text": "Aw Act ro augno 78 Foun ano Davos Act. (eynems",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      483,
+      101,
+      35,
+      10
+    ],
+    "text": "mage 8",
+    "mean_p_confidence": 0.42
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      149,
+      126,
+      247,
+      17
+    ],
+    "text": "(Date of Assent: August 21, 1968)",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      162,
+      453,
+      18
+    ],
+    "text": "BE it enacted by the Queens Most Excellent Majesty, :",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      182,
+      387,
+      17
+    ],
+    "text": "by and with the advice and consent of the Senate and",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      202,
+      388,
+      19
+    ],
+    "text": "the House of Representatives of Ceylon in this present",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      223,
+      386,
+      17
+    ],
+    "text": "Parliament assembled, and by the authority of the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      244,
+      143,
+      14
+    ],
+    "text": "same, as follows:",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      95,
+      284,
+      435,
+      17
+    ],
+    "text": "4. This Act may be cited as the Food sind Drugs stom uu.",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      305,
+      253,
+      15
+    ],
+    "text": "{Amendment) Act, No. 85 of 1968.",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      95,
+      345,
+      447,
+      23
+    ],
+    "text": "2, Section 63 of the Food and Drugs Act, herein- Aepammen",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      362,
+      432,
+      20
+    ],
+    "text": "after referred to as the principal Act, is hereby 5 of.",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79,
+      381,
+      459,
+      21
+    ],
+    "text": "repealed and the following new section substituted **\" ?",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      405,
+      83,
+      13
+    ],
+    "text": "therefor :",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      430,
+      384,
+      35
+    ],
+    "text": "{Dinos 63, (1) Any fino paid or recovered in",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      455,
+      385,
+      21
+    ],
+    "text": "a moune -Teapect of an offencs under this Act",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      472,
+      388,
+      31
+    ],
+    "text": "fn report relating to any food which is not an ex-",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      497,
+      382,
+      18
+    ],
+    "text": "tscom. cisable article (other than an offence",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      105,
+      519,
+      356,
+      17
+    ],
+    "text": ": relating to the importation into Ceylon",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      174,
+      539,
+      287,
+      17
+    ],
+    "text": "of any such food) shall be credited to the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      174,
+      559,
+      286,
+      17
+    ],
+    "text": "funds of the local authority within the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      174,
+      579,
+      286,
+      14
+    ],
+    "text": "administrative area of which such",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      173,
+      600,
+      160,
+      14
+    ],
+    "text": "offence was committed.",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      190,
+      641,
+      269,
+      17
+    ],
+    "text": "(2) Any fine paid or recovered in",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      174,
+      660,
+      240,
+      19
+    ],
+    "text": "reepect of an offence relating to",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      190,
+      692,
+      269,
+      19
+    ],
+    "text": "@ any food which is an excisable",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      237,
+      714,
+      71,
+      15
+    ],
+    "text": "article, or",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      187,
+      748,
+      120,
+      16
+    ],
+    "text": "Gi) any drug, or",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      182,
+      778,
+      276,
+      18
+    ],
+    "text": "(iii) the importation into Ceylon of any",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      47,
+      800,
+      289,
+      16
+    ],
+    "text": ": food or drug,",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      173,
+      827,
+      284,
+      15
+    ],
+    "text": "shall be credited to the Consolidated",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      173,
+      849,
+      117,
+      17
+    ],
+    "text": "Fund of Ceylon. .",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      60,
+      33,
+      471,
+      17
+    ],
+    "text": ". 2 Food and Drugs (Amendment) Act, No. 35 of 1968",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      55,
+      65,
+      489,
+      23
+    ],
+    "text": "sominens ot 8, Section 64 of the principal Act is hereby",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      56,
+      78,
+      489,
+      26
+    ],
+    "text": "whe amended in sub-section {1} of that section, by the",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      53,
+      97,
+      492,
+      28
+    ],
+    "text": "pesca! substitution, for the definition of drug *, of the",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      156,
+      115,
+      171,
+      18
+    ],
+    "text": "following definition:",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      173,
+      138,
+      371,
+      19
+    ],
+    "text": "* drug includes any medicine for internal or",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      222,
+      154,
+      323,
+      17
+    ],
+    "text": "external use, and any substance intended for",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      223,
+      173,
+      58,
+      13
+    ],
+    "text": "use in",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      224,
+      195,
+      321,
+      19
+    ],
+    "text": "(i) the diagnosis, treatment, mitigation or",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      272,
+      211,
+      273,
+      18
+    ],
+    "text": "prevention of any disease, disorder or",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      272,
+      228,
+      274,
+      17
+    ],
+    "text": "abnormal physical state, or of any",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      272,
+      244,
+      273,
+      18
+    ],
+    "text": "aymptom thereof, pertaining to human",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      271,
+      261,
+      166,
+      17
+    ],
+    "text": "beings or animals, and",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      223,
+      284,
+      323,
+      19
+    ],
+    "text": "Gi) restoring, correcting or modifying eny",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      272,
+      288,
+      275,
+      31
+    ],
+    "text": "organio function in buman helag or",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      272,
+      318,
+      90,
+      15
+    ],
+    "text": "en animai;.",
+    "mean_p_confidence": 0.4
+  }
+]

@@ -1,0 +1,739 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      33,
+      9,
+      235,
+      18
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88,
+      35,
+      121,
+      14
+    ],
+    "text": "4ih Session 1968-69",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      26,
+      169,
+      258,
+      19
+    ],
+    "text": "Local Government Service",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      26,
+      194,
+      259,
+      26
+    ],
+    "text": "Employees (Special Pension",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      49,
+      224,
+      212,
+      24
+    ],
+    "text": "Provisions) Act, No. 13",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      121,
+      254,
+      68,
+      19
+    ],
+    "text": "of 1969",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      2,
+      324,
+      211,
+      9
+    ],
+    "text": "Y ete At ane 188",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      7,
+      390,
+      302,
+      21
+    ],
+    "text": "Pout frre a aac apn",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      33,
+      465,
+      273,
+      20
+    ],
+    "text": "TAG Weer RTE",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      0,
+      485,
+      286,
+      30
+    ],
+    "text": "Ss PS ee",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      34,
+      506,
+      279,
+      24
+    ],
+    "text": "Sateen",
+    "mean_p_confidence": 0.0
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      31,
+      13,
+      210,
+      9
+    ],
+    "text": "Loogl Gooeraat Serica Bapayts (Spaciat",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      45,
+      13,
+      184,
+      21
+    ],
+    "text": "Brains Procsionh et 90 Ws of Seah",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      15,
+      43,
+      65,
+      9
+    ],
+    "text": "Loo wm",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      16,
+      57,
+      239,
+      9
+    ],
+    "text": "{er 70 eovibg7oR mx rome oF retin,",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      9,
+      69,
+      247,
+      16
+    ],
+    "text": "Y Surentt Eocar Govensndnr Ssarvcee 2uruoea",
+    "mean_p_confidence": 0.02
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64,
+      117,
+      143,
+      11
+    ],
+    "text": "{ae of Ase; Jun 1, 18605",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      16,
+      139,
+      240,
+      10
+    ],
+    "text": "BE, ie escad by the Gue's Mow Evatt",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      16,
+      149,
+      240,
+      18
+    ],
+    "text": "Bosc 7 fat th Gil ed Sena ie",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      15,
+      159,
+      241,
+      11
+    ],
+    "text": "Sec Sad de Hem of Santelli of Cai",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      15,
+      170,
+      241,
+      10
+    ],
+    "text": "Se then, Hatter moral aa Gets",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      15,
+      179,
+      167,
+      11
+    ],
+    "text": "Sore? of be stat ae leo",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      26,
+      202,
+      276,
+      21
+    ],
+    "text": "st Seri Enpibfou (Spr Fening Prostloa) =\"",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      15,
+      203,
+      237,
+      18
+    ],
+    "text": "ese Sot ee a",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      15,
+      213,
+      115,
+      18
+    ],
+    "text": "Aen Ne is of 10080",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      25,
+      250,
+      278,
+      10
+    ],
+    "text": "2.) Boars mene of tbe Lose Goteameat Semen",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      15,
+      259,
+      283,
+      20
+    ],
+    "text": "eet tbe Vinton eae weg, SE",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      15,
+      270,
+      288,
+      21
+    ],
+    "text": "tore, 1 tlie th Cause Bercy Sete",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      15,
+      290,
+      288,
+      12
+    ],
+    "text": "Bova a See ademas Bee",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      5,
+      300,
+      251,
+      11
+    ],
+    "text": "tiinded did oct opty and wh ado oF",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      14,
+      303,
+      242,
+      17
+    ],
+    "text": "before June 80,1084, tuted. free auch sree",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      14,
+      320,
+      242,
+      21
+    ],
+    "text": "See etary ee",
+    "mean_p_confidence": 0.05
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      14,
+      333,
+      280,
+      19
+    ],
+    "text": "Latal Govaremont Servite Orficanse 06 iy. any psa",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      14,
+      350,
+      241,
+      10
+    ],
+    "text": "iker ween lop be Gaced to bore mired k",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      14,
+      360,
+      242,
+      11
+    ],
+    "text": "Ga ete Ue ated a es aa",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      14,
+      370,
+      242,
+      20
+    ],
+    "text": "Skea ane ta",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      15,
+      382,
+      237,
+      18
+    ],
+    "text": "iy Be becama's Waneowed ember and utara",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      14,
+      400,
+      242,
+      13
+    ],
+    "text": "idr'naye gece Gretel Sees,",
+    "mean_p_confidence": 0.06
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      14,
+      410,
+      242,
+      20
+    ],
+    "text": "Sri Chesadan spn rea oat",
+    "mean_p_confidence": 0.13
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      14,
+      420,
+      237,
+      11
+    ],
+    "text": "Allowance acodene thie petals",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      14,
+      430,
+      242,
+      10
+    ],
+    "text": "Sete of Te bat acta Svat",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      13,
+      440,
+      49,
+      8
+    ],
+    "text": "oa",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      25,
+      459,
+      231,
+      10
+    ],
+    "text": "2 Te provisos of seins 99 and $0 of the",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      13,
+      469,
+      243,
+      20
+    ],
+    "text": "1 Silat ae Say Sa gy",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      13,
+      481,
+      217,
+      8
+    ],
+    "text": "Fan yerten pty oa orate oe",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      4,
+      481,
+      173,
+      25
+    ],
+    "text": "int ei) th ete.",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      23,
+      513,
+      290,
+      11
+    ],
+    "text": "The pao o tig pmsacecnaedod wo tt",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      517,
+      250,
+      19
+    ],
+    "text": "under secon 2 of abs Act shall bo pay. Soar #=o",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      13,
+      526,
+      289,
+      19
+    ],
+    "text": "Sle Pram the date on wBich sack poron etted btm Sear",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      13,
+      543,
+      278,
+      10
+    ],
+    "text": "Heiat Qoamien Bert SE",
+    "mean_p_confidence": 0.08
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      78,
+      12,
+      219,
+      11
+    ],
+    "text": "2 Loog! Gooernmest Service Famplagtes (Speci",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108,
+      12,
+      197,
+      21
+    ],
+    "text": "\"Boson Breen dct Be ool Stee",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      15,
+      44,
+      156,
+      9
+    ],
+    "text": "Common, Ta thin Ac",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90,
+      57,
+      231,
+      12
+    ],
+    "text": "\"local authority haa thy sana meaning as in he",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      11,
+      58,
+      280,
+      28
+    ],
+    "text": "on Yoon! Goverament Service Orimasee:",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90,
+      75,
+      234,
+      17
+    ],
+    "text": "~ Yootl, Goverment, Service means sha Lost",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      120,
+      92,
+      201,
+      10
+    ],
+    "text": "Gorsroment Service comatuted tndet",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      120,
+      102,
+      201,
+      20
+    ],
+    "text": "etn 8 ot she Lact Goarmet See",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      91,
+      120,
+      230,
+      16
+    ],
+    "text": "* Looe Goverment. Service, Comniads mean",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      121,
+      135,
+      200,
+      11
+    ],
+    "text": "\"be Log! Government Service Commismion",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      121,
+      145,
+      200,
+      11
+    ],
+    "text": "fplsblished onder section of the Local",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      121,
+      156,
+      166,
+      10
+    ],
+    "text": "Gererumen Service Ordimsoe; ond",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      91,
+      170,
+      231,
+      12
+    ],
+    "text": "uramafert meet\" means perp who hae",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122,
+      180,
+      200,
+      11
+    ],
+    "text": "poe transferred to tin Laced Goverazeat",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      121,
+      190,
+      201,
+      12
+    ],
+    "text": "Servi uncer oection 68 or ection 8 of Che",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      121,
+      201,
+      173,
+      11
+    ],
+    "text": "Goal Goreramms Sorrce Graisnace,",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      324,
+      498,
+      3,
+      7
+    ],
+    "text": "'",
+    "mean_p_confidence": 0.11
+  }
+]

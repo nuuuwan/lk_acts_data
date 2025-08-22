@@ -1,0 +1,5084 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      118,
+      7,
+      460,
+      29
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      208,
+      60,
+      188,
+      17
+    ],
+    "text": "4th Session 1968-69",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      282,
+      113,
+      245,
+      49
+    ],
+    "text": "ey fy eh",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      263,
+      142,
+      266,
+      38
+    ],
+    "text": "at an oe",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      259,
+      177,
+      269,
+      63
+    ],
+    "text": "or BS EN eA",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      243,
+      219,
+      335,
+      40
+    ],
+    "text": "Gm So",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      576,
+      276,
+      2,
+      23
+    ],
+    "text": "i",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      107,
+      320,
+      471,
+      39
+    ],
+    "text": "Finance (Amendment) Act, |",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      575,
+      353,
+      2,
+      12
+    ],
+    "text": "i",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      191,
+      366,
+      386,
+      31
+    ],
+    "text": "No. 50 of 1968",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      188,
+      497,
+      225,
+      16
+    ],
+    "text": "Date of Assent: December 24, 1968",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      178,
+      610,
+      248,
+      14
+    ],
+    "text": "Printed on the Orders of Government",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      119,
+      723,
+      364,
+      15
+    ],
+    "text": "Printed wt the Govaumaxr Press, Ceriox. To be",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      120,
+      735,
+      363,
+      16
+    ],
+    "text": "purchased at the Govmunantr PusicatiONs BUREAv, Covonad",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      120,
+      753,
+      363,
+      14
+    ],
+    "text": "vee aaernten Coca pn i Uae, De",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      120,
+      765,
+      364,
+      32
+    ],
+    "text": "See iar, 6. oe ee taint cae",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      121,
+      786,
+      363,
+      14
+    ],
+    "text": "Been etal tebe dy ee ae tad",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      121,
+      789,
+      363,
+      32
+    ],
+    "text": "Se ae eee",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      95,
+      830,
+      417,
+      17
+    ],
+    "text": "Brice: 45 cents Postage: 10 cents",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99,
+      10,
+      312,
+      17
+    ],
+    "text": "Finance (Amendment) Act, No, 50 of 1968",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      39,
+      103,
+      13
+    ],
+    "text": "L. D0. 46/68.",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      67,
+      387,
+      15
+    ],
+    "text": "An Act To AMEND tie Fivance Act, No. 11 op 1963.",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118,
+      95,
+      275,
+      17
+    ],
+    "text": "[Date of Assent: December 24, 1968]",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      122,
+      388,
+      17
+    ],
+    "text": "BE it enacted by the Queens Most Excellent Majesty,",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      129,
+      388,
+      39
+    ],
+    "text": "by ond with the advice and consent of the Senate and",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      154,
+      389,
+      17
+    ],
+    "text": "the House of Representatives of Ceylon in this present",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      170,
+      389,
+      17
+    ],
+    "text": "Parliament assembled, and by the authority of the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      187,
+      143,
+      15
+    ],
+    "text": "same, as follows:",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      219,
+      445,
+      17
+    ],
+    "text": "1. This Act may be cited as the Finance (Amand- shat til.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62,
+      236,
+      200,
+      15
+    ],
+    "text": "ment) Act, No. 50 of 1968.",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      271,
+      464,
+      20
+    ],
+    "text": "2, Section 119 of the Finance Act, No, 11 of 1963, Ameninan of",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      284,
+      480,
+      20
+    ],
+    "text": "hereinafter referred to as the principal Act, is {te Fiesns",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      303,
+      463,
+      21
+    ],
+    "text": "hereby amended as follows : Bet",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      333,
+      369,
+      17
+    ],
+    "text": "(1) in sub-section (1) of that section, by the substitu-",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      126,
+      349,
+      321,
+      17
+    ],
+    "text": "tion, for the words carries on in any place",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      125,
+      365,
+      321,
+      17
+    ],
+    "text": "in Ceylon, of the words \" carries on in",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      126,
+      382,
+      102,
+      16
+    ],
+    "text": "Ceylon \"\"; and",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      408,
+      368,
+      17
+    ],
+    "text": "(2) in sub-section (6) of that section, by the substitu-",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      125,
+      424,
+      321,
+      17
+    ],
+    "text": "tion, for the words for any year of assess-",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      125,
+      440,
+      321,
+      17
+    ],
+    "text": "ment in respect of , of the words \" for any",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      125,
+      456,
+      321,
+      30
+    ],
+    "text": "year of ssiesamont ending on or before",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      135,
+      472,
+      234,
+      17
+    ],
+    "text": "eptember 80, 1968, in respect of .",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77,
+      508,
+      459,
+      17
+    ],
+    "text": "8. Section 120 of the principal Act is hereby amednest of",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      523,
+      469,
+      21
+    ],
+    "text": "amended as follows: gin. 180",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      544,
+      401,
+      21
+    ],
+    "text": "(1) by the insertion, immediately after sub-section **",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      126,
+      553,
+      318,
+      28
+    ],
+    "text": "G) of that Section, of the following sub-",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      126,
+      582,
+      73,
+      13
+    ],
+    "text": "section:",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      143,
+      608,
+      301,
+      18
+    ],
+    "text": "(14) Where a person is chargeable with",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      126,
+      625,
+      319,
+      17
+    ],
+    "text": "business turnover tax in respect of any",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      126,
+      642,
+      319,
+      17
+    ],
+    "text": "business carried on by him and a change of",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      125,
+      658,
+      320,
+      30
+    ],
+    "text": "ownership of that business oours, thea not-",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      126,
+      675,
+      319,
+      17
+    ],
+    "text": "withstanding the provisions of sub-section",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      127,
+      691,
+      318,
+      17
+    ],
+    "text": "(1), the new owner of that business shall be",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      126,
+      708,
+      319,
+      17
+    ],
+    "text": "chargeable with business turnover tax as",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      126,
+      723,
+      320,
+      18
+    ],
+    "text": "though he had been the owner of that",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      126,
+      739,
+      319,
+      18
+    ],
+    "text": "business immediately before the occurrence of",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      126,
+      757,
+      204,
+      17
+    ],
+    "text": "the change of ownership. \";",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78,
+      789,
+      269,
+      17
+    ],
+    "text": "(2) in sub-section (2) of that section",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      127,
+      807,
+      318,
+      19
+    ],
+    "text": "(@) by the substitution in paragraph (a) of",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      174,
+      809,
+      269,
+      33
+    ],
+    "text": "that eub-ection, for the wares a",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67,
+      846,
+      120,
+      10
+    ],
+    "text": "ert",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      162,
+      8,
+      351,
+      16
+    ],
+    "text": "2 Finance (Amendment) Act, No, 60 of 1968",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      277,
+      36,
+      273,
+      16
+    ],
+    "text": "be deemed to be e separate business;",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      278,
+      52,
+      196,
+      17
+    ],
+    "text": "and, of the follawing :",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      280,
+      77,
+      65,
+      13
+    ],
+    "text": "shall",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      329,
+      100,
+      241,
+      19
+    ],
+    "text": "() for any year of assessment -",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      376,
+      116,
+      176,
+      17
+    ],
+    "text": "ending on or before",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      378,
+      133,
+      174,
+      16
+    ],
+    "text": "September 80, 1968, be",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      377,
+      149,
+      175,
+      16
+    ],
+    "text": "deemed to be @ separate",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      377,
+      165,
+      94,
+      15
+    ],
+    "text": "business, and",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      324,
+      185,
+      228,
+      17
+    ],
+    "text": "(ii) for any year of assessment",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      378,
+      200,
+      174,
+      17
+    ],
+    "text": "commencing on or after",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      378,
+      216,
+      174,
+      16
+    ],
+    "text": "October 1, 1968, be",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      379,
+      233,
+      173,
+      16
+    ],
+    "text": "deemed to be a part of",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      380,
+      249,
+      156,
+      15
+    ],
+    "text": "the same business; ;",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      233,
+      276,
+      320,
+      28
+    ],
+    "text": "(0) by the insertion, immediately after pare",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      281,
+      291,
+      273,
+      32
+    ],
+    "text": "graph (@) of that sub-section, of the",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      288,
+      309,
+      170,
+      17
+    ],
+    "text": "following paragraph:",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      299,
+      331,
+      256,
+      19
+    ],
+    "text": "* (aa) where businesses of @ like",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      347,
+      348,
+      208,
+      16
+    ],
+    "text": "nature ate carried on by &",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      348,
+      364,
+      207,
+      21
+    ],
+    "text": "person in the same place or",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      348,
+      369,
+      207,
+      29
+    ],
+    "text": "Frvaiferent places, the busi-",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      348,
+      396,
+      207,
+      17
+    ],
+    "text": "nesses 60 carried on by him",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      349,
+      412,
+      207,
+      18
+    ],
+    "text": "shall, for every year of",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      349,
+      429,
+      207,
+      16
+    ],
+    "text": "assessment commencing on of",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      349,
+      445,
+      207,
+      16
+    ],
+    "text": "after October 1, 1968, be",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      350,
+      461,
+      205,
+      15
+    ],
+    "text": "deemed to be one business;",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      350,
+      479,
+      80,
+      15
+    ],
+    "text": "and; and",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      187,
+      505,
+      370,
+      21
+    ],
+    "text": "(8) by the repeal of sub-section (8) of that section",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      235,
+      522,
+      322,
+      16
+    ],
+    "text": "and the substitution therefor of the following",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      235,
+      541,
+      104,
+      13
+    ],
+    "text": "sub-section :",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      253,
+      566,
+      304,
+      19
+    ],
+    "text": "* (8) (a) For the purposes of this Part of",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      236,
+      569,
+      322,
+      30
+    ],
+    "text": "this Act 2 business in relation to any year",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      235,
+      599,
+      323,
+      18
+    ],
+    "text": "of assessment ending on or before September",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      237,
+      615,
+      322,
+      18
+    ],
+    "text": "30, 1968, includes any trade or vocation but",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      236,
+      633,
+      132,
+      14
+    ],
+    "text": "does not mclude",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      270,
+      659,
+      136,
+      17
+    ],
+    "text": "{i) any profession;",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      265,
+      681,
+      248,
+      19
+    ],
+    "text": "(ii) any agricultural undertaking;",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      260,
+      705,
+      300,
+      19
+    ],
+    "text": "(iii) any undertaking for the export of",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      319,
+      721,
+      241,
+      19
+    ],
+    "text": "any manufactured or processed",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      319,
+      740,
+      52,
+      15
+    ],
+    "text": "article;",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      263,
+      761,
+      297,
+      21
+    ],
+    "text": "(iv) the business of a banker, financier,",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      319,
+      779,
+      242,
+      18
+    ],
+    "text": "moneylender, pawnbroker, com.",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      319,
+      796,
+      174,
+      17
+    ],
+    "text": "mission agent or broker;",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      268,
+      820,
+      196,
+      18
+    ],
+    "text": "(s) any insurance business:",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115,
+      14,
+      350,
+      16
+    ],
+    "text": "Finance (Amendment) Act, No. 60 of 1968 = 3",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      165,
+      42,
+      299,
+      17
+    ],
+    "text": "(vi) the business of carrying on an educa-",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      222,
+      58,
+      186,
+      15
+    ],
+    "text": "tional establishrsent; and",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      165,
+      85,
+      299,
+      17
+    ],
+    "text": "(vii) any other business the turnover from",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      222,
+      101,
+      242,
+      18
+    ],
+    "text": "which may be exempted from the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      222,
+      118,
+      242,
+      16
+    ],
+    "text": "business turnover tax by Order",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      221,
+      134,
+      243,
+      17
+    ],
+    "text": "made by the Minister, approved",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      221,
+      150,
+      244,
+      17
+    ],
+    "text": "by the House of Representatives",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      221,
+      166,
+      219,
+      17
+    ],
+    "text": "and published in the Gazette.",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      156,
+      198,
+      308,
+      20
+    ],
+    "text": "(@), For the purposes of this Part of this",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139,
+      214,
+      325,
+      30
+    ],
+    "text": "Act business in relation to any year of",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      140,
+      231,
+      324,
+      18
+    ],
+    "text": "assessment commencing on or after October",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      140,
+      247,
+      323,
+      18
+    ],
+    "text": "1, 1968, includes any trade, profession, voca-",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      140,
+      263,
+      323,
+      29
+    ],
+    "text": "tion, of. the business of any pereon taking",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139,
+      280,
+      324,
+      16
+    ],
+    "text": "commissions or fees in respect of any transac-",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139,
+      295,
+      324,
+      16
+    ],
+    "text": "tions or services rendered, or the business of",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139,
+      312,
+      324,
+      16
+    ],
+    "text": "an independent contractor but does mot",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139,
+      328,
+      68,
+      13
+    ],
+    "text": "include",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      172,
+      356,
+      289,
+      17
+    ],
+    "text": "(i) any undertaking for the production",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      219,
+      372,
+      242,
+      17
+    ],
+    "text": "of unmanufactured or unprocessed",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      219,
+      389,
+      228,
+      16
+    ],
+    "text": "agricultural or animal produce;",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      166,
+      416,
+      295,
+      19
+    ],
+    "text": "(ii) any undertaking for the purpose of",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      219,
+      433,
+      206,
+      17
+    ],
+    "text": "rearing livestock or poultry;",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      160,
+      461,
+      301,
+      17
+    ],
+    "text": "(iii) any undertoking for the manufacture",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      218,
+      477,
+      243,
+      17
+    ],
+    "text": "of copra, desiocated coconut, co0o-",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      219,
+      493,
+      242,
+      17
+    ],
+    "text": "nut fibre, crepe rubber, \"sheet",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      219,
+      510,
+      240,
+      16
+    ],
+    "text": "rubber oF tea (other than an",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      219,
+      526,
+      241,
+      17
+    ],
+    "text": "undertaking for the blending of",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      219,
+      543,
+      32,
+      15
+    ],
+    "text": "tea);",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      164,
+      571,
+      295,
+      17
+    ],
+    "text": "(iv) eny undertaking for the export of",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      220,
+      587,
+      238,
+      17
+    ],
+    "text": "any manufactured or processed",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      220,
+      604,
+      51,
+      15
+    ],
+    "text": "article;",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      170,
+      632,
+      290,
+      16
+    ],
+    "text": "() the business of a banker, financier.",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      220,
+      649,
+      204,
+      17
+    ],
+    "text": "moneylender or pawnbroker;",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      164,
+      677,
+      203,
+      17
+    ],
+    "text": "(vi) any insurance business;",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      159,
+      706,
+      302,
+      18
+    ],
+    "text": "(vil) the business of carrying on an educa-",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      220,
+      723,
+      185,
+      15
+    ],
+    "text": "tional establishinent; and",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      155,
+      750,
+      305,
+      20
+    ],
+    "text": "(viii) any other business the turnover from",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      220,
+      768,
+      241,
+      18
+    ],
+    "text": "which may be exempted from the",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      220,
+      784,
+      241,
+      17
+    ],
+    "text": "business turnover tax by Order",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      220,
+      800,
+      240,
+      18
+    ],
+    "text": "made by the Minister, approved",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      220,
+      817,
+      241,
+      18
+    ],
+    "text": "by the House of Representatives",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      220,
+      834,
+      225,
+      17
+    ],
+    "text": "and published in the Gazette.,",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      165,
+      10,
+      349,
+      20
+    ],
+    "text": "4 Finance (Amendment) Act, No. 50 of 1968",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      68,
+      39,
+      476,
+      19
+    ],
+    "text": "Amesiment of 4 Section 122 of the principal Act is hereby",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      68,
+      50,
+      483,
+      26
+    ],
+    "text": "sale\" amended by the addition, at the end of that section",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      68,
+      71,
+      326,
+      18
+    ],
+    "text": "a of the following sub-section:",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      200,
+      96,
+      352,
+      18
+    ],
+    "text": "* (4) Where upon the final determination of an",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      182,
+      113,
+      406,
+      31
+    ],
+    "text": "appeal made under section 188, any tax in defaule +",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      182,
+      129,
+      370,
+      20
+    ],
+    "text": "to which any sum or sums under sub-section (8) has",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      182,
+      146,
+      370,
+      16
+    ],
+    "text": "or have been added is reduced, then such sum or",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      182,
+      161,
+      369,
+      17
+    ],
+    "text": "stuns shal] be calenlated on the tax as so reduced,",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      68,
+      186,
+      483,
+      19
+    ],
+    "text": "inetim of -B.The following new section is hereby inserted",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      68,
+      202,
+      484,
+      18
+    ],
+    "text": "Hn nis immediately after section 128, and shall have effect as",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      68,
+      218,
+      374,
+      18
+    ],
+    "text": "viinepal As. section 1984, of the principal Act:",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      166,
+      239,
+      385,
+      19
+    ],
+    "text": "*Fenm. ! 1234. The Commissioner may from",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      220,
+      254,
+      332,
+      19
+    ],
+    "text": "' time to time prescribe the forms to be",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      222,
+      272,
+      330,
+      22
+    ],
+    "text": "| Used for alll or aby of the purposes of",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      224,
+      289,
+      328,
+      19
+    ],
+    "text": "! this Act; and any form so prescribed may",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      226,
+      291,
+      326,
+      38
+    ],
+    "text": "; from time to time be amended or varied",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      263,
+      321,
+      289,
+      17
+    ],
+    "text": "by the Commissioner, or some other form",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      228,
+      338,
+      325,
+      17
+    ],
+    "text": "{may be substituted by the Commissioner",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      230,
+      354,
+      280,
+      18
+    ],
+    "text": "1 in place of any form so prescribed. \".",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      68,
+      378,
+      484,
+      18
+    ],
+    "text": "Amendment of G, Seotion 125 of the principal Act is hereby",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      67,
+      389,
+      269,
+      22
+    ],
+    "text": "ievode amended as foilows:",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      63,
+      407,
+      489,
+      28
+    ],
+    "text": "Act. (a) by the renumbering of that section as sub-section",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      232,
+      432,
+      130,
+      16
+    ],
+    "text": "() of section 125;",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      182,
+      452,
+      406,
+      19
+    ],
+    "text": "@ by the addition, immediately after the +4",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      230,
+      469,
+      323,
+      16
+    ],
+    "text": "renumbered sub-section (1), of the following",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      230,
+      485,
+      105,
+      13
+    ],
+    "text": "sub-section :",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      248,
+      505,
+      305,
+      17
+    ],
+    "text": "(2) Where an assessment is made under",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      230,
+      521,
+      323,
+      17
+    ],
+    "text": "sub-section (1) in respect of any person for",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      230,
+      537,
+      323,
+      18
+    ],
+    "text": "any quarter in any year of assessment, the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      230,
+      554,
+      323,
+      14
+    ],
+    "text": "amount so assessed chall be deemed to he",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      230,
+      570,
+      323,
+      15
+    ],
+    "text": "business turnover tax in default for that",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      239,
+      586,
+      313,
+      20
+    ],
+    "text": "narter and accordingly such person shall,",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      230,
+      592,
+      323,
+      28
+    ],
+    "text": "From the date on which such person should",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      230,
+      619,
+      323,
+      17
+    ],
+    "text": "have paid the tax for that quarter under",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      230,
+      635,
+      323,
+      17
+    ],
+    "text": "section 122 (2), be liable to the penalty under",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      230,
+      652,
+      301,
+      17
+    ],
+    "text": "section 122 (3) in respect of such amount. .",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      64,
+      680,
+      490,
+      17
+    ],
+    "text": "Awgoiment of 7, Section 128 of the principal Act is hereby",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      64,
+      685,
+      490,
+      34
+    ],
+    "text": "iim amended in paragraph (0) of thet section by the",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      59,
+      712,
+      495,
+      26
+    ],
+    "text": "Ast. substitution, for the words money reosived , of the",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      164,
+      730,
+      275,
+      17
+    ],
+    "text": "words money received or receivable.",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      63,
+      757,
+      490,
+      18
+    ],
+    "text": "Amminet of 8, Section 138 of the principal Act is hereby",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      59,
+      769,
+      274,
+      38
+    ],
+    "text": "Se mound amended ag follows:",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      181,
+      797,
+      400,
+      36
+    ],
+    "text": "(1) in sub-section o of that section by the substi-",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      230,
+      819,
+      324,
+      21
+    ],
+    "text": "tutiva, for the words \" by such assessment or",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      230,
+      834,
+      324,
+      18
+    ],
+    "text": "additional assessment. , of the words by",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      52,
+      856,
+      8,
+      13
+    ],
+    "text": "\\",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      111,
+      1,
+      350,
+      19
+    ],
+    "text": "Finance (Amendment) Act, No, 50 of 1968 = 5",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      138,
+      31,
+      324,
+      29
+    ],
+    "text": "such, astesement or additional sstessment",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      138,
+      48,
+      303,
+      12
+    ],
+    "text": "together with any penalty imposed on him",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      138,
+      51,
+      324,
+      25
+    ],
+    "text": "iis Part of this Act:",
+    "mean_p_confidence": 0.43
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      155,
+      87,
+      307,
+      18
+    ],
+    "text": "Provided that the Commissioner, upon",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139,
+      104,
+      323,
+      28
+    ],
+    "text": "being satisfied that owing to absence from",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139,
+      120,
+      322,
+      16
+    ],
+    "text": "Ceylon, sickness or other reasonable cause,",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139,
+      136,
+      324,
+      17
+    ],
+    "text": "the appellant was prevented from appesling",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139,
+      152,
+      324,
+      17
+    ],
+    "text": "within such period, shall grant an extension",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      138,
+      168,
+      309,
+      17
+    ],
+    "text": "of time for preferring the appeal. \"; and",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      91,
+      192,
+      371,
+      17
+    ],
+    "text": "(2) by the insertion, immediately after sub-section",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      140,
+      208,
+      267,
+      17
+    ],
+    "text": "(1), of the following sub-sections:",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      156,
+      231,
+      306,
+      16
+    ],
+    "text": "(1a) Where the assessment appealed",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139,
+      247,
+      324,
+      17
+    ],
+    "text": "against has been made in the absence of a",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      140,
+      264,
+      323,
+      28
+    ],
+    "text": "revum, the petition of appeal shall be sent",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      140,
+      280,
+      249,
+      16
+    ],
+    "text": "together with a return duly made.",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      156,
+      300,
+      306,
+      17
+    ],
+    "text": "(1s) A petition of appeal shall be rejected",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139,
+      316,
+      163,
+      16
+    ],
+    "text": "by the Commissioner",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      156,
+      339,
+      306,
+      17
+    ],
+    "text": "(a) if it is made after the expiry of the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      228,
+      355,
+      233,
+      16
+    ],
+    "text": "iod allowed under sub-section (1)",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      204,
+      360,
+      228,
+      28
+    ],
+    "text": "Yor the making of an appeal, or",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157,
+      394,
+      304,
+      29
+    ],
+    "text": "() if the appollane bas failed to comply",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      205,
+      410,
+      256,
+      16
+    ],
+    "text": "with the provisions of sub-section",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      205,
+      427,
+      30,
+      15
+    ],
+    "text": "(lay.",
+    "mean_p_confidence": -0.01
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      92,
+      450,
+      444,
+      16
+    ],
+    "text": "9. The following new section is hereby inserted useaioa ot",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      76,
+      466,
+      461,
+      20
+    ],
+    "text": "immediately after section 138, and shall have effect as nem sution",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      76,
+      483,
+      471,
+      16
+    ],
+    "text": "section 1384, of the principal Act: Peteipal Act",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      80,
+      506,
+      380,
+      29
+    ],
+    "text": "mafteerht _, 188A. (1) The decision of the Board",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      76,
+      520,
+      195,
+      27
+    ],
+    "text": "SGetopete shall be final :",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      77,
+      541,
+      384,
+      23
+    ],
+    "text": "_ Provided that either the appellant or",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      174,
+      563,
+      287,
+      17
+    ],
+    "text": "the Commissioner may make an applica-",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      174,
+      580,
+      287,
+      18
+    ],
+    "text": "tion requiring the Board to state a case",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      173,
+      588,
+      288,
+      42
+    ],
+    "text": "on & question of law for the opinion of",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      174,
+      614,
+      288,
+      17
+    ],
+    "text": "the Supreme . application",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      174,
+      617,
+      289,
+      26
+    ],
+    "text": "Shall wot be entertained wnlass it is",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      175,
+      645,
+      288,
+      30
+    ],
+    "text": "made in writing, and delivered to the",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      175,
+      661,
+      288,
+      17
+    ],
+    "text": "Clerk to the d, together with",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      175,
+      678,
+      289,
+      17
+    ],
+    "text": "a fee of fifty rupees, within one month",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      175,
+      682,
+      289,
+      27
+    ],
+    "text": "Gi the date of the Board's decision, If",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      176,
+      710,
+      288,
+      16
+    ],
+    "text": "the decision of the Board shail be notified",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      176,
+      726,
+      289,
+      19
+    ],
+    "text": "to the Commissioner or to the appellant",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      176,
+      743,
+      288,
+      19
+    ],
+    "text": "in writing, the date of the decision, for",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      176,
+      759,
+      288,
+      19
+    ],
+    "text": "the purposes of determining the period",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      176,
+      776,
+      288,
+      16
+    ],
+    "text": "within, which either of such persons may",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      176,
+      791,
+      288,
+      20
+    ],
+    "text": "tequire a case to be stated, shall be the",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      177,
+      808,
+      287,
+      20
+    ],
+    "text": "date of the communication by which the",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      177,
+      825,
+      192,
+      16
+    ],
+    "text": "decision is notified to him.",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      163,
+      4,
+      350,
+      17
+    ],
+    "text": "6 Kinance (Amendment) Act, No, 50 of 1963",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      278,
+      32,
+      273,
+      17
+    ],
+    "text": "(2) The stated case shall set forth the",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      261,
+      49,
+      290,
+      15
+    ],
+    "text": "facts, the decision of the Board, and the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      261,
+      65,
+      290,
+      13
+    ],
+    "text": "amount of the business turnover tax in",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      261,
+      81,
+      290,
+      17
+    ],
+    "text": "dispute where such amount exceeds five",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      262,
+      98,
+      289,
+      17
+    ],
+    "text": "thousand rapees, and the party requiring",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      261,
+      114,
+      290,
+      14
+    ],
+    "text": "it shall transmit the case, when stated",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      262,
+      130,
+      289,
+      18
+    ],
+    "text": "and signed, to the Supreme Court within",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      262,
+      147,
+      288,
+      17
+    ],
+    "text": "fourteen days after receiving the same.",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      278,
+      183,
+      273,
+      17
+    ],
+    "text": "(8) For the purpose of the application",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      261,
+      200,
+      290,
+      16
+    ],
+    "text": "of the provisions of the Stamp",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      262,
+      216,
+      90,
+      13
+    ],
+    "text": "Ordinance",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      278,
+      248,
+      273,
+      16
+    ],
+    "text": "{a) all proceedings before the Supreme",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      328,
+      252,
+      223,
+      28
+    ],
+    "text": "Bonrt on any case stated under",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      328,
+      280,
+      223,
+      13
+    ],
+    "text": "this section or incidental to the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      327,
+      297,
+      223,
+      16
+    ],
+    "text": "hearing, determination or-dis-",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      328,
+      309,
+      222,
+      37
+    ],
+    "text": "posal of any such case, shall be",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      327,
+      329,
+      224,
+      16
+    ],
+    "text": "deemed to be civil proceedings",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      327,
+      345,
+      223,
+      17
+    ],
+    "text": "before the Supreme Court of",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      327,
+      361,
+      223,
+      13
+    ],
+    "text": "the value of five thousand",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      327,
+      378,
+      223,
+      17
+    ],
+    "text": "tupees, or of such greater",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      327,
+      394,
+      224,
+      16
+    ],
+    "text": "amount as may be set forth by",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      327,
+      410,
+      223,
+      16
+    ],
+    "text": "the Board under sub-section (2)",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      327,
+      426,
+      223,
+      13
+    ],
+    "text": "as the amount of the business",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      327,
+      442,
+      177,
+      17
+    ],
+    "text": "turnover tax in dispute;",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      278,
+      470,
+      271,
+      18
+    ],
+    "text": "(2) every such case stated shall,",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      327,
+      487,
+      222,
+      17
+    ],
+    "text": "together with all books, docu-",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      327,
+      500,
+      223,
+      36
+    ],
+    "text": "ments and pores annexed",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      327,
+      519,
+      223,
+      17
+    ],
+    "text": "thereto by the Board, be deemed",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      327,
+      535,
+      222,
+      14
+    ],
+    "text": "to be a single exhibit in civil",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      327,
+      536,
+      223,
+      50
+    ],
+    "text": "preceding store the Supreme",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      338,
+      569,
+      70,
+      15
+    ],
+    "text": "ourt; and",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      277,
+      596,
+      272,
+      17
+    ],
+    "text": "{e) the Commissioner, if he is the",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      326,
+      604,
+      223,
+      42
+    ],
+    "text": "appellant, shall be deemed to be",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      326,
+      628,
+      223,
+      17
+    ],
+    "text": "a Government officer suing, or",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      326,
+      644,
+      223,
+      18
+    ],
+    "text": "if he is the respondent to the",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      325,
+      661,
+      224,
+      20
+    ],
+    "text": "appeal, a Government officer",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      325,
+      677,
+      224,
+      21
+    ],
+    "text": "being sued, in a suit virtute",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      325,
+      695,
+      43,
+      16
+    ],
+    "text": "oficis.",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      276,
+      730,
+      273,
+      19
+    ],
+    "text": "(4) At or before the time when he",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      259,
+      747,
+      290,
+      29
+    ],
+    "text": "transmits the stated case to the Supreme",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      201,
+      763,
+      348,
+      19
+    ],
+    "text": ": Court; the party requiring it shall send",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      259,
+      772,
+      290,
+      40
+    ],
+    "text": "to the other party notice in writing of",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      193,
+      796,
+      356,
+      18
+    ],
+    "text": ". the fact that the case has been stated on",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      258,
+      811,
+      290,
+      20
+    ],
+    "text": "his application and sball supply him",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      258,
+      829,
+      227,
+      18
+    ],
+    "text": "with a copy of the stated case.",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      109,
+      2,
+      350,
+      17
+    ],
+    "text": "Finance (Amendment) Act, No, 50 of 1968 = 7",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      188,
+      30,
+      275,
+      17
+    ],
+    "text": "(5) Any two or more Judges of the",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      171,
+      47,
+      292,
+      28
+    ],
+    "text": "Supreme Court may cane a stated case",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      171,
+      62,
+      292,
+      15
+    ],
+    "text": "to be sent back for amendment, and",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      171,
+      78,
+      292,
+      20
+    ],
+    "text": "thereupon the case chall be amended",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      172,
+      96,
+      87,
+      16
+    ],
+    "text": "accordingly.",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      189,
+      122,
+      275,
+      18
+    ],
+    "text": "(@) Any two or more Judges of the",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      172,
+      138,
+      293,
+      19
+    ],
+    "text": "Supreme Court shall hear and determine",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      172,
+      147,
+      293,
+      41
+    ],
+    "text": "any question of law arising on the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      172,
+      167,
+      293,
+      37
+    ],
+    "text": "stated case and may in accordance with",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      172,
+      187,
+      293,
+      17
+    ],
+    "text": "the decision of court upon such",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      173,
+      203,
+      292,
+      19
+    ],
+    "text": "question confirm, reduce, increase, or",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      173,
+      219,
+      292,
+      16
+    ],
+    "text": "annul the assessment determined by the",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      173,
+      235,
+      292,
+      17
+    ],
+    "text": "Board, or may remit the case to the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      173,
+      241,
+      293,
+      28
+    ],
+    "text": "Board with the opinion of the court",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      173,
+      268,
+      292,
+      16
+    ],
+    "text": "thereon. Where a case is so remitted by",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      175,
+      284,
+      291,
+      16
+    ],
+    "text": "the court, the Board shall revise the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      173,
+      300,
+      293,
+      20
+    ],
+    "text": "assessment as the opinion of the court",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      173,
+      322,
+      92,
+      12
+    ],
+    "text": "may require.",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      191,
+      344,
+      275,
+      20
+    ],
+    "text": "(7) In any proceedings before the",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      174,
+      360,
+      291,
+      19
+    ],
+    "text": "Supreme Court under this section, the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      170,
+      375,
+      295,
+      36
+    ],
+    "text": "court may make such order in regard to",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      174,
+      392,
+      290,
+      21
+    ],
+    "text": "costs in the Supreme Court and in regard",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      174,
+      409,
+      290,
+      18
+    ],
+    "text": "to the eum paid under sub-section (1) as",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      174,
+      426,
+      183,
+      17
+    ],
+    "text": "to the court may seem fit.",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      192,
+      452,
+      273,
+      20
+    ],
+    "text": "(8) For the purpose of enabling the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      175,
+      469,
+      290,
+      17
+    ],
+    "text": "Commissioner or any other party to",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      175,
+      484,
+      289,
+      30
+    ],
+    "text": "sppeal to Hor Majesty io Connell",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      175,
+      486,
+      290,
+      38
+    ],
+    "text": "against any order of the Supreme Court",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      175,
+      518,
+      290,
+      18
+    ],
+    "text": "under sub-section (6) and for the purpose",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      175,
+      525,
+      290,
+      44
+    ],
+    "text": "of the application of the provisions of",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      174,
+      550,
+      291,
+      19
+    ],
+    "text": "the Appeals (Privy Council) Ordinance",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      193,
+      570,
+      273,
+      19
+    ],
+    "text": "(@ an order made by the Supreme",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      242,
+      585,
+      223,
+      17
+    ],
+    "text": "Cours under sub-section (6)",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      241,
+      602,
+      225,
+      19
+    ],
+    "text": "shall, together with any order",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      241,
+      619,
+      226,
+      16
+    ],
+    "text": "of that court under sub-section",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      243,
+      634,
+      225,
+      37
+    ],
+    "text": "Diet pl ca",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      249,
+      646,
+      212,
+      30
+    ],
+    "text": "i It 0 supreme Cour",
+    "mean_p_confidence": 0.37
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      242,
+      652,
+      231,
+      37
+    ],
+    "text": "q 4 civil action Between the",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      243,
+      683,
+      225,
+      16
+    ],
+    "text": "Commissioner and such other",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      242,
+      704,
+      46,
+      15
+    ],
+    "text": "party;",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      194,
+      720,
+      273,
+      29
+    ],
+    "text": "(0) the value of the matter im dispute",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      243,
+      736,
+      225,
+      16
+    ],
+    "text": "in such civil action shall be",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      243,
+      752,
+      224,
+      16
+    ],
+    "text": "deemed to be five thousand",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      243,
+      775,
+      52,
+      13
+    ],
+    "text": "rupees:",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      259,
+      788,
+      209,
+      16
+    ],
+    "text": "Provided that where the",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      243,
+      804,
+      224,
+      20
+    ],
+    "text": "Board has, opder sub-section",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      245,
+      821,
+      223,
+      20
+    ],
+    "text": "(2), set forth a higher amount",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      126,
+      851,
+      106,
+      11
+    ],
+    "text": "2H 10748 131/08)",
+    "mean_p_confidence": 0.22
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      171,
+      14,
+      350,
+      18
+    ],
+    "text": "8 Finance (Amendment) Act, No. 50 of 1968",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      335,
+      43,
+      225,
+      18
+    ],
+    "text": "than five thousand rapees as the",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      335,
+      60,
+      223,
+      18
+    ],
+    "text": "amount of the tax in dispute,",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      335,
+      76,
+      223,
+      19
+    ],
+    "text": "the value of the matter in dis.",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      331,
+      85,
+      227,
+      41
+    ],
+    "text": "pate in such civil ation shall",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      358,
+      104,
+      201,
+      37
+    ],
+    "text": "the higher amount so set",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      336,
+      125,
+      183,
+      16
+    ],
+    "text": "forth by the Board; and",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      287,
+      145,
+      272,
+      19
+    ],
+    "text": "() the Commissioner on any appeal to",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      335,
+      161,
+      223,
+      18
+    ],
+    "text": "Her Majesty in Council, shall",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      335,
+      177,
+      224,
+      18
+    ],
+    "text": "not be Tequired to mate any",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      336,
+      194,
+      223,
+      16
+    ],
+    "text": "deposit or pay any fee or",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      336,
+      210,
+      223,
+      16
+    ],
+    "text": "furnish any seourity prescribed",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      335,
+      226,
+      223,
+      16
+    ],
+    "text": "by or under the Appeals (Privy",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      336,
+      242,
+      142,
+      16
+    ],
+    "text": "Council) Ordinance. .",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      74,
+      274,
+      485,
+      16
+    ],
+    "text": "amount of 10. Section 151 of the principal Act is hereby",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      74,
+      289,
+      486,
+      21
+    ],
+    "text": "wily Mt amended in sub-section (6) of that section, as",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      71,
+      305,
+      178,
+      25
+    ],
+    "text": "act. follows:",
+    "mean_p_confidence": 0.1
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      190,
+      326,
+      369,
+      17
+    ],
+    "text": "(1) by the insertion, immediately after paragraph",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      238,
+      342,
+      322,
+      17
+    ],
+    "text": "{@) of that sub-section, of the following",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      238,
+      359,
+      102,
+      17
+    ],
+    "text": "paragraph :",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      239,
+      372,
+      321,
+      40
+    ],
+    "text": "** (aa) open and examine any receptacle",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      286,
+      394,
+      273,
+      18
+    ],
+    "text": "where any book of account, register.",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      286,
+      410,
+      273,
+      17
+    ],
+    "text": "record or other document may be found",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      286,
+      426,
+      274,
+      17
+    ],
+    "text": "and make an inventory of any of the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      286,
+      443,
+      182,
+      15
+    ],
+    "text": "articles found therein;;",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      190,
+      462,
+      370,
+      19
+    ],
+    "text": "(2) in paragraph (0) of that sub-section, by the",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      237,
+      464,
+      323,
+      32
+    ],
+    "text": "Phatisben for the words tals copier",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      237,
+      495,
+      323,
+      17
+    ],
+    "text": "of, , of the words examine and take",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      237,
+      513,
+      129,
+      17
+    ],
+    "text": "copies of, **; and",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      215,
+      530,
+      344,
+      18
+    ],
+    "text": "by the insertion, immediately after paragraph",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      188,
+      533,
+      372,
+      35
+    ],
+    "text": ") by {b) of that sub-section, Not the following",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      237,
+      566,
+      102,
+      17
+    ],
+    "text": "Paragraph:",
+    "mean_p_confidence": -0.0
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      238,
+      583,
+      321,
+      19
+    ],
+    "text": "(8b) connt and make a record immediately",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      285,
+      600,
+      275,
+      16
+    ],
+    "text": "of the cash found in such place or",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      287,
+      618,
+      65,
+      16
+    ],
+    "text": "building; .",
+    "mean_p_confidence": 0.33
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      71,
+      650,
+      489,
+      21
+    ],
+    "text": "ausuaen of C4. Section 152 of the principal Act is hereby",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      69,
+      668,
+      269,
+      27
+    ],
+    "text": "seen is) o! amended as Follows:",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      69,
+      684,
+      491,
+      32
+    ],
+    "text": "ao. (1) by renumbering of that section as sub-section (1}",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      235,
+      708,
+      148,
+      15
+    ],
+    "text": "of that section; and",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      188,
+      730,
+      371,
+      20
+    ],
+    "text": "(2) by the addition, immediately after the re-",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      236,
+      746,
+      324,
+      18
+    ],
+    "text": "numbered sub-section (1), of the following",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      235,
+      765,
+      104,
+      14
+    ],
+    "text": "sub-section :",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      253,
+      786,
+      307,
+      20
+    ],
+    "text": "@) Where it is proved to the satisfaction",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      235,
+      799,
+      329,
+      38
+    ],
+    "text": "of the Commissioner by claim made in writing",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      235,
+      819,
+      299,
+      20
+    ],
+    "text": "that any person has paid any sum refer",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      236,
+      835,
+      324,
+      19
+    ],
+    "text": "to in sub-section (3) of section 122 which is in",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      117,
+      7,
+      350,
+      19
+    ],
+    "text": "Finance (Amendment) Act, No. 50 of 1968 = 9",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      144,
+      36,
+      323,
+      19
+    ],
+    "text": "excess of the sum which he should have paid",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      144,
+      51,
+      324,
+      16
+    ],
+    "text": "if sach sum were calculated in accordance",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      144,
+      68,
+      324,
+      18
+    ],
+    "text": "with the provisions of aub-section (4) of that",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      144,
+      84,
+      324,
+      17
+    ],
+    "text": "section, such person shall be entitled to have",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      144,
+      100,
+      324,
+      18
+    ],
+    "text": "refunded the amount 0 paid in excess, if",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      144,
+      116,
+      325,
+      18
+    ],
+    "text": "such claim is made within three years of the",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      143,
+      132,
+      325,
+      15
+    ],
+    "text": "end of the year of assessment in which the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      143,
+      137,
+      325,
+      26
+    ],
+    "text": "sum referred ta in the aforesaid sub-section",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      144,
+      165,
+      110,
+      16
+    ],
+    "text": ") was paid..",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      94,
+      192,
+      469,
+      19
+    ],
+    "text": "12. Section 154 of the principal Act is hereby amesimeat of",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      77,
+      208,
+      480,
+      22
+    ],
+    "text": "amended in sub-section (4) of that section by the MSs Ut of",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      77,
+      224,
+      425,
+      19
+    ],
+    "text": "substitution, for the words necessary for the per- 40",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      78,
+      240,
+      389,
+      17
+    ],
+    "text": "formance of any duty under this Part of this Act and",
+    "mean_p_confidence": 0.88
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      77,
+      256,
+      390,
+      31
+    ],
+    "text": "the Commissioner may,, of the words Dngoessary for",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      78,
+      272,
+      496,
+      18
+    ],
+    "text": "the performance of any duty under this Part of this .",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      78,
+      289,
+      388,
+      15
+    ],
+    "text": "Act or under any such other written law and the Com-",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      78,
+      302,
+      123,
+      19
+    ],
+    "text": "missioner may,.",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      94,
+      332,
+      466,
+      24
+    ],
+    "text": "48, (1) Section 150 of the principal Act is hereby amsoana ot",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      76,
+      348,
+      479,
+      19
+    ],
+    "text": "amended in sub-section (1) of that section as follows: 200% 180 of",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      94,
+      370,
+      406,
+      18
+    ],
+    "text": "(a) by the substitution, for the definition of autho. **",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      142,
+      388,
+      322,
+      19
+    ],
+    "text": "tized representative , of the following new",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      142,
+      405,
+      93,
+      13
+    ],
+    "text": "definition :",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      143,
+      425,
+      321,
+      17
+    ],
+    "text": "authorized representative means any",
+    "mean_p_confidence": 0.3
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      190,
+      441,
+      90,
+      13
+    ],
+    "text": "individual",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      191,
+      465,
+      272,
+      30
+    ],
+    "text": "(1) who is authorized in miting by",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      238,
+      482,
+      225,
+      15
+    ],
+    "text": "a person to act on his bebalf for",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      238,
+      497,
+      224,
+      19
+    ],
+    "text": "the purposes of this Act ond",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      238,
+      513,
+      61,
+      13
+    ],
+    "text": "who is",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      239,
+      530,
+      124,
+      16
+    ],
+    "text": "(@) in any case",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      287,
+      549,
+      175,
+      16
+    ],
+    "text": "(@) a member of the",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      335,
+      565,
+      126,
+      14
+    ],
+    "text": "Institute of Char-",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      334,
+      581,
+      128,
+      13
+    ],
+    "text": "tered Accountants",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      334,
+      598,
+      71,
+      16
+    ],
+    "text": "of Ceylon,",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      281,
+      618,
+      179,
+      28
+    ],
+    "text": "Gi) an accountant 9p-",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      334,
+      634,
+      126,
+      29
+    ],
+    "text": "proved by the",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      346,
+      653,
+      90,
+      11
+    ],
+    "text": "commissioner,",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      275,
+      670,
+      186,
+      16
+    ],
+    "text": "(ii) an advocate or a",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      334,
+      687,
+      76,
+      15
+    ],
+    "text": "proctor, or",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      281,
+      705,
+      179,
+      17
+    ],
+    "text": "iv) an employee regularly",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      276,
+      705,
+      185,
+      39
+    ],
+    "text": "employed e the",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      332,
+      738,
+      129,
+      16
+    ],
+    "text": "Person concerned ;",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      236,
+      757,
+      224,
+      17
+    ],
+    "text": "() in the case of an individual,",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      284,
+      774,
+      74,
+      14
+    ],
+    "text": "a relative;",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      237,
+      793,
+      222,
+      18
+    ],
+    "text": "() in the case of a company,",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      284,
+      809,
+      175,
+      15
+    ],
+    "text": "a director or the secre-",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      285,
+      829,
+      35,
+      14
+    ],
+    "text": "tary;",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      164,
+      5,
+      350,
+      18
+    ],
+    "text": "WW Finance (Amendment) Act, No. 50 of 1963",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      328,
+      34,
+      224,
+      18
+    ],
+    "text": "@ in the case of a partner.",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      376,
+      50,
+      117,
+      17
+    ],
+    "text": "ship, partner;",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      328,
+      74,
+      223,
+      18
+    ],
+    "text": "(@) in the case of a body of per-",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      376,
+      92,
+      175,
+      14
+    ],
+    "text": "sons, a member of such",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      376,
+      107,
+      61,
+      16
+    ],
+    "text": "body; or",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      280,
+      135,
+      271,
+      17
+    ],
+    "text": "(2) who is euthorized in writing from",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      180,
+      151,
+      372,
+      17
+    ],
+    "text": ". time to time, by a person to act",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      328,
+      156,
+      224,
+      28
+    ],
+    "text": "on his behalf for the purposes",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      328,
+      172,
+      224,
+      28
+    ],
+    "text": "of this Aet in respect of matters",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      328,
+      199,
+      223,
+      17
+    ],
+    "text": "relating to such year of assess-",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      328,
+      215,
+      224,
+      17
+    ],
+    "text": "ment as is specified in the autho-",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      329,
+      231,
+      223,
+      17
+    ],
+    "text": "tization and who, being ap",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      328,
+      247,
+      224,
+      17
+    ],
+    "text": "individual registered as an",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      329,
+      263,
+      222,
+      17
+    ],
+    "text": "auditor under the Companies",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      329,
+      280,
+      223,
+      16
+    ],
+    "text": "(Auditors) Regulations, is",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      329,
+      296,
+      223,
+      18
+    ],
+    "text": "approved by the Commis.",
+    "mean_p_confidence": 0.5
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      329,
+      312,
+      66,
+      15
+    ],
+    "text": "sioner} ;",
+    "mean_p_confidence": 0.38
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      182,
+      335,
+      371,
+      17
+    ],
+    "text": "{b) in the definition of body of persons, by the",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      230,
+      352,
+      322,
+      17
+    ],
+    "text": "substitution, for the words and any Hindu",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      231,
+      368,
+      321,
+      16
+    ],
+    "text": "andivided family but does not include a com-",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      230,
+      384,
+      323,
+      19
+    ],
+    "text": "pany or a partnership;, of the words any",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      231,
+      390,
+      321,
+      43
+    ],
+    "text": "partnership and any Hindu undivided",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      239,
+      416,
+      102,
+      16
+    ],
+    "text": "family; ?; and",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      183,
+      440,
+      371,
+      17
+    ],
+    "text": "(@ in the definition of turnover, by the",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      231,
+      456,
+      323,
+      17
+    ],
+    "text": "substitution, for the words in respect of",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      232,
+      472,
+      322,
+      17
+    ],
+    "text": "that business , of the words in respect of",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      232,
+      489,
+      322,
+      17
+    ],
+    "text": "that business or for services performed io",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      232,
+      505,
+      189,
+      17
+    ],
+    "text": "carrying on that business.",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      184,
+      533,
+      370,
+      28
+    ],
+    "text": "@) The amendment mado in the principal Act by",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      177,
+      540,
+      351,
+      38
+    ],
+    "text": "aragraph () of sub-section (1) of this section sl",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      167,
+      554,
+      387,
+      27
+    ],
+    "text": "Beldeemed to have come into force on January 1, 1964.",
+    "mean_p_confidence": 0.7
+  }
+]

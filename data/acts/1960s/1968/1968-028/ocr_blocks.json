@@ -1,0 +1,3434 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      132,
+      40,
+      362,
+      45
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      217,
+      77,
+      251,
+      40
+    ],
+    "text": "Srd Session 1967.68",
+    "mean_p_confidence": 0.36
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      309,
+      105,
+      166,
+      21
+    ],
+    "text": "a be %",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      292,
+      116,
+      246,
+      61
+    ],
+    "text": "ey Awe Tap",
+    "mean_p_confidence": 0.29
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      288,
+      151,
+      179,
+      18
+    ],
+    "text": "SLEF a a",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      263,
+      153,
+      204,
+      61
+    ],
+    "text": "(ey",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      263,
+      190,
+      95,
+      40
+    ],
+    "text": "Se Mey 33)",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      85,
+      280,
+      447,
+      38
+    ],
+    "text": "Foreign Exchange Entitlement",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      227,
+      331,
+      158,
+      28
+    ],
+    "text": "Certificates",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161,
+      374,
+      289,
+      32
+    ],
+    "text": "Act, No. 28 of 1968",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      209,
+      512,
+      191,
+      24
+    ],
+    "text": "Date of Assent : June 22, 1968",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      185,
+      626,
+      246,
+      13
+    ],
+    "text": "Printed on the Orders of Government",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      126,
+      735,
+      360,
+      11
+    ],
+    "text": "Frined_ st he Commune Pye cenon, Tote",
+    "mean_p_confidence": 0.26
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      126,
+      746,
+      360,
+      12
+    ],
+    "text": "Pred at, ibe oamamne ems Comoe, be",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      126,
+      764,
+      360,
+      13
+    ],
+    "text": "Annual Subscription (inchuding Bills) Rs. 30 (Local), Rs. 40",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      61,
+      775,
+      426,
+      22
+    ],
+    "text": "Ber ety ea aeremannet coma",
+    "mean_p_confidence": 0.09
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      100,
+      836,
+      412,
+      13
+    ],
+    "text": "Price : 45 conts Postage: 10 cents",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99,
+      18,
+      323,
+      17
+    ],
+    "text": "Foreign Exchange Entitlement Certifcutes",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      191,
+      34,
+      140,
+      16
+    ],
+    "text": "Act, No, 28 of 1968",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      63,
+      101,
+      13
+    ],
+    "text": "LL. D.O. 18/68.",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73,
+      84,
+      378,
+      12
+    ],
+    "text": "An Act TO MAKE THE NECESSARY LEGAL PROVISION FOR",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      102,
+      364,
+      10
+    ],
+    "text": "THR ESTABLISHMENT AND OPERATION SY THE",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      51,
+      115,
+      399,
+      16
+    ],
+    "text": ".. GOVERNMENT oF CEYLON, THROUGH ITS AGENT THE",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      130,
+      363,
+      15
+    ],
+    "text": "CENTRAL BANK oF CEYLON, OF A SCHEME OF FOREIGN",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      146,
+      363,
+      14
+    ],
+    "text": "EXCHANGE ENTITLEMENT CERTIFICATES, AND TO",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      165,
+      364,
+      10
+    ],
+    "text": "PROVIDE FOR MATTERS CONNECTED THEREWITH OR",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      181,
+      146,
+      9
+    ],
+    "text": "INCIDENTAL THERETO.",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      147,
+      201,
+      228,
+      16
+    ],
+    "text": "[Date of Assent: June 22, 1968]",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      227,
+      378,
+      28
+    ],
+    "text": "BBE it enacted by the Queen's Most Excellent Majesty,",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      242,
+      379,
+      17
+    ],
+    "text": "by and with the advice and consent of the Senate",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      257,
+      378,
+      17
+    ],
+    "text": "and the House of Representatives of Ceylon in this",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      262,
+      378,
+      28
+    ],
+    "text": "present Parliament amsembled, and by the authority",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      290,
+      186,
+      14
+    ],
+    "text": "of the same, as follows:",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      320,
+      433,
+      17
+    ],
+    "text": "4. (1) This Act may be cited as the Foreign shot sus",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      334,
+      451,
+      31
+    ],
+    "text": "Exchange Entitlement Certificates Act, No. 28 of td drls ot",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      346,
+      441,
+      19
+    ],
+    "text": "1968, orenlie",
+    "mean_p_confidence": 0.27
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      375,
+      362,
+      17
+    ],
+    "text": "(2) The provisions of this Act shall be deemed, for",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      391,
+      377,
+      29
+    ],
+    "text": "all parposes, to have come into operation on May 6,",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      409,
+      34,
+      11
+    ],
+    "text": "1988,",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      438,
+      460,
+      16
+    ],
+    "text": "2 Ths Government is hereby authorized to Autocity of he",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      51,
+      452,
+      485,
+      20
+    ],
+    "text": ", . establish and operate, under and in accordance with erraaiate",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      469,
+      442,
+      17
+    ],
+    "text": "the provisions of this Act, a Scheme to enable the germs",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      484,
+      466,
+      19
+    ],
+    "text": "issue, purchase, ale, surrender, or disposal in any Scbang for te",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      492,
+      476,
+      41
+    ],
+    "text": "other manner, of foreign exchange entitlement Sidgeititog,",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      516,
+      450,
+      14
+    ],
+    "text": "Certificates. Such Scheme is in this Act referred to sttlaeat",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70,
+      526,
+      453,
+      19
+    ],
+    "text": "as the Scheme\". Comics,",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68,
+      563,
+      445,
+      17
+    ],
+    "text": "+ B The authority vested in the Government by Axttaity",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      575,
+      467,
+      22
+    ],
+    "text": "section 2 shall be exercised by the Central Bank as Qow20,",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      594,
+      471,
+      18
+    ],
+    "text": "the agent of the Government, and accordingly such ssdion 2 10 be",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      604,
+      476,
+      39
+    ],
+    "text": "Bank may, in its capacity as such agent, exercise, feated by the",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      626,
+      379,
+      18
+    ],
+    "text": "discharge and perform, subject to such directions as",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      642,
+      380,
+      17
+    ],
+    "text": "may from time to time be issued in that bebalf by the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      657,
+      379,
+      18
+    ],
+    "text": "Minister of Finance, all such powers, functions and",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      666,
+      379,
+      41
+    ],
+    "text": "duties as may be necessary for the porposes of the",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      689,
+      380,
+      18
+    ],
+    "text": "establishment and operation of the Scheme, and of",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      705,
+      379,
+      18
+    ],
+    "text": "carrying ont and giving effect to the principles and",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71,
+      722,
+      162,
+      16
+    ],
+    "text": "provisions of this Act,",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      753,
+      460,
+      18
+    ],
+    "text": "4. (1) Subject to such terms as may be approved svturey of ho",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      752,
+      466,
+      40
+    ],
+    "text": "by the Minister of Finance from time to time and Sear at",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      47,
+      788,
+      486,
+      20
+    ],
+    "text": "__ Notified in the Gazette, the Central Bank is hereby Ceriscates,",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      54,
+      805,
+      483,
+      16
+    ],
+    "text": "* authorized to issue Certificates from time to time, of sch",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72,
+      821,
+      451,
+      21
+    ],
+    "text": "either directly or on its behalf through any commercial =\"",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80,
+      845,
+      495,
+      10
+    ],
+    "text": "om ns4r19 8) '",
+    "mean_p_confidence": 0.17
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      173,
+      17,
+      357,
+      17
+    ],
+    "text": "2 Foreign Exchange Entitlement Certificates",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      297,
+      33,
+      141,
+      16
+    ],
+    "text": "Act, No, 28 of 1968",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      174,
+      65,
+      384,
+      17
+    ],
+    "text": "bank. The form, design, inscription, dimensions and",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      174,
+      81,
+      385,
+      16
+    ],
+    "text": "other characteristics of such Certificates shall be 2s",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      174,
+      97,
+      367,
+      17
+    ],
+    "text": "determined by the Central Bank from time to time.",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      191,
+      119,
+      164,
+      16
+    ],
+    "text": "(2) Every Certificate",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      240,
+      139,
+      317,
+      16
+    ],
+    "text": "(a) shall bear the signature in facsimile of",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      287,
+      154,
+      269,
+      16
+    ],
+    "text": "the Chief Accountant of the Centra}",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      287,
+      171,
+      269,
+      18
+    ],
+    "text": "Bank, and such number of manual",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      286,
+      187,
+      271,
+      18
+    ],
+    "text": "signatures as may be determined by",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      286,
+      202,
+      75,
+      14
+    ],
+    "text": "directions;",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      239,
+      222,
+      317,
+      15
+    ],
+    "text": "{) shall be stated on the face thereof to be",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      286,
+      238,
+      270,
+      15
+    ],
+    "text": "issued by, or for and on behalf of the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      286,
+      254,
+      103,
+      14
+    ],
+    "text": "Central Bank;",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      238,
+      273,
+      317,
+      17
+    ],
+    "text": "(c) shall be valid for such period as sball",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      286,
+      289,
+      177,
+      17
+    ],
+    "text": "be specified therein; and",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      238,
+      309,
+      318,
+      16
+    ],
+    "text": "(@) shell bear on. the face of it an amouat",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      285,
+      325,
+      269,
+      17
+    ],
+    "text": "expressed in terms of Ceylon rupees.",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      73,
+      350,
+      483,
+      25
+    ],
+    "text": "Entislement 5, The holder of a valid Certificate shall be",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      76,
+      369,
+      479,
+      19
+    ],
+    "text": "of tw teller entitled, upon the surrender thereof to an authorized",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      76,
+      385,
+      478,
+      16
+    ],
+    "text": "Gates dealer, to parchase foreign exchange for such",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      173,
+      401,
+      382,
+      17
+    ],
+    "text": "purposes, and subject to such terms, as may be",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      173,
+      416,
+      381,
+      18
+    ],
+    "text": "ayproved by the Government from time to time and",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      173,
+      433,
+      167,
+      13
+    ],
+    "text": "notified in the Gazette.",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      76,
+      452,
+      492,
+      30
+    ],
+    "text": "Ofeaoee. 6. (1) Any person who, without the authority of ,",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      173,
+      480,
+      142,
+      14
+    ],
+    "text": "the Central Bank,",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      189,
+      499,
+      365,
+      17
+    ],
+    "text": "(o) cute, perforates, or in any other way whatso-",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      235,
+      515,
+      242,
+      16
+    ],
+    "text": "ever mutilates any Certificate; or",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      193,
+      534,
+      361,
+      17
+    ],
+    "text": "6) prints, stamps, or draws anything upon any",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      188,
+      536,
+      366,
+      31
+    ],
+    "text": "Op Certificate; or affixes any seal or-staimp to oF",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      234,
+      567,
+      328,
+      16
+    ],
+    "text": "tapon any Certificate: or :",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      188,
+      585,
+      366,
+      29
+    ],
+    "text": "() attaches or affixes to or upon any Certificate",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      234,
+      602,
+      319,
+      17
+    ],
+    "text": "anything in the nature or form of an",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      235,
+      619,
+      101,
+      15
+    ],
+    "text": "advertisement,",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      169,
+      637,
+      316,
+      19
+    ],
+    "text": "shall be guilty of an offence under this Act,",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      186,
+      656,
+      367,
+      31
+    ],
+    "text": "(2) Any person who forges any Certificate shall be",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      168,
+      674,
+      249,
+      19
+    ],
+    "text": "guilty of en offence under this Act.",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      184,
+      700,
+      369,
+      19
+    ],
+    "text": "7. All expenses incurred in the administration of",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      68,
+      707,
+      485,
+      41
+    ],
+    "text": "Bogue nis Act, and in n particular but without projudee,",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      67,
+      732,
+      486,
+      21
+    ],
+    "text": "of thi et, the generality the foregoing provisions of this",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      165,
+      748,
+      388,
+      20
+    ],
+    "text": "section, ail expenses incurred in the establishment",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      165,
+      764,
+      388,
+      21
+    ],
+    "text": "and operation of the Scheme and the printing of",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      165,
+      779,
+      388,
+      22
+    ],
+    "text": "Certificates and the payment to commercial banks of",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      164,
+      788,
+      389,
+      29
+    ],
+    "text": "such commissions or Fees as may be determined by the",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      164,
+      812,
+      389,
+      22
+    ],
+    "text": "Central Bank, shall be paid out of the Consolidated",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      163,
+      835,
+      43,
+      15
+    ],
+    "text": "Fund.",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      105,
+      17,
+      351,
+      16
+    ],
+    "text": "Foreign Eachangs Entitlement Certificates 3",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      197,
+      33,
+      140,
+      15
+    ],
+    "text": "Act, No. 28 of 1968",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      92,
+      64,
+      447,
+      17
+    ],
+    "text": "& (1) For the purposes of this Act, there shall be Opuing of s",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      77,
+      77,
+      465,
+      22
+    ],
+    "text": "opened and maintained in the Central Bank in the {iv emuet",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      77,
+      98,
+      462,
+      20
+    ],
+    "text": "name of the Government an account to be called the Bett fer ste",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      62,
+      111,
+      452,
+      23
+    ],
+    "text": ". Foreign Exchange Entitlement Certificate iran.",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      77,
+      135,
+      378,
+      13
+    ],
+    "text": "Account, in this Act referred to as the",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      76,
+      153,
+      56,
+      13
+    ],
+    "text": "Account \".",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      92,
+      179,
+      362,
+      17
+    ],
+    "text": "(2) There shall be credited to the Account all such",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      76,
+      197,
+      378,
+      17
+    ],
+    "text": "sums of money as may, from time to time, be with-",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      76,
+      215,
+      378,
+      16
+    ],
+    "text": "drawn from the Consolidated Fund for the purpose of",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      76,
+      232,
+      378,
+      17
+    ],
+    "text": "being credited to the Account. and all other sums",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      76,
+      250,
+      378,
+      16
+    ],
+    "text": "received by the Central Bank for and on behalf of the",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      76,
+      267,
+      378,
+      14
+    ],
+    "text": "Government in the course of the administration of",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      75,
+      286,
+      61,
+      13
+    ],
+    "text": "this Act.",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      91,
+      312,
+      362,
+      17
+    ],
+    "text": "(8) There shall be paid out of the Account all the",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      74,
+      330,
+      234,
+      17
+    ],
+    "text": "expenses referred to in section 7.",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      91,
+      357,
+      362,
+      18
+    ],
+    "text": "( Any monies lying in the Account may be",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      75,
+      375,
+      378,
+      14
+    ],
+    "text": "transferred to the Consolidated Fund from time to",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      75,
+      393,
+      329,
+      17
+    ],
+    "text": "time as determined by the Minister of Finance.",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89,
+      428,
+      445,
+      25
+    ],
+    "text": "9 (1) The Central Bank may issue directions for pinaiow ty",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      75,
+      444,
+      444,
+      19
+    ],
+    "text": "the purpose of carrying oat or giving effect to the Centra! Bar",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      60,
+      463,
+      392,
+      18
+    ],
+    "text": "> principles and provisions of this Act to commercial",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      74,
+      481,
+      378,
+      17
+    ],
+    "text": "banks, outhorized dealers, approved acceptors or",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73,
+      499,
+      98,
+      17
+    ],
+    "text": "other persons.",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90,
+      526,
+      362,
+      18
+    ],
+    "text": "(2) In particular, but without prejudice to the",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73,
+      542,
+      378,
+      18
+    ],
+    "text": "geuerality of the powers conferred by sub-section (1),",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      74,
+      558,
+      378,
+      14
+    ],
+    "text": "the Central Bank may issue directions to commercial",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73,
+      559,
+      379,
+      37
+    ],
+    "text": "banks, authorized dealers, approved aoceptors or",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73,
+      590,
+      379,
+      19
+    ],
+    "text": "other persons for or in respect of all or any of the",
+    "mean_p_confidence": 0.88
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73,
+      606,
+      151,
+      17
+    ],
+    "text": "following matters:",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89,
+      629,
+      363,
+      17
+    ],
+    "text": "{@) any matter for which directions are authorized",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      136,
+      647,
+      169,
+      17
+    ],
+    "text": "by this Act to be issued;",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90,
+      670,
+      360,
+      18
+    ],
+    "text": "(8) any matter relating to the establishment and",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      135,
+      686,
+      316,
+      31
+    ],
+    "text": "gperation of the Scheme in respect of which",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      169,
+      700,
+      282,
+      36
+    ],
+    "text": "provisions of this Act need to be",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      135,
+      719,
+      132,
+      16
+    ],
+    "text": "supplemented; and",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89,
+      742,
+      361,
+      18
+    ],
+    "text": "() any matter connected with or incidental to any",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      135,
+      758,
+      177,
+      14
+    ],
+    "text": "of the aforesaid matters.",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      88,
+      785,
+      362,
+      20
+    ],
+    "text": "() Any person who contravenes or fails to comply",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72,
+      801,
+      378,
+      18
+    ],
+    "text": "with any direction issued by the Central Bank under",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72,
+      817,
+      369,
+      16
+    ],
+    "text": "this Act shall be guiity of an offence under this Act.",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      171,
+      13,
+      348,
+      19
+    ],
+    "text": "4 Foreign Exchange Entitlement Certificates",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      294,
+      31,
+      140,
+      16
+    ],
+    "text": "Act, No. 8 of 1968",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70,
+      51,
+      485,
+      32
+    ],
+    "text": "Pocahinn for 40. (1) Any person who is guilty of an offence",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70,
+      62,
+      484,
+      37
+    ],
+    "text": "Genes. under this Act shall be liable, on conviction after",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      171,
+      94,
+      383,
+      18
+    ],
+    "text": "summary trial before a Magistrate, to imprisonment",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      172,
+      109,
+      382,
+      20
+    ],
+    "text": "of either description for a term not exceeding two",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      171,
+      126,
+      381,
+      18
+    ],
+    "text": "years or to @ fine not exceeding ten thousand rupees,",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      172,
+      142,
+      313,
+      16
+    ],
+    "text": "or to both such imprisonment and such fine,",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      189,
+      168,
+      364,
+      16
+    ],
+    "text": "(2) Any pereon who attempts to commit, or does",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      172,
+      184,
+      380,
+      17
+    ],
+    "text": "any act preparatory to the commission of, any offence",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      172,
+      200,
+      380,
+      16
+    ],
+    "text": "under this Act shall be deemed to be guilty of such",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      43,
+      216,
+      179,
+      13
+    ],
+    "text": "' offence.",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      76,
+      237,
+      476,
+      33
+    ],
+    "text": "Otesees by 44. Where a person convicted of an offence under",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      71,
+      254,
+      373,
+      32
+    ],
+    "text": "tote of this Act is @ body of persons, then,",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      44,
+      287,
+      508,
+      17
+    ],
+    "text": ": (@) if such body is a firm, every person who at the",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      44,
+      303,
+      508,
+      14
+    ],
+    "text": ". time of the commission of the offence was a",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      235,
+      319,
+      165,
+      17
+    ],
+    "text": "partner of that firm; or",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      188,
+      343,
+      363,
+      17
+    ],
+    "text": "() if such body is @ body corporate, every person",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      44,
+      351,
+      508,
+      21
+    ],
+    "text": "| who at the time of the commission of the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      43,
+      376,
+      508,
+      16
+    ],
+    "text": ": offence was a director or other officer of such",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      43,
+      391,
+      228,
+      17
+    ],
+    "text": ": body,",
+    "mean_p_confidence": 0.35
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      172,
+      415,
+      380,
+      16
+    ],
+    "text": "shall be deemed to be guilty of that offence unless he",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      169,
+      431,
+      382,
+      29
+    ],
+    "text": "proves tut the offence was committed without his",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      187,
+      447,
+      364,
+      17
+    ],
+    "text": "owledge, or that he exercised all due diligence to",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      43,
+      463,
+      535,
+      17
+    ],
+    "text": "i prevent the commission of such offence. .",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      69,
+      486,
+      482,
+      33
+    ],
+    "text": "Ottence to 42, All offences ander this Act shall be cognizable",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      73,
+      511,
+      478,
+      17
+    ],
+    "text": "hecogeinble. offences within the meaning and for the purposes of",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      169,
+      516,
+      214,
+      25
+    ],
+    "text": "the Criminal Procedure Cove.",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      66,
+      551,
+      485,
+      32
+    ],
+    "text": "Prosecution 48, No prosecution for an offence under this Act",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      66,
+      571,
+      483,
+      28
+    ],
+    "text": "Ryser with shali be instituted except by, or with the written",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      69,
+      592,
+      427,
+      24
+    ],
+    "text": "oe sanction of, the Governor of the Central Bank.",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      87,
+      609,
+      14,
+      7
+    ],
+    "text": "ia",
+    "mean_p_confidence": 0.18
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      69,
+      618,
+      28,
+      9
+    ],
+    "text": "Sie",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      67,
+      631,
+      482,
+      18
+    ],
+    "text": "Powers, 0, 44 The powers, duties and functions of the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      66,
+      647,
+      483,
+      20
+    ],
+    "text": "goats Central Bank under this Act shall vest in the Monetary",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      66,
+      663,
+      483,
+      31
+    ],
+    "text": "nae Board, snd socordingly any such power, duty or",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      60,
+      673,
+      488,
+      32
+    ],
+    "text": "Monetary function may be exercised, performed and discharged",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      164,
+      697,
+      169,
+      18
+    ],
+    "text": "by the Monetary Board.",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      59,
+      722,
+      490,
+      32
+    ],
+    "text": "Pow 48. Any power, duty or funetion of the Central",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      62,
+      733,
+      487,
+      28
+    ],
+    "text": "Beaty pank under Eais Aet which is vested in the Monetary",
+    "mean_p_confidence": 0.54
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      57,
+      756,
+      492,
+      29
+    ],
+    "text": "Pear oy Board by section 14, may be exercised, performed or",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      61,
+      775,
+      487,
+      32
+    ],
+    "text": "Sstlows, discharged on ita bebalf by the Governor of the Central",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      160,
+      792,
+      388,
+      21
+    ],
+    "text": "Bunk, or by any officer of the Bank acting under the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      168,
+      808,
+      380,
+      32
+    ],
+    "text": "eral or special directions of the Governor of the",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      159,
+      818,
+      102,
+      26
+    ],
+    "text": "etal Bank.",
+    "mean_p_confidence": 0.28
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      106,
+      14,
+      344,
+      18
+    ],
+    "text": "Foreign Exchange Entitlement Certificates",
+    "mean_p_confidence": 0.55
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      189,
+      31,
+      141,
+      15
+    ],
+    "text": "Act, No, 28 of 1968",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      85,
+      62,
+      422,
+      16
+    ],
+    "text": "46. The Governor of the Central Bank may accept Power to",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70,
+      71,
+      445,
+      40
+    ],
+    "text": "from sny person who is reasonably Suspected of somPecnd,",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70,
+      94,
+      379,
+      19
+    ],
+    "text": "heving committed an offence under this Act, by way of",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70,
+      110,
+      379,
+      19
+    ],
+    "text": "composition for the offence which may have been",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      48,
+      126,
+      401,
+      17
+    ],
+    "text": "+. committed, either snch sum of money, not exceeding",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69,
+      143,
+      380,
+      17
+    ],
+    "text": "one hundred thousand rupees, as may be specified in",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69,
+      159,
+      379,
+      17
+    ],
+    "text": "a notice sent by post or otherwise delivered to such",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70,
+      167,
+      379,
+      40
+    ],
+    "text": "person by the Governor if the sum es Specified is",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69,
+      191,
+      380,
+      18
+    ],
+    "text": "tendered by such person before the expiry of fourteen",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69,
+      207,
+      380,
+      18
+    ],
+    "text": "days after the date of such notice, or the sum s0",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69,
+      223,
+      380,
+      18
+    ],
+    "text": "specified and such additional amount, not exceeding",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69,
+      235,
+      379,
+      37
+    ],
+    "text": "ten per sentum of the sum so specibed, as may be",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69,
+      255,
+      379,
+      17
+    ],
+    "text": "determined by the Governor, if the sum s0 specified",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69,
+      271,
+      379,
+      15
+    ],
+    "text": "and the additional amount so determined are tendered",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68,
+      287,
+      380,
+      30
+    ],
+    "text": "by such person before the expiry of twenty-eight days",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68,
+      303,
+      379,
+      16
+    ],
+    "text": "after the date of such notice. Any sum so accepted",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68,
+      319,
+      379,
+      18
+    ],
+    "text": "by the Governor shall be credited by bim to the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68,
+      337,
+      61,
+      13
+    ],
+    "text": "Account.",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      83,
+      360,
+      431,
+      40
+    ],
+    "text": "47, (1) Where in any proceedings in any court it conetuive",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68,
+      381,
+      451,
+      20
+    ],
+    "text": "hag to be determined whether a document purporting se ol,",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69,
+      399,
+      454,
+      18
+    ],
+    "text": "to bs a foreign exchange entitlement Certificate is Cerdcet.",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68,
+      404,
+      379,
+      26
+    ],
+    "text": "on imitation of such a Certificate, a certificate under",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68,
+      431,
+      379,
+      15
+    ],
+    "text": "the hand of the Governor of the Centrat Bank or, if",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      67,
+      447,
+      380,
+      18
+    ],
+    "text": "the Governor is temporarily absent from duty or",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      48,
+      463,
+      399,
+      20
+    ],
+    "text": "+ temporarily unable to perform his functions and",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      67,
+      471,
+      380,
+      40
+    ],
+    "text": "duties, a certificate under the hand of the Deputy",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      67,
+      488,
+      366,
+      40
+    ],
+    "text": "Governor for the time being acting as the chi",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      67,
+      511,
+      380,
+      15
+    ],
+    "text": "executive officer of the Central Bank, to the effect",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      67,
+      527,
+      379,
+      16
+    ],
+    "text": "that such document is an imitation of a foreign",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66,
+      543,
+      381,
+      29
+    ],
+    "text": "exchange entitlement Certifcete issued by, of for and",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66,
+      559,
+      380,
+      17
+    ],
+    "text": "on behalf of the Central Bank of Ceylon, shall be",
+    "mean_p_confidence": 0.87
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66,
+      575,
+      380,
+      18
+    ],
+    "text": "teesived in those proceedings as conclusive evidence",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66,
+      591,
+      381,
+      15
+    ],
+    "text": "of the fact that auch document is an imitation of 2",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      67,
+      608,
+      294,
+      18
+    ],
+    "text": "foreign exchange entitlement Certificate.",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      82,
+      633,
+      364,
+      18
+    ],
+    "text": "(2) The Governor or the Deputy Governor of the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      67,
+      649,
+      380,
+      15
+    ],
+    "text": "Central Bank who issues a certificate under this",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66,
+      665,
+      380,
+      15
+    ],
+    "text": "section shall not be examined or cross-examined with",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      67,
+      683,
+      181,
+      16
+    ],
+    "text": "respect to that certificate.",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      83,
+      705,
+      363,
+      21
+    ],
+    "text": "@) Every certificate issued under this section shall",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66,
+      722,
+      195,
+      18
+    ],
+    "text": "he in the following form :",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      97,
+      744,
+      349,
+      17
+    ],
+    "text": "Ty csesesssssetessareseesspeesesesserseessy Governor of the",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      81,
+      760,
+      365,
+      19
+    ],
+    "text": "Central Bank of Ceylon, */Deputy Governor for",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      82,
+      770,
+      365,
+      40
+    ],
+    "text": "the time being acting ag the chief executive officer",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      81,
+      792,
+      366,
+      17
+    ],
+    "text": "of the Central Bank of Ceylon, do bereby certify",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      46,
+      809,
+      347,
+      14
+    ],
+    "text": ".. that T have examined the document marked .........",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      81,
+      825,
+      366,
+      18
+    ],
+    "text": "which purports to be a foreign exchange entitlement",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      571,
+      858,
+      4,
+      9
+    ],
+    "text": ",",
+    "mean_p_confidence": 0.11
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      173,
+      10,
+      354,
+      17
+    ],
+    "text": "8 Foreign Eachange Entitlement Certificates",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      296,
+      26,
+      140,
+      15
+    ],
+    "text": "Act, No, 8 of 1968",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      192,
+      58,
+      247,
+      14
+    ],
+    "text": "Certificate issued for an amount Of .........cecceene",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      191,
+      74,
+      365,
+      17
+    ],
+    "text": "and bearing number .........---..- and dated ....ssssssse",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      192,
+      90,
+      365,
+      19
+    ],
+    "text": "and that such document is an imitation of a foreign",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      192,
+      106,
+      347,
+      19
+    ],
+    "text": "exchange entitlement Certificate and is not a forei",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      192,
+      106,
+      365,
+      38
+    ],
+    "text": "exchange entitlement Certificate issued by, or fr",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      193,
+      138,
+      326,
+      16
+    ],
+    "text": "and on bebalf of the Central Bank of Ceylon.",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      348,
+      171,
+      75,
+      16
+    ],
+    "text": "SigMAture: .....ssesscssseeeessens",
+    "mean_p_confidence": 0.19
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      350,
+      191,
+      39,
+      12
+    ],
+    "text": "Date: ..ecseccsscsseseseerrereesees",
+    "mean_p_confidence": 0.05
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      199,
+      211,
+      139,
+      11
+    ],
+    "text": "{(Detate faappliebio wor).",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      76,
+      234,
+      482,
+      30
+    ],
+    "text": "Special 48, Any permission, consent or authority granted",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      76,
+      238,
+      486,
+      44
+    ],
+    "text": "reaions by the Controller of Exchange under the \"pechange",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      81,
+      270,
+      477,
+      19
+    ],
+    "text": "ieee = Control Act may be made conditional on the surrender",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      81,
+      286,
+      477,
+      22
+    ],
+    "text": "grmmio of any foreign exchange entitlement Certificate or",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      81,
+      305,
+      180,
+      15
+    ],
+    "text": "Me'acbangs Certificates,",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      82,
+      321,
+      58,
+      9
+    ],
+    "text": "Saal dete",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      78,
+      328,
+      495,
+      30
+    ],
+    "text": "Tuterprotetion. 49, In this Act, unless the context otherwise",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      179,
+      349,
+      73,
+      16
+    ],
+    "text": "requires",
+    "mean_p_confidence": 0.25
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      196,
+      365,
+      363,
+      31
+    ],
+    "text": "approved accsptor means a person authorized",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      242,
+      382,
+      318,
+      18
+    ],
+    "text": "by the Controller of Exchange to accept",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      243,
+      399,
+      125,
+      18
+    ],
+    "text": "foreign exchange;",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      196,
+      419,
+      364,
+      16
+    ],
+    "text": "authorized dealer means a commercial bank for",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      242,
+      434,
+      318,
+      20
+    ],
+    "text": "the time being authorized under section 4 of",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      243,
+      453,
+      326,
+      17
+    ],
+    "text": "the Exchange Control Act; .",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      196,
+      473,
+      365,
+      18
+    ],
+    "text": "Central Bank means the Central Bank of",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      239,
+      486,
+      322,
+      40
+    ],
+    "text": "Ceylon eatablished under the Monetary Law",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      256,
+      511,
+      18,
+      13
+    ],
+    "text": "ct;",
+    "mean_p_confidence": 0.39
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      197,
+      528,
+      364,
+      17
+    ],
+    "text": "Certificate means a foreign exchange",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      243,
+      546,
+      164,
+      15
+    ],
+    "text": "entitlement Certificate;",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      197,
+      565,
+      364,
+      18
+    ],
+    "text": "\" Chief Accountant of the Central Bank includes",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      243,
+      581,
+      318,
+      21
+    ],
+    "text": "the person for the time being acting as the",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      243,
+      598,
+      281,
+      17
+    ],
+    "text": "Chief Accountant of the Central Bank;",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      196,
+      618,
+      366,
+      20
+    ],
+    "text": "eommercial bank has the same meaning as in",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      242,
+      636,
+      305,
+      19
+    ],
+    "text": "section 127 (1) of the Monetary Law Act;",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      196,
+      657,
+      366,
+      22
+    ],
+    "text": "foreign exchange entitlement Certificate \" means",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      243,
+      673,
+      320,
+      22
+    ],
+    "text": "& foreign exchange entitlement Certificate",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      244,
+      688,
+      319,
+      22
+    ],
+    "text": "issued by, or for and on behalf of the Central",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      243,
+      706,
+      320,
+      18
+    ],
+    "text": "Bank under this Act, and which suthorizes",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      243,
+      721,
+      320,
+      20
+    ],
+    "text": "the holder of such Certificate, upon, the",
+    "mean_p_confidence": 0.68
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      243,
+      737,
+      321,
+      33
+    ],
+    "text": "surrender thereof during the period of its",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      243,
+      754,
+      321,
+      22
+    ],
+    "text": "validity to any authorized dealer, to purchase",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      243,
+      768,
+      320,
+      24
+    ],
+    "text": "foreign exchange for such purposes, and",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      243,
+      785,
+      321,
+      23
+    ],
+    "text": "subject to such terms, as may be approved",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      244,
+      801,
+      320,
+      24
+    ],
+    "text": "by the Goverament from time to time and",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      243,
+      823,
+      167,
+      15
+    ],
+    "text": "notified in the Gazette;",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      97,
+      32,
+      347,
+      17
+    ],
+    "text": "Foreign Exchonge Untittement Certificates 7",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      188,
+      48,
+      139,
+      16
+    ],
+    "text": "Act, No. 28 of 1968",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      87,
+      79,
+      358,
+      15
+    ],
+    "text": "* Governor means the Governor of the Central",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      132,
+      95,
+      313,
+      16
+    ],
+    "text": "Bank, and includes the Deputy Governor for",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      132,
+      100,
+      313,
+      28
+    ],
+    "text": "the time being acting as the chief executive",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      131,
+      127,
+      142,
+      14
+    ],
+    "text": "officer of that Bank;",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      86,
+      151,
+      210,
+      14
+    ],
+    "text": "terms ? includes conditions;",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      87,
+      174,
+      357,
+      16
+    ],
+    "text": "this Act includes any directions issued",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      132,
+      191,
+      81,
+      14
+    ],
+    "text": "thereunder;",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      87,
+      213,
+      358,
+      14
+    ],
+    "text": "valid Certificate means a Certificate which is",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      133,
+      230,
+      167,
+      16
+    ],
+    "text": "for the time being valid,",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      86,
+      261,
+      427,
+      19
+    ],
+    "text": "20. The provisions of this Act shall be in addition thieaaw",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      71,
+      276,
+      444,
+      19
+    ],
+    "text": "to and not in derogation of the provisions of the prrgilove,",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      70,
+      284,
+      457,
+      36
+    ],
+    "text": "Monetary Law Act or the Exchange Control Act: i, Tora",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      86,
+      309,
+      442,
+      23
+    ],
+    "text": "Provided, however, that in the event of any conflict Gaualan.",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      70,
+      332,
+      469,
+      19
+    ],
+    "text": "or inconsistency between the provisions of this Act :",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      71,
+      347,
+      468,
+      18
+    ],
+    "text": "and the provisions of the Monetary Law Act or the :",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      71,
+      363,
+      374,
+      18
+    ],
+    "text": "Exchange Control Act, the provisions of this Act shall",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      71,
+      379,
+      375,
+      16
+    ],
+    "text": "to the extent of such conflict or inconsistency prevail",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      71,
+      395,
+      375,
+      17
+    ],
+    "text": "over the provisions of the Monetary Law Act or the",
+    "mean_p_confidence": 0.85
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      71,
+      412,
+      161,
+      16
+    ],
+    "text": "Exchange Control Act.",
+    "mean_p_confidence": 0.69
+  }
+]

@@ -1,0 +1,629 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      138,
+      24,
+      378,
+      24
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      235,
+      81,
+      240,
+      20
+    ],
+    "text": "Ath Session 1968-69 f",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      313,
+      83,
+      240,
+      112
+    ],
+    "text": "Sy ! an",
+    "mean_p_confidence": 0.4
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      292,
+      183,
+      282,
+      23
+    ],
+    "text": "Ys, . ,",
+    "mean_p_confidence": 0.07
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      286,
+      220,
+      93,
+      50
+    ],
+    "text": "es e",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      278,
+      258,
+      114,
+      21
+    ],
+    "text": "NUN",
+    "mean_p_confidence": 0.16
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      275,
+      257,
+      114,
+      40
+    ],
+    "text": "Vey",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      188,
+      346,
+      374,
+      37
+    ],
+    "text": "Prize Competitions",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      231,
+      394,
+      201,
+      38
+    ],
+    "text": "(Amendment)",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      187,
+      442,
+      287,
+      33
+    ],
+    "text": "Act, No. 51 of 1968",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      214,
+      548,
+      228,
+      14
+    ],
+    "text": "Date of Assent: December 24, 1968",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      91,
+      646,
+      364,
+      14
+    ],
+    "text": ". Printed on the Orders of Government",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      154,
+      741,
+      359,
+      12
+    ],
+    "text": "Ponea_ eh me Gomme Pras, Guns, To, be",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      153,
+      749,
+      359,
+      26
+    ],
+    "text": "purchased at the GoveRNMENT PUBLICATIONS BUREAU, COLOMEo",
+    "mean_p_confidence": 0.47
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      153,
+      762,
+      359,
+      42
+    ],
+    "text": "Fi Se Paae Goelyding Bil) Rs. 30 ca mie",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      153,
+      789,
+      358,
+      26
+    ],
+    "text": "Dimeaahtt cach fast ie cespest of the year following, fale",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      153,
+      804,
+      356,
+      31
+    ],
+    "text": "Evacuate dPeate cian nicl",
+    "mean_p_confidence": 0.08
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      153,
+      833,
+      358,
+      17
+    ],
+    "text": "Price: 20 cents. Postage : 10 cents",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      109,
+      17,
+      288,
+      15
+    ],
+    "text": "Prize Competitions (A mendmenty Act,",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      200,
+      32,
+      107,
+      16
+    ],
+    "text": "No. 51 of 1968",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      61,
+      103,
+      13
+    ],
+    "text": "1, D0. 24/6.",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      85,
+      325,
+      12
+    ],
+    "text": "AN Avr 10 AMEND THE Paige Comerimiuxs",
+    "mean_p_confidence": 0.49
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      176,
+      101,
+      155,
+      14
+    ],
+    "text": "Act, No. 87 oF 1957.",
+    "mean_p_confidence": 0.64
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      116,
+      132,
+      276,
+      18
+    ],
+    "text": "{Date of Assent: December 24, 1968]",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      164,
+      380,
+      18
+    ],
+    "text": "BE it evacted by the Queens Most Excellent Majesty",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      181,
+      389,
+      18
+    ],
+    "text": "by and with the advice and consent of the Senate and",
+    "mean_p_confidence": 0.88
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      195,
+      388,
+      19
+    ],
+    "text": "the House of Representatives of Ceylon in this present",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      213,
+      388,
+      16
+    ],
+    "text": "Parliament assembled. and by the authority of the",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58,
+      230,
+      147,
+      13
+    ],
+    "text": "sume, ag follows:",
+    "mean_p_confidence": 0.57
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      260,
+      447,
+      17
+    ],
+    "text": "4. This Avt nuy be cited as the Prize Competitions ster sive.",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      277,
+      259,
+      16
+    ],
+    "text": "(Amendment) Act, No. 51 of 1968.",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75,
+      309,
+      462,
+      18
+    ],
+    "text": "2. Section 2 of the Prize Competitions Act, No. 37 ameaumens ot",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58,
+      324,
+      479,
+      20
+    ],
+    "text": "of 1967, hereinafter referred to aa the principal se Sof,",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59,
+      341,
+      431,
+      16
+    ],
+    "text": "Act, is hereby amended as follows: ier.",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      365,
+      371,
+      17
+    ],
+    "text": "(2) by the renumbering of sub-sections (2) und (3)",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      124,
+      381,
+      323,
+      16
+    ],
+    "text": "of that section, as sub-seotions (8) and (4)",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      124,
+      398,
+      178,
+      16
+    ],
+    "text": "respectively thereof; and",
+    "mean_p_confidence": 0.71
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      421,
+      370,
+      29
+    ],
+    "text": "(2) by the insertion, immediately after sub-section",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      125,
+      438,
+      322,
+      28
+    ],
+    "text": "(2) of that section, of the following new",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      124,
+      454,
+      103,
+      13
+    ],
+    "text": "sub-section:",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      158,
+      478,
+      289,
+      16
+    ],
+    "text": "<{2) A tax at the rate of twenty per",
+    "mean_p_confidence": 0.75
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      141,
+      494,
+      305,
+      16
+    ],
+    "text": "centum of the total value of the prizes",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140,
+      510,
+      307,
+      15
+    ],
+    "text": "offered in kind, cash or services shall be",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      141,
+      525,
+      306,
+      29
+    ],
+    "text": "Paid im reapoot of every commercial prize",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      141,
+      542,
+      306,
+      29
+    ],
+    "text": "competition promoted. or conducted by",
+    "mean_p_confidence": 0.53
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      141,
+      558,
+      147,
+      16
+    ],
+    "text": "trading company. \".",
+    "mean_p_confidence": 0.48
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      590,
+      452,
+      19
+    ],
+    "text": "3. Seution 17 of the principal Act is hereby",
+    "mean_p_confidence": 0.79
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      590,
+      472,
+      50
+    ],
+    "text": "amended, in poregraph ot sub-section (1) thereof, echon it of",
+    "mean_p_confidence": 0.51
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      623,
+      466,
+      20
+    ],
+    "text": "by the substitution, for the expression sub-section Bs pisapet",
+    "mean_p_confidence": 0.62
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      639,
+      420,
+      17
+    ],
+    "text": "@), of the expression sub-section (8). -",
+    "mean_p_confidence": 0.61
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76,
+      671,
+      458,
+      17
+    ],
+    "text": "4. Section 24 of the principal Act is bereb ct ot",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      675,
+      468,
+      37
+    ],
+    "text": "amended, in the definition of prize competition Perio i",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      700,
+      462,
+      21
+    ],
+    "text": "by the substitution, for the words prizes are 'M prise",
+    "mean_p_confidence": 0.7
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      719,
+      386,
+      19
+    ],
+    "text": "awarded and for the participation in which a fee is",
+    "mean_p_confidence": 0.86
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61,
+      735,
+      386,
+      20
+    ],
+    "text": "charged, of the words prizes in kind, cash or",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      752,
+      148,
+      14
+    ],
+    "text": "services are awarded *.",
+    "mean_p_confidence": 0.45
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60,
+      849,
+      114,
+      10
+    ],
+    "text": "a noneasan ann",
+    "mean_p_confidence": 0.1
+  }
+]

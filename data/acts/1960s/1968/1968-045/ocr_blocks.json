@@ -1,0 +1,673 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      106,
+      19,
+      381,
+      30
+    ],
+    "text": "PARLIAMENT OF CEYLON",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      399,
+      47,
+      98,
+      23
+    ],
+    "text": "en",
+    "mean_p_confidence": 0.14
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      200,
+      67,
+      310,
+      21
+    ],
+    "text": "4th Session 1968-; ek",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      374,
+      88,
+      122,
+      9
+    ],
+    "text": "63 :",
+    "mean_p_confidence": 0.34
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      372,
+      98,
+      126,
+      23
+    ],
+    "text": "8 (1968-12-35 1 |",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      275,
+      121,
+      231,
+      15
+    ],
+    "text": "da ;",
+    "mean_p_confidence": 0.2
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      253,
+      153,
+      220,
+      24
+    ],
+    "text": "J, Set,",
+    "mean_p_confidence": 0.02
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      248,
+      166,
+      223,
+      33
+    ],
+    "text": "Liecesey sue",
+    "mean_p_confidence": 0.12
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      246,
+      190,
+      100,
+      14
+    ],
+    "text": "ee",
+    "mean_p_confidence": 0.05
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      241,
+      222,
+      114,
+      22
+    ],
+    "text": "Berm",
+    "mean_p_confidence": 0.01
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      235,
+      228,
+      116,
+      34
+    ],
+    "text": "Vay,",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143,
+      304,
+      299,
+      34
+    ],
+    "text": "United Nations Act,",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      178,
+      353,
+      221,
+      27
+    ],
+    "text": "No. 45 of 1968",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      176,
+      498,
+      351,
+      15
+    ],
+    "text": "Date of Assent : December 14, 1968 a",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      162,
+      614,
+      331,
+      14
+    ],
+    "text": "Printed. on the Orders of Government. .",
+    "mean_p_confidence": 0.76
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      109,
+      730,
+      364,
+      11
+    ],
+    "text": "Printed ot the Govamaeag Psa, Genon, Tobe",
+    "mean_p_confidence": 0.32
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      108,
+      740,
+      365,
+      12
+    ],
+    "text": "purchased et the Governmunr Pustacarions Burzav, COLOMBO",
+    "mean_p_confidence": 0.41
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      108,
+      755,
+      422,
+      28
+    ],
+    "text": "Annual Subscription Gnetuding Bills) Rs, 30 (Local), Rs, 40 .",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      110,
+      770,
+      361,
+      20
+    ],
+    "text": "Ce Re i a",
+    "mean_p_confidence": 0.15
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      107,
+      780,
+      361,
+      20
+    ],
+    "text": "Fontcktidun Bunzav, B, G. Box 05 Coan 1, byfore goin",
+    "mean_p_confidence": 0.24
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      107,
+      791,
+      422,
+      20
+    ],
+    "text": "DEP GE aPnceotial he sae halon eae",
+    "mean_p_confidence": 0.09
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      108,
+      802,
+      359,
+      20
+    ],
+    "text": "Bm es nie cans Se We Teale Sti",
+    "mean_p_confidence": 0.23
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      126,
+      812,
+      324,
+      11
+    ],
+    "text": "Se oe ey",
+    "mean_p_confidence": 0.21
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      100,
+      835,
+      428,
+      13
+    ],
+    "text": "Price: 20 cents Postage: 10 cents |",
+    "mean_p_confidence": 0.59
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      151,
+      13,
+      266,
+      17
+    ],
+    "text": "United Nations Act, No. 46 of 1968",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      48,
+      104,
+      14
+    ],
+    "text": "&, D.0. 12/67.",
+    "mean_p_confidence": 0.31
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      75,
+      393,
+      15
+    ],
+    "text": "AN Acr 10 ENABLE ZRVECT TO BE GIVEN TO CERTAIN",
+    "mean_p_confidence": 0.6
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      89,
+      393,
+      17
+    ],
+    "text": "PROVISIONS OF THE CHARTER OF THE Unire Nations.",
+    "mean_p_confidence": 0.67
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      144,
+      121,
+      279,
+      21
+    ],
+    "text": "[Date of Assent: December 14, 1968]",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      153,
+      393,
+      20
+    ],
+    "text": "BE it enacted by the Queens Most Excellent Majesty,",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      168,
+      394,
+      21
+    ],
+    "text": "by and with the advice and consent of the Senate and",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      178,
+      394,
+      28
+    ],
+    "text": "the House of Representatives of Ceylon in this present",
+    "mean_p_confidence": 0.74
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      201,
+      394,
+      19
+    ],
+    "text": "Parliament assembled, and by the authority of the",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85,
+      222,
+      148,
+      16
+    ],
+    "text": "same, as follows:",
+    "mean_p_confidence": 0.65
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      104,
+      250,
+      445,
+      20
+    ],
+    "text": "1. This Act may be cited as the United Nations ston rive",
+    "mean_p_confidence": 0.78
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      270,
+      143,
+      16
+    ],
+    "text": "Act, No. 46 of 1968.",
+    "mean_p_confidence": 0.73
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      104,
+      297,
+      456,
+      21
+    ],
+    "text": "2, (1) If, under Article forty-one of the Charter of Mesure.",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      312,
+      437,
+      34
+    ],
+    "text": "the United Nations signed at San, Francigoo on the ie",
+    "mean_p_confidence": 0.63
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86,
+      330,
+      394,
+      21
+    ],
+    "text": "twenty-sixth day of June, Nineteen hundred and",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88,
+      348,
+      391,
+      31
+    ],
+    "text": "Forty Bvo, (eing the Artiel which relates to measures",
+    "mean_p_confidence": 0.44
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      363,
+      392,
+      20
+    ],
+    "text": "not involving the use of armed force) the Security",
+    "mean_p_confidence": 0.83
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88,
+      379,
+      391,
+      18
+    ],
+    "text": "Couneil of the United Nations call upon the Govern-",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88,
+      396,
+      392,
+      32
+    ],
+    "text": "tient of Ceylon to apply say messures to give effect to",
+    "mean_p_confidence": 0.66
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88,
+      412,
+      392,
+      20
+    ],
+    "text": "any decision of thet Council, the Minister of Defence",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87,
+      428,
+      392,
+      19
+    ],
+    "text": "and External Affairs may by regulations make such",
+    "mean_p_confidence": 0.82
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      444,
+      391,
+      20
+    ],
+    "text": "provision as appears to him necessary or expedient for",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88,
+      450,
+      391,
+      30
+    ],
+    "text": "Enabling those meacares. to he ellctively applied,",
+    "mean_p_confidence": 0.56
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      476,
+      391,
+      32
+    ],
+    "text": "inolnding (withont prejndie to the generality of the",
+    "mean_p_confidence": 0.72
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      492,
+      390,
+      21
+    ],
+    "text": "preceding provisions of this sub-section) provision for",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88,
+      510,
+      392,
+      31
+    ],
+    "text": "tp opprebension, trial and, punishment of peroons",
+    "mean_p_confidence": 0.58
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88,
+      527,
+      247,
+      18
+    ],
+    "text": "offending against the regulations.",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      107,
+      558,
+      364,
+      20
+    ],
+    "text": "(2) Every regulation made under the precedin",
+    "mean_p_confidence": 0.69
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90,
+      561,
+      390,
+      32
+    ],
+    "text": "provisions of this section shall, forthwith after it 4",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89,
+      590,
+      391,
+      18
+    ],
+    "text": "toade, be tabled in the Senate and the House of",
+    "mean_p_confidence": 0.81
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      608,
+      117,
+      17
+    ],
+    "text": "Representatives.",
+    "mean_p_confidence": 0.46
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108,
+      638,
+      373,
+      21
+    ],
+    "text": "(8) Any expenses incurred by the Government of",
+    "mean_p_confidence": 0.77
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      655,
+      390,
+      21
+    ],
+    "text": "Ceylon in applying ony such measures as are referred",
+    "mean_p_confidence": 0.8
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92,
+      671,
+      389,
+      19
+    ],
+    "text": "to in the preceding provisions of this section shall be",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      687,
+      390,
+      19
+    ],
+    "text": "defrayed out of moneys provided by Parliament for",
+    "mean_p_confidence": 0.84
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91,
+      705,
+      89,
+      17
+    ],
+    "text": "the purpose.",
+    "mean_p_confidence": 0.52
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      111,
+      850,
+      185,
+      9
+    ],
+    "text": "18-9 8 GAN ore tm, oma,",
+    "mean_p_confidence": 0.06
+  }
+]
